@@ -1,10 +1,11 @@
+import Link from "next/link";
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 const siteName = "GridIQ";
 const siteDescription =
-  "FastF1-powered Formula 1 analytics for race pace, stints, tyre strategy, pit windows, qualifying comparisons, and driver performance.";
-const siteUrl = "http://127.0.0.1:3010";
+  "Formula 1 stats and race intelligence platform with historical seasons, records, standings, race winners, FastF1 event analytics, lap traces, tyre strategy, and driver comparisons.";
+const siteUrl = "https://gridiq-live.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -17,6 +18,10 @@ export const metadata: Metadata = {
   keywords: [
     "Formula 1 analytics",
     "F1 analytics",
+    "F1 stats",
+    "Formula 1 records",
+    "F1 seasons",
+    "F1 standings",
     "FastF1",
     "race pace",
     "F1 telemetry",
@@ -69,7 +74,22 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <header className="siteNav">
+          <Link href="/" className="siteBrand" aria-label="GridIQ home">
+            GridIQ
+          </Link>
+          <nav className="siteNavLinks" aria-label="Main navigation">
+            <Link href="/seasons">Seasons</Link>
+            <Link href="/records">Records</Link>
+            <Link href="/drivers">Drivers</Link>
+            <Link href="/compare">Compare</Link>
+            <Link href="/explore">Explorer</Link>
+            <Link href="/events/2024-monza-race">Race Analytics</Link>
+          </nav>
+        </header>
+        {children}
+      </body>
     </html>
   );
 }
