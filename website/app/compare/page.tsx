@@ -34,8 +34,19 @@ export const metadata = {
   description: "Compare historical Formula 1 driver careers from 2000 to 2026.",
 };
 
-function getDriverKey(driverId?: string, driverName?: string) {
-  return driverId || driverName || "unknown";
+function slugifyDriverName(driverName?: string) {
+  return (
+    driverName
+      ?.toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "") || "unknown"
+  );
+}
+
+function getDriverKey(_driverId?: string, driverName?: string) {
+  return slugifyDriverName(driverName);
 }
 
 function getConstructorName(row: { constructor?: unknown; constructor_id?: unknown }) {
@@ -156,6 +167,10 @@ function getDriverCareerSummaries() {
 
       entry.seasons.add(year);
 
+      if (standing.driver_code && !entry.driverCode) {
+        entry.driverCode = standing.driver_code;
+      }
+
       for (const constructorName of standing.constructors ?? []) {
         if (typeof constructorName === "string" && constructorName.length > 0) {
           entry.constructors.add(constructorName);
@@ -211,13 +226,16 @@ function driverOptionLabel(driver: DriverCareerSummary) {
 export default async function ComparePage({ searchParams }: Props) {
   const params = await searchParams;
   const drivers = getDriverCareerSummaries();
+  const normalizedDriverA = params.driverA?.toLowerCase();
+  const normalizedDriverB = params.driverB?.toLowerCase();
+
   const defaultDriverA =
-    drivers.find((driver) => driver.driverId === params.driverA)?.driverId ??
-    drivers.find((driver) => driver.driverCode?.toLowerCase() === params.driverA?.toLowerCase())?.driverId ??
+    drivers.find((driver) => driver.driverId === normalizedDriverA)?.driverId ??
+    drivers.find((driver) => driver.driverCode?.toLowerCase() === normalizedDriverA)?.driverId ??
     drivers[0]?.driverId;
   const defaultDriverB =
-    drivers.find((driver) => driver.driverId === params.driverB)?.driverId ??
-    drivers.find((driver) => driver.driverCode?.toLowerCase() === params.driverB?.toLowerCase())?.driverId ??
+    drivers.find((driver) => driver.driverId === normalizedDriverB)?.driverId ??
+    drivers.find((driver) => driver.driverCode?.toLowerCase() === normalizedDriverB)?.driverId ??
     drivers.find((driver) => driver.driverId !== defaultDriverA)?.driverId;
 
   const driverA = drivers.find((driver) => driver.driverId === defaultDriverA) ?? drivers[0];
@@ -335,7 +353,7 @@ export default async function ComparePage({ searchParams }: Props) {
                 ))}
               </select>
             </label>
-            <button className="ghostLink" type="submit">Compare</button>
+            <button className="compareButton" type="submit">Compare</button>
           </form>
         </section>
 
