@@ -27,25 +27,52 @@ type HistoricalDriverSummary = {
   bestChampionshipFinish: number | null;
 };
 
-function getDriverKey(driverId?: string, driverName?: string) {
-  return driverId || driverName || "unknown";
+function slugifyDriverName(driverName?: string) {
+  return (
+    driverName
+      ?.toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "") || "unknown"
+  );
+}
+
+function getDriverKey(_driverId?: string, driverName?: string) {
+  return slugifyDriverName(driverName);
 }
 
 function driverProfileHref(driver: HistoricalDriverSummary) {
   return `/drivers/${driver.driverCode?.toLowerCase() || driver.driverId}`;
 }
 
-function getConstructorName(row: { constructor?: unknown; constructor_id?: unknown }) {
-  if (
-    Object.prototype.hasOwnProperty.call(row, "constructor") &&
-    typeof row.constructor === "string" &&
-    row.constructor.length > 0
-  ) {
-    return row.constructor;
+function getConstructorName(row: unknown) {
+  if (!row || typeof row !== "object") {
+    return null;
   }
 
-  if (typeof row.constructor_id === "string" && row.constructor_id.length > 0) {
-    return row.constructor_id;
+  const record = row as Record<string, unknown>;
+  const directValues = [
+    record.constructor,
+    record.constructor_id,
+    record.constructorName,
+    record.constructor_name,
+    record.team,
+    record.team_name,
+  ];
+
+  for (const value of directValues) {
+    if (typeof value === "string" && value.length > 0 && value !== "function Object() { [native code] }") {
+      return value;
+    }
+  }
+
+  const nestedConstructor = record.Constructor;
+  if (nestedConstructor && typeof nestedConstructor === "object") {
+    const nestedRecord = nestedConstructor as Record<string, unknown>;
+    if (typeof nestedRecord.name === "string" && nestedRecord.name.length > 0) {
+      return nestedRecord.name;
+    }
   }
 
   return null;
@@ -153,6 +180,15 @@ function getHistoricalDriverSummaries() {
 
       entry.seasons.add(year);
 
+      if (standing.driver_code && !entry.driverCode) {
+        entry.driverCode = standing.driver_code;
+      }
+
+      const standingConstructorName = getConstructorName(standing);
+      if (standingConstructorName) {
+        entry.constructors.add(standingConstructorName);
+      }
+
       for (const constructorName of standing.constructors ?? []) {
         if (typeof constructorName === "string" && constructorName.length > 0) {
           entry.constructors.add(constructorName);
@@ -226,8 +262,8 @@ export default function DriversPage() {
             <div>
               <h2>Driver index</h2>
               <p>
-                Sorted by wins, then podiums, then points. Driver profile pages will be
-                added next.
+                Sorted by wins, then podiums, then points. Select a driver name to open
+                the full historical profile.
               </p>
             </div>
             <div className="pill">2000–2026</div>
@@ -266,7 +302,7 @@ export default function DriversPage() {
                   <td>{formatNumber(driver.starts)}</td>
                   <td>{driver.seasons.size}</td>
                   <td>{driver.bestChampionshipFinish ? `P${driver.bestChampionshipFinish}` : "—"}</td>
-                  <td className="team">{[...driver.constructors].slice(0, 4).join(" / ") || "—"}</td>
+                  <td className="team">{[...driver.constructors].filter(Boolean).slice(0, 4).join(" / ") || "Needs data refresh"}</td>
                 </tr>
               ))}
             </tbody>

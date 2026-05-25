@@ -48,7 +48,6 @@ type DriverCareerSummary = {
   }[];
 };
 
-
 function slugifyDriverName(driverName?: string) {
   return (
     driverName
@@ -64,17 +63,33 @@ function getDriverKey(_driverId?: string, driverName?: string) {
   return slugifyDriverName(driverName);
 }
 
-function getConstructorName(row: { constructor?: unknown; constructor_id?: unknown }) {
-  if (
-    Object.prototype.hasOwnProperty.call(row, "constructor") &&
-    typeof row.constructor === "string" &&
-    row.constructor.length > 0
-  ) {
-    return row.constructor;
+function getConstructorName(row: unknown) {
+  if (!row || typeof row !== "object") {
+    return "—";
   }
 
-  if (typeof row.constructor_id === "string" && row.constructor_id.length > 0) {
-    return row.constructor_id;
+  const record = row as Record<string, unknown>;
+  const directValues = [
+    record.constructor,
+    record.constructor_id,
+    record.constructorName,
+    record.constructor_name,
+    record.team,
+    record.team_name,
+  ];
+
+  for (const value of directValues) {
+    if (typeof value === "string" && value.length > 0 && value !== "function Object() { [native code] }") {
+      return value;
+    }
+  }
+
+  const nestedConstructor = record.Constructor;
+  if (nestedConstructor && typeof nestedConstructor === "object") {
+    const nestedRecord = nestedConstructor as Record<string, unknown>;
+    if (typeof nestedRecord.name === "string" && nestedRecord.name.length > 0) {
+      return nestedRecord.name;
+    }
   }
 
   return "—";
@@ -216,6 +231,12 @@ function getHistoricalDriverSummaries() {
         entry.driverCode = standing.driver_code;
       }
 
+      const standingConstructorName = getConstructorName(standing);
+      if (standingConstructorName !== "—") {
+        entry.constructors.add(standingConstructorName);
+        seasonRow.constructors.add(standingConstructorName);
+      }
+
       for (const constructorName of standing.constructors ?? []) {
         if (typeof constructorName === "string" && constructorName.length > 0) {
           entry.constructors.add(constructorName);
@@ -295,7 +316,7 @@ export default async function DriverDetailPage({ params }: Props) {
             <h1>{summary.driverName}</h1>
             <p>
               {summary.driverCode ? `${summary.driverCode} · ` : ""}
-              {firstSeason}–{lastSeason} · {[...summary.constructors].join(" / ") || "No constructor data"}
+              {firstSeason}–{lastSeason} · {[...summary.constructors].filter(Boolean).join(" / ") || "Needs data refresh"}
             </p>
           </div>
           <div className="heroActions">
@@ -333,7 +354,7 @@ export default async function DriverDetailPage({ params }: Props) {
                 {seasons.map((season) => (
                   <tr key={`${summary.driverId}-${season.year}`}>
                     <td><Link className="tableLink" href={`/seasons/${season.year}`}>{season.year}</Link></td>
-                    <td className="team">{[...season.constructors].join(" / ") || "—"}</td>
+                    <td className="team">{[...season.constructors].filter(Boolean).join(" / ") || "Needs data refresh"}</td>
                     <td>{season.wins}</td>
                     <td>{season.podiums}</td>
                     <td>{season.poles}</td>
@@ -357,7 +378,7 @@ export default async function DriverDetailPage({ params }: Props) {
               <tbody>
                 <tr><td>Driver code</td><td>{summary.driverCode ?? "—"}</td></tr>
                 <tr><td>Active seasons</td><td>{firstSeason}–{lastSeason}</td></tr>
-                <tr><td>Teams</td><td className="team">{[...summary.constructors].join(" / ") || "—"}</td></tr>
+                <tr><td>Teams</td><td className="team">{[...summary.constructors].filter(Boolean).join(" / ") || "Needs data refresh"}</td></tr>
                 <tr><td>Best championship finish</td><td>{summary.bestChampionshipFinish ? `P${summary.bestChampionshipFinish}` : "—"}</td></tr>
                 <tr><td>Total starts</td><td>{formatNumber(summary.starts)}</td></tr>
                 <tr><td>Total points</td><td>{formatNumber(summary.points)}</td></tr>
