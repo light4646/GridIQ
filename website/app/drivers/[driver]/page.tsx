@@ -48,10 +48,6 @@ type DriverCareerSummary = {
   }[];
 };
 
-export const metadata = {
-  title: "Driver profile · GridIQ",
-  description: "Historical Formula 1 driver profile from 2000 to 2026.",
-};
 
 function slugifyDriverName(driverName?: string) {
   return (
