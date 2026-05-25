@@ -32,3 +32,6 @@ data-pipeline/cache/
 
 # TypeScript
 *.tsbuildinfo
+
+# generated event pipeline outputs
+data-pipeline/output/events/
