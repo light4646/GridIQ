@@ -4,9 +4,8 @@ import { useState } from "react";
 import Link from "next/link";
 
 import { EventExplorer } from "@/components/EventExplorer";
-import { StrategyTimeline } from "@/components/StrategyTimeline";
 import { formatGap, formatLap } from "@/lib/f1-utils";
-import type { DriverLapTrace, DriverStrategy, EventOption, PitStopSummary, QualifyingRaceComparison, RacePaceRow, RaceSummary, StintSummary, TyreUsageSummary } from "@/lib/types";
+import type { DriverLapTrace, EventOption, PitStopSummary, QualifyingRaceComparison, RacePaceRow, RaceSummary, StintSummary, TyreUsageSummary } from "@/lib/types";
 
 type Props = {
   event: EventOption;
@@ -18,7 +17,7 @@ type Props = {
   pitStops: PitStopSummary[];
   tyreUsage: TyreUsageSummary[];
   qualifyingComparison: QualifyingRaceComparison[];
-  strategies: DriverStrategy[];
+  strategies?: unknown[];
 };
 
 function compoundClass(compound: string): string {
@@ -118,6 +117,7 @@ function buildRaceIntelligence({
 
 function CopyableInsightCard({ event, card }: { event: EventOption; card: IntelligenceCard }) {
   const [copied, setCopied] = useState(false);
+
   const copyText = `GridIQ insight — ${event.shortLabel} — ${card.label}: ${card.title}. ${card.body}`;
 
   async function copyInsight() {
@@ -132,19 +132,22 @@ function CopyableInsightCard({ event, card }: { event: EventOption; card: Intell
 
   return (
     <article className="insightCard">
-      <div className="insightCardTop">
-        <div className="label">{card.label}</div>
-        <button className="copyInsightButton" type="button" onClick={copyInsight}>
-          {copied ? "Copied" : "Copy insight"}
-        </button>
-      </div>
+      <div className="label">{card.label}</div>
       <h3>{card.title}</h3>
       <p>{card.body}</p>
+      <button
+        type="button"
+        className={copied ? "copyInsight copied" : "copyInsight"}
+        onClick={copyInsight}
+        aria-label={`Copy ${card.label} insight`}
+      >
+        {copied ? "Copied" : "Copy insight"}
+      </button>
     </article>
   );
 }
 
-export function RacePaceDashboard({ event, pace, summary, events, stints, lapTraces, pitStops, tyreUsage, qualifyingComparison, strategies }: Props) {
+export function RacePaceDashboard({ event, pace, summary, events, stints, lapTraces, pitStops, tyreUsage, qualifyingComparison }: Props) {
   const fastestAverage = pace[0]?.average_lap_seconds ?? 0;
   const slowestAverage = pace.at(-1)?.average_lap_seconds ?? fastestAverage;
   const spread = Math.max(slowestAverage - fastestAverage, 0.001);
@@ -195,8 +198,6 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
 
         <EventExplorer activeEvent={event} events={events} lapTraces={lapTraces} />
 
-        <StrategyTimeline strategies={strategies} />
-
         <section className="panel widePanel intelligencePanel">
           <div className="panelHeader">
             <div>
@@ -207,7 +208,11 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
           </div>
           <div className="insightGrid">
             {intelligenceCards.map((card) => (
-              <CopyableInsightCard card={card} event={event} key={`${event.id}-${card.label}-${card.title}`} />
+              <CopyableInsightCard
+                card={card}
+                event={event}
+                key={`${event.id}-${card.label}-${card.title}`}
+              />
             ))}
           </div>
         </section>
