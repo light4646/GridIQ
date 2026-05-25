@@ -1,0 +1,40 @@
+{
+  "year": 2012,
+  "generated_at": "2026-05-25T19:07:59.538395+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 20,
+  "race_results": 478,
+  "qualifying_results": 476,
+  "drivers": 25,
+  "constructors": 12,
+  "driver_champion": {
+    "year": 2012,
+    "position": 1,
+    "position_text": "1",
+    "points": 281.0,
+    "wins": 5,
+    "driver_id": "vettel",
+    "driver_code": "VET",
+    "driver_number": "5",
+    "driver_name": "Sebastian Vettel",
+    "driver_nationality": "German",
+    "constructors": [
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "red_bull"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2012,
+    "position": 1,
+    "position_text": "1",
+    "points": 460.0,
+    "wins": 7,
+    "constructor_id": "red_bull",
+    "constructor": "Red Bull",
+    "constructor_nationality": "Austrian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Red_Bull_Racing"
+  }
+}

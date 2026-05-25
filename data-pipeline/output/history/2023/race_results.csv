@@ -1,0 +1,441 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-sakhir,Bahrain Grand Prix,202.452,kph,44,6,1:36.236,1,57,5636736,25.0,1,1,1,Finished,1:33:56.736,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-sakhir,Bahrain Grand Prix,202.225,kph,37,7,1:36.344,2,57,5648723,18.0,2,2,1,Finished,+11.987,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-sakhir,Bahrain Grand Prix,202.62,kph,36,5,1:36.156,5,57,5675373,15.0,3,3,1,Finished,+38.637,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-sakhir,Bahrain Grand Prix,200.588,kph,37,14,1:37.130,4,57,5684788,12.0,4,4,1,Finished,+48.052,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-sakhir,Bahrain Grand Prix,201.802,kph,36,10,1:36.546,7,57,5687713,10.0,5,5,1,Finished,+50.977,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-sakhir,Bahrain Grand Prix,201.802,kph,32,9,1:36.546,8,57,5691238,8.0,6,6,1,Finished,+54.502,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-sakhir,Bahrain Grand Prix,200.401,kph,33,17,1:37.221,6,57,5692609,6.0,7,7,1,Finished,+55.873,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-sakhir,Bahrain Grand Prix,200.075,kph,31,18,1:37.379,12,57,5709383,4.0,8,8,1,Finished,+1:12.647,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-sakhir,Bahrain Grand Prix,204.939,kph,42,2,1:35.068,20,57,5710489,2.0,9,9,1,Finished,+1:13.753,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-sakhir,Bahrain Grand Prix,200.559,kph,43,15,1:37.144,15,57,5726510,1.0,10,10,1,Finished,+1:29.774,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-sakhir,Bahrain Grand Prix,201.612,kph,42,12,1:36.637,14,57,5727606,0.0,11,11,1,Finished,+1:30.870,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-sakhir,Bahrain Grand Prix,202.871,kph,42,4,1:36.037,16,56,5637872,0.0,12,12,1,Lapped,+1.136,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-sakhir,Bahrain Grand Prix,201.959,kph,42,8,1:36.471,17,56,5653493,0.0,13,13,1,Lapped,+16.757,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-sakhir,Bahrain Grand Prix,199.4,kph,30,19,1:37.709,19,56,5659259,0.0,14,14,1,Lapped,+22.523,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-sakhir,Bahrain Grand Prix,201.656,kph,42,11,1:36.616,10,56,5675647,0.0,15,15,1,Lapped,+38.911,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-sakhir,Bahrain Grand Prix,207.276,kph,56,1,1:33.996,13,56,5676385,0.0,16,16,1,Lapped,+39.649,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-sakhir,Bahrain Grand Prix,203.327,kph,51,3,1:35.822,11,55,5643372,0.0,17,17,1,Lapped,+6.636,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-sakhir,Bahrain Grand Prix,201.278,kph,34,13,1:36.797,9,41,,0.0,18,R,1,Retired,,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-sakhir,Bahrain Grand Prix,200.506,kph,37,16,1:37.170,3,39,,0.0,19,R,1,Retired,,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-sakhir,Bahrain Grand Prix,193.494,kph,3,20,1:40.691,18,13,,0.0,20,R,1,Retired,,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-jeddah,Saudi Arabian Grand Prix,241.098,kph,38,2,1:32.188,1,50,4874894,25.0,1,1,2,Finished,1:21:14.894,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-jeddah,Saudi Arabian Grand Prix,241.838,kph,50,1,1:31.906,15,50,4880249,19.0,2,2,2,Finished,+5.355,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-jeddah,Saudi Arabian Grand Prix,240.962,kph,50,3,1:32.240,2,50,4895622,15.0,3,3,2,Finished,+20.728,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-jeddah,Saudi Arabian Grand Prix,240.459,kph,50,4,1:32.433,3,50,4900760,12.0,4,4,2,Finished,+25.866,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-jeddah,Saudi Arabian Grand Prix,239.145,kph,47,6,1:32.941,7,50,4905959,10.0,5,5,2,Finished,+31.065,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-jeddah,Saudi Arabian Grand Prix,239.451,kph,50,5,1:32.822,4,50,4910770,8.0,6,6,2,Finished,+35.876,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-jeddah,Saudi Arabian Grand Prix,238.849,kph,47,7,1:33.056,12,50,4918056,6.0,7,7,2,Finished,+43.162,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-jeddah,Saudi Arabian Grand Prix,238.424,kph,49,8,1:33.222,6,50,4927726,4.0,8,8,2,Finished,+52.832,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-jeddah,Saudi Arabian Grand Prix,237.99,kph,50,10,1:33.392,9,50,4929641,2.0,9,9,2,Finished,+54.747,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-jeddah,Saudi Arabian Grand Prix,238.036,kph,44,9,1:33.374,13,50,4939720,1.0,10,10,2,Finished,+1:04.826,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-jeddah,Saudi Arabian Grand Prix,236.624,kph,50,14,1:33.931,16,50,4942388,0.0,11,11,2,Finished,+1:07.494,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-jeddah,Saudi Arabian Grand Prix,237.005,kph,50,12,1:33.780,10,50,4945482,0.0,12,12,2,Finished,+1:10.588,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-jeddah,Saudi Arabian Grand Prix,236.718,kph,49,13,1:33.894,11,50,4950954,0.0,13,13,2,Finished,+1:16.060,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-jeddah,Saudi Arabian Grand Prix,237.438,kph,49,11,1:33.609,18,50,4952372,0.0,14,14,2,Finished,+1:17.478,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-jeddah,Saudi Arabian Grand Prix,235.731,kph,48,16,1:34.287,8,50,4959915,0.0,15,15,2,Finished,+1:25.021,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-jeddah,Saudi Arabian Grand Prix,235.277,kph,49,18,1:34.469,20,50,4961187,0.0,16,16,2,Finished,+1:26.293,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-jeddah,Saudi Arabian Grand Prix,236.144,kph,49,15,1:34.122,19,50,4961339,0.0,17,17,2,Finished,+1:26.445,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-jeddah,Saudi Arabian Grand Prix,235.489,kph,37,17,1:34.384,14,49,4904478,0.0,18,18,2,Lapped,+29.584,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-jeddah,Saudi Arabian Grand Prix,232.574,kph,24,20,1:35.567,17,27,,0.0,19,R,2,Retired,,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-jeddah,Saudi Arabian Grand Prix,233.617,kph,7,19,1:35.140,5,16,,0.0,20,R,2,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-melbourne,Australian Grand Prix,236.498,kph,49,2,1:20.342,1,58,9158371,25.0,1,1,3,Finished,2:32:38.371,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-melbourne,Australian Grand Prix,235.703,kph,49,5,1:20.613,3,58,9158550,18.0,2,2,3,Finished,+0.179,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-melbourne,Australian Grand Prix,236.105,kph,53,4,1:20.476,4,58,9159140,15.0,3,3,3,Finished,+0.769,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-melbourne,Australian Grand Prix,234.769,kph,50,6,1:20.934,6,58,9161453,12.0,4,4,3,Finished,+3.082,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-melbourne,Australian Grand Prix,236.814,kph,53,1,1:20.235,20,58,9161691,11.0,5,5,3,Finished,+3.320,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-melbourne,Australian Grand Prix,234.077,kph,46,9,1:21.173,13,58,9162072,8.0,6,6,3,Finished,+3.701,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-melbourne,Australian Grand Prix,234.219,kph,46,8,1:21.124,10,58,9163310,6.0,7,7,3,Finished,+4.939,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-melbourne,Australian Grand Prix,233.611,kph,53,12,1:21.335,16,58,9163753,4.0,8,8,3,Finished,+5.382,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-melbourne,Australian Grand Prix,232.229,kph,48,16,1:21.819,17,58,9164084,2.0,9,9,3,Finished,+5.713,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-melbourne,Australian Grand Prix,232.314,kph,52,15,1:21.789,12,58,9164423,1.0,10,10,3,Finished,+6.052,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-melbourne,Australian Grand Prix,231.06,kph,46,17,1:22.233,19,58,9164884,0.0,11,11,3,Finished,+6.513,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-melbourne,Australian Grand Prix,236.131,kph,53,3,1:20.467,5,58,9164965,0.0,12,12,3,Finished,+6.594,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-melbourne,Australian Grand Prix,234.592,kph,47,7,1:20.995,9,56,7003407,0.0,13,13,3,Retired,,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-melbourne,Australian Grand Prix,233.991,kph,44,11,1:21.203,11,56,7004780,0.0,14,14,3,Retired,,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-melbourne,Australian Grand Prix,234.049,kph,50,10,1:21.183,15,56,7005713,0.0,15,15,3,Retired,,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-melbourne,Australian Grand Prix,233.264,kph,50,13,1:21.456,18,56,7005930,0.0,16,16,3,Retired,,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-melbourne,Australian Grand Prix,232.61,kph,52,14,1:21.685,14,52,5634610,0.0,17,17,3,Retired,,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-melbourne,Australian Grand Prix,229.811,kph,16,18,1:22.680,2,17,,0.0,18,R,3,Retired,,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-melbourne,Australian Grand Prix,227.966,kph,6,19,1:23.349,8,6,,0.0,19,R,3,Retired,,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-melbourne,Australian Grand Prix,,,,,,7,0,,0.0,20,R,3,Retired,,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-baku,Azerbaijan Grand Prix,206.625,kph,50,5,1:44.589,3,51,5562436,25.0,1,1,4,Finished,1:32:42.436,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-baku,Azerbaijan Grand Prix,207.333,kph,51,2,1:44.232,2,51,5564573,18.0,2,2,4,Finished,+2.137,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-baku,Azerbaijan Grand Prix,206.681,kph,49,4,1:44.561,1,51,5583653,15.0,3,3,4,Finished,+21.217,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-baku,Azerbaijan Grand Prix,207.315,kph,49,3,1:44.241,6,51,5584460,12.0,4,4,4,Finished,+22.024,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-baku,Azerbaijan Grand Prix,205.474,kph,48,6,1:45.175,4,51,5607927,10.0,5,5,4,Finished,+45.491,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-baku,Azerbaijan Grand Prix,205.141,kph,48,7,1:45.346,5,51,5608581,8.0,6,6,4,Finished,+46.145,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-baku,Azerbaijan Grand Prix,204.595,kph,45,9,1:45.627,9,51,5614053,6.0,7,7,4,Finished,+51.617,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-baku,Azerbaijan Grand Prix,209.062,kph,51,1,1:43.370,11,51,5636676,5.0,8,8,4,Finished,+1:14.240,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-baku,Azerbaijan Grand Prix,204.38,kph,49,12,1:45.738,7,51,5642812,2.0,9,9,4,Finished,+1:20.376,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-baku,Azerbaijan Grand Prix,204.401,kph,51,11,1:45.727,8,51,5646298,1.0,10,10,4,Finished,+1:23.862,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-baku,Azerbaijan Grand Prix,204.587,kph,51,10,1:45.631,10,51,5648937,0.0,11,11,4,Finished,+1:26.501,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-baku,Azerbaijan Grand Prix,204.019,kph,51,15,1:45.925,12,51,5651059,0.0,12,12,4,Finished,+1:28.623,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-baku,Azerbaijan Grand Prix,204.164,kph,51,13,1:45.850,16,51,5652165,0.0,13,13,4,Finished,+1:29.729,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-baku,Azerbaijan Grand Prix,204.764,kph,47,8,1:45.540,17,51,5653768,0.0,14,14,4,Finished,+1:31.332,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-baku,Azerbaijan Grand Prix,204.052,kph,49,14,1:45.908,19,51,5660230,0.0,15,15,4,Finished,+1:37.794,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-baku,Azerbaijan Grand Prix,202.916,kph,49,17,1:46.501,14,51,5663379,0.0,16,16,4,Finished,+1:40.943,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-baku,Azerbaijan Grand Prix,202.479,kph,34,18,1:46.731,20,50,5572373,0.0,17,17,4,Lapped,+9.937,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-baku,Azerbaijan Grand Prix,203.292,kph,36,16,1:46.304,13,50,5581534,0.0,18,18,4,Lapped,+19.098,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-baku,Azerbaijan Grand Prix,200.931,kph,31,19,1:47.553,15,36,,0.0,19,R,4,Retired,,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-baku,Azerbaijan Grand Prix,198.663,kph,4,20,1:48.781,18,9,,0.0,20,R,4,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-miami,Miami Grand Prix,217.184,kph,56,1,1:29.708,9,57,5258241,26.0,1,1,5,Finished,1:27:38.241,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-miami,Miami Grand Prix,215.141,kph,57,3,1:30.560,1,57,5263625,18.0,2,2,5,Finished,+5.384,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-miami,Miami Grand Prix,215.238,kph,57,2,1:30.519,2,57,5284546,15.0,3,3,5,Finished,+26.305,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-miami,Miami Grand Prix,214.065,kph,57,7,1:31.015,6,57,5291470,12.0,4,4,5,Finished,+33.229,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-miami,Miami Grand Prix,213.252,kph,55,10,1:31.362,3,57,5300752,10.0,5,5,5,Finished,+42.511,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-miami,Miami Grand Prix,214.882,kph,57,4,1:30.669,13,57,5309490,8.0,6,6,5,Finished,+51.249,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-miami,Miami Grand Prix,213.084,kph,57,11,1:31.434,7,57,5311229,6.0,7,7,5,Finished,+52.988,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-miami,Miami Grand Prix,211.84,kph,55,17,1:31.971,5,57,5313911,4.0,8,8,5,Finished,+55.670,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-miami,Miami Grand Prix,213.765,kph,56,9,1:31.143,8,57,5316364,2.0,9,9,5,Finished,+58.123,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-miami,Miami Grand Prix,212.487,kph,53,13,1:31.691,4,57,5321186,1.0,10,10,5,Finished,+1:02.945,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-miami,Miami Grand Prix,214.011,kph,56,8,1:31.038,17,57,5322550,0.0,11,11,5,Finished,+1:04.309,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-miami,Miami Grand Prix,214.426,kph,44,5,1:30.862,18,57,5322995,0.0,12,12,5,Finished,+1:04.754,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-miami,Miami Grand Prix,212.147,kph,56,15,1:31.838,10,57,5329878,0.0,13,13,5,Finished,+1:11.637,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-miami,Miami Grand Prix,212.115,kph,55,16,1:31.852,11,57,5331102,0.0,14,14,5,Finished,+1:12.861,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-miami,Miami Grand Prix,214.334,kph,36,6,1:30.901,12,57,5333191,0.0,15,15,5,Finished,+1:14.950,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-miami,Miami Grand Prix,212.383,kph,56,14,1:31.736,14,57,5336681,0.0,16,16,5,Finished,+1:18.440,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-miami,Miami Grand Prix,210.854,kph,47,20,1:32.401,16,57,5345958,0.0,17,17,5,Finished,+1:27.717,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-miami,Miami Grand Prix,212.786,kph,57,12,1:31.562,15,57,5347190,0.0,18,18,5,Finished,+1:28.949,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-miami,Miami Grand Prix,211.76,kph,56,18,1:32.006,19,56,5278751,0.0,19,19,5,Lapped,+20.510,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-miami,Miami Grand Prix,210.893,kph,50,19,1:32.384,20,56,5292629,0.0,20,20,5,Lapped,+34.388,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-monte-carlo,Monaco Grand Prix,156.822,kph,23,7,1:16.604,1,78,6531980,25.0,1,1,6,Finished,1:48:51.980,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-monte-carlo,Monaco Grand Prix,156.678,kph,43,9,1:16.674,2,78,6559901,18.0,2,2,6,Finished,+27.921,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-monte-carlo,Monaco Grand Prix,156.977,kph,41,6,1:16.528,3,78,6568970,15.0,3,3,6,Finished,+36.990,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-monte-carlo,Monaco Grand Prix,158.799,kph,33,1,1:15.650,5,78,6571042,13.0,4,4,6,Finished,+39.062,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-monte-carlo,Monaco Grand Prix,156.425,kph,48,10,1:16.798,8,78,6588264,10.0,5,5,6,Finished,+56.284,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-monte-carlo,Monaco Grand Prix,158.541,kph,46,2,1:15.773,6,78,6593870,8.0,6,6,6,Finished,+1:01.890,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-monte-carlo,Monaco Grand Prix,158.42,kph,49,3,1:15.831,7,78,6594342,6.0,7,7,6,Finished,+1:02.362,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-monte-carlo,Monaco Grand Prix,157.14,kph,43,5,1:16.449,4,78,6595371,4.0,8,8,6,Finished,+1:03.391,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-monte-carlo,Monaco Grand Prix,154.324,kph,46,19,1:17.844,10,77,6536041,2.0,9,9,6,Lapped,+4.061,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-monte-carlo,Monaco Grand Prix,154.983,kph,47,14,1:17.513,11,77,6545939,1.0,10,10,6,Lapped,+13.959,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-monte-carlo,Monaco Grand Prix,154.363,kph,19,18,1:17.824,15,77,6560943,0.0,11,11,6,Lapped,+28.963,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-monte-carlo,Monaco Grand Prix,154.887,kph,43,15,1:17.561,12,77,6589297,0.0,12,12,6,Lapped,+57.317,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-monte-carlo,Monaco Grand Prix,156.165,kph,5,11,1:16.926,19,77,6603832,0.0,13,13,6,Lapped,+1:11.852,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-monte-carlo,Monaco Grand Prix,156.683,kph,24,8,1:16.672,13,77,6611190,0.0,14,14,6,Lapped,+1:19.210,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-monte-carlo,Monaco Grand Prix,154.649,kph,36,16,1:17.680,9,76,6539525,0.0,15,15,6,Lapped,+7.545,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-monte-carlo,Monaco Grand Prix,157.51,kph,5,4,1:16.269,20,76,6581004,0.0,16,16,6,Lapped,+49.024,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-monte-carlo,Monaco Grand Prix,156.033,kph,6,12,1:16.991,18,76,6590486,0.0,17,17,6,Lapped,+58.506,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-monte-carlo,Monaco Grand Prix,155.406,kph,32,13,1:17.302,16,76,6609963,0.0,18,18,6,Lapped,+1:17.983,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-monte-carlo,Monaco Grand Prix,153.325,kph,41,20,1:18.351,17,70,6156799,0.0,19,19,6,Retired,,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-monte-carlo,Monaco Grand Prix,154.472,kph,18,17,1:17.769,14,53,,0.0,20,R,6,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-barcelona,Spanish Grand Prix,219.641,kph,61,1,1:16.330,1,66,5277940,26.0,1,1,7,Finished,1:27:57.940,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-barcelona,Spanish Grand Prix,218.649,kph,62,3,1:16.676,4,66,5302030,18.0,2,2,7,Finished,+24.090,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-barcelona,Spanish Grand Prix,215.283,kph,48,5,1:17.875,12,66,5310329,15.0,3,3,7,Finished,+32.389,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-barcelona,Spanish Grand Prix,218.678,kph,52,2,1:16.666,11,66,5313752,12.0,4,4,7,Finished,+35.812,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-barcelona,Spanish Grand Prix,213.833,kph,60,11,1:18.403,2,66,5323638,10.0,5,5,7,Finished,+45.698,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-barcelona,Spanish Grand Prix,212.967,kph,56,14,1:18.722,5,66,5341260,8.0,6,6,7,Finished,+1:03.320,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-barcelona,Spanish Grand Prix,214.709,kph,49,7,1:18.083,8,66,5342067,6.0,7,7,7,Finished,+1:04.127,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-barcelona,Spanish Grand Prix,212.362,kph,54,18,1:18.946,6,66,5347182,4.0,8,8,7,Finished,+1:09.242,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-barcelona,Spanish Grand Prix,212.883,kph,38,15,1:18.753,13,66,5349818,2.0,9,9,7,Finished,+1:11.878,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-barcelona,Spanish Grand Prix,213.91,kph,41,10,1:18.375,10,66,5351470,1.0,10,10,7,Finished,+1:13.530,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-barcelona,Spanish Grand Prix,213.959,kph,52,9,1:18.357,19,66,5352359,0.0,11,11,7,Finished,+1:14.419,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-barcelona,Spanish Grand Prix,212.475,kph,59,17,1:18.904,15,66,5353356,0.0,12,12,7,Finished,+1:15.416,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-barcelona,Spanish Grand Prix,213.083,kph,41,13,1:18.679,9,65,5282215,0.0,13,13,7,Lapped,+4.275,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-barcelona,Spanish Grand Prix,213.313,kph,41,12,1:18.594,14,65,5283267,0.0,14,14,7,Lapped,+5.327,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-barcelona,Spanish Grand Prix,212.821,kph,53,16,1:18.776,7,65,5295237,0.0,15,15,7,Lapped,+17.297,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-barcelona,Spanish Grand Prix,211.861,kph,59,19,1:19.133,18,65,5305648,0.0,16,16,7,Lapped,+27.708,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-barcelona,Spanish Grand Prix,217.216,kph,55,4,1:17.182,3,65,5308330,0.0,17,17,7,Lapped,+30.390,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-barcelona,Spanish Grand Prix,214.748,kph,44,6,1:18.069,17,65,5316020,0.0,18,18,7,Lapped,+38.080,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-barcelona,Spanish Grand Prix,214.273,kph,50,8,1:18.242,16,65,5327883,0.0,19,19,7,Lapped,+49.943,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-barcelona,Spanish Grand Prix,211.556,kph,41,20,1:19.247,20,65,5329617,0.0,20,20,7,Lapped,+51.677,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-montreal,Canadian Grand Prix,207.683,kph,68,3,1:15.594,1,70,5638348,25.0,1,1,8,Finished,1:33:58.348,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-montreal,Canadian Grand Prix,207.176,kph,62,4,1:15.779,2,70,5647918,18.0,2,2,8,Finished,+9.570,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-montreal,Canadian Grand Prix,208.228,kph,47,2,1:15.396,3,70,5652516,15.0,3,3,8,Finished,+14.168,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-montreal,Canadian Grand Prix,206.826,kph,47,5,1:15.907,10,70,5656996,12.0,4,4,8,Finished,+18.648,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-montreal,Canadian Grand Prix,206.815,kph,47,6,1:15.911,11,70,5659888,10.0,5,5,8,Finished,+21.540,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-montreal,Canadian Grand Prix,210.786,kph,70,1,1:14.481,12,70,5689376,9.0,6,6,8,Finished,+51.028,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-montreal,Canadian Grand Prix,204.11,kph,68,16,1:16.917,9,70,5699161,6.0,7,7,8,Finished,+1:00.813,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-montreal,Canadian Grand Prix,204.469,kph,63,15,1:16.782,6,70,5700040,4.0,8,8,8,Finished,+1:01.692,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-montreal,Canadian Grand Prix,205.051,kph,58,10,1:16.564,16,70,5702750,2.0,9,9,8,Finished,+1:04.402,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-montreal,Canadian Grand Prix,204.888,kph,52,12,1:16.625,14,70,5702780,1.0,10,10,8,Finished,+1:04.432,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-montreal,Canadian Grand Prix,204.96,kph,59,11,1:16.598,8,70,5703449,0.0,11,11,8,Finished,+1:05.101,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-montreal,Canadian Grand Prix,205.424,kph,67,9,1:16.425,15,70,5703597,0.0,12,12,8,Finished,+1:05.249,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-montreal,Canadian Grand Prix,205.562,kph,65,8,1:16.374,7,70,5706711,0.0,13,13,8,Finished,+1:08.363,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-montreal,Canadian Grand Prix,204.779,kph,68,14,1:16.666,19,70,5711771,0.0,14,14,8,Finished,+1:13.423,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-montreal,Canadian Grand Prix,203.278,kph,37,19,1:17.232,5,69,5655291,0.0,15,15,8,Lapped,+16.943,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-montreal,Canadian Grand Prix,203.652,kph,58,17,1:17.090,20,69,5655725,0.0,16,16,8,Lapped,+17.377,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-montreal,Canadian Grand Prix,206.231,kph,55,7,1:16.126,13,69,5708607,0.0,17,17,8,Lapped,+1:10.259,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-montreal,Canadian Grand Prix,204.805,kph,52,13,1:16.656,17,69,5713315,0.0,18,18,8,Lapped,+1:14.967,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-montreal,Canadian Grand Prix,203.634,kph,44,18,1:17.097,4,53,,0.0,19,R,8,Retired,,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-montreal,Canadian Grand Prix,200.155,kph,4,20,1:18.437,18,6,,0.0,20,R,8,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-spielberg,Austrian Grand Prix,231.97,kph,71,1,1:07.012,1,71,5133607,26.0,1,1,9,Finished,1:25:33.607,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-spielberg,Austrian Grand Prix,225.876,kph,51,5,1:08.820,2,71,5138762,18.0,2,2,9,Finished,+5.155,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-spielberg,Austrian Grand Prix,228.227,kph,52,2,1:08.111,15,71,5150795,15.0,3,3,9,Finished,+17.188,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-spielberg,Austrian Grand Prix,226.142,kph,48,4,1:08.739,4,71,5159934,12.0,4,4,9,Finished,+26.327,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-spielberg,Austrian Grand Prix,224.934,kph,54,8,1:09.108,7,71,5163924,10.0,5,5,9,Finished,+30.317,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-spielberg,Austrian Grand Prix,225.679,kph,50,6,1:08.880,3,71,5164984,8.0,6,6,9,Finished,+31.377,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-spielberg,Austrian Grand Prix,224.366,kph,49,10,1:09.283,11,71,5182010,6.0,7,7,9,Finished,+48.403,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-spielberg,Austrian Grand Prix,224.765,kph,48,9,1:09.160,5,71,5182803,4.0,8,8,9,Finished,+49.196,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-spielberg,Austrian Grand Prix,227.054,kph,57,3,1:08.463,6,71,5192650,2.0,9,9,9,Finished,+59.043,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-spielberg,Austrian Grand Prix,225.136,kph,48,7,1:09.046,9,71,5201274,1.0,10,10,9,Finished,+1:07.667,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-spielberg,Austrian Grand Prix,223.473,kph,53,11,1:09.560,10,71,5213374,0.0,11,11,9,Finished,+1:19.767,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-spielberg,Austrian Grand Prix,222.749,kph,46,14,1:09.786,17,70,5158240,0.0,12,12,9,Lapped,+24.633,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-spielberg,Austrian Grand Prix,223.309,kph,45,12,1:09.611,18,70,5164991,0.0,13,13,9,Lapped,+31.384,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-spielberg,Austrian Grand Prix,222.714,kph,50,15,1:09.797,12,70,5175747,0.0,14,14,9,Lapped,+42.140,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-spielberg,Austrian Grand Prix,222.259,kph,49,18,1:09.940,14,70,5176384,0.0,15,15,9,Lapped,+42.777,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-spielberg,Austrian Grand Prix,222.507,kph,46,17,1:09.862,13,70,5180176,0.0,16,16,9,Lapped,+46.569,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-spielberg,Austrian Grand Prix,222.539,kph,46,16,1:09.852,20,70,5183310,0.0,17,17,9,Lapped,+49.703,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-spielberg,Austrian Grand Prix,221.511,kph,37,19,1:10.176,19,70,5190260,0.0,18,18,9,Lapped,+56.653,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-spielberg,Austrian Grand Prix,223.28,kph,45,13,1:09.620,16,70,5193480,0.0,19,19,9,Lapped,+59.873,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-spielberg,Austrian Grand Prix,218.737,kph,7,20,1:11.066,8,12,,0.0,20,R,9,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-silverstone,British Grand Prix,234.922,kph,42,1,1:30.275,1,52,5116938,26.0,1,1,10,Finished,1:25:16.938,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-silverstone,British Grand Prix,234.226,kph,43,2,1:30.543,2,52,5120736,18.0,2,2,10,Finished,+3.798,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-silverstone,British Grand Prix,234.221,kph,43,3,1:30.545,7,52,5123721,15.0,3,3,10,Finished,+6.783,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-silverstone,British Grand Prix,233.435,kph,41,4,1:30.850,3,52,5124714,12.0,4,4,10,Finished,+7.776,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-silverstone,British Grand Prix,232.733,kph,41,6,1:31.124,6,52,5128144,10.0,5,5,10,Finished,+11.206,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-silverstone,British Grand Prix,233.271,kph,51,5,1:30.914,15,52,5129820,8.0,6,6,10,Finished,+12.882,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-silverstone,British Grand Prix,232.188,kph,48,9,1:31.338,9,52,5134131,6.0,7,7,10,Finished,+17.193,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-silverstone,British Grand Prix,232.353,kph,41,8,1:31.273,8,52,5134816,4.0,8,8,10,Finished,+17.878,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-silverstone,British Grand Prix,232.399,kph,48,7,1:31.255,4,52,5135627,2.0,9,9,10,Finished,+18.689,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-silverstone,British Grand Prix,232.116,kph,51,10,1:31.366,5,52,5136386,1.0,10,10,10,Finished,+19.448,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-silverstone,British Grand Prix,231.274,kph,42,13,1:31.699,14,52,5140570,0.0,11,11,10,Finished,+23.632,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-silverstone,British Grand Prix,230.888,kph,52,16,1:31.852,20,52,5142768,0.0,12,12,10,Finished,+25.830,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-silverstone,British Grand Prix,231.08,kph,52,15,1:31.776,11,52,5143601,0.0,13,13,10,Finished,+26.663,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-silverstone,British Grand Prix,231.756,kph,42,11,1:31.508,12,52,5144421,0.0,14,14,10,Finished,+27.483,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-silverstone,British Grand Prix,231.097,kph,48,14,1:31.769,17,52,5146758,0.0,15,15,10,Finished,+29.820,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-silverstone,British Grand Prix,230.307,kph,48,17,1:32.084,16,52,5148163,0.0,16,16,10,Finished,+31.225,2023
+AlphaTauri,alphatauri,Italian,DEV,de_vries,Nyck de Vries,Dutch,21,2023-silverstone,British Grand Prix,229.636,kph,48,18,1:32.353,18,52,5150066,0.0,17,17,10,Finished,+33.128,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-silverstone,British Grand Prix,231.678,kph,42,12,1:31.539,10,46,4655589,0.0,18,18,10,Retired,,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-silverstone,British Grand Prix,227.169,kph,29,19,1:33.356,19,31,,0.0,19,R,10,Retired,,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-silverstone,British Grand Prix,225.754,kph,4,20,1:33.941,13,9,,0.0,20,R,10,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-budapest,Hungarian Grand Prix,195.91,kph,53,1,1:20.504,2,70,5888634,26.0,1,1,11,Finished,1:38:08.634,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-budapest,Hungarian Grand Prix,191.919,kph,50,4,1:22.178,3,70,5922365,18.0,2,2,11,Finished,+33.731,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-budapest,Hungarian Grand Prix,191.647,kph,53,5,1:22.295,9,70,5926237,15.0,3,3,11,Finished,+37.603,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-budapest,Hungarian Grand Prix,193.277,kph,54,2,1:21.601,1,70,5927768,12.0,4,4,11,Finished,+39.134,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-budapest,Hungarian Grand Prix,190.625,kph,45,8,1:22.736,4,70,5951206,10.0,5,5,11,Finished,+1:02.572,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-budapest,Hungarian Grand Prix,191.966,kph,48,3,1:22.158,18,70,5954459,8.0,6,6,11,Finished,+1:05.825,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-budapest,Hungarian Grand Prix,191.242,kph,50,6,1:22.469,6,70,5958951,6.0,7,7,11,Finished,+1:10.317,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-budapest,Hungarian Grand Prix,190.976,kph,54,7,1:22.584,11,70,5959707,4.0,8,8,11,Finished,+1:11.073,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-budapest,Hungarian Grand Prix,190.604,kph,51,9,1:22.745,8,70,5964343,2.0,9,9,11,Finished,+1:15.709,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-budapest,Hungarian Grand Prix,189.051,kph,54,11,1:23.425,14,69,5903249,1.0,10,10,11,Lapped,+14.615,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-budapest,Hungarian Grand Prix,187.643,kph,54,18,1:24.051,16,69,5917721,0.0,11,11,11,Lapped,+29.087,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-budapest,Hungarian Grand Prix,188.54,kph,42,14,1:23.651,7,69,5918713,0.0,12,12,11,Lapped,+30.079,2023
+AlphaTauri,alphatauri,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2023-budapest,Hungarian Grand Prix,187.904,kph,67,17,1:23.934,13,69,5924891,0.0,13,13,11,Lapped,+36.257,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-budapest,Hungarian Grand Prix,188.716,kph,42,13,1:23.573,10,69,5939932,0.0,14,14,11,Lapped,+51.298,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-budapest,Hungarian Grand Prix,189.405,kph,68,10,1:23.269,17,69,5940177,0.0,15,15,11,Lapped,+51.543,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-budapest,Hungarian Grand Prix,188.333,kph,12,15,1:23.743,5,69,5949125,0.0,16,16,11,Lapped,+1:00.491,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-budapest,Hungarian Grand Prix,188.061,kph,54,16,1:23.864,19,69,5970985,0.0,17,17,11,Lapped,+1:22.351,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-budapest,Hungarian Grand Prix,188.89,kph,36,12,1:23.496,20,67,5789224,0.0,18,18,11,Retired,,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-budapest,Hungarian Grand Prix,,,,,,12,2,,0.0,19,R,11,Retired,,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-budapest,Hungarian Grand Prix,,,,,,15,1,,0.0,20,R,11,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-spa,Belgian Grand Prix,231.49,kph,32,2,1:48.922,6,44,4950450,25.0,1,1,12,Finished,1:22:30.450,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-spa,Belgian Grand Prix,228.581,kph,31,6,1:50.308,2,44,4972755,18.0,2,2,12,Finished,+22.305,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-spa,Belgian Grand Prix,228.316,kph,30,7,1:50.436,1,44,4982709,15.0,3,3,12,Finished,+32.259,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-spa,Belgian Grand Prix,234.978,kph,44,1,1:47.305,3,44,5000121,13.0,4,4,12,Finished,+49.671,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-spa,Belgian Grand Prix,227.283,kph,42,13,1:50.938,9,44,5006634,10.0,5,5,12,Finished,+56.184,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-spa,Belgian Grand Prix,227.972,kph,25,11,1:50.603,8,44,5013551,8.0,6,6,12,Finished,+1:03.101,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-spa,Belgian Grand Prix,225.769,kph,26,18,1:51.682,7,44,5024169,6.0,7,7,12,Finished,+1:13.719,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-spa,Belgian Grand Prix,228.31,kph,27,8,1:50.439,14,44,5025169,4.0,8,8,12,Finished,+1:14.719,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-spa,Belgian Grand Prix,226.55,kph,26,16,1:51.297,10,44,5029790,2.0,9,9,12,Finished,+1:19.340,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-spa,Belgian Grand Prix,226.353,kph,26,17,1:51.394,11,44,5030671,1.0,10,10,12,Finished,+1:20.221,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-spa,Belgian Grand Prix,227.339,kph,25,12,1:50.911,12,44,5033534,0.0,11,11,12,Finished,+1:23.084,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-spa,Belgian Grand Prix,228.153,kph,26,10,1:50.515,13,44,5035641,0.0,12,12,12,Finished,+1:25.191,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-spa,Belgian Grand Prix,228.83,kph,27,5,1:50.188,17,44,5045891,0.0,13,13,12,Finished,+1:35.441,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-spa,Belgian Grand Prix,229.553,kph,35,3,1:49.841,15,44,5046634,0.0,14,14,12,Finished,+1:36.184,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-spa,Belgian Grand Prix,227.171,kph,27,14,1:50.993,16,44,5052204,0.0,15,15,12,Finished,+1:41.754,2023
+AlphaTauri,alphatauri,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2023-spa,Belgian Grand Prix,227.169,kph,25,15,1:50.994,19,44,5053521,0.0,16,16,12,Finished,+1:43.071,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-spa,Belgian Grand Prix,228.213,kph,37,9,1:50.486,18,44,5054926,0.0,17,17,12,Finished,+1:44.476,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-spa,Belgian Grand Prix,229.415,kph,26,4,1:49.907,20,44,5060900,0.0,18,18,12,Finished,+1:50.450,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-spa,Belgian Grand Prix,222.864,kph,9,19,1:53.138,4,23,,0.0,19,R,12,Retired,,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-spa,Belgian Grand Prix,,,,,,5,0,,0.0,20,R,12,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-zandvoort,Dutch Grand Prix,207.505,kph,58,2,1:13.889,1,72,8644411,25.0,1,1,13,Finished,2:24:04.411,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-zandvoort,Dutch Grand Prix,207.651,kph,56,1,1:13.837,5,72,8648155,19.0,2,2,13,Finished,+3.744,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-zandvoort,Dutch Grand Prix,205.967,kph,55,7,1:14.441,12,72,8651469,15.0,3,3,13,Finished,+7.058,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-zandvoort,Dutch Grand Prix,206.549,kph,59,4,1:14.231,7,72,8654479,12.0,4,4,13,Finished,+10.068,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-zandvoort,Dutch Grand Prix,204.612,kph,54,13,1:14.934,6,72,8656952,10.0,5,5,13,Finished,+12.541,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-zandvoort,Dutch Grand Prix,207.463,kph,58,3,1:13.904,13,72,8657620,8.0,6,6,13,Finished,+13.209,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-zandvoort,Dutch Grand Prix,206.108,kph,50,6,1:14.390,2,72,8657643,6.0,7,7,13,Finished,+13.232,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-zandvoort,Dutch Grand Prix,205.892,kph,55,8,1:14.468,4,72,8659566,4.0,8,8,13,Finished,+15.155,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-zandvoort,Dutch Grand Prix,206.36,kph,54,5,1:14.299,8,72,8660991,2.0,9,9,13,Finished,+16.580,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-zandvoort,Dutch Grand Prix,205.61,kph,51,10,1:14.570,16,72,8662757,1.0,10,10,13,Finished,+18.346,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-zandvoort,Dutch Grand Prix,203.966,kph,37,15,1:15.171,11,72,8664498,0.0,11,11,13,Finished,+20.087,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-zandvoort,Dutch Grand Prix,205.881,kph,53,9,1:14.472,14,72,8665251,0.0,12,12,13,Finished,+20.840,2023
+AlphaTauri,alphatauri,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2023-zandvoort,Dutch Grand Prix,204.923,kph,49,12,1:14.820,19,72,8670558,0.0,13,13,13,Finished,+26.147,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-zandvoort,Dutch Grand Prix,205.258,kph,49,11,1:14.698,18,72,8671799,0.0,14,14,13,Finished,+27.388,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-zandvoort,Dutch Grand Prix,201.072,kph,35,18,1:16.253,17,72,8674304,0.0,15,15,13,Finished,+29.893,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-zandvoort,Dutch Grand Prix,203.107,kph,37,17,1:15.489,0,72,8675821,0.0,16,16,13,Finished,+31.410,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-zandvoort,Dutch Grand Prix,204.094,kph,54,14,1:15.124,3,72,8700165,0.0,17,17,13,Finished,+55.754,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-zandvoort,Dutch Grand Prix,203.301,kph,39,16,1:15.417,15,62,,0.0,18,R,13,Accident,,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-zandvoort,Dutch Grand Prix,198.408,kph,33,19,1:17.277,9,41,,0.0,19,R,13,Undertray,,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-zandvoort,Dutch Grand Prix,198.095,kph,13,20,1:17.399,10,14,,0.0,20,R,13,Accident,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-monza,Italian Grand Prix,244.659,kph,33,2,1:25.240,2,51,4421143,25.0,1,1,14,Finished,1:13:41.143,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-monza,Italian Grand Prix,243.853,kph,39,4,1:25.522,5,51,4427207,18.0,2,2,14,Finished,+6.064,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-monza,Italian Grand Prix,243.912,kph,30,3,1:25.501,1,51,4432336,15.0,3,3,14,Finished,+11.193,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-monza,Italian Grand Prix,243.687,kph,38,5,1:25.580,3,51,4432520,12.0,4,4,14,Finished,+11.377,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-monza,Italian Grand Prix,242.929,kph,38,9,1:25.847,4,51,4444171,10.0,5,5,14,Finished,+23.028,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-monza,Italian Grand Prix,243.682,kph,29,6,1:25.582,8,51,4463822,8.0,6,6,14,Finished,+42.679,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-monza,Italian Grand Prix,241.405,kph,33,16,1:26.389,6,51,4466249,6.0,7,7,14,Finished,+45.106,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-monza,Italian Grand Prix,242.092,kph,24,14,1:26.144,9,51,4466592,4.0,8,8,14,Finished,+45.449,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-monza,Italian Grand Prix,242.201,kph,43,13,1:26.105,10,51,4467437,2.0,9,9,14,Finished,+46.294,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-monza,Italian Grand Prix,242.531,kph,27,12,1:25.988,14,51,4485199,1.0,10,10,14,Finished,+1:04.056,2023
+AlphaTauri,alphatauri,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2023-monza,Italian Grand Prix,242.944,kph,44,8,1:25.842,12,51,4491781,0.0,11,11,14,Finished,+1:10.638,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-monza,Italian Grand Prix,245.142,kph,43,1,1:25.072,7,51,4494217,0.0,12,12,14,Finished,+1:13.074,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-monza,Italian Grand Prix,240.152,kph,16,18,1:26.840,15,51,4499700,0.0,13,13,14,Finished,+1:18.557,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-monza,Italian Grand Prix,242.545,kph,35,11,1:25.983,16,51,4501307,0.0,14,14,14,Finished,+1:20.164,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-monza,Italian Grand Prix,243.181,kph,44,7,1:25.758,17,51,4503653,0.0,15,15,14,Finished,+1:22.510,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-monza,Italian Grand Prix,240.77,kph,31,17,1:26.617,20,51,4508409,0.0,16,16,14,Finished,+1:27.266,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-monza,Italian Grand Prix,242.796,kph,50,10,1:25.894,13,50,4423236,0.0,17,17,14,Lapped,+2.093,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-monza,Italian Grand Prix,241.716,kph,42,15,1:26.278,19,50,4433767,0.0,18,18,14,Lapped,+12.624,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-monza,Italian Grand Prix,239.812,kph,33,19,1:26.963,18,39,,0.0,19,R,14,Retired,,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-monza,Italian Grand Prix,,,,,,11,0,,0.0,20,W,14,Did not start,,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-marina-bay,Singapore Grand Prix,182.089,kph,47,7,1:37.666,1,62,6397418,25.0,1,1,15,Finished,1:46:37.418,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-marina-bay,Singapore Grand Prix,181.384,kph,46,8,1:38.046,4,62,6398230,18.0,2,2,15,Finished,+0.812,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-marina-bay,Singapore Grand Prix,185.507,kph,47,1,1:35.867,5,62,6398687,16.0,3,3,15,Finished,+1.269,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-marina-bay,Singapore Grand Prix,180.961,kph,46,11,1:38.275,3,62,6418595,12.0,4,4,15,Finished,+21.177,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-marina-bay,Singapore Grand Prix,184.147,kph,61,4,1:36.575,11,62,6418859,10.0,5,5,15,Finished,+21.441,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-marina-bay,Singapore Grand Prix,180.957,kph,46,12,1:38.277,12,62,6435859,8.0,6,6,15,Finished,+38.441,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-marina-bay,Singapore Grand Prix,180.562,kph,46,13,1:38.492,17,62,6438897,6.0,7,7,15,Finished,+41.479,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-marina-bay,Singapore Grand Prix,183.136,kph,61,5,1:37.108,13,62,6456952,4.0,8,8,15,Finished,+59.534,2023
+AlphaTauri,alphatauri,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2023-marina-bay,Singapore Grand Prix,179.585,kph,47,15,1:39.028,10,62,6463336,2.0,9,9,15,Finished,+1:05.918,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-marina-bay,Singapore Grand Prix,181.271,kph,48,10,1:38.107,6,62,6469534,1.0,10,10,15,Finished,+1:12.116,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-marina-bay,Singapore Grand Prix,182.696,kph,46,6,1:37.342,14,62,6470835,0.0,11,11,15,Finished,+1:13.417,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-marina-bay,Singapore Grand Prix,179.064,kph,46,16,1:39.316,19,62,6481067,0.0,12,12,15,Finished,+1:23.649,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-marina-bay,Singapore Grand Prix,177.977,kph,50,17,1:39.923,9,62,6483619,0.0,13,13,15,Finished,+1:26.201,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-marina-bay,Singapore Grand Prix,180.491,kph,45,14,1:38.531,18,62,6484307,0.0,14,14,15,Finished,+1:26.889,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-marina-bay,Singapore Grand Prix,184.374,kph,47,3,1:36.456,7,62,6485021,0.0,15,15,15,Finished,+1:27.603,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-marina-bay,Singapore Grand Prix,184.724,kph,46,2,1:36.273,2,61,6298932,0.0,16,16,15,Retired,,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-marina-bay,Singapore Grand Prix,181.33,kph,51,9,1:38.075,16,51,,0.0,17,R,15,Retired,,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-marina-bay,Singapore Grand Prix,177.964,kph,33,18,1:39.930,8,42,,0.0,18,R,15,Retired,,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-marina-bay,Singapore Grand Prix,,,,,,15,0,,0.0,19,R,15,Retired,,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-marina-bay,Singapore Grand Prix,,,,,,0,0,,0.0,20,W,15,Withdrew,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-suzuka,Japanese Grand Prix,221.963,kph,39,1,1:34.183,1,53,5458421,26.0,1,1,16,Finished,1:30:58.421,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-suzuka,Japanese Grand Prix,219.484,kph,40,2,1:35.247,3,53,5477808,18.0,2,2,16,Finished,+19.387,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-suzuka,Japanese Grand Prix,217.021,kph,38,5,1:36.328,2,53,5494915,15.0,3,3,16,Finished,+36.494,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-suzuka,Japanese Grand Prix,216.944,kph,40,6,1:36.362,4,53,5502419,12.0,4,4,16,Finished,+43.998,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-suzuka,Japanese Grand Prix,218.648,kph,36,3,1:35.611,7,53,5507797,10.0,5,5,16,Finished,+49.376,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-suzuka,Japanese Grand Prix,217.339,kph,40,4,1:36.187,6,53,5508642,8.0,6,6,16,Finished,+50.221,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-suzuka,Japanese Grand Prix,214.076,kph,27,11,1:37.653,8,53,5516080,6.0,7,7,16,Finished,+57.659,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-suzuka,Japanese Grand Prix,215.067,kph,28,8,1:37.203,10,53,5533146,4.0,8,8,16,Finished,+1:14.725,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-suzuka,Japanese Grand Prix,214.636,kph,34,10,1:37.398,14,53,5538099,2.0,9,9,16,Finished,+1:19.678,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-suzuka,Japanese Grand Prix,216.924,kph,36,7,1:36.371,12,53,5541576,1.0,10,10,16,Finished,+1:23.155,2023
+AlphaTauri,alphatauri,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2023-suzuka,Japanese Grand Prix,212.738,kph,50,15,1:38.267,11,52,5461510,0.0,11,11,16,Lapped,+3.089,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-suzuka,Japanese Grand Prix,213.824,kph,36,12,1:37.768,9,52,5462395,0.0,12,12,16,Lapped,+3.974,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-suzuka,Japanese Grand Prix,213.774,kph,45,13,1:37.791,19,52,5464761,0.0,13,13,16,Lapped,+6.340,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-suzuka,Japanese Grand Prix,214.963,kph,44,9,1:37.250,18,52,5468019,0.0,14,14,16,Lapped,+9.598,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-suzuka,Japanese Grand Prix,213.662,kph,41,14,1:37.842,15,52,5487991,0.0,15,15,16,Lapped,+29.570,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-suzuka,Japanese Grand Prix,210.769,kph,15,18,1:39.185,13,26,,0.0,16,R,16,Retired,,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-suzuka,Japanese Grand Prix,211.488,kph,7,16,1:38.848,20,22,,0.0,17,R,16,Retired,,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-suzuka,Japanese Grand Prix,211.057,kph,16,17,1:39.050,17,20,,0.0,18,R,16,Retired,,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-suzuka,Japanese Grand Prix,209.672,kph,8,19,1:39.704,5,15,,0.0,19,R,16,Retired,,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-suzuka,Japanese Grand Prix,170.3,kph,5,20,2:02.755,16,7,,0.0,20,R,16,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-lusail,Qatar Grand Prix,231.364,kph,56,1,1:24.319,1,57,5259168,26.0,1,1,17,Finished,1:27:39.168,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-lusail,Qatar Grand Prix,229.724,kph,48,3,1:24.921,6,57,5264001,18.0,2,2,17,Finished,+4.833,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-lusail,Qatar Grand Prix,229.938,kph,47,2,1:24.842,10,57,5265137,15.0,3,3,17,Finished,+5.969,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-lusail,Qatar Grand Prix,227.45,kph,35,5,1:25.770,2,57,5293287,12.0,4,4,17,Finished,+34.119,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-lusail,Qatar Grand Prix,229.532,kph,57,4,1:24.992,5,57,5298144,10.0,5,5,17,Finished,+38.976,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-lusail,Qatar Grand Prix,226.723,kph,57,6,1:26.045,4,57,5308200,8.0,6,6,17,Finished,+49.032,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-lusail,Qatar Grand Prix,225.661,kph,42,11,1:26.450,8,57,5321558,6.0,7,7,17,Finished,+1:02.390,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-lusail,Qatar Grand Prix,225.135,kph,54,13,1:26.652,9,57,5325731,4.0,8,8,17,Finished,+1:06.563,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-lusail,Qatar Grand Prix,225.993,kph,54,9,1:26.323,19,57,5335295,2.0,9,9,17,Finished,+1:16.127,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-lusail,Qatar Grand Prix,226.263,kph,50,7,1:26.220,20,57,5339349,1.0,10,10,17,Finished,+1:20.181,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-lusail,Qatar Grand Prix,225.917,kph,55,10,1:26.352,16,57,5340820,0.0,11,11,17,Finished,+1:21.652,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-lusail,Qatar Grand Prix,226.027,kph,49,8,1:26.310,7,57,5341468,0.0,12,12,17,Finished,+1:22.300,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-lusail,Qatar Grand Prix,225.098,kph,57,14,1:26.666,13,57,5350182,0.0,13,13,17,Finished,+1:31.014,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-lusail,Qatar Grand Prix,224.061,kph,46,15,1:27.067,18,56,5260414,0.0,14,14,17,Lapped,+1.246,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-lusail,Qatar Grand Prix,223.786,kph,55,17,1:27.174,11,56,5268126,0.0,15,15,17,Lapped,+8.958,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-lusail,Qatar Grand Prix,225.559,kph,45,12,1:26.489,14,56,5274253,0.0,16,16,17,Lapped,+15.085,2023
+AlphaTauri,alphatauri,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2023-lusail,Qatar Grand Prix,223.943,kph,54,16,1:27.113,17,56,5286276,0.0,17,17,17,Lapped,+27.108,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-lusail,Qatar Grand Prix,221.729,kph,31,18,1:27.983,15,40,,0.0,18,R,17,Retired,,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-lusail,Qatar Grand Prix,,,,,,3,0,,0.0,19,R,17,Retired,,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-lusail,Qatar Grand Prix,,,,,,12,0,,0.0,20,W,17,Did not start,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-austin,United States Grand Prix,198.412,kph,40,9,1:40.028,6,56,5721362,25.0,1,1,18,Finished,1:35:21.362,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-austin,United States Grand Prix,198.497,kph,39,8,1:39.985,2,56,5732092,18.0,2,2,18,Finished,+10.730,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-austin,United States Grand Prix,198.4,kph,51,10,1:40.034,4,56,5736496,15.0,3,3,18,Finished,+15.134,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-austin,United States Grand Prix,198.991,kph,40,5,1:39.737,9,56,5739822,12.0,4,4,18,Finished,+18.460,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-austin,United States Grand Prix,199.68,kph,48,3,1:39.393,5,56,5746361,10.0,5,5,18,Finished,+24.999,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-austin,United States Grand Prix,197.653,kph,47,11,1:40.412,7,56,5769358,8.0,6,6,18,Finished,+47.996,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-austin,United States Grand Prix,198.65,kph,48,6,1:39.908,20,56,5770058,6.0,7,7,18,Finished,+48.696,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-austin,United States Grand Prix,202.231,kph,56,1,1:38.139,11,56,5795747,5.0,8,8,18,Finished,+1:14.385,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-austin,United States Grand Prix,,,48,15,1:41.318,15,56,5808076,2.0,9,9,18,Finished,+1:26.714,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-austin,United States Grand Prix,196.041,kph,34,14,1:41.238,16,56,5809360,1.0,10,10,18,Finished,+1:27.998,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-austin,United States Grand Prix,196.648,kph,45,12,1:40.925,18,56,5811266,0.0,11,11,18,Finished,+1:29.904,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-austin,United States Grand Prix,194.629,kph,54,18,1:41.972,13,56,5819963,0.0,12,12,18,Finished,+1:38.601,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-austin,United States Grand Prix,194.807,kph,51,17,1:41.879,12,55,5724938,0.0,13,13,18,Lapped,+3.576,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-austin,United States Grand Prix,195.523,kph,41,16,1:41.506,17,55,5729434,0.0,14,14,18,Lapped,+8.072,2023
+AlphaTauri,alphatauri,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2023-austin,United States Grand Prix,199.734,kph,49,2,1:39.366,14,55,5730214,0.0,15,15,18,Lapped,+8.852,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-austin,United States Grand Prix,198.559,kph,47,7,1:39.954,19,49,,0.0,16,R,18,Retired,,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-austin,United States Grand Prix,193.24,kph,5,19,1:42.705,10,10,,0.0,17,R,18,Retired,,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-austin,United States Grand Prix,189.397,kph,2,20,1:44.789,8,6,,0.0,18,R,18,Retired,,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-austin,United States Grand Prix,199.301,kph,42,4,1:39.582,3,56,5723587,0.0,19,19,18,Disqualified,+2.225,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-austin,United States Grand Prix,,,38,13,1:41.025,1,56,5746024,0.0,20,20,18,Disqualified,+24.662,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-mexico-city,Mexico City Grand Prix,189.78,kph,40,2,1:21.644,3,71,7350814,25.0,1,1,19,Finished,2:02:30.814,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-mexico-city,Mexico City Grand Prix,190.503,kph,71,1,1:21.334,6,71,7364689,19.0,2,2,19,Finished,+13.875,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-mexico-city,Mexico City Grand Prix,188.194,kph,38,4,1:22.332,1,71,7373938,15.0,3,3,19,Finished,+23.124,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-mexico-city,Mexico City Grand Prix,187.722,kph,57,6,1:22.539,2,71,7377968,12.0,4,4,19,Finished,+27.154,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-mexico-city,Mexico City Grand Prix,189.085,kph,71,3,1:21.944,17,71,7384080,10.0,5,5,19,Finished,+33.266,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-mexico-city,Mexico City Grand Prix,187.175,kph,38,10,1:22.780,8,71,7391834,8.0,6,6,19,Finished,+41.020,2023
+AlphaTauri,alphatauri,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2023-mexico-city,Mexico City Grand Prix,187.404,kph,66,7,1:22.679,4,71,7392384,6.0,7,7,19,Finished,+41.570,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-mexico-city,Mexico City Grand Prix,187.22,kph,53,8,1:22.760,7,71,7393918,4.0,8,8,19,Finished,+43.104,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-mexico-city,Mexico City Grand Prix,187.191,kph,65,9,1:22.773,14,71,7399387,2.0,9,9,19,Finished,+48.573,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-mexico-city,Mexico City Grand Prix,186.733,kph,66,11,1:22.976,15,71,7413693,1.0,10,10,19,Finished,+1:02.879,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-mexico-city,Mexico City Grand Prix,186.163,kph,43,16,1:23.230,11,71,7417022,0.0,11,11,19,Finished,+1:06.208,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-mexico-city,Mexico City Grand Prix,187.808,kph,11,5,1:22.501,18,71,7429796,0.0,12,12,19,Finished,+1:18.982,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-mexico-city,Mexico City Grand Prix,186.181,kph,43,15,1:23.222,12,71,7431123,0.0,13,13,19,Finished,+1:20.309,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-mexico-city,Mexico City Grand Prix,185.412,kph,39,19,1:23.567,10,71,7432490,0.0,14,14,19,Finished,+1:21.676,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-mexico-city,Mexico City Grand Prix,186.306,kph,43,14,1:23.166,9,71,7436411,0.0,15,15,19,Finished,+1:25.597,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-mexico-city,Mexico City Grand Prix,186.672,kph,24,12,1:23.003,19,70,,0.0,16,16,19,Retired,,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-mexico-city,Mexico City Grand Prix,186.103,kph,43,17,1:23.257,0,66,,0.0,17,17,19,Collision damage,,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-mexico-city,Mexico City Grand Prix,185.492,kph,40,18,1:23.531,13,47,,0.0,18,W,19,Withdrew,,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-mexico-city,Mexico City Grand Prix,186.351,kph,25,13,1:23.146,16,31,,0.0,19,R,19,Accident,,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-mexico-city,Mexico City Grand Prix,,,,,,5,1,,0.0,20,R,19,Collision damage,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-s-o-paulo,São Paulo Grand Prix,211.277,kph,68,2,1:13.422,1,71,7008894,25.0,1,1,20,Finished,1:56:48.894,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-s-o-paulo,São Paulo Grand Prix,214.005,kph,61,1,1:12.486,6,71,7017171,19.0,2,2,20,Finished,+8.277,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-s-o-paulo,São Paulo Grand Prix,208.382,kph,54,10,1:14.442,4,71,7043049,15.0,3,3,20,Finished,+34.155,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-s-o-paulo,São Paulo Grand Prix,209.276,kph,55,5,1:14.124,9,71,7043102,12.0,4,4,20,Finished,+34.208,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-s-o-paulo,São Paulo Grand Prix,209.607,kph,67,4,1:14.007,3,71,7049739,10.0,5,5,20,Finished,+40.845,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-s-o-paulo,São Paulo Grand Prix,208.483,kph,59,9,1:14.406,7,71,7059082,8.0,6,6,20,Finished,+50.188,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-s-o-paulo,São Paulo Grand Prix,208.161,kph,48,11,1:14.521,15,71,7064987,6.0,7,7,20,Finished,+56.093,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-s-o-paulo,São Paulo Grand Prix,207.554,kph,59,12,1:14.739,5,71,7071753,4.0,8,8,20,Finished,+1:02.859,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-s-o-paulo,São Paulo Grand Prix,208.974,kph,64,7,1:14.231,16,71,7078774,2.0,9,9,20,Finished,+1:09.880,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-s-o-paulo,São Paulo Grand Prix,209.045,kph,53,6,1:14.206,14,70,7018735,1.0,10,10,20,Lapped,+9.841,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-s-o-paulo,São Paulo Grand Prix,204.816,kph,51,16,1:15.738,19,70,7035102,0.0,11,11,20,Lapped,+26.208,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-s-o-paulo,São Paulo Grand Prix,206.732,kph,66,14,1:15.036,11,70,7038854,0.0,12,12,20,Lapped,+29.960,2023
+AlphaTauri,alphatauri,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2023-s-o-paulo,São Paulo Grand Prix,210.007,kph,68,3,1:13.866,17,70,7078855,0.0,13,13,20,Lapped,+1:09.961,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-s-o-paulo,São Paulo Grand Prix,208.752,kph,66,8,1:14.310,10,69,7012530,0.0,14,14,20,Lapped,+3.636,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-s-o-paulo,São Paulo Grand Prix,207.014,kph,55,13,1:14.934,8,57,,0.0,15,R,20,Retired,,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-s-o-paulo,São Paulo Grand Prix,204.835,kph,20,15,1:15.731,18,39,,0.0,16,R,20,Retired,,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-s-o-paulo,São Paulo Grand Prix,203.489,kph,17,17,1:16.232,20,22,,0.0,17,R,20,Retired,,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-s-o-paulo,São Paulo Grand Prix,,,,,,12,0,,0.0,18,R,20,Retired,,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-s-o-paulo,São Paulo Grand Prix,,,,,,13,0,,0.0,19,R,20,Retired,,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-s-o-paulo,São Paulo Grand Prix,,,,,,2,0,,0.0,20,W,20,Did not start,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-las-vegas,Las Vegas Grand Prix,233.476,kph,44,2,1:35.614,2,50,5348289,25.0,1,1,21,Finished,1:29:08.289,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-las-vegas,Las Vegas Grand Prix,233.342,kph,50,3,1:35.669,1,50,5350359,18.0,2,2,21,Finished,+2.070,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-las-vegas,Las Vegas Grand Prix,232.685,kph,40,5,1:35.939,11,50,5350530,15.0,3,3,21,Finished,+2.241,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-las-vegas,Las Vegas Grand Prix,231.004,kph,47,10,1:36.637,16,50,5366954,12.0,4,4,21,Finished,+18.665,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-las-vegas,Las Vegas Grand Prix,231.131,kph,45,9,1:36.584,19,50,5368356,10.0,5,5,21,Finished,+20.067,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-las-vegas,Las Vegas Grand Prix,232.576,kph,47,6,1:35.984,12,50,5369123,8.0,6,6,21,Finished,+20.834,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-las-vegas,Las Vegas Grand Prix,233.227,kph,48,4,1:35.716,10,50,5370044,6.0,7,7,21,Finished,+21.755,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-las-vegas,Las Vegas Grand Prix,232.365,kph,44,7,1:36.071,3,50,5371380,4.0,8,8,21,Finished,+23.091,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-las-vegas,Las Vegas Grand Prix,231.191,kph,42,8,1:36.559,9,50,5374253,2.0,9,9,21,Finished,+25.964,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-las-vegas,Las Vegas Grand Prix,233.779,kph,47,1,1:35.490,18,50,5377785,2.0,10,10,21,Finished,+29.496,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-las-vegas,Las Vegas Grand Prix,230.346,kph,37,11,1:36.913,4,50,5382559,0.0,11,11,21,Finished,+34.270,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-las-vegas,Las Vegas Grand Prix,229.296,kph,50,13,1:37.357,5,50,5391687,0.0,12,12,21,Finished,+43.398,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-las-vegas,Las Vegas Grand Prix,229.065,kph,50,15,1:37.455,8,50,5393114,0.0,13,13,21,Finished,+44.825,2023
+AlphaTauri,alphatauri,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2023-las-vegas,Las Vegas Grand Prix,229.884,kph,50,12,1:37.108,14,50,5396814,0.0,14,14,21,Finished,+48.525,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-las-vegas,Las Vegas Grand Prix,229.253,kph,32,14,1:37.375,17,50,5398451,0.0,15,15,21,Finished,+50.162,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-las-vegas,Las Vegas Grand Prix,228.397,kph,32,19,1:37.740,6,50,5399171,0.0,16,16,21,Finished,+50.882,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-las-vegas,Las Vegas Grand Prix,228.814,kph,49,16,1:37.562,7,50,5433639,0.0,17,17,21,Finished,+1:25.350,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-las-vegas,Las Vegas Grand Prix,228.755,kph,45,18,1:37.587,20,46,5018931,0.0,18,18,21,Retired,,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-las-vegas,Las Vegas Grand Prix,228.807,kph,43,17,1:37.565,13,45,4903790,0.0,19,19,21,Retired,,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-las-vegas,Las Vegas Grand Prix,187.079,kph,2,20,1:59.327,15,2,,0.0,20,R,21,Retired,,2023
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2023-abu-dhabi,Abu Dhabi Grand Prix,218.541,kph,45,1,1:26.993,1,58,5222624,26.0,1,1,22,Finished,1:27:02.624,2023
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2023-abu-dhabi,Abu Dhabi Grand Prix,215.553,kph,44,8,1:28.199,2,58,5240617,18.0,2,2,22,Finished,+17.993,2023
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2023-abu-dhabi,Abu Dhabi Grand Prix,215.582,kph,45,7,1:28.187,4,58,5242952,15.0,3,3,22,Finished,+20.328,2023
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2023-abu-dhabi,Abu Dhabi Grand Prix,217.292,kph,44,2,1:27.493,9,58,5244077,12.0,4,4,22,Finished,+21.453,2023
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2023-abu-dhabi,Abu Dhabi Grand Prix,215.639,kph,45,6,1:28.164,5,58,5246908,10.0,5,5,22,Finished,+24.284,2023
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2023-abu-dhabi,Abu Dhabi Grand Prix,215.702,kph,38,5,1:28.138,3,58,5254111,8.0,6,6,22,Finished,+31.487,2023
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2023-abu-dhabi,Abu Dhabi Grand Prix,215.414,kph,42,9,1:28.256,7,58,5262136,6.0,7,7,22,Finished,+39.512,2023
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2023-abu-dhabi,Abu Dhabi Grand Prix,213.0,kph,55,16,1:29.256,6,58,5265712,4.0,8,8,22,Finished,+43.088,2023
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2023-abu-dhabi,Abu Dhabi Grand Prix,215.131,kph,52,10,1:28.372,11,58,5267048,2.0,9,9,22,Finished,+44.424,2023
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2023-abu-dhabi,Abu Dhabi Grand Prix,215.918,kph,44,4,1:28.050,13,58,5278256,1.0,10,10,22,Finished,+55.632,2023
+AlphaTauri,alphatauri,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2023-abu-dhabi,Abu Dhabi Grand Prix,214.648,kph,47,11,1:28.571,15,58,5278853,0.0,11,11,22,Finished,+56.229,2023
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2023-abu-dhabi,Abu Dhabi Grand Prix,211.162,kph,34,20,1:30.033,12,58,5288997,0.0,12,12,22,Finished,+1:06.373,2023
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2023-abu-dhabi,Abu Dhabi Grand Prix,213.575,kph,35,14,1:29.016,10,58,5292984,0.0,13,13,22,Finished,+1:10.360,2023
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2023-abu-dhabi,Abu Dhabi Grand Prix,216.422,kph,45,3,1:27.845,14,58,5295808,0.0,14,14,22,Finished,+1:13.184,2023
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2023-abu-dhabi,Abu Dhabi Grand Prix,213.093,kph,58,15,1:29.217,8,58,5306320,0.0,15,15,22,Finished,+1:23.696,2023
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2023-abu-dhabi,Abu Dhabi Grand Prix,214.626,kph,43,12,1:28.580,20,58,5310415,0.0,16,16,22,Finished,+1:27.791,2023
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2023-abu-dhabi,Abu Dhabi Grand Prix,214.224,kph,43,13,1:28.746,19,58,5312046,0.0,17,17,22,Finished,+1:29.422,2023
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2023-abu-dhabi,Abu Dhabi Grand Prix,212.534,kph,42,17,1:29.452,16,57,5210923,0.0,18,18,22,Retired,,2023
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2023-abu-dhabi,Abu Dhabi Grand Prix,211.562,kph,42,18,1:29.863,18,57,5235035,0.0,19,19,22,Lapped,+12.411,2023
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2023-abu-dhabi,Abu Dhabi Grand Prix,211.395,kph,46,19,1:29.934,17,57,5237500,0.0,20,20,22,Lapped,+14.876,2023

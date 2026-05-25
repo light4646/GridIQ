@@ -1,0 +1,22 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",NOR,norris,Lando Norris,British,1,423.0,1,1,7,2025
+"[""red_bull""]","[""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,421.0,2,2,8,2025
+"[""mclaren""]","[""McLaren""]",PIA,piastri,Oscar Piastri,Australian,81,410.0,3,3,7,2025
+"[""mercedes""]","[""Mercedes""]",RUS,russell,George Russell,British,63,319.0,4,4,2,2025
+"[""ferrari""]","[""Ferrari""]",LEC,leclerc,Charles Leclerc,Monegasque,16,242.0,5,5,0,2025
+"[""ferrari""]","[""Ferrari""]",HAM,hamilton,Lewis Hamilton,British,44,156.0,6,6,0,2025
+"[""mercedes""]","[""Mercedes""]",ANT,antonelli,Andrea Kimi Antonelli,Italian,12,150.0,7,7,0,2025
+"[""williams""]","[""Williams""]",ALB,albon,Alexander Albon,Thai,23,73.0,8,8,0,2025
+"[""williams""]","[""Williams""]",SAI,sainz,Carlos Sainz,Spanish,55,64.0,9,9,0,2025
+"[""aston_martin""]","[""Aston Martin""]",ALO,alonso,Fernando Alonso,Spanish,14,56.0,10,10,0,2025
+"[""sauber""]","[""Sauber""]",HUL,hulkenberg,Nico Hülkenberg,German,27,51.0,11,11,0,2025
+"[""rb""]","[""RB F1 Team""]",HAD,hadjar,Isack Hadjar,French,6,51.0,12,12,0,2025
+"[""haas""]","[""Haas F1 Team""]",BEA,bearman,Oliver Bearman,British,87,41.0,13,13,0,2025
+"[""red_bull"", ""rb""]","[""Red Bull"", ""RB F1 Team""]",LAW,lawson,Liam Lawson,New Zealander,30,38.0,14,14,0,2025
+"[""haas""]","[""Haas F1 Team""]",OCO,ocon,Esteban Ocon,French,31,38.0,15,15,0,2025
+"[""aston_martin""]","[""Aston Martin""]",STR,stroll,Lance Stroll,Canadian,18,33.0,16,16,0,2025
+"[""rb"", ""red_bull""]","[""RB F1 Team"", ""Red Bull""]",TSU,tsunoda,Yuki Tsunoda,Japanese,22,33.0,17,17,0,2025
+"[""alpine""]","[""Alpine F1 Team""]",GAS,gasly,Pierre Gasly,French,10,22.0,18,18,0,2025
+"[""sauber""]","[""Sauber""]",BOR,bortoleto,Gabriel Bortoleto,Brazilian,5,19.0,19,19,0,2025
+"[""alpine""]","[""Alpine F1 Team""]",COL,colapinto,Franco Colapinto,Argentine,43,0.0,20,20,0,2025
+"[""alpine""]","[""Alpine F1 Team""]",DOO,doohan,Jack Doohan,Australian,7,0.0,21,21,0,2025

@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,573.0,1,1,13,2020
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,319.0,2,2,2,2020
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,202.0,3,3,0,2020
+Racing Point,racing_point,British,https://en.wikipedia.org/wiki/Racing_Point_F1_Team,195.0,4,4,1,2020
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,181.0,5,5,0,2020
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,131.0,6,6,0,2020
+AlphaTauri,alphatauri,Italian,https://en.wikipedia.org/wiki/Scuderia_AlphaTauri,107.0,7,7,1,2020
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,8.0,8,8,0,2020
+Haas F1 Team,haas,American,https://en.wikipedia.org/wiki/Haas_F1_Team,3.0,9,9,0,2020
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,0.0,10,10,0,2020

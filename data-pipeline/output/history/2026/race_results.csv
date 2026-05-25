@@ -1,0 +1,111 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2026-melbourne,Australian Grand Prix,,,21,6,1:22.670,1,58,4986801,25.0,1,1,1,Finished,1:23:06.801,2026
+Mercedes,mercedes,German,ANT,antonelli,Andrea Kimi Antonelli,Italian,12,2026-melbourne,Australian Grand Prix,,,57,3,1:22.417,2,58,4989775,18.0,2,2,1,Finished,+2.974,2026
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2026-melbourne,Australian Grand Prix,,,38,5,1:22.579,4,58,5002320,15.0,3,3,1,Finished,+15.519,2026
+Ferrari,ferrari,Italian,HAM,hamilton,Lewis Hamilton,British,44,2026-melbourne,Australian Grand Prix,,,55,4,1:22.423,7,58,5002945,12.0,4,4,1,Finished,+16.144,2026
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2026-melbourne,Australian Grand Prix,,,53,2,1:22.358,6,58,5038542,10.0,5,5,1,Finished,+51.741,2026
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2026-melbourne,Australian Grand Prix,,,43,1,1:22.091,20,58,5041418,8.0,6,6,1,Finished,+54.617,2026
+Haas F1 Team,haas,American,BEA,bearman,Oliver Bearman,British,87,2026-melbourne,Australian Grand Prix,,,22,11,1:24.020,12,57,4991394,6.0,7,7,1,Lapped,+4.593,2026
+RB F1 Team,rb,Italian,LIN,arvid_lindblad,Arvid Lindblad,British,41,2026-melbourne,Australian Grand Prix,,,21,12,1:24.182,9,57,4998617,4.0,8,8,1,Lapped,+11.816,2026
+Audi,audi,German,BOR,bortoleto,Gabriel Bortoleto,Brazilian,5,2026-melbourne,Australian Grand Prix,,,45,8,1:23.257,10,57,4999576,2.0,9,9,1,Lapped,+12.775,2026
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2026-melbourne,Australian Grand Prix,,,56,15,1:24.486,14,57,5015828,1.0,10,10,1,Lapped,+29.027,2026
+Haas F1 Team,haas,American,OCO,ocon,Esteban Ocon,French,31,2026-melbourne,Australian Grand Prix,,,25,14,1:24.424,13,57,5016651,0.0,11,11,1,Lapped,+29.850,2026
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2026-melbourne,Australian Grand Prix,,,36,13,1:24.375,15,57,5042876,0.0,12,12,1,Lapped,+56.075,2026
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2026-melbourne,Australian Grand Prix,,,47,10,1:23.783,8,57,5043974,0.0,13,13,1,Lapped,+57.173,2026
+Alpine F1 Team,alpine,French,COL,colapinto,Franco Colapinto,Argentine,43,2026-melbourne,Australian Grand Prix,,,48,7,1:22.926,16,56,4995288,0.0,14,14,1,Lapped,+8.487,2026
+Williams,williams,British,SAI,sainz,Carlos Sainz,Spanish,55,2026-melbourne,Australian Grand Prix,,,52,9,1:23.590,21,56,5023687,0.0,15,15,1,Lapped,+36.886,2026
+Cadillac F1 Team,cadillac,American,PER,perez,Sergio Pérez,Mexican,11,2026-melbourne,Australian Grand Prix,,,47,19,1:26.070,18,55,4994651,0.0,16,16,1,Lapped,+7.850,2026
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2026-melbourne,Australian Grand Prix,,,36,17,1:25.410,22,43,,0.0,17,R,1,Lapped,,2026
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2026-melbourne,Australian Grand Prix,,,15,18,1:25.713,17,21,,0.0,18,R,1,Retired,,2026
+Cadillac F1 Team,cadillac,American,BOT,bottas,Valtteri Bottas,Finnish,77,2026-melbourne,Australian Grand Prix,,,8,20,1:27.364,19,15,,0.0,19,R,1,Retired,,2026
+Red Bull,red_bull,Austrian,HAD,hadjar,Isack Hadjar,French,6,2026-melbourne,Australian Grand Prix,,,9,16,1:25.239,3,10,,0.0,20,R,1,Retired,,2026
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2026-melbourne,Australian Grand Prix,,,,,,5,0,,0.0,21,W,1,Did not start,,2026
+Audi,audi,German,HUL,hulkenberg,Nico Hülkenberg,German,27,2026-melbourne,Australian Grand Prix,,,,,,11,0,,0.0,22,W,1,Did not start,,2026
+Mercedes,mercedes,German,ANT,antonelli,Andrea Kimi Antonelli,Italian,12,2026-shanghai,Chinese Grand Prix,,,52,1,1:35.275,1,56,5595607,25.0,1,1,2,Finished,1:33:15.607,2026
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2026-shanghai,Chinese Grand Prix,,,56,2,1:35.400,2,56,5601122,18.0,2,2,2,Finished,+5.515,2026
+Ferrari,ferrari,Italian,HAM,hamilton,Lewis Hamilton,British,44,2026-shanghai,Chinese Grand Prix,,,55,5,1:36.092,3,56,5620874,15.0,3,3,2,Finished,+25.267,2026
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2026-shanghai,Chinese Grand Prix,,,56,4,1:36.011,4,56,5624501,12.0,4,4,2,Finished,+28.894,2026
+Haas F1 Team,haas,American,BEA,bearman,Oliver Bearman,British,87,2026-shanghai,Chinese Grand Prix,,,56,8,1:36.429,10,56,5652875,10.0,5,5,2,Finished,+57.268,2026
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2026-shanghai,Chinese Grand Prix,,,53,9,1:36.505,7,56,5655254,8.0,6,6,2,Finished,+59.647,2026
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2026-shanghai,Chinese Grand Prix,,,56,12,1:37.096,14,56,5676195,6.0,7,7,2,Finished,+1:20.588,2026
+Red Bull,red_bull,Austrian,HAD,hadjar,Isack Hadjar,French,6,2026-shanghai,Chinese Grand Prix,,,46,13,1:37.311,9,56,5682854,4.0,8,8,2,Finished,+1:27.247,2026
+Williams,williams,British,SAI,sainz,Carlos Sainz,Spanish,55,2026-shanghai,Chinese Grand Prix,,,51,14,1:37.981,17,55,5607280,2.0,9,9,2,Lapped,+11.673,2026
+Alpine F1 Team,alpine,French,COL,colapinto,Franco Colapinto,Argentine,43,2026-shanghai,Chinese Grand Prix,,,35,10,1:36.783,12,55,5608010,1.0,10,10,2,Lapped,+12.403,2026
+Audi,audi,German,HUL,hulkenberg,Nico Hülkenberg,German,27,2026-shanghai,Chinese Grand Prix,,,38,7,1:36.180,11,55,5616716,0.0,11,11,2,Lapped,+21.109,2026
+RB F1 Team,rb,Italian,LIN,arvid_lindblad,Arvid Lindblad,British,41,2026-shanghai,Chinese Grand Prix,,,46,6,1:36.099,15,55,5618435,0.0,12,12,2,Lapped,+22.828,2026
+Cadillac F1 Team,cadillac,American,BOT,bottas,Valtteri Bottas,Finnish,77,2026-shanghai,Chinese Grand Prix,,,55,15,1:38.393,19,55,5651765,0.0,13,13,2,Lapped,+56.158,2026
+Haas F1 Team,haas,American,OCO,ocon,Esteban Ocon,French,31,2026-shanghai,Chinese Grand Prix,,,54,3,1:35.964,13,55,5661863,0.0,14,14,2,Lapped,+1:06.256,2026
+Cadillac F1 Team,cadillac,American,PER,perez,Sergio Pérez,Mexican,11,2026-shanghai,Chinese Grand Prix,,,50,16,1:38.523,21,55,5670248,0.0,15,15,2,Lapped,+1:14.641,2026
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2026-shanghai,Chinese Grand Prix,,,39,11,1:37.046,8,45,,0.0,16,R,2,Retired,,2026
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2026-shanghai,Chinese Grand Prix,,,25,17,1:39.721,18,32,,0.0,17,R,2,Retired,,2026
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2026-shanghai,Chinese Grand Prix,,,9,18,1:40.883,20,9,,0.0,18,R,2,Retired,,2026
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2026-shanghai,Chinese Grand Prix,,,,,,5,0,,0.0,19,W,2,Did not start,,2026
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2026-shanghai,Chinese Grand Prix,,,,,,6,0,,0.0,20,W,2,Did not start,,2026
+Audi,audi,German,BOR,bortoleto,Gabriel Bortoleto,Brazilian,5,2026-shanghai,Chinese Grand Prix,,,,,,16,0,,0.0,21,W,2,Did not start,,2026
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2026-shanghai,Chinese Grand Prix,,,,,,22,0,,0.0,22,W,2,Did not start,,2026
+Mercedes,mercedes,German,ANT,antonelli,Andrea Kimi Antonelli,Italian,12,2026-suzuka,Japanese Grand Prix,,,49,1,1:32.432,1,53,5283403,25.0,1,1,3,Finished,1:28:03.403,2026
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2026-suzuka,Japanese Grand Prix,,,49,5,1:32.996,3,53,5297125,18.0,2,2,3,Finished,+13.722,2026
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2026-suzuka,Japanese Grand Prix,,,53,3,1:32.634,4,53,5298673,15.0,3,3,3,Finished,+15.270,2026
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2026-suzuka,Japanese Grand Prix,,,53,2,1:32.549,2,53,5299157,12.0,4,4,3,Finished,+15.754,2026
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2026-suzuka,Japanese Grand Prix,,,52,6,1:33.208,5,53,5306882,10.0,5,5,3,Finished,+23.479,2026
+Ferrari,ferrari,Italian,HAM,hamilton,Lewis Hamilton,British,44,2026-suzuka,Japanese Grand Prix,,,48,4,1:32.777,6,53,5308440,8.0,6,6,3,Finished,+25.037,2026
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2026-suzuka,Japanese Grand Prix,,,39,9,1:33.691,7,53,5315743,6.0,7,7,3,Finished,+32.340,2026
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2026-suzuka,Japanese Grand Prix,,,41,8,1:33.552,11,53,5316080,4.0,8,8,3,Finished,+32.677,2026
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2026-suzuka,Japanese Grand Prix,,,53,13,1:34.230,14,53,5333583,2.0,9,9,3,Finished,+50.180,2026
+Haas F1 Team,haas,American,OCO,ocon,Esteban Ocon,French,31,2026-suzuka,Japanese Grand Prix,,,53,14,1:34.256,12,53,5334619,1.0,10,10,3,Finished,+51.216,2026
+Audi,audi,German,HUL,hulkenberg,Nico Hülkenberg,German,27,2026-suzuka,Japanese Grand Prix,,,47,10,1:33.732,13,53,5335683,0.0,11,11,3,Finished,+52.280,2026
+Red Bull,red_bull,Austrian,HAD,hadjar,Isack Hadjar,French,6,2026-suzuka,Japanese Grand Prix,,,53,11,1:33.837,8,53,5339557,0.0,12,12,3,Finished,+56.154,2026
+Audi,audi,German,BOR,bortoleto,Gabriel Bortoleto,Brazilian,5,2026-suzuka,Japanese Grand Prix,,,40,12,1:34.164,9,53,5342481,0.0,13,13,3,Finished,+59.078,2026
+RB F1 Team,rb,Italian,LIN,arvid_lindblad,Arvid Lindblad,British,41,2026-suzuka,Japanese Grand Prix,,,53,15,1:34.314,10,53,5343251,0.0,14,14,3,Finished,+59.848,2026
+Williams,williams,British,SAI,sainz,Carlos Sainz,Spanish,55,2026-suzuka,Japanese Grand Prix,,,38,17,1:34.514,16,53,5348411,0.0,15,15,3,Finished,+1:05.008,2026
+Alpine F1 Team,alpine,French,COL,colapinto,Franco Colapinto,Argentine,43,2026-suzuka,Japanese Grand Prix,,,41,16,1:34.512,15,53,5349176,0.0,16,16,3,Finished,+1:05.773,2026
+Cadillac F1 Team,cadillac,American,PER,perez,Sergio Pérez,Mexican,11,2026-suzuka,Japanese Grand Prix,,,53,19,1:35.637,19,53,5375856,0.0,17,17,3,Finished,+1:32.453,2026
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2026-suzuka,Japanese Grand Prix,,,47,20,1:36.221,21,52,5309951,0.0,18,18,3,Lapped,+26.548,2026
+Cadillac F1 Team,cadillac,American,BOT,bottas,Valtteri Bottas,Finnish,77,2026-suzuka,Japanese Grand Prix,,,52,21,1:36.269,20,52,5326024,0.0,19,19,3,Lapped,+42.621,2026
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2026-suzuka,Japanese Grand Prix,,,51,7,1:33.427,17,51,5288470,0.0,20,20,3,Lapped,+5.067,2026
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2026-suzuka,Japanese Grand Prix,,,29,22,1:37.217,22,30,,0.0,21,R,3,Retired,,2026
+Haas F1 Team,haas,American,BEA,bearman,Oliver Bearman,British,87,2026-suzuka,Japanese Grand Prix,,,20,18,1:35.604,18,20,,0.0,22,R,3,Retired,,2026
+Mercedes,mercedes,German,ANT,antonelli,Andrea Kimi Antonelli,Italian,12,2026-miami,Miami Grand Prix,,,34,3,1:31.968,1,57,5599273,25.0,1,1,4,Finished,1:33:19.273,2026
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2026-miami,Miami Grand Prix,,,35,1,1:31.869,4,57,5602537,18.0,2,2,4,Finished,+3.264,2026
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2026-miami,Miami Grand Prix,,,30,2,1:31.949,7,57,5626365,15.0,3,3,4,Finished,+27.092,2026
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2026-miami,Miami Grand Prix,,,53,4,1:32.446,5,57,5642324,12.0,4,4,4,Finished,+43.051,2026
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2026-miami,Miami Grand Prix,,,24,9,1:33.110,2,57,5648222,10.0,5,5,4,Finished,+48.949,2026
+Ferrari,ferrari,Italian,HAM,hamilton,Lewis Hamilton,British,44,2026-miami,Miami Grand Prix,,,29,6,1:32.676,6,57,5653026,8.0,6,6,4,Finished,+53.753,2026
+Alpine F1 Team,alpine,French,COL,colapinto,Franco Colapinto,Argentine,43,2026-miami,Miami Grand Prix,,,33,8,1:33.035,8,57,5661144,6.0,7,7,4,Finished,+1:01.871,2026
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2026-miami,Miami Grand Prix,,,44,5,1:32.515,3,57,5663518,4.0,8,8,4,Finished,+1:04.245,2026
+Williams,williams,British,SAI,sainz,Carlos Sainz,Spanish,55,2026-miami,Miami Grand Prix,,,30,7,1:33.026,13,57,5681345,2.0,9,9,4,Finished,+1:22.072,2026
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2026-miami,Miami Grand Prix,,,30,13,1:33.784,15,57,5690245,1.0,10,10,4,Finished,+1:30.972,2026
+Haas F1 Team,haas,American,BEA,bearman,Oliver Bearman,British,87,2026-miami,Miami Grand Prix,,,28,12,1:33.744,12,56,5605673,0.0,11,11,4,Lapped,+6.400,2026
+Audi,audi,German,BOR,bortoleto,Gabriel Bortoleto,Brazilian,5,2026-miami,Miami Grand Prix,,,55,10,1:33.500,21,56,5608626,0.0,12,12,4,Lapped,+9.353,2026
+Haas F1 Team,haas,American,OCO,ocon,Esteban Ocon,French,31,2026-miami,Miami Grand Prix,,,33,11,1:33.712,14,56,5613146,0.0,13,13,4,Lapped,+13.873,2026
+RB F1 Team,rb,Italian,LIN,arvid_lindblad,Arvid Lindblad,British,41,2026-miami,Miami Grand Prix,,,30,14,1:34.058,16,56,5644054,0.0,14,14,4,Lapped,+44.781,2026
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2026-miami,Miami Grand Prix,,,45,16,1:34.594,17,56,5674237,0.0,15,15,4,Lapped,+1:14.964,2026
+Cadillac F1 Team,cadillac,American,PER,perez,Sergio Pérez,Mexican,11,2026-miami,Miami Grand Prix,,,31,21,1:34.895,20,56,5676786,0.0,16,16,4,Lapped,+1:17.513,2026
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2026-miami,Miami Grand Prix,,,56,17,1:34.716,18,56,5681904,0.0,17,17,4,Lapped,+1:22.631,2026
+Cadillac F1 Team,cadillac,American,BOT,bottas,Valtteri Bottas,Finnish,77,2026-miami,Miami Grand Prix,,,16,22,1:36.080,19,55,5667528,0.0,18,18,4,Lapped,+1:08.255,2026
+Audi,audi,German,HUL,hulkenberg,Nico Hülkenberg,German,27,2026-miami,Miami Grand Prix,,,4,15,1:34.523,10,7,,0.0,19,R,4,Retired,,2026
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2026-miami,Miami Grand Prix,,,3,18,1:34.814,11,6,,0.0,20,R,4,Retired,,2026
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2026-miami,Miami Grand Prix,,,4,20,1:34.856,9,4,,0.0,21,R,4,Retired,,2026
+Red Bull,red_bull,Austrian,HAD,hadjar,Isack Hadjar,French,6,2026-miami,Miami Grand Prix,,,4,19,1:34.833,22,4,,0.0,22,R,4,Retired,,2026
+Mercedes,mercedes,German,ANT,antonelli,Andrea Kimi Antonelli,Italian,12,2026-montreal,Canadian Grand Prix,,,68,1,1:14.210,2,68,5295758,25.0,1,1,5,Finished,1:28:15.758,2026
+Ferrari,ferrari,Italian,HAM,hamilton,Lewis Hamilton,British,44,2026-montreal,Canadian Grand Prix,,,61,3,1:14.573,5,68,5306526,18.0,2,2,5,Finished,+10.768,2026
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2026-montreal,Canadian Grand Prix,,,68,2,1:14.398,6,68,5307034,15.0,3,3,5,Finished,+11.276,2026
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2026-montreal,Canadian Grand Prix,,,37,5,1:15.297,8,68,5339909,12.0,4,4,5,Finished,+44.151,2026
+Red Bull,red_bull,Austrian,HAD,hadjar,Isack Hadjar,French,6,2026-montreal,Canadian Grand Prix,,,67,4,1:14.578,7,67,5300791,10.0,5,5,5,Lapped,+5.033,2026
+Alpine F1 Team,alpine,French,COL,colapinto,Franco Colapinto,Argentine,43,2026-montreal,Canadian Grand Prix,,,67,8,1:15.462,10,67,5315268,8.0,6,6,5,Lapped,+19.510,2026
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2026-montreal,Canadian Grand Prix,,,59,10,1:15.604,12,67,5329993,6.0,7,7,5,Lapped,+34.235,2026
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2026-montreal,Canadian Grand Prix,,,67,6,1:15.390,14,67,5330330,4.0,8,8,5,Lapped,+34.572,2026
+Williams,williams,British,SAI,sainz,Carlos Sainz,Spanish,55,2026-montreal,Canadian Grand Prix,,,65,12,1:15.852,15,67,5353772,2.0,9,9,5,Lapped,+58.014,2026
+Haas F1 Team,haas,American,BEA,bearman,Oliver Bearman,British,87,2026-montreal,Canadian Grand Prix,,,64,13,1:16.002,16,67,5354807,1.0,10,10,5,Lapped,+59.049,2026
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2026-montreal,Canadian Grand Prix,,,61,7,1:15.456,4,66,5308457,0.0,11,11,5,Lapped,+12.699,2026
+Audi,audi,German,HUL,hulkenberg,Nico Hülkenberg,German,27,2026-montreal,Canadian Grand Prix,,,57,15,1:16.275,11,66,5309940,0.0,12,12,5,Lapped,+14.182,2026
+Audi,audi,German,BOR,bortoleto,Gabriel Bortoleto,Brazilian,5,2026-montreal,Canadian Grand Prix,,,50,14,1:16.221,13,66,5316914,0.0,13,13,5,Lapped,+21.156,2026
+Haas F1 Team,haas,American,OCO,ocon,Esteban Ocon,French,31,2026-montreal,Canadian Grand Prix,,,64,16,1:16.577,17,66,5364393,0.0,14,14,5,Lapped,+1:08.635,2026
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2026-montreal,Canadian Grand Prix,,,39,20,1:18.721,22,64,5314155,0.0,15,15,5,Lapped,+18.397,2026
+Cadillac F1 Team,cadillac,American,BOT,bottas,Valtteri Bottas,Finnish,77,2026-montreal,Canadian Grand Prix,,,59,19,1:17.725,21,64,5349148,0.0,16,16,5,Lapped,+53.390,2026
+Cadillac F1 Team,cadillac,American,PER,perez,Sergio Pérez,Mexican,11,2026-montreal,Canadian Grand Prix,,,37,17,1:16.915,20,39,,0.0,17,R,5,Retired,,2026
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2026-montreal,Canadian Grand Prix,,,36,11,1:15.845,3,38,,0.0,18,R,5,Retired,,2026
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2026-montreal,Canadian Grand Prix,,,16,9,1:15.477,1,29,,0.0,19,R,5,Retired,,2026
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2026-montreal,Canadian Grand Prix,,,10,21,1:19.635,19,23,,0.0,20,R,5,Retired,,2026
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2026-montreal,Canadian Grand Prix,,,11,18,1:17.221,18,11,,0.0,21,R,5,Retired,,2026
+RB F1 Team,rb,Italian,LIN,arvid_lindblad,Arvid Lindblad,British,41,2026-montreal,Canadian Grand Prix,,,,,,9,0,,0.0,22,W,5,Did not start,,2026

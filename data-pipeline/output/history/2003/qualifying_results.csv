@@ -1,0 +1,321 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,position,q1,q2,q3,round,year
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-melbourne,Australian Grand Prix,1,1:27.173,,,1,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-melbourne,Australian Grand Prix,2,1:27.418,,,1,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-melbourne,Australian Grand Prix,3,1:28.101,,,1,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-melbourne,Australian Grand Prix,4,1:28.274,,,1,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-melbourne,Australian Grand Prix,5,1:28.288,,,1,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-melbourne,Australian Grand Prix,6,1:28.420,,,1,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-melbourne,Australian Grand Prix,7,1:28.464,,,1,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-melbourne,Australian Grand Prix,8,1:28.682,,,1,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-melbourne,Australian Grand Prix,9,1:28.830,,,1,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-melbourne,Australian Grand Prix,10,1:28.928,,,1,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-melbourne,Australian Grand Prix,11,1:29.105,,,1,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-melbourne,Australian Grand Prix,12,1:29.136,,,1,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-melbourne,Australian Grand Prix,13,1:29.344,,,1,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-melbourne,Australian Grand Prix,14,1:29.367,,,1,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-melbourne,Australian Grand Prix,15,1:29.470,,,1,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-melbourne,Australian Grand Prix,16,1:29.538,,,1,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-melbourne,Australian Grand Prix,17,1:31.242,,,1,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-melbourne,Australian Grand Prix,18,1:31.723,,,1,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-melbourne,Australian Grand Prix,19,,,,1,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-melbourne,Australian Grand Prix,20,,,,1,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-kuala-lumpur,Malaysian Grand Prix,1,1:37.044,,,2,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-kuala-lumpur,Malaysian Grand Prix,2,1:37.217,,,2,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-kuala-lumpur,Malaysian Grand Prix,3,1:37.393,,,2,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-kuala-lumpur,Malaysian Grand Prix,4,1:37.454,,,2,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-kuala-lumpur,Malaysian Grand Prix,5,1:37.579,,,2,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-kuala-lumpur,Malaysian Grand Prix,6,1:37.766,,,2,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-kuala-lumpur,Malaysian Grand Prix,7,1:37.858,,,2,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-kuala-lumpur,Malaysian Grand Prix,8,1:37.974,,,2,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-kuala-lumpur,Malaysian Grand Prix,9,1:38.073,,,2,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-kuala-lumpur,Malaysian Grand Prix,10,1:38.094,,,2,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-kuala-lumpur,Malaysian Grand Prix,11,1:38.097,,,2,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-kuala-lumpur,Malaysian Grand Prix,12,1:38.289,,,2,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-kuala-lumpur,Malaysian Grand Prix,13,1:38.291,,,2,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-kuala-lumpur,Malaysian Grand Prix,14,1:38.416,,,2,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-kuala-lumpur,Malaysian Grand Prix,15,1:38.516,,,2,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-kuala-lumpur,Malaysian Grand Prix,16,1:38.624,,,2,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-kuala-lumpur,Malaysian Grand Prix,17,1:38.789,,,2,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-kuala-lumpur,Malaysian Grand Prix,18,1:40.417,,,2,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-kuala-lumpur,Malaysian Grand Prix,19,1:40.599,,,2,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-kuala-lumpur,Malaysian Grand Prix,20,1:40.910,,,2,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-s-o-paulo,Brazilian Grand Prix,1,1:13.807,,,3,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-s-o-paulo,Brazilian Grand Prix,2,1:13.818,,,3,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-s-o-paulo,Brazilian Grand Prix,3,1:13.851,,,3,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-s-o-paulo,Brazilian Grand Prix,4,1:13.866,,,3,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-s-o-paulo,Brazilian Grand Prix,5,1:13.953,,,3,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-s-o-paulo,Brazilian Grand Prix,6,1:14.124,,,3,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-s-o-paulo,Brazilian Grand Prix,7,1:14.130,,,3,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-s-o-paulo,Brazilian Grand Prix,8,1:14.191,,,3,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-s-o-paulo,Brazilian Grand Prix,9,1:14.223,,,3,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-s-o-paulo,Brazilian Grand Prix,10,1:14.384,,,3,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-s-o-paulo,Brazilian Grand Prix,11,1:14.504,,,3,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-s-o-paulo,Brazilian Grand Prix,12,1:14.631,,,3,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-s-o-paulo,Brazilian Grand Prix,13,1:14.668,,,3,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-s-o-paulo,Brazilian Grand Prix,14,1:14.839,,,3,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-s-o-paulo,Brazilian Grand Prix,15,1:14.839,,,3,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-s-o-paulo,Brazilian Grand Prix,16,1:15.240,,,3,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-s-o-paulo,Brazilian Grand Prix,17,1:15.317,,,3,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-s-o-paulo,Brazilian Grand Prix,18,1:15.641,,,3,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-s-o-paulo,Brazilian Grand Prix,19,1:16.542,,,3,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-s-o-paulo,Brazilian Grand Prix,20,1:16.586,,,3,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-imola,San Marino Grand Prix,1,1:22.327,,,4,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-imola,San Marino Grand Prix,2,1:22.341,,,4,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-imola,San Marino Grand Prix,3,1:22.557,,,4,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-imola,San Marino Grand Prix,4,1:22.789,,,4,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-imola,San Marino Grand Prix,5,1:23.015,,,4,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-imola,San Marino Grand Prix,6,1:23.148,,,4,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-imola,San Marino Grand Prix,7,1:23.160,,,4,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-imola,San Marino Grand Prix,8,1:23.169,,,4,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-imola,San Marino Grand Prix,9,1:23.381,,,4,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-imola,San Marino Grand Prix,10,1:23.460,,,4,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-imola,San Marino Grand Prix,11,1:23.700,,,4,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-imola,San Marino Grand Prix,12,1:23.818,,,4,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-imola,San Marino Grand Prix,13,1:23.838,,,4,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-imola,San Marino Grand Prix,14,1:23.932,,,4,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-imola,San Marino Grand Prix,15,1:24.147,,,4,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-imola,San Marino Grand Prix,16,1:24.190,,,4,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-imola,San Marino Grand Prix,17,1:24.317,,,4,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-imola,San Marino Grand Prix,18,1:25.826,,,4,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-imola,San Marino Grand Prix,19,1:26.357,,,4,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-imola,San Marino Grand Prix,20,,,,4,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-barcelona,Spanish Grand Prix,1,1:17.762,,,5,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-barcelona,Spanish Grand Prix,2,1:18.020,,,5,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-barcelona,Spanish Grand Prix,3,1:18.233,,,5,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-barcelona,Spanish Grand Prix,4,1:18.615,,,5,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-barcelona,Spanish Grand Prix,5,1:18.704,,,5,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-barcelona,Spanish Grand Prix,6,1:18.811,,,5,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-barcelona,Spanish Grand Prix,7,1:19.006,,,5,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-barcelona,Spanish Grand Prix,8,1:19.128,,,5,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-barcelona,Spanish Grand Prix,9,1:19.377,,,5,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-barcelona,Spanish Grand Prix,10,1:19.427,,,5,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-barcelona,Spanish Grand Prix,11,1:19.563,,,5,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-barcelona,Spanish Grand Prix,12,1:19.615,,,5,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-barcelona,Spanish Grand Prix,13,1:19.623,,,5,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-barcelona,Spanish Grand Prix,14,1:19.646,,,5,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-barcelona,Spanish Grand Prix,15,1:20.215,,,5,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-barcelona,Spanish Grand Prix,16,1:20.308,,,5,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-barcelona,Spanish Grand Prix,17,1:20.976,,,5,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-barcelona,Spanish Grand Prix,18,1:22.104,,,5,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-barcelona,Spanish Grand Prix,19,1:22.237,,,5,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-barcelona,Spanish Grand Prix,20,,,,5,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-spielberg,Austrian Grand Prix,1,1:09.150,,,6,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-spielberg,Austrian Grand Prix,2,1:09.189,,,6,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-spielberg,Austrian Grand Prix,3,1:09.391,,,6,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-spielberg,Austrian Grand Prix,4,1:09.725,,,6,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-spielberg,Austrian Grand Prix,5,1:09.784,,,6,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-spielberg,Austrian Grand Prix,6,1:09.890,,,6,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-spielberg,Austrian Grand Prix,7,1:09.935,,,6,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-spielberg,Austrian Grand Prix,8,1:10.045,,,6,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-spielberg,Austrian Grand Prix,9,1:10.105,,,6,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-spielberg,Austrian Grand Prix,10,1:10.279,,,6,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-spielberg,Austrian Grand Prix,11,1:10.402,,,6,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-spielberg,Austrian Grand Prix,12,1:10.618,,,6,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-spielberg,Austrian Grand Prix,13,1:10.834,,,6,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-spielberg,Austrian Grand Prix,14,1:10.893,,,6,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-spielberg,Austrian Grand Prix,15,1:11.307,,,6,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-spielberg,Austrian Grand Prix,16,1:11.505,,,6,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-spielberg,Austrian Grand Prix,17,1:11.662,,,6,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-spielberg,Austrian Grand Prix,18,1:14.508,,,6,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-spielberg,Austrian Grand Prix,19,1:20.113,,,6,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-spielberg,Austrian Grand Prix,20,,,,6,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-monte-carlo,Monaco Grand Prix,1,1:15.259,,,7,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-monte-carlo,Monaco Grand Prix,2,1:15.295,,,7,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-monte-carlo,Monaco Grand Prix,3,1:15.415,,,7,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-monte-carlo,Monaco Grand Prix,4,1:15.500,,,7,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-monte-carlo,Monaco Grand Prix,5,1:15.644,,,7,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-monte-carlo,Monaco Grand Prix,6,1:15.700,,,7,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-monte-carlo,Monaco Grand Prix,7,1:15.820,,,7,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-monte-carlo,Monaco Grand Prix,8,1:15.884,,,7,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-monte-carlo,Monaco Grand Prix,9,1:16.237,,,7,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-monte-carlo,Monaco Grand Prix,10,1:16.744,,,7,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-monte-carlo,Monaco Grand Prix,11,1:16.755,,,7,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-monte-carlo,Monaco Grand Prix,12,1:16.967,,,7,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-monte-carlo,Monaco Grand Prix,13,1:17.103,,,7,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-monte-carlo,Monaco Grand Prix,14,1:17.176,,,7,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-monte-carlo,Monaco Grand Prix,15,1:17.402,,,7,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-monte-carlo,Monaco Grand Prix,16,1:17.452,,,7,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-monte-carlo,Monaco Grand Prix,17,1:17.464,,,7,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-monte-carlo,Monaco Grand Prix,18,1:18.706,,,7,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-monte-carlo,Monaco Grand Prix,19,1:20.063,,,7,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-monte-carlo,Monaco Grand Prix,20,,,,7,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-montreal,Canadian Grand Prix,1,1:15.529,,,8,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-montreal,Canadian Grand Prix,2,1:15.923,,,8,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-montreal,Canadian Grand Prix,3,1:16.047,,,8,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-montreal,Canadian Grand Prix,4,1:16.048,,,8,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-montreal,Canadian Grand Prix,5,1:16.143,,,8,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-montreal,Canadian Grand Prix,6,1:16.182,,,8,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-montreal,Canadian Grand Prix,7,1:16.598,,,8,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-montreal,Canadian Grand Prix,8,1:16.718,,,8,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-montreal,Canadian Grand Prix,9,1:16.826,,,8,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-montreal,Canadian Grand Prix,10,1:16.939,,,8,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-montreal,Canadian Grand Prix,11,1:17.024,,,8,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-montreal,Canadian Grand Prix,12,1:17.086,,,8,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-montreal,Canadian Grand Prix,13,1:17.337,,,8,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-montreal,Canadian Grand Prix,14,1:17.347,,,8,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-montreal,Canadian Grand Prix,15,1:18.014,,,8,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-montreal,Canadian Grand Prix,16,1:18.036,,,8,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-montreal,Canadian Grand Prix,17,1:18.205,,,8,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-montreal,Canadian Grand Prix,18,1:18.560,,,8,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-montreal,Canadian Grand Prix,19,1:18.692,,,8,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-montreal,Canadian Grand Prix,20,,,,8,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-n-rburg,European Grand Prix,1,1:31.523,,,9,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-n-rburg,European Grand Prix,2,1:31.555,,,9,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-n-rburg,European Grand Prix,3,1:31.619,,,9,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-n-rburg,European Grand Prix,4,1:31.765,,,9,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-n-rburg,European Grand Prix,5,1:31.780,,,9,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-n-rburg,European Grand Prix,6,1:31.976,,,9,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-n-rburg,European Grand Prix,7,1:32.350,,,9,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-n-rburg,European Grand Prix,8,1:32.424,,,9,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-n-rburg,European Grand Prix,9,1:32.742,,,9,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-n-rburg,European Grand Prix,10,1:32.949,,,9,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-n-rburg,European Grand Prix,11,1:33.066,,,9,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-n-rburg,European Grand Prix,12,1:33.395,,,9,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-n-rburg,European Grand Prix,13,1:33.553,,,9,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-n-rburg,European Grand Prix,14,1:33.827,,,9,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-n-rburg,European Grand Prix,15,1:34.000,,,9,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-n-rburg,European Grand Prix,16,1:34.159,,,9,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-n-rburg,European Grand Prix,17,1:34.596,,,9,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-n-rburg,European Grand Prix,18,1:36.318,,,9,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-n-rburg,European Grand Prix,19,1:36.485,,,9,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-n-rburg,European Grand Prix,20,,,,9,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-magny-cours,French Grand Prix,1,1:15.019,,,10,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-magny-cours,French Grand Prix,2,1:15.136,,,10,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-magny-cours,French Grand Prix,3,1:15.480,,,10,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-magny-cours,French Grand Prix,4,1:15.533,,,10,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-magny-cours,French Grand Prix,5,1:15.628,,,10,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-magny-cours,French Grand Prix,6,1:15.967,,,10,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-magny-cours,French Grand Prix,7,1:16.087,,,10,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-magny-cours,French Grand Prix,8,1:16.166,,,10,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-magny-cours,French Grand Prix,9,1:16.308,,,10,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-magny-cours,French Grand Prix,10,1:16.345,,,10,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-magny-cours,French Grand Prix,11,1:16.965,,,10,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-magny-cours,French Grand Prix,12,1:16.990,,,10,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-magny-cours,French Grand Prix,13,1:17.068,,,10,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-magny-cours,French Grand Prix,14,1:17.077,,,10,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-magny-cours,French Grand Prix,15,1:17.445,,,10,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-magny-cours,French Grand Prix,16,1:17.562,,,10,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-magny-cours,French Grand Prix,17,1:18.431,,,10,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-magny-cours,French Grand Prix,18,1:18.514,,,10,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-magny-cours,French Grand Prix,19,1:18.709,,,10,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-magny-cours,French Grand Prix,20,1:19.619,,,10,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-silverstone,British Grand Prix,1,1:21.209,,,11,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-silverstone,British Grand Prix,2,1:21.381,,,11,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-silverstone,British Grand Prix,3,1:21.695,,,11,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-silverstone,British Grand Prix,4,1:21.727,,,11,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-silverstone,British Grand Prix,5,1:21.867,,,11,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-silverstone,British Grand Prix,6,1:22.081,,,11,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-silverstone,British Grand Prix,7,1:22.214,,,11,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-silverstone,British Grand Prix,8,1:22.404,,,11,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-silverstone,British Grand Prix,9,1:22.591,,,11,2003
+Jaguar,jaguar,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,15,2003-silverstone,British Grand Prix,10,1:22.634,,,11,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-silverstone,British Grand Prix,11,1:22.647,,,11,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-silverstone,British Grand Prix,12,1:22.811,,,11,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-silverstone,British Grand Prix,13,1:23.042,,,11,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-silverstone,British Grand Prix,14,1:23.187,,,11,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-silverstone,British Grand Prix,15,1:23.574,,,11,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-silverstone,British Grand Prix,16,1:23.844,,,11,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-silverstone,British Grand Prix,17,1:24.385,,,11,2003
+Minardi,minardi,Italian,,wilson,Justin Wilson,British,18,2003-silverstone,British Grand Prix,18,1:25.468,,,11,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-silverstone,British Grand Prix,19,1:25.759,,,11,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-silverstone,British Grand Prix,20,,,,11,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-hockenheim,German Grand Prix,1,1:15.167,,,12,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-hockenheim,German Grand Prix,2,1:15.185,,,12,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-hockenheim,German Grand Prix,3,1:15.488,,,12,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-hockenheim,German Grand Prix,4,1:15.679,,,12,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-hockenheim,German Grand Prix,5,1:15.874,,,12,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-hockenheim,German Grand Prix,6,1:15.898,,,12,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-hockenheim,German Grand Prix,7,1:16.034,,,12,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-hockenheim,German Grand Prix,8,1:16.483,,,12,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-hockenheim,German Grand Prix,9,1:16.550,,,12,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-hockenheim,German Grand Prix,10,1:16.666,,,12,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-hockenheim,German Grand Prix,11,1:16.775,,,12,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-hockenheim,German Grand Prix,12,1:16.831,,,12,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-hockenheim,German Grand Prix,13,1:17.090,,,12,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-hockenheim,German Grand Prix,14,1:17.169,,,12,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-hockenheim,German Grand Prix,15,1:17.557,,,12,2003
+Jaguar,jaguar,British,,wilson,Justin Wilson,British,15,2003-hockenheim,German Grand Prix,16,1:18.021,,,12,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-hockenheim,German Grand Prix,17,1:18.085,,,12,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-hockenheim,German Grand Prix,18,1:18.341,,,12,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-hockenheim,German Grand Prix,19,1:19.023,,,12,2003
+Minardi,minardi,Italian,,kiesa,Nicolas Kiesa,Danish,18,2003-hockenheim,German Grand Prix,20,1:19.174,,,12,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-budapest,Hungarian Grand Prix,1,1:21.688,,,13,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-budapest,Hungarian Grand Prix,2,1:21.944,,,13,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-budapest,Hungarian Grand Prix,3,1:22.027,,,13,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-budapest,Hungarian Grand Prix,4,1:22.180,,,13,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-budapest,Hungarian Grand Prix,5,1:22.180,,,13,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-budapest,Hungarian Grand Prix,6,1:22.610,,,13,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-budapest,Hungarian Grand Prix,7,1:22.742,,,13,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-budapest,Hungarian Grand Prix,8,1:22.755,,,13,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-budapest,Hungarian Grand Prix,9,1:23.060,,,13,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-budapest,Hungarian Grand Prix,10,1:23.369,,,13,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-budapest,Hungarian Grand Prix,11,1:23.621,,,13,2003
+Jaguar,jaguar,British,,wilson,Justin Wilson,British,15,2003-budapest,Hungarian Grand Prix,12,1:23.660,,,13,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-budapest,Hungarian Grand Prix,13,1:23.726,,,13,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-budapest,Hungarian Grand Prix,14,1:23.847,,,13,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-budapest,Hungarian Grand Prix,15,1:23.982,,,13,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-budapest,Hungarian Grand Prix,16,1:24.100,,,13,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-budapest,Hungarian Grand Prix,17,1:24.569,,,13,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-budapest,Hungarian Grand Prix,18,1:26.423,,,13,2003
+Jordan,jordan,Irish,,baumgartner,Zsolt Baumgartner,Hungarian,12,2003-budapest,Hungarian Grand Prix,19,1:26.678,,,13,2003
+Minardi,minardi,Italian,,kiesa,Nicolas Kiesa,Danish,18,2003-budapest,Hungarian Grand Prix,20,1:28.907,,,13,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-monza,Italian Grand Prix,1,1:20.963,,,14,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-monza,Italian Grand Prix,2,1:21.014,,,14,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-monza,Italian Grand Prix,3,1:21.242,,,14,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-monza,Italian Grand Prix,4,1:21.466,,,14,2003
+Williams,williams,British,,gene,Marc Gené,Spanish,4,2003-monza,Italian Grand Prix,5,1:21.834,,,14,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-monza,Italian Grand Prix,6,1:21.944,,,14,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-monza,Italian Grand Prix,7,1:22.301,,,14,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-monza,Italian Grand Prix,8,1:22.471,,,14,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-monza,Italian Grand Prix,9,1:22.488,,,14,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-monza,Italian Grand Prix,10,1:22.717,,,14,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-monza,Italian Grand Prix,11,1:22.754,,,14,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-monza,Italian Grand Prix,12,1:22.914,,,14,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-monza,Italian Grand Prix,13,1:22.992,,,14,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-monza,Italian Grand Prix,14,1:23.216,,,14,2003
+Jaguar,jaguar,British,,wilson,Justin Wilson,British,15,2003-monza,Italian Grand Prix,15,1:23.484,,,14,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-monza,Italian Grand Prix,16,1:23.803,,,14,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-monza,Italian Grand Prix,17,1:25.078,,,14,2003
+Jordan,jordan,Irish,,baumgartner,Zsolt Baumgartner,Hungarian,12,2003-monza,Italian Grand Prix,18,1:25.881,,,14,2003
+Minardi,minardi,Italian,,kiesa,Nicolas Kiesa,Danish,18,2003-monza,Italian Grand Prix,19,1:26.778,,,14,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-monza,Italian Grand Prix,20,1:40.405,,,14,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-indianapolis,United States Grand Prix,1,1:11.670,,,15,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-indianapolis,United States Grand Prix,2,1:11.794,,,15,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-indianapolis,United States Grand Prix,3,1:11.920,,,15,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-indianapolis,United States Grand Prix,4,1:11.948,,,15,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-indianapolis,United States Grand Prix,5,1:12.078,,,15,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-indianapolis,United States Grand Prix,6,1:12.087,,,15,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-indianapolis,United States Grand Prix,7,1:12.194,,,15,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-indianapolis,United States Grand Prix,8,1:12.297,,,15,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-indianapolis,United States Grand Prix,9,1:12.326,,,15,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-indianapolis,United States Grand Prix,10,1:12.566,,,15,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-indianapolis,United States Grand Prix,11,1:12.695,,,15,2003
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,16,2003-indianapolis,United States Grand Prix,12,1:13.050,,,15,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-indianapolis,United States Grand Prix,13,1:13.083,,,15,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-indianapolis,United States Grand Prix,14,1:13.269,,,15,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-indianapolis,United States Grand Prix,15,1:13.447,,,15,2003
+Jaguar,jaguar,British,,wilson,Justin Wilson,British,15,2003-indianapolis,United States Grand Prix,16,1:13.585,,,15,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-indianapolis,United States Grand Prix,17,1:13.798,,,15,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-indianapolis,United States Grand Prix,18,1:14.027,,,15,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-indianapolis,United States Grand Prix,19,1:15.360,,,15,2003
+Minardi,minardi,Italian,,kiesa,Nicolas Kiesa,Danish,18,2003-indianapolis,United States Grand Prix,20,1:15.644,,,15,2003
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2003-suzuka,Japanese Grand Prix,1,1:31.713,,,16,2003
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2003-suzuka,Japanese Grand Prix,2,1:32.412,,,16,2003
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,21,2003-suzuka,Japanese Grand Prix,3,1:32.419,,,16,2003
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,20,2003-suzuka,Japanese Grand Prix,4,1:32.862,,,16,2003
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2003-suzuka,Japanese Grand Prix,5,1:33.044,,,16,2003
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2003-suzuka,Japanese Grand Prix,6,1:33.106,,,16,2003
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2003-suzuka,Japanese Grand Prix,7,1:33.137,,,16,2003
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2003-suzuka,Japanese Grand Prix,8,1:33.272,,,16,2003
+BAR,bar,British,BUT,button,Jenson Button,British,22,2003-suzuka,Japanese Grand Prix,9,1:33.474,,,16,2003
+Jaguar,jaguar,British,,wilson,Justin Wilson,British,15,2003-suzuka,Japanese Grand Prix,10,1:33.558,,,16,2003
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,9,2003-suzuka,Japanese Grand Prix,11,1:33.632,,,16,2003
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,10,2003-suzuka,Japanese Grand Prix,12,1:33.896,,,16,2003
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,16,2003-suzuka,Japanese Grand Prix,13,1:33.924,,,16,2003
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2003-suzuka,Japanese Grand Prix,14,1:34.302,,,16,2003
+Jordan,jordan,Irish,,firman,Ralph Firman,Irish,12,2003-suzuka,Japanese Grand Prix,15,1:34.771,,,16,2003
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,11,2003-suzuka,Japanese Grand Prix,16,1:34.912,,,16,2003
+Minardi,minardi,Italian,,verstappen,Jos Verstappen,Dutch,19,2003-suzuka,Japanese Grand Prix,17,1:34.975,,,16,2003
+Minardi,minardi,Italian,,kiesa,Nicolas Kiesa,Danish,18,2003-suzuka,Japanese Grand Prix,18,1:37.226,,,16,2003
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2003-suzuka,Japanese Grand Prix,19,,,,16,2003
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2003-suzuka,Japanese Grand Prix,20,,,,16,2003

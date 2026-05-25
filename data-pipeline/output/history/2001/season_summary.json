@@ -1,0 +1,40 @@
+{
+  "year": 2001,
+  "generated_at": "2026-05-25T19:02:16.632238+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 17,
+  "race_results": 373,
+  "qualifying_results": 22,
+  "drivers": 26,
+  "constructors": 11,
+  "driver_champion": {
+    "year": 2001,
+    "position": 1,
+    "position_text": "1",
+    "points": 123.0,
+    "wins": 9,
+    "driver_id": "michael_schumacher",
+    "driver_code": "MSC",
+    "driver_number": null,
+    "driver_name": "Michael Schumacher",
+    "driver_nationality": "German",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2001,
+    "position": 1,
+    "position_text": "1",
+    "points": 179.0,
+    "wins": 9,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  }
+}

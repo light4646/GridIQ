@@ -1,0 +1,480 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-sakhir,Bahrain Grand Prix,210.383,kph,39,1,1:32.608,1,57,5504742,26.0,1,1,1,Finished,1:31:44.742,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-sakhir,Bahrain Grand Prix,206.468,kph,40,4,1:34.364,5,57,5527199,18.0,2,2,1,Finished,+22.457,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-sakhir,Bahrain Grand Prix,206.156,kph,44,6,1:34.507,4,57,5529852,15.0,3,3,1,Finished,+25.110,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-sakhir,Bahrain Grand Prix,207.069,kph,36,2,1:34.090,2,57,5544411,12.0,4,4,1,Finished,+39.669,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-sakhir,Bahrain Grand Prix,204.946,kph,40,12,1:35.065,3,57,5551530,10.0,5,5,1,Finished,+46.788,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-sakhir,Bahrain Grand Prix,,,35,5,1:34.476,7,57,5553200,8.0,6,6,1,Finished,+48.458,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-sakhir,Bahrain Grand Prix,205.688,kph,39,7,1:34.722,9,57,5555066,6.0,7,7,1,Finished,+50.324,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-sakhir,Bahrain Grand Prix,,,39,11,1:34.983,8,57,5560824,4.0,8,8,1,Finished,+56.082,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-sakhir,Bahrain Grand Prix,206.83,kph,48,3,1:34.199,6,57,5579629,2.0,9,9,1,Finished,+1:14.887,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-sakhir,Bahrain Grand Prix,203.73,kph,30,16,1:35.632,12,57,5597958,1.0,10,10,1,Finished,+1:33.216,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-sakhir,Bahrain Grand Prix,204.102,kph,30,14,1:35.458,17,56,5511501,0.0,11,11,1,Lapped,+6.759,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-sakhir,Bahrain Grand Prix,203.863,kph,34,15,1:35.570,15,56,5513058,0.0,12,12,1,Lapped,+8.316,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-sakhir,Bahrain Grand Prix,204.735,kph,37,13,1:35.163,14,56,5513700,0.0,13,13,1,Lapped,+8.958,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-sakhir,Bahrain Grand Prix,203.303,kph,37,18,1:35.833,11,56,5514224,0.0,14,14,1,Lapped,+9.482,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-sakhir,Bahrain Grand Prix,203.537,kph,40,17,1:35.723,13,56,5516628,0.0,15,15,1,Lapped,+11.886,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-sakhir,Bahrain Grand Prix,205.445,kph,46,10,1:34.834,10,56,5522374,0.0,16,16,1,Lapped,+17.632,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-sakhir,Bahrain Grand Prix,202.473,kph,34,20,1:36.226,19,56,5536192,0.0,17,17,1,Lapped,+31.450,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-sakhir,Bahrain Grand Prix,205.508,kph,45,9,1:34.805,20,56,5537159,0.0,18,18,1,Lapped,+32.417,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-sakhir,Bahrain Grand Prix,202.523,kph,33,19,1:36.202,16,56,5587972,0.0,19,19,1,Lapped,+1:23.230,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-sakhir,Bahrain Grand Prix,205.659,kph,42,8,1:34.735,18,55,5525537,0.0,20,20,1,Lapped,+20.795,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-jeddah,Saudi Arabian Grand Prix,242.188,kph,50,3,1:31.773,1,50,4843273,25.0,1,1,2,Finished,1:20:43.273,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-jeddah,Saudi Arabian Grand Prix,240.876,kph,37,8,1:32.273,3,50,4856916,18.0,2,2,2,Finished,+13.643,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-jeddah,Saudi Arabian Grand Prix,242.561,kph,50,1,1:31.632,2,50,4861912,16.0,3,3,2,Finished,+18.639,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-jeddah,Saudi Arabian Grand Prix,,,45,10,1:32.310,5,50,4875280,12.0,4,4,2,Finished,+32.007,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-jeddah,Saudi Arabian Grand Prix,240.579,kph,43,13,1:32.387,4,50,4879032,10.0,5,5,2,Finished,+35.759,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-jeddah,Saudi Arabian Grand Prix,240.926,kph,42,7,1:32.254,7,50,4883209,8.0,6,6,2,Finished,+39.936,2024
+Ferrari,ferrari,Italian,BEA,bearman,Oliver Bearman,British,87,2024-jeddah,Saudi Arabian Grand Prix,241.103,kph,50,5,1:32.186,11,50,4885952,6.0,7,7,2,Finished,+42.679,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-jeddah,Saudi Arabian Grand Prix,,,40,4,1:31.944,6,50,4888981,4.0,8,8,2,Finished,+45.708,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-jeddah,Saudi Arabian Grand Prix,242.26,kph,38,2,1:31.746,8,50,4890664,2.0,9,9,2,Finished,+47.391,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-jeddah,Saudi Arabian Grand Prix,240.633,kph,49,12,1:32.366,15,50,4920269,1.0,10,10,2,Finished,+1:16.996,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-jeddah,Saudi Arabian Grand Prix,240.787,kph,50,9,1:32.307,12,50,4931627,0.0,11,11,2,Finished,+1:28.354,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-jeddah,Saudi Arabian Grand Prix,240.706,kph,47,11,1:32.338,13,50,4949010,0.0,12,12,2,Finished,+1:45.737,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-jeddah,Saudi Arabian Grand Prix,237.763,kph,48,17,1:33.481,17,49,4847274,0.0,13,13,2,Lapped,+4.001,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-jeddah,Saudi Arabian Grand Prix,,,49,15,1:33.026,19,49,4850058,0.0,14,14,2,Lapped,+6.785,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-jeddah,Saudi Arabian Grand Prix,,,44,18,1:33.523,9,49,4853806,0.0,15,15,2,Lapped,+10.533,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-jeddah,Saudi Arabian Grand Prix,238.166,kph,47,16,1:33.323,14,49,4863988,0.0,16,16,2,Lapped,+20.715,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-jeddah,Saudi Arabian Grand Prix,239.751,kph,49,14,1:32.706,16,49,4866388,0.0,17,17,2,Lapped,+23.115,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-jeddah,Saudi Arabian Grand Prix,241.046,kph,49,6,1:32.208,20,49,4872826,0.0,18,18,2,Lapped,+29.553,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-jeddah,Saudi Arabian Grand Prix,232.591,kph,5,19,1:35.560,10,5,,0.0,19,R,2,Retired,,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-jeddah,Saudi Arabian Grand Prix,,,,,,18,1,,0.0,20,R,2,Retired,,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-melbourne,Australian Grand Prix,237.418,kph,48,3,1:20.031,2,58,4826843,25.0,1,1,3,Finished,1:20:26.843,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-melbourne,Australian Grand Prix,238.066,kph,56,1,1:19.813,4,58,4829209,19.0,2,2,3,Finished,+2.366,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-melbourne,Australian Grand Prix,,,49,2,1:19.915,3,58,4832747,15.0,3,3,3,Finished,+5.904,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-melbourne,Australian Grand Prix,,,54,4,1:20.199,5,58,4862613,12.0,4,4,3,Finished,+35.770,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-melbourne,Australian Grand Prix,236.363,kph,47,6,1:20.388,6,58,4883152,10.0,5,5,3,Finished,+56.309,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-melbourne,Australian Grand Prix,234.78,kph,49,8,1:20.930,9,58,4920065,8.0,6,6,3,Finished,+1:33.222,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-melbourne,Australian Grand Prix,234.19,kph,46,11,1:21.134,8,58,4922444,6.0,7,7,3,Finished,+1:35.601,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-melbourne,Australian Grand Prix,236.055,kph,52,7,1:20.493,10,58,4927835,4.0,8,8,3,Finished,+1:40.992,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-melbourne,Australian Grand Prix,234.158,kph,46,12,1:21.145,16,58,4931396,2.0,9,9,3,Finished,+1:44.553,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-melbourne,Australian Grand Prix,234.34,kph,44,9,1:21.082,14,57,4830924,1.0,10,10,3,Lapped,+4.081,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-melbourne,Australian Grand Prix,232.801,kph,46,17,1:21.618,12,57,4831852,0.0,11,11,3,Lapped,+5.009,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-melbourne,Australian Grand Prix,233.887,kph,46,13,1:21.239,18,57,4838351,0.0,12,12,3,Lapped,+11.508,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-melbourne,Australian Grand Prix,234.317,kph,51,10,1:21.090,17,57,4867796,0.0,13,13,3,Lapped,+40.953,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-melbourne,Australian Grand Prix,233.361,kph,48,16,1:21.422,13,57,4869169,0.0,14,14,3,Lapped,+42.326,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-melbourne,Australian Grand Prix,233.634,kph,49,14,1:21.327,19,57,4871136,0.0,15,15,3,Lapped,+44.293,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-melbourne,Australian Grand Prix,233.557,kph,45,15,1:21.354,15,57,4880822,0.0,16,16,3,Lapped,+53.979,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-melbourne,Australian Grand Prix,236.669,kph,53,5,1:20.284,7,56,4684734,0.0,17,17,3,Retired,,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-melbourne,Australian Grand Prix,230.469,kph,11,18,1:22.444,11,15,,0.0,18,R,3,Retired,,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-melbourne,Australian Grand Prix,228.608,kph,3,19,1:23.115,1,3,,0.0,19,R,3,Retired,,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-suzuka,Japanese Grand Prix,223.093,kph,50,1,1:33.706,1,53,6863566,26.0,1,1,4,Finished,1:54:23.566,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-suzuka,Japanese Grand Prix,222.525,kph,35,3,1:33.945,2,53,6876101,18.0,2,2,4,Finished,+12.535,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-suzuka,Japanese Grand Prix,222.772,kph,46,2,1:33.841,4,53,6884432,15.0,3,3,4,Finished,+20.866,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-suzuka,Japanese Grand Prix,219.952,kph,53,9,1:35.044,8,53,6890088,12.0,4,4,4,Finished,+26.522,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-suzuka,Japanese Grand Prix,,,51,10,1:35.186,3,53,6893266,10.0,5,5,4,Finished,+29.700,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-suzuka,Japanese Grand Prix,220.691,kph,53,6,1:34.726,5,53,6907838,8.0,6,6,4,Finished,+44.272,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-suzuka,Japanese Grand Prix,221.444,kph,39,5,1:34.404,9,53,6909517,6.0,7,7,4,Finished,+45.951,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-suzuka,Japanese Grand Prix,,,35,7,1:34.802,6,53,6911091,4.0,8,8,4,Finished,+47.525,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-suzuka,Japanese Grand Prix,222.509,kph,41,4,1:33.952,7,53,6912192,2.0,9,9,4,Finished,+48.626,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-suzuka,Japanese Grand Prix,216.989,kph,51,14,1:36.342,10,52,6865168,1.0,10,10,4,Lapped,+1.602,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-suzuka,Japanese Grand Prix,219.304,kph,52,11,1:35.325,12,52,6870734,0.0,11,11,4,Lapped,+7.168,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-suzuka,Japanese Grand Prix,218.221,kph,41,12,1:35.798,16,52,6874799,0.0,12,12,4,Lapped,+11.233,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-suzuka,Japanese Grand Prix,216.289,kph,24,17,1:36.654,18,52,6881485,0.0,13,13,4,Lapped,+17.919,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-suzuka,Japanese Grand Prix,216.392,kph,25,15,1:36.608,13,52,6882459,0.0,14,14,4,Lapped,+18.893,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-suzuka,Japanese Grand Prix,217.237,kph,52,13,1:36.232,15,52,6904718,0.0,15,15,4,Lapped,+41.152,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-suzuka,Japanese Grand Prix,216.315,kph,48,16,1:36.642,17,52,6918632,0.0,16,16,4,Lapped,+55.066,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-suzuka,Japanese Grand Prix,220.286,kph,43,8,1:34.900,19,52,6936331,0.0,17,17,4,Lapped,+1:12.765,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-suzuka,Japanese Grand Prix,215.162,kph,9,18,1:37.160,20,12,,0.0,18,R,4,Retired,,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-suzuka,Japanese Grand Prix,,,,,,11,0,,0.0,19,R,4,Retired,,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-suzuka,Japanese Grand Prix,,,,,,14,0,,0.0,20,R,4,Retired,,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-shanghai,Chinese Grand Prix,199.414,kph,33,2,1:38.406,1,56,6052554,25.0,1,1,5,Finished,1:40:52.554,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-shanghai,Chinese Grand Prix,,,33,4,1:38.751,4,56,6066327,18.0,2,2,5,Finished,+13.773,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-shanghai,Chinese Grand Prix,197.444,kph,33,7,1:39.388,2,56,6071714,15.0,3,3,5,Finished,+19.160,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-shanghai,Chinese Grand Prix,197.452,kph,33,6,1:39.384,6,56,6076177,12.0,4,4,5,Finished,+23.623,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-shanghai,Chinese Grand Prix,196.7,kph,19,10,1:39.764,7,56,6086537,10.0,5,5,5,Finished,+33.983,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-shanghai,Chinese Grand Prix,196.016,kph,39,11,1:40.112,8,56,6091278,8.0,6,6,5,Finished,+38.724,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-shanghai,Chinese Grand Prix,200.629,kph,45,1,1:37.810,3,56,6095968,7.0,7,7,5,Finished,+43.414,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-shanghai,Chinese Grand Prix,,,18,9,1:39.739,5,56,6108752,4.0,8,8,5,Finished,+56.198,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-shanghai,Chinese Grand Prix,194.61,kph,34,14,1:40.835,18,56,6110540,2.0,9,9,5,Finished,+57.986,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-shanghai,Chinese Grand Prix,194.649,kph,32,13,1:40.815,9,56,6113030,1.0,10,10,5,Finished,+1:00.476,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-shanghai,Chinese Grand Prix,194.414,kph,33,15,1:40.937,13,56,6115366,0.0,11,11,5,Finished,+1:02.812,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-shanghai,Chinese Grand Prix,194.697,kph,34,12,1:40.790,14,56,6118060,0.0,12,12,5,Finished,+1:05.506,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-shanghai,Chinese Grand Prix,197.822,kph,40,5,1:39.198,15,56,6121777,0.0,13,13,5,Finished,+1:09.223,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-shanghai,Chinese Grand Prix,198.955,kph,42,3,1:38.633,16,56,6124243,0.0,14,14,5,Finished,+1:11.689,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-shanghai,Chinese Grand Prix,197.333,kph,37,8,1:39.444,11,56,6135340,0.0,15,15,5,Finished,+1:22.786,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-shanghai,Chinese Grand Prix,194.145,kph,45,18,1:41.077,17,56,6140087,0.0,16,16,5,Finished,+1:27.533,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-shanghai,Chinese Grand Prix,194.293,kph,14,17,1:41.000,20,56,6147664,0.0,17,17,5,Finished,+1:35.110,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-shanghai,Chinese Grand Prix,194.304,kph,16,16,1:40.994,12,33,,0.0,18,R,5,Retired,,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-shanghai,Chinese Grand Prix,193.158,kph,11,20,1:41.593,19,26,,0.0,19,R,5,Retired,,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-shanghai,Chinese Grand Prix,193.763,kph,11,19,1:41.276,10,19,,0.0,20,R,5,Retired,,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-miami,Miami Grand Prix,214.148,kph,55,5,1:30.980,5,57,5449876,25.0,1,1,6,Finished,1:30:49.876,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-miami,Miami Grand Prix,213.488,kph,48,8,1:31.261,1,57,5457488,18.0,2,2,6,Finished,+7.612,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-miami,Miami Grand Prix,213.903,kph,56,6,1:31.084,2,57,5459796,15.0,3,3,6,Finished,+9.920,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-miami,Miami Grand Prix,214.442,kph,55,3,1:30.855,4,57,5464526,12.0,4,4,6,Finished,+14.650,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-miami,Miami Grand Prix,214.27,kph,55,4,1:30.928,3,57,5466283,10.0,5,5,6,Finished,+16.407,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-miami,Miami Grand Prix,213.554,kph,54,7,1:31.233,8,57,5466461,8.0,6,6,6,Finished,+16.585,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-miami,Miami Grand Prix,212.508,kph,55,10,1:31.682,10,57,5476061,6.0,7,7,6,Finished,+26.185,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-miami,Miami Grand Prix,211.955,kph,43,13,1:31.921,7,57,5484665,4.0,8,8,6,Finished,+34.789,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-miami,Miami Grand Prix,212.404,kph,55,11,1:31.727,15,57,5486983,2.0,9,9,6,Finished,+37.107,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-miami,Miami Grand Prix,211.688,kph,51,16,1:32.037,13,57,5489622,1.0,10,10,6,Finished,+39.746,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-miami,Miami Grand Prix,211.909,kph,56,14,1:31.941,9,57,5490665,0.0,11,11,6,Finished,+40.789,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-miami,Miami Grand Prix,211.647,kph,56,17,1:32.055,12,57,5494834,0.0,12,12,6,Finished,+44.958,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-miami,Miami Grand Prix,214.965,kph,43,1,1:30.634,6,57,5499632,0.0,13,13,6,Finished,+49.756,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-miami,Miami Grand Prix,211.794,kph,56,15,1:31.991,19,57,5499855,0.0,14,14,6,Finished,+49.979,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-miami,Miami Grand Prix,211.493,kph,57,19,1:32.122,20,57,5500832,0.0,15,15,6,Finished,+50.956,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-miami,Miami Grand Prix,211.548,kph,55,18,1:32.098,16,57,5502232,0.0,16,16,6,Finished,+52.356,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-miami,Miami Grand Prix,212.726,kph,57,9,1:31.588,11,57,5505049,0.0,17,17,6,Finished,+55.173,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-miami,Miami Grand Prix,214.456,kph,55,2,1:30.849,14,57,5525967,0.0,18,18,6,Finished,+1:16.091,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-miami,Miami Grand Prix,212.295,kph,33,12,1:31.774,18,57,5534559,0.0,19,19,6,Finished,+1:24.683,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-miami,Miami Grand Prix,208.483,kph,15,20,1:33.452,17,27,,0.0,20,R,6,Retired,,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-imola,Emilia Romagna Grand Prix,219.898,kph,38,9,1:20.366,1,63,5125252,25.0,1,1,7,Finished,1:25:25.252,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-imola,Emilia Romagna Grand Prix,220.921,kph,54,6,1:19.994,2,63,5125977,18.0,2,2,7,Finished,+0.725,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-imola,Emilia Romagna Grand Prix,221.084,kph,27,5,1:19.935,3,63,5133168,15.0,3,3,7,Finished,+7.916,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-imola,Emilia Romagna Grand Prix,221.162,kph,25,4,1:19.907,5,63,5139384,12.0,4,4,7,Finished,+14.132,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-imola,Emilia Romagna Grand Prix,220.299,kph,63,7,1:20.220,4,63,5147577,10.0,5,5,7,Finished,+22.325,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-imola,Emilia Romagna Grand Prix,219.994,kph,43,8,1:20.331,8,63,5160356,8.0,6,6,7,Finished,+35.104,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-imola,Emilia Romagna Grand Prix,224.871,kph,54,1,1:18.589,6,63,5172406,7.0,7,7,7,Finished,+47.154,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-imola,Emilia Romagna Grand Prix,221.775,kph,52,3,1:19.686,11,63,5180028,4.0,8,8,7,Finished,+54.776,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-imola,Emilia Romagna Grand Prix,219.342,kph,58,10,1:20.570,13,63,5204808,2.0,9,9,7,Finished,+1:19.556,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-imola,Emilia Romagna Grand Prix,218.35,kph,14,11,1:20.936,7,62,5143108,1.0,10,10,7,Lapped,+17.856,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-imola,Emilia Romagna Grand Prix,216.308,kph,3,20,1:21.700,10,62,5150529,0.0,11,11,7,Lapped,+25.277,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-imola,Emilia Romagna Grand Prix,218.153,kph,58,12,1:21.009,18,62,5151686,0.0,12,12,7,Lapped,+26.434,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-imola,Emilia Romagna Grand Prix,216.655,kph,13,19,1:21.569,9,62,5152913,0.0,13,13,7,Lapped,+27.661,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-imola,Emilia Romagna Grand Prix,217.361,kph,37,16,1:21.304,12,62,5169159,0.0,14,14,7,Lapped,+43.907,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-imola,Emilia Romagna Grand Prix,218.134,kph,37,13,1:21.016,17,62,5170185,0.0,15,15,7,Lapped,+44.933,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-imola,Emilia Romagna Grand Prix,217.183,kph,10,17,1:21.371,15,62,5174967,0.0,16,16,7,Lapped,+49.715,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-imola,Emilia Romagna Grand Prix,217.562,kph,55,14,1:21.229,19,62,5176303,0.0,17,17,7,Lapped,+51.051,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-imola,Emilia Romagna Grand Prix,216.959,kph,11,18,1:21.455,16,62,5181595,0.0,18,18,7,Lapped,+56.343,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-imola,Emilia Romagna Grand Prix,223.689,kph,62,2,1:19.004,20,62,5200376,0.0,19,19,7,Lapped,+1:15.124,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-imola,Emilia Romagna Grand Prix,217.442,kph,48,15,1:21.274,14,51,,0.0,20,R,7,Retired,,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-monte-carlo,Monaco Grand Prix,,,71,6,1:15.162,1,78,8595554,25.0,1,1,8,Finished,2:23:15.554,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-monte-carlo,Monaco Grand Prix,,,73,11,1:16.281,2,78,8602706,18.0,2,2,8,Finished,+7.152,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-monte-carlo,Monaco Grand Prix,,,62,5,1:14.726,3,78,8603139,15.0,3,3,8,Finished,+7.585,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-monte-carlo,Monaco Grand Prix,,,64,10,1:15.742,4,78,8604204,12.0,4,4,8,Finished,+8.650,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-monte-carlo,Monaco Grand Prix,,,73,7,1:15.228,5,78,8608863,10.0,5,5,8,Finished,+13.309,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-monte-carlo,Monaco Grand Prix,,,58,2,1:14.569,6,78,8609407,8.0,6,6,8,Finished,+13.853,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-monte-carlo,Monaco Grand Prix,,,63,1,1:14.165,7,78,8610462,7.0,7,7,8,Finished,+14.908,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-monte-carlo,Monaco Grand Prix,,,77,4,1:14.720,8,77,8635041,4.0,8,8,8,Lapped,+39.487,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-monte-carlo,Monaco Grand Prix,,,77,14,1:17.060,9,77,8649606,2.0,9,9,8,Lapped,+54.052,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-monte-carlo,Monaco Grand Prix,,,77,9,1:15.625,10,77,8655795,1.0,10,10,8,Lapped,+1:00.241,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-monte-carlo,Monaco Grand Prix,,,68,16,1:17.939,14,76,8599408,0.0,11,11,8,Lapped,+3.854,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-monte-carlo,Monaco Grand Prix,,,46,15,1:17.172,12,76,8599818,0.0,12,12,8,Lapped,+4.264,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-monte-carlo,Monaco Grand Prix,,,17,12,1:16.561,17,76,8600042,0.0,13,13,8,Lapped,+4.488,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-monte-carlo,Monaco Grand Prix,,,59,13,1:16.710,13,76,8601521,0.0,14,14,8,Lapped,+5.967,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-monte-carlo,Monaco Grand Prix,,,62,8,1:15.525,15,76,8604580,0.0,15,15,8,Lapped,+9.026,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-monte-carlo,Monaco Grand Prix,,,75,3,1:14.718,18,76,8650814,0.0,16,16,8,Lapped,+55.260,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-monte-carlo,Monaco Grand Prix,,,,,,11,0,,0.0,17,R,8,Retired,,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-monte-carlo,Monaco Grand Prix,,,,,,16,0,,0.0,18,R,8,Retired,,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-monte-carlo,Monaco Grand Prix,,,,,,19,0,,0.0,19,R,8,Retired,,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-monte-carlo,Monaco Grand Prix,,,,,,20,0,,0.0,20,R,8,Retired,,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-montreal,Canadian Grand Prix,207.751,kph,70,4,1:15.569,2,70,6347927,25.0,1,1,9,Finished,1:45:47.927,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-montreal,Canadian Grand Prix,207.782,kph,67,3,1:15.558,3,70,6351806,18.0,2,2,9,Finished,+3.879,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-montreal,Canadian Grand Prix,209.621,kph,70,2,1:14.895,1,70,6352244,15.0,3,3,9,Finished,+4.317,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-montreal,Canadian Grand Prix,209.73,kph,70,1,1:14.856,7,70,6352842,13.0,4,4,9,Finished,+4.915,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-montreal,Canadian Grand Prix,205.904,kph,65,5,1:16.247,4,70,6358126,10.0,5,5,9,Finished,+10.199,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-montreal,Canadian Grand Prix,205.753,kph,70,6,1:16.303,6,70,6365437,8.0,6,6,9,Finished,+17.510,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-montreal,Canadian Grand Prix,204.523,kph,70,9,1:16.762,9,70,6371552,6.0,7,7,9,Finished,+23.625,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-montreal,Canadian Grand Prix,203.689,kph,68,12,1:17.076,5,70,6376599,4.0,8,8,9,Finished,+28.672,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-montreal,Canadian Grand Prix,203.856,kph,70,11,1:17.013,15,70,6377948,2.0,9,9,9,Finished,+30.021,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-montreal,Canadian Grand Prix,203.859,kph,70,10,1:17.012,18,70,6378240,1.0,10,10,9,Finished,+30.313,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-montreal,Canadian Grand Prix,204.733,kph,67,8,1:16.683,17,70,6378751,0.0,11,11,9,Finished,+30.824,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-montreal,Canadian Grand Prix,205.226,kph,68,7,1:16.499,14,70,6379180,0.0,12,12,9,Finished,+31.253,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-montreal,Canadian Grand Prix,203.231,kph,65,13,1:17.250,19,70,6388414,0.0,13,13,9,Finished,+40.487,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-montreal,Canadian Grand Prix,203.075,kph,70,14,1:17.309,8,70,6400621,0.0,14,14,9,Finished,+52.694,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-montreal,Canadian Grand Prix,203.033,kph,68,15,1:17.325,20,69,6401455,0.0,15,15,9,Lapped,+53.528,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-montreal,Canadian Grand Prix,198.837,kph,51,17,1:18.957,12,52,,0.0,16,R,9,Retired,,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-montreal,Canadian Grand Prix,197.83,kph,51,18,1:19.359,10,52,,0.0,17,R,9,Retired,,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-montreal,Canadian Grand Prix,199.185,kph,51,16,1:18.819,16,51,,0.0,18,R,9,Retired,,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-montreal,Canadian Grand Prix,182.528,kph,39,19,1:26.012,11,40,,0.0,19,R,9,Retired,,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-montreal,Canadian Grand Prix,181.531,kph,19,20,1:26.484,13,23,,0.0,20,R,9,Retired,,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-barcelona,Spanish Grand Prix,215.557,kph,54,2,1:17.776,2,66,5300227,25.0,1,1,10,Finished,1:28:20.227,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-barcelona,Spanish Grand Prix,217.405,kph,51,1,1:17.115,1,66,5302446,19.0,2,2,10,Finished,+2.219,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-barcelona,Spanish Grand Prix,215.466,kph,46,4,1:17.809,3,66,5318017,15.0,3,3,10,Finished,+17.790,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-barcelona,Spanish Grand Prix,214.142,kph,50,7,1:18.290,4,66,5322547,12.0,4,4,10,Finished,+22.320,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-barcelona,Spanish Grand Prix,215.222,kph,52,6,1:17.897,5,66,5322936,10.0,5,5,10,Finished,+22.709,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-barcelona,Spanish Grand Prix,213.463,kph,39,9,1:18.539,6,66,5331255,8.0,6,6,10,Finished,+31.028,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-barcelona,Spanish Grand Prix,215.286,kph,56,5,1:17.874,9,66,5333987,6.0,7,7,10,Finished,+33.760,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-barcelona,Spanish Grand Prix,215.532,kph,51,3,1:17.785,11,66,5359751,4.0,8,8,10,Finished,+59.524,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-barcelona,Spanish Grand Prix,212.096,kph,51,13,1:19.045,7,66,5362252,2.0,9,9,10,Finished,+1:02.025,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-barcelona,Spanish Grand Prix,212.266,kph,54,12,1:18.982,8,66,5372116,1.0,10,10,10,Finished,+1:11.889,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-barcelona,Spanish Grand Prix,213.273,kph,49,10,1:18.609,13,66,5379442,0.0,11,11,10,Finished,+1:19.215,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-barcelona,Spanish Grand Prix,214.022,kph,50,8,1:18.334,10,65,5309724,0.0,12,12,10,Lapped,+9.497,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-barcelona,Spanish Grand Prix,212.834,kph,50,11,1:18.771,15,65,5315703,0.0,13,13,10,Lapped,+15.476,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-barcelona,Spanish Grand Prix,211.366,kph,50,15,1:19.318,14,65,5325479,0.0,14,14,10,Lapped,+25.252,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-barcelona,Spanish Grand Prix,211.015,kph,61,17,1:19.450,18,65,5344277,0.0,15,15,10,Lapped,+44.050,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-barcelona,Spanish Grand Prix,210.596,kph,13,18,1:19.608,12,65,5353540,0.0,16,16,10,Lapped,+53.313,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-barcelona,Spanish Grand Prix,210.077,kph,33,19,1:19.805,16,65,5355015,0.0,17,17,10,Lapped,+54.788,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-barcelona,Spanish Grand Prix,211.863,kph,45,14,1:19.132,20,65,5358376,0.0,18,18,10,Lapped,+58.149,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-barcelona,Spanish Grand Prix,211.023,kph,56,16,1:19.447,17,65,5369131,0.0,19,19,10,Lapped,+1:08.904,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-barcelona,Spanish Grand Prix,209.115,kph,38,20,1:20.172,19,64,5305093,0.0,20,20,10,Lapped,+4.866,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-spielberg,Austrian Grand Prix,224.752,kph,48,5,1:09.164,3,71,5062798,25.0,1,1,11,Finished,1:24:22.798,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-spielberg,Austrian Grand Prix,226.28,kph,56,4,1:08.697,7,71,5064704,18.0,2,2,11,Finished,+1.906,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-spielberg,Austrian Grand Prix,224.369,kph,56,6,1:09.282,4,71,5067331,15.0,3,3,11,Finished,+4.533,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-spielberg,Austrian Grand Prix,223.466,kph,61,7,1:09.562,5,71,5085940,12.0,4,4,11,Finished,+23.142,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-spielberg,Austrian Grand Prix,229.548,kph,68,2,1:07.719,1,71,5100051,10.0,5,5,11,Finished,+37.253,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-spielberg,Austrian Grand Prix,221.388,kph,51,14,1:10.215,9,71,5116886,8.0,6,6,11,Finished,+54.088,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-spielberg,Austrian Grand Prix,223.043,kph,56,11,1:09.694,8,71,5117470,6.0,7,7,11,Finished,+54.672,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-spielberg,Austrian Grand Prix,221.672,kph,45,12,1:10.125,12,71,5123153,4.0,8,8,11,Finished,+1:00.355,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-spielberg,Austrian Grand Prix,220.725,kph,49,18,1:10.426,11,71,5123967,2.0,9,9,11,Finished,+1:01.169,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-spielberg,Austrian Grand Prix,223.315,kph,45,9,1:09.609,13,71,5124564,1.0,10,10,11,Finished,+1:01.766,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-spielberg,Austrian Grand Prix,223.396,kph,55,8,1:09.584,6,71,5129854,0.0,11,11,11,Finished,+1:07.056,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-spielberg,Austrian Grand Prix,223.187,kph,45,10,1:09.649,10,71,5131123,0.0,12,12,11,Finished,+1:08.325,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-spielberg,Austrian Grand Prix,221.615,kph,54,13,1:10.143,17,70,5073032,0.0,13,13,11,Lapped,+10.234,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-spielberg,Austrian Grand Prix,221.064,kph,54,15,1:10.318,14,70,5075943,0.0,14,14,11,Lapped,+13.145,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-spielberg,Austrian Grand Prix,220.919,kph,41,16,1:10.364,16,70,5078664,0.0,15,15,11,Lapped,+15.866,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-spielberg,Austrian Grand Prix,220.653,kph,48,19,1:10.449,18,70,5082173,0.0,16,16,11,Lapped,+19.375,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-spielberg,Austrian Grand Prix,220.587,kph,54,20,1:10.470,20,70,5107680,0.0,17,17,11,Lapped,+44.882,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-spielberg,Austrian Grand Prix,229.633,kph,70,1,1:07.694,15,70,5110458,0.0,18,18,11,Lapped,+47.660,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-spielberg,Austrian Grand Prix,220.788,kph,60,17,1:10.406,19,69,5069107,0.0,19,19,11,Lapped,+6.309,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-spielberg,Austrian Grand Prix,228.546,kph,53,3,1:08.016,2,64,4596054,0.0,20,20,11,Lapped,,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-silverstone,British Grand Prix,237.12,kph,45,5,1:29.438,2,52,4947059,25.0,1,1,12,Finished,1:22:27.059,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-silverstone,British Grand Prix,238.416,kph,48,3,1:28.952,4,52,4948524,18.0,2,2,12,Finished,+1.465,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-silverstone,British Grand Prix,237.588,kph,43,4,1:29.262,3,52,4954606,15.0,3,3,12,Finished,+7.547,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-silverstone,British Grand Prix,238.964,kph,51,2,1:28.748,5,52,4959488,12.0,4,4,12,Finished,+12.429,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-silverstone,British Grand Prix,240.195,kph,52,1,1:28.293,7,52,4994377,11.0,5,5,12,Finished,+47.318,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-silverstone,British Grand Prix,236.07,kph,43,10,1:29.836,6,52,5002781,8.0,6,6,12,Finished,+55.722,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-silverstone,British Grand Prix,235.909,kph,46,11,1:29.897,8,52,5003628,6.0,7,7,12,Finished,+56.569,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-silverstone,British Grand Prix,236.401,kph,47,7,1:29.710,10,52,5010636,4.0,8,8,12,Finished,+1:03.577,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-silverstone,British Grand Prix,236.38,kph,52,8,1:29.718,9,52,5015446,2.0,9,9,12,Finished,+1:08.387,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-silverstone,British Grand Prix,235.041,kph,43,14,1:30.229,13,52,5026362,1.0,10,10,12,Finished,+1:19.303,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-silverstone,British Grand Prix,235.713,kph,42,12,1:29.972,12,52,5036019,0.0,11,11,12,Finished,+1:28.960,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-silverstone,British Grand Prix,235.396,kph,42,13,1:30.093,17,52,5037212,0.0,12,12,12,Finished,+1:30.153,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-silverstone,British Grand Prix,233.731,kph,47,15,1:30.735,15,51,4956996,0.0,13,13,12,Lapped,+9.937,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-silverstone,British Grand Prix,236.301,kph,43,9,1:29.748,11,51,4987532,0.0,14,14,12,Lapped,+40.473,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-silverstone,British Grand Prix,232.343,kph,44,18,1:31.277,16,51,4988880,0.0,15,15,12,Lapped,+41.821,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-silverstone,British Grand Prix,233.371,kph,46,16,1:30.875,18,50,4957741,0.0,16,16,12,Lapped,+10.682,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-silverstone,British Grand Prix,236.409,kph,50,6,1:29.707,20,50,4965064,0.0,17,17,12,Lapped,+18.005,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-silverstone,British Grand Prix,233.014,kph,43,17,1:31.014,14,50,5001535,0.0,18,18,12,Lapped,+54.476,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-silverstone,British Grand Prix,232.289,kph,3,19,1:31.298,1,33,,0.0,19,R,12,Retired,,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-silverstone,British Grand Prix,,,,,,19,0,,0.0,20,W,12,Did not start,,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-budapest,Hungarian Grand Prix,193.005,kph,51,8,1:21.716,2,70,5881989,25.0,1,1,13,Finished,1:38:01.989,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-budapest,Hungarian Grand Prix,193.014,kph,50,7,1:21.712,1,70,5884130,18.0,2,2,13,Finished,+2.141,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-budapest,Hungarian Grand Prix,191.978,kph,54,9,1:22.153,5,70,5896869,15.0,3,3,13,Finished,+14.880,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-budapest,Hungarian Grand Prix,191.91,kph,29,10,1:22.182,6,70,5901675,12.0,4,4,13,Finished,+19.686,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-budapest,Hungarian Grand Prix,194.932,kph,51,3,1:20.908,3,70,5903338,10.0,5,5,13,Finished,+21.349,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-budapest,Hungarian Grand Prix,193.656,kph,53,5,1:21.441,4,70,5905062,8.0,6,6,13,Finished,+23.073,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-budapest,Hungarian Grand Prix,194.48,kph,49,4,1:21.096,16,70,5921781,6.0,7,7,13,Finished,+39.792,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-budapest,Hungarian Grand Prix,196.396,kph,55,1,1:20.305,17,70,5924357,5.0,8,8,13,Finished,+42.368,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-budapest,Hungarian Grand Prix,188.806,kph,57,18,1:23.533,10,70,5959248,2.0,9,9,13,Finished,+1:17.259,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-budapest,Hungarian Grand Prix,191.547,kph,48,11,1:22.338,8,70,5959965,1.0,10,10,13,Finished,+1:17.976,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-budapest,Hungarian Grand Prix,189.875,kph,52,14,1:23.063,7,70,5964449,0.0,11,11,13,Finished,+1:22.460,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-budapest,Hungarian Grand Prix,190.847,kph,30,12,1:22.640,9,69,5899913,0.0,12,12,13,Lapped,+17.924,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-budapest,Hungarian Grand Prix,188.969,kph,54,16,1:23.461,11,69,5915173,0.0,13,13,13,Lapped,+33.184,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-budapest,Hungarian Grand Prix,187.913,kph,31,20,1:23.930,13,69,5918758,0.0,14,14,13,Lapped,+36.769,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-budapest,Hungarian Grand Prix,188.761,kph,50,19,1:23.553,15,69,5927291,0.0,15,15,13,Lapped,+45.302,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-budapest,Hungarian Grand Prix,190.496,kph,52,13,1:22.792,12,69,5927398,0.0,16,16,13,Lapped,+45.409,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-budapest,Hungarian Grand Prix,195.772,kph,65,2,1:20.561,14,69,5934580,0.0,17,17,13,Lapped,+52.591,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-budapest,Hungarian Grand Prix,193.255,kph,66,6,1:21.610,19,69,5942918,0.0,18,18,13,Lapped,+1:00.929,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-budapest,Hungarian Grand Prix,188.91,kph,38,17,1:23.487,18,69,5945587,0.0,19,19,13,Lapped,+1:03.598,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-budapest,Hungarian Grand Prix,189.244,kph,31,15,1:23.340,20,33,,0.0,20,R,13,Retired,,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-spa,Belgian Grand Prix,236.415,kph,33,6,1:46.653,3,44,4797566,25.0,1,1,14,Finished,1:19:57.566,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-spa,Belgian Grand Prix,238.231,kph,32,3,1:45.840,5,44,4798213,18.0,2,2,14,Finished,+0.647,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-spa,Belgian Grand Prix,235.619,kph,33,8,1:47.013,1,44,4805589,15.0,3,3,14,Finished,+8.023,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-spa,Belgian Grand Prix,237.584,kph,32,4,1:46.128,11,44,4806266,12.0,4,4,14,Finished,+8.700,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-spa,Belgian Grand Prix,238.856,kph,31,2,1:45.563,4,44,4806890,10.0,5,5,14,Finished,+9.324,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-spa,Belgian Grand Prix,237.057,kph,44,5,1:46.364,7,44,4816835,8.0,6,6,14,Finished,+19.269,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-spa,Belgian Grand Prix,240.822,kph,44,1,1:44.701,2,44,4840235,7.0,7,7,14,Finished,+42.669,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-spa,Belgian Grand Prix,233.356,kph,42,17,1:48.051,8,44,4847003,4.0,8,8,14,Finished,+49.437,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-spa,Belgian Grand Prix,235.743,kph,43,7,1:46.957,9,44,4849592,2.0,9,9,14,Finished,+52.026,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-spa,Belgian Grand Prix,234.694,kph,37,12,1:47.435,13,44,4851966,1.0,10,10,14,Finished,+54.400,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-spa,Belgian Grand Prix,233.239,kph,44,18,1:48.105,15,44,4860051,0.0,11,11,14,Finished,+1:02.485,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-spa,Belgian Grand Prix,233.475,kph,44,16,1:47.996,10,44,4860691,0.0,12,12,14,Finished,+1:03.125,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-spa,Belgian Grand Prix,234.731,kph,30,11,1:47.418,12,44,4861405,0.0,13,13,14,Finished,+1:03.839,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-spa,Belgian Grand Prix,233.795,kph,44,14,1:47.848,17,44,4863671,0.0,14,14,14,Finished,+1:06.105,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-spa,Belgian Grand Prix,235.606,kph,37,9,1:47.019,14,44,4867678,0.0,15,15,14,Finished,+1:10.112,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-spa,Belgian Grand Prix,233.533,kph,44,15,1:47.969,20,44,4873777,0.0,16,16,14,Finished,+1:16.211,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-spa,Belgian Grand Prix,234.574,kph,43,13,1:47.490,18,44,4883097,0.0,17,17,14,Finished,+1:25.531,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-spa,Belgian Grand Prix,231.422,kph,44,19,1:48.954,16,44,4885873,0.0,18,18,14,Finished,+1:28.307,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-spa,Belgian Grand Prix,224.929,kph,2,20,1:52.099,19,5,,0.0,19,R,14,Retired,,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-spa,Belgian Grand Prix,235.399,kph,44,10,1:47.113,6,44,4797040,0.0,20,20,14,Disqualified,,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-zandvoort,Dutch Grand Prix,207.708,kph,72,1,1:13.817,1,72,5445519,26.0,1,1,15,Finished,1:30:45.519,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-zandvoort,Dutch Grand Prix,205.11,kph,30,9,1:14.752,2,72,5468415,18.0,2,2,15,Finished,+22.896,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-zandvoort,Dutch Grand Prix,205.569,kph,62,7,1:14.585,6,72,5470958,15.0,3,3,15,Finished,+25.439,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-zandvoort,Dutch Grand Prix,206.533,kph,36,5,1:14.237,3,72,5472856,12.0,4,4,15,Finished,+27.337,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-zandvoort,Dutch Grand Prix,206.867,kph,40,4,1:14.117,10,72,5477656,10.0,5,5,15,Finished,+32.137,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-zandvoort,Dutch Grand Prix,205.563,kph,69,8,1:14.587,5,72,5485061,8.0,6,6,15,Finished,+39.542,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-zandvoort,Dutch Grand Prix,207.399,kph,57,3,1:13.927,4,72,5490136,6.0,7,7,15,Finished,+44.617,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-zandvoort,Dutch Grand Prix,207.536,kph,62,2,1:13.878,14,72,5495118,4.0,8,8,15,Finished,+49.599,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-zandvoort,Dutch Grand Prix,204.828,kph,54,11,1:14.855,9,71,5454123,2.0,9,9,15,Lapped,+8.604,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-zandvoort,Dutch Grand Prix,205.093,kph,34,10,1:14.758,7,71,5459052,1.0,10,10,15,Lapped,+13.533,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-zandvoort,Dutch Grand Prix,202.656,kph,59,18,1:15.657,12,71,5464733,0.0,11,11,15,Lapped,+19.214,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-zandvoort,Dutch Grand Prix,203.828,kph,52,13,1:15.222,13,71,5466586,0.0,12,12,15,Lapped,+21.067,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-zandvoort,Dutch Grand Prix,203.739,kph,51,14,1:15.255,8,71,5471231,0.0,13,13,15,Lapped,+25.712,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-zandvoort,Dutch Grand Prix,205.986,kph,71,6,1:14.434,19,71,5486230,0.0,14,14,15,Lapped,+40.711,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-zandvoort,Dutch Grand Prix,203.374,kph,50,15,1:15.390,15,71,5492397,0.0,15,15,15,Lapped,+46.878,2024
+Williams,williams,British,SAR,sargeant,Logan Sargeant,American,2,2024-zandvoort,Dutch Grand Prix,202.973,kph,26,16,1:15.539,18,71,5510058,0.0,16,16,15,Lapped,+1:04.539,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-zandvoort,Dutch Grand Prix,202.938,kph,16,17,1:15.552,11,71,5510665,0.0,17,17,15,Lapped,+1:05.146,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-zandvoort,Dutch Grand Prix,204.557,kph,42,12,1:14.954,20,71,5511226,0.0,18,18,15,Lapped,+1:05.707,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-zandvoort,Dutch Grand Prix,202.215,kph,45,20,1:15.822,16,70,5448767,0.0,19,19,15,Lapped,+3.248,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-zandvoort,Dutch Grand Prix,202.477,kph,67,19,1:15.724,17,70,5481538,0.0,20,20,15,Lapped,+36.019,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-monza,Italian Grand Prix,250.58,kph,33,10,1:23.226,4,53,4480727,25.0,1,1,16,Finished,1:14:40.727,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-monza,Italian Grand Prix,254.503,kph,53,4,1:21.943,2,53,4483391,18.0,2,2,16,Finished,+2.664,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-monza,Italian Grand Prix,256.1,kph,53,1,1:21.432,1,53,4486880,16.0,3,3,16,Finished,+6.153,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-monza,Italian Grand Prix,250.601,kph,53,9,1:23.219,5,53,4496348,12.0,4,4,16,Finished,+15.621,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-monza,Italian Grand Prix,255.849,kph,53,2,1:21.512,6,53,4503547,10.0,5,5,16,Finished,+22.820,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-monza,Italian Grand Prix,255.12,kph,43,3,1:21.745,7,53,4518659,8.0,6,6,16,Finished,+37.932,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-monza,Italian Grand Prix,254.215,kph,49,5,1:22.036,3,53,4520442,6.0,7,7,16,Finished,+39.715,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-monza,Italian Grand Prix,251.35,kph,47,8,1:22.971,8,53,4534875,4.0,8,8,16,Finished,+54.148,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-monza,Italian Grand Prix,248.514,kph,53,16,1:23.918,9,53,4548183,2.0,9,9,16,Finished,+1:07.456,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-monza,Italian Grand Prix,249.946,kph,51,12,1:23.437,13,53,4549029,1.0,10,10,16,Finished,+1:08.302,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-monza,Italian Grand Prix,251.432,kph,46,7,1:22.944,11,53,4549222,0.0,11,11,16,Finished,+1:08.495,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-monza,Italian Grand Prix,249.077,kph,53,14,1:23.728,18,53,4562035,0.0,12,12,16,Finished,+1:21.308,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-monza,Italian Grand Prix,247.625,kph,52,17,1:24.219,12,53,4574179,0.0,13,13,16,Finished,+1:33.452,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-monza,Italian Grand Prix,247.261,kph,52,18,1:24.343,15,52,4493386,0.0,14,14,16,Lapped,+12.659,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-monza,Italian Grand Prix,248.997,kph,51,15,1:23.755,14,52,4499071,0.0,15,15,16,Lapped,+18.344,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-monza,Italian Grand Prix,249.432,kph,52,13,1:23.609,19,52,4507938,0.0,16,16,16,Lapped,+27.211,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-monza,Italian Grand Prix,250.432,kph,44,11,1:23.275,10,52,4511597,0.0,17,17,16,Lapped,+30.870,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-monza,Italian Grand Prix,245.085,kph,17,19,1:25.092,20,52,4520782,0.0,18,18,16,Lapped,+40.055,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-monza,Italian Grand Prix,253.609,kph,52,6,1:22.232,17,52,4524235,0.0,19,19,16,Lapped,+43.508,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-monza,Italian Grand Prix,241.94,kph,4,20,1:26.198,16,7,,0.0,20,R,16,Retired,,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-baku,Azerbaijan Grand Prix,201.856,kph,47,9,1:47.060,2,51,5578007,25.0,1,1,17,Finished,1:32:58.007,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-baku,Azerbaijan Grand Prix,201.843,kph,44,10,1:47.067,1,51,5588917,18.0,2,2,17,Finished,+10.910,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-baku,Azerbaijan Grand Prix,202.674,kph,45,2,1:46.628,5,51,5609335,15.0,3,3,17,Finished,+31.328,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-baku,Azerbaijan Grand Prix,205.318,kph,42,1,1:45.255,15,51,5614150,13.0,4,4,17,Finished,+36.143,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-baku,Azerbaijan Grand Prix,202.352,kph,42,3,1:46.798,6,51,5655105,10.0,5,5,17,Finished,+1:17.098,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-baku,Azerbaijan Grand Prix,201.862,kph,48,8,1:47.057,7,51,5663475,8.0,6,6,17,Finished,+1:25.468,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-baku,Azerbaijan Grand Prix,202.07,kph,43,5,1:46.947,9,51,5665403,6.0,7,7,17,Finished,+1:27.396,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-baku,Azerbaijan Grand Prix,201.454,kph,44,12,1:47.274,8,51,5667548,4.0,8,8,17,Finished,+1:29.541,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-baku,Azerbaijan Grand Prix,201.525,kph,48,11,1:47.236,19,51,5670408,2.0,9,9,17,Finished,+1:32.401,2024
+Haas F1 Team,haas,American,BEA,bearman,Oliver Bearman,British,87,2024-baku,Azerbaijan Grand Prix,201.879,kph,47,7,1:47.048,10,51,5671134,1.0,10,10,17,Finished,+1:33.127,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-baku,Azerbaijan Grand Prix,200.674,kph,42,14,1:47.691,12,51,5671472,0.0,11,11,17,Finished,+1:33.465,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-baku,Azerbaijan Grand Prix,200.066,kph,47,15,1:48.018,18,51,5695196,0.0,12,12,17,Finished,+1:57.189,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-baku,Azerbaijan Grand Prix,199.398,kph,39,17,1:48.380,14,51,5724914,0.0,13,13,17,Finished,+2:26.907,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-baku,Azerbaijan Grand Prix,200.761,kph,43,13,1:47.644,17,51,5726848,0.0,14,14,17,Finished,+2:28.841,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-baku,Azerbaijan Grand Prix,198.572,kph,35,19,1:48.831,20,50,5599351,0.0,15,15,17,Lapped,+21.344,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-baku,Azerbaijan Grand Prix,199.328,kph,41,18,1:48.418,16,50,5603402,0.0,16,16,17,Lapped,+25.395,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-baku,Azerbaijan Grand Prix,201.945,kph,46,6,1:47.013,4,49,5321198,0.0,17,17,17,Retired,,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-baku,Azerbaijan Grand Prix,202.223,kph,46,4,1:46.866,3,49,5321768,0.0,18,18,17,Retired,,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-baku,Azerbaijan Grand Prix,199.826,kph,31,16,1:48.148,13,45,5001080,0.0,19,19,17,Retired,,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-baku,Azerbaijan Grand Prix,194.89,kph,8,20,1:50.887,11,14,,0.0,20,R,17,Retired,,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-marina-bay,Singapore Grand Prix,187.347,kph,48,2,1:34.925,1,62,6052571,25.0,1,1,18,Finished,1:40:52.571,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-marina-bay,Singapore Grand Prix,185.313,kph,59,5,1:35.967,2,62,6073516,18.0,2,2,18,Finished,+20.945,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-marina-bay,Singapore Grand Prix,185.743,kph,48,4,1:35.745,5,62,6094394,15.0,3,3,18,Finished,+41.823,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-marina-bay,Singapore Grand Prix,183.251,kph,30,10,1:37.047,4,62,6113611,12.0,4,4,18,Finished,+1:01.040,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-marina-bay,Singapore Grand Prix,186.471,kph,46,3,1:35.371,9,62,6115001,10.0,5,5,18,Finished,+1:02.430,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-marina-bay,Singapore Grand Prix,182.6,kph,43,12,1:37.393,3,62,6137819,8.0,6,6,18,Finished,+1:25.248,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-marina-bay,Singapore Grand Prix,184.173,kph,15,7,1:36.561,10,62,6148610,6.0,7,7,18,Finished,+1:36.039,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-marina-bay,Singapore Grand Prix,181.95,kph,54,18,1:37.741,7,61,6053444,4.0,8,8,18,Lapped,+0.873,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-marina-bay,Singapore Grand Prix,182.456,kph,35,15,1:37.470,6,61,6055711,2.0,9,9,18,Lapped,+3.140,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-marina-bay,Singapore Grand Prix,182.443,kph,33,16,1:37.477,13,61,6057195,1.0,10,10,18,Lapped,+4.624,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-marina-bay,Singapore Grand Prix,182.846,kph,35,11,1:37.262,12,61,6058855,0.0,11,11,18,Lapped,+6.284,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-marina-bay,Singapore Grand Prix,184.494,kph,53,6,1:36.393,8,61,6061363,0.0,12,12,18,Lapped,+8.792,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-marina-bay,Singapore Grand Prix,181.536,kph,48,20,1:37.964,15,61,6096576,0.0,13,13,18,Lapped,+44.005,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-marina-bay,Singapore Grand Prix,181.745,kph,36,19,1:37.851,17,61,6100142,0.0,14,14,18,Lapped,+47.571,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-marina-bay,Singapore Grand Prix,182.472,kph,47,14,1:37.461,20,61,6109791,0.0,15,15,18,Lapped,+57.220,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-marina-bay,Singapore Grand Prix,182.355,kph,46,17,1:37.524,19,61,6110400,0.0,16,16,18,Lapped,+57.829,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-marina-bay,Singapore Grand Prix,183.478,kph,46,9,1:36.927,18,61,6111630,0.0,17,17,18,Lapped,+59.059,2024
+RB F1 Team,rb,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2024-marina-bay,Singapore Grand Prix,188.218,kph,60,1,1:34.486,16,61,6142367,0.0,18,18,18,Lapped,+1:29.796,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-marina-bay,Singapore Grand Prix,182.54,kph,52,13,1:37.425,14,57,5811906,0.0,19,19,18,Retired,,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-marina-bay,Singapore Grand Prix,183.552,kph,13,8,1:36.888,11,15,,0.0,20,R,18,Retired,,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-austin,United States Grand Prix,202.861,kph,39,6,1:37.834,4,56,5709639,25.0,1,1,19,Finished,1:35:09.639,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-austin,United States Grand Prix,203.009,kph,42,5,1:37.763,3,56,5718201,18.0,2,2,19,Finished,+8.562,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-austin,United States Grand Prix,202.276,kph,42,9,1:38.117,2,56,5729051,15.0,3,3,19,Finished,+19.412,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-austin,United States Grand Prix,203.183,kph,55,4,1:37.679,1,56,5729993,12.0,4,4,19,Finished,+20.354,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-austin,United States Grand Prix,202.76,kph,42,7,1:37.883,5,56,5731560,10.0,5,5,19,Finished,+21.921,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-austin,United States Grand Prix,203.231,kph,42,3,1:37.656,20,56,5765934,8.0,6,6,19,Finished,+56.295,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-austin,United States Grand Prix,201.461,kph,45,13,1:38.514,9,56,5768711,6.0,7,7,19,Finished,+59.072,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-austin,United States Grand Prix,201.686,kph,51,12,1:38.404,11,56,5772596,4.0,8,8,19,Finished,+1:02.957,2024
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2024-austin,United States Grand Prix,202.33,kph,54,8,1:38.091,19,56,5780202,2.0,9,9,19,Finished,+1:10.563,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-austin,United States Grand Prix,203.325,kph,46,2,1:37.611,15,56,5781618,1.0,10,10,19,Finished,+1:11.979,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-austin,United States Grand Prix,202.085,kph,56,10,1:38.210,8,56,5789421,0.0,11,11,19,Finished,+1:19.782,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-austin,United States Grand Prix,201.877,kph,55,11,1:38.311,6,56,5800197,0.0,12,12,19,Finished,+1:30.558,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-austin,United States Grand Prix,199.945,kph,52,17,1:39.261,7,55,5711365,0.0,13,13,19,Lapped,+1.726,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-austin,United States Grand Prix,200.082,kph,54,15,1:39.193,10,55,5717851,0.0,14,14,19,Lapped,+8.212,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-austin,United States Grand Prix,200.04,kph,54,16,1:39.214,13,55,5726622,0.0,15,15,19,Lapped,+16.983,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-austin,United States Grand Prix,200.302,kph,54,14,1:39.084,14,55,5727731,0.0,16,16,19,Lapped,+18.092,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-austin,United States Grand Prix,197.333,kph,53,19,1:40.575,16,55,5743972,0.0,17,17,19,Lapped,+34.333,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-austin,United States Grand Prix,203.912,kph,53,1,1:37.330,12,55,5751751,0.0,18,18,19,Lapped,+42.112,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-austin,United States Grand Prix,199.923,kph,53,18,1:39.272,18,55,5758879,0.0,19,19,19,Lapped,+49.240,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-austin,United States Grand Prix,,,,,,17,1,,0.0,20,R,19,Retired,,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-mexico-city,Mexico City Grand Prix,193.348,kph,62,7,1:20.137,1,71,6055800,25.0,1,1,20,Finished,1:40:55.800,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-mexico-city,Mexico City Grand Prix,194.43,kph,68,4,1:19.691,3,71,6060505,18.0,2,2,20,Finished,+4.705,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-mexico-city,Mexico City Grand Prix,197.794,kph,71,1,1:18.336,4,71,6090187,16.0,3,3,20,Finished,+34.387,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-mexico-city,Mexico City Grand Prix,192.785,kph,31,8,1:20.371,6,71,6100580,12.0,4,4,20,Finished,+44.780,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-mexico-city,Mexico City Grand Prix,191.926,kph,63,11,1:20.731,5,71,6104336,10.0,5,5,20,Finished,+48.536,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-mexico-city,Mexico City Grand Prix,191.591,kph,53,13,1:20.872,2,71,6115358,8.0,6,6,20,Finished,+59.558,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-mexico-city,Mexico City Grand Prix,192.15,kph,61,9,1:20.637,7,71,6119442,6.0,7,7,20,Finished,+1:03.642,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-mexico-city,Mexico City Grand Prix,193.525,kph,65,5,1:20.064,17,71,6120728,4.0,8,8,20,Finished,+1:04.928,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-mexico-city,Mexico City Grand Prix,191.885,kph,69,12,1:20.748,10,70,6058520,2.0,9,9,20,Lapped,+2.720,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-mexico-city,Mexico City Grand Prix,190.643,kph,67,15,1:21.274,8,70,6074387,1.0,10,10,20,Lapped,+18.587,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-mexico-city,Mexico City Grand Prix,190.557,kph,55,16,1:21.311,14,70,6080872,0.0,11,11,20,Lapped,+25.072,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-mexico-city,Mexico City Grand Prix,193.462,kph,50,6,1:20.090,16,70,6093297,0.0,12,12,20,Lapped,+37.497,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-mexico-city,Mexico City Grand Prix,192.097,kph,70,10,1:20.659,0,70,6095463,0.0,13,13,20,Lapped,+39.663,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-mexico-city,Mexico City Grand Prix,191.088,kph,57,14,1:21.085,15,70,6098027,0.0,14,14,20,Lapped,+42.227,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-mexico-city,Mexico City Grand Prix,189.991,kph,56,17,1:21.553,19,70,6117522,0.0,15,15,20,Lapped,+1:01.722,2024
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2024-mexico-city,Mexico City Grand Prix,194.893,kph,67,3,1:19.502,12,70,6120266,0.0,16,16,20,Lapped,+1:04.466,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-mexico-city,Mexico City Grand Prix,195.614,kph,70,2,1:19.209,18,70,6129084,0.0,17,17,20,Lapped,+1:13.284,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-mexico-city,Mexico City Grand Prix,187.306,kph,7,18,1:22.722,13,15,,0.0,18,R,20,Retired,,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-mexico-city,Mexico City Grand Prix,,,,,,9,0,,0.0,19,R,20,Retired,,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-mexico-city,Mexico City Grand Prix,,,,,,11,0,,0.0,20,R,20,Retired,,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-s-o-paulo,São Paulo Grand Prix,192.767,kph,67,1,1:20.472,17,69,7614430,26.0,1,1,21,Finished,2:06:54.430,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-s-o-paulo,São Paulo Grand Prix,189.705,kph,64,7,1:21.771,4,69,7633907,18.0,2,2,21,Finished,+19.477,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-s-o-paulo,São Paulo Grand Prix,189.998,kph,66,5,1:21.645,13,69,7636962,15.0,3,3,21,Finished,+22.532,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-s-o-paulo,São Paulo Grand Prix,189.998,kph,66,6,1:21.645,2,69,7637695,12.0,4,4,21,Finished,+23.265,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-s-o-paulo,São Paulo Grand Prix,190.03,kph,60,4,1:21.631,6,69,7644607,10.0,5,5,21,Finished,+30.177,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-s-o-paulo,São Paulo Grand Prix,190.296,kph,67,2,1:21.517,1,69,7645802,8.0,6,6,21,Finished,+31.372,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-s-o-paulo,São Paulo Grand Prix,189.573,kph,69,8,1:21.828,3,69,7656486,6.0,7,7,21,Finished,+42.056,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-s-o-paulo,São Paulo Grand Prix,190.261,kph,69,3,1:21.532,8,69,7659373,4.0,8,8,21,Finished,+44.943,2024
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2024-s-o-paulo,São Paulo Grand Prix,188.892,kph,67,10,1:22.123,5,69,7664882,2.0,9,9,21,Finished,+50.452,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-s-o-paulo,São Paulo Grand Prix,189.081,kph,69,9,1:22.041,14,69,7665183,1.0,10,10,21,Finished,+50.753,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-s-o-paulo,São Paulo Grand Prix,188.846,kph,67,11,1:22.143,12,69,7665961,0.0,11,11,21,Finished,+51.531,2024
+Haas F1 Team,haas,American,BEA,bearman,Oliver Bearman,British,87,2024-s-o-paulo,São Paulo Grand Prix,188.042,kph,64,13,1:22.494,15,69,7671515,0.0,12,12,21,Finished,+57.085,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-s-o-paulo,São Paulo Grand Prix,187.173,kph,67,14,1:22.877,11,69,7678018,0.0,13,13,21,Finished,+1:03.588,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-s-o-paulo,São Paulo Grand Prix,188.502,kph,59,12,1:22.293,9,69,7692479,0.0,14,14,21,Finished,+1:18.049,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-s-o-paulo,São Paulo Grand Prix,186.765,kph,65,15,1:23.058,19,69,7694079,0.0,15,15,21,Finished,+1:19.649,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-s-o-paulo,São Paulo Grand Prix,184.23,kph,19,16,1:24.201,20,38,,0.0,16,R,21,Retired,,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-s-o-paulo,São Paulo Grand Prix,184.022,kph,21,17,1:24.296,16,30,,0.0,17,R,21,Retired,,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-s-o-paulo,São Paulo Grand Prix,,,,,,7,0,,0.0,18,W,21,Did not start,,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-s-o-paulo,São Paulo Grand Prix,,,,,,10,0,,0.0,19,W,21,Did not start,,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-s-o-paulo,São Paulo Grand Prix,,,,,,18,0,,0.0,20,D,21,Disqualified,,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-las-vegas,Las Vegas Grand Prix,233.225,kph,46,4,1:35.717,1,50,4925969,25.0,1,1,22,Finished,1:22:05.969,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-las-vegas,Las Vegas Grand Prix,233.803,kph,41,2,1:35.480,10,50,4933282,18.0,2,2,22,Finished,+7.313,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-las-vegas,Las Vegas Grand Prix,232.84,kph,44,5,1:35.875,2,50,4937875,15.0,3,3,22,Finished,+11.906,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-las-vegas,Las Vegas Grand Prix,233.329,kph,40,3,1:35.674,4,50,4940252,12.0,4,4,22,Finished,+14.283,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-las-vegas,Las Vegas Grand Prix,231.938,kph,43,6,1:36.248,5,50,4942551,10.0,5,5,22,Finished,+16.582,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-las-vegas,Las Vegas Grand Prix,235.292,kph,50,1,1:34.876,6,50,4969354,9.0,6,6,22,Finished,+43.385,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-las-vegas,Las Vegas Grand Prix,231.097,kph,44,13,1:36.598,8,50,4977334,6.0,7,7,22,Finished,+51.365,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-las-vegas,Las Vegas Grand Prix,231.129,kph,48,12,1:36.585,9,50,4985777,4.0,8,8,22,Finished,+59.808,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-las-vegas,Las Vegas Grand Prix,230.242,kph,48,16,1:36.957,7,50,4988777,2.0,9,9,22,Finished,+1:02.808,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-las-vegas,Las Vegas Grand Prix,231.75,kph,42,8,1:36.326,15,50,4989083,1.0,10,10,22,Finished,+1:03.114,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-las-vegas,Las Vegas Grand Prix,231.205,kph,39,10,1:36.553,16,50,4995164,0.0,11,11,22,Finished,+1:09.195,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-las-vegas,Las Vegas Grand Prix,231.196,kph,49,11,1:36.557,12,50,4995772,0.0,12,12,22,Finished,+1:09.803,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-las-vegas,Las Vegas Grand Prix,231.755,kph,46,7,1:36.324,13,50,5000054,0.0,13,13,22,Finished,+1:14.085,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-las-vegas,Las Vegas Grand Prix,230.456,kph,37,15,1:36.867,20,50,5001141,0.0,14,14,22,Finished,+1:15.172,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-las-vegas,Las Vegas Grand Prix,229.716,kph,43,18,1:37.179,18,50,5010071,0.0,15,15,22,Finished,+1:24.102,2024
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2024-las-vegas,Las Vegas Grand Prix,230.187,kph,45,17,1:36.980,14,50,5016974,0.0,16,16,22,Finished,+1:31.005,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-las-vegas,Las Vegas Grand Prix,231.306,kph,47,9,1:36.511,11,49,4928029,0.0,17,17,22,Lapped,+2.060,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-las-vegas,Las Vegas Grand Prix,231.09,kph,46,14,1:36.601,19,49,4937254,0.0,18,18,22,Lapped,+11.285,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-las-vegas,Las Vegas Grand Prix,227.773,kph,21,19,1:38.008,17,25,,0.0,19,R,22,Retired,,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-las-vegas,Las Vegas Grand Prix,227.064,kph,13,20,1:38.314,3,15,,0.0,20,R,22,Retired,,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-lusail,Qatar Grand Prix,235.31,kph,55,2,1:22.905,2,57,5465323,25.0,1,1,23,Finished,1:31:05.323,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-lusail,Qatar Grand Prix,234.357,kph,53,4,1:23.242,5,57,5471354,18.0,2,2,23,Finished,+6.031,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-lusail,Qatar Grand Prix,234.425,kph,51,3,1:23.218,4,57,5472142,15.0,3,3,23,Finished,+6.819,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-lusail,Qatar Grand Prix,234.039,kph,50,5,1:23.355,1,57,5479427,12.0,4,4,23,Finished,+14.104,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-lusail,Qatar Grand Prix,233.061,kph,56,8,1:23.705,11,57,5482105,10.0,5,5,23,Finished,+16.782,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-lusail,Qatar Grand Prix,233.731,kph,52,6,1:23.465,7,57,5482799,8.0,6,6,23,Finished,+17.476,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-lusail,Qatar Grand Prix,233.167,kph,57,7,1:23.667,8,57,5485190,6.0,7,7,23,Finished,+19.867,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-lusail,Qatar Grand Prix,232.55,kph,57,10,1:23.889,12,57,5490683,4.0,8,8,23,Finished,+25.360,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-lusail,Qatar Grand Prix,231.528,kph,55,11,1:24.259,10,57,5497500,2.0,9,9,23,Finished,+32.177,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-lusail,Qatar Grand Prix,236.798,kph,56,1,1:22.384,3,57,5501085,2.0,10,10,23,Finished,+35.762,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-lusail,Qatar Grand Prix,228.08,kph,53,13,1:25.533,13,57,5515566,0.0,11,11,23,Finished,+50.243,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-lusail,Qatar Grand Prix,232.616,kph,52,9,1:23.865,6,57,5521445,0.0,12,12,23,Finished,+56.122,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-lusail,Qatar Grand Prix,226.462,kph,47,17,1:26.144,14,57,5526423,0.0,13,13,23,Finished,+1:01.100,2024
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2024-lusail,Qatar Grand Prix,226.641,kph,46,16,1:26.076,17,57,5527979,0.0,14,14,23,Finished,+1:02.656,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-lusail,Qatar Grand Prix,228.011,kph,47,14,1:25.559,16,56,5478292,0.0,15,15,23,Lapped,+12.969,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-lusail,Qatar Grand Prix,227.458,kph,33,15,1:25.767,18,39,,0.0,16,R,23,Retired,,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-lusail,Qatar Grand Prix,228.735,kph,31,12,1:25.288,9,38,,0.0,17,R,23,Retired,,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-lusail,Qatar Grand Prix,214.531,kph,6,18,1:30.935,15,8,,0.0,18,R,23,Retired,,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-lusail,Qatar Grand Prix,,,,,,19,0,,0.0,19,R,23,Retired,,2024
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2024-lusail,Qatar Grand Prix,,,,,,20,0,,0.0,20,R,23,Retired,,2024
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2024-abu-dhabi,Abu Dhabi Grand Prix,217.429,kph,52,3,1:27.438,1,58,5193291,25.0,1,1,24,Finished,1:26:33.291,2024
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2024-abu-dhabi,Abu Dhabi Grand Prix,216.619,kph,55,5,1:27.765,3,58,5199123,18.0,2,2,24,Finished,+5.832,2024
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2024-abu-dhabi,Abu Dhabi Grand Prix,215.996,kph,51,9,1:28.018,19,58,5225219,15.0,3,3,24,Finished,+31.928,2024
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2024-abu-dhabi,Abu Dhabi Grand Prix,217.828,kph,44,2,1:27.278,16,58,5229774,12.0,4,4,24,Finished,+36.483,2024
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2024-abu-dhabi,Abu Dhabi Grand Prix,215.563,kph,56,10,1:28.195,6,58,5230829,10.0,5,5,24,Finished,+37.538,2024
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2024-abu-dhabi,Abu Dhabi Grand Prix,216.619,kph,56,6,1:27.765,4,58,5243138,8.0,6,6,24,Finished,+49.847,2024
+Alpine F1 Team,alpine,French,GAS,gasly,Pierre Gasly,French,10,2024-abu-dhabi,Abu Dhabi Grand Prix,213.012,kph,30,16,1:29.251,5,58,5265851,6.0,7,7,24,Finished,+1:12.560,2024
+Haas F1 Team,haas,American,HUL,hulkenberg,Nico Hülkenberg,German,27,2024-abu-dhabi,Abu Dhabi Grand Prix,213.249,kph,17,14,1:29.152,7,58,5268845,4.0,8,8,24,Finished,+1:15.554,2024
+Aston Martin,aston_martin,British,ALO,alonso,Fernando Alonso,Spanish,14,2024-abu-dhabi,Abu Dhabi Grand Prix,216.168,kph,51,7,1:27.948,8,58,5275664,2.0,9,9,24,Finished,+1:22.373,2024
+McLaren,mclaren,British,PIA,piastri,Oscar Piastri,Australian,81,2024-abu-dhabi,Abu Dhabi Grand Prix,216.804,kph,51,4,1:27.690,2,58,5277112,1.0,10,10,24,Finished,+1:23.821,2024
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2024-abu-dhabi,Abu Dhabi Grand Prix,212.567,kph,46,18,1:29.438,18,57,5204542,0.0,11,11,24,Lapped,+11.251,2024
+RB F1 Team,rb,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2024-abu-dhabi,Abu Dhabi Grand Prix,213.134,kph,41,15,1:29.200,11,57,5208029,0.0,12,12,24,Lapped,+14.738,2024
+Sauber,sauber,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2024-abu-dhabi,Abu Dhabi Grand Prix,216.085,kph,56,8,1:27.982,15,57,5210595,0.0,13,13,24,Lapped,+17.304,2024
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2024-abu-dhabi,Abu Dhabi Grand Prix,214.568,kph,42,11,1:28.604,13,57,5211764,0.0,14,14,24,Lapped,+18.473,2024
+Alpine F1 Team,alpine,French,DOO,doohan,Jack Doohan,Australian,7,2024-abu-dhabi,Abu Dhabi Grand Prix,213.323,kph,56,13,1:29.121,17,57,5219846,0.0,15,15,24,Lapped,+26.555,2024
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2024-abu-dhabi,Abu Dhabi Grand Prix,222.002,kph,57,1,1:25.637,14,57,5270888,0.0,16,16,24,Lapped,+1:17.597,2024
+RB F1 Team,rb,Italian,LAW,lawson,Liam Lawson,New Zealander,30,2024-abu-dhabi,Abu Dhabi Grand Prix,214.212,kph,52,12,1:28.751,12,55,5076949,0.0,17,17,24,Retired,,2024
+Sauber,sauber,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2024-abu-dhabi,Abu Dhabi Grand Prix,212.462,kph,14,19,1:29.482,9,30,,0.0,18,R,24,Retired,,2024
+Williams,williams,British,COL,colapinto,Franco Colapinto,Argentine,43,2024-abu-dhabi,Abu Dhabi Grand Prix,212.631,kph,5,17,1:29.411,20,26,,0.0,19,R,24,Retired,,2024
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2024-abu-dhabi,Abu Dhabi Grand Prix,,,,,,10,0,,0.0,20,R,24,Retired,,2024

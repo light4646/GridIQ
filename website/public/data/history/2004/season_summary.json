@@ -1,0 +1,40 @@
+{
+  "year": 2004,
+  "generated_at": "2026-05-25T19:02:52.191848+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 18,
+  "race_results": 360,
+  "qualifying_results": 360,
+  "drivers": 25,
+  "constructors": 10,
+  "driver_champion": {
+    "year": 2004,
+    "position": 1,
+    "position_text": "1",
+    "points": 148.0,
+    "wins": 13,
+    "driver_id": "michael_schumacher",
+    "driver_code": "MSC",
+    "driver_number": null,
+    "driver_name": "Michael Schumacher",
+    "driver_nationality": "German",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2004,
+    "position": 1,
+    "position_text": "1",
+    "points": 262.0,
+    "wins": 15,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  }
+}

@@ -1,0 +1,28 @@
+driver,driver_name,teams,points,wins,podiums,starts,dnfs,position
+VET,Sebastian Vettel,['Red Bull'],256.0,5,10,19,3,1
+ALO,Fernando Alonso,['Ferrari'],252.0,5,10,19,2,2
+WEB,Mark Webber,['Red Bull'],242.0,4,10,19,2,3
+HAM,Lewis Hamilton,['McLaren'],240.0,3,9,19,4,4
+BUT,Jenson Button,['McLaren'],214.0,2,7,19,2,5
+MAS,Felipe Massa,['Ferrari'],144.0,0,5,19,1,6
+ROS,Nico Rosberg,['Mercedes'],142.0,0,3,19,3,7
+KUB,Robert Kubica,['Renault'],136.0,0,3,19,3,8
+MSC,Michael Schumacher,['Mercedes'],72.0,0,0,19,2,9
+BAR,Rubens Barrichello,['Williams'],47.0,0,0,19,2,10
+SUT,Adrian Sutil,['Force India'],47.0,0,0,19,4,11
+KOB,Kamui Kobayashi,['Sauber'],32.0,0,0,19,8,12
+PET,Vitaly Petrov,['Renault'],27.0,0,0,19,6,13
+HUL,Nico Hülkenberg,['Williams'],22.0,0,0,19,4,14
+LIU,Vitantonio Liuzzi,['Force India'],21.0,0,0,19,7,15
+BUE,Sébastien Buemi,['Toro Rosso'],8.0,0,0,19,6,16
+DLR,Pedro de la Rosa,['Sauber'],6.0,0,0,14,7,17
+HEI,Nick Heidfeld,['Sauber'],6.0,0,0,5,1,18
+ALG,Jaime Alguersuari,['Toro Rosso'],5.0,0,0,19,2,19
+CHA,Karun Chandhok,['HRT'],0.0,0,0,10,4,20
+DIG,Lucas di Grassi,['Virgin'],0.0,0,0,19,9,21
+GLO,Timo Glock,['Virgin'],0.0,0,0,19,9,22
+KLI,Christian Klien,['HRT'],0.0,0,0,3,1,23
+KOV,Heikki Kovalainen,['Lotus'],0.0,0,0,19,7,24
+SEN,Bruno Senna,['HRT'],0.0,0,0,18,9,25
+TRU,Jarno Trulli,['Lotus'],0.0,0,0,19,11,26
+YAM,Sakon Yamamoto,['HRT'],0.0,0,0,7,1,27

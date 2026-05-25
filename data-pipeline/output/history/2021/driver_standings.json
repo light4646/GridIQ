@@ -1,0 +1,275 @@
+[
+  {
+    "driver": "VER",
+    "driver_name": "Max Verstappen",
+    "teams": [
+      "Red Bull Racing"
+    ],
+    "points": 388.5,
+    "wins": 10,
+    "podiums": 18,
+    "starts": 22,
+    "dnfs": 3,
+    "position": 1
+  },
+  {
+    "driver": "HAM",
+    "driver_name": "Lewis Hamilton",
+    "teams": [
+      "Mercedes"
+    ],
+    "points": 385.5,
+    "wins": 8,
+    "podiums": 17,
+    "starts": 22,
+    "dnfs": 1,
+    "position": 2
+  },
+  {
+    "driver": "BOT",
+    "driver_name": "Valtteri Bottas",
+    "teams": [
+      "Mercedes"
+    ],
+    "points": 219.0,
+    "wins": 1,
+    "podiums": 11,
+    "starts": 22,
+    "dnfs": 4,
+    "position": 3
+  },
+  {
+    "driver": "PER",
+    "driver_name": "Sergio Perez",
+    "teams": [
+      "Red Bull Racing"
+    ],
+    "points": 190.0,
+    "wins": 1,
+    "podiums": 5,
+    "starts": 22,
+    "dnfs": 3,
+    "position": 4
+  },
+  {
+    "driver": "SAI",
+    "driver_name": "Carlos Sainz",
+    "teams": [
+      "Ferrari"
+    ],
+    "points": 163.5,
+    "wins": 0,
+    "podiums": 4,
+    "starts": 22,
+    "dnfs": 0,
+    "position": 5
+  },
+  {
+    "driver": "NOR",
+    "driver_name": "Lando Norris",
+    "teams": [
+      "McLaren"
+    ],
+    "points": 160.0,
+    "wins": 0,
+    "podiums": 4,
+    "starts": 22,
+    "dnfs": 1,
+    "position": 6
+  },
+  {
+    "driver": "LEC",
+    "driver_name": "Charles Leclerc",
+    "teams": [
+      "Ferrari"
+    ],
+    "points": 159.0,
+    "wins": 0,
+    "podiums": 1,
+    "starts": 22,
+    "dnfs": 2,
+    "position": 7
+  },
+  {
+    "driver": "RIC",
+    "driver_name": "Daniel Ricciardo",
+    "teams": [
+      "McLaren"
+    ],
+    "points": 114.0,
+    "wins": 1,
+    "podiums": 1,
+    "starts": 22,
+    "dnfs": 1,
+    "position": 8
+  },
+  {
+    "driver": "GAS",
+    "driver_name": "Pierre Gasly",
+    "teams": [
+      "AlphaTauri"
+    ],
+    "points": 110.0,
+    "wins": 0,
+    "podiums": 1,
+    "starts": 22,
+    "dnfs": 4,
+    "position": 9
+  },
+  {
+    "driver": "ALO",
+    "driver_name": "Fernando Alonso",
+    "teams": [
+      "Alpine"
+    ],
+    "points": 81.0,
+    "wins": 0,
+    "podiums": 1,
+    "starts": 22,
+    "dnfs": 2,
+    "position": 10
+  },
+  {
+    "driver": "OCO",
+    "driver_name": "Esteban Ocon",
+    "teams": [
+      "Alpine"
+    ],
+    "points": 74.0,
+    "wins": 1,
+    "podiums": 1,
+    "starts": 22,
+    "dnfs": 3,
+    "position": 11
+  },
+  {
+    "driver": "VET",
+    "driver_name": "Sebastian Vettel",
+    "teams": [
+      "Aston Martin"
+    ],
+    "points": 43.0,
+    "wins": 0,
+    "podiums": 1,
+    "starts": 22,
+    "dnfs": 5,
+    "position": 12
+  },
+  {
+    "driver": "STR",
+    "driver_name": "Lance Stroll",
+    "teams": [
+      "Aston Martin"
+    ],
+    "points": 34.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 22,
+    "dnfs": 3,
+    "position": 13
+  },
+  {
+    "driver": "TSU",
+    "driver_name": "Yuki Tsunoda",
+    "teams": [
+      "AlphaTauri"
+    ],
+    "points": 32.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 22,
+    "dnfs": 4,
+    "position": 14
+  },
+  {
+    "driver": "RUS",
+    "driver_name": "George Russell",
+    "teams": [
+      "Williams"
+    ],
+    "points": 16.0,
+    "wins": 0,
+    "podiums": 1,
+    "starts": 22,
+    "dnfs": 6,
+    "position": 15
+  },
+  {
+    "driver": "RAI",
+    "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+    "teams": [
+      "Alfa Romeo Racing"
+    ],
+    "points": 10.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 20,
+    "dnfs": 2,
+    "position": 16
+  },
+  {
+    "driver": "LAT",
+    "driver_name": "Nicholas Latifi",
+    "teams": [
+      "Williams"
+    ],
+    "points": 7.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 22,
+    "dnfs": 5,
+    "position": 17
+  },
+  {
+    "driver": "GIO",
+    "driver_name": "Antonio Giovinazzi",
+    "teams": [
+      "Alfa Romeo Racing"
+    ],
+    "points": 3.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 22,
+    "dnfs": 1,
+    "position": 18
+  },
+  {
+    "driver": "KUB",
+    "driver_name": "Robert Kubica",
+    "teams": [
+      "Alfa Romeo Racing"
+    ],
+    "points": 0.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 2,
+    "dnfs": 0,
+    "position": 19
+  },
+  {
+    "driver": "MAZ",
+    "driver_name": "Nikita Mazepin",
+    "teams": [
+      "Haas F1 Team"
+    ],
+    "points": 0.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 22,
+    "dnfs": 6,
+    "position": 20
+  },
+  {
+    "driver": "MSC",
+    "driver_name": "Mick Schumacher",
+    "teams": [
+      "Haas F1 Team"
+    ],
+    "points": 0.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 22,
+    "dnfs": 3,
+    "position": 21
+  }
+]

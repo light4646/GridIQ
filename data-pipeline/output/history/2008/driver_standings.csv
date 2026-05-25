@@ -1,0 +1,23 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",HAM,hamilton,Lewis Hamilton,British,44,98.0,1,1,5,2008
+"[""ferrari""]","[""Ferrari""]",MAS,massa,Felipe Massa,Brazilian,19,97.0,2,2,6,2008
+"[""ferrari""]","[""Ferrari""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,75.0,3,3,2,2008
+"[""bmw_sauber""]","[""BMW Sauber""]",KUB,kubica,Robert Kubica,Polish,88,75.0,4,4,1,2008
+"[""renault""]","[""Renault""]",ALO,alonso,Fernando Alonso,Spanish,14,61.0,5,5,2,2008
+"[""bmw_sauber""]","[""BMW Sauber""]",HEI,heidfeld,Nick Heidfeld,German,,60.0,6,6,0,2008
+"[""mclaren""]","[""McLaren""]",KOV,kovalainen,Heikki Kovalainen,Finnish,,53.0,7,7,1,2008
+"[""toro_rosso""]","[""Toro Rosso""]",VET,vettel,Sebastian Vettel,German,5,35.0,8,8,1,2008
+"[""toyota""]","[""Toyota""]",TRU,trulli,Jarno Trulli,Italian,,31.0,9,9,0,2008
+"[""toyota""]","[""Toyota""]",GLO,glock,Timo Glock,German,,25.0,10,10,0,2008
+"[""red_bull""]","[""Red Bull""]",WEB,webber,Mark Webber,Australian,,21.0,11,11,0,2008
+"[""renault""]","[""Renault""]",PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,,19.0,12,12,0,2008
+"[""williams""]","[""Williams""]",ROS,rosberg,Nico Rosberg,German,6,17.0,13,13,0,2008
+"[""honda""]","[""Honda""]",BAR,barrichello,Rubens Barrichello,Brazilian,,11.0,14,14,0,2008
+"[""williams""]","[""Williams""]",NAK,nakajima,Kazuki Nakajima,Japanese,,9.0,15,15,0,2008
+"[""red_bull""]","[""Red Bull""]",COU,coulthard,David Coulthard,British,,8.0,16,16,0,2008
+"[""toro_rosso""]","[""Toro Rosso""]",BOU,bourdais,Sébastien Bourdais,French,,4.0,17,17,0,2008
+"[""honda""]","[""Honda""]",BUT,button,Jenson Button,British,22,3.0,18,18,0,2008
+"[""force_india""]","[""Force India""]",FIS,fisichella,Giancarlo Fisichella,Italian,,0.0,19,19,0,2008
+"[""force_india""]","[""Force India""]",SUT,sutil,Adrian Sutil,German,99,0.0,20,20,0,2008
+"[""super_aguri""]","[""Super Aguri""]",SAT,sato,Takuma Sato,Japanese,,0.0,21,21,0,2008
+"[""super_aguri""]","[""Super Aguri""]",DAV,davidson,Anthony Davidson,British,,0.0,22,22,0,2008

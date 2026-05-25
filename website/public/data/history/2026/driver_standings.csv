@@ -1,0 +1,23 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mercedes""]","[""Mercedes""]",ANT,antonelli,Andrea Kimi Antonelli,Italian,12,131.0,1,1,4,2026
+"[""mercedes""]","[""Mercedes""]",RUS,russell,George Russell,British,63,88.0,2,2,1,2026
+"[""ferrari""]","[""Ferrari""]",LEC,leclerc,Charles Leclerc,Monegasque,16,75.0,3,3,0,2026
+"[""ferrari""]","[""Ferrari""]",HAM,hamilton,Lewis Hamilton,British,44,72.0,4,4,0,2026
+"[""mclaren""]","[""McLaren""]",NOR,norris,Lando Norris,British,1,58.0,5,5,0,2026
+"[""mclaren""]","[""McLaren""]",PIA,piastri,Oscar Piastri,Australian,81,48.0,6,6,0,2026
+"[""red_bull""]","[""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,43.0,7,7,0,2026
+"[""alpine""]","[""Alpine F1 Team""]",GAS,gasly,Pierre Gasly,French,10,20.0,8,8,0,2026
+"[""haas""]","[""Haas F1 Team""]",BEA,bearman,Oliver Bearman,British,87,18.0,9,9,0,2026
+"[""rb""]","[""RB F1 Team""]",LAW,lawson,Liam Lawson,New Zealander,30,16.0,10,10,0,2026
+"[""alpine""]","[""Alpine F1 Team""]",COL,colapinto,Franco Colapinto,Argentine,43,15.0,11,11,0,2026
+"[""red_bull""]","[""Red Bull""]",HAD,hadjar,Isack Hadjar,French,6,14.0,12,12,0,2026
+"[""williams""]","[""Williams""]",SAI,sainz,Carlos Sainz,Spanish,55,6.0,13,13,0,2026
+"[""rb""]","[""RB F1 Team""]",LIN,arvid_lindblad,Arvid Lindblad,British,41,5.0,14,14,0,2026
+"[""audi""]","[""Audi""]",BOR,bortoleto,Gabriel Bortoleto,Brazilian,5,2.0,15,15,0,2026
+"[""haas""]","[""Haas F1 Team""]",OCO,ocon,Esteban Ocon,French,31,1.0,16,16,0,2026
+"[""williams""]","[""Williams""]",ALB,albon,Alexander Albon,Thai,23,1.0,17,17,0,2026
+"[""audi""]","[""Audi""]",HUL,hulkenberg,Nico Hülkenberg,German,27,0.0,18,18,0,2026
+"[""cadillac""]","[""Cadillac F1 Team""]",BOT,bottas,Valtteri Bottas,Finnish,77,0.0,19,19,0,2026
+"[""cadillac""]","[""Cadillac F1 Team""]",PER,perez,Sergio Pérez,Mexican,11,0.0,20,20,0,2026
+"[""aston_martin""]","[""Aston Martin""]",STR,stroll,Lance Stroll,Canadian,18,0.0,21,21,0,2026
+"[""aston_martin""]","[""Aston Martin""]",ALO,alonso,Fernando Alonso,Spanish,14,0.0,22,22,0,2026

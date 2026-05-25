@@ -1,0 +1,25 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mercedes""]","[""Mercedes""]",ROS,rosberg,Nico Rosberg,German,6,385.0,1,1,9,2016
+"[""mercedes""]","[""Mercedes""]",HAM,hamilton,Lewis Hamilton,British,44,380.0,2,2,10,2016
+"[""red_bull""]","[""Red Bull""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,256.0,3,3,1,2016
+"[""ferrari""]","[""Ferrari""]",VET,vettel,Sebastian Vettel,German,5,212.0,4,4,0,2016
+"[""toro_rosso"", ""red_bull""]","[""Toro Rosso"", ""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,204.0,5,5,1,2016
+"[""ferrari""]","[""Ferrari""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,186.0,6,6,0,2016
+"[""force_india""]","[""Force India""]",PER,perez,Sergio Pérez,Mexican,11,101.0,7,7,0,2016
+"[""williams""]","[""Williams""]",BOT,bottas,Valtteri Bottas,Finnish,77,85.0,8,8,0,2016
+"[""force_india""]","[""Force India""]",HUL,hulkenberg,Nico Hülkenberg,German,27,72.0,9,9,0,2016
+"[""mclaren""]","[""McLaren""]",ALO,alonso,Fernando Alonso,Spanish,14,54.0,10,10,0,2016
+"[""williams""]","[""Williams""]",MAS,massa,Felipe Massa,Brazilian,19,53.0,11,11,0,2016
+"[""toro_rosso""]","[""Toro Rosso""]",SAI,sainz,Carlos Sainz,Spanish,55,46.0,12,12,0,2016
+"[""haas""]","[""Haas F1 Team""]",GRO,grosjean,Romain Grosjean,French,8,29.0,13,13,0,2016
+"[""red_bull"", ""toro_rosso""]","[""Red Bull"", ""Toro Rosso""]",KVY,kvyat,Daniil Kvyat,Russian,26,25.0,14,14,0,2016
+"[""mclaren""]","[""McLaren""]",BUT,button,Jenson Button,British,22,21.0,15,15,0,2016
+"[""renault""]","[""Renault""]",MAG,kevin_magnussen,Kevin Magnussen,Danish,20,7.0,16,16,0,2016
+"[""sauber""]","[""Sauber""]",NAS,nasr,Felipe Nasr,Brazilian,12,2.0,17,17,0,2016
+"[""renault""]","[""Renault""]",PAL,jolyon_palmer,Jolyon Palmer,British,30,1.0,18,18,0,2016
+"[""manor""]","[""Manor Marussia""]",WEH,wehrlein,Pascal Wehrlein,German,94,1.0,19,19,0,2016
+"[""mclaren""]","[""McLaren""]",VAN,vandoorne,Stoffel Vandoorne,Belgian,2,1.0,20,20,0,2016
+"[""haas""]","[""Haas F1 Team""]",GUT,gutierrez,Esteban Gutiérrez,Mexican,21,0.0,21,21,0,2016
+"[""sauber""]","[""Sauber""]",ERI,ericsson,Marcus Ericsson,Swedish,9,0.0,22,22,0,2016
+"[""manor""]","[""Manor Marussia""]",OCO,ocon,Esteban Ocon,French,31,0.0,23,23,0,2016
+"[""manor""]","[""Manor Marussia""]",HAR,haryanto,Rio Haryanto,Indonesian,88,0.0,24,24,0,2016

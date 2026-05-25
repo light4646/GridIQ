@@ -1,0 +1,369 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-melbourne,Australian Grand Prix,218.3,kph,39,2,1:27.452,1,58,5690616,10.0,1,1,1,Finished,1:34:50.616,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-melbourne,Australian Grand Prix,217.586,kph,41,3,1:27.739,5,58,5696094,8.0,2,2,1,Finished,+5.478,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-melbourne,Australian Grand Prix,216.719,kph,41,5,1:28.090,7,58,5698779,6.0,3,3,1,Finished,+8.163,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-melbourne,Australian Grand Prix,215.464,kph,58,7,1:28.603,11,58,5707797,5.0,4,4,1,Finished,+17.181,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-melbourne,Australian Grand Prix,218.385,kph,43,1,1:27.418,3,58,5708630,4.0,5,5,1,Finished,+18.014,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-melbourne,Australian Grand Prix,212.974,kph,50,14,1:29.639,13,57,,3.0,6,6,1,+1 Lap,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-melbourne,Australian Grand Prix,213.224,kph,54,8,1:29.534,17,55,,2.0,7,7,1,Engine,,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-melbourne,Australian Grand Prix,217.18,kph,20,4,1:27.903,15,53,,1.0,8,8,1,Engine,,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-melbourne,Australian Grand Prix,215.1,kph,15,9,1:28.753,2,47,,0.0,9,R,1,Collision,,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-melbourne,Australian Grand Prix,213.166,kph,23,13,1:29.558,18,43,,0.0,10,R,1,Accident,,2008
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,18,2008-melbourne,Australian Grand Prix,210.038,kph,24,15,1:30.892,19,32,,0.0,11,R,1,Transmission,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-melbourne,Australian Grand Prix,208.907,kph,20,16,1:31.384,20,30,,0.0,12,R,1,Clutch,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-melbourne,Australian Grand Prix,216.51,kph,23,6,1:28.175,4,29,,0.0,13,R,1,Engine,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-melbourne,Australian Grand Prix,213.3,kph,21,11,1:29.502,8,25,,0.0,14,R,1,Collision,,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-melbourne,Australian Grand Prix,213.758,kph,18,10,1:29.310,6,19,,0.0,15,R,1,Electrical,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-melbourne,Australian Grand Prix,207.461,kph,8,17,1:32.021,22,8,,0.0,16,R,1,Hydraulics,,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-melbourne,Australian Grand Prix,,,,,,14,0,,0.0,17,R,1,Collision,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-melbourne,Australian Grand Prix,,,,,,12,0,,0.0,18,R,1,Collision,,2008
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,19,2008-melbourne,Australian Grand Prix,,,,,,21,0,,0.0,19,R,1,Collision,,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-melbourne,Australian Grand Prix,,,,,,9,0,,0.0,20,R,1,Collision,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-melbourne,Australian Grand Prix,,,,,,16,0,,0.0,21,R,1,Collision,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-melbourne,Australian Grand Prix,215.141,kph,44,8,1:28.736,10,58,,0.0,22,D,1,Disqualified,,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-kuala-lumpur,Malaysian Grand Prix,209.158,kph,37,2,1:35.405,2,56,5478555,10.0,1,1,2,Finished,1:31:18.555,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-kuala-lumpur,Malaysian Grand Prix,208.033,kph,39,6,1:35.921,4,56,5498125,8.0,2,2,2,Finished,+19.570,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-kuala-lumpur,Malaysian Grand Prix,208.031,kph,19,7,1:35.922,8,56,5517005,6.0,3,3,2,Finished,+38.450,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-kuala-lumpur,Malaysian Grand Prix,207.715,kph,53,8,1:36.068,3,56,5524387,5.0,4,4,2,Finished,+45.832,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-kuala-lumpur,Malaysian Grand Prix,209.033,kph,53,3,1:35.462,9,56,5525103,4.0,5,5,2,Finished,+46.548,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-kuala-lumpur,Malaysian Grand Prix,209.244,kph,55,1,1:35.366,5,56,5528388,3.0,6,6,2,Finished,+49.833,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-kuala-lumpur,Malaysian Grand Prix,206.366,kph,53,12,1:36.696,6,56,5546685,2.0,7,7,2,Finished,+1:08.130,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-kuala-lumpur,Malaysian Grand Prix,207.24,kph,40,10,1:36.288,7,56,5548596,1.0,8,8,2,Finished,+1:10.041,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-kuala-lumpur,Malaysian Grand Prix,207.417,kph,55,9,1:36.206,12,56,5554775,0.0,9,9,2,Finished,+1:16.220,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-kuala-lumpur,Malaysian Grand Prix,208.481,kph,56,4,1:35.715,11,56,5564769,0.0,10,10,2,Finished,+1:26.214,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-kuala-lumpur,Malaysian Grand Prix,205.812,kph,52,15,1:36.956,13,56,5570757,0.0,11,11,2,Finished,+1:32.202,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-kuala-lumpur,Malaysian Grand Prix,205.8,kph,52,16,1:36.962,17,55,,0.0,12,12,2,+1 Lap,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-kuala-lumpur,Malaysian Grand Prix,206.372,kph,55,11,1:36.693,14,55,,0.0,13,13,2,+1 Lap,,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-kuala-lumpur,Malaysian Grand Prix,206.182,kph,55,13,1:36.782,16,55,,0.0,14,14,2,+1 Lap,,2008
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,19,2008-kuala-lumpur,Malaysian Grand Prix,203.265,kph,55,18,1:38.171,21,55,,0.0,15,15,2,+1 Lap,,2008
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,18,2008-kuala-lumpur,Malaysian Grand Prix,202.578,kph,53,19,1:38.504,19,54,,0.0,16,16,2,+2 Laps,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-kuala-lumpur,Malaysian Grand Prix,204.222,kph,19,17,1:37.711,22,54,,0.0,17,17,2,+2 Laps,,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-kuala-lumpur,Malaysian Grand Prix,205.995,kph,37,14,1:36.870,15,39,,0.0,18,R,2,Engine,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-kuala-lumpur,Malaysian Grand Prix,208.048,kph,15,5,1:35.914,1,30,,0.0,19,R,2,Spun off,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-kuala-lumpur,Malaysian Grand Prix,198.891,kph,3,20,1:40.330,20,5,,0.0,20,R,2,Hydraulics,,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-kuala-lumpur,Malaysian Grand Prix,,,,,,10,1,,0.0,21,R,2,Collision,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-kuala-lumpur,Malaysian Grand Prix,,,,,,18,0,,0.0,22,R,2,Spun off,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-sakhir,Bahrain Grand Prix,208.153,kph,38,3,1:33.600,2,57,5466970,10.0,1,1,3,Finished,1:31:06.970,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-sakhir,Bahrain Grand Prix,207.911,kph,35,4,1:33.709,4,57,5470309,8.0,2,2,3,Finished,+3.339,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-sakhir,Bahrain Grand Prix,207.765,kph,55,5,1:33.775,1,57,5471968,6.0,3,3,3,Finished,+4.998,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-sakhir,Bahrain Grand Prix,208.231,kph,48,2,1:33.565,6,57,5475379,5.0,4,4,3,Finished,+8.409,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-sakhir,Bahrain Grand Prix,209.062,kph,49,1,1:33.193,5,57,5493759,4.0,5,5,3,Finished,+26.789,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-sakhir,Bahrain Grand Prix,206.819,kph,45,7,1:34.204,7,57,5508284,3.0,6,6,3,Finished,+41.314,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-sakhir,Bahrain Grand Prix,206.597,kph,51,8,1:34.305,11,57,5512443,2.0,7,7,3,Finished,+45.473,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-sakhir,Bahrain Grand Prix,207.109,kph,57,6,1:34.072,8,57,5522859,1.0,8,8,3,Finished,+55.889,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-sakhir,Bahrain Grand Prix,205.503,kph,56,9,1:34.807,13,57,5536470,0.0,9,9,3,Finished,+1:09.500,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-sakhir,Bahrain Grand Prix,204.668,kph,35,13,1:35.194,10,57,5544151,0.0,10,10,3,Finished,+1:17.181,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-sakhir,Bahrain Grand Prix,205.399,kph,40,10,1:34.855,12,57,5544832,0.0,11,11,3,Finished,+1:17.862,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-sakhir,Bahrain Grand Prix,204.963,kph,56,11,1:35.057,18,56,,0.0,12,12,3,+1 Lap,,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-sakhir,Bahrain Grand Prix,203.969,kph,25,19,1:35.520,3,56,,0.0,13,13,3,+1 Lap,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-sakhir,Bahrain Grand Prix,204.155,kph,30,17,1:35.433,16,56,,0.0,14,14,3,+1 Lap,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-sakhir,Bahrain Grand Prix,204.369,kph,33,15,1:35.333,15,56,,0.0,15,15,3,+1 Lap,,2008
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,19,2008-sakhir,Bahrain Grand Prix,204.389,kph,45,14,1:35.324,21,56,,0.0,16,16,3,+1 Lap,,2008
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,18,2008-sakhir,Bahrain Grand Prix,203.18,kph,56,20,1:35.891,22,56,,0.0,17,17,3,+1 Lap,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-sakhir,Bahrain Grand Prix,204.331,kph,43,16,1:35.351,17,56,,0.0,18,18,3,+1 Lap,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-sakhir,Bahrain Grand Prix,204.136,kph,55,18,1:35.442,20,56,,0.0,19,19,3,+2 Laps,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-sakhir,Bahrain Grand Prix,204.808,kph,31,12,1:35.129,14,40,,0.0,20,R,3,Gearbox,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-sakhir,Bahrain Grand Prix,202.686,kph,11,21,1:36.125,9,19,,0.0,21,R,3,Collision,,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-sakhir,Bahrain Grand Prix,,,,,,19,0,,0.0,22,R,3,Engine,,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-barcelona,Spanish Grand Prix,205.191,kph,46,1,1:21.670,1,66,5899051,10.0,1,1,4,Finished,1:38:19.051,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-barcelona,Spanish Grand Prix,204.863,kph,45,2,1:21.801,3,66,5902279,8.0,2,2,4,Finished,+3.228,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-barcelona,Spanish Grand Prix,204.323,kph,20,3,1:22.017,5,66,5903238,6.0,3,3,4,Finished,+4.187,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-barcelona,Spanish Grand Prix,204.102,kph,20,4,1:22.106,4,66,5904745,5.0,4,4,4,Finished,+5.694,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-barcelona,Spanish Grand Prix,202.969,kph,19,8,1:22.564,7,66,5934989,4.0,5,5,4,Finished,+35.938,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-barcelona,Spanish Grand Prix,203.489,kph,66,5,1:22.353,13,66,5952061,3.0,6,6,4,Finished,+53.010,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-barcelona,Spanish Grand Prix,200.576,kph,48,15,1:23.549,12,66,5957295,2.0,7,7,4,Finished,+58.244,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-barcelona,Spanish Grand Prix,202.494,kph,45,10,1:22.758,8,66,5958486,1.0,8,8,4,Finished,+59.435,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-barcelona,Spanish Grand Prix,203.08,kph,21,7,1:22.519,9,66,5962124,0.0,9,9,4,Finished,+1:03.073,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-barcelona,Spanish Grand Prix,200.841,kph,40,14,1:23.439,19,65,,0.0,10,10,4,+1 Lap,,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-barcelona,Spanish Grand Prix,201.886,kph,57,12,1:23.007,14,65,,0.0,11,11,4,+1 Lap,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-barcelona,Spanish Grand Prix,202.288,kph,57,11,1:22.842,17,65,,0.0,12,12,4,+1 Lap,,2008
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,18,2008-barcelona,Spanish Grand Prix,198.045,kph,34,17,1:24.617,22,65,,0.0,13,13,4,+1 Lap,,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-barcelona,Spanish Grand Prix,201.13,kph,20,13,1:23.319,15,41,,0.0,14,R,4,Engine,,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-barcelona,Spanish Grand Prix,202.677,kph,15,9,1:22.683,2,34,,0.0,15,R,4,Engine,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-barcelona,Spanish Grand Prix,199.837,kph,21,16,1:23.858,11,34,,0.0,16,R,4,Collision,,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-barcelona,Spanish Grand Prix,203.243,kph,19,6,1:22.453,6,21,,0.0,17,R,4,Accident,,2008
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,19,2008-barcelona,Spanish Grand Prix,192.922,kph,6,20,1:26.864,21,8,,0.0,18,R,4,Radiator,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-barcelona,Spanish Grand Prix,194.862,kph,6,19,1:25.999,16,7,,0.0,19,R,4,Collision,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-barcelona,Spanish Grand Prix,196.128,kph,6,18,1:25.444,10,6,,0.0,20,R,4,Collision,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-barcelona,Spanish Grand Prix,,,,,,20,0,,0.0,21,R,4,Collision,,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-barcelona,Spanish Grand Prix,,,,,,18,0,,0.0,22,R,4,Collision,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-istanbul,Turkish Grand Prix,221.734,kph,16,3,1:26.666,1,58,5209451,10.0,1,1,5,Finished,1:26:49.451,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-istanbul,Turkish Grand Prix,222.085,kph,31,2,1:26.529,3,58,5213230,8.0,2,2,5,Finished,+3.779,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-istanbul,Turkish Grand Prix,222.144,kph,20,1,1:26.506,4,58,5213722,6.0,3,3,5,Finished,+4.271,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-istanbul,Turkish Grand Prix,221.442,kph,17,4,1:26.780,5,58,5231396,5.0,4,4,5,Finished,+21.945,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-istanbul,Turkish Grand Prix,220.328,kph,20,5,1:27.219,9,58,5248192,4.0,5,5,5,Finished,+38.741,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-istanbul,Turkish Grand Prix,220.174,kph,57,6,1:27.280,7,58,5263175,3.0,6,6,5,Finished,+53.724,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-istanbul,Turkish Grand Prix,219.294,kph,14,7,1:27.630,6,58,5273680,2.0,7,7,5,Finished,+1:04.229,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-istanbul,Turkish Grand Prix,218.882,kph,55,9,1:27.795,11,58,5280857,1.0,8,8,5,Finished,+1:11.406,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-istanbul,Turkish Grand Prix,218.457,kph,41,12,1:27.966,10,58,5284721,0.0,9,9,5,Finished,+1:15.270,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-istanbul,Turkish Grand Prix,218.556,kph,52,11,1:27.926,8,58,5285795,0.0,10,10,5,Finished,+1:16.344,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-istanbul,Turkish Grand Prix,218.377,kph,57,13,1:27.998,13,57,,0.0,11,11,5,+1 Lap,,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-istanbul,Turkish Grand Prix,219.269,kph,55,8,1:27.640,2,57,,0.0,12,12,5,+1 Lap,,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-istanbul,Turkish Grand Prix,217.623,kph,28,16,1:28.303,15,57,,0.0,13,13,5,+1 Lap,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-istanbul,Turkish Grand Prix,218.33,kph,56,14,1:28.017,12,57,,0.0,14,14,5,+1 Lap,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-istanbul,Turkish Grand Prix,218.703,kph,40,10,1:27.867,17,57,,0.0,15,15,5,+1 Lap,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-istanbul,Turkish Grand Prix,216.454,kph,35,18,1:28.780,19,57,,0.0,16,16,5,+1 Lap,,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-istanbul,Turkish Grand Prix,217.926,kph,38,15,1:28.180,14,57,,0.0,17,17,5,+1 Lap,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-istanbul,Turkish Grand Prix,216.539,kph,19,17,1:28.745,18,24,,0.0,18,R,5,Suspension,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-istanbul,Turkish Grand Prix,,,,,,16,1,,0.0,19,R,5,Collision,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-istanbul,Turkish Grand Prix,,,,,,20,0,,0.0,20,R,5,Collision,,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-monte-carlo,Monaco Grand Prix,153.152,kph,71,6,1:18.510,3,76,7242742,10.0,1,1,6,Finished,2:00:42.742,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-monte-carlo,Monaco Grand Prix,154.286,kph,75,5,1:17.933,5,76,7245806,8.0,2,2,6,Finished,+3.064,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-monte-carlo,Monaco Grand Prix,154.379,kph,76,4,1:17.886,1,76,7247553,6.0,3,3,6,Finished,+4.811,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-monte-carlo,Monaco Grand Prix,152.133,kph,74,8,1:19.036,9,76,7262037,5.0,4,4,6,Finished,+19.295,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-monte-carlo,Monaco Grand Prix,152.614,kph,74,7,1:18.787,19,76,7267399,4.0,5,5,6,Finished,+24.657,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-monte-carlo,Monaco Grand Prix,151.104,kph,75,9,1:19.574,14,76,7271150,3.0,6,6,6,Finished,+28.408,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-monte-carlo,Monaco Grand Prix,150.469,kph,75,13,1:19.910,13,76,7272922,2.0,7,7,6,Finished,+30.180,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-monte-carlo,Monaco Grand Prix,155.586,kph,74,2,1:17.282,4,76,7275933,1.0,8,8,6,Finished,+33.191,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-monte-carlo,Monaco Grand Prix,156.789,kph,74,1,1:16.689,2,76,7276534,0.0,9,9,6,Finished,+33.792,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-monte-carlo,Monaco Grand Prix,154.413,kph,73,3,1:17.869,7,75,,0.0,10,10,6,+1 Lap,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-monte-carlo,Monaco Grand Prix,151.089,kph,74,10,1:19.582,11,75,,0.0,11,11,6,+1 Lap,,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-monte-carlo,Monaco Grand Prix,151.021,kph,75,11,1:19.618,10,75,,0.0,12,12,6,+1 Lap,,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-monte-carlo,Monaco Grand Prix,150.62,kph,75,12,1:19.830,8,75,,0.0,13,13,6,+1 Lap,,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-monte-carlo,Monaco Grand Prix,149.829,kph,72,14,1:20.251,12,72,,0.0,14,14,6,+4 Laps,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-monte-carlo,Monaco Grand Prix,146.564,kph,60,16,1:22.039,18,67,,0.0,15,R,6,Collision,,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-monte-carlo,Monaco Grand Prix,147.951,kph,58,15,1:21.270,6,59,,0.0,16,R,6,Accident,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-monte-carlo,Monaco Grand Prix,131.86,kph,40,17,1:31.187,17,47,,0.0,17,R,6,Accident,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-monte-carlo,Monaco Grand Prix,129.5,kph,33,18,1:32.849,20,36,,0.0,18,R,6,Gearbox,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-monte-carlo,Monaco Grand Prix,117.753,kph,7,20,1:42.112,15,7,,0.0,19,R,6,Accident,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-monte-carlo,Monaco Grand Prix,118.872,kph,7,19,1:41.150,16,7,,0.0,20,R,6,Collision,,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-montreal,Canadian Grand Prix,202.473,kph,47,4,1:17.539,2,70,5784227,10.0,1,1,7,Finished,1:36:24.227,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-montreal,Canadian Grand Prix,202.758,kph,25,2,1:17.430,8,70,5800722,8.0,2,2,7,Finished,+16.495,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-montreal,Canadian Grand Prix,201.057,kph,36,7,1:18.085,13,70,5807579,6.0,3,3,7,Finished,+23.352,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-montreal,Canadian Grand Prix,198.51,kph,31,17,1:19.087,11,70,5826854,5.0,4,4,7,Finished,+42.627,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-montreal,Canadian Grand Prix,201.261,kph,11,6,1:18.006,6,70,5828161,4.0,5,5,7,Finished,+43.934,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-montreal,Canadian Grand Prix,199.056,kph,38,15,1:18.870,14,70,5832002,3.0,6,6,7,Finished,+47.775,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-montreal,Canadian Grand Prix,200.503,kph,35,10,1:18.301,9,70,5837824,2.0,7,7,7,Finished,+53.597,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-montreal,Canadian Grand Prix,199.913,kph,33,12,1:18.532,19,70,5838347,1.0,8,8,7,Finished,+54.120,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-montreal,Canadian Grand Prix,200.091,kph,62,11,1:18.462,7,70,5838660,0.0,9,9,7,Finished,+54.433,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-montreal,Canadian Grand Prix,201.336,kph,14,5,1:17.977,5,70,5838976,0.0,10,10,7,Finished,+54.749,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-montreal,Canadian Grand Prix,197.847,kph,58,19,1:19.352,20,70,5851767,0.0,11,11,7,Finished,+1:07.540,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-montreal,Canadian Grand Prix,200.759,kph,51,8,1:18.201,10,70,5855526,0.0,12,12,7,Finished,+1:11.299,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-montreal,Canadian Grand Prix,199.689,kph,34,13,1:18.620,18,69,,0.0,13,13,7,+1 Lap,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-montreal,Canadian Grand Prix,198.563,kph,41,16,1:19.066,17,51,,0.0,14,R,7,Spun off,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-montreal,Canadian Grand Prix,199.273,kph,30,14,1:18.784,12,46,,0.0,15,R,7,Accident,,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-montreal,Canadian Grand Prix,200.697,kph,16,9,1:18.225,4,44,,0.0,16,R,7,Spun off,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-montreal,Canadian Grand Prix,198.129,kph,16,18,1:19.239,15,43,,0.0,17,R,7,Brakes,,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-montreal,Canadian Grand Prix,202.871,kph,14,1,1:17.387,3,19,,0.0,18,R,7,Collision,,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-montreal,Canadian Grand Prix,202.559,kph,4,3,1:17.506,1,19,,0.0,19,R,7,Collision,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-montreal,Canadian Grand Prix,194.624,kph,7,20,1:20.666,16,13,,0.0,20,R,7,Gearbox,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-magny-cours,French Grand Prix,206.956,kph,20,2,1:16.729,2,70,5510245,10.0,1,1,8,Finished,1:31:50.245,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-magny-cours,French Grand Prix,207.224,kph,16,1,1:16.630,1,70,5528229,8.0,2,2,8,Finished,+17.984,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-magny-cours,French Grand Prix,204.721,kph,12,7,1:17.567,4,70,5538495,6.0,3,3,8,Finished,+28.250,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-magny-cours,French Grand Prix,205.87,kph,46,3,1:17.134,10,70,5539174,5.0,4,4,8,Finished,+28.929,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-magny-cours,French Grand Prix,205.768,kph,16,4,1:17.172,5,70,5540757,4.0,5,5,8,Finished,+30.512,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-magny-cours,French Grand Prix,204.879,kph,22,6,1:17.507,6,70,5550549,3.0,6,6,8,Finished,+40.304,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-magny-cours,French Grand Prix,204.218,kph,24,10,1:17.758,9,70,5551278,2.0,7,7,8,Finished,+41.033,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-magny-cours,French Grand Prix,204.525,kph,39,8,1:17.641,3,70,5553617,1.0,8,8,8,Finished,+43.372,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-magny-cours,French Grand Prix,204.06,kph,23,12,1:17.818,7,70,5561266,0.0,9,9,8,Finished,+51.021,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-magny-cours,French Grand Prix,205.022,kph,40,5,1:17.453,13,70,5564783,0.0,10,10,8,Finished,+54.538,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-magny-cours,French Grand Prix,204.013,kph,45,13,1:17.836,8,70,5567945,0.0,11,11,8,Finished,+57.700,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-magny-cours,French Grand Prix,204.212,kph,36,11,1:17.760,12,70,5568310,0.0,12,12,8,Finished,+58.065,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-magny-cours,French Grand Prix,204.328,kph,46,9,1:17.716,11,70,5572324,0.0,13,13,8,Finished,+1:02.079,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-magny-cours,French Grand Prix,203.665,kph,54,14,1:17.969,20,69,,0.0,14,14,8,+1 Lap,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-magny-cours,French Grand Prix,203.443,kph,60,15,1:18.054,15,69,,0.0,15,15,8,+1 Lap,,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-magny-cours,French Grand Prix,202.776,kph,38,17,1:18.311,19,69,,0.0,16,16,8,+1 Lap,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-magny-cours,French Grand Prix,203.022,kph,28,16,1:18.216,14,69,,0.0,17,17,8,+1 Lap,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-magny-cours,French Grand Prix,202.141,kph,53,19,1:18.557,17,69,,0.0,18,18,8,+1 Lap,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-magny-cours,French Grand Prix,202.385,kph,41,18,1:18.462,18,69,,0.0,19,19,8,+1 Lap,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-magny-cours,French Grand Prix,196.345,kph,15,20,1:20.876,16,16,,0.0,20,R,8,Collision,,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-silverstone,British Grand Prix,199.398,kph,16,3,1:32.817,4,60,5949440,10.0,1,1,9,Finished,1:39:09.440,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-silverstone,British Grand Prix,199.609,kph,21,2,1:32.719,5,60,6018017,8.0,2,2,9,Finished,+1:08.577,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-silverstone,British Grand Prix,198.183,kph,21,11,1:33.386,16,60,6031713,6.0,3,3,9,Finished,+1:22.273,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-silverstone,British Grand Prix,200.842,kph,18,1,1:32.150,3,59,,5.0,4,4,9,+1 Lap,,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-silverstone,British Grand Prix,198.728,kph,17,5,1:33.130,1,59,,4.0,5,5,9,+1 Lap,,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-silverstone,British Grand Prix,198.722,kph,17,6,1:33.133,6,59,,3.0,6,6,9,+1 Lap,,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-silverstone,British Grand Prix,197.292,kph,22,13,1:33.808,14,59,,2.0,7,7,9,+1 Lap,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-silverstone,British Grand Prix,196.31,kph,21,14,1:34.277,15,59,,1.0,8,8,9,+1 Lap,,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-silverstone,British Grand Prix,195.234,kph,21,16,1:34.797,20,59,,0.0,9,9,9,+1 Lap,,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-silverstone,British Grand Prix,199.109,kph,17,4,1:32.952,2,59,,0.0,10,10,9,+1 Lap,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-silverstone,British Grand Prix,198.224,kph,21,9,1:33.367,13,59,,0.0,11,11,9,+1 Lap,,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-silverstone,British Grand Prix,195.619,kph,19,15,1:34.610,12,59,,0.0,12,12,9,+1 Lap,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-silverstone,British Grand Prix,198.458,kph,19,8,1:33.257,9,58,,0.0,13,13,9,+2 Laps,,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-silverstone,British Grand Prix,197.859,kph,22,12,1:33.539,10,39,,0.0,14,R,9,Spun off,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-silverstone,British Grand Prix,198.205,kph,21,10,1:33.376,17,38,,0.0,15,R,9,Spun off,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-silverstone,British Grand Prix,198.573,kph,21,7,1:33.203,7,35,,0.0,16,R,9,Spun off,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-silverstone,British Grand Prix,194.96,kph,21,17,1:34.930,19,16,,0.0,17,R,9,Spun off,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-silverstone,British Grand Prix,188.545,kph,5,18,1:38.160,18,10,,0.0,18,R,9,Spun off,,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-silverstone,British Grand Prix,,,,,,8,0,,0.0,19,R,9,Collision,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-silverstone,British Grand Prix,,,,,,11,0,,0.0,20,R,9,Collision,,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-hockenheim,German Grand Prix,216.552,kph,17,2,1:16.039,1,67,5480874,10.0,1,1,10,Finished,1:31:20.874,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-hockenheim,German Grand Prix,214.099,kph,66,9,1:16.910,17,67,5486460,8.0,2,2,10,Finished,+5.586,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-hockenheim,German Grand Prix,215.241,kph,19,5,1:16.502,2,67,5490213,6.0,3,3,10,Finished,+9.339,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-hockenheim,German Grand Prix,216.7,kph,52,1,1:15.987,12,67,5490699,5.0,4,4,10,Finished,+9.825,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-hockenheim,German Grand Prix,215.261,kph,63,4,1:16.495,3,67,5493285,4.0,5,5,10,Finished,+12.411,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-hockenheim,German Grand Prix,215.692,kph,66,3,1:16.342,6,67,5495277,3.0,6,6,10,Finished,+14.403,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-hockenheim,German Grand Prix,214.937,kph,17,6,1:16.610,7,67,5503556,2.0,7,7,10,Finished,+22.682,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-hockenheim,German Grand Prix,214.484,kph,20,8,1:16.772,9,67,5514173,1.0,8,8,10,Finished,+33.299,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-hockenheim,German Grand Prix,213.785,kph,17,12,1:17.023,4,67,5518032,0.0,9,9,10,Finished,+37.158,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-hockenheim,German Grand Prix,212.799,kph,34,15,1:17.380,13,67,5518499,0.0,10,10,10,Finished,+37.625,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-hockenheim,German Grand Prix,213.53,kph,17,13,1:17.115,5,67,5519474,0.0,11,11,10,Finished,+38.600,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-hockenheim,German Grand Prix,213.935,kph,63,10,1:16.969,15,67,5519985,0.0,12,12,10,Finished,+39.111,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-hockenheim,German Grand Prix,213.866,kph,18,11,1:16.994,10,67,5535845,0.0,13,13,10,Finished,+54.971,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-hockenheim,German Grand Prix,211.947,kph,23,17,1:17.691,16,67,5540877,0.0,14,14,10,Finished,+1:00.003,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-hockenheim,German Grand Prix,211.408,kph,66,18,1:17.889,19,67,5550362,0.0,15,15,10,Finished,+1:09.488,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-hockenheim,German Grand Prix,210.546,kph,67,20,1:18.208,20,67,5564967,0.0,16,16,10,Finished,+1:24.093,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-hockenheim,German Grand Prix,212.097,kph,56,16,1:17.636,14,66,,0.0,17,17,10,+1 Lap,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-hockenheim,German Grand Prix,211.145,kph,30,19,1:17.986,18,50,,0.0,18,R,10,Collision,,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-hockenheim,German Grand Prix,213.278,kph,20,14,1:17.206,8,40,,0.0,19,R,10,Engine,,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-hockenheim,German Grand Prix,214.652,kph,24,7,1:16.712,11,35,,0.0,20,R,10,Suspension,,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-budapest,Hungarian Grand Prix,192.917,kph,19,7,1:21.753,2,70,5847067,10.0,1,1,11,Finished,1:37:27.067,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-budapest,Hungarian Grand Prix,193.111,kph,42,6,1:21.671,5,70,5858128,8.0,2,2,11,Finished,+11.061,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-budapest,Hungarian Grand Prix,194.243,kph,61,1,1:21.195,6,70,5863923,6.0,3,3,11,Finished,+16.856,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-budapest,Hungarian Grand Prix,192.823,kph,47,8,1:21.793,7,70,5868681,5.0,4,4,11,Finished,+21.614,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-budapest,Hungarian Grand Prix,193.533,kph,15,3,1:21.493,1,70,5870115,4.0,5,5,11,Finished,+23.048,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-budapest,Hungarian Grand Prix,193.428,kph,64,4,1:21.537,10,70,5879365,3.0,6,6,11,Finished,+32.298,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-budapest,Hungarian Grand Prix,193.189,kph,65,5,1:21.638,9,70,5883516,2.0,7,7,11,Finished,+36.449,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-budapest,Hungarian Grand Prix,192.475,kph,70,9,1:21.941,4,70,5895388,1.0,8,8,11,Finished,+48.321,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-budapest,Hungarian Grand Prix,192.043,kph,67,10,1:22.125,8,70,5905901,0.0,9,9,11,Finished,+58.834,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-budapest,Hungarian Grand Prix,191.908,kph,67,11,1:22.183,15,70,5914776,0.0,10,10,11,Finished,+1:07.709,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-budapest,Hungarian Grand Prix,190.634,kph,67,16,1:22.732,13,70,5917474,0.0,11,11,11,Finished,+1:10.407,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-budapest,Hungarian Grand Prix,191.409,kph,63,13,1:22.397,12,69,,0.0,12,12,11,+1 Lap,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-budapest,Hungarian Grand Prix,189.319,kph,67,18,1:23.307,16,69,,0.0,13,13,11,+1 Lap,,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-budapest,Hungarian Grand Prix,191.409,kph,57,12,1:22.397,14,69,,0.0,14,14,11,+1 Lap,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-budapest,Hungarian Grand Prix,190.844,kph,68,15,1:22.641,18,69,,0.0,15,15,11,+1 Lap,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-budapest,Hungarian Grand Prix,191.319,kph,65,14,1:22.436,17,68,,0.0,16,16,11,+2 Laps,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-budapest,Hungarian Grand Prix,193.861,kph,16,2,1:21.355,3,67,,0.0,17,17,11,Engine,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-budapest,Hungarian Grand Prix,189.516,kph,29,17,1:23.220,19,67,,0.0,18,18,11,+3 Laps,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-budapest,Hungarian Grand Prix,188.542,kph,29,19,1:23.650,20,62,,0.0,19,R,11,Brakes,,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-budapest,Hungarian Grand Prix,187.262,kph,17,20,1:24.222,11,22,,0.0,20,R,11,Overheating,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-valencia,European Grand Prix,197.637,kph,36,1,1:38.708,1,57,5732339,10.0,1,1,12,Finished,1:35:32.339,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-valencia,European Grand Prix,197.285,kph,16,2,1:38.884,2,57,5737950,8.0,2,2,12,Finished,+5.611,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-valencia,European Grand Prix,196.399,kph,38,4,1:39.330,3,57,5769692,6.0,3,3,12,Finished,+37.353,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-valencia,European Grand Prix,196.831,kph,19,3,1:39.112,5,57,5772042,5.0,4,4,12,Finished,+39.703,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-valencia,European Grand Prix,195.755,kph,37,12,1:39.657,7,57,5783023,4.0,5,5,12,Finished,+50.684,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-valencia,European Grand Prix,196.093,kph,36,6,1:39.485,6,57,5784964,3.0,6,6,12,Finished,+52.625,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-valencia,European Grand Prix,195.995,kph,54,8,1:39.535,13,57,5800329,2.0,7,7,12,Finished,+1:07.990,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-valencia,European Grand Prix,195.912,kph,35,10,1:39.577,9,57,5803796,1.0,8,8,12,Finished,+1:11.457,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-valencia,European Grand Prix,196.013,kph,57,7,1:39.526,8,57,5814516,0.0,9,9,12,Finished,+1:22.177,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-valencia,European Grand Prix,195.79,kph,35,11,1:39.639,10,57,5822133,0.0,10,10,12,Finished,+1:29.794,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-valencia,European Grand Prix,195.977,kph,29,9,1:39.544,15,57,5825056,0.0,11,11,12,Finished,+1:32.717,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-valencia,European Grand Prix,194.57,kph,27,14,1:40.264,14,56,,0.0,12,12,12,+1 Lap,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-valencia,European Grand Prix,193.606,kph,21,18,1:40.763,16,56,,0.0,13,13,12,+1 Lap,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-valencia,European Grand Prix,194.397,kph,54,15,1:40.353,18,56,,0.0,14,14,12,+1 Lap,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-valencia,European Grand Prix,195.469,kph,56,13,1:39.803,11,56,,0.0,15,15,12,+1 Lap,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-valencia,European Grand Prix,193.933,kph,56,16,1:40.593,19,56,,0.0,16,16,12,+1 Lap,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-valencia,European Grand Prix,193.194,kph,13,19,1:40.978,17,56,,0.0,17,17,12,+1 Lap,,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-valencia,European Grand Prix,196.214,kph,34,5,1:39.424,4,45,,0.0,18,R,12,Engine,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-valencia,European Grand Prix,193.802,kph,28,17,1:40.661,20,41,,0.0,19,R,12,Accident,,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-valencia,European Grand Prix,,,,,,12,0,,0.0,20,R,12,Collision,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-spa,Belgian Grand Prix,232.987,kph,26,3,1:48.222,2,44,4979394,10.0,1,1,13,Finished,1:22:59.394,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-spa,Belgian Grand Prix,231.182,kph,36,7,1:49.067,5,44,4988777,8.0,2,2,13,Finished,+9.383,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-spa,Belgian Grand Prix,233.175,kph,20,2,1:48.135,1,44,4989933,6.0,3,3,13,Finished,+10.539,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-spa,Belgian Grand Prix,230.82,kph,25,9,1:49.238,6,44,4993872,5.0,4,4,13,Finished,+14.478,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-spa,Belgian Grand Prix,231.142,kph,16,8,1:49.086,10,44,4993970,4.0,5,5,13,Finished,+14.576,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-spa,Belgian Grand Prix,231.399,kph,36,5,1:48.965,8,44,4994431,3.0,6,6,13,Finished,+15.037,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-spa,Belgian Grand Prix,231.32,kph,31,6,1:49.002,9,44,4996129,2.0,7,7,13,Finished,+16.735,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-spa,Belgian Grand Prix,230.236,kph,34,10,1:49.515,7,44,5022170,1.0,8,8,13,Finished,+42.776,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-spa,Belgian Grand Prix,228.691,kph,37,12,1:50.255,13,44,5046439,0.0,9,9,13,Finished,+1:07.045,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-spa,Belgian Grand Prix,232.985,kph,35,4,1:48.223,3,43,,0.0,10,10,13,Gearbox,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-spa,Belgian Grand Prix,228.853,kph,19,11,1:50.177,14,43,,0.0,11,11,13,+1 Lap,,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-spa,Belgian Grand Prix,227.862,kph,32,15,1:50.656,15,43,,0.0,12,12,13,+1 Lap,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-spa,Belgian Grand Prix,228.211,kph,27,13,1:50.487,18,43,,0.0,13,13,13,+1 Lap,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-spa,Belgian Grand Prix,227.218,kph,35,17,1:50.970,19,43,,0.0,14,14,13,+1 Lap,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-spa,Belgian Grand Prix,227.832,kph,19,16,1:50.671,17,43,,0.0,15,15,13,+1 Lap,,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-spa,Belgian Grand Prix,228.095,kph,32,14,1:50.543,11,43,,0.0,16,16,13,+1 Lap,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-spa,Belgian Grand Prix,225.731,kph,17,19,1:51.701,20,43,,0.0,17,17,13,+1 Lap,,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-spa,Belgian Grand Prix,233.618,kph,24,1,1:47.930,4,42,,0.0,18,18,13,Spun off,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-spa,Belgian Grand Prix,224.983,kph,10,20,1:52.072,16,19,,0.0,19,R,13,Gearbox,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-spa,Belgian Grand Prix,226.915,kph,12,18,1:51.118,12,13,,0.0,20,R,13,Spun off,,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-monza,Italian Grand Prix,230.414,kph,53,14,1:30.510,1,53,5207494,10.0,1,1,14,Finished,1:26:47.494,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-monza,Italian Grand Prix,230.95,kph,53,13,1:30.300,2,53,5220006,8.0,2,2,14,Finished,+12.512,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-monza,Italian Grand Prix,230.955,kph,52,12,1:30.298,11,53,5227965,6.0,3,3,14,Finished,+20.471,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-monza,Italian Grand Prix,231.82,kph,51,9,1:29.961,8,53,5231397,5.0,4,4,14,Finished,+23.903,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-monza,Italian Grand Prix,232.217,kph,53,6,1:29.807,10,53,5235242,4.0,5,5,14,Finished,+27.748,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-monza,Italian Grand Prix,232.505,kph,52,4,1:29.696,6,53,5236310,3.0,6,6,14,Finished,+28.816,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-monza,Italian Grand Prix,232.44,kph,52,5,1:29.721,15,53,5237406,2.0,7,7,14,Finished,+29.912,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-monza,Italian Grand Prix,232.544,kph,52,3,1:29.681,3,53,5239542,1.0,8,8,14,Finished,+32.048,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-monza,Italian Grand Prix,236.859,kph,53,1,1:28.047,14,53,5246962,0.0,9,9,14,Finished,+39.468,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-monza,Italian Grand Prix,229.38,kph,53,16,1:30.918,17,53,5261939,0.0,10,10,14,Finished,+54.445,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-monza,Italian Grand Prix,231.853,kph,53,8,1:29.948,9,53,5266382,0.0,11,11,14,Finished,+58.888,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-monza,Italian Grand Prix,231.167,kph,53,11,1:30.215,18,53,5269509,0.0,12,12,14,Finished,+1:02.015,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-monza,Italian Grand Prix,229.544,kph,52,15,1:30.853,7,53,5273448,0.0,13,13,14,Finished,+1:05.954,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-monza,Italian Grand Prix,231.671,kph,53,10,1:30.019,5,53,5276129,0.0,14,14,14,Finished,+1:08.635,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-monza,Italian Grand Prix,232.166,kph,52,7,1:29.827,19,53,5280864,0.0,15,15,14,Finished,+1:13.370,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-monza,Italian Grand Prix,225.557,kph,49,17,1:32.459,13,52,,0.0,16,16,14,+1 Lap,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-monza,Italian Grand Prix,222.053,kph,42,19,1:33.918,16,52,,0.0,17,17,14,+1 Lap,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-monza,Italian Grand Prix,233.646,kph,52,2,1:29.258,4,52,,0.0,18,18,14,+1 Lap,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-monza,Italian Grand Prix,223.146,kph,51,18,1:33.458,20,51,,0.0,19,19,14,+2 Laps,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-monza,Italian Grand Prix,214.326,kph,6,20,1:37.304,12,11,,0.0,20,R,14,Accident,,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-marina-bay,Singapore Grand Prix,172.464,kph,55,3,1:45.768,15,61,7036304,10.0,1,1,15,Finished,1:57:16.304,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-marina-bay,Singapore Grand Prix,171.352,kph,39,5,1:46.454,8,61,7039261,8.0,2,2,15,Finished,+2.957,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-marina-bay,Singapore Grand Prix,171.969,kph,14,4,1:46.072,2,61,7042221,6.0,3,3,15,Finished,+5.917,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-marina-bay,Singapore Grand Prix,170.408,kph,50,8,1:47.044,7,61,7044459,5.0,4,4,15,Finished,+8.155,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-marina-bay,Singapore Grand Prix,170.047,kph,13,9,1:47.271,6,61,7046572,4.0,5,5,15,Finished,+10.268,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-marina-bay,Singapore Grand Prix,169.992,kph,14,11,1:47.306,9,61,7047405,3.0,6,6,15,Finished,+11.101,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-marina-bay,Singapore Grand Prix,169.587,kph,41,13,1:47.562,14,61,7052691,2.0,7,7,15,Finished,+16.387,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-marina-bay,Singapore Grand Prix,170.022,kph,13,10,1:47.287,10,61,7054793,1.0,8,8,15,Finished,+18.489,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-marina-bay,Singapore Grand Prix,168.7,kph,61,15,1:48.128,12,61,7056189,0.0,9,9,15,Finished,+19.885,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-marina-bay,Singapore Grand Prix,169.943,kph,14,12,1:47.337,5,61,7063206,0.0,10,10,15,Finished,+26.902,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-marina-bay,Singapore Grand Prix,170.639,kph,14,6,1:46.899,4,61,7064279,0.0,11,11,15,Finished,+27.975,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-marina-bay,Singapore Grand Prix,169.181,kph,29,14,1:47.820,17,61,7065736,0.0,12,12,15,Finished,+29.432,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-marina-bay,Singapore Grand Prix,172.482,kph,13,2,1:45.757,1,61,7071474,0.0,13,13,15,Finished,+35.170,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-marina-bay,Singapore Grand Prix,167.195,kph,28,16,1:49.101,20,61,7079875,0.0,14,14,15,Finished,+43.571,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-marina-bay,Singapore Grand Prix,172.74,kph,14,1,1:45.599,3,57,,0.0,15,15,15,Accident,,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-marina-bay,Singapore Grand Prix,170.523,kph,32,7,1:46.972,11,50,,0.0,16,R,15,Hydraulics,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-marina-bay,Singapore Grand Prix,166.936,kph,38,18,1:49.270,19,49,,0.0,17,R,15,Accident,,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-marina-bay,Singapore Grand Prix,167.069,kph,13,17,1:49.183,13,29,,0.0,18,R,15,Transmission,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-marina-bay,Singapore Grand Prix,165.348,kph,13,19,1:50.320,18,14,,0.0,19,R,15,Mechanical,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-marina-bay,Singapore Grand Prix,165.154,kph,13,20,1:50.449,16,13,,0.0,20,R,15,Accident,,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-oyama,Japanese Grand Prix,207.668,kph,41,3,1:19.101,4,67,5421892,10.0,1,1,16,Finished,1:30:21.892,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-oyama,Japanese Grand Prix,207.168,kph,16,7,1:19.292,6,67,5427175,8.0,2,2,16,Finished,+5.283,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-oyama,Japanese Grand Prix,207.947,kph,66,2,1:18.995,2,67,5428292,6.0,3,3,16,Finished,+6.400,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-oyama,Japanese Grand Prix,207.411,kph,54,4,1:19.199,12,67,5442462,5.0,4,4,16,Finished,+20.570,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-oyama,Japanese Grand Prix,206.564,kph,18,9,1:19.524,7,67,5445659,4.0,5,5,16,Finished,+23.767,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-oyama,Japanese Grand Prix,206.322,kph,21,12,1:19.617,9,67,5461099,3.0,6,6,16,Finished,+39.207,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-oyama,Japanese Grand Prix,209.456,kph,55,1,1:18.426,5,67,5468050,2.0,7,7,16,Finished,+46.158,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-oyama,Japanese Grand Prix,205.798,kph,30,13,1:19.820,13,67,5472703,1.0,8,8,16,Finished,+50.811,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-oyama,Japanese Grand Prix,206.727,kph,67,8,1:19.461,16,67,5476012,0.0,9,9,16,Finished,+54.120,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-oyama,Japanese Grand Prix,207.246,kph,49,6,1:19.262,10,67,5480977,0.0,10,10,16,Finished,+59.085,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-oyama,Japanese Grand Prix,206.545,kph,66,10,1:19.531,15,67,5483988,0.0,11,11,16,Finished,+1:02.096,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-oyama,Japanese Grand Prix,206.47,kph,65,11,1:19.560,1,67,5500792,0.0,12,12,16,Finished,+1:18.900,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-oyama,Japanese Grand Prix,203.869,kph,66,16,1:20.575,17,66,,0.0,13,13,16,+1 Lap,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-oyama,Japanese Grand Prix,203.178,kph,66,17,1:20.849,18,66,,0.0,14,14,16,+1 Lap,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-oyama,Japanese Grand Prix,204.404,kph,32,15,1:20.364,14,66,,0.0,15,15,16,+1 Lap,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-oyama,Japanese Grand Prix,201.365,kph,20,19,1:21.577,20,21,,0.0,16,R,16,Gearbox,,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-oyama,Japanese Grand Prix,207.257,kph,12,5,1:19.258,3,16,,0.0,17,R,16,Engine,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-oyama,Japanese Grand Prix,202.327,kph,6,18,1:21.189,19,8,,0.0,18,R,16,Tyre,,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-oyama,Japanese Grand Prix,204.685,kph,4,14,1:20.254,8,6,,0.0,19,R,16,Driver Seat,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-oyama,Japanese Grand Prix,,,,,,11,0,,0.0,20,R,16,Collision,,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-shanghai,Chinese Grand Prix,203.722,kph,13,1,1:36.325,1,56,5517403,10.0,1,1,17,Finished,1:31:57.403,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-shanghai,Chinese Grand Prix,203.161,kph,36,4,1:36.591,3,56,5532328,8.0,2,2,17,Finished,+14.925,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-shanghai,Chinese Grand Prix,203.389,kph,14,2,1:36.483,2,56,5533848,6.0,3,3,17,Finished,+16.445,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-shanghai,Chinese Grand Prix,203.018,kph,56,5,1:36.659,4,56,5535773,5.0,4,4,17,Finished,+18.370,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-shanghai,Chinese Grand Prix,203.357,kph,56,3,1:36.498,9,56,5546326,4.0,5,5,17,Finished,+28.923,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-shanghai,Chinese Grand Prix,202.61,kph,56,7,1:36.854,11,56,5550622,3.0,6,6,17,Finished,+33.219,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-shanghai,Chinese Grand Prix,202.876,kph,56,6,1:36.727,12,56,5559125,2.0,7,7,17,Finished,+41.722,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-shanghai,Chinese Grand Prix,202.313,kph,56,8,1:36.996,10,56,5574048,1.0,8,8,17,Finished,+56.645,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-shanghai,Chinese Grand Prix,201.863,kph,55,9,1:37.212,6,56,5581742,0.0,9,9,17,Finished,+1:04.339,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-shanghai,Chinese Grand Prix,200.746,kph,27,14,1:37.753,15,56,5592245,0.0,10,10,17,Finished,+1:14.842,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-shanghai,Chinese Grand Prix,200.558,kph,56,16,1:37.845,13,56,5602464,0.0,11,11,17,Finished,+1:25.061,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-shanghai,Chinese Grand Prix,200.202,kph,54,17,1:38.019,17,56,5608250,0.0,12,12,17,Finished,+1:30.847,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-shanghai,Chinese Grand Prix,201.366,kph,36,12,1:37.452,8,56,5608860,0.0,13,13,17,Finished,+1:31.457,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-shanghai,Chinese Grand Prix,200.896,kph,10,13,1:37.680,16,56,5609825,0.0,14,14,17,Finished,+1:32.422,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-shanghai,Chinese Grand Prix,201.793,kph,38,10,1:37.246,14,55,,0.0,15,15,17,+1 Lap,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-shanghai,Chinese Grand Prix,200.705,kph,54,15,1:37.773,18,55,,0.0,16,16,17,+1 Lap,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-shanghai,Chinese Grand Prix,199.483,kph,54,18,1:38.372,20,55,,0.0,17,17,17,+1 Lap,,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-shanghai,Chinese Grand Prix,201.677,kph,32,11,1:37.302,5,49,,0.0,18,R,17,Hydraulics,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-shanghai,Chinese Grand Prix,196.86,kph,13,19,1:39.683,19,13,,0.0,19,R,17,Engine,,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-shanghai,Chinese Grand Prix,122.945,kph,2,20,2:39.612,7,2,,0.0,20,R,17,Collision,,2008
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2008-s-o-paulo,Brazilian Grand Prix,210.377,kph,36,1,1:13.736,1,71,5651435,10.0,1,1,18,Finished,1:34:11.435,2008
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2008-s-o-paulo,Brazilian Grand Prix,208.98,kph,39,8,1:14.229,6,71,5664733,8.0,2,2,18,Finished,+13.298,2008
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2008-s-o-paulo,Brazilian Grand Prix,209.296,kph,59,3,1:14.117,3,71,5667670,6.0,3,3,18,Finished,+16.235,2008
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2008-s-o-paulo,Brazilian Grand Prix,209.022,kph,25,7,1:14.214,7,71,5689446,5.0,4,4,18,Finished,+38.011,2008
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2008-s-o-paulo,Brazilian Grand Prix,209.177,kph,31,4,1:14.159,4,71,5690342,4.0,5,5,18,Finished,+38.907,2008
+Toyota,toyota,Japanese,GLO,glock,Timo Glock,German,12,2008-s-o-paulo,Brazilian Grand Prix,209.465,kph,32,2,1:14.057,10,71,5695803,3.0,6,6,18,Finished,+44.368,2008
+McLaren,mclaren,British,KOV,kovalainen,Heikki Kovalainen,Finnish,23,2008-s-o-paulo,Brazilian Grand Prix,209.042,kph,36,6,1:14.207,5,71,5706509,2.0,7,7,18,Finished,+55.074,2008
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,11,2008-s-o-paulo,Brazilian Grand Prix,209.155,kph,40,5,1:14.167,2,71,5719868,1.0,8,8,18,Finished,+1:08.433,2008
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,10,2008-s-o-paulo,Brazilian Grand Prix,206.741,kph,40,14,1:15.033,12,71,5731101,0.0,9,9,18,Finished,+1:19.666,2008
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,3,2008-s-o-paulo,Brazilian Grand Prix,207.796,kph,41,10,1:14.652,8,70,,0.0,10,10,18,+1 Lap,,2008
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2008-s-o-paulo,Brazilian Grand Prix,208.57,kph,61,9,1:14.375,13,70,,0.0,11,11,18,+1 Lap,,2008
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2008-s-o-paulo,Brazilian Grand Prix,207.014,kph,35,12,1:14.934,18,70,,0.0,12,12,18,+1 Lap,,2008
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2008-s-o-paulo,Brazilian Grand Prix,207.498,kph,59,11,1:14.759,17,70,,0.0,13,13,18,+1 Lap,,2008
+Toro Rosso,toro_rosso,Italian,BOU,bourdais,Sébastien Bourdais,French,14,2008-s-o-paulo,Brazilian Grand Prix,206.967,kph,57,13,1:14.951,9,70,,0.0,14,14,18,+1 Lap,,2008
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,17,2008-s-o-paulo,Brazilian Grand Prix,205.696,kph,35,16,1:15.414,15,70,,0.0,15,15,18,+1 Lap,,2008
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2008-s-o-paulo,Brazilian Grand Prix,204.721,kph,60,17,1:15.773,20,69,,0.0,16,16,18,+2 Laps,,2008
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,8,2008-s-o-paulo,Brazilian Grand Prix,204.473,kph,50,18,1:15.865,16,69,,0.0,17,17,18,+2 Laps,,2008
+Force India,force_india,Indian,FIS,fisichella,Giancarlo Fisichella,Italian,21,2008-s-o-paulo,Brazilian Grand Prix,206.249,kph,36,15,1:15.212,19,69,,0.0,18,18,18,+2 Laps,,2008
+Renault,renault,French,PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,6,2008-s-o-paulo,Brazilian Grand Prix,,,,,,11,0,,0.0,19,R,18,Accident,,2008
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,9,2008-s-o-paulo,Brazilian Grand Prix,,,,,,14,0,,0.0,20,R,18,Collision,,2008

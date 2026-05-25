@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,739.0,1,1,15,2019
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,504.0,2,2,3,2019
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,417.0,3,3,3,2019
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,145.0,4,4,0,2019
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,91.0,5,5,0,2019
+Toro Rosso,toro_rosso,Italian,https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,85.0,6,6,0,2019
+Racing Point,racing_point,British,https://en.wikipedia.org/wiki/Racing_Point_F1_Team,73.0,7,7,0,2019
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,57.0,8,8,0,2019
+Haas F1 Team,haas,American,https://en.wikipedia.org/wiki/Haas_F1_Team,28.0,9,9,0,2019
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,1.0,10,10,0,2019

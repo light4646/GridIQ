@@ -1,0 +1,441 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-sakhir,Bahrain Grand Prix,206.018,kph,51,1,1:34.570,1,57,5853584,26.0,1,1,1,Finished,1:37:33.584,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-sakhir,Bahrain Grand Prix,203.501,kph,52,3,1:35.740,3,57,5859182,18.0,2,2,1,Finished,+5.598,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-sakhir,Bahrain Grand Prix,202.469,kph,53,5,1:36.228,5,57,5863259,15.0,3,3,1,Finished,+9.675,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-sakhir,Bahrain Grand Prix,202.313,kph,56,6,1:36.302,9,57,5864795,12.0,4,4,1,Finished,+11.211,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-sakhir,Bahrain Grand Prix,201.641,kph,53,8,1:36.623,7,57,5868338,10.0,5,5,1,Finished,+14.754,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-sakhir,Bahrain Grand Prix,201.691,kph,53,7,1:36.599,6,57,5869703,8.0,6,6,1,Finished,+16.119,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-sakhir,Bahrain Grand Prix,200.63,kph,53,14,1:37.110,11,57,5873007,6.0,7,7,1,Finished,+19.423,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-sakhir,Bahrain Grand Prix,200.642,kph,53,13,1:37.104,16,57,5873970,4.0,8,8,1,Finished,+20.386,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-sakhir,Bahrain Grand Prix,201.412,kph,44,10,1:36.733,8,57,5875974,2.0,9,9,1,Finished,+22.390,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-sakhir,Bahrain Grand Prix,201.512,kph,39,9,1:36.685,15,57,5876648,1.0,10,10,1,Finished,+23.064,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-sakhir,Bahrain Grand Prix,200.948,kph,37,11,1:36.956,12,57,5886158,0.0,11,11,1,Finished,+32.574,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-sakhir,Bahrain Grand Prix,200.555,kph,49,15,1:37.146,19,57,5899457,0.0,12,12,1,Finished,+45.873,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-sakhir,Bahrain Grand Prix,200.125,kph,50,18,1:37.355,14,57,5907516,0.0,13,13,1,Finished,+53.932,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-sakhir,Bahrain Grand Prix,200.318,kph,50,16,1:37.261,18,57,5908559,0.0,14,14,1,Finished,+54.975,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-sakhir,Bahrain Grand Prix,200.882,kph,51,12,1:36.988,13,57,5909919,0.0,15,15,1,Finished,+56.335,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-sakhir,Bahrain Grand Prix,198.3,kph,51,20,1:38.251,20,57,5915379,0.0,16,16,1,Finished,+1:01.795,2022
+Aston Martin,aston_martin,British,HUL,hulkenberg,Nico Hülkenberg,German,27,2022-sakhir,Bahrain Grand Prix,198.401,kph,49,19,1:38.201,17,57,5917413,0.0,17,17,1,Finished,+1:03.829,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-sakhir,Bahrain Grand Prix,202.762,kph,52,4,1:36.089,4,56,,0.0,18,18,1,Fuel pressure,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-sakhir,Bahrain Grand Prix,204.14,kph,51,2,1:35.440,2,54,,0.0,19,19,1,Fuel pressure,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-sakhir,Bahrain Grand Prix,200.189,kph,34,17,1:37.324,10,44,,0.0,20,R,1,Power Unit,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-jeddah,Saudi Arabian Grand Prix,242.191,kph,50,2,1:31.772,4,50,5059293,25.0,1,1,2,Finished,1:24:19.293,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-jeddah,Saudi Arabian Grand Prix,242.556,kph,48,1,1:31.634,2,50,5059842,19.0,2,2,2,Finished,+0.549,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-jeddah,Saudi Arabian Grand Prix,241.841,kph,48,3,1:31.905,3,50,5067390,15.0,3,3,2,Finished,+8.097,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-jeddah,Saudi Arabian Grand Prix,241.481,kph,46,4,1:32.042,1,50,5070093,12.0,4,4,2,Finished,+10.800,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-jeddah,Saudi Arabian Grand Prix,239.454,kph,43,7,1:32.821,6,50,5092025,10.0,5,5,2,Finished,+32.732,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-jeddah,Saudi Arabian Grand Prix,238.729,kph,46,9,1:33.103,5,50,5115310,8.0,6,6,2,Finished,+56.017,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-jeddah,Saudi Arabian Grand Prix,239.629,kph,46,5,1:32.753,11,50,5115417,6.0,7,7,2,Finished,+56.124,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-jeddah,Saudi Arabian Grand Prix,237.796,kph,42,10,1:33.468,9,50,5122239,4.0,8,8,2,Finished,+1:02.946,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-jeddah,Saudi Arabian Grand Prix,239.562,kph,48,6,1:32.779,10,50,5123601,2.0,9,9,2,Finished,+1:04.308,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-jeddah,Saudi Arabian Grand Prix,239.001,kph,47,8,1:32.997,15,50,5133241,1.0,10,10,2,Finished,+1:13.948,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-jeddah,Saudi Arabian Grand Prix,236.642,kph,45,13,1:33.924,12,50,5141508,0.0,11,11,2,Finished,+1:22.215,2022
+Aston Martin,aston_martin,British,HUL,hulkenberg,Nico Hülkenberg,German,27,2022-jeddah,Saudi Arabian Grand Prix,237.332,kph,47,11,1:33.651,17,50,5151035,0.0,12,12,2,Finished,+1:31.742,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-jeddah,Saudi Arabian Grand Prix,235.334,kph,46,16,1:34.446,13,49,,0.0,13,13,2,+1 Lap,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-jeddah,Saudi Arabian Grand Prix,235.528,kph,46,15,1:34.368,16,47,,0.0,14,14,2,Collision damage,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-jeddah,Saudi Arabian Grand Prix,236.503,kph,31,14,1:33.979,8,36,,0.0,15,R,2,Cooling system,,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-jeddah,Saudi Arabian Grand Prix,236.876,kph,33,12,1:33.831,7,35,,0.0,16,R,2,Water pump,,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-jeddah,Saudi Arabian Grand Prix,235.232,kph,34,17,1:34.487,14,35,,0.0,17,R,2,Gearbox,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-jeddah,Saudi Arabian Grand Prix,227.892,kph,9,18,1:37.530,18,14,,0.0,18,R,2,Accident,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-jeddah,Saudi Arabian Grand Prix,,,,,,19,0,,0.0,19,R,2,Power Unit,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-jeddah,Saudi Arabian Grand Prix,,,,,,0,0,,0.0,20,W,2,Withdrew,,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-melbourne,Australian Grand Prix,236.74,kph,58,1,1:20.260,1,58,5266548,26.0,1,1,3,Finished,1:27:46.548,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-melbourne,Australian Grand Prix,234.305,kph,58,3,1:21.094,3,58,5287072,18.0,2,2,3,Finished,+20.524,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-melbourne,Australian Grand Prix,233.152,kph,53,4,1:21.495,6,58,5292141,15.0,3,3,3,Finished,+25.593,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-melbourne,Australian Grand Prix,232.039,kph,51,7,1:21.886,5,58,5295091,12.0,4,4,3,Finished,+28.543,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-melbourne,Australian Grand Prix,231.018,kph,55,8,1:22.248,4,58,5319851,10.0,5,5,3,Finished,+53.303,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-melbourne,Australian Grand Prix,230.449,kph,54,9,1:22.451,7,58,5320285,8.0,6,6,3,Finished,+53.737,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-melbourne,Australian Grand Prix,230.399,kph,58,10,1:22.469,8,58,5328231,6.0,7,7,3,Finished,+1:01.683,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-melbourne,Australian Grand Prix,232.707,kph,54,5,1:21.651,12,58,5334987,4.0,8,8,3,Finished,+1:08.439,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-melbourne,Australian Grand Prix,229.669,kph,52,13,1:22.731,11,58,5342769,2.0,9,9,3,Finished,+1:16.221,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-melbourne,Australian Grand Prix,230.064,kph,54,12,1:22.589,20,58,5345930,1.0,10,10,3,Finished,+1:19.382,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-melbourne,Australian Grand Prix,230.198,kph,55,11,1:22.541,14,58,5348243,0.0,11,11,3,Finished,+1:21.695,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-melbourne,Australian Grand Prix,227.304,kph,48,17,1:23.592,19,58,5355146,0.0,12,12,3,Finished,+1:28.598,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-melbourne,Australian Grand Prix,228.908,kph,55,14,1:23.006,15,57,,0.0,13,13,3,+1 Lap,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-melbourne,Australian Grand Prix,228.729,kph,44,15,1:23.071,16,57,,0.0,14,14,3,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-melbourne,Australian Grand Prix,227.985,kph,56,16,1:23.342,13,57,,0.0,15,15,3,+1 Lap,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-melbourne,Australian Grand Prix,226.518,kph,49,18,1:23.882,18,57,,0.0,16,16,3,+1 Lap,,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-melbourne,Australian Grand Prix,235.024,kph,57,2,1:20.846,10,57,,0.0,17,17,3,+1 Lap,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-melbourne,Australian Grand Prix,232.633,kph,37,6,1:21.677,2,38,,0.0,18,R,3,Fuel leak,,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-melbourne,Australian Grand Prix,223.042,kph,17,19,1:25.189,17,22,,0.0,19,R,3,Accident,,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-melbourne,Australian Grand Prix,,,,,,9,1,,0.0,20,R,3,Spun off,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-imola,Emilia Romagna Grand Prix,225.281,kph,55,1,1:18.446,1,63,5527986,26.0,1,1,4,Finished,1:32:07.986,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-imola,Emilia Romagna Grand Prix,223.845,kph,52,3,1:18.949,3,63,5544513,18.0,2,2,4,Finished,+16.527,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-imola,Emilia Romagna Grand Prix,218.439,kph,61,7,1:20.903,5,63,5562820,15.0,3,3,4,Finished,+34.834,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-imola,Emilia Romagna Grand Prix,218.28,kph,57,8,1:20.962,11,63,5570492,12.0,4,4,4,Finished,+42.506,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-imola,Emilia Romagna Grand Prix,218.831,kph,43,6,1:20.758,7,63,5571167,10.0,5,5,4,Finished,+43.181,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-imola,Emilia Romagna Grand Prix,224.914,kph,63,2,1:18.574,2,63,5584058,8.0,6,6,4,Finished,+56.072,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-imola,Emilia Romagna Grand Prix,219.412,kph,61,5,1:20.544,12,63,5589096,6.0,7,7,4,Finished,+1:01.110,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-imola,Emilia Romagna Grand Prix,217.61,kph,47,9,1:21.211,13,63,5598878,4.0,8,8,4,Finished,+1:10.892,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-imola,Emilia Romagna Grand Prix,217.538,kph,61,10,1:21.238,8,63,5603246,2.0,9,9,4,Finished,+1:15.260,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-imola,Emilia Romagna Grand Prix,216.176,kph,46,16,1:21.750,15,62,,1.0,10,10,4,+1 Lap,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-imola,Emilia Romagna Grand Prix,216.157,kph,61,17,1:21.757,18,62,,0.0,11,11,4,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-imola,Emilia Romagna Grand Prix,216.274,kph,34,15,1:21.713,17,62,,0.0,12,12,4,+1 Lap,,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-imola,Emilia Romagna Grand Prix,217.054,kph,50,13,1:21.419,14,62,,0.0,13,13,4,+1 Lap,,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-imola,Emilia Romagna Grand Prix,215.814,kph,37,18,1:21.887,16,62,,0.0,14,14,4,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-imola,Emilia Romagna Grand Prix,217.41,kph,61,11,1:21.286,0,62,,0.0,15,15,4,+1 Lap,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-imola,Emilia Romagna Grand Prix,217.271,kph,62,12,1:21.338,19,62,,0.0,16,16,4,+1 Lap,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-imola,Emilia Romagna Grand Prix,223.704,kph,55,4,1:18.999,10,62,,0.0,17,17,4,+1 Lap,,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-imola,Emilia Romagna Grand Prix,216.634,kph,61,14,1:21.577,6,62,,0.0,18,18,4,+1 Lap,,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-imola,Emilia Romagna Grand Prix,177.282,kph,5,19,1:39.685,9,6,,0.0,19,R,4,Collision damage,,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-imola,Emilia Romagna Grand Prix,,,,,,4,0,,0.0,20,R,4,Collision,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-miami,Miami Grand Prix,213.255,kph,54,1,1:31.361,3,57,5664258,26.0,1,1,5,Finished,1:34:24.258,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-miami,Miami Grand Prix,212.959,kph,53,2,1:31.488,1,57,5668044,18.0,2,2,5,Finished,+3.786,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-miami,Miami Grand Prix,212.258,kph,56,3,1:31.790,2,57,5672487,15.0,3,3,5,Finished,+8.229,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-miami,Miami Grand Prix,212.191,kph,54,4,1:31.819,4,57,5674896,12.0,4,4,5,Finished,+10.638,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-miami,Miami Grand Prix,211.325,kph,56,5,1:32.195,12,57,5682840,10.0,5,5,5,Finished,+18.582,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-miami,Miami Grand Prix,209.629,kph,55,7,1:32.941,6,57,5685626,8.0,6,6,5,Finished,+21.368,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-miami,Miami Grand Prix,209.083,kph,56,10,1:33.184,5,57,5689331,6.0,7,7,5,Finished,+25.073,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-miami,Miami Grand Prix,209.13,kph,56,9,1:33.163,20,57,5692644,4.0,8,8,5,Finished,+28.386,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-miami,Miami Grand Prix,208.494,kph,57,15,1:33.447,18,57,5696623,2.0,9,9,5,Finished,+32.365,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-miami,Miami Grand Prix,208.796,kph,52,12,1:33.312,0,57,5701284,1.0,10,10,5,Finished,+37.026,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-miami,Miami Grand Prix,208.753,kph,53,13,1:33.331,11,57,5701386,0.0,11,11,5,Finished,+37.128,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-miami,Miami Grand Prix,209.417,kph,55,8,1:33.035,9,57,5704404,0.0,12,12,5,Finished,+40.146,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-miami,Miami Grand Prix,208.901,kph,56,11,1:33.265,14,57,5705160,0.0,13,13,5,Finished,+40.902,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-miami,Miami Grand Prix,206.896,kph,53,18,1:34.169,19,57,5714194,0.0,14,14,5,Finished,+49.936,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-miami,Miami Grand Prix,210.565,kph,57,6,1:32.528,15,57,5737563,0.0,15,15,5,Finished,+1:13.305,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-miami,Miami Grand Prix,208.351,kph,52,17,1:33.511,16,56,,0.0,16,16,5,Front wing,,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-miami,Miami Grand Prix,208.423,kph,50,16,1:33.479,0,54,,0.0,17,17,5,Collision,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-miami,Miami Grand Prix,206.199,kph,38,19,1:34.487,7,45,,0.0,18,R,5,Suspension,,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-miami,Miami Grand Prix,208.575,kph,37,14,1:33.411,8,39,,0.0,19,R,5,Collision,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-miami,Miami Grand Prix,203.52,kph,4,20,1:35.731,17,6,,0.0,20,R,5,Water leak,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-barcelona,Spanish Grand Prix,196.943,kph,46,4,1:25.456,2,66,5840475,25.0,1,1,6,Finished,1:37:20.475,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-barcelona,Spanish Grand Prix,200.099,kph,55,1,1:24.108,5,66,5853547,19.0,2,2,6,Finished,+13.072,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-barcelona,Spanish Grand Prix,198.851,kph,53,3,1:24.636,4,66,5873402,15.0,3,3,6,Finished,+32.927,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-barcelona,Spanish Grand Prix,195.731,kph,49,7,1:25.985,3,66,5885683,12.0,4,4,6,Finished,+45.208,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-barcelona,Spanish Grand Prix,199.755,kph,51,2,1:24.253,6,66,5895009,10.0,5,5,6,Finished,+54.534,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-barcelona,Spanish Grand Prix,194.802,kph,36,8,1:26.395,7,66,5900451,8.0,6,6,6,Finished,+59.976,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-barcelona,Spanish Grand Prix,195.845,kph,54,6,1:25.935,12,66,5915872,6.0,7,7,6,Finished,+1:15.397,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-barcelona,Spanish Grand Prix,196.568,kph,53,5,1:25.619,11,66,5923710,4.0,8,8,6,Finished,+1:23.235,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-barcelona,Spanish Grand Prix,194.344,kph,56,9,1:26.599,20,65,,2.0,9,9,6,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-barcelona,Spanish Grand Prix,193.831,kph,59,10,1:26.828,13,65,,1.0,10,10,6,+1 Lap,,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-barcelona,Spanish Grand Prix,192.059,kph,59,18,1:27.629,16,65,,0.0,11,11,6,+1 Lap,,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-barcelona,Spanish Grand Prix,192.816,kph,54,15,1:27.285,9,65,,0.0,12,12,6,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-barcelona,Spanish Grand Prix,193.477,kph,51,12,1:26.987,14,65,,0.0,13,13,6,+1 Lap,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-barcelona,Spanish Grand Prix,192.459,kph,32,16,1:27.447,10,65,,0.0,14,14,6,+1 Lap,,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-barcelona,Spanish Grand Prix,193.724,kph,54,11,1:26.876,17,65,,0.0,15,15,6,+1 Lap,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-barcelona,Spanish Grand Prix,192.902,kph,52,14,1:27.246,19,64,,0.0,16,16,6,+2 Laps,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-barcelona,Spanish Grand Prix,192.261,kph,3,17,1:27.537,8,64,,0.0,17,17,6,+2 Laps,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-barcelona,Spanish Grand Prix,190.641,kph,56,19,1:28.281,18,64,,0.0,18,18,6,+2 Laps,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-barcelona,Spanish Grand Prix,190.352,kph,12,20,1:28.415,15,28,,0.0,19,R,6,Power loss,,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-barcelona,Spanish Grand Prix,193.381,kph,25,13,1:27.030,1,27,,0.0,20,R,6,Turbo,,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-monte-carlo,Monaco Grand Prix,158.01,kph,46,4,1:16.028,3,64,6990265,25.0,1,1,7,Finished,1:56:30.265,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-monte-carlo,Monaco Grand Prix,157.197,kph,47,7,1:16.421,2,64,6991419,18.0,2,2,7,Finished,+1.154,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-monte-carlo,Monaco Grand Prix,157.96,kph,47,5,1:16.052,4,64,6991756,15.0,3,3,7,Finished,+1.491,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-monte-carlo,Monaco Grand Prix,157.552,kph,46,6,1:16.249,1,64,6993187,12.0,4,4,7,Finished,+2.922,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-monte-carlo,Monaco Grand Prix,156.36,kph,42,8,1:16.830,6,64,7002233,10.0,5,5,7,Finished,+11.968,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-monte-carlo,Monaco Grand Prix,160.834,kph,55,1,1:14.693,5,64,7002496,9.0,6,6,7,Finished,+12.231,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-monte-carlo,Monaco Grand Prix,158.314,kph,50,3,1:15.882,7,64,7036623,6.0,7,7,7,Finished,+46.358,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-monte-carlo,Monaco Grand Prix,155.605,kph,51,9,1:17.203,8,64,7040653,4.0,8,8,7,Finished,+50.388,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-monte-carlo,Monaco Grand Prix,154.809,kph,57,14,1:17.600,12,64,7042790,2.0,9,9,7,Finished,+52.525,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-monte-carlo,Monaco Grand Prix,154.893,kph,54,12,1:17.558,9,64,7043801,1.0,10,10,7,Finished,+53.536,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-monte-carlo,Monaco Grand Prix,155.321,kph,61,10,1:17.344,17,64,7044554,0.0,11,11,7,Finished,+54.289,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-monte-carlo,Monaco Grand Prix,154.867,kph,50,13,1:17.571,10,64,7045909,0.0,12,12,7,Finished,+55.644,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-monte-carlo,Monaco Grand Prix,154.945,kph,59,11,1:17.532,14,64,7047900,0.0,13,13,7,Finished,+57.635,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-monte-carlo,Monaco Grand Prix,154.665,kph,56,15,1:17.672,18,64,7051067,0.0,14,14,7,Finished,+1:00.802,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-monte-carlo,Monaco Grand Prix,152.88,kph,43,18,1:18.579,19,63,,0.0,15,15,7,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-monte-carlo,Monaco Grand Prix,153.621,kph,52,17,1:18.200,20,63,,0.0,16,16,7,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-monte-carlo,Monaco Grand Prix,159.465,kph,61,2,1:15.334,11,63,,0.0,17,17,7,+1 Lap,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-monte-carlo,Monaco Grand Prix,153.969,kph,40,16,1:18.023,16,48,,0.0,18,R,7,Mechanical,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-monte-carlo,Monaco Grand Prix,141.701,kph,24,19,1:24.778,15,24,,0.0,19,R,7,Accident,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-monte-carlo,Monaco Grand Prix,128.135,kph,18,20,1:33.754,13,19,,0.0,20,R,7,Water pressure,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-baku,Azerbaijan Grand Prix,203.779,kph,50,2,1:46.050,3,51,5645941,25.0,1,1,8,Finished,1:34:05.941,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-baku,Azerbaijan Grand Prix,203.787,kph,36,1,1:46.046,2,51,5666764,19.0,2,2,8,Finished,+20.823,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-baku,Azerbaijan Grand Prix,201.636,kph,42,4,1:47.177,5,51,5691936,15.0,3,3,8,Finished,+45.995,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-baku,Azerbaijan Grand Prix,201.887,kph,39,3,1:47.044,7,51,5717620,12.0,4,4,8,Finished,+1:11.679,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-baku,Azerbaijan Grand Prix,199.143,kph,39,16,1:48.519,6,51,5723240,10.0,5,5,8,Finished,+1:17.299,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-baku,Azerbaijan Grand Prix,199.719,kph,41,12,1:48.206,9,51,5730040,8.0,6,6,8,Finished,+1:24.099,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-baku,Azerbaijan Grand Prix,200.12,kph,49,8,1:47.989,10,51,5734537,6.0,7,7,8,Finished,+1:28.596,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-baku,Azerbaijan Grand Prix,199.589,kph,44,13,1:48.276,12,51,5738148,4.0,8,8,8,Finished,+1:32.207,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-baku,Azerbaijan Grand Prix,200.105,kph,37,9,1:47.997,11,51,5738497,2.0,9,9,8,Finished,+1:32.556,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-baku,Azerbaijan Grand Prix,199.551,kph,36,14,1:48.297,13,51,5754125,1.0,10,10,8,Finished,+1:48.184,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-baku,Azerbaijan Grand Prix,199.768,kph,42,11,1:48.179,15,50,,0.0,11,11,8,+1 Lap,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-baku,Azerbaijan Grand Prix,200.163,kph,48,7,1:47.966,17,50,,0.0,12,12,8,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-baku,Azerbaijan Grand Prix,200.987,kph,42,5,1:47.523,8,50,,0.0,13,13,8,+1 Lap,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-baku,Azerbaijan Grand Prix,199.343,kph,40,15,1:48.410,20,50,,0.0,14,14,8,+1 Lap,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-baku,Azerbaijan Grand Prix,197.209,kph,37,20,1:49.583,18,50,,0.0,15,15,8,+1 Lap,,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-baku,Azerbaijan Grand Prix,200.029,kph,38,10,1:48.038,19,46,,0.0,16,16,8,Vibrations,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-baku,Azerbaijan Grand Prix,198.648,kph,12,18,1:48.789,16,31,,0.0,17,R,8,Power Unit,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-baku,Azerbaijan Grand Prix,198.769,kph,12,17,1:48.723,14,23,,0.0,18,R,8,Hydraulics,,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-baku,Azerbaijan Grand Prix,200.972,kph,13,6,1:47.531,1,21,,0.0,19,R,8,Power Unit,,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-baku,Azerbaijan Grand Prix,198.304,kph,3,19,1:48.978,4,8,,0.0,20,R,8,Hydraulics,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-montreal,Canadian Grand Prix,207.012,kph,64,2,1:15.839,1,70,5781757,25.0,1,1,9,Finished,1:36:21.757,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-montreal,Canadian Grand Prix,207.258,kph,63,1,1:15.749,3,70,5782750,19.0,2,2,9,Finished,+0.993,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-montreal,Canadian Grand Prix,206.12,kph,69,4,1:16.167,4,70,5788763,15.0,3,3,9,Finished,+7.006,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-montreal,Canadian Grand Prix,205.443,kph,63,5,1:16.418,8,70,5794070,12.0,4,4,9,Finished,+12.313,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-montreal,Canadian Grand Prix,206.843,kph,62,3,1:15.901,19,70,5796925,10.0,5,5,9,Finished,+15.168,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-montreal,Canadian Grand Prix,203.6,kph,62,9,1:17.110,7,70,5805647,8.0,6,6,9,Finished,+23.890,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-montreal,Canadian Grand Prix,203.864,kph,64,8,1:17.010,11,70,5807004,6.0,7,7,9,Finished,+25.247,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-montreal,Canadian Grand Prix,204.084,kph,60,7,1:16.927,10,70,5808709,4.0,8,8,9,Finished,+26.952,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-montreal,Canadian Grand Prix,205.014,kph,63,6,1:16.578,2,70,5811702,2.0,9,9,9,Finished,+29.945,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-montreal,Canadian Grand Prix,202.782,kph,64,10,1:17.421,17,70,5819979,1.0,10,10,9,Finished,+38.222,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-montreal,Canadian Grand Prix,201.452,kph,59,13,1:17.932,9,70,5824804,0.0,11,11,9,Finished,+43.047,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-montreal,Canadian Grand Prix,201.39,kph,63,15,1:17.956,16,70,5826002,0.0,12,12,9,Finished,+44.245,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-montreal,Canadian Grand Prix,201.403,kph,59,14,1:17.951,12,70,5826650,0.0,13,13,9,Finished,+44.893,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-montreal,Canadian Grand Prix,201.768,kph,60,12,1:17.810,15,70,5826940,0.0,14,14,9,Finished,+45.183,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-montreal,Canadian Grand Prix,202.588,kph,63,11,1:17.495,14,70,5833902,0.0,15,15,9,Finished,+52.145,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-montreal,Canadian Grand Prix,199.893,kph,61,18,1:18.540,18,70,5841735,0.0,16,16,9,Finished,+59.978,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-montreal,Canadian Grand Prix,201.158,kph,11,16,1:18.046,5,70,5849937,0.0,17,17,9,Finished,+1:08.180,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-montreal,Canadian Grand Prix,200.482,kph,15,17,1:18.309,20,47,,0.0,18,R,9,Accident,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-montreal,Canadian Grand Prix,198.812,kph,13,20,1:18.967,6,18,,0.0,19,R,9,Engine,,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-montreal,Canadian Grand Prix,199.122,kph,7,19,1:18.844,13,7,,0.0,20,R,9,Gearbox,,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-silverstone,British Grand Prix,233.53,kph,44,2,1:30.813,1,52,8270311,25.0,1,1,10,Finished,2:17:50.311,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-silverstone,British Grand Prix,233.212,kph,47,3,1:30.937,4,52,8274090,18.0,2,2,10,Finished,+3.779,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-silverstone,British Grand Prix,234.312,kph,52,1,1:30.510,5,52,8276536,16.0,3,3,10,Finished,+6.225,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-silverstone,British Grand Prix,232.33,kph,52,4,1:31.282,3,52,8278857,12.0,4,4,10,Finished,+8.546,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-silverstone,British Grand Prix,231.501,kph,47,5,1:31.609,7,52,8279882,10.0,5,5,10,Finished,+9.571,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-silverstone,British Grand Prix,231.41,kph,47,6,1:31.645,6,52,8282254,8.0,6,6,10,Finished,+11.943,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-silverstone,British Grand Prix,229.633,kph,44,8,1:32.354,2,52,8289088,6.0,7,7,10,Finished,+18.777,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-silverstone,British Grand Prix,230.244,kph,48,7,1:32.109,19,52,8289306,4.0,8,8,10,Finished,+18.995,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-silverstone,British Grand Prix,229.343,kph,52,10,1:32.471,18,52,8292666,2.0,9,9,10,Finished,+22.356,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-silverstone,British Grand Prix,228.872,kph,52,12,1:32.661,17,52,8294901,1.0,10,10,10,Finished,+24.590,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-silverstone,British Grand Prix,229.571,kph,52,9,1:32.379,20,52,8296458,0.0,11,11,10,Finished,+26.147,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-silverstone,British Grand Prix,227.339,kph,48,13,1:33.286,10,52,8302822,0.0,12,12,10,Finished,+32.511,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-silverstone,British Grand Prix,228.914,kph,34,11,1:32.644,14,52,8303128,0.0,13,13,10,Finished,+32.817,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-silverstone,British Grand Prix,226.016,kph,51,15,1:33.832,13,52,8311221,0.0,14,14,10,Finished,+40.910,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-silverstone,British Grand Prix,226.729,kph,37,14,1:33.537,15,37,,0.0,15,R,10,Fuel pump,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-silverstone,British Grand Prix,224.148,kph,18,16,1:34.614,11,26,,0.0,16,R,10,Collision damage,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-silverstone,British Grand Prix,222.996,kph,19,17,1:35.103,12,20,,0.0,17,R,10,Gearbox,,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-silverstone,British Grand Prix,,,,,,8,0,,0.0,18,R,10,Collision,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-silverstone,British Grand Prix,,,,,,9,0,,0.0,19,R,10,Collision,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-silverstone,British Grand Prix,,,,,,16,0,,0.0,20,R,10,Collision,,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-spielberg,Austrian Grand Prix,230.01,kph,62,2,1:07.583,2,71,5064312,25.0,1,1,11,Finished,1:24:24.312,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-spielberg,Austrian Grand Prix,231.063,kph,62,1,1:07.275,1,71,5065844,19.0,2,2,11,Finished,+1.532,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-spielberg,Austrian Grand Prix,225.286,kph,63,5,1:09.000,8,71,5105529,15.0,3,3,11,Finished,+41.217,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-spielberg,Austrian Grand Prix,225.042,kph,61,6,1:09.075,4,71,5123284,12.0,4,4,11,Finished,+58.972,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-spielberg,Austrian Grand Prix,223.476,kph,62,10,1:09.559,6,71,5132748,10.0,5,5,11,Finished,+1:08.436,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-spielberg,Austrian Grand Prix,223.264,kph,50,11,1:09.625,9,70,,8.0,6,6,11,+1 Lap,,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-spielberg,Austrian Grand Prix,224.298,kph,62,8,1:09.304,10,70,,6.0,7,7,11,+1 Lap,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-spielberg,Austrian Grand Prix,222.265,kph,61,14,1:09.938,7,70,,4.0,8,8,11,+1 Lap,,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-spielberg,Austrian Grand Prix,222.309,kph,61,13,1:09.924,11,70,,2.0,9,9,11,+1 Lap,,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-spielberg,Austrian Grand Prix,226.739,kph,62,3,1:08.558,19,70,,1.0,10,10,11,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-spielberg,Austrian Grand Prix,224.421,kph,61,7,1:09.266,0,70,,0.0,11,11,11,+1 Lap,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-spielberg,Austrian Grand Prix,223.123,kph,60,12,1:09.669,15,70,,0.0,12,12,11,+1 Lap,,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-spielberg,Austrian Grand Prix,221.916,kph,64,17,1:10.048,12,70,,0.0,13,13,11,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-spielberg,Austrian Grand Prix,224.053,kph,50,9,1:09.380,13,70,,0.0,14,14,11,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-spielberg,Austrian Grand Prix,221.739,kph,61,18,1:10.104,14,70,,0.0,15,15,11,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-spielberg,Austrian Grand Prix,221.995,kph,62,16,1:10.023,16,70,,0.0,16,16,11,+1 Lap,,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-spielberg,Austrian Grand Prix,222.065,kph,62,15,1:10.001,18,70,,0.0,17,17,11,+1 Lap,,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-spielberg,Austrian Grand Prix,226.438,kph,55,4,1:08.649,3,56,,0.0,18,R,11,Power Unit,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-spielberg,Austrian Grand Prix,219.28,kph,14,19,1:10.890,17,48,,0.0,19,R,11,Undertray,,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-spielberg,Austrian Grand Prix,216.371,kph,5,20,1:11.843,5,24,,0.0,20,R,11,Collision damage,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-le-castellet,French Grand Prix,215.724,kph,30,2,1:37.491,2,53,5402112,25.0,1,1,12,Finished,1:30:02.112,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-le-castellet,French Grand Prix,215.333,kph,30,4,1:37.668,4,53,5412699,18.0,2,2,12,Finished,+10.587,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-le-castellet,French Grand Prix,215.598,kph,51,3,1:37.548,6,53,5418607,15.0,3,3,12,Finished,+16.495,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-le-castellet,French Grand Prix,215.086,kph,45,5,1:37.780,3,53,5419422,12.0,4,4,12,Finished,+17.310,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-le-castellet,French Grand Prix,219.575,kph,51,1,1:35.781,19,53,5430984,11.0,5,5,12,Finished,+28.872,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-le-castellet,French Grand Prix,214.254,kph,53,8,1:38.160,7,53,5444991,8.0,6,6,12,Finished,+42.879,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-le-castellet,French Grand Prix,212.356,kph,43,11,1:39.037,5,53,5454138,6.0,7,7,12,Finished,+52.026,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-le-castellet,French Grand Prix,213.116,kph,53,9,1:38.684,10,53,5459071,4.0,8,8,12,Finished,+56.959,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-le-castellet,French Grand Prix,212.151,kph,27,14,1:39.133,9,53,5462484,2.0,9,9,12,Finished,+1:00.372,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-le-castellet,French Grand Prix,212.04,kph,52,15,1:39.185,15,53,5464661,1.0,10,10,12,Finished,+1:02.549,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-le-castellet,French Grand Prix,212.341,kph,43,12,1:39.044,12,53,5466606,0.0,11,11,12,Finished,+1:04.494,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-le-castellet,French Grand Prix,212.896,kph,53,10,1:38.786,14,53,5467560,0.0,12,12,12,Finished,+1:05.448,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-le-castellet,French Grand Prix,212.01,kph,53,16,1:39.199,13,53,5470677,0.0,13,13,12,Finished,+1:08.565,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-le-castellet,French Grand Prix,214.685,kph,52,6,1:37.963,11,53,5478778,0.0,14,14,12,Finished,+1:16.666,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-le-castellet,French Grand Prix,212.29,kph,48,13,1:39.068,17,53,5482506,0.0,15,15,12,Finished,+1:20.394,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-le-castellet,French Grand Prix,211.649,kph,25,18,1:39.368,16,47,,0.0,16,16,12,+6 Laps,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-le-castellet,French Grand Prix,211.05,kph,40,19,1:39.650,18,40,,0.0,17,R,12,Collision damage,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-le-castellet,French Grand Prix,211.869,kph,11,17,1:39.265,20,37,,0.0,18,R,12,Collision damage,,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-le-castellet,French Grand Prix,214.411,kph,4,7,1:38.088,1,17,,0.0,19,R,12,Accident,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-le-castellet,French Grand Prix,209.858,kph,4,20,1:40.216,8,17,,0.0,20,R,12,Undertray,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-budapest,Hungarian Grand Prix,192.041,kph,45,6,1:22.126,10,70,5975912,25.0,1,1,13,Finished,1:39:35.912,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-budapest,Hungarian Grand Prix,193.787,kph,57,1,1:21.386,7,70,5983746,19.0,2,2,13,Finished,+7.834,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-budapest,Hungarian Grand Prix,190.556,kph,57,9,1:22.766,1,70,5988249,15.0,3,3,13,Finished,+12.337,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-budapest,Hungarian Grand Prix,192.336,kph,51,4,1:22.000,2,70,5990491,12.0,4,4,13,Finished,+14.579,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-budapest,Hungarian Grand Prix,192.477,kph,44,3,1:21.940,11,70,5991600,10.0,5,5,13,Finished,+15.688,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-budapest,Hungarian Grand Prix,193.227,kph,57,2,1:21.622,3,70,5991959,8.0,6,6,13,Finished,+16.047,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-budapest,Hungarian Grand Prix,189.92,kph,47,11,1:23.043,4,70,6054212,6.0,7,7,13,Finished,+1:18.300,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-budapest,Hungarian Grand Prix,187.804,kph,47,18,1:23.979,6,69,,4.0,8,8,13,+1 Lap,,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-budapest,Hungarian Grand Prix,187.424,kph,60,20,1:24.149,5,69,,2.0,9,9,13,+1 Lap,,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-budapest,Hungarian Grand Prix,190.423,kph,51,10,1:22.824,18,69,,1.0,10,10,13,+1 Lap,,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-budapest,Hungarian Grand Prix,191.317,kph,51,7,1:22.437,14,69,,0.0,11,11,13,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-budapest,Hungarian Grand Prix,189.564,kph,58,14,1:23.199,0,69,,0.0,12,12,13,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-budapest,Hungarian Grand Prix,192.268,kph,58,5,1:22.029,12,69,,0.0,13,13,13,+1 Lap,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-budapest,Hungarian Grand Prix,189.674,kph,50,13,1:23.151,15,69,,0.0,14,14,13,+1 Lap,,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-budapest,Hungarian Grand Prix,188.533,kph,63,17,1:23.654,9,69,,0.0,15,15,13,+1 Lap,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-budapest,Hungarian Grand Prix,188.856,kph,37,15,1:23.511,13,69,,0.0,16,16,13,+1 Lap,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-budapest,Hungarian Grand Prix,189.911,kph,43,12,1:23.047,17,69,,0.0,17,17,13,+1 Lap,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-budapest,Hungarian Grand Prix,191.221,kph,60,8,1:22.478,19,69,,0.0,18,18,13,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-budapest,Hungarian Grand Prix,188.795,kph,58,16,1:23.538,16,68,,0.0,19,19,13,+2 Laps,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-budapest,Hungarian Grand Prix,187.752,kph,60,19,1:24.002,8,65,,0.0,20,20,13,Power Unit,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-spa,Belgian Grand Prix,230.575,kph,32,1,1:49.354,14,44,5152894,26.0,1,1,14,Finished,1:25:52.894,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-spa,Belgian Grand Prix,227.64,kph,29,3,1:50.764,2,44,5170735,18.0,2,2,14,Finished,+17.841,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-spa,Belgian Grand Prix,225.174,kph,32,7,1:51.977,1,44,5179780,15.0,3,3,14,Finished,+26.886,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-spa,Belgian Grand Prix,227.581,kph,31,4,1:50.793,5,44,5182034,12.0,4,4,14,Finished,+29.140,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-spa,Belgian Grand Prix,223.397,kph,35,13,1:52.868,3,44,5226150,10.0,5,5,14,Finished,+1:13.256,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-spa,Belgian Grand Prix,229.255,kph,44,2,1:49.984,15,44,5227830,8.0,6,6,14,Finished,+1:14.936,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-spa,Belgian Grand Prix,225.698,kph,36,6,1:51.717,16,44,5228534,6.0,7,7,14,Finished,+1:15.640,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-spa,Belgian Grand Prix,224.098,kph,40,11,1:52.515,10,44,5231001,4.0,8,8,14,Finished,+1:18.107,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-spa,Belgian Grand Prix,223.132,kph,24,15,1:53.002,0,44,5245075,2.0,9,9,14,Finished,+1:32.181,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-spa,Belgian Grand Prix,223.027,kph,28,16,1:53.055,6,44,5254794,1.0,10,10,14,Finished,+1:41.900,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-spa,Belgian Grand Prix,223.373,kph,29,14,1:52.880,9,44,5255972,0.0,11,11,14,Finished,+1:43.078,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-spa,Belgian Grand Prix,225.777,kph,31,5,1:51.678,17,44,5257633,0.0,12,12,14,Finished,+1:44.739,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-spa,Belgian Grand Prix,224.255,kph,32,10,1:52.436,0,44,5258111,0.0,13,13,14,Finished,+1:45.217,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-spa,Belgian Grand Prix,224.493,kph,30,9,1:52.317,18,44,5259146,0.0,14,14,14,Finished,+1:46.252,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-spa,Belgian Grand Prix,222.978,kph,34,17,1:53.080,7,44,5260057,0.0,15,15,14,Finished,+1:47.163,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-spa,Belgian Grand Prix,222.482,kph,29,18,1:53.332,12,43,,0.0,16,16,14,+1 Lap,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-spa,Belgian Grand Prix,223.837,kph,35,12,1:52.646,19,43,,0.0,17,17,14,+1 Lap,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-spa,Belgian Grand Prix,224.615,kph,38,8,1:52.256,11,43,,0.0,18,18,14,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-spa,Belgian Grand Prix,,,,,,13,1,,0.0,19,R,14,Accident,,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-spa,Belgian Grand Prix,,,,,,4,0,,0.0,20,R,14,Collision damage,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-zandvoort,Dutch Grand Prix,208.173,kph,62,1,1:13.652,1,72,5802773,26.0,1,1,15,Finished,1:36:42.773,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-zandvoort,Dutch Grand Prix,208.119,kph,72,2,1:13.671,6,72,5806844,18.0,2,2,15,Finished,+4.071,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-zandvoort,Dutch Grand Prix,206.044,kph,62,6,1:14.413,2,72,5813702,15.0,3,3,15,Finished,+10.929,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-zandvoort,Dutch Grand Prix,207.604,kph,54,3,1:13.854,4,72,5815789,12.0,4,4,15,Finished,+13.016,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-zandvoort,Dutch Grand Prix,206.069,kph,63,5,1:14.404,5,72,5820941,10.0,5,5,15,Finished,+18.168,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-zandvoort,Dutch Grand Prix,206.792,kph,51,4,1:14.144,13,72,5821527,8.0,6,6,15,Finished,+18.754,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-zandvoort,Dutch Grand Prix,205.236,kph,63,8,1:14.706,7,72,5822079,6.0,7,7,15,Finished,+19.306,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-zandvoort,Dutch Grand Prix,205.409,kph,63,7,1:14.643,3,72,5823689,4.0,8,8,15,Finished,+20.916,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-zandvoort,Dutch Grand Prix,204.203,kph,64,11,1:15.084,12,72,5823890,2.0,9,9,15,Finished,+21.117,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-zandvoort,Dutch Grand Prix,204.314,kph,65,10,1:15.043,10,72,5825232,1.0,10,10,15,Finished,+22.459,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-zandvoort,Dutch Grand Prix,203.983,kph,65,12,1:15.165,11,72,5829782,0.0,11,11,15,Finished,+27.009,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-zandvoort,Dutch Grand Prix,202.986,kph,65,15,1:15.534,15,72,5833163,0.0,12,12,15,Finished,+30.390,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-zandvoort,Dutch Grand Prix,203.798,kph,51,13,1:15.233,8,72,5835768,0.0,13,13,15,Finished,+32.995,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-zandvoort,Dutch Grand Prix,204.808,kph,50,9,1:14.862,19,72,5838780,0.0,14,14,15,Finished,+36.007,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-zandvoort,Dutch Grand Prix,203.431,kph,53,14,1:15.369,18,72,5839642,0.0,15,15,15,Finished,+36.869,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-zandvoort,Dutch Grand Prix,201.901,kph,63,17,1:15.940,14,72,5840093,0.0,16,16,15,Finished,+37.320,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-zandvoort,Dutch Grand Prix,202.871,kph,52,16,1:15.577,17,72,5840537,0.0,17,17,15,Finished,+37.764,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-zandvoort,Dutch Grand Prix,201.567,kph,62,18,1:16.066,20,71,,0.0,18,18,15,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-zandvoort,Dutch Grand Prix,199.526,kph,51,19,1:16.844,16,53,,0.0,19,R,15,Engine,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-zandvoort,Dutch Grand Prix,198.765,kph,16,20,1:17.138,9,43,,0.0,20,R,15,Differential,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-monza,Italian Grand Prix,246.088,kph,38,6,1:24.745,7,53,4827511,25.0,1,1,16,Finished,1:20:27.511,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-monza,Italian Grand Prix,247.282,kph,38,2,1:24.336,1,53,4829957,18.0,2,2,16,Finished,+2.446,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-monza,Italian Grand Prix,244.522,kph,40,7,1:25.288,2,53,4830916,15.0,3,3,16,Finished,+3.405,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-monza,Italian Grand Prix,246.96,kph,41,4,1:24.446,18,53,4832572,12.0,4,4,16,Finished,+5.061,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-monza,Italian Grand Prix,246.995,kph,43,3,1:24.434,19,53,4832891,10.0,5,5,16,Finished,+5.380,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-monza,Italian Grand Prix,248.182,kph,46,1,1:24.030,13,53,4833602,9.0,6,6,16,Finished,+6.091,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-monza,Italian Grand Prix,246.167,kph,43,5,1:24.718,3,53,4833718,6.0,7,7,16,Finished,+6.207,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-monza,Italian Grand Prix,240.489,kph,30,14,1:26.718,5,53,4833907,4.0,8,8,16,Finished,+6.396,2022
+Williams,williams,British,DEV,de_vries,Nyck de Vries,Dutch,21,2022-monza,Italian Grand Prix,240.75,kph,41,13,1:26.624,8,53,4834633,2.0,9,9,16,Finished,+7.122,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-monza,Italian Grand Prix,241.484,kph,41,10,1:26.361,9,53,4835421,1.0,10,10,16,Finished,+7.910,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-monza,Italian Grand Prix,240.837,kph,37,11,1:26.593,14,53,4835834,0.0,11,11,16,Finished,+8.323,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-monza,Italian Grand Prix,244.493,kph,43,8,1:25.298,17,53,4836060,0.0,12,12,16,Finished,+8.549,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-monza,Italian Grand Prix,243.329,kph,45,9,1:25.706,15,52,,0.0,13,13,16,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-monza,Italian Grand Prix,240.105,kph,43,17,1:26.857,20,52,,0.0,14,14,16,+1 Lap,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-monza,Italian Grand Prix,240.268,kph,17,15,1:26.798,10,52,,0.0,15,15,16,+1 Lap,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-monza,Italian Grand Prix,240.268,kph,37,16,1:26.798,16,52,,0.0,16,16,16,+1 Lap,,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-monza,Italian Grand Prix,240.809,kph,39,12,1:26.603,4,45,,0.0,17,R,16,Oil leak,,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-monza,Italian Grand Prix,238.43,kph,34,19,1:27.467,12,39,,0.0,18,R,16,Engine,,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-monza,Italian Grand Prix,239.152,kph,7,18,1:27.203,6,31,,0.0,19,R,16,Water pressure,,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-monza,Italian Grand Prix,238.337,kph,4,20,1:27.501,11,10,,0.0,20,R,16,Engine,,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-marina-bay,Singapore Grand Prix,168.509,kph,57,2,1:48.165,2,59,7340238,25.0,1,1,17,Finished,2:02:20.238,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-marina-bay,Singapore Grand Prix,167.598,kph,54,4,1:48.753,1,59,7342833,18.0,2,2,17,Finished,+2.595,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-marina-bay,Singapore Grand Prix,168.122,kph,59,3,1:48.414,4,59,7350543,15.0,3,3,17,Finished,+10.305,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-marina-bay,Singapore Grand Prix,166.893,kph,56,6,1:49.212,6,59,7361371,12.0,4,4,17,Finished,+21.133,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-marina-bay,Singapore Grand Prix,164.196,kph,57,12,1:51.006,16,59,7393520,10.0,5,5,17,Finished,+53.282,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-marina-bay,Singapore Grand Prix,165.272,kph,58,7,1:50.283,11,59,7396568,8.0,6,6,17,Finished,+56.330,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-marina-bay,Singapore Grand Prix,167.0,kph,52,5,1:49.142,8,59,7399063,6.0,7,7,17,Finished,+58.825,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-marina-bay,Singapore Grand Prix,164.696,kph,58,11,1:50.669,13,59,7400270,4.0,8,8,17,Finished,+1:00.032,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-marina-bay,Singapore Grand Prix,164.766,kph,58,10,1:50.622,3,59,7401753,2.0,9,9,17,Finished,+1:01.515,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-marina-bay,Singapore Grand Prix,164.845,kph,56,9,1:50.569,7,59,7409814,1.0,10,10,17,Finished,+1:09.576,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-marina-bay,Singapore Grand Prix,162.937,kph,52,13,1:51.864,15,59,7429082,0.0,11,11,17,Finished,+1:28.844,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-marina-bay,Singapore Grand Prix,162.641,kph,59,14,1:52.067,9,59,7432848,0.0,12,12,17,Finished,+1:32.610,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-marina-bay,Singapore Grand Prix,165.262,kph,58,8,1:50.290,12,58,,0.0,13,13,17,+1 Lap,,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-marina-bay,Singapore Grand Prix,171.211,kph,54,1,1:46.458,0,57,,0.0,14,14,17,+2 Laps,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-marina-bay,Singapore Grand Prix,153.532,kph,32,15,1:58.716,10,34,,0.0,15,R,17,Accident,,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-marina-bay,Singapore Grand Prix,150.504,kph,24,17,2:01.105,17,26,,0.0,16,R,17,Engine,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-marina-bay,Singapore Grand Prix,149.251,kph,24,18,2:02.121,18,25,,0.0,17,R,17,Collision damage,,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-marina-bay,Singapore Grand Prix,151.306,kph,19,16,2:00.463,5,20,,0.0,18,R,17,Engine,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-marina-bay,Singapore Grand Prix,145.135,kph,5,20,2:05.585,19,7,,0.0,19,R,17,Collision damage,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-marina-bay,Singapore Grand Prix,145.168,kph,5,19,2:05.556,14,6,,0.0,20,R,17,Collision,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-suzuka,Japanese Grand Prix,199.266,kph,10,4,1:44.911,1,28,10904004,25.0,1,1,18,Finished,3:01:44.004,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-suzuka,Japanese Grand Prix,196.995,kph,11,9,1:46.120,4,28,10931070,18.0,2,2,18,Finished,+27.066,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-suzuka,Japanese Grand Prix,200.07,kph,10,3,1:44.489,2,28,10935767,15.0,3,3,18,Finished,+31.763,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-suzuka,Japanese Grand Prix,196.184,kph,11,11,1:46.559,5,28,10943689,12.0,4,4,18,Finished,+39.685,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-suzuka,Japanese Grand Prix,198.097,kph,11,7,1:45.530,6,28,10944330,10.0,5,5,18,Finished,+40.326,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-suzuka,Japanese Grand Prix,195.441,kph,13,12,1:46.964,9,28,10950362,8.0,6,6,18,Finished,+46.358,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-suzuka,Japanese Grand Prix,200.218,kph,25,2,1:44.412,7,28,10950373,6.0,7,7,18,Finished,+46.369,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-suzuka,Japanese Grand Prix,195.368,kph,21,13,1:47.004,8,28,10951665,4.0,8,8,18,Finished,+47.661,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-suzuka,Japanese Grand Prix,192.904,kph,12,18,1:48.371,20,28,10974147,2.0,9,9,18,Finished,+1:10.143,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-suzuka,Japanese Grand Prix,193.253,kph,8,17,1:48.175,10,28,10974786,1.0,10,10,18,Finished,+1:10.782,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-suzuka,Japanese Grand Prix,193.848,kph,11,15,1:47.843,11,28,10976881,0.0,11,11,18,Finished,+1:12.877,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-suzuka,Japanese Grand Prix,198.709,kph,21,5,1:45.205,19,28,10977908,0.0,12,12,18,Finished,+1:13.904,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-suzuka,Japanese Grand Prix,197.418,kph,22,8,1:45.893,13,28,10979603,0.0,13,13,18,Finished,+1:15.599,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-suzuka,Japanese Grand Prix,193.437,kph,10,16,1:48.072,18,28,10990020,0.0,14,14,18,Finished,+1:26.016,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-suzuka,Japanese Grand Prix,193.889,kph,11,14,1:47.820,12,28,10990500,0.0,15,15,18,Finished,+1:26.496,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-suzuka,Japanese Grand Prix,200.22,kph,20,1,1:44.411,14,28,10991047,0.0,16,16,18,Finished,+1:27.043,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-suzuka,Japanese Grand Prix,198.366,kph,22,6,1:45.387,15,28,10996527,0.0,17,17,18,Finished,+1:32.523,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-suzuka,Japanese Grand Prix,196.21,kph,13,10,1:46.545,17,28,11012095,0.0,18,18,18,Finished,+1:48.091,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-suzuka,Japanese Grand Prix,,,,,,3,0,,0.0,19,R,18,Accident,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-suzuka,Japanese Grand Prix,,,,,,16,0,,0.0,20,R,18,Hydraulics,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-austin,United States Grand Prix,199.383,kph,37,2,1:39.541,2,56,6131687,25.0,1,1,19,Finished,1:42:11.687,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-austin,United States Grand Prix,198.805,kph,45,5,1:39.830,3,56,6136710,18.0,2,2,19,Finished,+5.023,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-austin,United States Grand Prix,199.003,kph,37,4,1:39.731,12,56,6139188,15.0,3,3,19,Finished,+7.501,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-austin,United States Grand Prix,199.339,kph,44,3,1:39.563,9,56,6139980,12.0,4,4,19,Finished,+8.293,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-austin,United States Grand Prix,200.902,kph,56,1,1:38.788,4,56,6176502,11.0,5,5,19,Finished,+44.815,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-austin,United States Grand Prix,195.878,kph,49,7,1:41.322,6,56,6185472,8.0,6,6,19,Finished,+53.785,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-austin,United States Grand Prix,195.461,kph,39,8,1:41.538,14,56,6186765,6.0,7,7,19,Finished,+55.078,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-austin,United States Grand Prix,193.54,kph,35,16,1:42.546,10,56,6197041,4.0,8,8,19,Finished,+1:05.354,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-austin,United States Grand Prix,194.184,kph,36,11,1:42.206,13,56,6197521,2.0,9,9,19,Finished,+1:05.834,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-austin,United States Grand Prix,196.031,kph,49,6,1:41.243,19,56,6202606,1.0,10,10,19,Finished,+1:10.919,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-austin,United States Grand Prix,193.827,kph,39,13,1:42.394,0,56,6204562,0.0,11,11,19,Finished,+1:12.875,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-austin,United States Grand Prix,193.682,kph,46,15,1:42.471,18,56,6207851,0.0,12,12,19,Finished,+1:16.164,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-austin,United States Grand Prix,195.2,kph,55,9,1:41.674,8,56,6211744,0.0,13,13,19,Finished,+1:20.057,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-austin,United States Grand Prix,193.967,kph,55,12,1:42.320,11,56,6213450,0.0,14,14,19,Finished,+1:21.763,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-austin,United States Grand Prix,194.951,kph,51,10,1:41.804,16,56,6216177,0.0,15,15,19,Finished,+1:24.490,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-austin,United States Grand Prix,193.778,kph,55,14,1:42.420,15,56,6222174,0.0,16,16,19,Finished,+1:30.487,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-austin,United States Grand Prix,191.784,kph,54,19,1:43.485,17,56,6235275,0.0,17,17,19,Finished,+1:43.588,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-austin,United States Grand Prix,192.537,kph,3,17,1:43.080,5,21,,0.0,18,R,19,Collision,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-austin,United States Grand Prix,191.958,kph,4,18,1:43.391,7,16,,0.0,19,R,19,Spun off,,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-austin,United States Grand Prix,,,,,,1,1,,0.0,20,R,19,Collision damage,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-mexico-city,Mexico City Grand Prix,188.85,kph,36,4,1:22.046,1,71,5916729,25.0,1,1,20,Finished,1:38:36.729,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-mexico-city,Mexico City Grand Prix,188.813,kph,32,5,1:22.062,3,71,5931915,18.0,2,2,20,Finished,+15.186,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-mexico-city,Mexico City Grand Prix,189.476,kph,30,2,1:21.775,4,71,5934826,15.0,3,3,20,Finished,+18.097,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-mexico-city,Mexico City Grand Prix,193.31,kph,71,1,1:20.153,2,71,5966160,13.0,4,4,20,Finished,+49.431,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-mexico-city,Mexico City Grand Prix,188.498,kph,32,6,1:22.199,5,71,5974852,10.0,5,5,20,Finished,+58.123,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-mexico-city,Mexico City Grand Prix,187.576,kph,48,10,1:22.603,7,71,5985503,8.0,6,6,20,Finished,+1:08.774,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-mexico-city,Mexico City Grand Prix,188.905,kph,48,3,1:22.022,11,70,,6.0,7,7,20,+1 Lap,,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-mexico-city,Mexico City Grand Prix,186.054,kph,48,14,1:23.279,10,70,,4.0,8,8,20,+1 Lap,,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-mexico-city,Mexico City Grand Prix,185.779,kph,48,17,1:23.402,8,70,,2.0,9,9,20,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-mexico-city,Mexico City Grand Prix,185.866,kph,43,16,1:23.363,6,70,,1.0,10,10,20,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-mexico-city,Mexico City Grand Prix,188.319,kph,42,8,1:22.277,14,70,,0.0,11,11,20,+1 Lap,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-mexico-city,Mexico City Grand Prix,186.873,kph,48,12,1:22.914,17,70,,0.0,12,12,20,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-mexico-city,Mexico City Grand Prix,188.358,kph,47,7,1:22.260,12,70,,0.0,13,13,20,+1 Lap,,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-mexico-city,Mexico City Grand Prix,186.486,kph,45,13,1:23.086,16,70,,0.0,14,14,20,+1 Lap,,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-mexico-city,Mexico City Grand Prix,187.895,kph,42,9,1:22.463,20,70,,0.0,15,15,20,+1 Lap,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-mexico-city,Mexico City Grand Prix,185.248,kph,30,19,1:23.641,15,70,,0.0,16,16,20,+1 Lap,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-mexico-city,Mexico City Grand Prix,186.007,kph,49,15,1:23.300,19,70,,0.0,17,17,20,+1 Lap,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-mexico-city,Mexico City Grand Prix,185.098,kph,56,20,1:23.709,18,69,,0.0,18,18,20,+2 Laps,,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-mexico-city,Mexico City Grand Prix,186.981,kph,48,11,1:22.866,9,63,,0.0,19,19,20,Engine,,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-mexico-city,Mexico City Grand Prix,185.777,kph,48,18,1:23.403,13,50,,0.0,20,R,20,Collision damage,,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-s-o-paulo,São Paulo Grand Prix,210.237,kph,61,1,1:13.785,1,71,5914044,26.0,1,1,21,Finished,1:38:34.044,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-s-o-paulo,São Paulo Grand Prix,209.791,kph,63,2,1:13.942,2,71,5915573,18.0,2,2,21,Finished,+1.529,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-s-o-paulo,São Paulo Grand Prix,209.76,kph,65,3,1:13.953,7,71,5918095,15.0,3,3,21,Finished,+4.051,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-s-o-paulo,São Paulo Grand Prix,208.912,kph,63,6,1:14.253,5,71,5922485,12.0,4,4,21,Finished,+8.441,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-s-o-paulo,São Paulo Grand Prix,209.163,kph,62,4,1:14.164,17,71,5923605,10.0,5,5,21,Finished,+9.561,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-s-o-paulo,São Paulo Grand Prix,209.076,kph,64,5,1:14.195,3,71,5924100,8.0,6,6,21,Finished,+10.056,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-s-o-paulo,São Paulo Grand Prix,208.828,kph,62,7,1:14.283,4,71,5928124,6.0,7,7,21,Finished,+14.080,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-s-o-paulo,São Paulo Grand Prix,206.575,kph,65,9,1:15.093,16,71,5932734,4.0,8,8,21,Finished,+18.690,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-s-o-paulo,São Paulo Grand Prix,205.432,kph,62,14,1:15.511,14,71,5936596,2.0,9,9,21,Finished,+22.552,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-s-o-paulo,São Paulo Grand Prix,207.299,kph,50,8,1:14.831,15,71,5937596,1.0,10,10,21,Finished,+23.552,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-s-o-paulo,São Paulo Grand Prix,205.328,kph,64,15,1:15.549,9,71,5940227,0.0,11,11,21,Finished,+26.183,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-s-o-paulo,São Paulo Grand Prix,204.643,kph,64,17,1:15.802,13,71,5943369,0.0,12,12,21,Finished,+29.325,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-s-o-paulo,São Paulo Grand Prix,206.142,kph,63,10,1:15.251,12,71,5943943,0.0,13,13,21,Finished,+29.899,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-s-o-paulo,São Paulo Grand Prix,205.934,kph,64,12,1:15.327,10,71,5945911,0.0,14,14,21,Finished,+31.867,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-s-o-paulo,São Paulo Grand Prix,205.155,kph,49,16,1:15.613,19,71,5950060,0.0,15,15,21,Finished,+36.016,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-s-o-paulo,São Paulo Grand Prix,205.934,kph,59,11,1:15.327,18,71,5951082,0.0,16,16,21,Finished,+37.038,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-s-o-paulo,São Paulo Grand Prix,205.44,kph,63,13,1:15.508,0,70,,0.0,17,17,21,+1 Lap,,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-s-o-paulo,São Paulo Grand Prix,204.5,kph,48,18,1:15.855,6,50,,0.0,18,R,21,Gearbox,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-s-o-paulo,São Paulo Grand Prix,,,,,,8,0,,0.0,19,R,21,Collision,,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-s-o-paulo,São Paulo Grand Prix,,,,,,11,0,,0.0,20,R,21,Collision,,2022
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2022-abu-dhabi,Abu Dhabi Grand Prix,212.676,kph,54,6,1:29.392,1,58,5265914,25.0,1,1,22,Finished,1:27:45.914,2022
+Ferrari,ferrari,Italian,LEC,leclerc,Charles Leclerc,Monegasque,16,2022-abu-dhabi,Abu Dhabi Grand Prix,211.901,kph,48,10,1:29.719,3,58,5274685,18.0,2,2,22,Finished,+8.771,2022
+Red Bull,red_bull,Austrian,PER,perez,Sergio Pérez,Mexican,11,2022-abu-dhabi,Abu Dhabi Grand Prix,213.68,kph,52,4,1:28.972,2,58,5276007,15.0,3,3,22,Finished,+10.093,2022
+Ferrari,ferrari,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2022-abu-dhabi,Abu Dhabi Grand Prix,213.904,kph,50,3,1:28.879,4,58,5290806,12.0,4,4,22,Finished,+24.892,2022
+Mercedes,mercedes,German,RUS,russell,George Russell,British,63,2022-abu-dhabi,Abu Dhabi Grand Prix,214.007,kph,48,2,1:28.836,6,58,5301802,10.0,5,5,22,Finished,+35.888,2022
+McLaren,mclaren,British,NOR,norris,Lando Norris,British,1,2022-abu-dhabi,Abu Dhabi Grand Prix,215.085,kph,44,1,1:28.391,7,58,5322148,9.0,6,6,22,Finished,+56.234,2022
+Alpine F1 Team,alpine,French,OCO,ocon,Esteban Ocon,French,31,2022-abu-dhabi,Abu Dhabi Grand Prix,212.817,kph,45,5,1:29.333,8,58,5323154,6.0,7,7,22,Finished,+57.240,2022
+Aston Martin,aston_martin,British,STR,stroll,Lance Stroll,Canadian,18,2022-abu-dhabi,Abu Dhabi Grand Prix,212.135,kph,42,9,1:29.620,14,58,5342845,4.0,8,8,22,Finished,+1:16.931,2022
+McLaren,mclaren,British,RIC,ricciardo,Daniel Ricciardo,Australian,3,2022-abu-dhabi,Abu Dhabi Grand Prix,209.413,kph,45,18,1:30.785,13,58,5349182,2.0,9,9,22,Finished,+1:23.268,2022
+Aston Martin,aston_martin,British,VET,vettel,Sebastian Vettel,German,5,2022-abu-dhabi,Abu Dhabi Grand Prix,210.51,kph,35,15,1:30.312,9,58,5349812,1.0,10,10,22,Finished,+1:23.898,2022
+AlphaTauri,alphatauri,Italian,TSU,tsunoda,Yuki Tsunoda,Japanese,22,2022-abu-dhabi,Abu Dhabi Grand Prix,212.446,kph,40,7,1:29.489,11,58,5355285,0.0,11,11,22,Finished,+1:29.371,2022
+Alfa Romeo,alfa,Swiss,ZHO,zhou,Guanyu Zhou,Chinese,24,2022-abu-dhabi,Abu Dhabi Grand Prix,212.183,kph,53,8,1:29.600,15,57,,0.0,12,12,22,+1 Lap,,2022
+Williams,williams,British,ALB,albon,Alexander Albon,Thai,23,2022-abu-dhabi,Abu Dhabi Grand Prix,211.383,kph,40,13,1:29.939,19,57,,0.0,13,13,22,+1 Lap,,2022
+AlphaTauri,alphatauri,Italian,GAS,gasly,Pierre Gasly,French,10,2022-abu-dhabi,Abu Dhabi Grand Prix,208.732,kph,16,19,1:31.081,17,57,,0.0,14,14,22,+1 Lap,,2022
+Alfa Romeo,alfa,Swiss,BOT,bottas,Valtteri Bottas,Finnish,77,2022-abu-dhabi,Abu Dhabi Grand Prix,210.417,kph,47,16,1:30.352,18,57,,0.0,15,15,22,+1 Lap,,2022
+Haas F1 Team,haas,American,MSC,mick_schumacher,Mick Schumacher,German,47,2022-abu-dhabi,Abu Dhabi Grand Prix,211.632,kph,39,12,1:29.833,12,57,,0.0,16,16,22,+1 Lap,,2022
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2022-abu-dhabi,Abu Dhabi Grand Prix,208.556,kph,40,20,1:31.158,16,57,,0.0,17,17,22,+1 Lap,,2022
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2022-abu-dhabi,Abu Dhabi Grand Prix,211.738,kph,42,11,1:29.788,5,55,,0.0,18,18,22,Hydraulics,,2022
+Williams,williams,British,LAT,latifi,Nicholas Latifi,Canadian,6,2022-abu-dhabi,Abu Dhabi Grand Prix,210.517,kph,45,14,1:30.309,20,55,,0.0,19,19,22,Collision damage,,2022
+Alpine F1 Team,alpine,French,ALO,alonso,Fernando Alonso,Spanish,14,2022-abu-dhabi,Abu Dhabi Grand Prix,209.889,kph,24,17,1:30.579,10,27,,0.0,20,R,22,Water leak,,2022

@@ -1,0 +1,24 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,108.0,1,1,9,2000
+"[""mclaren""]","[""McLaren""]",,hakkinen,Mika Häkkinen,Finnish,,89.0,2,2,4,2000
+"[""mclaren""]","[""McLaren""]",COU,coulthard,David Coulthard,British,,73.0,3,3,3,2000
+"[""ferrari""]","[""Ferrari""]",BAR,barrichello,Rubens Barrichello,Brazilian,,62.0,4,4,1,2000
+"[""williams""]","[""Williams""]",SCH,ralf_schumacher,Ralf Schumacher,German,,24.0,5,5,0,2000
+"[""benetton""]","[""Benetton""]",FIS,fisichella,Giancarlo Fisichella,Italian,,18.0,6,6,0,2000
+"[""bar""]","[""BAR""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,17.0,7,7,0,2000
+"[""williams""]","[""Williams""]",BUT,button,Jenson Button,British,22,12.0,8,8,0,2000
+"[""jordan""]","[""Jordan""]",,frentzen,Heinz-Harald Frentzen,German,,11.0,9,9,0,2000
+"[""jordan""]","[""Jordan""]",TRU,trulli,Jarno Trulli,Italian,,6.0,10,10,0,2000
+"[""sauber""]","[""Sauber""]",,salo,Mika Salo,Finnish,,6.0,11,11,0,2000
+"[""arrows""]","[""Arrows""]",,verstappen,Jos Verstappen,Dutch,,5.0,12,12,0,2000
+"[""jaguar""]","[""Jaguar""]",,irvine,Eddie Irvine,British,,4.0,13,13,0,2000
+"[""bar""]","[""BAR""]",ZON,zonta,Ricardo Zonta,Brazilian,,3.0,14,14,0,2000
+"[""benetton""]","[""Benetton""]",WUR,wurz,Alexander Wurz,Austrian,,2.0,15,15,0,2000
+"[""arrows""]","[""Arrows""]",DLR,rosa,Pedro de la Rosa,Spanish,,2.0,16,16,0,2000
+"[""jaguar""]","[""Jaguar""]",,herbert,Johnny Herbert,British,,0.0,,-,0,2000
+"[""sauber""]","[""Sauber""]",,diniz,Pedro Diniz,Brazilian,,0.0,,-,0,2000
+"[""minardi""]","[""Minardi""]",,gene,Marc Gené,Spanish,,0.0,,-,0,2000
+"[""prost""]","[""Prost""]",HEI,heidfeld,Nick Heidfeld,German,,0.0,,-,0,2000
+"[""minardi""]","[""Minardi""]",,mazzacane,Gastón Mazzacane,Argentine,,0.0,,-,0,2000
+"[""prost""]","[""Prost""]",,alesi,Jean Alesi,French,,0.0,,-,0,2000
+"[""jaguar""]","[""Jaguar""]",,burti,Luciano Burti,Brazilian,,0.0,,-,0,2000

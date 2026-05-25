@@ -1,0 +1,40 @@
+{
+  "year": 2024,
+  "generated_at": "2026-05-25T19:00:44.274334+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 24,
+  "race_results": 479,
+  "qualifying_results": 479,
+  "drivers": 24,
+  "constructors": 10,
+  "driver_champion": {
+    "year": 2024,
+    "position": 1,
+    "position_text": "1",
+    "points": 437.0,
+    "wins": 9,
+    "driver_id": "max_verstappen",
+    "driver_code": "VER",
+    "driver_number": "3",
+    "driver_name": "Max Verstappen",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "red_bull"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2024,
+    "position": 1,
+    "position_text": "1",
+    "points": 666.0,
+    "wins": 6,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  }
+}

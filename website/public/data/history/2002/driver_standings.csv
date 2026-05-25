@@ -1,0 +1,24 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,144.0,1,1,11,2002
+"[""ferrari""]","[""Ferrari""]",BAR,barrichello,Rubens Barrichello,Brazilian,,77.0,2,2,4,2002
+"[""williams""]","[""Williams""]",MON,montoya,Juan Pablo Montoya,Colombian,,50.0,3,3,0,2002
+"[""williams""]","[""Williams""]",SCH,ralf_schumacher,Ralf Schumacher,German,,42.0,4,4,1,2002
+"[""mclaren""]","[""McLaren""]",COU,coulthard,David Coulthard,British,,41.0,5,5,1,2002
+"[""mclaren""]","[""McLaren""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,24.0,6,6,0,2002
+"[""renault""]","[""Renault""]",BUT,button,Jenson Button,British,22,14.0,7,7,0,2002
+"[""renault""]","[""Renault""]",TRU,trulli,Jarno Trulli,Italian,,9.0,8,8,0,2002
+"[""jaguar""]","[""Jaguar""]",,irvine,Eddie Irvine,British,,8.0,9,9,0,2002
+"[""sauber""]","[""Sauber""]",HEI,heidfeld,Nick Heidfeld,German,,7.0,10,10,0,2002
+"[""jordan""]","[""Jordan""]",FIS,fisichella,Giancarlo Fisichella,Italian,,7.0,11,11,0,2002
+"[""bar""]","[""BAR""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,4.0,12,12,0,2002
+"[""sauber""]","[""Sauber""]",MAS,massa,Felipe Massa,Brazilian,19,4.0,13,13,0,2002
+"[""bar""]","[""BAR""]",,panis,Olivier Panis,French,,3.0,14,14,0,2002
+"[""jordan""]","[""Jordan""]",SAT,sato,Takuma Sato,Japanese,,2.0,15,15,0,2002
+"[""minardi""]","[""Minardi""]",WEB,webber,Mark Webber,Australian,,2.0,16,16,0,2002
+"[""toyota""]","[""Toyota""]",,salo,Mika Salo,Finnish,,2.0,17,17,0,2002
+"[""arrows"", ""sauber""]","[""Arrows"", ""Sauber""]",,frentzen,Heinz-Harald Frentzen,German,,2.0,18,18,0,2002
+"[""toyota""]","[""Toyota""]",,mcnish,Allan McNish,British,,0.0,19,19,0,2002
+"[""minardi""]","[""Minardi""]",,yoong,Alex Yoong,Malaysian,,0.0,20,20,0,2002
+"[""jaguar""]","[""Jaguar""]",DLR,rosa,Pedro de la Rosa,Spanish,,0.0,21,21,0,2002
+"[""arrows""]","[""Arrows""]",,bernoldi,Enrique Bernoldi,Brazilian,,0.0,22,22,0,2002
+"[""minardi""]","[""Minardi""]",DAV,davidson,Anthony Davidson,British,,0.0,,-,0,2002

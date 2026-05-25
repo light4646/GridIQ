@@ -1,0 +1,82 @@
+[
+  {
+    "constructor": "Mercedes",
+    "points": 604.5,
+    "wins": 9,
+    "podiums": 28,
+    "starts": 44,
+    "position": 1
+  },
+  {
+    "constructor": "Red Bull Racing",
+    "points": 578.5,
+    "wins": 11,
+    "podiums": 23,
+    "starts": 44,
+    "position": 2
+  },
+  {
+    "constructor": "Ferrari",
+    "points": 322.5,
+    "wins": 0,
+    "podiums": 5,
+    "starts": 44,
+    "position": 3
+  },
+  {
+    "constructor": "McLaren",
+    "points": 274.0,
+    "wins": 1,
+    "podiums": 5,
+    "starts": 44,
+    "position": 4
+  },
+  {
+    "constructor": "Alpine",
+    "points": 155.0,
+    "wins": 1,
+    "podiums": 2,
+    "starts": 44,
+    "position": 5
+  },
+  {
+    "constructor": "AlphaTauri",
+    "points": 142.0,
+    "wins": 0,
+    "podiums": 1,
+    "starts": 44,
+    "position": 6
+  },
+  {
+    "constructor": "Aston Martin",
+    "points": 77.0,
+    "wins": 0,
+    "podiums": 1,
+    "starts": 44,
+    "position": 7
+  },
+  {
+    "constructor": "Williams",
+    "points": 23.0,
+    "wins": 0,
+    "podiums": 1,
+    "starts": 44,
+    "position": 8
+  },
+  {
+    "constructor": "Alfa Romeo Racing",
+    "points": 13.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 44,
+    "position": 9
+  },
+  {
+    "constructor": "Haas F1 Team",
+    "points": 0.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 44,
+    "position": 10
+  }
+]

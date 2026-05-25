@@ -1,0 +1,28 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""renault""]","[""Renault""]",ALO,alonso,Fernando Alonso,Spanish,14,134.0,1,1,7,2006
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,121.0,2,2,7,2006
+"[""ferrari""]","[""Ferrari""]",MAS,massa,Felipe Massa,Brazilian,19,80.0,3,3,2,2006
+"[""renault""]","[""Renault""]",FIS,fisichella,Giancarlo Fisichella,Italian,,72.0,4,4,1,2006
+"[""mclaren""]","[""McLaren""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,65.0,5,5,0,2006
+"[""honda""]","[""Honda""]",BUT,button,Jenson Button,British,22,56.0,6,6,1,2006
+"[""honda""]","[""Honda""]",BAR,barrichello,Rubens Barrichello,Brazilian,,30.0,7,7,0,2006
+"[""mclaren""]","[""McLaren""]",MON,montoya,Juan Pablo Montoya,Colombian,,26.0,8,8,0,2006
+"[""bmw_sauber""]","[""BMW Sauber""]",HEI,heidfeld,Nick Heidfeld,German,,23.0,9,9,0,2006
+"[""toyota""]","[""Toyota""]",SCH,ralf_schumacher,Ralf Schumacher,German,,20.0,10,10,0,2006
+"[""mclaren""]","[""McLaren""]",DLR,rosa,Pedro de la Rosa,Spanish,,19.0,11,11,0,2006
+"[""toyota""]","[""Toyota""]",TRU,trulli,Jarno Trulli,Italian,,15.0,12,12,0,2006
+"[""red_bull""]","[""Red Bull""]",COU,coulthard,David Coulthard,British,,14.0,13,13,0,2006
+"[""williams""]","[""Williams""]",WEB,webber,Mark Webber,Australian,,7.0,14,14,0,2006
+"[""bmw_sauber""]","[""BMW Sauber""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,7.0,15,15,0,2006
+"[""bmw_sauber""]","[""BMW Sauber""]",KUB,kubica,Robert Kubica,Polish,88,6.0,16,16,0,2006
+"[""williams""]","[""Williams""]",ROS,rosberg,Nico Rosberg,German,6,4.0,17,17,0,2006
+"[""red_bull""]","[""Red Bull""]",KLI,klien,Christian Klien,Austrian,,2.0,18,18,0,2006
+"[""toro_rosso""]","[""Toro Rosso""]",LIU,liuzzi,Vitantonio Liuzzi,Italian,,1.0,19,19,0,2006
+"[""toro_rosso""]","[""Toro Rosso""]",SPE,speed,Scott Speed,American,,0.0,20,20,0,2006
+"[""mf1"", ""spyker_mf1""]","[""MF1"", ""Spyker MF1""]",TMO,monteiro,Tiago Monteiro,Portuguese,,0.0,21,21,0,2006
+"[""mf1"", ""spyker_mf1""]","[""MF1"", ""Spyker MF1""]",ALB,albers,Christijan Albers,Dutch,,0.0,22,22,0,2006
+"[""super_aguri""]","[""Super Aguri""]",SAT,sato,Takuma Sato,Japanese,,0.0,23,23,0,2006
+"[""red_bull""]","[""Red Bull""]",DOO,doornbos,Robert Doornbos,Dutch,,0.0,24,24,0,2006
+"[""super_aguri""]","[""Super Aguri""]",IDE,ide,Yuji Ide,Japanese,,0.0,25,25,0,2006
+"[""super_aguri""]","[""Super Aguri""]",YAM,yamamoto,Sakon Yamamoto,Japanese,,0.0,26,26,0,2006
+"[""super_aguri""]","[""Super Aguri""]",FMO,montagny,Franck Montagny,French,,0.0,27,27,0,2006

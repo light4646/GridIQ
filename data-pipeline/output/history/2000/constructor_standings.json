@@ -1,0 +1,123 @@
+[
+  {
+    "year": 2000,
+    "position": 1,
+    "position_text": "1",
+    "points": 170.0,
+    "wins": 10,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 2000,
+    "position": 2,
+    "position_text": "2",
+    "points": 162.0,
+    "wins": 7,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 2000,
+    "position": 3,
+    "position_text": "3",
+    "points": 36.0,
+    "wins": 0,
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+  },
+  {
+    "year": 2000,
+    "position": 4,
+    "position_text": "4",
+    "points": 20.0,
+    "wins": 0,
+    "constructor_id": "benetton",
+    "constructor": "Benetton",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Benetton_Formula"
+  },
+  {
+    "year": 2000,
+    "position": 5,
+    "position_text": "5",
+    "points": 20.0,
+    "wins": 0,
+    "constructor_id": "bar",
+    "constructor": "BAR",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_American_Racing"
+  },
+  {
+    "year": 2000,
+    "position": 6,
+    "position_text": "6",
+    "points": 17.0,
+    "wins": 0,
+    "constructor_id": "jordan",
+    "constructor": "Jordan",
+    "constructor_nationality": "Irish",
+    "constructor_url": "https://en.wikipedia.org/wiki/Jordan_Grand_Prix"
+  },
+  {
+    "year": 2000,
+    "position": 7,
+    "position_text": "7",
+    "points": 7.0,
+    "wins": 0,
+    "constructor_id": "arrows",
+    "constructor": "Arrows",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International"
+  },
+  {
+    "year": 2000,
+    "position": 8,
+    "position_text": "8",
+    "points": 6.0,
+    "wins": 0,
+    "constructor_id": "sauber",
+    "constructor": "Sauber",
+    "constructor_nationality": "Swiss",
+    "constructor_url": "https://en.wikipedia.org/wiki/Sauber_Motorsport"
+  },
+  {
+    "year": 2000,
+    "position": 9,
+    "position_text": "9",
+    "points": 4.0,
+    "wins": 0,
+    "constructor_id": "jaguar",
+    "constructor": "Jaguar",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Jaguar_Racing"
+  },
+  {
+    "year": 2000,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "minardi",
+    "constructor": "Minardi",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Minardi"
+  },
+  {
+    "year": 2000,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "prost",
+    "constructor": "Prost",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Prost_Grand_Prix"
+  }
+]

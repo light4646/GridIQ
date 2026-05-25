@@ -1,0 +1,40 @@
+{
+  "year": 2015,
+  "generated_at": "2026-05-25T19:09:20.647485+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 19,
+  "race_results": 378,
+  "qualifying_results": 374,
+  "drivers": 22,
+  "constructors": 10,
+  "driver_champion": {
+    "year": 2015,
+    "position": 1,
+    "position_text": "1",
+    "points": 381.0,
+    "wins": 10,
+    "driver_id": "hamilton",
+    "driver_code": "HAM",
+    "driver_number": "44",
+    "driver_name": "Lewis Hamilton",
+    "driver_nationality": "British",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2015,
+    "position": 1,
+    "position_text": "1",
+    "points": 703.0,
+    "wins": 16,
+    "constructor_id": "mercedes",
+    "constructor": "Mercedes",
+    "constructor_nationality": "German",
+    "constructor_url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One"
+  }
+}

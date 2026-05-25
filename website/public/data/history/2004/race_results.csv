@@ -1,0 +1,361 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-melbourne,Australian Grand Prix,226.933,kph,29,1,1:24.125,1,58,5055757,10.0,1,1,1,Finished,1:24:15.757,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-melbourne,Australian Grand Prix,226.788,kph,8,2,1:24.179,2,58,5069362,8.0,2,2,1,Finished,+13.605,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-melbourne,Australian Grand Prix,224.365,kph,10,3,1:25.088,5,58,5090430,6.0,3,3,1,Finished,+34.673,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-melbourne,Australian Grand Prix,222.441,kph,11,5,1:25.824,8,58,5116180,5.0,4,4,1,Finished,+1:00.423,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-melbourne,Australian Grand Prix,223.844,kph,42,4,1:25.286,3,58,5124293,4.0,5,5,1,Finished,+1:08.536,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-melbourne,Australian Grand Prix,222.032,kph,24,7,1:25.982,4,58,5126355,3.0,6,6,1,Finished,+1:10.598,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-melbourne,Australian Grand Prix,221.278,kph,9,9,1:26.275,9,57,,2.0,7,7,1,+1 Lap,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-melbourne,Australian Grand Prix,221.142,kph,13,11,1:26.328,12,57,,1.0,8,8,1,+1 Lap,,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-melbourne,Australian Grand Prix,221.787,kph,43,8,1:26.077,7,57,,0.0,9,9,1,+1 Lap,,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-melbourne,Australian Grand Prix,221.26,kph,39,10,1:26.282,14,57,,0.0,10,10,1,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-melbourne,Australian Grand Prix,217.336,kph,6,16,1:27.840,19,56,,0.0,11,11,1,+2 Laps,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-melbourne,Australian Grand Prix,217.385,kph,41,15,1:27.820,13,56,,0.0,12,12,1,+2 Laps,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-melbourne,Australian Grand Prix,217.417,kph,35,14,1:27.807,18,56,,0.0,13,13,1,+2 Laps,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-melbourne,Australian Grand Prix,215.659,kph,15,18,1:28.523,16,55,,0.0,14,14,1,+3 Laps,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-melbourne,Australian Grand Prix,219.823,kph,11,12,1:26.846,11,44,,0.0,15,R,1,Engine,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-melbourne,Australian Grand Prix,218.173,kph,27,13,1:27.503,15,43,,0.0,16,R,1,Transmission,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-melbourne,Australian Grand Prix,211.741,kph,10,19,1:30.161,20,43,,0.0,17,R,1,Not classified,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-melbourne,Australian Grand Prix,222.11,kph,15,6,1:25.952,6,29,,0.0,18,R,1,Transmission,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-melbourne,Australian Grand Prix,210.666,kph,8,20,1:30.621,17,13,,0.0,19,R,1,Electrical,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-melbourne,Australian Grand Prix,217.098,kph,7,17,1:27.936,10,9,,0.0,20,R,1,Engine,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-kuala-lumpur,Malaysian Grand Prix,210.451,kph,6,2,1:34.819,1,56,5467490,10.0,1,1,2,Finished,1:31:07.490,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-kuala-lumpur,Malaysian Grand Prix,211.782,kph,28,1,1:34.223,4,56,5472512,8.0,2,2,2,Finished,+5.022,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-kuala-lumpur,Malaysian Grand Prix,210.123,kph,28,3,1:34.967,6,56,5479058,6.0,3,3,2,Finished,+11.568,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-kuala-lumpur,Malaysian Grand Prix,209.279,kph,7,6,1:35.350,3,56,5481105,5.0,4,4,2,Finished,+13.615,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-kuala-lumpur,Malaysian Grand Prix,209.964,kph,12,4,1:35.039,8,56,5504850,4.0,5,5,2,Finished,+37.360,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-kuala-lumpur,Malaysian Grand Prix,208.183,kph,26,9,1:35.852,9,56,5520588,3.0,6,6,2,Finished,+53.098,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-kuala-lumpur,Malaysian Grand Prix,208.105,kph,7,10,1:35.888,19,56,5535367,2.0,7,7,2,Finished,+1:07.877,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-kuala-lumpur,Malaysian Grand Prix,206.635,kph,7,13,1:36.570,11,55,,1.0,8,8,2,+1 Lap,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-kuala-lumpur,Malaysian Grand Prix,206.691,kph,22,12,1:36.544,10,55,,0.0,9,9,2,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-kuala-lumpur,Malaysian Grand Prix,205.653,kph,12,16,1:37.031,13,55,,0.0,10,10,2,+1 Lap,,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-kuala-lumpur,Malaysian Grand Prix,206.411,kph,54,14,1:36.675,12,55,,0.0,11,11,2,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-kuala-lumpur,Malaysian Grand Prix,207.968,kph,23,11,1:35.951,14,55,,0.0,12,12,2,+1 Lap,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-kuala-lumpur,Malaysian Grand Prix,200.496,kph,41,18,1:39.527,18,54,,0.0,13,13,2,+2 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-kuala-lumpur,Malaysian Grand Prix,199.725,kph,11,19,1:39.911,16,53,,0.0,14,14,2,+3 Laps,,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-kuala-lumpur,Malaysian Grand Prix,208.559,kph,13,8,1:35.679,20,52,,0.0,15,15,2,+4 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-kuala-lumpur,Malaysian Grand Prix,199.302,kph,12,20,1:40.123,17,52,,0.0,16,16,2,+4 Laps,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-kuala-lumpur,Malaysian Grand Prix,209.706,kph,12,5,1:35.156,5,40,,0.0,17,R,2,Transmission,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-kuala-lumpur,Malaysian Grand Prix,204.805,kph,15,17,1:37.433,15,34,,0.0,18,R,2,Transmission,,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-kuala-lumpur,Malaysian Grand Prix,208.716,kph,10,7,1:35.607,7,27,,0.0,19,R,2,Engine,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-kuala-lumpur,Malaysian Grand Prix,205.885,kph,9,15,1:36.922,2,23,,0.0,20,R,2,Spun off,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-sakhir,Bahrain Grand Prix,216.074,kph,7,1,1:30.252,1,57,5314875,10.0,1,1,3,Finished,1:28:34.875,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-sakhir,Bahrain Grand Prix,214.591,kph,29,4,1:30.876,2,57,5316242,8.0,2,2,3,Finished,+1.367,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-sakhir,Bahrain Grand Prix,214.393,kph,24,5,1:30.960,6,57,5341562,6.0,3,3,3,Finished,+26.687,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-sakhir,Bahrain Grand Prix,213.312,kph,24,8,1:31.421,7,57,5347089,5.0,4,4,3,Finished,+32.214,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-sakhir,Bahrain Grand Prix,214.061,kph,55,7,1:31.101,5,57,5367335,4.0,5,5,3,Finished,+52.460,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-sakhir,Bahrain Grand Prix,215.116,kph,39,2,1:30.654,16,57,5368031,3.0,6,6,3,Finished,+53.156,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-sakhir,Bahrain Grand Prix,214.815,kph,56,3,1:30.781,4,57,5373030,2.0,7,7,3,Finished,+58.155,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-sakhir,Bahrain Grand Prix,211.333,kph,19,10,1:32.277,14,56,,1.0,8,8,3,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-sakhir,Bahrain Grand Prix,211.049,kph,22,13,1:32.401,8,56,,0.0,9,9,3,+1 Lap,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-sakhir,Bahrain Grand Prix,211.237,kph,23,11,1:32.319,9,56,,0.0,10,10,3,+1 Lap,,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-sakhir,Bahrain Grand Prix,211.214,kph,40,12,1:32.329,11,56,,0.0,11,11,3,+1 Lap,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-sakhir,Bahrain Grand Prix,210.391,kph,44,15,1:32.690,13,56,,0.0,12,12,3,+1 Lap,,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-sakhir,Bahrain Grand Prix,214.353,kph,28,6,1:30.977,3,56,,0.0,13,13,3,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-sakhir,Bahrain Grand Prix,210.748,kph,38,14,1:32.533,12,56,,0.0,14,14,3,+1 Lap,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-sakhir,Bahrain Grand Prix,209.051,kph,56,16,1:33.284,18,56,,0.0,15,15,3,+1 Lap,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-sakhir,Bahrain Grand Prix,207.388,kph,9,18,1:34.032,15,55,,0.0,16,16,3,+2 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-sakhir,Bahrain Grand Prix,204.995,kph,40,20,1:35.130,17,52,,0.0,17,17,3,+5 Laps,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-sakhir,Bahrain Grand Prix,212.29,kph,19,9,1:31.861,10,50,,0.0,18,R,3,Pneumatics,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-sakhir,Bahrain Grand Prix,206.241,kph,24,19,1:34.555,20,44,,0.0,19,R,3,Engine,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-sakhir,Bahrain Grand Prix,208.508,kph,7,17,1:33.527,19,7,,0.0,20,R,3,Engine,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-imola,San Marino Grand Prix,220.85,kph,10,1,1:20.411,2,62,5179670,10.0,1,1,4,Finished,1:26:19.670,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-imola,San Marino Grand Prix,218.701,kph,28,2,1:21.201,1,62,5189372,8.0,2,2,4,Finished,+9.702,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-imola,San Marino Grand Prix,216.914,kph,27,6,1:21.870,3,62,5201287,6.0,3,3,4,Finished,+21.617,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-imola,San Marino Grand Prix,217.499,kph,59,3,1:21.650,6,62,5203324,5.0,4,4,4,Finished,+23.654,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-imola,San Marino Grand Prix,217.456,kph,11,4,1:21.666,9,62,5215886,4.0,5,5,4,Finished,+36.216,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-imola,San Marino Grand Prix,216.906,kph,31,7,1:21.873,4,62,5216353,3.0,6,6,4,Finished,+36.683,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-imola,San Marino Grand Prix,217.395,kph,30,5,1:21.689,5,62,5235400,2.0,7,7,4,Finished,+55.730,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-imola,San Marino Grand Prix,215.258,kph,39,9,1:22.500,20,61,,1.0,8,8,4,+1 Lap,,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-imola,San Marino Grand Prix,214.857,kph,60,10,1:22.654,18,61,,0.0,9,9,4,+1 Lap,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-imola,San Marino Grand Prix,214.232,kph,36,12,1:22.895,12,61,,0.0,10,10,4,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-imola,San Marino Grand Prix,214.32,kph,59,11,1:22.861,13,61,,0.0,11,11,4,+1 Lap,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-imola,San Marino Grand Prix,214.087,kph,42,14,1:22.951,11,61,,0.0,12,12,4,+1 Lap,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-imola,San Marino Grand Prix,214.139,kph,55,13,1:22.931,8,61,,0.0,13,13,4,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-imola,San Marino Grand Prix,212.306,kph,27,17,1:23.647,14,60,,0.0,14,14,4,+2 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-imola,San Marino Grand Prix,206.317,kph,58,19,1:26.075,19,58,,0.0,15,15,4,+4 Laps,,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-imola,San Marino Grand Prix,216.758,kph,44,8,1:21.929,7,56,,0.0,16,16,4,Engine,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-imola,San Marino Grand Prix,212.983,kph,44,16,1:23.381,16,48,,0.0,17,R,4,Driveshaft,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-imola,San Marino Grand Prix,213.683,kph,25,15,1:23.108,10,32,,0.0,18,R,4,Accident,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-imola,San Marino Grand Prix,204.46,kph,11,20,1:26.857,17,22,,0.0,19,R,4,Brakes,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-imola,San Marino Grand Prix,207.809,kph,6,18,1:25.457,15,6,,0.0,20,R,4,Hydraulics,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-barcelona,Spanish Grand Prix,215.07,kph,12,1,1:17.450,1,66,5252841,10.0,1,1,5,Finished,1:27:32.841,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-barcelona,Spanish Grand Prix,213.863,kph,16,5,1:17.887,5,66,5266131,8.0,2,2,5,Finished,+13.290,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-barcelona,Spanish Grand Prix,213.067,kph,12,6,1:18.178,4,66,5285135,6.0,3,3,5,Finished,+32.294,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-barcelona,Spanish Grand Prix,214.776,kph,27,3,1:17.556,8,66,5285793,5.0,4,4,5,Finished,+32.952,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-barcelona,Spanish Grand Prix,214.439,kph,47,4,1:17.678,3,66,5295168,4.0,5,5,5,Finished,+42.327,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-barcelona,Spanish Grand Prix,212.063,kph,27,8,1:18.548,6,66,5326645,3.0,6,6,5,Finished,+1:13.804,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-barcelona,Spanish Grand Prix,210.685,kph,37,13,1:19.062,12,66,5329949,2.0,7,7,5,Finished,+1:17.108,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-barcelona,Spanish Grand Prix,214.945,kph,46,2,1:17.495,14,65,,1.0,8,8,5,+1 Lap,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-barcelona,Spanish Grand Prix,211.334,kph,43,10,1:18.819,17,65,,0.0,9,9,5,+1 Lap,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-barcelona,Spanish Grand Prix,210.384,kph,38,16,1:19.175,10,65,,0.0,10,10,5,+1 Lap,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-barcelona,Spanish Grand Prix,211.273,kph,48,11,1:18.842,13,65,,0.0,11,11,5,+1 Lap,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-barcelona,Spanish Grand Prix,211.877,kph,11,9,1:18.617,9,65,,0.0,12,12,5,+1 Lap,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-barcelona,Spanish Grand Prix,210.552,kph,29,14,1:19.112,11,65,,0.0,13,13,5,+1 Lap,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-barcelona,Spanish Grand Prix,208.486,kph,27,18,1:19.896,19,51,,0.0,14,R,5,Steering,,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-barcelona,Spanish Grand Prix,212.838,kph,28,7,1:18.262,2,46,,0.0,15,R,5,Brakes,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-barcelona,Spanish Grand Prix,210.472,kph,18,15,1:19.142,16,43,,0.0,16,R,5,Throttle,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-barcelona,Spanish Grand Prix,210.32,kph,10,17,1:19.199,7,33,,0.0,17,R,5,Hydraulics,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-barcelona,Spanish Grand Prix,210.928,kph,25,12,1:18.971,15,33,,0.0,18,R,5,Hydraulics,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-barcelona,Spanish Grand Prix,202.339,kph,3,19,1:22.323,18,31,,0.0,19,R,5,Spun off,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-barcelona,Spanish Grand Prix,199.75,kph,8,20,1:23.390,20,17,,0.0,20,R,5,Spun off,,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-monte-carlo,Monaco Grand Prix,160.598,kph,22,2,1:14.870,1,77,6346601,10.0,1,1,6,Finished,1:45:46.601,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-monte-carlo,Monaco Grand Prix,159.851,kph,40,3,1:15.220,2,77,6347098,8.0,2,2,6,Finished,+0.497,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-monte-carlo,Monaco Grand Prix,158.705,kph,16,6,1:15.763,6,77,6422367,6.0,3,3,6,Finished,+1:15.766,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-monte-carlo,Monaco Grand Prix,159.48,kph,41,5,1:15.395,9,76,,5.0,4,4,6,+1 Lap,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-monte-carlo,Monaco Grand Prix,155.85,kph,23,10,1:17.151,16,76,,4.0,5,5,6,+1 Lap,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-monte-carlo,Monaco Grand Prix,157.729,kph,22,8,1:16.232,15,76,,3.0,6,6,6,+1 Lap,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-monte-carlo,Monaco Grand Prix,153.637,kph,35,13,1:18.262,17,75,,2.0,7,7,6,+2 Laps,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-monte-carlo,Monaco Grand Prix,157.188,kph,57,9,1:16.494,13,74,,1.0,8,8,6,+3 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-monte-carlo,Monaco Grand Prix,146.838,kph,2,19,1:21.886,19,71,,0.0,9,9,6,+6 Laps,,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-monte-carlo,Monaco Grand Prix,154.972,kph,18,12,1:17.588,12,69,,0.0,10,10,6,Gearbox,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-monte-carlo,Monaco Grand Prix,161.528,kph,23,1,1:14.439,4,45,,0.0,11,R,6,Collision,,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-monte-carlo,Monaco Grand Prix,159.838,kph,23,4,1:15.226,3,41,,0.0,12,R,6,Accident,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-monte-carlo,Monaco Grand Prix,157.789,kph,15,7,1:16.203,5,27,,0.0,13,R,6,Pneumatics,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-monte-carlo,Monaco Grand Prix,147.367,kph,10,18,1:21.592,20,15,,0.0,14,R,6,Gearbox,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-monte-carlo,Monaco Grand Prix,151.407,kph,10,14,1:19.415,18,12,,0.0,15,R,6,Transmission,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-monte-carlo,Monaco Grand Prix,155.216,kph,11,11,1:17.466,11,11,,0.0,16,R,6,Gearbox,,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-monte-carlo,Monaco Grand Prix,147.773,kph,2,17,1:21.368,7,2,,0.0,17,R,6,Engine,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-monte-carlo,Monaco Grand Prix,149.255,kph,2,15,1:20.560,8,2,,0.0,18,R,6,Collision,,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-monte-carlo,Monaco Grand Prix,148.804,kph,2,16,1:20.804,10,2,,0.0,19,R,6,Collision,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-monte-carlo,Monaco Grand Prix,,,,,,14,0,,0.0,20,R,6,Accident,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-n-rburg,European Grand Prix,207.144,kph,7,1,1:29.468,1,60,5555101,10.0,1,1,7,Finished,1:32:35.101,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-n-rburg,European Grand Prix,205.689,kph,14,3,1:30.101,7,60,5573090,8.0,2,2,7,Finished,+17.989,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-n-rburg,European Grand Prix,204.879,kph,13,4,1:30.457,5,60,5577634,6.0,3,3,7,Finished,+22.533,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-n-rburg,European Grand Prix,203.364,kph,30,6,1:31.131,3,60,5608774,5.0,4,4,7,Finished,+53.673,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-n-rburg,European Grand Prix,203.511,kph,29,5,1:31.065,6,60,5616088,4.0,5,5,7,Finished,+1:00.987,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-n-rburg,European Grand Prix,202.737,kph,23,7,1:31.413,19,60,5628549,3.0,6,6,7,Finished,+1:13.448,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-n-rburg,European Grand Prix,201.678,kph,37,10,1:31.893,14,60,5631307,2.0,7,7,7,Finished,+1:16.206,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-n-rburg,European Grand Prix,202.712,kph,43,8,1:31.424,8,59,,1.0,8,8,7,+1 Lap,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-n-rburg,European Grand Prix,199.859,kph,37,14,1:32.729,16,59,,0.0,9,9,7,+1 Lap,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-n-rburg,European Grand Prix,201.178,kph,55,11,1:32.121,13,59,,0.0,10,10,7,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-n-rburg,European Grand Prix,200.341,kph,12,13,1:32.506,10,59,,0.0,11,11,7,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-n-rburg,European Grand Prix,199.698,kph,14,16,1:32.804,12,59,,0.0,12,12,7,+1 Lap,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-n-rburg,European Grand Prix,199.767,kph,27,15,1:32.772,15,58,,0.0,13,13,7,+2 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-n-rburg,European Grand Prix,193.949,kph,7,18,1:35.555,20,57,,0.0,14,14,7,+3 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-n-rburg,European Grand Prix,195.77,kph,46,17,1:34.666,17,57,,0.0,15,15,7,+3 Laps,,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-n-rburg,European Grand Prix,205.91,kph,11,2,1:30.004,2,47,,0.0,16,R,7,Engine,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-n-rburg,European Grand Prix,200.708,kph,14,12,1:32.337,18,25,,0.0,17,R,7,Engine,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-n-rburg,European Grand Prix,202.168,kph,2,9,1:31.670,4,9,,0.0,18,R,7,Engine,,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-n-rburg,European Grand Prix,,,,,,9,0,,0.0,19,R,7,Collision,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-n-rburg,European Grand Prix,,,,,,11,0,,0.0,20,R,7,Collision,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-montreal,Canadian Grand Prix,213.222,kph,18,2,1:13.630,6,70,5304803,10.0,1,1,8,Finished,1:28:24.803,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-montreal,Canadian Grand Prix,213.246,kph,68,1,1:13.622,7,70,5309911,8.0,2,2,8,Finished,+5.108,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-montreal,Canadian Grand Prix,211.453,kph,68,5,1:14.246,2,70,5325212,6.0,3,3,8,Finished,+20.409,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-montreal,Canadian Grand Prix,209.11,kph,47,9,1:15.078,11,69,,5.0,4,4,8,+1 Lap,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-montreal,Canadian Grand Prix,210.022,kph,44,7,1:14.752,8,69,,4.0,5,5,8,+1 Lap,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-montreal,Canadian Grand Prix,208.002,kph,55,10,1:15.478,9,69,,3.0,6,6,8,+1 Lap,,2004
+Jordan,jordan,Irish,GLO,glock,Timo Glock,German,19,2004-montreal,Canadian Grand Prix,205.761,kph,42,16,1:16.300,16,68,,2.0,7,7,8,+2 Laps,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-montreal,Canadian Grand Prix,206.873,kph,18,14,1:15.890,15,68,,1.0,8,8,8,+2 Laps,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-montreal,Canadian Grand Prix,207.307,kph,45,13,1:15.731,10,67,,0.0,9,9,8,+3 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-montreal,Canadian Grand Prix,202.533,kph,64,18,1:17.516,18,66,,0.0,10,10,8,+4 Laps,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-montreal,Canadian Grand Prix,207.776,kph,25,11,1:15.560,17,62,,0.0,11,R,8,Accident,,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-montreal,Canadian Grand Prix,209.116,kph,25,8,1:15.076,20,48,,0.0,12,R,8,Engine,,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-montreal,Canadian Grand Prix,211.644,kph,41,4,1:14.179,5,44,,0.0,13,R,8,Driveshaft,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-montreal,Canadian Grand Prix,201.212,kph,25,19,1:18.025,19,30,,0.0,14,R,8,Gearbox,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-montreal,Canadian Grand Prix,204.584,kph,6,17,1:16.739,14,6,,0.0,15,R,8,Suspension,,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-montreal,Canadian Grand Prix,,,,,,3,0,,0.0,16,R,8,Transmission,,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-montreal,Canadian Grand Prix,212.042,kph,70,3,1:14.040,1,70,,0.0,17,D,8,Disqualified,,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-montreal,Canadian Grand Prix,211.314,kph,69,6,1:14.295,4,70,,0.0,18,D,8,Disqualified,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-montreal,Canadian Grand Prix,207.523,kph,39,12,1:15.652,12,69,,0.0,19,D,8,Disqualified,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-montreal,Canadian Grand Prix,206.451,kph,23,15,1:16.045,13,69,,0.0,20,D,8,Disqualified,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-indianapolis,United States Grand Prix,214.327,kph,8,2,1:10.412,2,73,6029914,10.0,1,1,9,Finished,1:40:29.914,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-indianapolis,United States Grand Prix,214.366,kph,7,1,1:10.399,1,73,6032864,8.0,2,2,9,Finished,+2.950,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-indianapolis,United States Grand Prix,213.372,kph,47,3,1:10.727,3,73,6051950,6.0,3,3,9,Finished,+22.036,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-indianapolis,United States Grand Prix,211.993,kph,45,6,1:11.187,20,73,6064458,5.0,4,4,9,Finished,+34.544,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-indianapolis,United States Grand Prix,212.752,kph,46,4,1:10.933,8,73,6067448,4.0,5,5,9,Finished,+37.534,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-indianapolis,United States Grand Prix,211.812,kph,59,8,1:11.248,7,72,,3.0,6,6,9,+1 Lap,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-indianapolis,United States Grand Prix,209.149,kph,44,13,1:12.155,12,72,,2.0,7,7,9,+1 Lap,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-indianapolis,United States Grand Prix,203.668,kph,39,16,1:14.097,19,70,,1.0,8,8,9,+3 Laps,,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-indianapolis,United States Grand Prix,209.225,kph,44,11,1:12.129,14,65,,0.0,9,9,9,+8 Laps,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-indianapolis,United States Grand Prix,209.193,kph,46,12,1:12.140,10,60,,0.0,10,R,9,Engine,,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-indianapolis,United States Grand Prix,211.791,kph,37,9,1:11.255,5,57,,0.0,11,D,9,Disqualified,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-indianapolis,United States Grand Prix,206.46,kph,37,15,1:13.095,16,40,,0.0,12,R,9,Engine,,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-indianapolis,United States Grand Prix,212.477,kph,22,5,1:11.025,4,26,,0.0,13,R,9,Gearbox,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-indianapolis,United States Grand Prix,207.091,kph,8,14,1:12.872,11,17,,0.0,14,R,9,Gearbox,,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-indianapolis,United States Grand Prix,209.652,kph,8,10,1:11.982,6,9,,0.0,15,R,9,Tyre,,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-indianapolis,United States Grand Prix,211.847,kph,8,7,1:11.236,9,8,,0.0,16,R,9,Tyre,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-indianapolis,United States Grand Prix,,,,,,13,0,,0.0,17,R,9,Collision,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-indianapolis,United States Grand Prix,,,,,,15,0,,0.0,18,R,9,Collision,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-indianapolis,United States Grand Prix,,,,,,17,0,,0.0,19,R,9,Collision,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-indianapolis,United States Grand Prix,,,,,,18,0,,0.0,20,R,9,Collision,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-magny-cours,French Grand Prix,210.669,kph,32,1,1:15.377,2,70,5418133,10.0,1,1,10,Finished,1:30:18.133,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-magny-cours,French Grand Prix,210.183,kph,34,2,1:15.551,1,70,5426462,8.0,2,2,10,Finished,+8.329,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-magny-cours,French Grand Prix,208.845,kph,50,6,1:16.035,10,70,5449755,6.0,3,3,10,Finished,+31.622,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-magny-cours,French Grand Prix,208.262,kph,15,9,1:16.248,5,70,5450215,5.0,4,4,10,Finished,+32.082,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-magny-cours,French Grand Prix,209.021,kph,50,5,1:15.971,4,70,5450615,4.0,5,5,10,Finished,+32.482,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-magny-cours,French Grand Prix,208.112,kph,11,10,1:16.303,3,70,5453653,3.0,6,6,10,Finished,+35.520,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-magny-cours,French Grand Prix,209.518,kph,30,3,1:15.791,9,70,5454363,2.0,7,7,10,Finished,+36.230,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-magny-cours,French Grand Prix,208.557,kph,48,8,1:16.140,6,70,5461552,1.0,8,8,10,Finished,+43.419,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-magny-cours,French Grand Prix,209.063,kph,53,4,1:15.956,12,70,5470527,0.0,9,9,10,Finished,+52.394,2004
+Williams,williams,British,,gene,Marc Gené,Spanish,4,2004-magny-cours,French Grand Prix,208.749,kph,56,7,1:16.070,8,70,5476299,0.0,10,10,10,Finished,+58.166,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-magny-cours,French Grand Prix,206.625,kph,37,13,1:16.852,13,69,,0.0,11,11,10,+1 Lap,,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-magny-cours,French Grand Prix,207.037,kph,22,11,1:16.699,15,69,,0.0,12,12,10,+1 Lap,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-magny-cours,French Grand Prix,205.194,kph,23,16,1:17.388,16,69,,0.0,13,13,10,+1 Lap,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-magny-cours,French Grand Prix,206.397,kph,49,14,1:16.937,11,69,,0.0,14,14,10,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-magny-cours,French Grand Prix,206.043,kph,53,15,1:17.069,14,68,,0.0,15,15,10,+2 Laps,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-magny-cours,French Grand Prix,201.961,kph,26,18,1:18.627,17,68,,0.0,16,16,10,+2 Laps,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-magny-cours,French Grand Prix,204.525,kph,15,17,1:17.641,18,67,,0.0,17,17,10,+3 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-magny-cours,French Grand Prix,201.18,kph,52,19,1:18.932,19,66,,0.0,18,18,10,+4 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-magny-cours,French Grand Prix,199.344,kph,13,20,1:19.659,20,31,,0.0,19,R,10,Spun off,,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-magny-cours,French Grand Prix,206.741,kph,14,12,1:16.809,7,15,,0.0,20,R,10,Engine,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-silverstone,British Grand Prix,235.049,kph,14,1,1:18.739,4,60,5082700,10.0,1,1,11,Finished,1:24:42.700,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-silverstone,British Grand Prix,232.641,kph,10,4,1:19.554,1,60,5084830,8.0,2,2,11,Finished,+2.130,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-silverstone,British Grand Prix,233.398,kph,8,2,1:19.296,2,60,5085814,6.0,3,3,11,Finished,+3.114,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-silverstone,British Grand Prix,232.835,kph,10,3,1:19.488,3,60,5093383,5.0,4,4,11,Finished,+10.683,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-silverstone,British Grand Prix,231.437,kph,26,6,1:19.968,7,60,5094873,4.0,5,5,11,Finished,+12.173,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-silverstone,British Grand Prix,231.887,kph,22,5,1:19.813,20,60,5095588,3.0,6,6,11,Finished,+12.888,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-silverstone,British Grand Prix,229.773,kph,25,10,1:20.547,6,60,5102368,2.0,7,7,11,Finished,+19.668,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-silverstone,British Grand Prix,229.145,kph,11,12,1:20.768,9,60,5106401,1.0,8,8,11,Finished,+23.701,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-silverstone,British Grand Prix,229.953,kph,58,9,1:20.484,10,60,5106723,0.0,9,9,11,Finished,+24.023,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-silverstone,British Grand Prix,230.073,kph,39,8,1:20.442,16,60,5107535,0.0,10,10,11,Finished,+24.835,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-silverstone,British Grand Prix,229.082,kph,12,14,1:20.790,8,60,5116436,0.0,11,11,11,Finished,+33.736,2004
+Williams,williams,British,,gene,Marc Gené,Spanish,4,2004-silverstone,British Grand Prix,230.096,kph,58,7,1:20.434,11,60,5117003,0.0,12,12,11,Finished,+34.303,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-silverstone,British Grand Prix,229.145,kph,35,13,1:20.768,12,59,,0.0,13,13,11,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-silverstone,British Grand Prix,228.613,kph,10,15,1:20.956,13,59,,0.0,14,14,11,+1 Lap,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-silverstone,British Grand Prix,226.475,kph,17,16,1:21.720,15,59,,0.0,15,15,11,+1 Lap,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-silverstone,British Grand Prix,219.554,kph,33,19,1:24.296,18,56,,0.0,16,16,11,+4 Laps,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-silverstone,British Grand Prix,225.301,kph,13,17,1:22.146,14,47,,0.0,17,R,11,Spun off,,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-silverstone,British Grand Prix,229.466,kph,34,11,1:20.655,5,39,,0.0,18,R,11,Accident,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-silverstone,British Grand Prix,219.5,kph,12,20,1:24.317,19,29,,0.0,19,R,11,Engine,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-silverstone,British Grand Prix,222.631,kph,4,18,1:23.131,17,16,,0.0,20,R,11,Accident,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-hockenheim,German Grand Prix,223.173,kph,5,2,1:13.783,1,66,5034848,10.0,1,1,12,Finished,1:23:54.848,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-hockenheim,German Grand Prix,222.167,kph,11,3,1:14.117,13,66,5043236,8.0,2,2,12,Finished,+8.388,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-hockenheim,German Grand Prix,221.724,kph,8,5,1:14.265,5,66,5051199,6.0,3,3,12,Finished,+16.351,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-hockenheim,German Grand Prix,220.853,kph,8,8,1:14.558,4,66,5054079,5.0,4,4,12,Finished,+19.231,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-hockenheim,German Grand Prix,221.185,kph,10,7,1:14.446,2,66,5057903,4.0,5,5,12,Finished,+23.055,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-hockenheim,German Grand Prix,219.895,kph,65,11,1:14.883,11,66,5075956,3.0,6,6,12,Finished,+41.108,2004
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,4,2004-hockenheim,German Grand Prix,220.77,kph,65,10,1:14.586,10,66,5076804,2.0,7,7,12,Finished,+41.956,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-hockenheim,German Grand Prix,220.773,kph,29,9,1:14.585,8,66,5081690,1.0,8,8,12,Finished,+46.842,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-hockenheim,German Grand Prix,217.708,kph,39,15,1:15.635,14,66,5101950,0.0,9,9,12,Finished,+1:07.102,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-hockenheim,German Grand Prix,219.42,kph,33,13,1:15.045,12,66,5103426,0.0,10,10,12,Finished,+1:08.578,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-hockenheim,German Grand Prix,221.364,kph,9,6,1:14.386,6,66,5105106,0.0,11,11,12,Finished,+1:10.258,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-hockenheim,German Grand Prix,219.66,kph,59,12,1:14.963,7,66,5108100,0.0,12,12,12,Finished,+1:13.252,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-hockenheim,German Grand Prix,215.958,kph,61,17,1:16.248,16,65,,0.0,13,13,12,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-hockenheim,German Grand Prix,221.778,kph,59,4,1:14.247,9,65,,0.0,14,14,12,+1 Lap,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-hockenheim,German Grand Prix,216.497,kph,63,16,1:16.058,17,63,,0.0,15,15,12,+3 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-hockenheim,German Grand Prix,209.07,kph,18,20,1:18.760,20,62,,0.0,16,16,12,+4 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-hockenheim,German Grand Prix,210.105,kph,52,19,1:18.372,19,62,,0.0,17,17,12,+4 Laps,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-hockenheim,German Grand Prix,214.119,kph,20,18,1:16.903,18,42,,0.0,18,R,12,Handling,,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-hockenheim,German Grand Prix,219.128,kph,20,14,1:15.145,15,38,,0.0,19,R,12,Puncture,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-hockenheim,German Grand Prix,223.182,kph,10,1,1:13.780,3,13,,0.0,20,R,12,Rear wing,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-budapest,Hungarian Grand Prix,199.461,kph,29,1,1:19.071,1,70,5726131,10.0,1,1,13,Finished,1:35:26.131,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-budapest,Hungarian Grand Prix,199.103,kph,29,2,1:19.213,2,70,5730827,8.0,2,2,13,Finished,+4.696,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-budapest,Hungarian Grand Prix,196.469,kph,49,3,1:20.275,5,70,5770730,6.0,3,3,13,Finished,+44.599,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-budapest,Hungarian Grand Prix,195.398,kph,49,7,1:20.715,7,70,5788744,5.0,4,4,13,Finished,+1:02.613,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-budapest,Hungarian Grand Prix,196.103,kph,47,4,1:20.425,4,70,5793570,4.0,5,5,13,Finished,+1:07.439,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-budapest,Hungarian Grand Prix,194.639,kph,10,10,1:21.030,3,69,,3.0,6,6,13,+1 Lap,,2004
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,4,2004-budapest,Hungarian Grand Prix,195.918,kph,48,5,1:20.501,6,69,,2.0,7,7,13,+1 Lap,,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-budapest,Hungarian Grand Prix,194.658,kph,53,9,1:21.022,8,69,,1.0,8,8,13,+1 Lap,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-budapest,Hungarian Grand Prix,194.389,kph,67,11,1:21.134,12,69,,0.0,9,9,13,+1 Lap,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-budapest,Hungarian Grand Prix,195.132,kph,45,8,1:20.825,11,69,,0.0,10,10,13,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-budapest,Hungarian Grand Prix,193.968,kph,50,12,1:21.310,13,69,,0.0,11,11,13,+1 Lap,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-budapest,Hungarian Grand Prix,193.473,kph,68,13,1:21.518,16,68,,0.0,12,12,13,+2 Laps,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-budapest,Hungarian Grand Prix,191.101,kph,45,17,1:22.530,14,68,,0.0,13,13,13,+2 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-budapest,Hungarian Grand Prix,186.423,kph,65,19,1:24.601,19,66,,0.0,14,14,13,+4 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-budapest,Hungarian Grand Prix,185.865,kph,63,20,1:24.855,18,65,,0.0,15,15,13,+5 Laps,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-budapest,Hungarian Grand Prix,190.186,kph,43,18,1:22.927,17,48,,0.0,16,R,13,Gearbox,,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-budapest,Hungarian Grand Prix,195.422,kph,10,6,1:20.705,9,41,,0.0,17,R,13,Engine,,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,16,2004-budapest,Hungarian Grand Prix,191.112,kph,13,16,1:22.525,15,31,,0.0,18,R,13,Electronics,,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-budapest,Hungarian Grand Prix,192.674,kph,14,15,1:21.856,20,21,,0.0,19,R,13,Brakes,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-budapest,Hungarian Grand Prix,193.094,kph,6,14,1:21.678,10,13,,0.0,20,R,13,Electrical,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-spa,Belgian Grand Prix,238.931,kph,42,1,1:45.108,10,44,5555274,10.0,1,1,14,Finished,1:32:35.274,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-spa,Belgian Grand Prix,238.036,kph,28,2,1:45.503,2,44,5558406,8.0,2,2,14,Finished,+3.132,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-spa,Belgian Grand Prix,237.669,kph,43,3,1:45.666,6,44,5559645,6.0,3,3,14,Finished,+4.371,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-spa,Belgian Grand Prix,233.345,kph,29,13,1:47.624,8,44,5567778,5.0,4,4,14,Finished,+12.504,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-spa,Belgian Grand Prix,235.238,kph,11,9,1:46.758,5,44,5569378,4.0,5,5,14,Finished,+14.104,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-spa,Belgian Grand Prix,233.595,kph,11,11,1:47.509,13,44,5569888,3.0,6,6,14,Finished,+14.614,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-spa,Belgian Grand Prix,235.633,kph,11,7,1:46.579,4,44,5573244,2.0,7,7,14,Finished,+17.970,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-spa,Belgian Grand Prix,233.04,kph,29,14,1:47.765,9,44,5573967,1.0,8,8,14,Finished,+18.693,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-spa,Belgian Grand Prix,237.148,kph,9,5,1:45.898,1,44,5577389,0.0,9,9,14,Finished,+22.115,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,16,2004-spa,Belgian Grand Prix,233.449,kph,26,12,1:47.576,20,41,,0.0,10,10,14,Engine,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-spa,Belgian Grand Prix,227.332,kph,40,15,1:50.471,16,40,,0.0,11,11,14,+4 Laps,,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-spa,Belgian Grand Prix,235.704,kph,36,6,1:46.547,11,37,,0.0,12,R,14,Tyre,,2004
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,4,2004-spa,Belgian Grand Prix,235.278,kph,26,8,1:46.740,14,31,,0.0,13,R,14,Gearbox,,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-spa,Belgian Grand Prix,234.375,kph,26,10,1:47.151,12,29,,0.0,14,R,14,Collision,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-spa,Belgian Grand Prix,226.185,kph,25,16,1:51.031,18,28,,0.0,15,R,14,Collision,,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-spa,Belgian Grand Prix,237.211,kph,9,4,1:45.870,3,11,,0.0,16,R,14,Engine,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-spa,Belgian Grand Prix,,,,,,7,0,,0.0,17,R,14,Collision,,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-spa,Belgian Grand Prix,,,,,,15,0,,0.0,18,R,14,Collision,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-spa,Belgian Grand Prix,,,,,,17,0,,0.0,19,R,14,Collision,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-spa,Belgian Grand Prix,,,,,,19,0,,0.0,20,R,14,Collision,,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-monza,Italian Grand Prix,257.32,kph,41,1,1:21.046,1,53,4518448,10.0,1,1,15,Finished,1:15:18.448,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-monza,Italian Grand Prix,256.324,kph,35,2,1:21.361,3,53,4519795,8.0,2,2,15,Finished,+1.347,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-monza,Italian Grand Prix,252.262,kph,13,6,1:22.671,6,53,4528645,6.0,3,3,15,Finished,+10.197,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-monza,Italian Grand Prix,252.296,kph,32,5,1:22.660,5,53,4533818,5.0,4,4,15,Finished,+15.370,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-monza,Italian Grand Prix,251.477,kph,32,10,1:22.929,2,53,4550800,4.0,5,5,15,Finished,+32.352,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-monza,Italian Grand Prix,251.599,kph,24,9,1:22.889,10,53,4551887,3.0,6,6,15,Finished,+33.439,2004
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,4,2004-monza,Italian Grand Prix,253.566,kph,32,3,1:22.246,8,53,4552200,2.0,7,7,15,Finished,+33.752,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-monza,Italian Grand Prix,252.433,kph,51,4,1:22.615,15,53,4553879,1.0,8,8,15,Finished,+35.431,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-monza,Italian Grand Prix,250.99,kph,53,12,1:23.090,12,53,4575209,0.0,9,9,15,Finished,+56.761,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-monza,Italian Grand Prix,251.702,kph,52,7,1:22.855,9,53,4584764,0.0,10,10,15,Finished,+1:06.316,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,16,2004-monza,Italian Grand Prix,250.027,kph,52,14,1:23.410,11,53,4600979,0.0,11,11,15,Finished,+1:22.531,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-monza,Italian Grand Prix,251.441,kph,50,11,1:22.941,16,52,,0.0,12,12,15,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-monza,Italian Grand Prix,249.961,kph,29,15,1:23.432,14,52,,0.0,13,13,15,+1 Lap,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-monza,Italian Grand Prix,247.781,kph,23,17,1:24.166,20,52,,0.0,14,14,15,+1 Lap,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-monza,Italian Grand Prix,241.497,kph,31,18,1:26.356,19,50,,0.0,15,15,15,+3 Laps,,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-monza,Italian Grand Prix,251.623,kph,31,8,1:22.881,4,40,,0.0,16,R,15,Spun off,,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-monza,Italian Grand Prix,248.091,kph,13,16,1:24.061,17,33,,0.0,17,R,15,Accident,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-monza,Italian Grand Prix,241.456,kph,24,19,1:26.371,18,29,,0.0,18,R,15,Fire,,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-monza,Italian Grand Prix,250.162,kph,11,13,1:23.365,7,13,,0.0,19,R,15,Engine,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-monza,Italian Grand Prix,,,,,,13,0,,0.0,20,R,15,Collision,,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-shanghai,Chinese Grand Prix,212.25,kph,28,2,1:32.455,1,56,5352420,10.0,1,1,16,Finished,1:29:12.420,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-shanghai,Chinese Grand Prix,211.154,kph,33,4,1:32.935,3,56,5353455,8.0,2,2,16,Finished,+1.035,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-shanghai,Chinese Grand Prix,211.288,kph,53,3,1:32.876,2,56,5353889,6.0,3,3,16,Finished,+1.469,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-shanghai,Chinese Grand Prix,209.597,kph,55,10,1:33.625,6,56,5384930,5.0,4,4,16,Finished,+32.510,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-shanghai,Chinese Grand Prix,210.761,kph,34,5,1:33.108,10,56,5397613,4.0,5,5,16,Finished,+45.193,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-shanghai,Chinese Grand Prix,209.804,kph,36,8,1:33.533,18,56,5407211,3.0,6,6,16,Finished,+54.791,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-shanghai,Chinese Grand Prix,209.833,kph,25,7,1:33.520,7,56,5417874,2.0,7,7,16,Finished,+1:05.454,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-shanghai,Chinese Grand Prix,209.916,kph,43,6,1:33.483,4,56,5432500,1.0,8,8,16,Finished,+1:20.080,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-shanghai,Chinese Grand Prix,209.369,kph,26,11,1:33.727,9,56,5433039,0.0,9,9,16,Finished,+1:20.619,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-shanghai,Chinese Grand Prix,206.797,kph,32,15,1:34.893,11,55,,0.0,10,10,16,+1 Lap,,2004
+Renault,renault,French,VIL,villeneuve,Jacques Villeneuve,Canadian,7,2004-shanghai,Chinese Grand Prix,206.672,kph,55,17,1:34.950,12,55,,0.0,11,11,16,+1 Lap,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-shanghai,Chinese Grand Prix,212.749,kph,55,1,1:32.238,20,55,,0.0,12,12,16,+1 Lap,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-shanghai,Chinese Grand Prix,207.181,kph,55,14,1:34.717,14,55,,0.0,13,13,16,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-shanghai,Chinese Grand Prix,207.431,kph,51,13,1:34.603,8,55,,0.0,14,14,16,+1 Lap,,2004
+Jordan,jordan,Irish,GLO,glock,Timo Glock,German,19,2004-shanghai,Chinese Grand Prix,206.714,kph,54,16,1:34.931,16,55,,0.0,15,15,16,+1 Lap,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-shanghai,Chinese Grand Prix,201.106,kph,51,20,1:37.578,19,53,,0.0,16,16,16,+3 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-shanghai,Chinese Grand Prix,201.521,kph,23,19,1:37.377,17,38,,0.0,17,R,16,Wheel,,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-shanghai,Chinese Grand Prix,209.774,kph,31,9,1:33.546,5,37,,0.0,18,R,16,Collision,,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,16,2004-shanghai,Chinese Grand Prix,208.165,kph,24,12,1:34.269,13,35,,0.0,19,R,16,Transmission,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-shanghai,Chinese Grand Prix,202.539,kph,10,18,1:36.888,15,11,,0.0,20,R,16,Collision,,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-suzuka,Japanese Grand Prix,225.281,kph,41,2,1:32.796,1,53,5066985,10.0,1,1,17,Finished,1:24:26.985,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-suzuka,Japanese Grand Prix,223.663,kph,23,3,1:33.467,2,53,5081083,8.0,2,2,17,Finished,+14.098,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-suzuka,Japanese Grand Prix,222.824,kph,33,7,1:33.819,5,53,5086647,6.0,3,3,17,Finished,+19.662,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-suzuka,Japanese Grand Prix,223.007,kph,28,5,1:33.742,4,53,5098766,5.0,4,4,17,Finished,+31.781,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-suzuka,Japanese Grand Prix,221.737,kph,29,12,1:34.279,11,53,5104752,4.0,5,5,17,Finished,+37.767,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-suzuka,Japanese Grand Prix,222.585,kph,35,10,1:33.920,12,53,5106347,3.0,6,6,17,Finished,+39.362,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-suzuka,Japanese Grand Prix,222.919,kph,30,6,1:33.779,13,53,5122332,2.0,7,7,17,Finished,+55.347,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-suzuka,Japanese Grand Prix,222.751,kph,44,8,1:33.850,7,53,5123261,1.0,8,8,17,Finished,+56.276,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-suzuka,Japanese Grand Prix,223.312,kph,40,4,1:33.614,19,53,5156641,0.0,9,9,17,Finished,+1:29.656,2004
+Renault,renault,French,VIL,villeneuve,Jacques Villeneuve,Canadian,7,2004-suzuka,Japanese Grand Prix,219.385,kph,28,16,1:35.290,9,52,,0.0,10,10,17,+1 Lap,,2004
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2004-suzuka,Japanese Grand Prix,220.924,kph,52,14,1:34.626,6,52,,0.0,11,11,17,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-suzuka,Japanese Grand Prix,219.451,kph,32,15,1:35.261,14,52,,0.0,12,12,17,+1 Lap,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-suzuka,Japanese Grand Prix,218.847,kph,25,17,1:35.524,16,52,,0.0,13,13,17,+1 Lap,,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-suzuka,Japanese Grand Prix,221.364,kph,11,13,1:34.438,10,51,,0.0,14,14,17,+2 Laps,,2004
+Jordan,jordan,Irish,GLO,glock,Timo Glock,German,19,2004-suzuka,Japanese Grand Prix,216.259,kph,14,18,1:36.667,17,51,,0.0,15,15,17,+2 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-suzuka,Japanese Grand Prix,210.415,kph,27,19,1:39.352,18,50,,0.0,16,16,17,+3 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-suzuka,Japanese Grand Prix,210.241,kph,26,20,1:39.434,20,41,,0.0,17,R,17,Spun off,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-suzuka,Japanese Grand Prix,222.592,kph,14,9,1:33.917,8,38,,0.0,18,R,17,Collision,,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-suzuka,Japanese Grand Prix,225.441,kph,30,1,1:32.730,15,38,,0.0,19,R,17,Collision,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-suzuka,Japanese Grand Prix,221.855,kph,13,11,1:34.229,3,20,,0.0,20,R,17,Overheating,,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-s-o-paulo,Brazilian Grand Prix,217.038,kph,49,1,1:11.473,2,71,5281451,10.0,1,1,18,Finished,1:28:01.451,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-s-o-paulo,Brazilian Grand Prix,216.768,kph,52,2,1:11.562,3,71,5282473,8.0,2,2,18,Finished,+1.022,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-s-o-paulo,Brazilian Grand Prix,216.435,kph,22,3,1:11.672,1,71,5305550,6.0,3,3,18,Finished,+24.099,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-s-o-paulo,Brazilian Grand Prix,215.097,kph,42,9,1:12.118,8,71,5329959,5.0,4,4,18,Finished,+48.508,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-s-o-paulo,Brazilian Grand Prix,216.158,kph,23,5,1:11.764,7,71,5331191,4.0,5,5,18,Finished,+49.740,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-s-o-paulo,Brazilian Grand Prix,215.626,kph,51,7,1:11.941,6,71,5331699,3.0,6,6,18,Finished,+50.248,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-s-o-paulo,Brazilian Grand Prix,216.161,kph,49,4,1:11.763,18,71,5332077,2.0,7,7,18,Finished,+50.626,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-s-o-paulo,Brazilian Grand Prix,215.252,kph,68,8,1:12.066,4,71,5343761,1.0,8,8,18,Finished,+1:02.310,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-s-o-paulo,Brazilian Grand Prix,215.818,kph,69,6,1:11.877,10,71,5345293,0.0,9,9,18,Finished,+1:03.842,2004
+Renault,renault,French,VIL,villeneuve,Jacques Villeneuve,Canadian,7,2004-s-o-paulo,Brazilian Grand Prix,214.823,kph,68,10,1:12.210,13,70,,0.0,10,10,18,+1 Lap,,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-s-o-paulo,Brazilian Grand Prix,213.899,kph,40,12,1:12.522,12,70,,0.0,11,11,18,+1 Lap,,2004
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2004-s-o-paulo,Brazilian Grand Prix,214.156,kph,65,11,1:12.435,9,70,,0.0,12,12,18,+1 Lap,,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,17,2004-s-o-paulo,Brazilian Grand Prix,212.612,kph,69,14,1:12.961,14,70,,0.0,13,13,18,+1 Lap,,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-s-o-paulo,Brazilian Grand Prix,212.816,kph,49,13,1:12.891,15,69,,0.0,14,14,18,+2 Laps,,2004
+Jordan,jordan,Irish,GLO,glock,Timo Glock,German,19,2004-s-o-paulo,Brazilian Grand Prix,209.896,kph,68,16,1:13.905,17,69,,0.0,15,15,18,+2 Laps,,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-s-o-paulo,Brazilian Grand Prix,207.543,kph,45,17,1:14.743,19,67,,0.0,16,16,18,+4 Laps,,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-s-o-paulo,Brazilian Grand Prix,207.507,kph,50,18,1:14.756,20,67,,0.0,17,17,18,+4 Laps,,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-s-o-paulo,Brazilian Grand Prix,211.926,kph,20,15,1:13.197,11,23,,0.0,18,R,18,Collision,,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-s-o-paulo,Brazilian Grand Prix,204.5,kph,11,19,1:15.855,16,15,,0.0,19,R,18,Clutch,,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-s-o-paulo,Brazilian Grand Prix,183.709,kph,2,20,1:24.440,5,3,,0.0,20,R,18,Engine,,2004

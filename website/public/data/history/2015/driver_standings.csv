@@ -1,0 +1,23 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mercedes""]","[""Mercedes""]",HAM,hamilton,Lewis Hamilton,British,44,381.0,1,1,10,2015
+"[""mercedes""]","[""Mercedes""]",ROS,rosberg,Nico Rosberg,German,6,322.0,2,2,6,2015
+"[""ferrari""]","[""Ferrari""]",VET,vettel,Sebastian Vettel,German,5,278.0,3,3,3,2015
+"[""ferrari""]","[""Ferrari""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,150.0,4,4,0,2015
+"[""williams""]","[""Williams""]",BOT,bottas,Valtteri Bottas,Finnish,77,136.0,5,5,0,2015
+"[""williams""]","[""Williams""]",MAS,massa,Felipe Massa,Brazilian,19,121.0,6,6,0,2015
+"[""red_bull""]","[""Red Bull""]",KVY,kvyat,Daniil Kvyat,Russian,26,95.0,7,7,0,2015
+"[""red_bull""]","[""Red Bull""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,92.0,8,8,0,2015
+"[""force_india""]","[""Force India""]",PER,perez,Sergio Pérez,Mexican,11,78.0,9,9,0,2015
+"[""force_india""]","[""Force India""]",HUL,hulkenberg,Nico Hülkenberg,German,27,58.0,10,10,0,2015
+"[""lotus_f1""]","[""Lotus F1""]",GRO,grosjean,Romain Grosjean,French,8,51.0,11,11,0,2015
+"[""toro_rosso""]","[""Toro Rosso""]",VER,max_verstappen,Max Verstappen,Dutch,3,49.0,12,12,0,2015
+"[""sauber""]","[""Sauber""]",NAS,nasr,Felipe Nasr,Brazilian,12,27.0,13,13,0,2015
+"[""lotus_f1""]","[""Lotus F1""]",MAL,maldonado,Pastor Maldonado,Venezuelan,13,27.0,14,14,0,2015
+"[""toro_rosso""]","[""Toro Rosso""]",SAI,sainz,Carlos Sainz,Spanish,55,18.0,15,15,0,2015
+"[""mclaren""]","[""McLaren""]",BUT,button,Jenson Button,British,22,16.0,16,16,0,2015
+"[""mclaren""]","[""McLaren""]",ALO,alonso,Fernando Alonso,Spanish,14,11.0,17,17,0,2015
+"[""sauber""]","[""Sauber""]",ERI,ericsson,Marcus Ericsson,Swedish,9,9.0,18,18,0,2015
+"[""manor""]","[""Manor Marussia""]",MER,merhi,Roberto Merhi,Spanish,98,0.0,19,19,0,2015
+"[""manor""]","[""Manor Marussia""]",RSS,rossi,Alexander Rossi,American,53,0.0,20,20,0,2015
+"[""manor""]","[""Manor Marussia""]",STE,stevens,Will Stevens,British,28,0.0,21,21,0,2015
+"[""mclaren""]","[""McLaren""]",MAG,kevin_magnussen,Kevin Magnussen,Danish,20,0.0,,-,0,2015

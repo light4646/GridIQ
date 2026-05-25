@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,833.0,1,1,14,2025
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,469.0,2,2,2,2025
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,451.0,3,3,8,2025
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,398.0,4,4,0,2025
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,137.0,5,5,0,2025
+RB F1 Team,rb,Italian,https://en.wikipedia.org/wiki/Racing_Bulls,92.0,6,6,0,2025
+Aston Martin,aston_martin,British,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,89.0,7,7,0,2025
+Haas F1 Team,haas,American,https://en.wikipedia.org/wiki/Haas_F1_Team,79.0,8,8,0,2025
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,70.0,9,9,0,2025
+Alpine F1 Team,alpine,French,https://en.wikipedia.org/wiki/Alpine_F1_Team,22.0,10,10,0,2025

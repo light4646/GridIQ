@@ -1,0 +1,23 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,position,q1,q2,q3,round,year
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2001-indianapolis,United States Grand Prix,1,1:11.708,,,16,2001
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2001-indianapolis,United States Grand Prix,2,1:11.986,,,16,2001
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2001-indianapolis,United States Grand Prix,3,1:12.252,,,16,2001
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,3,2001-indianapolis,United States Grand Prix,4,1:12.309,,,16,2001
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2001-indianapolis,United States Grand Prix,5,1:12.327,,,16,2001
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,16,2001-indianapolis,United States Grand Prix,6,1:12.434,,,16,2001
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,4,2001-indianapolis,United States Grand Prix,7,1:12.500,,,16,2001
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,11,2001-indianapolis,United States Grand Prix,8,1:12.605,,,16,2001
+Jordan,jordan,Irish,,alesi,Jean Alesi,French,12,2001-indianapolis,United States Grand Prix,9,1:12.607,,,16,2001
+Benetton,benetton,Italian,BUT,button,Jenson Button,British,22,2001-indianapolis,United States Grand Prix,10,1:12.805,,,16,2001
+Sauber,sauber,Swiss,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2001-indianapolis,United States Grand Prix,11,1:12.881,,,16,2001
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,7,2001-indianapolis,United States Grand Prix,12,1:12.942,,,16,2001
+BAR,bar,British,,panis,Olivier Panis,French,9,2001-indianapolis,United States Grand Prix,13,1:13.122,,,16,2001
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,18,2001-indianapolis,United States Grand Prix,14,1:13.189,,,16,2001
+Prost,prost,French,,frentzen,Heinz-Harald Frentzen,German,22,2001-indianapolis,United States Grand Prix,15,1:13.281,,,16,2001
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,19,2001-indianapolis,United States Grand Prix,16,1:13.679,,,16,2001
+Minardi,minardi,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2001-indianapolis,United States Grand Prix,17,1:13.991,,,16,2001
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,10,2001-indianapolis,United States Grand Prix,18,1:14.012,,,16,2001
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,15,2001-indianapolis,United States Grand Prix,19,1:14.129,,,16,2001
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,14,2001-indianapolis,United States Grand Prix,20,1:14.138,,,16,2001
+Prost,prost,French,,enge,Tomáš Enge,Czech,23,2001-indianapolis,United States Grand Prix,21,1:14.185,,,16,2001
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,20,2001-indianapolis,United States Grand Prix,22,1:15.247,,,16,2001

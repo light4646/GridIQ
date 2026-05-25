@@ -1,0 +1,98 @@
+[
+  {
+    "constructor": "Red Bull",
+    "points": 498.0,
+    "wins": 9,
+    "podiums": 20,
+    "starts": 38,
+    "position": 1
+  },
+  {
+    "constructor": "McLaren",
+    "points": 454.0,
+    "wins": 5,
+    "podiums": 16,
+    "starts": 38,
+    "position": 2
+  },
+  {
+    "constructor": "Ferrari",
+    "points": 396.0,
+    "wins": 5,
+    "podiums": 15,
+    "starts": 38,
+    "position": 3
+  },
+  {
+    "constructor": "Mercedes",
+    "points": 214.0,
+    "wins": 0,
+    "podiums": 3,
+    "starts": 38,
+    "position": 4
+  },
+  {
+    "constructor": "Renault",
+    "points": 163.0,
+    "wins": 0,
+    "podiums": 3,
+    "starts": 38,
+    "position": 5
+  },
+  {
+    "constructor": "Williams",
+    "points": 69.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 38,
+    "position": 6
+  },
+  {
+    "constructor": "Force India",
+    "points": 68.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 38,
+    "position": 7
+  },
+  {
+    "constructor": "Sauber",
+    "points": 44.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 38,
+    "position": 8
+  },
+  {
+    "constructor": "Toro Rosso",
+    "points": 13.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 38,
+    "position": 9
+  },
+  {
+    "constructor": "HRT",
+    "points": 0.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 38,
+    "position": 10
+  },
+  {
+    "constructor": "Lotus",
+    "points": 0.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 38,
+    "position": 11
+  },
+  {
+    "constructor": "Virgin",
+    "points": 0.0,
+    "wins": 0,
+    "podiums": 0,
+    "starts": 38,
+    "position": 12
+  }
+]

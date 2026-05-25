@@ -1,0 +1,360 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-melbourne,Australian Grand Prix,,,,,,2,58,5736792,10.0,1,1,1,Finished,1:35:36.792,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-melbourne,Australian Grand Prix,,,,,,6,58,5755420,6.0,2,2,1,Finished,+18.628,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-melbourne,Australian Grand Prix,,,,,,5,58,5761859,4.0,3,3,1,Finished,+25.067,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-melbourne,Australian Grand Prix,,,,,,19,57,,3.0,4,4,1,+1 Lap,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-melbourne,Australian Grand Prix,,,,,,18,56,,2.0,5,5,1,+2 Laps,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-melbourne,Australian Grand Prix,,,,,,14,56,,1.0,6,6,1,+2 Laps,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-melbourne,Australian Grand Prix,,,,,,21,55,,0.0,7,7,1,+3 Laps,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-melbourne,Australian Grand Prix,,,,,,20,53,,0.0,8,8,1,+5 Laps,,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-melbourne,Australian Grand Prix,,,,,,4,33,,0.0,9,R,1,Gearbox,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-melbourne,Australian Grand Prix,,,,,,13,27,,0.0,10,R,1,Broken wing,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-melbourne,Australian Grand Prix,,,,,,15,16,,0.0,11,D,1,Disqualified,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-melbourne,Australian Grand Prix,,,,,,17,15,,0.0,12,D,1,Disqualified,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-melbourne,Australian Grand Prix,,,,,,22,12,,0.0,13,R,1,Electrical,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-melbourne,Australian Grand Prix,,,,,,7,8,,0.0,14,R,1,Spun off,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-melbourne,Australian Grand Prix,,,,,,1,0,,0.0,15,R,1,Collision,,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-melbourne,Australian Grand Prix,,,,,,3,0,,0.0,16,R,1,Collision,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-melbourne,Australian Grand Prix,,,,,,8,0,,0.0,17,R,1,Collision,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-melbourne,Australian Grand Prix,,,,,,9,0,,0.0,18,R,1,Collision,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-melbourne,Australian Grand Prix,,,,,,10,0,,0.0,19,R,1,Collision,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-melbourne,Australian Grand Prix,,,,,,11,0,,0.0,20,R,1,Collision,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-melbourne,Australian Grand Prix,,,,,,12,0,,0.0,21,R,1,Collision,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-melbourne,Australian Grand Prix,,,,,,16,0,,0.0,22,R,1,Collision,,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,4,56,5652912,10.0,1,1,2,Finished,1:34:12.912,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,2,56,5692612,6.0,2,2,2,Finished,+39.700,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,1,56,5714707,4.0,3,3,2,Finished,+1:01.795,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,8,56,5722679,3.0,4,4,2,Finished,+1:09.767,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,7,55,,2.0,5,5,2,+1 Lap,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,14,55,,1.0,6,6,2,+1 Lap,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,19,55,,0.0,7,7,2,+1 Lap,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,13,55,,0.0,8,8,2,+1 Lap,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,15,54,,0.0,9,9,2,+2 Laps,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,17,54,,0.0,10,10,2,+2 Laps,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,11,54,,0.0,11,11,2,+2 Laps,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,10,53,,0.0,12,12,2,+3 Laps,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,9,53,,0.0,13,13,2,+3 Laps,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,3,39,,0.0,14,R,2,Engine,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,21,34,,0.0,15,R,2,Electrical,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,20,30,,0.0,16,R,2,Hydraulics,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,22,29,,0.0,17,R,2,Gearbox,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,5,24,,0.0,18,R,2,Engine,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,16,20,,0.0,19,R,2,Fuel,,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,6,15,,0.0,20,R,2,Engine,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,18,9,,0.0,21,R,2,Clutch,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-kuala-lumpur,Malaysian Grand Prix,,,,,,12,9,,0.0,22,R,2,Overheating,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-s-o-paulo,Brazilian Grand Prix,,,,,,2,71,5503662,10.0,1,1,3,Finished,1:31:43.662,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-s-o-paulo,Brazilian Grand Prix,,,,,,3,71,5504250,6.0,2,2,3,Finished,+0.588,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-s-o-paulo,Brazilian Grand Prix,,,,,,4,71,5562771,4.0,3,3,3,Finished,+59.109,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-s-o-paulo,Brazilian Grand Prix,,,,,,7,71,5570545,3.0,4,4,3,Finished,+1:06.883,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-s-o-paulo,Brazilian Grand Prix,,,,,,1,71,5571225,2.0,5,5,3,Finished,+1:07.563,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-s-o-paulo,Brazilian Grand Prix,,,,,,10,70,,1.0,6,6,3,+1 Lap,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-s-o-paulo,Brazilian Grand Prix,,,,,,13,70,,0.0,7,7,3,+1 Lap,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-s-o-paulo,Brazilian Grand Prix,,,,,,11,70,,0.0,8,8,3,+1 Lap,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-s-o-paulo,Brazilian Grand Prix,,,,,,19,69,,0.0,9,9,3,+2 Laps,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-s-o-paulo,Brazilian Grand Prix,,,,,,15,68,,0.0,10,10,3,Engine,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-s-o-paulo,Brazilian Grand Prix,,,,,,20,68,,0.0,11,11,3,+3 Laps,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-s-o-paulo,Brazilian Grand Prix,,,,,,5,67,,0.0,12,12,3,Wheel rim,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-s-o-paulo,Brazilian Grand Prix,,,,,,22,67,,0.0,13,13,3,+4 Laps,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-s-o-paulo,Brazilian Grand Prix,,,,,,9,61,,0.0,14,R,3,Brakes,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-s-o-paulo,Brazilian Grand Prix,,,,,,6,60,,0.0,15,R,3,Engine,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-s-o-paulo,Brazilian Grand Prix,,,,,,12,41,,0.0,16,R,3,Collision,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-s-o-paulo,Brazilian Grand Prix,,,,,,16,40,,0.0,17,R,3,Spun off,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-s-o-paulo,Brazilian Grand Prix,,,,,,17,25,,0.0,18,R,3,Gearbox,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-s-o-paulo,Brazilian Grand Prix,,,,,,18,25,,0.0,19,R,3,Suspension,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-s-o-paulo,Brazilian Grand Prix,,,,,,21,19,,0.0,20,R,3,Suspension,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-s-o-paulo,Brazilian Grand Prix,,,,,,8,16,,0.0,21,R,3,Hydraulics,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-s-o-paulo,Brazilian Grand Prix,,,,,,14,6,,0.0,22,R,3,Engine,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-imola,San Marino Grand Prix,,,,,,1,62,5350789,10.0,1,1,4,Finished,1:29:10.789,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-imola,San Marino Grand Prix,,,,,,2,62,5368696,6.0,2,2,4,Finished,+17.907,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-imola,San Marino Grand Prix,,,,,,3,62,5370544,4.0,3,3,4,Finished,+19.755,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-imola,San Marino Grand Prix,,,,,,4,62,5395514,3.0,4,4,4,Finished,+44.725,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-imola,San Marino Grand Prix,,,,,,9,62,5434184,2.0,5,5,4,Finished,+1:23.395,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-imola,San Marino Grand Prix,,,,,,6,61,,1.0,6,6,4,+1 Lap,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-imola,San Marino Grand Prix,,,,,,10,61,,0.0,7,7,4,+1 Lap,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-imola,San Marino Grand Prix,,,,,,11,61,,0.0,8,8,4,+1 Lap,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-imola,San Marino Grand Prix,,,,,,8,61,,0.0,9,9,4,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-imola,San Marino Grand Prix,,,,,,7,61,,0.0,10,10,4,+1 Lap,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-imola,San Marino Grand Prix,,,,,,19,60,,0.0,11,11,4,+2 Laps,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-imola,San Marino Grand Prix,,,,,,20,50,,0.0,12,R,4,Power loss,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-imola,San Marino Grand Prix,,,,,,18,45,,0.0,13,R,4,Driveshaft,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-imola,San Marino Grand Prix,,,,,,5,44,,0.0,14,R,4,Exhaust,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-imola,San Marino Grand Prix,,,,,,12,44,,0.0,15,R,4,Throttle,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-imola,San Marino Grand Prix,,,,,,22,30,,0.0,16,R,4,Driveshaft,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-imola,San Marino Grand Prix,,,,,,16,26,,0.0,17,R,4,Gearbox,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-imola,San Marino Grand Prix,,,,,,13,25,,0.0,18,R,4,Power loss,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-imola,San Marino Grand Prix,,,,,,15,19,,0.0,19,R,4,Hydraulics,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-imola,San Marino Grand Prix,,,,,,14,5,,0.0,20,R,4,Gearbox,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-imola,San Marino Grand Prix,,,,,,17,0,,0.0,21,R,4,Electrical,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-barcelona,Spanish Grand Prix,,,,,,1,65,5429981,10.0,1,1,5,Finished,1:30:29.981,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-barcelona,Spanish Grand Prix,,,,,,4,65,5465611,6.0,2,2,5,Finished,+35.630,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-barcelona,Spanish Grand Prix,,,,,,7,65,5472604,4.0,3,3,5,Finished,+42.623,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-barcelona,Spanish Grand Prix,,,,,,8,65,5496678,3.0,4,4,5,Finished,+1:06.697,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-barcelona,Spanish Grand Prix,,,,,,11,65,5508954,2.0,5,5,5,Finished,+1:18.973,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-barcelona,Spanish Grand Prix,,,,,,10,65,5510411,1.0,6,6,5,Finished,+1:20.430,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-barcelona,Spanish Grand Prix,,,,,,15,64,,0.0,7,7,5,+1 Lap,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-barcelona,Spanish Grand Prix,,,,,,19,64,,0.0,8,8,5,+1 Lap,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-barcelona,Spanish Grand Prix,,,,,,17,64,,0.0,9,9,5,+1 Lap,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-barcelona,Spanish Grand Prix,,,,,,9,63,,0.0,10,10,5,Engine,,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-barcelona,Spanish Grand Prix,,,,,,3,63,,0.0,11,11,5,Engine,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-barcelona,Spanish Grand Prix,,,,,,6,60,,0.0,12,12,5,Hydraulics,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-barcelona,Spanish Grand Prix,,,,,,13,43,,0.0,13,R,5,Exhaust,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-barcelona,Spanish Grand Prix,,,,,,22,41,,0.0,14,R,5,Hydraulics,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-barcelona,Spanish Grand Prix,,,,,,14,40,,0.0,15,R,5,Hydraulics,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-barcelona,Spanish Grand Prix,,,,,,18,10,,0.0,16,R,5,Spun off,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-barcelona,Spanish Grand Prix,,,,,,12,5,,0.0,17,R,5,Hydraulics,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-barcelona,Spanish Grand Prix,,,,,,5,4,,0.0,18,R,5,Rear wing,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-barcelona,Spanish Grand Prix,,,,,,16,2,,0.0,19,R,5,Spun off,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-barcelona,Spanish Grand Prix,,,,,,2,0,,0.0,20,W,5,Gearbox,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,22,2002-barcelona,Spanish Grand Prix,,,,,,20,0,,0.0,21,W,5,Safety,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,23,2002-barcelona,Spanish Grand Prix,,,,,,21,0,,0.0,22,W,5,Safety,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-spielberg,Austrian Grand Prix,,,,,,3,71,5631562,10.0,1,1,6,Finished,1:33:51.562,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-spielberg,Austrian Grand Prix,,,,,,1,71,5631744,6.0,2,2,6,Finished,+0.182,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-spielberg,Austrian Grand Prix,,,,,,4,71,5649292,4.0,3,3,6,Finished,+17.730,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-spielberg,Austrian Grand Prix,,,,,,2,71,5650010,3.0,4,4,6,Finished,+18.448,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-spielberg,Austrian Grand Prix,,,,,,15,71,5681527,2.0,5,5,6,Finished,+49.965,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-spielberg,Austrian Grand Prix,,,,,,8,71,5682234,1.0,6,6,6,Finished,+50.672,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-spielberg,Austrian Grand Prix,,,,,,13,71,5682791,0.0,7,7,6,Finished,+51.229,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-spielberg,Austrian Grand Prix,,,,,,10,71,5700987,0.0,8,8,6,Finished,+1:09.425,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-spielberg,Austrian Grand Prix,,,,,,14,71,5701280,0.0,9,9,6,Finished,+1:09.718,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-spielberg,Austrian Grand Prix,,,,,,17,70,,0.0,10,10,6,+1 Lap,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-spielberg,Austrian Grand Prix,,,,,,11,69,,0.0,11,11,6,+2 Laps,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-spielberg,Austrian Grand Prix,,,,,,21,69,,0.0,12,12,6,+2 Laps,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-spielberg,Austrian Grand Prix,,,,,,16,44,,0.0,13,R,6,Fuel pressure,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-spielberg,Austrian Grand Prix,,,,,,22,42,,0.0,14,R,6,Engine,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-spielberg,Austrian Grand Prix,,,,,,20,38,,0.0,15,R,6,Hydraulics,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-spielberg,Austrian Grand Prix,,,,,,5,27,,0.0,16,R,6,Collision,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-spielberg,Austrian Grand Prix,,,,,,18,26,,0.0,17,R,6,Collision,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-spielberg,Austrian Grand Prix,,,,,,9,22,,0.0,18,R,6,Engine,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-spielberg,Austrian Grand Prix,,,,,,7,7,,0.0,19,R,6,Suspension,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-spielberg,Austrian Grand Prix,,,,,,6,5,,0.0,20,R,6,Engine,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-spielberg,Austrian Grand Prix,,,,,,12,2,,0.0,21,R,6,Collision,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-spielberg,Austrian Grand Prix,,,,,,19,0,,0.0,22,R,6,Throttle,,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-monte-carlo,Monaco Grand Prix,,,,,,2,78,6339055,10.0,1,1,7,Finished,1:45:39.055,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-monte-carlo,Monaco Grand Prix,,,,,,3,78,6340105,6.0,2,2,7,Finished,+1.050,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-monte-carlo,Monaco Grand Prix,,,,,,4,78,6406505,4.0,3,3,7,Finished,+1:07.450,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-monte-carlo,Monaco Grand Prix,,,,,,7,77,,3.0,4,4,7,+1 Lap,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-monte-carlo,Monaco Grand Prix,,,,,,11,77,,2.0,5,5,7,+1 Lap,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-monte-carlo,Monaco Grand Prix,,,,,,12,77,,1.0,6,6,7,+1 Lap,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-monte-carlo,Monaco Grand Prix,,,,,,5,77,,0.0,7,7,7,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-monte-carlo,Monaco Grand Prix,,,,,,15,76,,0.0,8,8,7,+2 Laps,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-monte-carlo,Monaco Grand Prix,,,,,,19,76,,0.0,9,9,7,+2 Laps,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-monte-carlo,Monaco Grand Prix,,,,,,17,76,,0.0,10,10,7,+2 Laps,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-monte-carlo,Monaco Grand Prix,,,,,,20,76,,0.0,11,11,7,+2 Laps,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-monte-carlo,Monaco Grand Prix,,,,,,21,76,,0.0,12,12,7,+2 Laps,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-monte-carlo,Monaco Grand Prix,,,,,,9,69,,0.0,13,R,7,Brakes,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-monte-carlo,Monaco Grand Prix,,,,,,13,63,,0.0,14,R,7,Accident,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-monte-carlo,Monaco Grand Prix,,,,,,18,51,,0.0,15,R,7,Collision,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-monte-carlo,Monaco Grand Prix,,,,,,8,51,,0.0,16,R,7,Collision,,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-monte-carlo,Monaco Grand Prix,,,,,,1,46,,0.0,17,R,7,Engine,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-monte-carlo,Monaco Grand Prix,,,,,,14,44,,0.0,18,R,7,Mechanical,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-monte-carlo,Monaco Grand Prix,,,,,,6,41,,0.0,19,R,7,Collision,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-monte-carlo,Monaco Grand Prix,,,,,,22,29,,0.0,20,R,7,Accident,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-monte-carlo,Monaco Grand Prix,,,,,,16,22,,0.0,21,R,7,Spun off,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-monte-carlo,Monaco Grand Prix,,,,,,10,15,,0.0,22,R,7,Accident,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-montreal,Canadian Grand Prix,,,,,,2,70,5616111,10.0,1,1,8,Finished,1:33:36.111,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-montreal,Canadian Grand Prix,,,,,,8,70,5617243,6.0,2,2,8,Finished,+1.132,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-montreal,Canadian Grand Prix,,,,,,3,70,5623193,4.0,3,3,8,Finished,+7.082,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-montreal,Canadian Grand Prix,,,,,,5,70,5653674,3.0,4,4,8,Finished,+37.563,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-montreal,Canadian Grand Prix,,,,,,6,70,5658923,2.0,5,5,8,Finished,+42.812,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-montreal,Canadian Grand Prix,,,,,,10,70,5665058,1.0,6,6,8,Finished,+48.947,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-montreal,Canadian Grand Prix,,,,,,4,70,,0.0,7,7,8,Engine,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-montreal,Canadian Grand Prix,,,,,,11,69,,0.0,8,8,8,+1 Lap,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-montreal,Canadian Grand Prix,,,,,,12,69,,0.0,9,9,8,+1 Lap,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-montreal,Canadian Grand Prix,,,,,,15,69,,0.0,10,10,8,+1 Lap,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-montreal,Canadian Grand Prix,,,,,,21,69,,0.0,11,11,8,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-montreal,Canadian Grand Prix,,,,,,7,69,,0.0,12,12,8,+1 Lap,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-montreal,Canadian Grand Prix,,,,,,19,69,,0.0,13,13,8,+1 Lap,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-montreal,Canadian Grand Prix,,,,,,22,68,,0.0,14,14,8,+2 Laps,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-montreal,Canadian Grand Prix,,,,,,13,65,,0.0,15,15,8,Gearbox,,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-montreal,Canadian Grand Prix,,,,,,1,56,,0.0,16,R,8,Engine,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-montreal,Canadian Grand Prix,,,,,,20,45,,0.0,17,R,8,Spun off,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-montreal,Canadian Grand Prix,,,,,,14,41,,0.0,18,R,8,Overheating,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-montreal,Canadian Grand Prix,,,,,,18,41,,0.0,19,R,8,Brakes,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-montreal,Canadian Grand Prix,,,,,,16,29,,0.0,20,R,8,Gearbox,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-montreal,Canadian Grand Prix,,,,,,17,16,,0.0,21,R,8,Suspension,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-montreal,Canadian Grand Prix,,,,,,9,8,,0.0,22,R,8,Oil pressure,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-n-rburg,European Grand Prix,,,,,,4,60,5707426,10.0,1,1,9,Finished,1:35:07.426,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-n-rburg,European Grand Prix,,,,,,3,60,5707720,6.0,2,2,9,Finished,+0.294,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-n-rburg,European Grand Prix,,,,,,6,60,5753861,4.0,3,3,9,Finished,+46.435,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-n-rburg,European Grand Prix,,,,,,2,60,5774389,3.0,4,4,9,Finished,+1:06.963,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-n-rburg,European Grand Prix,,,,,,8,60,5784370,2.0,5,5,9,Finished,+1:16.944,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-n-rburg,European Grand Prix,,,,,,11,59,,1.0,6,6,9,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-n-rburg,European Grand Prix,,,,,,9,59,,0.0,7,7,9,+1 Lap,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-n-rburg,European Grand Prix,,,,,,7,59,,0.0,8,8,9,+1 Lap,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-n-rburg,European Grand Prix,,,,,,12,59,,0.0,9,9,9,+1 Lap,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-n-rburg,European Grand Prix,,,,,,16,59,,0.0,10,10,9,+1 Lap,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-n-rburg,European Grand Prix,,,,,,21,59,,0.0,11,11,9,+1 Lap,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-n-rburg,European Grand Prix,,,,,,19,59,,0.0,12,12,9,+1 Lap,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-n-rburg,European Grand Prix,,,,,,15,59,,0.0,13,13,9,+1 Lap,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-n-rburg,European Grand Prix,,,,,,13,59,,0.0,14,14,9,+1 Lap,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-n-rburg,European Grand Prix,,,,,,20,58,,0.0,15,15,9,+2 Laps,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-n-rburg,European Grand Prix,,,,,,14,58,,0.0,16,16,9,+2 Laps,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-n-rburg,European Grand Prix,,,,,,10,51,,0.0,17,R,9,Gearbox,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-n-rburg,European Grand Prix,,,,,,22,48,,0.0,18,R,9,Hydraulics,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-n-rburg,European Grand Prix,,,,,,17,41,,0.0,19,R,9,Hydraulics,,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-n-rburg,European Grand Prix,,,,,,1,27,,0.0,20,R,9,Collision,,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-n-rburg,European Grand Prix,,,,,,5,27,,0.0,21,R,9,Collision,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-n-rburg,European Grand Prix,,,,,,18,26,,0.0,22,R,9,Accident,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-silverstone,British Grand Prix,,,,,,3,60,5505015,10.0,1,1,10,Finished,1:31:45.015,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-silverstone,British Grand Prix,,,,,,2,60,5519593,6.0,2,2,10,Finished,+14.578,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-silverstone,British Grand Prix,,,,,,1,60,5536676,4.0,3,3,10,Finished,+31.661,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-silverstone,British Grand Prix,,,,,,9,59,,3.0,4,4,10,+1 Lap,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-silverstone,British Grand Prix,,,,,,13,59,,2.0,5,5,10,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-silverstone,British Grand Prix,,,,,,10,59,,1.0,6,6,10,+1 Lap,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-silverstone,British Grand Prix,,,,,,17,59,,0.0,7,7,10,+1 Lap,,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-silverstone,British Grand Prix,,,,,,4,59,,0.0,8,8,10,+1 Lap,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-silverstone,British Grand Prix,,,,,,11,59,,0.0,9,9,10,+1 Lap,,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-silverstone,British Grand Prix,,,,,,6,58,,0.0,10,10,10,+2 Laps,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-silverstone,British Grand Prix,,,,,,21,58,,0.0,11,11,10,+2 Laps,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-silverstone,British Grand Prix,,,,,,12,54,,0.0,12,12,10,Wheel,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-silverstone,British Grand Prix,,,,,,14,50,,0.0,13,R,10,Engine,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-silverstone,British Grand Prix,,,,,,5,44,,0.0,14,R,10,Engine,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-silverstone,British Grand Prix,,,,,,7,29,,0.0,15,R,10,Electronics,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-silverstone,British Grand Prix,,,,,,18,28,,0.0,16,R,10,Driveshaft,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-silverstone,British Grand Prix,,,,,,19,23,,0.0,17,R,10,Spun off,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-silverstone,British Grand Prix,,,,,,16,20,,0.0,18,R,10,Engine,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-silverstone,British Grand Prix,,,,,,8,15,,0.0,19,R,10,Drivetrain,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-silverstone,British Grand Prix,,,,,,20,9,,0.0,20,R,10,Clutch,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-silverstone,British Grand Prix,,,,,,15,0,,0.0,21,R,10,Clutch,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-magny-cours,French Grand Prix,,,,,,2,72,5529837,10.0,1,1,11,Finished,1:32:09.837,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-magny-cours,French Grand Prix,,,,,,4,72,5530941,6.0,2,2,11,Finished,+1.104,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-magny-cours,French Grand Prix,,,,,,6,72,5561812,4.0,3,3,11,Finished,+31.975,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-magny-cours,French Grand Prix,,,,,,1,72,5570512,3.0,4,4,11,Finished,+40.675,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-magny-cours,French Grand Prix,,,,,,5,72,5571609,2.0,5,5,11,Finished,+41.772,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-magny-cours,French Grand Prix,,,,,,7,71,,1.0,6,6,11,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-magny-cours,French Grand Prix,,,,,,10,71,,0.0,7,7,11,+1 Lap,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-magny-cours,French Grand Prix,,,,,,18,71,,0.0,8,8,11,+1 Lap,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-magny-cours,French Grand Prix,,,,,,15,70,,0.0,9,9,11,+2 Laps,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-magny-cours,French Grand Prix,,,,,,19,68,,0.0,10,10,11,+4 Laps,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-magny-cours,French Grand Prix,,,,,,17,65,,0.0,11,11,11,Engine,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-magny-cours,French Grand Prix,,,,,,9,52,,0.0,12,R,11,Rear wing,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-magny-cours,French Grand Prix,,,,,,8,49,,0.0,13,R,11,Engine,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-magny-cours,French Grand Prix,,,,,,12,48,,0.0,14,R,11,Mechanical,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-magny-cours,French Grand Prix,,,,,,16,48,,0.0,15,R,11,Engine,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-magny-cours,French Grand Prix,,,,,,13,35,,0.0,16,R,11,Engine,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-magny-cours,French Grand Prix,,,,,,11,29,,0.0,17,R,11,Accident,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-magny-cours,French Grand Prix,,,,,,14,23,,0.0,18,R,11,Spun off,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-magny-cours,French Grand Prix,,,,,,3,0,,0.0,19,W,11,Ignition,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-magny-cours,French Grand Prix,,,,,,0,0,,0.0,22,R,11,Injury,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-hockenheim,German Grand Prix,,,,,,1,67,5272078,10.0,1,1,12,Finished,1:27:52.078,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-hockenheim,German Grand Prix,,,,,,4,67,5282581,6.0,2,2,12,Finished,+10.503,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-hockenheim,German Grand Prix,,,,,,2,67,5286544,4.0,3,3,12,Finished,+14.466,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-hockenheim,German Grand Prix,,,,,,3,67,5295273,3.0,4,4,12,Finished,+23.195,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-hockenheim,German Grand Prix,,,,,,9,66,,2.0,5,5,12,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-hockenheim,German Grand Prix,,,,,,10,66,,1.0,6,6,12,+1 Lap,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-hockenheim,German Grand Prix,,,,,,14,66,,0.0,7,7,12,+1 Lap,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-hockenheim,German Grand Prix,,,,,,12,66,,0.0,8,8,12,+1 Lap,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-hockenheim,German Grand Prix,,,,,,19,66,,0.0,9,9,12,+1 Lap,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-hockenheim,German Grand Prix,,,,,,6,59,,0.0,10,R,12,Engine,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-hockenheim,German Grand Prix,,,,,,5,59,,0.0,11,R,12,Spun off,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-hockenheim,German Grand Prix,,,,,,16,57,,0.0,12,R,12,Brakes,,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-hockenheim,German Grand Prix,,,,,,18,48,,0.0,13,R,12,Engine,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-hockenheim,German Grand Prix,,,,,,7,39,,0.0,14,R,12,Engine,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-hockenheim,German Grand Prix,,,,,,8,36,,0.0,15,R,12,Spun off,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-hockenheim,German Grand Prix,,,,,,11,27,,0.0,16,R,12,Gearbox,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-hockenheim,German Grand Prix,,,,,,13,24,,0.0,17,R,12,Engine,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-hockenheim,German Grand Prix,,,,,,17,23,,0.0,18,R,12,Engine,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-hockenheim,German Grand Prix,,,,,,21,23,,0.0,19,R,12,Hydraulics,,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-hockenheim,German Grand Prix,,,,,,15,18,,0.0,20,R,12,Hydraulics,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-hockenheim,German Grand Prix,,,,,,20,0,,0.0,21,R,12,Transmission,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-budapest,Hungarian Grand Prix,,,,,,1,77,6109001,10.0,1,1,13,Finished,1:41:49.001,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-budapest,Hungarian Grand Prix,,,,,,2,77,6109435,6.0,2,2,13,Finished,+0.434,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-budapest,Hungarian Grand Prix,,,,,,3,77,6122357,4.0,3,3,13,Finished,+13.356,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-budapest,Hungarian Grand Prix,,,,,,11,77,6138480,3.0,4,4,13,Finished,+29.479,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-budapest,Hungarian Grand Prix,,,,,,10,77,6146801,2.0,5,5,13,Finished,+37.800,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-budapest,Hungarian Grand Prix,,,,,,5,77,6177805,1.0,6,6,13,Finished,+1:08.804,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-budapest,Hungarian Grand Prix,,,,,,7,77,6182613,0.0,7,7,13,Finished,+1:13.612,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-budapest,Hungarian Grand Prix,,,,,,6,76,,0.0,8,8,13,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-budapest,Hungarian Grand Prix,,,,,,8,76,,0.0,9,9,13,+1 Lap,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-budapest,Hungarian Grand Prix,,,,,,14,76,,0.0,10,10,13,+1 Lap,,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-budapest,Hungarian Grand Prix,,,,,,4,76,,0.0,11,11,13,+1 Lap,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-budapest,Hungarian Grand Prix,,,,,,12,76,,0.0,12,12,13,+1 Lap,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-budapest,Hungarian Grand Prix,,,,,,15,75,,0.0,13,13,13,+2 Laps,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-budapest,Hungarian Grand Prix,,,,,,18,75,,0.0,14,14,13,+2 Laps,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-budapest,Hungarian Grand Prix,,,,,,17,75,,0.0,15,15,13,+2 Laps,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-budapest,Hungarian Grand Prix,,,,,,19,75,,0.0,16,16,13,+2 Laps,,2002
+Minardi,minardi,Italian,DAV,davidson,Anthony Davidson,British,22,2002-budapest,Hungarian Grand Prix,,,,,,20,58,,0.0,17,R,13,Spun off,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-budapest,Hungarian Grand Prix,,,,,,9,30,,0.0,18,R,13,Spun off,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-budapest,Hungarian Grand Prix,,,,,,16,23,,0.0,19,R,13,Engine,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-budapest,Hungarian Grand Prix,,,,,,13,20,,0.0,20,R,13,Transmission,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-spa,Belgian Grand Prix,,,,,,1,44,4880634,10.0,1,1,14,Finished,1:21:20.634,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-spa,Belgian Grand Prix,,,,,,3,44,4882611,6.0,2,2,14,Finished,+1.977,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-spa,Belgian Grand Prix,,,,,,5,44,4899079,4.0,3,3,14,Finished,+18.445,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-spa,Belgian Grand Prix,,,,,,6,44,4899991,3.0,4,4,14,Finished,+19.357,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-spa,Belgian Grand Prix,,,,,,4,44,4937074,2.0,5,5,14,Finished,+56.440,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-spa,Belgian Grand Prix,,,,,,8,44,4958004,1.0,6,6,14,Finished,+1:17.370,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-spa,Belgian Grand Prix,,,,,,9,44,4958443,0.0,7,7,14,Finished,+1:17.809,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-spa,Belgian Grand Prix,,,,,,12,44,4960489,0.0,8,8,14,Finished,+1:19.855,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-spa,Belgian Grand Prix,,,,,,13,43,,0.0,9,9,14,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-spa,Belgian Grand Prix,,,,,,18,43,,0.0,10,10,14,+1 Lap,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-spa,Belgian Grand Prix,,,,,,16,43,,0.0,11,11,14,+1 Lap,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-spa,Belgian Grand Prix,,,,,,15,39,,0.0,12,12,14,Engine,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-spa,Belgian Grand Prix,,,,,,14,38,,0.0,13,R,14,Engine,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-spa,Belgian Grand Prix,,,,,,11,37,,0.0,14,R,14,Suspension,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-spa,Belgian Grand Prix,,,,,,17,37,,0.0,15,R,14,Engine,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-spa,Belgian Grand Prix,,,,,,2,35,,0.0,16,R,14,Engine,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-spa,Belgian Grand Prix,,,,,,7,35,,0.0,17,R,14,Engine,,2002
+Minardi,minardi,Italian,DAV,davidson,Anthony Davidson,British,22,2002-spa,Belgian Grand Prix,,,,,,20,17,,0.0,18,R,14,Spun off,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-spa,Belgian Grand Prix,,,,,,10,10,,0.0,19,R,14,Engine,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-spa,Belgian Grand Prix,,,,,,19,4,,0.0,20,R,14,Gearbox,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-monza,Italian Grand Prix,,,,,,4,53,4579982,10.0,1,1,15,Finished,1:16:19.982,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-monza,Italian Grand Prix,,,,,,2,53,4580237,6.0,2,2,15,Finished,+0.255,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-monza,Italian Grand Prix,,,,,,5,53,4632561,4.0,3,3,15,Finished,+52.579,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-monza,Italian Grand Prix,,,,,,11,53,4638201,3.0,4,4,15,Finished,+58.219,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-monza,Italian Grand Prix,,,,,,17,53,4647752,2.0,5,5,15,Finished,+1:07.770,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-monza,Italian Grand Prix,,,,,,16,53,4648473,1.0,6,6,15,Finished,+1:08.491,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-monza,Italian Grand Prix,,,,,,7,53,4649029,0.0,7,7,15,Finished,+1:09.047,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-monza,Italian Grand Prix,,,,,,12,53,4650873,0.0,8,8,15,Finished,+1:10.891,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-monza,Italian Grand Prix,,,,,,9,53,4661050,0.0,9,9,15,Finished,+1:21.068,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-monza,Italian Grand Prix,,,,,,15,53,4662028,0.0,10,10,15,Finished,+1:22.046,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-monza,Italian Grand Prix,,,,,,10,52,,0.0,11,11,15,+1 Lap,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-monza,Italian Grand Prix,,,,,,18,52,,0.0,12,12,15,+1 Lap,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-monza,Italian Grand Prix,,,,,,20,47,,0.0,13,13,15,+6 Laps,,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-monza,Italian Grand Prix,,,,,,1,33,,0.0,14,R,15,Chassis,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-monza,Italian Grand Prix,,,,,,6,29,,0.0,15,R,15,Engine,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-monza,Italian Grand Prix,,,,,,19,20,,0.0,16,R,15,Engine,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-monza,Italian Grand Prix,,,,,,14,16,,0.0,17,R,15,Collision,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-monza,Italian Grand Prix,,,,,,8,15,,0.0,18,R,15,Collision,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-monza,Italian Grand Prix,,,,,,13,12,,0.0,19,R,15,Suspension,,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-monza,Italian Grand Prix,,,,,,3,4,,0.0,20,R,15,Engine,,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-indianapolis,United States Grand Prix,,,,,,2,73,5468000,10.0,1,1,16,Finished,1:31,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-indianapolis,United States Grand Prix,,,,,,1,73,5468011,6.0,2,2,16,Finished,+0.011,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-indianapolis,United States Grand Prix,,,,,,3,73,5475799,4.0,3,3,16,Finished,+7.799,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-indianapolis,United States Grand Prix,,,,,,4,73,5477911,3.0,4,4,16,Finished,+9.911,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-indianapolis,United States Grand Prix,,,,,,8,73,5524847,2.0,5,5,16,Finished,+56.847,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-indianapolis,United States Grand Prix,,,,,,7,73,5526211,1.0,6,6,16,Finished,+58.211,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-indianapolis,United States Grand Prix,,,,,,9,72,,0.0,7,7,16,+1 Lap,,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-indianapolis,United States Grand Prix,,,,,,14,72,,0.0,8,8,16,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-indianapolis,United States Grand Prix,,,,,,10,72,,0.0,9,9,16,+1 Lap,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-indianapolis,United States Grand Prix,,,,,,13,72,,0.0,10,10,16,+1 Lap,,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-indianapolis,United States Grand Prix,,,,,,15,72,,0.0,11,11,16,+1 Lap,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-indianapolis,United States Grand Prix,,,,,,12,72,,0.0,12,12,16,+1 Lap,,2002
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,8,2002-indianapolis,United States Grand Prix,,,,,,11,71,,0.0,13,13,16,+2 Laps,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-indianapolis,United States Grand Prix,,,,,,19,71,,0.0,14,14,16,+2 Laps,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-indianapolis,United States Grand Prix,,,,,,16,71,,0.0,15,15,16,+2 Laps,,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-indianapolis,United States Grand Prix,,,,,,5,71,,0.0,16,16,16,+2 Laps,,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-indianapolis,United States Grand Prix,,,,,,6,50,,0.0,17,R,16,Engine,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-indianapolis,United States Grand Prix,,,,,,20,46,,0.0,18,R,16,Engine,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-indianapolis,United States Grand Prix,,,,,,18,38,,0.0,19,R,16,Steering,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-indianapolis,United States Grand Prix,,,,,,17,27,,0.0,20,R,16,Transmission,,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-suzuka,Japanese Grand Prix,,,,,,1,53,5219698,10.0,1,1,17,Finished,1:26:59.698,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-suzuka,Japanese Grand Prix,,,,,,2,53,5220204,6.0,2,2,17,Finished,+0.506,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-suzuka,Japanese Grand Prix,,,,,,4,53,5242990,4.0,3,3,17,Finished,+23.292,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-suzuka,Japanese Grand Prix,,,,,,6,53,5255973,3.0,4,4,17,Finished,+36.275,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-suzuka,Japanese Grand Prix,,,,,,7,53,5302392,2.0,5,5,17,Finished,+1:22.694,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-suzuka,Japanese Grand Prix,,,,,,10,52,,1.0,6,6,17,+1 Lap,,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-suzuka,Japanese Grand Prix,,,,,,12,52,,0.0,7,7,17,+1 Lap,,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-suzuka,Japanese Grand Prix,,,,,,13,52,,0.0,8,8,17,+1 Lap,,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-suzuka,Japanese Grand Prix,,,,,,14,52,,0.0,9,9,17,+1 Lap,,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-suzuka,Japanese Grand Prix,,,,,,19,51,,0.0,10,10,17,+2 Laps,,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-suzuka,Japanese Grand Prix,,,,,,5,48,,0.0,11,11,17,Engine,,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-suzuka,Japanese Grand Prix,,,,,,17,39,,0.0,12,R,17,Transmission,,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-suzuka,Japanese Grand Prix,,,,,,8,37,,0.0,13,R,17,Engine,,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-suzuka,Japanese Grand Prix,,,,,,11,32,,0.0,14,R,17,Mechanical,,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-suzuka,Japanese Grand Prix,,,,,,9,27,,0.0,15,R,17,Engine,,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-suzuka,Japanese Grand Prix,,,,,,20,14,,0.0,16,R,17,Spun off,,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-suzuka,Japanese Grand Prix,,,,,,16,8,,0.0,17,R,17,Mechanical,,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-suzuka,Japanese Grand Prix,,,,,,3,7,,0.0,18,R,17,Throttle,,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-suzuka,Japanese Grand Prix,,,,,,15,3,,0.0,19,R,17,Accident,,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-suzuka,Japanese Grand Prix,,,,,,18,0,,0.0,20,W,17,Injured,,2002

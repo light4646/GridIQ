@@ -1,0 +1,361 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,position,q1,q2,q3,round,year
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-melbourne,Australian Grand Prix,1,1:24.408,,,1,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-melbourne,Australian Grand Prix,2,1:24.482,,,1,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-melbourne,Australian Grand Prix,3,1:24.998,,,1,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-melbourne,Australian Grand Prix,4,1:24.998,,,1,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-melbourne,Australian Grand Prix,5,1:25.699,,,1,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-melbourne,Australian Grand Prix,6,1:25.805,,,1,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-melbourne,Australian Grand Prix,7,1:25.851,,,1,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-melbourne,Australian Grand Prix,8,1:25.925,,,1,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-melbourne,Australian Grand Prix,9,1:26.290,,,1,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-melbourne,Australian Grand Prix,10,1:26.297,,,1,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-melbourne,Australian Grand Prix,11,1:27.065,,,1,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-melbourne,Australian Grand Prix,12,1:27.294,,,1,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-melbourne,Australian Grand Prix,13,1:27.823,,,1,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-melbourne,Australian Grand Prix,14,1:27.845,,,1,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-melbourne,Australian Grand Prix,15,1:28.178,,,1,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-melbourne,Australian Grand Prix,16,1:30.140,,,1,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-melbourne,Australian Grand Prix,17,1:30.681,,,1,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-melbourne,Australian Grand Prix,18,,,,1,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-melbourne,Australian Grand Prix,19,,,,1,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-melbourne,Australian Grand Prix,20,,,,1,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-kuala-lumpur,Malaysian Grand Prix,1,1:33.074,,,2,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-kuala-lumpur,Malaysian Grand Prix,2,1:33.715,,,2,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-kuala-lumpur,Malaysian Grand Prix,3,1:33.756,,,2,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-kuala-lumpur,Malaysian Grand Prix,4,1:34.054,,,2,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-kuala-lumpur,Malaysian Grand Prix,5,1:34.164,,,2,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-kuala-lumpur,Malaysian Grand Prix,6,1:34.221,,,2,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-kuala-lumpur,Malaysian Grand Prix,7,1:34.235,,,2,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-kuala-lumpur,Malaysian Grand Prix,8,1:34.413,,,2,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-kuala-lumpur,Malaysian Grand Prix,9,1:34.602,,,2,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-kuala-lumpur,Malaysian Grand Prix,10,1:34.917,,,2,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-kuala-lumpur,Malaysian Grand Prix,11,1:35.039,,,2,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-kuala-lumpur,Malaysian Grand Prix,12,1:35.061,,,2,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-kuala-lumpur,Malaysian Grand Prix,13,1:35.158,,,2,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-kuala-lumpur,Malaysian Grand Prix,14,1:35.617,,,2,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-kuala-lumpur,Malaysian Grand Prix,15,1:36.569,,,2,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-kuala-lumpur,Malaysian Grand Prix,16,1:38.577,,,2,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-kuala-lumpur,Malaysian Grand Prix,17,1:39.272,,,2,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-kuala-lumpur,Malaysian Grand Prix,18,1:39.902,,,2,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-kuala-lumpur,Malaysian Grand Prix,19,,,,2,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-kuala-lumpur,Malaysian Grand Prix,20,,,,2,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-sakhir,Bahrain Grand Prix,1,1:30.139,,,3,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-sakhir,Bahrain Grand Prix,2,1:30.530,,,3,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-sakhir,Bahrain Grand Prix,3,1:30.581,,,3,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-sakhir,Bahrain Grand Prix,4,1:30.633,,,3,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-sakhir,Bahrain Grand Prix,5,1:30.827,,,3,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-sakhir,Bahrain Grand Prix,6,1:30.856,,,3,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-sakhir,Bahrain Grand Prix,7,1:30.971,,,3,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-sakhir,Bahrain Grand Prix,8,1:31.686,,,3,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-sakhir,Bahrain Grand Prix,9,1:31.717,,,3,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-sakhir,Bahrain Grand Prix,10,1:31.719,,,3,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-sakhir,Bahrain Grand Prix,11,1:31.731,,,3,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-sakhir,Bahrain Grand Prix,12,1:32.332,,,3,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-sakhir,Bahrain Grand Prix,13,1:32.536,,,3,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-sakhir,Bahrain Grand Prix,14,1:32.625,,,3,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-sakhir,Bahrain Grand Prix,15,1:33.506,,,3,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-sakhir,Bahrain Grand Prix,16,1:34.105,,,3,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-sakhir,Bahrain Grand Prix,17,1:34.130,,,3,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-sakhir,Bahrain Grand Prix,18,1:34.584,,,3,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-sakhir,Bahrain Grand Prix,19,1:35.787,,,3,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-sakhir,Bahrain Grand Prix,20,,,,3,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-imola,San Marino Grand Prix,1,1:19.753,,,4,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-imola,San Marino Grand Prix,2,1:20.011,,,4,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-imola,San Marino Grand Prix,3,1:20.212,,,4,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-imola,San Marino Grand Prix,4,1:20.451,,,4,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-imola,San Marino Grand Prix,5,1:20.538,,,4,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-imola,San Marino Grand Prix,6,1:20.895,,,4,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-imola,San Marino Grand Prix,7,1:20.913,,,4,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-imola,San Marino Grand Prix,8,1:20.921,,,4,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-imola,San Marino Grand Prix,9,1:21.034,,,4,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-imola,San Marino Grand Prix,10,1:21.087,,,4,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-imola,San Marino Grand Prix,11,1:21.091,,,4,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-imola,San Marino Grand Prix,12,1:21.532,,,4,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-imola,San Marino Grand Prix,13,1:21.558,,,4,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-imola,San Marino Grand Prix,14,1:21.949,,,4,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-imola,San Marino Grand Prix,15,1:23.352,,,4,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-imola,San Marino Grand Prix,16,1:23.488,,,4,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-imola,San Marino Grand Prix,17,1:26.899,,,4,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-imola,San Marino Grand Prix,18,1:46.299,,,4,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-imola,San Marino Grand Prix,19,,,,4,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-imola,San Marino Grand Prix,20,,,,4,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-barcelona,Spanish Grand Prix,1,1:15.022,,,5,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-barcelona,Spanish Grand Prix,2,1:15.639,,,5,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-barcelona,Spanish Grand Prix,3,1:15.809,,,5,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-barcelona,Spanish Grand Prix,4,1:16.144,,,5,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-barcelona,Spanish Grand Prix,5,1:16.272,,,5,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-barcelona,Spanish Grand Prix,6,1:16.293,,,5,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-barcelona,Spanish Grand Prix,7,1:16.313,,,5,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-barcelona,Spanish Grand Prix,8,1:16.422,,,5,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-barcelona,Spanish Grand Prix,9,1:16.514,,,5,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-barcelona,Spanish Grand Prix,10,1:16.636,,,5,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-barcelona,Spanish Grand Prix,11,1:17.038,,,5,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-barcelona,Spanish Grand Prix,12,1:17.444,,,5,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-barcelona,Spanish Grand Prix,13,1:17.445,,,5,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-barcelona,Spanish Grand Prix,14,1:17.575,,,5,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-barcelona,Spanish Grand Prix,15,1:17.802,,,5,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-barcelona,Spanish Grand Prix,16,1:17.812,,,5,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-barcelona,Spanish Grand Prix,17,1:17.866,,,5,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-barcelona,Spanish Grand Prix,18,1:19.817,,,5,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-barcelona,Spanish Grand Prix,19,1:20.607,,,5,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-barcelona,Spanish Grand Prix,20,1:21.470,,,5,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-monte-carlo,Monaco Grand Prix,1,1:13.985,,,6,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-monte-carlo,Monaco Grand Prix,2,1:14.345,,,6,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-monte-carlo,Monaco Grand Prix,3,1:14.396,,,6,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-monte-carlo,Monaco Grand Prix,4,1:14.408,,,6,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-monte-carlo,Monaco Grand Prix,5,1:14.516,,,6,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-monte-carlo,Monaco Grand Prix,6,1:14.592,,,6,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-monte-carlo,Monaco Grand Prix,7,1:14.716,,,6,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-monte-carlo,Monaco Grand Prix,8,1:14.827,,,6,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-monte-carlo,Monaco Grand Prix,9,1:14.951,,,6,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-monte-carlo,Monaco Grand Prix,10,1:15.039,,,6,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-monte-carlo,Monaco Grand Prix,11,1:15.352,,,6,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-monte-carlo,Monaco Grand Prix,12,1:15.725,,,6,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-monte-carlo,Monaco Grand Prix,13,1:15.859,,,6,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-monte-carlo,Monaco Grand Prix,14,1:15.919,,,6,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-monte-carlo,Monaco Grand Prix,15,1:16.169,,,6,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-monte-carlo,Monaco Grand Prix,16,1:16.248,,,6,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-monte-carlo,Monaco Grand Prix,17,1:16.488,,,6,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-monte-carlo,Monaco Grand Prix,18,1:17.443,,,6,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-monte-carlo,Monaco Grand Prix,19,1:20.060,,,6,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-monte-carlo,Monaco Grand Prix,20,1:20.115,,,6,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-n-rburg,European Grand Prix,1,1:28.351,,,7,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-n-rburg,European Grand Prix,2,1:28.986,,,7,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-n-rburg,European Grand Prix,3,1:29.135,,,7,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-n-rburg,European Grand Prix,4,1:29.137,,,7,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-n-rburg,European Grand Prix,5,1:29.245,,,7,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-n-rburg,European Grand Prix,6,1:29.313,,,7,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-n-rburg,European Grand Prix,7,1:29.353,,,7,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-n-rburg,European Grand Prix,8,1:29.354,,,7,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-n-rburg,European Grand Prix,9,1:29.459,,,7,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-n-rburg,European Grand Prix,10,1:29.697,,,7,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-n-rburg,European Grand Prix,11,1:29.706,,,7,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-n-rburg,European Grand Prix,12,1:31.431,,,7,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-n-rburg,European Grand Prix,13,1:31.604,,,7,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-n-rburg,European Grand Prix,14,1:31.797,,,7,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-n-rburg,European Grand Prix,15,1:31.979,,,7,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-n-rburg,European Grand Prix,16,1:31.982,,,7,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-n-rburg,European Grand Prix,17,1:34.398,,,7,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-n-rburg,European Grand Prix,18,,,,7,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-n-rburg,European Grand Prix,19,,,,7,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-n-rburg,European Grand Prix,20,,,,7,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-montreal,Canadian Grand Prix,1,1:12.275,,,8,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-montreal,Canadian Grand Prix,2,1:12.341,,,8,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-montreal,Canadian Grand Prix,3,1:13.023,,,8,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-montreal,Canadian Grand Prix,4,1:13.072,,,8,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-montreal,Canadian Grand Prix,5,1:13.308,,,8,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-montreal,Canadian Grand Prix,6,1:13.355,,,8,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-montreal,Canadian Grand Prix,7,1:13.562,,,8,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-montreal,Canadian Grand Prix,8,1:13.595,,,8,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-montreal,Canadian Grand Prix,9,1:13.681,,,8,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-montreal,Canadian Grand Prix,10,1:14.532,,,8,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-montreal,Canadian Grand Prix,11,1:14.674,,,8,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-montreal,Canadian Grand Prix,12,1:14.851,,,8,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-montreal,Canadian Grand Prix,13,1:14.891,,,8,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-montreal,Canadian Grand Prix,14,1:15.148,,,8,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-montreal,Canadian Grand Prix,15,1:15.321,,,8,2004
+Jordan,jordan,Irish,GLO,glock,Timo Glock,German,19,2004-montreal,Canadian Grand Prix,16,1:16.323,,,8,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-montreal,Canadian Grand Prix,17,1:17.004,,,8,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-montreal,Canadian Grand Prix,18,1:17.064,,,8,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-montreal,Canadian Grand Prix,19,,,,8,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-montreal,Canadian Grand Prix,20,,,,8,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-indianapolis,United States Grand Prix,1,1:10.223,,,9,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-indianapolis,United States Grand Prix,2,1:10.400,,,9,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-indianapolis,United States Grand Prix,3,1:10.601,,,9,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-indianapolis,United States Grand Prix,4,1:10.820,,,9,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-indianapolis,United States Grand Prix,5,1:11.062,,,9,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-indianapolis,United States Grand Prix,6,1:11.106,,,9,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-indianapolis,United States Grand Prix,7,1:11.137,,,9,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-indianapolis,United States Grand Prix,8,1:11.167,,,9,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-indianapolis,United States Grand Prix,9,1:11.185,,,9,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-indianapolis,United States Grand Prix,10,1:11.286,,,9,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-indianapolis,United States Grand Prix,11,1:11.691,,,9,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-indianapolis,United States Grand Prix,12,1:12.026,,,9,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-indianapolis,United States Grand Prix,13,1:12.170,,,9,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-indianapolis,United States Grand Prix,14,1:12.470,,,9,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-indianapolis,United States Grand Prix,15,1:12.721,,,9,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-indianapolis,United States Grand Prix,16,1:13.147,,,9,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-indianapolis,United States Grand Prix,17,1:13.375,,,9,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-indianapolis,United States Grand Prix,18,1:14.010,,,9,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-indianapolis,United States Grand Prix,19,1:14.812,,,9,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-indianapolis,United States Grand Prix,20,,,,9,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-magny-cours,French Grand Prix,1,1:13.698,,,10,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-magny-cours,French Grand Prix,2,1:13.971,,,10,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-magny-cours,French Grand Prix,3,1:13.987,,,10,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-magny-cours,French Grand Prix,4,1:13.995,,,10,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-magny-cours,French Grand Prix,5,1:14.070,,,10,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-magny-cours,French Grand Prix,6,1:14.172,,,10,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-magny-cours,French Grand Prix,7,1:14.240,,,10,2004
+Williams,williams,British,,gene,Marc Gené,Spanish,4,2004-magny-cours,French Grand Prix,8,1:14.275,,,10,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-magny-cours,French Grand Prix,9,1:14.346,,,10,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-magny-cours,French Grand Prix,10,1:14.478,,,10,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-magny-cours,French Grand Prix,11,1:14.553,,,10,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-magny-cours,French Grand Prix,12,1:14.798,,,10,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-magny-cours,French Grand Prix,13,1:15.065,,,10,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-magny-cours,French Grand Prix,14,1:15.130,,,10,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-magny-cours,French Grand Prix,15,1:16.177,,,10,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-magny-cours,French Grand Prix,16,1:16.200,,,10,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-magny-cours,French Grand Prix,17,1:16.807,,,10,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-magny-cours,French Grand Prix,18,1:17.462,,,10,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-magny-cours,French Grand Prix,19,1:17.913,,,10,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-magny-cours,French Grand Prix,20,1:18.247,,,10,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-silverstone,British Grand Prix,1,1:18.233,,,11,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-silverstone,British Grand Prix,2,1:18.305,,,11,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-silverstone,British Grand Prix,3,1:18.580,,,11,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-silverstone,British Grand Prix,4,1:18.710,,,11,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-silverstone,British Grand Prix,5,1:18.715,,,11,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-silverstone,British Grand Prix,6,1:18.811,,,11,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-silverstone,British Grand Prix,7,1:19.148,,,11,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-silverstone,British Grand Prix,8,1:19.378,,,11,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-silverstone,British Grand Prix,9,1:19.688,,,11,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-silverstone,British Grand Prix,10,1:20.004,,,11,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-silverstone,British Grand Prix,11,1:20.202,,,11,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-silverstone,British Grand Prix,12,1:20.335,,,11,2004
+Williams,williams,British,,gene,Marc Gené,Spanish,4,2004-silverstone,British Grand Prix,13,1:20.335,,,11,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-silverstone,British Grand Prix,14,1:20.545,,,11,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-silverstone,British Grand Prix,15,1:21.559,,,11,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-silverstone,British Grand Prix,16,1:22.458,,,11,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-silverstone,British Grand Prix,17,1:22.677,,,11,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-silverstone,British Grand Prix,18,1:23.437,,,11,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-silverstone,British Grand Prix,19,1:24.117,,,11,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-silverstone,British Grand Prix,20,,,,11,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-hockenheim,German Grand Prix,1,1:13.306,,,12,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-hockenheim,German Grand Prix,2,1:13.668,,,12,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-hockenheim,German Grand Prix,3,1:13.674,,,12,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-hockenheim,German Grand Prix,4,1:13.690,,,12,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-hockenheim,German Grand Prix,5,1:13.821,,,12,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-hockenheim,German Grand Prix,6,1:13.874,,,12,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-hockenheim,German Grand Prix,7,1:14.134,,,12,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-hockenheim,German Grand Prix,8,1:14.278,,,12,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-hockenheim,German Grand Prix,9,1:14.287,,,12,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-hockenheim,German Grand Prix,10,1:14.368,,,12,2004
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,4,2004-hockenheim,German Grand Prix,11,1:14.556,,,12,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-hockenheim,German Grand Prix,12,1:14.802,,,12,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-hockenheim,German Grand Prix,13,1:15.011,,,12,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-hockenheim,German Grand Prix,14,1:15.395,,,12,2004
+Toyota,toyota,Japanese,,matta,Cristiano da Matta,Brazilian,16,2004-hockenheim,German Grand Prix,15,1:15.454,,,12,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-hockenheim,German Grand Prix,16,1:15.616,,,12,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-hockenheim,German Grand Prix,17,1:16.192,,,12,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-hockenheim,German Grand Prix,18,1:16.310,,,12,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-hockenheim,German Grand Prix,19,1:18.055,,,12,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-hockenheim,German Grand Prix,20,1:18.400,,,12,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-budapest,Hungarian Grand Prix,1,1:19.146,,,13,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-budapest,Hungarian Grand Prix,2,1:19.323,,,13,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-budapest,Hungarian Grand Prix,3,1:19.693,,,13,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-budapest,Hungarian Grand Prix,4,1:19.700,,,13,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-budapest,Hungarian Grand Prix,5,1:19.996,,,13,2004
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,4,2004-budapest,Hungarian Grand Prix,6,1:20.170,,,13,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-budapest,Hungarian Grand Prix,7,1:20.199,,,13,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-budapest,Hungarian Grand Prix,8,1:20.324,,,13,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-budapest,Hungarian Grand Prix,9,1:20.411,,,13,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-budapest,Hungarian Grand Prix,10,1:20.570,,,13,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-budapest,Hungarian Grand Prix,11,1:20.730,,,13,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-budapest,Hungarian Grand Prix,12,1:20.897,,,13,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-budapest,Hungarian Grand Prix,13,1:21.068,,,13,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-budapest,Hungarian Grand Prix,14,1:21.118,,,13,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,16,2004-budapest,Hungarian Grand Prix,15,1:21.135,,,13,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-budapest,Hungarian Grand Prix,16,1:22.180,,,13,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-budapest,Hungarian Grand Prix,17,1:22.356,,,13,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-budapest,Hungarian Grand Prix,18,1:24.329,,,13,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-budapest,Hungarian Grand Prix,19,1:24.679,,,13,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-budapest,Hungarian Grand Prix,20,,,,13,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-spa,Belgian Grand Prix,1,1:56.232,,,14,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-spa,Belgian Grand Prix,2,1:56.304,,,14,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-spa,Belgian Grand Prix,3,1:56.686,,,14,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-spa,Belgian Grand Prix,4,1:57.990,,,14,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-spa,Belgian Grand Prix,5,1:58.040,,,14,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-spa,Belgian Grand Prix,6,1:58.175,,,14,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-spa,Belgian Grand Prix,7,1:58.729,,,14,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-spa,Belgian Grand Prix,8,1:59.008,,,14,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-spa,Belgian Grand Prix,9,1:59.552,,,14,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-spa,Belgian Grand Prix,10,1:59.635,,,14,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-spa,Belgian Grand Prix,11,1:59.681,,,14,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-spa,Belgian Grand Prix,12,2:00.237,,,14,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-spa,Belgian Grand Prix,13,2:01.246,,,14,2004
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,4,2004-spa,Belgian Grand Prix,14,2:01.447,,,14,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-spa,Belgian Grand Prix,15,2:01.813,,,14,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-spa,Belgian Grand Prix,16,2:02.645,,,14,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-spa,Belgian Grand Prix,17,2:02.651,,,14,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-spa,Belgian Grand Prix,18,2:03.303,,,14,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-spa,Belgian Grand Prix,19,2:03.833,,,14,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,16,2004-spa,Belgian Grand Prix,20,2:03.895,,,14,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-monza,Italian Grand Prix,1,1:20.089,,,15,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-monza,Italian Grand Prix,2,1:20.620,,,15,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-monza,Italian Grand Prix,3,1:20.637,,,15,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-monza,Italian Grand Prix,4,1:20.645,,,15,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-monza,Italian Grand Prix,5,1:20.715,,,15,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-monza,Italian Grand Prix,6,1:20.786,,,15,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-monza,Italian Grand Prix,7,1:20.877,,,15,2004
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,4,2004-monza,Italian Grand Prix,8,1:20.888,,,15,2004
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,7,2004-monza,Italian Grand Prix,9,1:21.027,,,15,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-monza,Italian Grand Prix,10,1:21.049,,,15,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,16,2004-monza,Italian Grand Prix,11,1:21.520,,,15,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-monza,Italian Grand Prix,12,1:21.602,,,15,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-monza,Italian Grand Prix,13,1:21.841,,,15,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-monza,Italian Grand Prix,14,1:21.989,,,15,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-monza,Italian Grand Prix,15,1:22.239,,,15,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-monza,Italian Grand Prix,16,1:22.287,,,15,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-monza,Italian Grand Prix,17,1:22.301,,,15,2004
+Jordan,jordan,Irish,,pantano,Giorgio Pantano,Italian,19,2004-monza,Italian Grand Prix,18,1:23.239,,,15,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-monza,Italian Grand Prix,19,1:24.808,,,15,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-monza,Italian Grand Prix,20,1:24.910,,,15,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-shanghai,Chinese Grand Prix,1,1:34.012,,,16,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-shanghai,Chinese Grand Prix,2,1:34.178,,,16,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-shanghai,Chinese Grand Prix,3,1:34.295,,,16,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-shanghai,Chinese Grand Prix,4,1:34.759,,,16,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-shanghai,Chinese Grand Prix,5,1:34.891,,,16,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-shanghai,Chinese Grand Prix,6,1:34.917,,,16,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-shanghai,Chinese Grand Prix,7,1:34.951,,,16,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-shanghai,Chinese Grand Prix,8,1:34.975,,,16,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-shanghai,Chinese Grand Prix,9,1:34.993,,,16,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-shanghai,Chinese Grand Prix,10,1:35.029,,,16,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-shanghai,Chinese Grand Prix,11,1:35.245,,,16,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-shanghai,Chinese Grand Prix,12,1:35.286,,,16,2004
+Renault,renault,French,VIL,villeneuve,Jacques Villeneuve,Canadian,7,2004-shanghai,Chinese Grand Prix,13,1:35.384,,,16,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,16,2004-shanghai,Chinese Grand Prix,14,1:35.410,,,16,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-shanghai,Chinese Grand Prix,15,1:36.507,,,16,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-shanghai,Chinese Grand Prix,16,1:36.535,,,16,2004
+Jordan,jordan,Irish,GLO,glock,Timo Glock,German,19,2004-shanghai,Chinese Grand Prix,17,1:37.140,,,16,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-shanghai,Chinese Grand Prix,18,1:40.240,,,16,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-shanghai,Chinese Grand Prix,19,,,,16,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-shanghai,Chinese Grand Prix,20,,,,16,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-suzuka,Japanese Grand Prix,1,1:33.542,,,17,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-suzuka,Japanese Grand Prix,2,1:34.032,,,17,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-suzuka,Japanese Grand Prix,3,1:34.571,,,17,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-suzuka,Japanese Grand Prix,4,1:34.897,,,17,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-suzuka,Japanese Grand Prix,5,1:35.157,,,17,2004
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2004-suzuka,Japanese Grand Prix,6,1:35.213,,,17,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-suzuka,Japanese Grand Prix,7,1:36.136,,,17,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-suzuka,Japanese Grand Prix,8,1:36.156,,,17,2004
+Renault,renault,French,VIL,villeneuve,Jacques Villeneuve,Canadian,7,2004-suzuka,Japanese Grand Prix,9,1:36.274,,,17,2004
+Toyota,toyota,Japanese,,panis,Olivier Panis,French,17,2004-suzuka,Japanese Grand Prix,10,1:36.420,,,17,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-suzuka,Japanese Grand Prix,11,1:36.663,,,17,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-suzuka,Japanese Grand Prix,12,1:36.820,,,17,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-suzuka,Japanese Grand Prix,13,1:37.653,,,17,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-suzuka,Japanese Grand Prix,14,1:38.258,,,17,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-suzuka,Japanese Grand Prix,15,1:38.637,,,17,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-suzuka,Japanese Grand Prix,16,1:41.953,,,17,2004
+Jordan,jordan,Irish,GLO,glock,Timo Glock,German,19,2004-suzuka,Japanese Grand Prix,17,1:43.533,,,17,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-suzuka,Japanese Grand Prix,18,1:48.069,,,17,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-suzuka,Japanese Grand Prix,19,,,,17,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-suzuka,Japanese Grand Prix,20,,,,17,2004
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2004-s-o-paulo,Brazilian Grand Prix,1,1:10.646,,,18,2004
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,3,2004-s-o-paulo,Brazilian Grand Prix,2,1:10.850,,,18,2004
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2004-s-o-paulo,Brazilian Grand Prix,3,1:10.892,,,18,2004
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2004-s-o-paulo,Brazilian Grand Prix,4,1:10.922,,,18,2004
+BAR,bar,British,BUT,button,Jenson Button,British,22,2004-s-o-paulo,Brazilian Grand Prix,5,1:11.092,,,18,2004
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,10,2004-s-o-paulo,Brazilian Grand Prix,6,1:11.120,,,18,2004
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,4,2004-s-o-paulo,Brazilian Grand Prix,7,1:11.131,,,18,2004
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2004-s-o-paulo,Brazilian Grand Prix,8,1:11.386,,,18,2004
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2004-s-o-paulo,Brazilian Grand Prix,9,1:11.454,,,18,2004
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2004-s-o-paulo,Brazilian Grand Prix,10,1:11.483,,,18,2004
+Sauber,sauber,Swiss,FIS,fisichella,Giancarlo Fisichella,Italian,11,2004-s-o-paulo,Brazilian Grand Prix,11,1:11.571,,,18,2004
+Jaguar,jaguar,British,WEB,webber,Mark Webber,Australian,14,2004-s-o-paulo,Brazilian Grand Prix,12,1:11.665,,,18,2004
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,5,2004-s-o-paulo,Brazilian Grand Prix,13,1:11.750,,,18,2004
+Renault,renault,French,VIL,villeneuve,Jacques Villeneuve,Canadian,7,2004-s-o-paulo,Brazilian Grand Prix,14,1:11.836,,,18,2004
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,17,2004-s-o-paulo,Brazilian Grand Prix,15,1:11.974,,,18,2004
+Jaguar,jaguar,British,KLI,klien,Christian Klien,Austrian,15,2004-s-o-paulo,Brazilian Grand Prix,16,1:12.211,,,18,2004
+Jordan,jordan,Irish,HEI,heidfeld,Nick Heidfeld,German,18,2004-s-o-paulo,Brazilian Grand Prix,17,1:12.829,,,18,2004
+Jordan,jordan,Irish,GLO,glock,Timo Glock,German,19,2004-s-o-paulo,Brazilian Grand Prix,18,1:13.502,,,18,2004
+Minardi,minardi,Italian,,baumgartner,Zsolt Baumgartner,Hungarian,21,2004-s-o-paulo,Brazilian Grand Prix,19,1:13.550,,,18,2004
+Minardi,minardi,Italian,,bruni,Gianmaria Bruni,Italian,20,2004-s-o-paulo,Brazilian Grand Prix,20,,,,18,2004

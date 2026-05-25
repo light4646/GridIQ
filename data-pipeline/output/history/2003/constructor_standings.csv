@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,158.0,1,1,8,2003
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,144.0,2,2,4,2003
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,142.0,3,3,2,2003
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,88.0,4,4,1,2003
+BAR,bar,British,https://en.wikipedia.org/wiki/British_American_Racing,26.0,5,5,0,2003
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,19.0,6,6,0,2003
+Jaguar,jaguar,British,https://en.wikipedia.org/wiki/Jaguar_Racing,18.0,7,7,0,2003
+Toyota,toyota,Japanese,https://en.wikipedia.org/wiki/Toyota_Racing,16.0,8,8,0,2003
+Jordan,jordan,Irish,https://en.wikipedia.org/wiki/Jordan_Grand_Prix,13.0,9,9,1,2003
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,0.0,10,10,0,2003

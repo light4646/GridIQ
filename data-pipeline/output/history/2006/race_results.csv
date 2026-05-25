@@ -1,0 +1,397 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-sakhir,Bahrain Grand Prix,210.551,kph,21,3,1:32.534,4,57,5386205,10.0,1,1,1,Finished,1:29:46.205,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-sakhir,Bahrain Grand Prix,210.576,kph,38,2,1:32.523,1,57,5387451,8.0,2,2,1,Finished,+1.246,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-sakhir,Bahrain Grand Prix,209.803,kph,29,8,1:32.864,22,57,5405565,6.0,3,3,1,Finished,+19.360,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-sakhir,Bahrain Grand Prix,210.109,kph,39,5,1:32.729,3,57,5406197,5.0,4,4,1,Finished,+19.992,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-sakhir,Bahrain Grand Prix,210.013,kph,21,7,1:32.771,5,57,5423253,4.0,5,5,1,Finished,+37.048,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-sakhir,Bahrain Grand Prix,210.265,kph,25,4,1:32.660,7,57,5428137,3.0,6,6,1,Finished,+41.932,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-sakhir,Bahrain Grand Prix,210.838,kph,42,1,1:32.408,12,57,5449248,2.0,7,7,1,Finished,+1:03.043,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-sakhir,Bahrain Grand Prix,209.02,kph,40,10,1:33.212,8,57,5452976,1.0,8,8,1,Finished,+1:06.771,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-sakhir,Bahrain Grand Prix,210.086,kph,28,6,1:32.739,2,57,5456112,0.0,9,9,1,Finished,+1:09.907,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-sakhir,Bahrain Grand Prix,208.653,kph,26,11,1:33.376,13,57,5461746,0.0,10,10,1,Finished,+1:15.541,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-sakhir,Bahrain Grand Prix,208.421,kph,26,12,1:33.480,15,57,5472202,0.0,11,11,1,Finished,+1:25.997,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-sakhir,Bahrain Grand Prix,207.772,kph,26,14,1:33.772,10,56,,0.0,12,12,1,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-sakhir,Bahrain Grand Prix,209.253,kph,45,9,1:33.108,16,56,,0.0,13,13,1,+1 Lap,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-sakhir,Bahrain Grand Prix,207.021,kph,25,16,1:34.112,17,56,,0.0,14,14,1,+1 Lap,,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-sakhir,Bahrain Grand Prix,207.621,kph,14,15,1:33.840,6,56,,0.0,15,15,1,+1 Lap,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-sakhir,Bahrain Grand Prix,205.406,kph,24,18,1:34.852,14,56,,0.0,16,16,1,+1 Lap,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-sakhir,Bahrain Grand Prix,203.076,kph,41,19,1:35.940,19,55,,0.0,17,17,1,+2 Laps,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-sakhir,Bahrain Grand Prix,200.642,kph,17,20,1:37.104,20,53,,0.0,18,18,1,+4 Laps,,2006
+Super Aguri,super_aguri,Japanese,IDE,ide,Yuji Ide,Japanese,23,2006-sakhir,Bahrain Grand Prix,198.197,kph,11,21,1:38.302,21,35,,0.0,19,R,1,Mechanical,,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-sakhir,Bahrain Grand Prix,207.945,kph,20,13,1:33.694,11,29,,0.0,20,R,1,Engine,,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-sakhir,Bahrain Grand Prix,206.564,kph,15,17,1:34.320,9,21,,0.0,21,R,1,Hydraulics,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-sakhir,Bahrain Grand Prix,,,,,,18,0,,0.0,22,R,1,Driveshaft,,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-kuala-lumpur,Malaysian Grand Prix,209.402,kph,16,2,1:35.294,1,56,5440529,10.0,1,1,2,Finished,1:30:40.529,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-kuala-lumpur,Malaysian Grand Prix,210.487,kph,45,1,1:34.803,7,56,5445114,8.0,2,2,2,Finished,+4.585,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-kuala-lumpur,Malaysian Grand Prix,208.723,kph,35,4,1:35.604,2,56,5450160,6.0,3,3,2,Finished,+9.631,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-kuala-lumpur,Malaysian Grand Prix,208.806,kph,39,3,1:35.566,5,56,5479880,5.0,4,4,2,Finished,+39.351,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-kuala-lumpur,Malaysian Grand Prix,207.962,kph,51,8,1:35.954,21,56,5483783,4.0,5,5,2,Finished,+43.254,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-kuala-lumpur,Malaysian Grand Prix,208.629,kph,44,5,1:35.647,14,56,5484383,3.0,6,6,2,Finished,+43.854,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-kuala-lumpur,Malaysian Grand Prix,207.858,kph,43,9,1:36.002,10,56,5520990,2.0,7,7,2,Finished,+1:20.461,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-kuala-lumpur,Malaysian Grand Prix,208.544,kph,34,6,1:35.686,22,56,5521817,1.0,8,8,2,Finished,+1:21.288,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-kuala-lumpur,Malaysian Grand Prix,207.042,kph,52,11,1:36.380,9,55,,0.0,9,9,2,+1 Lap,,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-kuala-lumpur,Malaysian Grand Prix,207.456,kph,54,10,1:36.188,20,55,,0.0,10,10,2,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-kuala-lumpur,Malaysian Grand Prix,204.902,kph,40,16,1:37.387,13,54,,0.0,11,11,2,+2 Laps,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-kuala-lumpur,Malaysian Grand Prix,203.209,kph,34,18,1:38.198,15,54,,0.0,12,12,2,+2 Laps,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-kuala-lumpur,Malaysian Grand Prix,200.53,kph,39,19,1:39.510,16,54,,0.0,13,13,2,+2 Laps,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-kuala-lumpur,Malaysian Grand Prix,199.151,kph,14,20,1:40.199,17,53,,0.0,14,14,2,+3 Laps,,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-kuala-lumpur,Malaysian Grand Prix,208.403,kph,41,7,1:35.751,11,48,,0.0,15,R,2,Engine,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-kuala-lumpur,Malaysian Grand Prix,205.057,kph,25,14,1:37.313,12,41,,0.0,16,R,2,Clutch,,2006
+Super Aguri,super_aguri,Japanese,IDE,ide,Yuji Ide,Japanese,23,2006-kuala-lumpur,Malaysian Grand Prix,194.05,kph,18,21,1:42.833,18,33,,0.0,17,R,2,Mechanical,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-kuala-lumpur,Malaysian Grand Prix,206.002,kph,14,13,1:36.867,8,26,,0.0,18,R,2,Hydraulics,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-kuala-lumpur,Malaysian Grand Prix,206.206,kph,12,12,1:36.771,4,15,,0.0,19,R,2,Hydraulics,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-kuala-lumpur,Malaysian Grand Prix,203.458,kph,4,17,1:38.078,19,10,,0.0,20,R,2,Hydraulics,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-kuala-lumpur,Malaysian Grand Prix,204.946,kph,6,15,1:37.366,3,6,,0.0,21,R,2,Engine,,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-kuala-lumpur,Malaysian Grand Prix,,,,,,6,0,,0.0,22,R,2,Accident,,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-melbourne,Australian Grand Prix,221.499,kph,49,2,1:26.189,3,57,5667870,10.0,1,1,3,Finished,1:34:27.870,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-melbourne,Australian Grand Prix,221.869,kph,57,1,1:26.045,4,57,5669670,8.0,2,2,3,Finished,+1.800,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-melbourne,Australian Grand Prix,217.41,kph,45,10,1:27.810,6,57,5692670,6.0,3,3,3,Finished,+24.800,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-melbourne,Australian Grand Prix,217.683,kph,49,7,1:27.700,8,57,5698870,5.0,4,4,3,Finished,+31.000,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-melbourne,Australian Grand Prix,218.028,kph,53,5,1:27.561,2,57,5705970,4.0,5,5,3,Finished,+38.100,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-melbourne,Australian Grand Prix,216.152,kph,56,13,1:28.321,19,57,5717370,3.0,6,6,3,Finished,+49.500,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-melbourne,Australian Grand Prix,217.707,kph,32,6,1:27.690,16,57,5719770,2.0,7,7,3,Finished,+51.900,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-melbourne,Australian Grand Prix,216.326,kph,32,12,1:28.250,11,57,5721770,1.0,8,8,3,Finished,+53.900,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-melbourne,Australian Grand Prix,216.039,kph,26,14,1:28.367,18,57,5746670,0.0,9,9,3,Finished,+1:18.800,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-melbourne,Australian Grand Prix,217.437,kph,17,8,1:27.799,1,56,,0.0,10,10,3,+1 Lap,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-melbourne,Australian Grand Prix,213.931,kph,53,15,1:29.238,17,56,,0.0,11,11,3,+1 Lap,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-melbourne,Australian Grand Prix,210.775,kph,54,17,1:30.574,21,55,,0.0,12,12,3,+2 Laps,,2006
+Super Aguri,super_aguri,Japanese,IDE,ide,Yuji Ide,Japanese,23,2006-melbourne,Australian Grand Prix,203.663,kph,49,18,1:33.737,22,54,,0.0,13,13,3,+3 Laps,,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-melbourne,Australian Grand Prix,218.27,kph,45,4,1:27.464,5,46,,0.0,14,R,3,Electrical,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-melbourne,Australian Grand Prix,212.86,kph,31,16,1:29.687,20,39,,0.0,15,R,3,Mechanical,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-melbourne,Australian Grand Prix,216.97,kph,25,11,1:27.988,12,37,,0.0,16,R,3,Accident,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-melbourne,Australian Grand Prix,218.981,kph,27,3,1:27.180,10,32,,0.0,17,R,3,Accident,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-melbourne,Australian Grand Prix,217.435,kph,19,9,1:27.800,7,22,,0.0,18,R,3,Transmission,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-melbourne,Australian Grand Prix,188.363,kph,4,19,1:41.351,13,4,,0.0,19,R,3,Accident,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-melbourne,Australian Grand Prix,,,,,,9,0,,0.0,20,R,3,Accident,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-melbourne,Australian Grand Prix,,,,,,14,0,,0.0,21,R,3,Accident,,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-melbourne,Australian Grand Prix,,,,,,15,0,,0.0,22,R,3,Accident,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-imola,San Marino Grand Prix,210.961,kph,19,2,1:24.624,1,62,5466486,10.0,1,1,4,Finished,1:31:06.486,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-imola,San Marino Grand Prix,211.098,kph,23,1,1:24.569,5,62,5468582,8.0,2,2,4,Finished,+2.096,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-imola,San Marino Grand Prix,209.791,kph,22,4,1:25.096,7,62,5482354,6.0,3,3,4,Finished,+15.868,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-imola,San Marino Grand Prix,208.731,kph,12,10,1:25.528,4,62,5483582,5.0,4,4,4,Finished,+17.096,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-imola,San Marino Grand Prix,209.961,kph,49,3,1:25.027,8,62,5484010,4.0,5,5,4,Finished,+17.524,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-imola,San Marino Grand Prix,208.829,kph,39,9,1:25.488,10,62,5504225,3.0,6,6,4,Finished,+37.739,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-imola,San Marino Grand Prix,209.174,kph,29,6,1:25.347,2,62,5506121,2.0,7,7,4,Finished,+39.635,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-imola,San Marino Grand Prix,209.159,kph,43,7,1:25.353,11,62,5506686,1.0,8,8,4,Finished,+40.200,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-imola,San Marino Grand Prix,209.25,kph,45,5,1:25.316,6,62,5511997,0.0,9,9,4,Finished,+45.511,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-imola,San Marino Grand Prix,207.275,kph,12,13,1:26.129,3,62,5544337,0.0,10,10,4,Finished,+1:17.851,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-imola,San Marino Grand Prix,206.581,kph,30,15,1:26.418,13,62,5546161,0.0,11,11,4,Finished,+1:19.675,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-imola,San Marino Grand Prix,208.951,kph,53,8,1:25.438,12,62,5548856,0.0,12,12,4,Finished,+1:22.370,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-imola,San Marino Grand Prix,207.595,kph,53,12,1:25.996,15,61,,0.0,13,13,4,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-imola,San Marino Grand Prix,208.363,kph,43,11,1:25.679,16,61,,0.0,14,14,4,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-imola,San Marino Grand Prix,206.989,kph,57,14,1:26.248,18,61,,0.0,15,15,4,+1 Lap,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-imola,San Marino Grand Prix,204.823,kph,53,18,1:27.160,19,60,,0.0,16,16,4,+2 Laps,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-imola,San Marino Grand Prix,205.542,kph,41,17,1:26.855,14,47,,0.0,17,R,4,Driveshaft,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-imola,San Marino Grand Prix,200.363,kph,40,20,1:29.100,21,44,,0.0,18,R,4,Spun off,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-imola,San Marino Grand Prix,205.77,kph,30,16,1:26.759,17,40,,0.0,19,R,4,Hydraulics,,2006
+Super Aguri,super_aguri,Japanese,IDE,ide,Yuji Ide,Japanese,23,2006-imola,San Marino Grand Prix,196.111,kph,15,21,1:31.032,22,23,,0.0,20,R,4,Suspension,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-imola,San Marino Grand Prix,202.778,kph,4,19,1:28.039,9,5,,0.0,21,R,4,Steering,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-imola,San Marino Grand Prix,,,,,,20,0,,0.0,22,R,4,Accident,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-n-rburg,European Grand Prix,201.226,kph,39,1,1:32.099,2,60,5758765,10.0,1,1,5,Finished,1:35:58.765,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-n-rburg,European Grand Prix,200.285,kph,37,3,1:32.532,1,60,5762516,8.0,2,2,5,Finished,+3.751,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-n-rburg,European Grand Prix,199.065,kph,19,5,1:33.099,3,60,5763212,6.0,3,3,5,Finished,+4.447,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-n-rburg,European Grand Prix,200.415,kph,43,2,1:32.472,5,60,5763644,5.0,4,4,5,Finished,+4.879,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-n-rburg,European Grand Prix,197.258,kph,59,9,1:33.952,4,60,5831351,4.0,5,5,5,Finished,+1:12.586,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-n-rburg,European Grand Prix,199.354,kph,46,4,1:32.964,11,60,5832881,3.0,6,6,5,Finished,+1:14.116,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-n-rburg,European Grand Prix,198.044,kph,48,7,1:33.579,22,60,5833330,2.0,7,7,5,Finished,+1:14.565,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-n-rburg,European Grand Prix,197.079,kph,38,12,1:34.037,9,60,5848129,1.0,8,8,5,Finished,+1:29.364,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-n-rburg,European Grand Prix,197.256,kph,58,10,1:33.953,7,59,,0.0,9,9,5,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-n-rburg,European Grand Prix,197.084,kph,47,11,1:34.035,13,59,,0.0,10,10,5,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-n-rburg,European Grand Prix,196.966,kph,57,14,1:34.091,17,59,,0.0,11,11,5,+1 Lap,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-n-rburg,European Grand Prix,194.052,kph,41,18,1:35.504,18,59,,0.0,12,12,5,+1 Lap,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-n-rburg,European Grand Prix,194.207,kph,35,17,1:35.428,16,59,,0.0,13,13,5,+1 Lap,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-n-rburg,European Grand Prix,197.985,kph,27,8,1:33.607,10,52,,0.0,14,R,5,Engine,,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-n-rburg,European Grand Prix,198.061,kph,47,6,1:33.571,8,52,,0.0,15,R,5,Engine,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-n-rburg,European Grand Prix,191.64,kph,26,19,1:36.706,20,45,,0.0,16,R,5,Hydraulics,,2006
+Super Aguri,super_aguri,Japanese,FMO,montagny,Franck Montagny,French,23,2006-n-rburg,European Grand Prix,190.639,kph,21,20,1:37.214,21,29,,0.0,17,R,5,Hydraulics,,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-n-rburg,European Grand Prix,197.069,kph,9,13,1:34.042,6,28,,0.0,18,R,5,Engine,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-n-rburg,European Grand Prix,196.004,kph,16,15,1:34.553,15,28,,0.0,19,R,5,Gearbox,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-n-rburg,European Grand Prix,194.233,kph,11,16,1:35.415,19,12,,0.0,20,R,5,Hydraulics,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-n-rburg,European Grand Prix,128.254,kph,2,21,2:24.500,12,2,,0.0,21,R,5,Accident,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-n-rburg,European Grand Prix,,,,,,14,0,,0.0,22,R,5,Accident,,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-barcelona,Spanish Grand Prix,217.108,kph,39,2,1:16.723,1,66,5181759,10.0,1,1,6,Finished,1:26:21.759,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-barcelona,Spanish Grand Prix,216.546,kph,43,3,1:16.922,3,66,5200261,8.0,2,2,6,Finished,+18.502,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-barcelona,Spanish Grand Prix,216.094,kph,38,4,1:17.083,2,66,5205710,6.0,3,3,6,Finished,+23.951,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-barcelona,Spanish Grand Prix,217.32,kph,42,1,1:16.648,4,66,5211612,5.0,4,4,6,Finished,+29.853,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-barcelona,Spanish Grand Prix,215.328,kph,40,5,1:17.357,9,66,5238634,4.0,5,5,6,Finished,+56.875,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-barcelona,Spanish Grand Prix,215.301,kph,40,6,1:17.367,8,66,5240106,3.0,6,6,6,Finished,+58.347,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-barcelona,Spanish Grand Prix,215.212,kph,40,7,1:17.399,5,65,,2.0,7,7,6,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-barcelona,Spanish Grand Prix,213.913,kph,49,10,1:17.869,10,65,,1.0,8,8,6,+1 Lap,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-barcelona,Spanish Grand Prix,213.827,kph,61,11,1:17.900,11,65,,0.0,9,9,6,+1 Lap,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-barcelona,Spanish Grand Prix,212.288,kph,42,13,1:18.465,7,65,,0.0,10,10,6,+1 Lap,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-barcelona,Spanish Grand Prix,213.935,kph,51,8,1:17.861,13,65,,0.0,11,11,6,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-barcelona,Spanish Grand Prix,213.417,kph,62,12,1:18.050,22,65,,0.0,12,12,6,+1 Lap,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-barcelona,Spanish Grand Prix,212.15,kph,59,15,1:18.516,14,65,,0.0,13,13,6,+1 Lap,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-barcelona,Spanish Grand Prix,213.932,kph,55,9,1:17.862,21,65,,0.0,14,14,6,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-barcelona,Spanish Grand Prix,212.226,kph,52,14,1:18.488,15,63,,0.0,15,15,6,Hydraulics,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-barcelona,Spanish Grand Prix,210.145,kph,28,18,1:19.265,17,63,,0.0,16,16,6,+3 Laps,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-barcelona,Spanish Grand Prix,207.15,kph,42,21,1:20.411,19,62,,0.0,17,17,6,+4 Laps,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-barcelona,Spanish Grand Prix,209.44,kph,28,20,1:19.532,18,48,,0.0,18,R,6,Broken wing,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-barcelona,Spanish Grand Prix,212.082,kph,41,16,1:18.541,16,47,,0.0,19,R,6,Engine,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-barcelona,Spanish Grand Prix,211.867,kph,24,17,1:18.621,6,31,,0.0,20,R,6,Electronics,,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-barcelona,Spanish Grand Prix,209.571,kph,17,19,1:19.482,12,17,,0.0,21,R,6,Spun off,,2006
+Super Aguri,super_aguri,Japanese,FMO,montagny,Franck Montagny,French,23,2006-barcelona,Spanish Grand Prix,202.177,kph,9,22,1:22.389,20,10,,0.0,22,R,6,Driveshaft,,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-monte-carlo,Monaco Grand Prix,158.898,kph,11,3,1:15.671,1,78,6223116,10.0,1,1,7,Finished,1:43:43.116,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-monte-carlo,Monaco Grand Prix,158.193,kph,20,6,1:16.008,4,78,6237683,8.0,2,2,7,Finished,+14.567,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-monte-carlo,Monaco Grand Prix,154.452,kph,45,19,1:17.849,7,78,6275414,6.0,3,3,7,Finished,+52.298,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-monte-carlo,Monaco Grand Prix,155.509,kph,67,12,1:17.320,5,78,6276453,5.0,4,4,7,Finished,+53.337,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-monte-carlo,Monaco Grand Prix,160.014,kph,74,1,1:15.143,22,78,6276946,4.0,5,5,7,Finished,+53.830,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-monte-carlo,Monaco Grand Prix,158.379,kph,58,5,1:15.919,9,78,6285188,3.0,6,6,7,Finished,+1:02.072,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-monte-carlo,Monaco Grand Prix,155.511,kph,72,11,1:17.319,15,77,,2.0,7,7,7,+1 Lap,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-monte-carlo,Monaco Grand Prix,155.068,kph,72,15,1:17.540,10,77,,1.0,8,8,7,+1 Lap,,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-monte-carlo,Monaco Grand Prix,156.946,kph,40,7,1:16.612,21,77,,0.0,9,9,7,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-monte-carlo,Monaco Grand Prix,154.828,kph,75,17,1:17.660,12,77,,0.0,10,10,7,+1 Lap,,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-monte-carlo,Monaco Grand Prix,155.549,kph,59,10,1:17.300,13,77,,0.0,11,11,7,+1 Lap,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-monte-carlo,Monaco Grand Prix,154.942,kph,77,16,1:17.603,16,77,,0.0,12,12,7,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-monte-carlo,Monaco Grand Prix,155.186,kph,77,14,1:17.481,18,77,,0.0,13,13,7,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-monte-carlo,Monaco Grand Prix,154.615,kph,74,18,1:17.767,14,77,,0.0,14,14,7,+1 Lap,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-monte-carlo,Monaco Grand Prix,155.491,kph,71,13,1:17.329,17,76,,0.0,15,15,7,+2 Laps,,2006
+Super Aguri,super_aguri,Japanese,FMO,montagny,Franck Montagny,French,23,2006-monte-carlo,Monaco Grand Prix,152.002,kph,72,22,1:19.104,20,75,,0.0,16,16,7,+3 Laps,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-monte-carlo,Monaco Grand Prix,155.791,kph,30,8,1:17.180,6,72,,0.0,17,17,7,Hydraulics,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-monte-carlo,Monaco Grand Prix,154.292,kph,19,20,1:17.930,11,56,,0.0,18,R,7,Transmission,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-monte-carlo,Monaco Grand Prix,155.696,kph,43,9,1:17.227,8,51,,0.0,19,R,7,Accident,,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-monte-carlo,Monaco Grand Prix,159.628,kph,19,2,1:15.325,3,50,,0.0,20,R,7,Heat shield fire,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-monte-carlo,Monaco Grand Prix,158.879,kph,23,4,1:15.680,2,48,,0.0,21,R,7,Exhaust,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-monte-carlo,Monaco Grand Prix,152.602,kph,39,21,1:18.793,19,46,,0.0,22,R,7,Electrical,,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-silverstone,British Grand Prix,226.811,kph,21,1,1:21.599,1,60,5151927,10.0,1,1,8,Finished,1:25:51.927,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-silverstone,British Grand Prix,225.884,kph,53,2,1:21.934,3,60,5165878,8.0,2,2,8,Finished,+13.951,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-silverstone,British Grand Prix,224.44,kph,15,5,1:22.461,2,60,5170599,6.0,3,3,8,Finished,+18.672,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-silverstone,British Grand Prix,225.049,kph,42,3,1:22.238,5,60,5171903,5.0,4,4,8,Finished,+19.976,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-silverstone,British Grand Prix,224.685,kph,43,4,1:22.371,4,60,5183486,4.0,5,5,8,Finished,+31.559,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-silverstone,British Grand Prix,223.575,kph,38,8,1:22.780,8,60,5216696,3.0,6,6,8,Finished,+1:04.769,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-silverstone,British Grand Prix,223.775,kph,43,6,1:22.706,9,60,5226521,2.0,7,7,8,Finished,+1:14.594,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-silverstone,British Grand Prix,223.195,kph,46,10,1:22.921,10,60,5230226,1.0,8,8,8,Finished,+1:18.299,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-silverstone,British Grand Prix,223.209,kph,47,9,1:22.916,12,60,5230935,0.0,9,9,8,Finished,+1:19.008,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-silverstone,British Grand Prix,222.382,kph,38,11,1:23.224,6,59,,0.0,10,10,8,+1 Lap,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-silverstone,British Grand Prix,223.673,kph,19,7,1:22.744,22,59,,0.0,11,11,8,+1 Lap,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-silverstone,British Grand Prix,220.341,kph,42,14,1:23.995,11,59,,0.0,12,12,8,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-silverstone,British Grand Prix,219.75,kph,25,15,1:24.221,13,59,,0.0,13,13,8,+1 Lap,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-silverstone,British Grand Prix,221.086,kph,30,12,1:23.712,14,59,,0.0,14,14,8,+1 Lap,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-silverstone,British Grand Prix,220.388,kph,27,13,1:23.977,18,59,,0.0,15,15,8,+1 Lap,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-silverstone,British Grand Prix,218.672,kph,25,16,1:24.636,16,58,,0.0,16,16,8,+2 Laps,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-silverstone,British Grand Prix,213.911,kph,23,18,1:26.520,20,57,,0.0,17,17,8,+3 Laps,,2006
+Super Aguri,super_aguri,Japanese,FMO,montagny,Franck Montagny,French,23,2006-silverstone,British Grand Prix,212.323,kph,26,19,1:27.167,21,57,,0.0,18,18,8,+3 Laps,,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-silverstone,British Grand Prix,217.207,kph,8,17,1:25.207,19,8,,0.0,19,R,8,Oil leak,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-silverstone,British Grand Prix,,,,,,15,1,,0.0,20,R,8,Accident,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-silverstone,British Grand Prix,,,,,,7,0,,0.0,21,R,8,Accident,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-silverstone,British Grand Prix,,,,,,17,0,,0.0,22,R,8,Accident,,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-montreal,Canadian Grand Prix,206.815,kph,22,2,1:15.911,1,70,5677308,10.0,1,1,9,Finished,1:34:37.308,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-montreal,Canadian Grand Prix,206.592,kph,68,3,1:15.993,5,70,5679408,8.0,2,2,9,Finished,+2.100,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-montreal,Canadian Grand Prix,207.006,kph,22,1,1:15.841,3,70,5686108,6.0,3,3,9,Finished,+8.800,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-montreal,Canadian Grand Prix,204.771,kph,49,4,1:16.669,2,70,5692908,5.0,4,4,9,Finished,+15.600,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-montreal,Canadian Grand Prix,203.078,kph,31,5,1:17.308,10,70,5702408,4.0,5,5,9,Finished,+25.100,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-montreal,Canadian Grand Prix,202.567,kph,15,8,1:17.503,4,69,,3.0,6,6,9,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-montreal,Canadian Grand Prix,202.695,kph,52,7,1:17.454,13,69,,2.0,7,7,9,+1 Lap,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-montreal,Canadian Grand Prix,202.264,kph,39,10,1:17.619,22,69,,1.0,8,8,9,+1 Lap,,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-montreal,Canadian Grand Prix,201.274,kph,21,13,1:18.001,8,69,,0.0,9,9,9,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-montreal,Canadian Grand Prix,202.002,kph,52,12,1:17.720,17,69,,0.0,10,10,9,+1 Lap,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-montreal,Canadian Grand Prix,202.377,kph,55,9,1:17.576,12,69,,0.0,11,11,9,+1 Lap,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-montreal,Canadian Grand Prix,202.041,kph,17,11,1:17.705,16,69,,0.0,12,12,9,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-montreal,Canadian Grand Prix,201.075,kph,50,14,1:18.078,15,68,,0.0,13,13,9,+2 Laps,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-montreal,Canadian Grand Prix,197.999,kph,5,18,1:19.291,18,66,,0.0,14,14,9,+4 Laps,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-montreal,Canadian Grand Prix,195.05,kph,40,19,1:20.490,20,64,,0.0,15,15,9,Accident,,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-montreal,Canadian Grand Prix,202.852,kph,29,6,1:17.394,11,58,,0.0,16,R,9,Accident,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-montreal,Canadian Grand Prix,199.251,kph,19,16,1:18.793,14,58,,0.0,17,R,9,Retired,,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-montreal,Canadian Grand Prix,200.012,kph,5,15,1:18.493,7,13,,0.0,18,R,9,Accident,,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-montreal,Canadian Grand Prix,198.012,kph,10,17,1:19.286,9,11,,0.0,19,R,9,Mechanical,,2006
+Super Aguri,super_aguri,Japanese,FMO,montagny,Franck Montagny,French,23,2006-montreal,Canadian Grand Prix,122.932,kph,2,20,2:07.709,21,2,,0.0,20,R,9,Engine,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-montreal,Canadian Grand Prix,,,,,,6,1,,0.0,21,R,9,Accident,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-montreal,Canadian Grand Prix,,,,,,19,0,,0.0,22,R,9,Accident,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-indianapolis,United States Grand Prix,207.527,kph,56,1,1:12.719,1,73,5675199,10.0,1,1,10,Finished,1:34:35.199,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-indianapolis,United States Grand Prix,206.859,kph,29,2,1:12.954,2,73,5683183,8.0,2,2,10,Finished,+7.984,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-indianapolis,United States Grand Prix,206.358,kph,28,3,1:13.131,3,73,5691794,6.0,3,3,10,Finished,+16.595,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-indianapolis,United States Grand Prix,205.969,kph,37,5,1:13.269,22,73,5698803,5.0,4,4,10,Finished,+23.604,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-indianapolis,United States Grand Prix,205.837,kph,72,6,1:13.316,5,73,5703609,4.0,5,5,10,Finished,+28.410,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-indianapolis,United States Grand Prix,205.012,kph,47,7,1:13.611,4,73,5711712,3.0,6,6,10,Finished,+36.513,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-indianapolis,United States Grand Prix,201.942,kph,33,11,1:14.730,17,72,,2.0,7,7,10,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-indianapolis,United States Grand Prix,203.149,kph,41,9,1:14.286,20,72,,1.0,8,8,10,+1 Lap,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-indianapolis,United States Grand Prix,202.005,kph,42,10,1:14.707,21,72,,0.0,9,9,10,+1 Lap,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-indianapolis,United States Grand Prix,206.093,kph,29,4,1:13.225,8,62,,0.0,10,R,10,+11 Laps,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-indianapolis,United States Grand Prix,201.94,kph,34,12,1:14.731,14,37,,0.0,11,R,10,Transmission,,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-indianapolis,United States Grand Prix,204.117,kph,19,8,1:13.934,6,23,,0.0,12,R,10,Engine,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-indianapolis,United States Grand Prix,183.958,kph,9,13,1:22.036,15,9,,0.0,13,R,10,Accident,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-indianapolis,United States Grand Prix,145.384,kph,6,14,1:43.802,18,6,,0.0,14,R,10,Accident,,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-indianapolis,United States Grand Prix,121.027,kph,2,15,2:04.692,7,3,,0.0,15,R,10,Accident,,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-indianapolis,United States Grand Prix,,,,,,9,0,,0.0,16,R,10,Accident,,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-indianapolis,United States Grand Prix,,,,,,10,0,,0.0,17,R,10,Accident,,2006
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,4,2006-indianapolis,United States Grand Prix,,,,,,11,0,,0.0,18,R,10,Accident,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-indianapolis,United States Grand Prix,,,,,,12,0,,0.0,19,R,10,Accident,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-indianapolis,United States Grand Prix,,,,,,13,0,,0.0,20,R,10,Accident,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-indianapolis,United States Grand Prix,,,,,,16,0,,0.0,21,R,10,Accident,,2006
+Super Aguri,super_aguri,Japanese,FMO,montagny,Franck Montagny,French,23,2006-indianapolis,United States Grand Prix,,,,,,19,0,,0.0,22,R,10,Accident,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-magny-cours,French Grand Prix,205.931,kph,46,1,1:17.111,1,70,5527803,10.0,1,1,11,Finished,1:32:07.803,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-magny-cours,French Grand Prix,204.186,kph,23,5,1:17.770,3,70,5537903,8.0,2,2,11,Finished,+10.100,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-magny-cours,French Grand Prix,205.851,kph,18,2,1:17.141,2,70,5550303,6.0,3,3,11,Finished,+22.500,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-magny-cours,French Grand Prix,204.084,kph,19,6,1:17.809,5,70,5555003,5.0,4,4,11,Finished,+27.200,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-magny-cours,French Grand Prix,204.325,kph,30,4,1:17.717,6,70,5560803,4.0,5,5,11,Finished,+33.000,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-magny-cours,French Grand Prix,203.435,kph,20,9,1:18.057,7,70,5573003,3.0,6,6,11,Finished,+45.200,2006
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,4,2006-magny-cours,French Grand Prix,204.568,kph,34,3,1:17.625,8,70,5577203,2.0,7,7,11,Finished,+49.400,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-magny-cours,French Grand Prix,201.494,kph,48,14,1:18.809,11,69,,1.0,8,8,11,+1 Lap,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-magny-cours,French Grand Prix,201.063,kph,56,17,1:18.978,9,69,,0.0,9,9,11,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-magny-cours,French Grand Prix,201.84,kph,66,12,1:18.674,14,69,,0.0,10,10,11,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-magny-cours,French Grand Prix,203.83,kph,56,7,1:17.906,16,69,,0.0,11,11,11,+1 Lap,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-magny-cours,French Grand Prix,201.089,kph,56,16,1:18.968,12,69,,0.0,12,12,11,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-magny-cours,French Grand Prix,202.957,kph,54,10,1:18.241,22,69,,0.0,13,13,11,+1 Lap,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-magny-cours,French Grand Prix,201.527,kph,62,13,1:18.796,18,68,,0.0,14,14,11,+2 Laps,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-magny-cours,French Grand Prix,200.105,kph,67,18,1:19.356,15,68,,0.0,15,15,11,+2 Laps,,2006
+Super Aguri,super_aguri,Japanese,FMO,montagny,Franck Montagny,French,23,2006-magny-cours,French Grand Prix,198.215,kph,53,20,1:20.113,20,67,,0.0,16,16,11,+3 Laps,,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-magny-cours,French Grand Prix,202.262,kph,47,11,1:18.510,17,61,,0.0,17,R,11,Technical,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-magny-cours,French Grand Prix,201.366,kph,34,15,1:18.859,10,55,,0.0,18,R,11,Wheel rim,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-magny-cours,French Grand Prix,203.49,kph,16,8,1:18.036,4,39,,0.0,19,R,11,Brakes,,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-magny-cours,French Grand Prix,198.262,kph,16,19,1:20.094,13,28,,0.0,20,R,11,Engine,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-magny-cours,French Grand Prix,194.452,kph,8,21,1:21.663,19,11,,0.0,21,R,11,Mechanical,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-magny-cours,French Grand Prix,,,,,,21,0,,0.0,22,R,11,Transmission,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-hockenheim,German Grand Prix,215.65,kph,17,1,1:16.357,2,67,5271693,10.0,1,1,12,Finished,1:27:51.693,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-hockenheim,German Grand Prix,215.551,kph,18,2,1:16.392,3,67,5272393,8.0,2,2,12,Finished,+0.700,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-hockenheim,German Grand Prix,215.317,kph,4,3,1:16.475,1,67,5284893,6.0,3,3,12,Finished,+13.200,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-hockenheim,German Grand Prix,214.356,kph,14,7,1:16.818,4,67,5290493,5.0,4,4,12,Finished,+18.800,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-hockenheim,German Grand Prix,213.14,kph,66,9,1:17.256,7,67,5295393,4.0,5,5,12,Finished,+23.700,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-hockenheim,German Grand Prix,213.902,kph,18,8,1:16.981,5,67,5296493,3.0,6,6,12,Finished,+24.800,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-hockenheim,German Grand Prix,214.386,kph,48,5,1:16.807,20,67,5298193,2.0,7,7,12,Finished,+26.500,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-hockenheim,German Grand Prix,211.87,kph,49,12,1:17.719,12,67,5319793,1.0,8,8,12,Finished,+48.100,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-hockenheim,German Grand Prix,214.509,kph,64,4,1:16.763,8,67,5331993,0.0,9,9,12,Finished,+1:00.300,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-hockenheim,German Grand Prix,212.724,kph,51,10,1:17.407,16,66,,0.0,10,10,12,+1 Lap,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-hockenheim,German Grand Prix,211.62,kph,24,13,1:17.811,10,66,,0.0,11,11,12,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-hockenheim,German Grand Prix,212.606,kph,50,11,1:17.450,19,66,,0.0,12,12,12,+1 Lap,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-hockenheim,German Grand Prix,214.372,kph,43,6,1:16.812,11,59,,0.0,13,R,12,Water leak,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-hockenheim,German Grand Prix,207.351,kph,26,19,1:19.413,17,38,,0.0,14,R,12,Gearbox,,2006
+BMW Sauber,bmw_sauber,German,VIL,villeneuve,Jacques Villeneuve,Canadian,17,2006-hockenheim,German Grand Prix,208.689,kph,29,17,1:18.904,13,30,,0.0,15,R,12,Accident,,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-hockenheim,German Grand Prix,211.029,kph,16,14,1:18.029,6,18,,0.0,16,R,12,Engine,,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-hockenheim,German Grand Prix,207.741,kph,3,18,1:19.264,15,9,,0.0,17,R,12,Brakes,,2006
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,4,2006-hockenheim,German Grand Prix,206.737,kph,2,20,1:19.649,9,2,,0.0,18,R,12,Fuel pump,,2006
+Super Aguri,super_aguri,Japanese,YAM,yamamoto,Sakon Yamamoto,Japanese,23,2006-hockenheim,German Grand Prix,,,,,,22,1,,0.0,19,R,12,Driveshaft,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-hockenheim,German Grand Prix,,,,,,14,0,,0.0,20,R,12,Accident,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-hockenheim,German Grand Prix,210.441,kph,35,15,1:18.247,21,66,,0.0,21,D,12,Disqualified,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-hockenheim,German Grand Prix,209.182,kph,46,16,1:18.718,18,66,,0.0,22,D,12,Disqualified,,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-budapest,Hungarian Grand Prix,185.236,kph,57,4,1:25.143,14,70,6740941,10.0,1,1,13,Finished,1:52:20.941,2006
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,4,2006-budapest,Hungarian Grand Prix,187.055,kph,67,2,1:24.315,4,70,6771778,8.0,2,2,13,Finished,+30.837,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-budapest,Hungarian Grand Prix,183.816,kph,65,7,1:25.801,10,70,6784763,6.0,3,3,13,Finished,+43.822,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-budapest,Hungarian Grand Prix,186.253,kph,69,3,1:24.678,3,70,6786146,5.0,4,4,13,Finished,+45.205,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-budapest,Hungarian Grand Prix,180.098,kph,65,10,1:27.572,12,69,,4.0,5,5,13,+1 Lap,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-budapest,Hungarian Grand Prix,185.01,kph,65,5,1:25.247,6,69,,3.0,6,6,13,+1 Lap,,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-budapest,Hungarian Grand Prix,188.845,kph,65,1,1:23.516,2,69,,2.0,7,7,13,+1 Lap,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-budapest,Hungarian Grand Prix,179.561,kph,57,11,1:27.834,11,67,,1.0,8,8,13,Track rod,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-budapest,Hungarian Grand Prix,178.86,kph,66,13,1:28.178,16,67,,0.0,9,9,13,+3 Laps,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-budapest,Hungarian Grand Prix,183.141,kph,67,8,1:26.117,22,67,,0.0,10,10,13,+3 Laps,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-budapest,Hungarian Grand Prix,182.861,kph,66,9,1:26.249,20,66,,0.0,11,11,13,+4 Laps,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-budapest,Hungarian Grand Prix,183.863,kph,58,6,1:25.779,8,65,,0.0,12,12,13,Engine,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-budapest,Hungarian Grand Prix,173.396,kph,53,15,1:30.957,19,65,,0.0,13,13,13,+5 Laps,,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-budapest,Hungarian Grand Prix,176.4,kph,50,14,1:29.408,15,51,,0.0,14,R,13,Driveshaft,,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-budapest,Hungarian Grand Prix,168.338,kph,7,16,1:33.690,1,25,,0.0,15,R,13,Collision,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-budapest,Hungarian Grand Prix,159.537,kph,8,19,1:38.858,17,25,,0.0,16,R,13,Collision,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-budapest,Hungarian Grand Prix,159.367,kph,9,20,1:38.964,18,19,,0.0,17,R,13,Electrical,,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-budapest,Hungarian Grand Prix,165.061,kph,9,17,1:35.550,7,18,,0.0,18,R,13,Spun off,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-budapest,Hungarian Grand Prix,159.79,kph,6,18,1:38.702,13,6,,0.0,19,R,13,Spun off,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-budapest,Hungarian Grand Prix,,,,,,5,1,,0.0,20,R,13,Accident,,2006
+Super Aguri,super_aguri,Japanese,YAM,yamamoto,Sakon Yamamoto,Japanese,23,2006-budapest,Hungarian Grand Prix,,,,,,21,0,,0.0,21,R,13,Engine,,2006
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2006-budapest,Hungarian Grand Prix,178.909,kph,55,12,1:28.154,9,69,,0.0,22,D,13,Disqualified,,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-istanbul,Turkish Grand Prix,218.067,kph,38,2,1:28.123,1,58,5331082,10.0,1,1,14,Finished,1:28:51.082,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-istanbul,Turkish Grand Prix,217.766,kph,38,3,1:28.245,3,58,5336657,8.0,2,2,14,Finished,+5.575,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-istanbul,Turkish Grand Prix,218.36,kph,55,1,1:28.005,2,58,5336738,6.0,3,3,14,Finished,+5.656,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-istanbul,Turkish Grand Prix,217.202,kph,58,4,1:28.474,6,58,5343416,5.0,4,4,14,Finished,+12.334,2006
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,4,2006-istanbul,Turkish Grand Prix,216.018,kph,54,7,1:28.959,11,58,5376990,4.0,5,5,14,Finished,+45.908,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-istanbul,Turkish Grand Prix,217.026,kph,29,5,1:28.546,4,58,5377676,3.0,6,6,14,Finished,+46.594,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-istanbul,Turkish Grand Prix,215.715,kph,58,8,1:29.084,15,58,5390419,2.0,7,7,14,Finished,+59.337,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-istanbul,Turkish Grand Prix,216.568,kph,26,6,1:28.733,13,58,5391116,1.0,8,8,14,Finished,+1:00.034,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-istanbul,Turkish Grand Prix,213.406,kph,24,13,1:30.048,12,57,,0.0,9,9,14,+1 Lap,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-istanbul,Turkish Grand Prix,213.311,kph,50,15,1:30.088,9,57,,0.0,10,10,14,+1 Lap,,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-istanbul,Turkish Grand Prix,213.46,kph,26,11,1:30.025,10,57,,0.0,11,11,14,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2006-istanbul,Turkish Grand Prix,214.179,kph,34,9,1:29.723,8,57,,0.0,12,12,14,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-istanbul,Turkish Grand Prix,213.679,kph,43,10,1:29.933,17,57,,0.0,13,13,14,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-istanbul,Turkish Grand Prix,212.728,kph,56,16,1:30.335,5,56,,0.0,14,14,14,+2 Laps,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-istanbul,Turkish Grand Prix,213.458,kph,24,12,1:30.026,16,55,,0.0,15,15,14,Gearbox,,2006
+MF1,mf1,Russian,ALB,albers,Christijan Albers,Dutch,19,2006-istanbul,Turkish Grand Prix,212.568,kph,35,17,1:30.403,22,46,,0.0,16,R,14,Spun off,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-istanbul,Turkish Grand Prix,209.301,kph,33,18,1:31.814,21,41,,0.0,17,R,14,+17 Laps,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-istanbul,Turkish Grand Prix,213.351,kph,21,14,1:30.071,14,25,,0.0,18,R,14,Water leak,,2006
+Super Aguri,super_aguri,Japanese,YAM,yamamoto,Sakon Yamamoto,Japanese,23,2006-istanbul,Turkish Grand Prix,208.115,kph,12,20,1:32.337,20,23,,0.0,19,R,14,Spun off,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-istanbul,Turkish Grand Prix,208.542,kph,12,19,1:32.148,18,12,,0.0,20,R,14,Spun off,,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-istanbul,Turkish Grand Prix,,,,,,7,1,,0.0,21,R,14,Collision,,2006
+MF1,mf1,Russian,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-istanbul,Turkish Grand Prix,,,,,,19,0,,0.0,22,R,14,Collision,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-monza,Italian Grand Prix,252.555,kph,14,2,1:22.575,2,53,4491975,10.0,1,1,15,Finished,1:14:51.975,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-monza,Italian Grand Prix,252.604,kph,13,1,1:22.559,1,53,4500021,8.0,2,2,15,Finished,+8.046,2006
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2006-monza,Italian Grand Prix,250.927,kph,21,4,1:23.111,6,53,4518389,6.0,3,3,15,Finished,+26.414,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-monza,Italian Grand Prix,249.408,kph,25,8,1:23.617,9,53,4524020,5.0,4,4,15,Finished,+32.045,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-monza,Italian Grand Prix,249.704,kph,51,7,1:23.518,5,53,4524660,4.0,5,5,15,Finished,+32.685,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-monza,Italian Grand Prix,248.881,kph,27,10,1:23.794,8,53,4534384,3.0,6,6,15,Finished,+42.409,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-monza,Italian Grand Prix,248.659,kph,25,11,1:23.869,11,53,4536637,2.0,7,7,15,Finished,+44.662,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-monza,Italian Grand Prix,250.375,kph,20,6,1:23.294,3,53,4537284,1.0,8,8,15,Finished,+45.309,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-monza,Italian Grand Prix,251.253,kph,41,3,1:23.003,4,53,4537970,0.0,9,9,15,Finished,+45.995,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-monza,Italian Grand Prix,247.69,kph,27,12,1:24.197,19,53,4564577,0.0,10,10,15,Finished,+1:12.602,2006
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2006-monza,Italian Grand Prix,246.595,kph,37,13,1:24.571,16,52,,0.0,11,11,15,+1 Lap,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-monza,Italian Grand Prix,245.396,kph,51,17,1:24.984,14,52,,0.0,12,12,15,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-monza,Italian Grand Prix,245.079,kph,50,18,1:25.094,15,52,,0.0,13,13,15,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-monza,Italian Grand Prix,246.033,kph,52,14,1:24.764,17,52,,0.0,14,14,15,+1 Lap,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-monza,Italian Grand Prix,245.821,kph,41,16,1:24.837,13,52,,0.0,15,15,15,+1 Lap,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-monza,Italian Grand Prix,243.414,kph,15,21,1:25.676,21,51,,0.0,16,16,15,+2 Laps,,2006
+Spyker MF1,spyker_mf1,Dutch,ALB,albers,Christijan Albers,Dutch,19,2006-monza,Italian Grand Prix,243.932,kph,17,20,1:25.494,18,51,,0.0,17,17,15,+2 Laps,,2006
+Spyker MF1,spyker_mf1,Dutch,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-monza,Italian Grand Prix,245.865,kph,27,15,1:24.822,20,44,,0.0,18,R,15,Brakes,,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-monza,Italian Grand Prix,250.896,kph,38,5,1:23.121,10,43,,0.0,19,R,15,Engine,,2006
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,4,2006-monza,Italian Grand Prix,249.155,kph,8,9,1:23.702,7,20,,0.0,20,R,15,Engine,,2006
+Super Aguri,super_aguri,Japanese,YAM,yamamoto,Sakon Yamamoto,Japanese,23,2006-monza,Italian Grand Prix,240.962,kph,15,22,1:26.548,22,18,,0.0,21,R,15,Hydraulics,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-monza,Italian Grand Prix,244.31,kph,8,19,1:25.362,12,9,,0.0,22,R,15,Driveshaft,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-shanghai,Chinese Grand Prix,199.117,kph,50,2,1:38.553,6,56,5852747,10.0,1,1,16,Finished,1:37:32.747,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-shanghai,Chinese Grand Prix,201.09,kph,49,1,1:37.586,1,56,5855868,8.0,2,2,16,Finished,+3.121,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-shanghai,Chinese Grand Prix,197.555,kph,53,6,1:39.332,2,56,5896944,6.0,3,3,16,Finished,+44.197,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-shanghai,Chinese Grand Prix,197.806,kph,51,5,1:39.206,4,56,5924803,5.0,4,4,16,Finished,+1:12.056,2006
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,4,2006-shanghai,Chinese Grand Prix,197.92,kph,45,3,1:39.149,7,56,5929884,4.0,5,5,16,Finished,+1:17.137,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-shanghai,Chinese Grand Prix,196.729,kph,52,9,1:39.749,3,56,5931878,3.0,6,6,16,Finished,+1:19.131,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-shanghai,Chinese Grand Prix,197.89,kph,53,4,1:39.164,8,56,5944726,2.0,7,7,16,Finished,+1:31.979,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-shanghai,Chinese Grand Prix,196.418,kph,44,12,1:39.907,14,56,5956335,1.0,8,8,16,Finished,+1:43.588,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-shanghai,Chinese Grand Prix,195.164,kph,52,15,1:40.549,12,56,5956543,0.0,9,9,16,Finished,+1:43.796,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-shanghai,Chinese Grand Prix,192.936,kph,53,18,1:41.710,13,55,,0.0,10,10,16,+1 Lap,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-shanghai,Chinese Grand Prix,195.316,kph,52,14,1:40.471,15,55,,0.0,11,11,16,+1 Lap,,2006
+Red Bull,red_bull,Austrian,DOO,doornbos,Robert Doornbos,Dutch,15,2006-shanghai,Chinese Grand Prix,196.627,kph,52,10,1:39.801,10,55,,0.0,12,12,16,+1 Lap,,2006
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2006-shanghai,Chinese Grand Prix,195.857,kph,51,13,1:40.193,9,55,,0.0,13,13,16,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-shanghai,Chinese Grand Prix,196.863,kph,49,8,1:39.681,11,55,,0.0,14,14,16,+1 Lap,,2006
+Spyker MF1,spyker_mf1,Dutch,ALB,albers,Christijan Albers,Dutch,19,2006-shanghai,Chinese Grand Prix,193.368,kph,50,17,1:41.483,22,53,,0.0,15,15,16,+3 Laps,,2006
+Super Aguri,super_aguri,Japanese,YAM,yamamoto,Sakon Yamamoto,Japanese,23,2006-shanghai,Chinese Grand Prix,192.677,kph,42,19,1:41.847,19,52,,0.0,16,16,16,+4 Laps,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-shanghai,Chinese Grand Prix,196.583,kph,47,11,1:39.823,16,49,,0.0,17,R,16,Oil pressure,,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-shanghai,Chinese Grand Prix,197.426,kph,42,7,1:39.397,20,44,,0.0,18,R,16,Collision,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-shanghai,Chinese Grand Prix,187.271,kph,24,21,1:44.787,17,38,,0.0,19,R,16,Pneumatics,,2006
+Spyker MF1,spyker_mf1,Dutch,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-shanghai,Chinese Grand Prix,186.259,kph,35,22,1:45.356,18,37,,0.0,20,R,16,Spun off,,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-shanghai,Chinese Grand Prix,188.518,kph,14,20,1:44.094,5,18,,0.0,21,R,16,Throttle,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-shanghai,Chinese Grand Prix,194.57,kph,48,16,1:40.856,21,55,,0.0,22,D,16,Disqualified,,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-suzuka,Japanese Grand Prix,225.572,kph,14,1,1:32.676,5,53,5032413,10.0,1,1,17,Finished,1:23:52.413,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-suzuka,Japanese Grand Prix,224.073,kph,37,3,1:33.296,1,53,5048564,8.0,2,2,17,Finished,+16.151,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-suzuka,Japanese Grand Prix,223.432,kph,13,7,1:33.564,6,53,5056366,6.0,3,3,17,Finished,+23.953,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-suzuka,Japanese Grand Prix,223.702,kph,35,5,1:33.451,7,53,5066514,5.0,4,4,17,Finished,+34.101,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-suzuka,Japanese Grand Prix,223.958,kph,24,4,1:33.344,11,53,5076009,4.0,5,5,17,Finished,+43.596,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-suzuka,Japanese Grand Prix,222.713,kph,2,9,1:33.866,4,53,5079130,3.0,6,6,17,Finished,+46.717,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-suzuka,Japanese Grand Prix,223.329,kph,2,8,1:33.607,3,53,5081282,2.0,7,7,17,Finished,+48.869,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-suzuka,Japanese Grand Prix,221.16,kph,31,13,1:34.525,9,53,5108508,1.0,8,8,17,Finished,+1:16.095,2006
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2006-suzuka,Japanese Grand Prix,223.563,kph,39,6,1:33.509,12,53,5109345,0.0,9,9,17,Finished,+1:16.932,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-suzuka,Japanese Grand Prix,220.514,kph,33,15,1:34.802,10,52,,0.0,10,10,17,+1 Lap,,2006
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,4,2006-suzuka,Japanese Grand Prix,222.112,kph,22,11,1:34.120,13,52,,0.0,11,11,17,+1 Lap,,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-suzuka,Japanese Grand Prix,222.227,kph,40,10,1:34.071,8,52,,0.0,12,12,17,+1 Lap,,2006
+Red Bull,red_bull,Austrian,DOO,doornbos,Robert Doornbos,Dutch,15,2006-suzuka,Japanese Grand Prix,219.825,kph,37,19,1:35.099,18,52,,0.0,13,13,17,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-suzuka,Japanese Grand Prix,222.086,kph,22,12,1:34.131,15,52,,0.0,14,14,17,+1 Lap,,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-suzuka,Japanese Grand Prix,219.864,kph,26,17,1:35.082,20,52,,0.0,15,15,17,+1 Lap,,2006
+Spyker MF1,spyker_mf1,Dutch,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-suzuka,Japanese Grand Prix,219.454,kph,27,20,1:35.260,21,51,,0.0,16,16,17,+2 Laps,,2006
+Super Aguri,super_aguri,Japanese,YAM,yamamoto,Sakon Yamamoto,Japanese,23,2006-suzuka,Japanese Grand Prix,218.687,kph,22,21,1:35.594,22,50,,0.0,17,17,17,+3 Laps,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-suzuka,Japanese Grand Prix,221.078,kph,37,14,1:34.560,19,48,,0.0,18,18,17,Steering,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-suzuka,Japanese Grand Prix,219.841,kph,19,18,1:35.092,14,39,,0.0,19,R,17,Accident,,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-suzuka,Japanese Grand Prix,225.29,kph,32,2,1:32.792,2,36,,0.0,20,R,17,Engine,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-suzuka,Japanese Grand Prix,219.934,kph,20,16,1:35.052,17,35,,0.0,21,R,17,Gearbox,,2006
+Spyker MF1,spyker_mf1,Dutch,ALB,albers,Christijan Albers,Dutch,19,2006-suzuka,Japanese Grand Prix,217.68,kph,19,22,1:36.036,16,20,,0.0,22,R,17,Driveshaft,,2006
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2006-s-o-paulo,Brazilian Grand Prix,212.857,kph,23,2,1:12.877,1,71,5513751,10.0,1,1,18,Finished,1:31:53.751,2006
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2006-s-o-paulo,Brazilian Grand Prix,212.612,kph,70,3,1:12.961,4,71,5532409,8.0,2,2,18,Finished,+18.658,2006
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2006-s-o-paulo,Brazilian Grand Prix,212.344,kph,71,4,1:13.053,14,71,5533145,6.0,3,3,18,Finished,+19.394,2006
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,2006-s-o-paulo,Brazilian Grand Prix,214.966,kph,70,1,1:12.162,10,71,5537845,5.0,4,4,18,Finished,+24.094,2006
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2006-s-o-paulo,Brazilian Grand Prix,211.683,kph,58,6,1:13.281,2,71,5542254,4.0,5,5,18,Finished,+28.503,2006
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,2,2006-s-o-paulo,Brazilian Grand Prix,212.146,kph,70,5,1:13.121,6,71,5544038,3.0,6,6,18,Finished,+30.287,2006
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,11,2006-s-o-paulo,Brazilian Grand Prix,211.366,kph,48,8,1:13.391,5,71,5554045,2.0,7,7,18,Finished,+40.294,2006
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,4,2006-s-o-paulo,Brazilian Grand Prix,210.146,kph,63,12,1:13.817,12,71,5565819,1.0,8,8,18,Finished,+52.068,2006
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2006-s-o-paulo,Brazilian Grand Prix,209.296,kph,25,14,1:14.117,9,71,5581393,0.0,9,9,18,Finished,+1:07.642,2006
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2006-s-o-paulo,Brazilian Grand Prix,211.337,kph,47,9,1:13.401,19,70,,0.0,10,10,18,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,21,2006-s-o-paulo,Brazilian Grand Prix,210.018,kph,69,13,1:13.862,16,70,,0.0,11,11,18,+1 Lap,,2006
+Red Bull,red_bull,Austrian,DOO,doornbos,Robert Doornbos,Dutch,15,2006-s-o-paulo,Brazilian Grand Prix,210.48,kph,62,11,1:13.700,22,70,,0.0,12,12,18,+1 Lap,,2006
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,20,2006-s-o-paulo,Brazilian Grand Prix,210.517,kph,69,10,1:13.687,15,70,,0.0,13,13,18,+1 Lap,,2006
+Spyker MF1,spyker_mf1,Dutch,ALB,albers,Christijan Albers,Dutch,19,2006-s-o-paulo,Brazilian Grand Prix,207.966,kph,61,17,1:14.591,17,70,,0.0,14,14,18,+1 Lap,,2006
+Spyker MF1,spyker_mf1,Dutch,TMO,monteiro,Tiago Monteiro,Portuguese,18,2006-s-o-paulo,Brazilian Grand Prix,208.471,kph,38,16,1:14.410,21,69,,0.0,15,15,18,+2 Laps,,2006
+Super Aguri,super_aguri,Japanese,YAM,yamamoto,Sakon Yamamoto,Japanese,23,2006-s-o-paulo,Brazilian Grand Prix,211.401,kph,67,7,1:13.379,20,69,,0.0,16,16,18,+2 Laps,,2006
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,16,2006-s-o-paulo,Brazilian Grand Prix,209.166,kph,18,15,1:14.163,8,63,,0.0,17,17,18,Accident,,2006
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2006-s-o-paulo,Brazilian Grand Prix,203.989,kph,12,19,1:16.045,18,14,,0.0,18,R,18,Gearbox,,2006
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,8,2006-s-o-paulo,Brazilian Grand Prix,207.157,kph,9,18,1:14.882,3,10,,0.0,19,R,18,Suspension,,2006
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,7,2006-s-o-paulo,Brazilian Grand Prix,201.892,kph,8,20,1:16.835,7,9,,0.0,20,R,18,Suspension,,2006
+Williams,williams,British,WEB,webber,Mark Webber,Australian,9,2006-s-o-paulo,Brazilian Grand Prix,,,,,,11,1,,0.0,21,R,18,Collision,,2006
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2006-s-o-paulo,Brazilian Grand Prix,,,,,,13,0,,0.0,22,R,18,Collision,,2006

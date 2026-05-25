@@ -1,0 +1,366 @@
+[
+  {
+    "year": 2019,
+    "position": 1,
+    "position_text": "1",
+    "points": 413.0,
+    "wins": 11,
+    "driver_id": "hamilton",
+    "driver_code": "HAM",
+    "driver_number": "44",
+    "driver_name": "Lewis Hamilton",
+    "driver_nationality": "British",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 2,
+    "position_text": "2",
+    "points": 326.0,
+    "wins": 4,
+    "driver_id": "bottas",
+    "driver_code": "BOT",
+    "driver_number": "77",
+    "driver_name": "Valtteri Bottas",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 3,
+    "position_text": "3",
+    "points": 278.0,
+    "wins": 3,
+    "driver_id": "max_verstappen",
+    "driver_code": "VER",
+    "driver_number": "3",
+    "driver_name": "Max Verstappen",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "red_bull"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 4,
+    "position_text": "4",
+    "points": 264.0,
+    "wins": 2,
+    "driver_id": "leclerc",
+    "driver_code": "LEC",
+    "driver_number": "16",
+    "driver_name": "Charles Leclerc",
+    "driver_nationality": "Monegasque",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 5,
+    "position_text": "5",
+    "points": 240.0,
+    "wins": 1,
+    "driver_id": "vettel",
+    "driver_code": "VET",
+    "driver_number": "5",
+    "driver_name": "Sebastian Vettel",
+    "driver_nationality": "German",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 6,
+    "position_text": "6",
+    "points": 96.0,
+    "wins": 0,
+    "driver_id": "sainz",
+    "driver_code": "SAI",
+    "driver_number": "55",
+    "driver_name": "Carlos Sainz",
+    "driver_nationality": "Spanish",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 7,
+    "position_text": "7",
+    "points": 95.0,
+    "wins": 0,
+    "driver_id": "gasly",
+    "driver_code": "GAS",
+    "driver_number": "10",
+    "driver_name": "Pierre Gasly",
+    "driver_nationality": "French",
+    "constructors": [
+      "Red Bull",
+      "Toro Rosso"
+    ],
+    "constructor_ids": [
+      "red_bull",
+      "toro_rosso"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 8,
+    "position_text": "8",
+    "points": 92.0,
+    "wins": 0,
+    "driver_id": "albon",
+    "driver_code": "ALB",
+    "driver_number": "23",
+    "driver_name": "Alexander Albon",
+    "driver_nationality": "Thai",
+    "constructors": [
+      "Toro Rosso",
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "toro_rosso",
+      "red_bull"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 9,
+    "position_text": "9",
+    "points": 54.0,
+    "wins": 0,
+    "driver_id": "ricciardo",
+    "driver_code": "RIC",
+    "driver_number": "3",
+    "driver_name": "Daniel Ricciardo",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Renault"
+    ],
+    "constructor_ids": [
+      "renault"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 10,
+    "position_text": "10",
+    "points": 52.0,
+    "wins": 0,
+    "driver_id": "perez",
+    "driver_code": "PER",
+    "driver_number": "11",
+    "driver_name": "Sergio P\u00e9rez",
+    "driver_nationality": "Mexican",
+    "constructors": [
+      "Racing Point"
+    ],
+    "constructor_ids": [
+      "racing_point"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 11,
+    "position_text": "11",
+    "points": 49.0,
+    "wins": 0,
+    "driver_id": "norris",
+    "driver_code": "NOR",
+    "driver_number": "1",
+    "driver_name": "Lando Norris",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 12,
+    "position_text": "12",
+    "points": 43.0,
+    "wins": 0,
+    "driver_id": "raikkonen",
+    "driver_code": "RAI",
+    "driver_number": "7",
+    "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Alfa Romeo"
+    ],
+    "constructor_ids": [
+      "alfa"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 13,
+    "position_text": "13",
+    "points": 37.0,
+    "wins": 0,
+    "driver_id": "kvyat",
+    "driver_code": "KVY",
+    "driver_number": "26",
+    "driver_name": "Daniil Kvyat",
+    "driver_nationality": "Russian",
+    "constructors": [
+      "Toro Rosso"
+    ],
+    "constructor_ids": [
+      "toro_rosso"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 14,
+    "position_text": "14",
+    "points": 37.0,
+    "wins": 0,
+    "driver_id": "hulkenberg",
+    "driver_code": "HUL",
+    "driver_number": "27",
+    "driver_name": "Nico H\u00fclkenberg",
+    "driver_nationality": "German",
+    "constructors": [
+      "Renault"
+    ],
+    "constructor_ids": [
+      "renault"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 15,
+    "position_text": "15",
+    "points": 21.0,
+    "wins": 0,
+    "driver_id": "stroll",
+    "driver_code": "STR",
+    "driver_number": "18",
+    "driver_name": "Lance Stroll",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "Racing Point"
+    ],
+    "constructor_ids": [
+      "racing_point"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 16,
+    "position_text": "16",
+    "points": 20.0,
+    "wins": 0,
+    "driver_id": "kevin_magnussen",
+    "driver_code": "MAG",
+    "driver_number": "20",
+    "driver_name": "Kevin Magnussen",
+    "driver_nationality": "Danish",
+    "constructors": [
+      "Haas F1 Team"
+    ],
+    "constructor_ids": [
+      "haas"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 17,
+    "position_text": "17",
+    "points": 14.0,
+    "wins": 0,
+    "driver_id": "giovinazzi",
+    "driver_code": "GIO",
+    "driver_number": "99",
+    "driver_name": "Antonio Giovinazzi",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Alfa Romeo"
+    ],
+    "constructor_ids": [
+      "alfa"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 18,
+    "position_text": "18",
+    "points": 8.0,
+    "wins": 0,
+    "driver_id": "grosjean",
+    "driver_code": "GRO",
+    "driver_number": "8",
+    "driver_name": "Romain Grosjean",
+    "driver_nationality": "French",
+    "constructors": [
+      "Haas F1 Team"
+    ],
+    "constructor_ids": [
+      "haas"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 19,
+    "position_text": "19",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "kubica",
+    "driver_code": "KUB",
+    "driver_number": "88",
+    "driver_name": "Robert Kubica",
+    "driver_nationality": "Polish",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 20,
+    "position_text": "20",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "russell",
+    "driver_code": "RUS",
+    "driver_number": "63",
+    "driver_name": "George Russell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  }
+]

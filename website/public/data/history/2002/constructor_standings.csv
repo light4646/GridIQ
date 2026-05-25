@@ -1,0 +1,12 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,221.0,1,1,15,2002
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,92.0,2,2,1,2002
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,65.0,3,3,1,2002
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,23.0,4,4,0,2002
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,11.0,5,5,0,2002
+Jordan,jordan,Irish,https://en.wikipedia.org/wiki/Jordan_Grand_Prix,9.0,6,6,0,2002
+Jaguar,jaguar,British,https://en.wikipedia.org/wiki/Jaguar_Racing,8.0,7,7,0,2002
+BAR,bar,British,https://en.wikipedia.org/wiki/British_American_Racing,7.0,8,8,0,2002
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,2.0,9,9,0,2002
+Toyota,toyota,Japanese,https://en.wikipedia.org/wiki/Toyota_Racing,2.0,10,10,0,2002
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,2.0,11,11,0,2002

@@ -1,0 +1,24 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mercedes""]","[""Mercedes""]",HAM,hamilton,Lewis Hamilton,British,44,347.0,1,1,11,2020
+"[""mercedes""]","[""Mercedes""]",BOT,bottas,Valtteri Bottas,Finnish,77,223.0,2,2,2,2020
+"[""red_bull""]","[""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,214.0,3,3,2,2020
+"[""racing_point""]","[""Racing Point""]",PER,perez,Sergio Pérez,Mexican,11,125.0,4,4,1,2020
+"[""renault""]","[""Renault""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,119.0,5,5,0,2020
+"[""mclaren""]","[""McLaren""]",SAI,sainz,Carlos Sainz,Spanish,55,105.0,6,6,0,2020
+"[""red_bull""]","[""Red Bull""]",ALB,albon,Alexander Albon,Thai,23,105.0,7,7,0,2020
+"[""ferrari""]","[""Ferrari""]",LEC,leclerc,Charles Leclerc,Monegasque,16,98.0,8,8,0,2020
+"[""mclaren""]","[""McLaren""]",NOR,norris,Lando Norris,British,1,97.0,9,9,0,2020
+"[""alphatauri""]","[""AlphaTauri""]",GAS,gasly,Pierre Gasly,French,10,75.0,10,10,1,2020
+"[""racing_point""]","[""Racing Point""]",STR,stroll,Lance Stroll,Canadian,18,75.0,11,11,0,2020
+"[""renault""]","[""Renault""]",OCO,ocon,Esteban Ocon,French,31,62.0,12,12,0,2020
+"[""ferrari""]","[""Ferrari""]",VET,vettel,Sebastian Vettel,German,5,33.0,13,13,0,2020
+"[""alphatauri""]","[""AlphaTauri""]",KVY,kvyat,Daniil Kvyat,Russian,26,32.0,14,14,0,2020
+"[""racing_point""]","[""Racing Point""]",HUL,hulkenberg,Nico Hülkenberg,German,27,10.0,15,15,0,2020
+"[""alfa""]","[""Alfa Romeo""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,4.0,16,16,0,2020
+"[""alfa""]","[""Alfa Romeo""]",GIO,giovinazzi,Antonio Giovinazzi,Italian,99,4.0,17,17,0,2020
+"[""williams"", ""mercedes""]","[""Williams"", ""Mercedes""]",RUS,russell,George Russell,British,63,3.0,18,18,0,2020
+"[""haas""]","[""Haas F1 Team""]",GRO,grosjean,Romain Grosjean,French,8,2.0,19,19,0,2020
+"[""haas""]","[""Haas F1 Team""]",MAG,kevin_magnussen,Kevin Magnussen,Danish,20,1.0,20,20,0,2020
+"[""williams""]","[""Williams""]",LAT,latifi,Nicholas Latifi,Canadian,6,0.0,21,21,0,2020
+"[""williams""]","[""Williams""]",AIT,aitken,Jack Aitken,British,89,0.0,22,22,0,2020
+"[""haas""]","[""Haas F1 Team""]",FIT,pietro_fittipaldi,Pietro Fittipaldi,Brazilian,51,0.0,23,23,0,2020

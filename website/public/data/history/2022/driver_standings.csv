@@ -1,0 +1,23 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""red_bull""]","[""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,454.0,1,1,15,2022
+"[""ferrari""]","[""Ferrari""]",LEC,leclerc,Charles Leclerc,Monegasque,16,308.0,2,2,3,2022
+"[""red_bull""]","[""Red Bull""]",PER,perez,Sergio Pérez,Mexican,11,305.0,3,3,2,2022
+"[""mercedes""]","[""Mercedes""]",RUS,russell,George Russell,British,63,275.0,4,4,1,2022
+"[""ferrari""]","[""Ferrari""]",SAI,sainz,Carlos Sainz,Spanish,55,246.0,5,5,1,2022
+"[""mercedes""]","[""Mercedes""]",HAM,hamilton,Lewis Hamilton,British,44,240.0,6,6,0,2022
+"[""mclaren""]","[""McLaren""]",NOR,norris,Lando Norris,British,1,122.0,7,7,0,2022
+"[""alpine""]","[""Alpine F1 Team""]",OCO,ocon,Esteban Ocon,French,31,92.0,8,8,0,2022
+"[""alpine""]","[""Alpine F1 Team""]",ALO,alonso,Fernando Alonso,Spanish,14,81.0,9,9,0,2022
+"[""alfa""]","[""Alfa Romeo""]",BOT,bottas,Valtteri Bottas,Finnish,77,49.0,10,10,0,2022
+"[""mclaren""]","[""McLaren""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,37.0,11,11,0,2022
+"[""aston_martin""]","[""Aston Martin""]",VET,vettel,Sebastian Vettel,German,5,37.0,12,12,0,2022
+"[""haas""]","[""Haas F1 Team""]",MAG,kevin_magnussen,Kevin Magnussen,Danish,20,25.0,13,13,0,2022
+"[""alphatauri""]","[""AlphaTauri""]",GAS,gasly,Pierre Gasly,French,10,23.0,14,14,0,2022
+"[""aston_martin""]","[""Aston Martin""]",STR,stroll,Lance Stroll,Canadian,18,18.0,15,15,0,2022
+"[""haas""]","[""Haas F1 Team""]",MSC,mick_schumacher,Mick Schumacher,German,47,12.0,16,16,0,2022
+"[""alphatauri""]","[""AlphaTauri""]",TSU,tsunoda,Yuki Tsunoda,Japanese,22,12.0,17,17,0,2022
+"[""alfa""]","[""Alfa Romeo""]",ZHO,zhou,Guanyu Zhou,Chinese,24,6.0,18,18,0,2022
+"[""williams""]","[""Williams""]",ALB,albon,Alexander Albon,Thai,23,4.0,19,19,0,2022
+"[""williams""]","[""Williams""]",LAT,latifi,Nicholas Latifi,Canadian,6,2.0,20,20,0,2022
+"[""williams""]","[""Williams""]",DEV,de_vries,Nyck de Vries,Dutch,21,2.0,21,21,0,2022
+"[""aston_martin""]","[""Aston Martin""]",HUL,hulkenberg,Nico Hülkenberg,German,27,0.0,22,22,0,2022

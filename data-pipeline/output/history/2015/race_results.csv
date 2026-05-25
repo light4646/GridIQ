@@ -1,0 +1,379 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-melbourne,Australian Grand Prix,209.915,kph,50,1,1:30.945,1,58,5514067,25.0,1,1,1,Finished,1:31:54.067,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-melbourne,Australian Grand Prix,209.577,kph,47,2,1:31.092,2,58,5515427,18.0,2,2,1,Finished,+1.360,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-melbourne,Australian Grand Prix,208.74,kph,52,4,1:31.457,4,58,5548590,15.0,3,3,1,Finished,+34.523,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-melbourne,Australian Grand Prix,208.144,kph,50,6,1:31.719,3,58,5552263,12.0,4,4,1,Finished,+38.196,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-melbourne,Australian Grand Prix,206.137,kph,46,9,1:32.612,10,58,5609216,10.0,5,5,1,Finished,+1:35.149,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-melbourne,Australian Grand Prix,205.726,kph,46,10,1:32.797,6,57,,8.0,6,6,1,+1 Lap,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-melbourne,Australian Grand Prix,207.576,kph,48,8,1:31.970,13,57,,6.0,7,7,1,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-melbourne,Australian Grand Prix,208.505,kph,51,5,1:31.560,15,57,,4.0,8,8,1,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-melbourne,Australian Grand Prix,205.56,kph,49,11,1:32.872,7,57,,2.0,9,9,1,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-melbourne,Australian Grand Prix,207.601,kph,46,7,1:31.959,14,57,,1.0,10,10,1,+1 Lap,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-melbourne,Australian Grand Prix,204.534,kph,56,12,1:33.338,16,56,,0.0,11,11,1,+2 Laps,,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-melbourne,Australian Grand Prix,208.811,kph,36,3,1:31.426,5,40,,0.0,12,R,1,Wheel,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-melbourne,Australian Grand Prix,202.458,kph,30,13,1:34.295,11,32,,0.0,13,R,1,Engine,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-melbourne,Australian Grand Prix,,,,,,8,0,,0.0,14,R,1,Power loss,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-melbourne,Australian Grand Prix,,,,,,9,0,,0.0,15,R,1,Accident,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-melbourne,Australian Grand Prix,,,,,,12,0,,0.0,16,W,1,Withdrew,,2015
+McLaren,mclaren,British,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2015-melbourne,Australian Grand Prix,,,,,,17,0,,0.0,17,W,1,Withdrew,,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-melbourne,Australian Grand Prix,,,,,,0,0,,0.0,18,W,1,Withdrew,,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-kuala-lumpur,Malaysian Grand Prix,193.501,kph,46,3,1:43.648,2,56,6065793,25.0,1,1,2,Finished,1:41:05.793,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-kuala-lumpur,Malaysian Grand Prix,193.501,kph,45,2,1:43.125,1,56,6074362,18.0,2,2,2,Finished,+8.569,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-kuala-lumpur,Malaysian Grand Prix,195.516,kph,43,1,1:42.062,3,56,6078103,15.0,3,3,2,Finished,+12.310,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-kuala-lumpur,Malaysian Grand Prix,191.644,kph,40,7,1:44.124,11,56,6119615,12.0,4,4,2,Finished,+53.822,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-kuala-lumpur,Malaysian Grand Prix,191.71,kph,42,6,1:44.088,8,56,6136202,10.0,5,5,2,Finished,+1:10.409,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-kuala-lumpur,Malaysian Grand Prix,191.891,kph,40,5,1:43.990,7,56,6139379,8.0,6,6,2,Finished,+1:13.586,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-kuala-lumpur,Malaysian Grand Prix,190.81,kph,42,9,1:44.579,6,56,6163555,6.0,7,7,2,Finished,+1:37.762,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-kuala-lumpur,Malaysian Grand Prix,189.132,kph,37,15,1:45.507,15,55,,4.0,8,8,2,+1 Lap,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-kuala-lumpur,Malaysian Grand Prix,190.929,kph,41,8,1:44.514,5,55,,2.0,9,9,2,+1 Lap,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-kuala-lumpur,Malaysian Grand Prix,189.482,kph,42,13,1:45.312,4,55,,1.0,10,10,2,+1 Lap,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-kuala-lumpur,Malaysian Grand Prix,190.386,kph,36,10,1:44.812,10,55,,0.0,11,11,2,+1 Lap,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-kuala-lumpur,Malaysian Grand Prix,192.054,kph,45,4,1:43.902,16,55,,0.0,12,12,2,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-kuala-lumpur,Malaysian Grand Prix,189.423,kph,37,14,1:45.345,14,55,,0.0,13,13,2,+1 Lap,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-kuala-lumpur,Malaysian Grand Prix,190.368,kph,46,11,1:44.822,13,55,,0.0,14,14,2,+1 Lap,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-kuala-lumpur,Malaysian Grand Prix,183.004,kph,44,19,1:49.040,19,53,,0.0,15,15,2,+3 Laps,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-kuala-lumpur,Malaysian Grand Prix,189.919,kph,38,12,1:45.070,12,47,,0.0,16,R,2,Retired,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-kuala-lumpur,Malaysian Grand Prix,188.153,kph,38,16,1:46.056,17,41,,0.0,17,R,2,Turbo,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-kuala-lumpur,Malaysian Grand Prix,183.983,kph,17,17,1:48.460,18,21,,0.0,18,R,2,ERS,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-kuala-lumpur,Malaysian Grand Prix,183.475,kph,3,18,1:48.760,9,3,,0.0,19,R,2,Spun off,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-kuala-lumpur,Malaysian Grand Prix,,,,,,0,0,,0.0,20,W,2,Fuel system,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-shanghai,Chinese Grand Prix,191.996,kph,31,1,1:42.208,1,56,5982008,25.0,1,1,3,Finished,1:39:42.008,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-shanghai,Chinese Grand Prix,191.328,kph,39,2,1:42.565,2,56,5982722,18.0,2,2,3,Finished,+0.714,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-shanghai,Chinese Grand Prix,190.487,kph,15,5,1:43.018,3,56,5984996,15.0,3,3,3,Finished,+2.988,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-shanghai,Chinese Grand Prix,190.472,kph,48,6,1:43.026,6,56,5985843,12.0,4,4,3,Finished,+3.835,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-shanghai,Chinese Grand Prix,191.013,kph,37,4,1:42.734,4,56,5990552,10.0,5,5,3,Finished,+8.544,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-shanghai,Chinese Grand Prix,190.426,kph,37,7,1:43.051,5,56,5991893,8.0,6,6,3,Finished,+9.885,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-shanghai,Chinese Grand Prix,190.272,kph,34,8,1:43.134,8,56,6001016,6.0,7,7,3,Finished,+19.008,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-shanghai,Chinese Grand Prix,189.248,kph,46,12,1:43.692,9,56,6004633,4.0,8,8,3,Finished,+22.625,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-shanghai,Chinese Grand Prix,190.068,kph,46,9,1:43.245,7,56,6014125,2.0,9,9,3,Finished,+32.117,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-shanghai,Chinese Grand Prix,188.319,kph,32,15,1:44.204,10,55,,1.0,10,10,3,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-shanghai,Chinese Grand Prix,189.578,kph,44,10,1:43.512,15,55,,0.0,11,11,3,+1 Lap,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-shanghai,Chinese Grand Prix,189.183,kph,40,13,1:43.728,18,55,,0.0,12,12,3,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-shanghai,Chinese Grand Prix,191.166,kph,41,3,1:42.652,14,55,,0.0,13,13,3,+1 Lap,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-shanghai,Chinese Grand Prix,186.907,kph,21,16,1:44.991,17,55,,0.0,14,14,3,+1 Lap,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-shanghai,Chinese Grand Prix,186.157,kph,40,17,1:45.414,19,54,,0.0,15,15,3,+2 Laps,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-shanghai,Chinese Grand Prix,185.192,kph,43,19,1:45.963,20,54,,0.0,16,16,3,+2 Laps,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-shanghai,Chinese Grand Prix,188.906,kph,46,14,1:43.880,13,52,,0.0,17,17,3,Transmission,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-shanghai,Chinese Grand Prix,189.259,kph,37,11,1:43.686,11,49,,0.0,18,R,3,Brakes,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-shanghai,Chinese Grand Prix,184.621,kph,13,20,1:46.291,12,15,,0.0,19,R,3,Power Unit,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-shanghai,Chinese Grand Prix,185.401,kph,6,18,1:45.844,16,9,,0.0,20,R,3,Gearbox,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-sakhir,Bahrain Grand Prix,199.098,kph,38,5,1:37.857,1,57,5705809,25.0,1,1,4,Finished,1:35:05.809,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-sakhir,Bahrain Grand Prix,202.294,kph,42,1,1:36.311,4,57,5709189,18.0,2,2,4,Finished,+3.380,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-sakhir,Bahrain Grand Prix,200.184,kph,36,3,1:37.326,3,57,5711842,15.0,3,3,4,Finished,+6.033,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-sakhir,Bahrain Grand Prix,198.615,kph,16,6,1:38.095,5,57,5748766,12.0,4,4,4,Finished,+42.957,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-sakhir,Bahrain Grand Prix,201.639,kph,38,2,1:36.624,2,57,5749798,10.0,5,5,4,Finished,+43.989,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-sakhir,Bahrain Grand Prix,196.903,kph,53,12,1:38.948,7,57,5767560,8.0,6,6,4,Finished,+1:01.751,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-sakhir,Bahrain Grand Prix,196.48,kph,34,15,1:39.161,10,57,5790572,6.0,7,7,4,Finished,+1:24.763,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-sakhir,Bahrain Grand Prix,198.124,kph,39,8,1:38.338,11,56,,4.0,8,8,4,+1 Lap,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-sakhir,Bahrain Grand Prix,197.348,kph,36,11,1:38.725,17,56,,2.0,9,9,4,+1 Lap,,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-sakhir,Bahrain Grand Prix,196.613,kph,12,14,1:39.094,6,56,,1.0,10,10,4,+1 Lap,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-sakhir,Bahrain Grand Prix,196.815,kph,38,13,1:38.992,14,56,,0.0,11,11,4,+1 Lap,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-sakhir,Bahrain Grand Prix,198.37,kph,43,7,1:38.216,12,56,,0.0,12,12,4,+1 Lap,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-sakhir,Bahrain Grand Prix,197.492,kph,40,10,1:38.653,8,56,,0.0,13,13,4,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-sakhir,Bahrain Grand Prix,197.955,kph,27,9,1:38.422,13,56,,0.0,14,14,4,+1 Lap,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-sakhir,Bahrain Grand Prix,199.49,kph,43,4,1:37.665,16,56,,0.0,15,15,4,+1 Lap,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-sakhir,Bahrain Grand Prix,191.464,kph,36,18,1:41.759,18,55,,0.0,16,16,4,+2 Laps,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-sakhir,Bahrain Grand Prix,190.949,kph,36,19,1:42.033,19,54,,0.0,17,17,4,+3 Laps,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-sakhir,Bahrain Grand Prix,195.6,kph,32,16,1:39.607,15,34,,0.0,18,R,4,Electrical,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-sakhir,Bahrain Grand Prix,193.571,kph,13,17,1:40.651,9,29,,0.0,19,R,4,Engine,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-sakhir,Bahrain Grand Prix,,,,,,20,0,,0.0,20,W,4,ERS,,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-barcelona,Spanish Grand Prix,188.061,kph,53,2,1:29.109,1,66,6072555,25.0,1,1,5,Finished,1:41:12.555,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-barcelona,Spanish Grand Prix,189.849,kph,54,1,1:28.270,2,66,6090106,18.0,2,2,5,Finished,+17.551,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-barcelona,Spanish Grand Prix,184.687,kph,61,6,1:30.737,3,66,6117897,15.0,3,3,5,Finished,+45.342,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-barcelona,Spanish Grand Prix,184.74,kph,44,5,1:30.711,4,66,6131772,12.0,4,4,5,Finished,+59.217,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-barcelona,Spanish Grand Prix,186.342,kph,47,3,1:29.931,7,66,6132557,10.0,5,5,5,Finished,+1:00.002,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-barcelona,Spanish Grand Prix,185.429,kph,51,4,1:30.374,9,66,6153869,8.0,6,6,5,Finished,+1:21.314,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-barcelona,Spanish Grand Prix,183.903,kph,56,8,1:31.124,10,65,,6.0,7,7,5,+1 Lap,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-barcelona,Spanish Grand Prix,182.261,kph,46,15,1:31.945,11,65,,4.0,8,8,5,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-barcelona,Spanish Grand Prix,183.838,kph,62,9,1:31.156,5,65,,2.0,9,9,5,+1 Lap,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-barcelona,Spanish Grand Prix,182.376,kph,40,11,1:31.887,8,65,,1.0,10,10,5,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-barcelona,Spanish Grand Prix,182.358,kph,46,12,1:31.896,6,65,,0.0,11,11,5,+1 Lap,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-barcelona,Spanish Grand Prix,182.294,kph,41,13,1:31.928,15,65,,0.0,12,12,5,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-barcelona,Spanish Grand Prix,182.286,kph,38,14,1:31.932,18,65,,0.0,13,13,5,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-barcelona,Spanish Grand Prix,181.713,kph,52,16,1:32.222,16,65,,0.0,14,14,5,+1 Lap,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-barcelona,Spanish Grand Prix,184.38,kph,51,7,1:30.888,17,65,,0.0,15,15,5,+1 Lap,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-barcelona,Spanish Grand Prix,183.826,kph,46,10,1:31.162,14,65,,0.0,16,16,5,+1 Lap,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-barcelona,Spanish Grand Prix,178.933,kph,49,19,1:33.655,19,63,,0.0,17,17,5,+3 Laps,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-barcelona,Spanish Grand Prix,177.877,kph,51,20,1:34.211,20,62,,0.0,18,18,5,+4 Laps,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-barcelona,Spanish Grand Prix,180.364,kph,17,17,1:32.912,12,45,,0.0,19,R,5,Accident,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-barcelona,Spanish Grand Prix,179.446,kph,23,18,1:33.387,13,26,,0.0,20,R,5,Brakes,,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-monte-carlo,Monaco Grand Prix,152.841,kph,76,2,1:18.599,2,78,6558420,25.0,1,1,6,Finished,1:49:18.420,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-monte-carlo,Monaco Grand Prix,152.347,kph,75,4,1:18.854,3,78,6562906,18.0,2,2,6,Finished,+4.486,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-monte-carlo,Monaco Grand Prix,152.692,kph,42,3,1:18.676,1,78,6564473,15.0,3,3,6,Finished,+6.053,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-monte-carlo,Monaco Grand Prix,151.815,kph,75,7,1:19.130,5,78,6570385,12.0,4,4,6,Finished,+11.965,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-monte-carlo,Monaco Grand Prix,153.891,kph,74,1,1:18.063,4,78,6572028,10.0,5,5,6,Finished,+13.608,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-monte-carlo,Monaco Grand Prix,150.822,kph,74,10,1:19.651,6,78,6572765,8.0,6,6,6,Finished,+14.345,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-monte-carlo,Monaco Grand Prix,150.811,kph,74,11,1:19.657,7,78,6573433,6.0,7,7,6,Finished,+15.013,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-monte-carlo,Monaco Grand Prix,151.128,kph,76,9,1:19.490,10,78,6574483,4.0,8,8,6,Finished,+16.063,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-monte-carlo,Monaco Grand Prix,150.133,kph,76,15,1:20.017,14,78,6582046,2.0,9,9,6,Finished,+23.626,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-monte-carlo,Monaco Grand Prix,150.511,kph,48,13,1:19.816,0,78,6583476,1.0,10,10,6,Finished,+25.056,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-monte-carlo,Monaco Grand Prix,150.313,kph,46,14,1:19.921,11,78,6584652,0.0,11,11,6,Finished,+26.232,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-monte-carlo,Monaco Grand Prix,149.263,kph,40,17,1:20.483,15,78,6586835,0.0,12,12,6,Finished,+28.415,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-monte-carlo,Monaco Grand Prix,151.519,kph,75,8,1:19.285,17,78,6589579,0.0,13,13,6,Finished,+31.159,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-monte-carlo,Monaco Grand Prix,152.173,kph,74,6,1:18.944,16,78,6604209,0.0,14,14,6,Finished,+45.789,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-monte-carlo,Monaco Grand Prix,150.609,kph,72,12,1:19.764,12,77,,0.0,15,15,6,+1 Lap,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-monte-carlo,Monaco Grand Prix,147.013,kph,47,18,1:21.715,19,76,,0.0,16,16,6,+2 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-monte-carlo,Monaco Grand Prix,145.274,kph,58,20,1:22.693,18,76,,0.0,17,17,6,+2 Laps,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-monte-carlo,Monaco Grand Prix,152.31,kph,49,5,1:18.873,9,62,,0.0,18,R,6,Accident,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-monte-carlo,Monaco Grand Prix,149.308,kph,36,16,1:20.459,13,41,,0.0,19,R,6,Gearbox,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-monte-carlo,Monaco Grand Prix,146.019,kph,3,19,1:22.271,8,5,,0.0,20,R,6,Brakes,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-montreal,Canadian Grand Prix,202.648,kph,64,3,1:17.472,1,70,5513145,25.0,1,1,7,Finished,1:31:53.145,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-montreal,Canadian Grand Prix,202.218,kph,63,5,1:17.637,2,70,5515430,18.0,2,2,7,Finished,+2.285,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-montreal,Canadian Grand Prix,201.478,kph,67,6,1:17.922,4,70,5553811,15.0,3,3,7,Finished,+40.666,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-montreal,Canadian Grand Prix,203.925,kph,42,1,1:16.987,3,70,5558770,12.0,4,4,7,Finished,+45.625,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-montreal,Canadian Grand Prix,203.613,kph,59,2,1:17.105,18,70,5563048,10.0,5,5,7,Finished,+49.903,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-montreal,Canadian Grand Prix,202.437,kph,64,4,1:17.553,15,70,5569526,8.0,6,6,7,Finished,+56.381,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-montreal,Canadian Grand Prix,200.288,kph,51,10,1:18.385,6,70,5579809,6.0,7,7,7,Finished,+1:06.664,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-montreal,Canadian Grand Prix,200.664,kph,66,9,1:18.238,7,69,,4.0,8,8,7,+1 Lap,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-montreal,Canadian Grand Prix,201.153,kph,69,8,1:18.048,8,69,,2.0,9,9,7,+1 Lap,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-montreal,Canadian Grand Prix,201.356,kph,51,7,1:17.969,5,69,,1.0,10,10,7,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-montreal,Canadian Grand Prix,199.008,kph,49,14,1:18.889,10,69,,0.0,11,11,7,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-montreal,Canadian Grand Prix,199.205,kph,61,12,1:18.811,11,69,,0.0,12,12,7,+1 Lap,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-montreal,Canadian Grand Prix,198.578,kph,67,16,1:19.060,9,69,,0.0,13,13,7,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-montreal,Canadian Grand Prix,199.006,kph,58,15,1:18.890,12,69,,0.0,14,14,7,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-montreal,Canadian Grand Prix,199.699,kph,50,11,1:18.616,19,69,,0.0,15,15,7,+1 Lap,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-montreal,Canadian Grand Prix,198.507,kph,47,17,1:19.088,14,68,,0.0,16,16,7,+2 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-montreal,Canadian Grand Prix,194.525,kph,38,19,1:20.707,17,66,,0.0,17,17,7,+4 Laps,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-montreal,Canadian Grand Prix,194.292,kph,37,20,1:20.804,16,57,,0.0,18,R,7,Retired,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-montreal,Canadian Grand Prix,199.092,kph,49,13,1:18.856,20,54,,0.0,19,R,7,Retired,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-montreal,Canadian Grand Prix,197.28,kph,41,18,1:19.580,13,44,,0.0,20,R,7,Engine,,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-spielberg,Austrian Grand Prix,218.622,kph,35,1,1:11.235,2,71,5416930,25.0,1,1,8,Finished,1:30:16.930,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-spielberg,Austrian Grand Prix,217.888,kph,60,2,1:11.475,1,71,5425730,18.0,2,2,8,Finished,+8.800,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-spielberg,Austrian Grand Prix,217.468,kph,58,4,1:11.613,4,71,5434503,15.0,3,3,8,Finished,+17.573,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-spielberg,Austrian Grand Prix,217.815,kph,44,3,1:11.499,3,71,5435111,12.0,4,4,8,Finished,+18.181,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-spielberg,Austrian Grand Prix,215.557,kph,52,7,1:12.248,6,71,5470534,10.0,5,5,8,Finished,+53.604,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-spielberg,Austrian Grand Prix,214.686,kph,62,12,1:12.541,5,71,5481005,8.0,6,6,8,Finished,+1:04.075,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-spielberg,Austrian Grand Prix,216.947,kph,58,6,1:11.785,10,70,,6.0,7,7,8,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-spielberg,Austrian Grand Prix,215.256,kph,64,9,1:12.349,7,70,,4.0,8,8,8,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-spielberg,Austrian Grand Prix,215.173,kph,58,10,1:12.377,13,70,,2.0,9,9,8,+1 Lap,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-spielberg,Austrian Grand Prix,217.238,kph,69,5,1:11.689,18,70,,1.0,10,10,8,+1 Lap,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-spielberg,Austrian Grand Prix,213.19,kph,57,14,1:13.050,8,70,,0.0,11,11,8,+1 Lap,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-spielberg,Austrian Grand Prix,215.354,kph,54,8,1:12.316,15,70,,0.0,12,12,8,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-spielberg,Austrian Grand Prix,214.76,kph,56,11,1:12.516,11,69,,0.0,13,13,8,+2 Laps,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-spielberg,Austrian Grand Prix,207.817,kph,58,16,1:14.939,16,68,,0.0,14,14,8,+3 Laps,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-spielberg,Austrian Grand Prix,213.685,kph,34,13,1:12.881,9,35,,0.0,15,R,8,Gearbox,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-spielberg,Austrian Grand Prix,212.655,kph,28,15,1:13.234,12,35,,0.0,16,R,8,Power loss,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-spielberg,Austrian Grand Prix,138.792,kph,5,17,1:52.208,20,8,,0.0,17,R,8,Retired,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-spielberg,Austrian Grand Prix,,,,,,17,1,,0.0,18,R,8,Oil leak,,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-spielberg,Austrian Grand Prix,,,,,,14,0,,0.0,19,R,8,Collision,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-spielberg,Austrian Grand Prix,,,,,,19,0,,0.0,20,R,8,Collision,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-silverstone,British Grand Prix,218.425,kph,29,1,1:37.093,1,52,5487729,25.0,1,1,9,Finished,1:31:27.729,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-silverstone,British Grand Prix,217.73,kph,24,2,1:37.403,2,52,5498685,18.0,2,2,9,Finished,+10.956,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-silverstone,British Grand Prix,217.053,kph,31,6,1:37.707,6,52,5513172,15.0,3,3,9,Finished,+25.443,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-silverstone,British Grand Prix,217.589,kph,26,3,1:37.466,3,52,5524568,12.0,4,4,9,Finished,+36.839,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-silverstone,British Grand Prix,217.484,kph,32,5,1:37.513,4,52,5550923,10.0,5,5,9,Finished,+1:03.194,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-silverstone,British Grand Prix,216.603,kph,28,7,1:37.910,7,52,5551684,8.0,6,6,9,Finished,+1:03.955,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-silverstone,British Grand Prix,215.752,kph,32,9,1:38.296,9,52,5566473,6.0,7,7,9,Finished,+1:18.744,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-silverstone,British Grand Prix,217.529,kph,31,4,1:37.493,5,51,,4.0,8,8,9,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-silverstone,British Grand Prix,215.379,kph,25,10,1:38.466,11,51,,2.0,9,9,9,+1 Lap,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-silverstone,British Grand Prix,214.471,kph,30,12,1:38.883,17,51,,1.0,10,10,9,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-silverstone,British Grand Prix,216.115,kph,31,8,1:38.131,15,51,,0.0,11,11,9,+1 Lap,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-silverstone,British Grand Prix,207.259,kph,26,15,1:42.324,20,49,,0.0,12,12,9,+3 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-silverstone,British Grand Prix,208.082,kph,28,14,1:41.919,19,49,,0.0,13,13,9,+3 Laps,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-silverstone,British Grand Prix,214.875,kph,26,11,1:38.697,8,31,,0.0,14,R,9,Electrical,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-silverstone,British Grand Prix,212.203,kph,14,13,1:39.940,10,21,,0.0,15,R,9,Electrical,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-silverstone,British Grand Prix,150.647,kph,3,16,2:20.776,13,3,,0.0,16,R,9,Spun off,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-silverstone,British Grand Prix,,,,,,12,0,,0.0,17,R,9,Collision,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-silverstone,British Grand Prix,,,,,,14,0,,0.0,18,R,9,Collision,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-silverstone,British Grand Prix,,,,,,18,0,,0.0,19,R,9,Collision,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-silverstone,British Grand Prix,,,,,,16,0,,0.0,20,W,9,Gearbox,,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-budapest,Hungarian Grand Prix,181.759,kph,63,5,1:26.772,3,69,6369985,25.0,1,1,10,Finished,1:46:09.985,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-budapest,Hungarian Grand Prix,182.29,kph,57,4,1:26.519,7,69,6385733,18.0,2,2,10,Finished,+15.748,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-budapest,Hungarian Grand Prix,185.939,kph,68,1,1:24.821,4,69,6395069,15.0,3,3,10,Finished,+25.084,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-budapest,Hungarian Grand Prix,179.938,kph,62,11,1:27.650,9,69,6414236,12.0,4,4,10,Finished,+44.251,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-budapest,Hungarian Grand Prix,180.637,kph,67,10,1:27.311,15,69,6419064,10.0,5,5,10,Finished,+49.079,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-budapest,Hungarian Grand Prix,183.974,kph,68,3,1:25.727,1,69,6422010,8.0,6,6,10,Finished,+52.025,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-budapest,Hungarian Grand Prix,179.059,kph,60,14,1:28.080,10,69,6428563,6.0,7,7,10,Finished,+58.578,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-budapest,Hungarian Grand Prix,185.223,kph,68,2,1:25.149,2,69,6428861,4.0,8,8,10,Finished,+58.876,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-budapest,Hungarian Grand Prix,178.139,kph,65,17,1:28.535,16,69,6437013,2.0,9,9,10,Finished,+1:07.028,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-budapest,Hungarian Grand Prix,179.214,kph,60,12,1:28.004,17,69,6439115,1.0,10,10,10,Finished,+1:09.130,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-budapest,Hungarian Grand Prix,178.678,kph,51,15,1:28.268,18,69,6443443,0.0,11,11,10,Finished,+1:13.458,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-budapest,Hungarian Grand Prix,181.566,kph,59,6,1:26.864,8,69,6444263,0.0,12,12,10,Finished,+1:14.278,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-budapest,Hungarian Grand Prix,181.161,kph,51,8,1:27.058,6,69,6450213,0.0,13,13,10,Finished,+1:20.228,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-budapest,Hungarian Grand Prix,181.012,kph,62,9,1:27.130,14,69,6455127,0.0,14,14,10,Finished,+1:25.142,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-budapest,Hungarian Grand Prix,175.497,kph,59,20,1:29.868,19,67,,0.0,15,15,10,+2 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-budapest,Hungarian Grand Prix,176.134,kph,56,19,1:29.543,20,65,,0.0,16,16,10,+4 Laps,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-budapest,Hungarian Grand Prix,177.986,kph,38,18,1:28.611,12,60,,0.0,17,R,10,Electrical,,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-budapest,Hungarian Grand Prix,181.378,kph,24,7,1:26.954,5,55,,0.0,18,R,10,Power Unit,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-budapest,Hungarian Grand Prix,178.212,kph,51,16,1:28.499,13,53,,0.0,19,R,10,Suspension,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-budapest,Hungarian Grand Prix,179.072,kph,38,13,1:28.074,11,41,,0.0,20,R,10,Front wing,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-spa,Belgian Grand Prix,224.12,kph,34,2,1:52.504,1,43,5020387,25.0,1,1,11,Finished,1:23:40.387,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-spa,Belgian Grand Prix,224.295,kph,34,1,1:52.416,2,43,5022445,18.0,2,2,11,Finished,+2.058,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-spa,Belgian Grand Prix,219.677,kph,37,12,1:54.779,9,43,5058375,15.0,3,3,11,Finished,+37.988,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-spa,Belgian Grand Prix,223.073,kph,29,3,1:53.032,12,43,5066079,12.0,4,4,11,Finished,+45.692,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-spa,Belgian Grand Prix,219.645,kph,29,13,1:54.796,4,43,5074384,10.0,5,5,11,Finished,+53.997,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-spa,Belgian Grand Prix,220.998,kph,23,8,1:54.093,6,43,5075670,8.0,6,6,11,Finished,+55.283,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-spa,Belgian Grand Prix,220.18,kph,30,9,1:54.517,16,43,5076090,6.0,7,7,11,Finished,+55.703,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-spa,Belgian Grand Prix,222.592,kph,36,4,1:53.276,18,43,5076463,4.0,8,8,11,Finished,+56.076,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-spa,Belgian Grand Prix,219.932,kph,23,10,1:54.646,3,43,5081427,2.0,9,9,11,Power Unit,+1:01.040,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-spa,Belgian Grand Prix,221.136,kph,30,7,1:54.022,13,43,5111621,1.0,10,10,11,Finished,+1:31.234,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-spa,Belgian Grand Prix,221.196,kph,29,6,1:53.991,14,43,5122698,0.0,11,11,11,Finished,+1:42.311,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-spa,Belgian Grand Prix,218.654,kph,29,14,1:55.316,8,42,,0.0,12,12,11,Tyre,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-spa,Belgian Grand Prix,221.778,kph,34,5,1:53.692,20,42,,0.0,13,13,11,+1 Lap,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-spa,Belgian Grand Prix,218.244,kph,38,15,1:55.533,19,42,,0.0,14,14,11,+1 Lap,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-spa,Belgian Grand Prix,213.366,kph,32,18,1:58.174,17,42,,0.0,15,15,11,+1 Lap,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-spa,Belgian Grand Prix,213.41,kph,33,17,1:58.150,15,42,,0.0,16,16,11,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-spa,Belgian Grand Prix,219.867,kph,25,11,1:54.680,10,32,,0.0,17,R,11,Power Unit,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-spa,Belgian Grand Prix,216.873,kph,2,16,1:56.263,5,19,,0.0,18,R,11,Power Unit,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-spa,Belgian Grand Prix,,,,,,7,2,,0.0,19,R,11,Engine,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-spa,Belgian Grand Prix,,,,,,11,0,,0.0,20,W,11,Power loss,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-monza,Italian Grand Prix,240.617,kph,48,1,1:26.672,1,53,4680688,25.0,1,1,12,Finished,1:18:00.688,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-monza,Italian Grand Prix,238.678,kph,52,3,1:27.376,3,53,4705730,18.0,2,2,12,Finished,+25.042,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-monza,Italian Grand Prix,237.326,kph,31,8,1:27.874,5,53,4728323,15.0,3,3,12,Finished,+47.635,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-monza,Italian Grand Prix,238.272,kph,49,6,1:27.525,6,53,4728684,12.0,4,4,12,Finished,+47.996,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-monza,Italian Grand Prix,238.111,kph,43,7,1:27.584,2,53,4749548,10.0,5,5,12,Finished,+1:08.860,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-monza,Italian Grand Prix,236.609,kph,46,10,1:28.140,7,53,4753471,8.0,6,6,12,Finished,+1:12.783,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-monza,Italian Grand Prix,234.552,kph,36,14,1:28.913,9,52,,6.0,7,7,12,+1 Lap,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-monza,Italian Grand Prix,236.811,kph,50,9,1:28.065,19,52,,4.0,8,8,12,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-monza,Italian Grand Prix,235.604,kph,22,12,1:28.516,12,52,,2.0,9,9,12,+1 Lap,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-monza,Italian Grand Prix,236.365,kph,39,11,1:28.231,18,52,,1.0,10,10,12,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-monza,Italian Grand Prix,238.313,kph,38,5,1:27.510,17,52,,0.0,11,11,12,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-monza,Italian Grand Prix,238.64,kph,35,4,1:27.390,20,52,,0.0,12,12,12,+1 Lap,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-monza,Italian Grand Prix,235.24,kph,51,13,1:28.653,17,52,,0.0,13,13,12,+1 Lap,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-monza,Italian Grand Prix,232.324,kph,33,16,1:29.766,15,52,,0.0,14,14,12,+1 Lap,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-monza,Italian Grand Prix,228.927,kph,51,17,1:31.098,13,51,,0.0,15,15,12,+2 Laps,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-monza,Italian Grand Prix,228.393,kph,29,18,1:31.311,14,51,,0.0,16,16,12,+2 Laps,,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-monza,Italian Grand Prix,239.525,kph,43,2,1:27.067,4,50,,0.0,17,17,12,+3 Laps,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-monza,Italian Grand Prix,233.575,kph,42,15,1:29.285,16,47,,0.0,18,18,12,+6 Laps,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-monza,Italian Grand Prix,,,,,,8,1,,0.0,19,R,12,Collision damage,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-monza,Italian Grand Prix,,,,,,10,1,,0.0,20,R,12,Collision damage,,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-marina-bay,Singapore Grand Prix,165.659,kph,53,2,1:50.069,1,61,7282118,25.0,1,1,13,Finished,2:01:22.118,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-marina-bay,Singapore Grand Prix,165.701,kph,52,1,1:50.041,2,61,7283596,18.0,2,2,13,Finished,+1.478,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-marina-bay,Singapore Grand Prix,165.251,kph,48,5,1:50.341,3,61,7299272,15.0,3,3,13,Finished,+17.154,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-marina-bay,Singapore Grand Prix,164.368,kph,50,7,1:50.934,6,61,7306838,12.0,4,4,13,Finished,+24.720,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-marina-bay,Singapore Grand Prix,163.765,kph,49,10,1:51.342,7,61,7316322,10.0,5,5,13,Finished,+34.204,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-marina-bay,Singapore Grand Prix,164.109,kph,36,8,1:51.109,4,61,7317626,8.0,6,6,13,Finished,+35.508,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-marina-bay,Singapore Grand Prix,162.847,kph,44,12,1:51.970,13,61,7332954,6.0,7,7,13,Finished,+50.836,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-marina-bay,Singapore Grand Prix,165.315,kph,43,4,1:50.298,8,61,7333568,4.0,8,8,13,Finished,+51.450,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-marina-bay,Singapore Grand Prix,165.161,kph,43,6,1:50.401,14,61,7334978,2.0,9,9,13,Finished,+52.860,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-marina-bay,Singapore Grand Prix,161.984,kph,36,15,1:52.566,16,61,7372163,1.0,10,10,13,Finished,+1:30.045,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-marina-bay,Singapore Grand Prix,163.395,kph,30,11,1:51.594,17,61,7379625,0.0,11,11,13,Finished,+1:37.507,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-marina-bay,Singapore Grand Prix,165.5,kph,57,3,1:50.175,18,61,7379836,0.0,12,12,13,Finished,+1:37.718,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-marina-bay,Singapore Grand Prix,162.292,kph,28,13,1:52.353,10,59,,0.0,13,13,13,Tyre,,2015
+Manor Marussia,manor,British,RSS,rossi,Alexander Rossi,American,53,2015-marina-bay,Singapore Grand Prix,158.127,kph,43,19,1:55.312,20,59,,0.0,14,14,13,+2 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-marina-bay,Singapore Grand Prix,157.338,kph,45,20,1:55.890,19,59,,0.0,15,15,13,+2 Laps,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-marina-bay,Singapore Grand Prix,164.023,kph,43,9,1:51.167,15,52,,0.0,16,R,13,Gearbox,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-marina-bay,Singapore Grand Prix,160.9,kph,27,16,1:53.325,12,33,,0.0,17,R,13,Gearbox,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-marina-bay,Singapore Grand Prix,162.072,kph,24,14,1:52.505,5,32,,0.0,18,R,13,Throttle,,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-marina-bay,Singapore Grand Prix,160.417,kph,19,17,1:53.666,9,30,,0.0,19,R,13,Gearbox,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-marina-bay,Singapore Grand Prix,160.132,kph,6,18,1:53.868,11,12,,0.0,20,R,13,Collision,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-suzuka,Japanese Grand Prix,217.434,kph,33,1,1:36.145,2,53,5286508,25.0,1,1,14,Finished,1:28:06.508,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-suzuka,Japanese Grand Prix,215.191,kph,31,2,1:37.147,1,53,5305472,18.0,2,2,14,Finished,+18.964,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-suzuka,Japanese Grand Prix,213.523,kph,32,3,1:37.906,4,53,5307358,15.0,3,3,14,Finished,+20.850,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-suzuka,Japanese Grand Prix,213.242,kph,32,4,1:38.035,6,53,5320276,12.0,4,4,14,Finished,+33.768,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-suzuka,Japanese Grand Prix,212.795,kph,41,8,1:38.241,3,53,5323254,10.0,5,5,14,Finished,+36.746,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-suzuka,Japanese Grand Prix,212.6,kph,43,9,1:38.331,13,53,5342067,8.0,6,6,14,Finished,+55.559,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-suzuka,Japanese Grand Prix,212.955,kph,35,6,1:38.167,8,53,5358806,6.0,7,7,14,Finished,+1:12.298,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-suzuka,Japanese Grand Prix,213.022,kph,39,5,1:38.136,11,53,5360083,4.0,8,8,14,Finished,+1:13.575,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-suzuka,Japanese Grand Prix,212.803,kph,32,7,1:38.237,17,53,5381823,2.0,9,9,14,Finished,+1:35.315,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-suzuka,Japanese Grand Prix,211.835,kph,16,13,1:38.686,10,52,,1.0,10,10,14,+1 Lap,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-suzuka,Japanese Grand Prix,209.862,kph,45,16,1:39.614,12,52,,0.0,11,11,14,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-suzuka,Japanese Grand Prix,212.039,kph,50,11,1:38.591,9,52,,0.0,12,12,14,+1 Lap,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-suzuka,Japanese Grand Prix,212.524,kph,36,10,1:38.366,20,52,,0.0,13,13,14,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-suzuka,Japanese Grand Prix,210.434,kph,28,15,1:39.343,15,52,,0.0,14,14,14,+1 Lap,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-suzuka,Japanese Grand Prix,211.381,kph,32,14,1:38.898,7,52,,0.0,15,15,14,+1 Lap,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-suzuka,Japanese Grand Prix,208.799,kph,31,18,1:40.121,14,52,,0.0,16,16,14,+1 Lap,,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-suzuka,Japanese Grand Prix,212.031,kph,51,12,1:38.595,5,51,,0.0,17,17,14,+2 Laps,,2015
+Manor Marussia,manor,British,RSS,rossi,Alexander Rossi,American,53,2015-suzuka,Japanese Grand Prix,206.029,kph,35,20,1:41.467,19,51,,0.0,18,18,14,+2 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-suzuka,Japanese Grand Prix,206.06,kph,44,19,1:41.452,18,50,,0.0,19,19,14,+3 Laps,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-suzuka,Japanese Grand Prix,208.868,kph,39,17,1:40.088,16,49,,0.0,20,R,14,Retired,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-sochi,Russian Grand Prix,209.328,kph,44,3,1:40.573,2,53,5831024,25.0,1,1,15,Finished,1:37:11.024,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-sochi,Russian Grand Prix,210.378,kph,51,1,1:40.071,4,53,5836977,18.0,2,2,15,Finished,+5.953,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-sochi,Russian Grand Prix,206.862,kph,48,9,1:41.772,7,53,5859942,15.0,3,3,15,Finished,+28.918,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-sochi,Russian Grand Prix,208.689,kph,48,4,1:40.881,15,53,5869855,12.0,4,4,15,Finished,+38.831,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-sochi,Russian Grand Prix,,,,,,11,53,5878590,10.0,5,5,15,Finished,+47.566,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-sochi,Russian Grand Prix,207.678,kph,52,6,1:41.372,12,53,5887532,8.0,6,6,15,Finished,+56.508,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-sochi,Russian Grand Prix,207.402,kph,52,7,1:41.507,14,53,5892112,6.0,7,7,15,Finished,+1:01.088,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-sochi,Russian Grand Prix,209.91,kph,48,2,1:40.294,5,53,5903382,4.0,8,8,15,Finished,+1:12.358,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-sochi,Russian Grand Prix,204.261,kph,53,13,1:43.068,13,53,5910491,2.0,9,9,15,Finished,+1:19.467,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-sochi,Russian Grand Prix,203.871,kph,45,15,1:43.265,9,53,5919448,1.0,10,10,15,Finished,+1:28.424,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-sochi,Russian Grand Prix,205.115,kph,29,12,1:42.639,19,53,5922234,0.0,11,11,15,Finished,+1:31.210,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-sochi,Russian Grand Prix,208.167,kph,45,5,1:41.134,3,52,,0.0,12,12,15,Collision,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-sochi,Russian Grand Prix,200.409,kph,50,17,1:45.049,18,52,,0.0,13,13,15,+1 Lap,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-sochi,Russian Grand Prix,200.644,kph,50,16,1:44.926,17,51,,0.0,14,14,15,+2 Laps,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-sochi,Russian Grand Prix,206.626,kph,43,10,1:41.888,10,47,,0.0,15,15,15,Suspension,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-sochi,Russian Grand Prix,205.879,kph,44,11,1:42.258,20,45,,0.0,16,R,15,Brakes,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-sochi,Russian Grand Prix,199.996,kph,7,18,1:45.266,8,11,,0.0,17,R,15,Accident,,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-sochi,Russian Grand Prix,204.132,kph,6,14,1:43.133,1,7,,0.0,18,R,15,Throttle,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-sochi,Russian Grand Prix,,,,,,6,0,,0.0,19,R,15,Collision,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-sochi,Russian Grand Prix,,,,,,17,0,,0.0,20,R,15,Collision,,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-austin,United States Grand Prix,197.014,kph,48,2,1:40.738,2,56,6652703,25.0,1,1,16,Finished,1:50:52.703,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-austin,United States Grand Prix,197.154,kph,49,1,1:40.666,1,56,6655553,18.0,2,2,16,Finished,+2.850,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-austin,United States Grand Prix,195.863,kph,52,3,1:41.330,13,56,6656084,15.0,3,3,16,Finished,+3.381,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-austin,United States Grand Prix,192.366,kph,51,9,1:43.172,8,56,6675062,12.0,4,4,16,Finished,+22.359,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-austin,United States Grand Prix,192.668,kph,54,7,1:43.010,5,56,6677116,10.0,5,5,16,Finished,+24.413,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-austin,United States Grand Prix,192.638,kph,50,8,1:43.026,11,56,6680761,8.0,6,6,16,Finished,+28.058,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-austin,United States Grand Prix,193.325,kph,51,5,1:42.660,20,56,6683322,6.0,7,7,16,Finished,+30.619,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-austin,United States Grand Prix,192.97,kph,51,6,1:42.849,12,56,6684976,4.0,8,8,16,Finished,+32.273,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-austin,United States Grand Prix,190.09,kph,54,12,1:44.407,15,56,6692960,2.0,9,9,16,Finished,+40.257,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-austin,United States Grand Prix,194.614,kph,53,4,1:41.980,3,56,6706074,1.0,10,10,16,Finished,+53.371,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-austin,United States Grand Prix,190.243,kph,55,11,1:44.323,9,56,6707519,0.0,11,11,16,Finished,+54.816,2015
+Manor Marussia,manor,British,RSS,rossi,Alexander Rossi,American,53,2015-austin,United States Grand Prix,183.472,kph,50,16,1:48.173,17,56,6727980,0.0,12,12,16,Finished,+1:15.277,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-austin,United States Grand Prix,191.335,kph,41,10,1:43.728,4,41,,0.0,13,R,16,Accident,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-austin,United States Grand Prix,188.846,kph,24,13,1:45.095,6,35,,0.0,14,R,16,Accident,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-austin,United States Grand Prix,184.825,kph,24,15,1:47.381,14,25,,0.0,15,R,16,Retired,,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-austin,United States Grand Prix,186.905,kph,24,14,1:46.186,18,25,,0.0,16,R,16,Brake duct,,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-austin,United States Grand Prix,183.374,kph,22,17,1:48.231,7,23,,0.0,17,R,16,Retired,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-austin,United States Grand Prix,165.926,kph,8,18,1:59.612,10,10,,0.0,18,R,16,Retired,,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-austin,United States Grand Prix,130.623,kph,3,19,2:31.939,16,5,,0.0,19,R,16,Retired,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-austin,United States Grand Prix,,,,,,19,1,,0.0,20,R,16,Retired,,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-mexico-city,Mexican Grand Prix,192.426,kph,67,1,1:20.521,1,71,6155038,25.0,1,1,17,Finished,1:42:35.038,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-mexico-city,Mexican Grand Prix,191.945,kph,67,2,1:20.723,2,71,6156992,18.0,2,2,17,Finished,+1.954,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-mexico-city,Mexican Grand Prix,189.917,kph,68,4,1:21.585,6,71,6169630,15.0,3,3,17,Finished,+14.592,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-mexico-city,Mexican Grand Prix,190.001,kph,69,3,1:21.549,4,71,6171610,12.0,4,4,17,Finished,+16.572,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-mexico-city,Mexican Grand Prix,189.824,kph,70,5,1:21.625,5,71,6174720,10.0,5,5,17,Finished,+19.682,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-mexico-city,Mexican Grand Prix,188.935,kph,71,7,1:22.009,7,71,6176531,8.0,6,6,17,Finished,+21.493,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-mexico-city,Mexican Grand Prix,188.059,kph,69,9,1:22.391,10,71,6180898,6.0,7,7,17,Finished,+25.860,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-mexico-city,Mexican Grand Prix,187.227,kph,51,12,1:22.757,9,71,6189381,4.0,8,8,17,Finished,+34.343,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-mexico-city,Mexican Grand Prix,187.576,kph,70,10,1:22.603,8,71,6190267,2.0,9,9,17,Finished,+35.229,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-mexico-city,Mexican Grand Prix,186.92,kph,69,13,1:22.893,12,71,6192972,1.0,10,10,17,Finished,+37.934,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-mexico-city,Mexican Grand Prix,186.762,kph,70,14,1:22.963,13,71,6193576,0.0,11,11,17,Finished,+38.538,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-mexico-city,Mexican Grand Prix,187.32,kph,62,11,1:22.716,14,71,6195218,0.0,12,12,17,Finished,+40.180,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-mexico-city,Mexican Grand Prix,188.56,kph,46,8,1:22.172,11,71,6203810,0.0,13,13,17,Finished,+48.772,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-mexico-city,Mexican Grand Prix,186.666,kph,49,15,1:23.006,20,71,6204252,0.0,14,14,17,Finished,+49.214,2015
+Manor Marussia,manor,British,RSS,rossi,Alexander Rossi,American,53,2015-mexico-city,Mexican Grand Prix,182.276,kph,69,18,1:25.005,16,69,,0.0,15,15,17,+2 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-mexico-city,Mexican Grand Prix,181.136,kph,67,19,1:25.540,17,69,,0.0,16,16,17,+2 Laps,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-mexico-city,Mexican Grand Prix,185.895,kph,48,16,1:23.350,15,57,,0.0,17,R,17,Brakes,,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-mexico-city,Mexican Grand Prix,189.309,kph,48,6,1:21.847,3,50,,0.0,18,R,17,Accident,,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-mexico-city,Mexican Grand Prix,184.338,kph,20,17,1:24.054,19,21,,0.0,19,R,17,Collision,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-mexico-city,Mexican Grand Prix,,,,,,18,1,,0.0,20,R,17,Retired,,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-s-o-paulo,Brazilian Grand Prix,206.95,kph,57,2,1:14.957,1,71,5469090,25.0,1,1,18,Finished,1:31:09.090,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-s-o-paulo,Brazilian Grand Prix,207.296,kph,51,1,1:14.832,2,71,5476846,18.0,2,2,18,Finished,+7.756,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-s-o-paulo,Brazilian Grand Prix,206.705,kph,57,3,1:15.046,3,71,5483334,15.0,3,3,18,Finished,+14.244,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-s-o-paulo,Brazilian Grand Prix,205.691,kph,48,4,1:15.416,4,71,5516633,12.0,4,4,18,Finished,+47.543,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-s-o-paulo,Brazilian Grand Prix,204.005,kph,61,10,1:16.039,7,70,,10.0,5,5,18,+1 Lap,,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-s-o-paulo,Brazilian Grand Prix,202.052,kph,66,16,1:16.774,5,70,,8.0,6,6,18,+1 Lap,,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-s-o-paulo,Brazilian Grand Prix,202.776,kph,41,14,1:16.500,6,70,,6.0,7,7,18,+1 Lap,,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-s-o-paulo,Brazilian Grand Prix,204.813,kph,57,5,1:15.739,14,70,,4.0,8,8,18,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-s-o-paulo,Brazilian Grand Prix,204.185,kph,56,9,1:15.972,9,70,,2.0,9,9,18,+1 Lap,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-s-o-paulo,Brazilian Grand Prix,203.164,kph,63,13,1:16.354,15,70,,1.0,10,10,18,+1 Lap,,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-s-o-paulo,Brazilian Grand Prix,203.273,kph,56,11,1:16.313,19,70,,0.0,11,11,18,+1 Lap,,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-s-o-paulo,Brazilian Grand Prix,204.191,kph,53,8,1:15.970,11,70,,0.0,12,12,18,+1 Lap,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-s-o-paulo,Brazilian Grand Prix,202.0,kph,41,17,1:16.794,13,70,,0.0,13,13,18,+1 Lap,,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-s-o-paulo,Brazilian Grand Prix,203.252,kph,53,12,1:16.321,16,70,,0.0,14,14,18,+1 Lap,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-s-o-paulo,Brazilian Grand Prix,202.726,kph,54,15,1:16.519,20,70,,0.0,15,15,18,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-s-o-paulo,Brazilian Grand Prix,204.678,kph,57,7,1:15.789,12,69,,0.0,16,16,18,+2 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-s-o-paulo,Brazilian Grand Prix,196.116,kph,42,19,1:19.098,18,67,,0.0,17,17,18,+4 Laps,,2015
+Manor Marussia,manor,British,RSS,rossi,Alexander Rossi,American,53,2015-s-o-paulo,Brazilian Grand Prix,197.316,kph,43,18,1:18.617,17,67,,0.0,18,18,18,+4 Laps,,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-s-o-paulo,Brazilian Grand Prix,,,,,,10,0,,0.0,19,R,18,Retired,,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-s-o-paulo,Brazilian Grand Prix,204.803,kph,57,6,1:15.743,8,70,,0.0,20,D,18,Excluded,,2015
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2015-abu-dhabi,Abu Dhabi Grand Prix,189.779,kph,37,5,1:45.356,1,55,5910175,25.0,1,1,19,Finished,1:38:30.175,2015
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2015-abu-dhabi,Abu Dhabi Grand Prix,191.302,kph,44,1,1:44.517,2,55,5918446,18.0,2,2,19,Finished,+8.271,2015
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2015-abu-dhabi,Abu Dhabi Grand Prix,190.528,kph,47,4,1:44.942,3,55,5929605,15.0,3,3,19,Finished,+19.430,2015
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2015-abu-dhabi,Abu Dhabi Grand Prix,191.242,kph,48,2,1:44.550,15,55,5953910,12.0,4,4,19,Finished,+43.735,2015
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2015-abu-dhabi,Abu Dhabi Grand Prix,188.818,kph,30,8,1:45.892,4,55,5974127,10.0,5,5,19,Finished,+1:03.952,2015
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2015-abu-dhabi,Abu Dhabi Grand Prix,188.085,kph,46,9,1:46.305,5,55,5975185,8.0,6,6,19,Finished,+1:05.010,2015
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2015-abu-dhabi,Abu Dhabi Grand Prix,186.751,kph,29,16,1:47.064,7,55,6003793,6.0,7,7,19,Finished,+1:33.618,2015
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2015-abu-dhabi,Abu Dhabi Grand Prix,186.891,kph,33,14,1:46.984,8,55,6007926,4.0,8,8,19,Finished,+1:37.751,2015
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2015-abu-dhabi,Abu Dhabi Grand Prix,188.877,kph,47,7,1:45.859,18,55,6008376,2.0,9,9,19,Finished,+1:38.201,2015
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2015-abu-dhabi,Abu Dhabi Grand Prix,187.069,kph,27,13,1:46.882,9,55,6012546,1.0,10,10,19,Finished,+1:42.371,2015
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2015-abu-dhabi,Abu Dhabi Grand Prix,186.867,kph,38,15,1:46.998,10,55,6013700,0.0,11,11,19,Finished,+1:43.525,2015
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2015-abu-dhabi,Abu Dhabi Grand Prix,185.978,kph,29,17,1:47.509,12,54,,0.0,12,12,19,+1 Lap,,2015
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2015-abu-dhabi,Abu Dhabi Grand Prix,187.804,kph,45,11,1:46.464,6,54,,0.0,13,13,19,+1 Lap,,2015
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2015-abu-dhabi,Abu Dhabi Grand Prix,187.71,kph,48,12,1:46.517,17,54,,0.0,14,14,19,+1 Lap,,2015
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2015-abu-dhabi,Abu Dhabi Grand Prix,187.874,kph,46,10,1:46.424,14,54,,0.0,15,15,19,+1 Lap,,2015
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2015-abu-dhabi,Abu Dhabi Grand Prix,189.079,kph,40,6,1:45.746,11,54,,0.0,16,16,19,+1 Lap,,2015
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2015-abu-dhabi,Abu Dhabi Grand Prix,190.793,kph,52,3,1:44.796,16,53,,0.0,17,17,19,+2 Laps,,2015
+Manor Marussia,manor,British,STE,stevens,Will Stevens,British,28,2015-abu-dhabi,Abu Dhabi Grand Prix,182.414,kph,53,18,1:49.610,19,53,,0.0,18,18,19,+2 Laps,,2015
+Manor Marussia,manor,British,MER,merhi,Roberto Merhi,Spanish,98,2015-abu-dhabi,Abu Dhabi Grand Prix,179.784,kph,26,19,1:51.213,20,52,,0.0,19,19,19,+3 Laps,,2015
+Lotus F1,lotus_f1,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2015-abu-dhabi,Abu Dhabi Grand Prix,,,,,,13,0,,0.0,20,R,19,Collision,,2015

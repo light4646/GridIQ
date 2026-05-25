@@ -1,0 +1,26 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,148.0,1,1,13,2004
+"[""ferrari""]","[""Ferrari""]",BAR,barrichello,Rubens Barrichello,Brazilian,,114.0,2,2,2,2004
+"[""bar""]","[""BAR""]",BUT,button,Jenson Button,British,22,85.0,3,3,0,2004
+"[""renault""]","[""Renault""]",ALO,alonso,Fernando Alonso,Spanish,14,59.0,4,4,0,2004
+"[""williams""]","[""Williams""]",MON,montoya,Juan Pablo Montoya,Colombian,,58.0,5,5,1,2004
+"[""renault"", ""toyota""]","[""Renault"", ""Toyota""]",TRU,trulli,Jarno Trulli,Italian,,46.0,6,6,1,2004
+"[""mclaren""]","[""McLaren""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,45.0,7,7,1,2004
+"[""bar""]","[""BAR""]",SAT,sato,Takuma Sato,Japanese,,34.0,8,8,0,2004
+"[""williams""]","[""Williams""]",SCH,ralf_schumacher,Ralf Schumacher,German,,24.0,9,9,0,2004
+"[""mclaren""]","[""McLaren""]",COU,coulthard,David Coulthard,British,,24.0,10,10,0,2004
+"[""sauber""]","[""Sauber""]",FIS,fisichella,Giancarlo Fisichella,Italian,,22.0,11,11,0,2004
+"[""sauber""]","[""Sauber""]",MAS,massa,Felipe Massa,Brazilian,19,12.0,12,12,0,2004
+"[""jaguar""]","[""Jaguar""]",WEB,webber,Mark Webber,Australian,,7.0,13,13,0,2004
+"[""toyota""]","[""Toyota""]",,panis,Olivier Panis,French,,6.0,14,14,0,2004
+"[""williams""]","[""Williams""]",PIZ,pizzonia,Antônio Pizzonia,Brazilian,,6.0,15,15,0,2004
+"[""jaguar""]","[""Jaguar""]",KLI,klien,Christian Klien,Austrian,,3.0,16,16,0,2004
+"[""toyota""]","[""Toyota""]",,matta,Cristiano da Matta,Brazilian,,3.0,17,17,0,2004
+"[""jordan""]","[""Jordan""]",HEI,heidfeld,Nick Heidfeld,German,,3.0,18,18,0,2004
+"[""jordan""]","[""Jordan""]",GLO,glock,Timo Glock,German,,2.0,19,19,0,2004
+"[""minardi""]","[""Minardi""]",,baumgartner,Zsolt Baumgartner,Hungarian,,1.0,20,20,0,2004
+"[""renault""]","[""Renault""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,0.0,21,21,0,2004
+"[""toyota""]","[""Toyota""]",ZON,zonta,Ricardo Zonta,Brazilian,,0.0,22,22,0,2004
+"[""williams""]","[""Williams""]",,gene,Marc Gené,Spanish,,0.0,23,23,0,2004
+"[""jordan""]","[""Jordan""]",,pantano,Giorgio Pantano,Italian,,0.0,24,24,0,2004
+"[""minardi""]","[""Minardi""]",,bruni,Gianmaria Bruni,Italian,,0.0,25,25,0,2004

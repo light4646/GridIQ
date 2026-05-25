@@ -1,0 +1,27 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,123.0,1,1,9,2001
+"[""mclaren""]","[""McLaren""]",COU,coulthard,David Coulthard,British,,65.0,2,2,2,2001
+"[""ferrari""]","[""Ferrari""]",BAR,barrichello,Rubens Barrichello,Brazilian,,56.0,3,3,0,2001
+"[""williams""]","[""Williams""]",SCH,ralf_schumacher,Ralf Schumacher,German,,49.0,4,4,3,2001
+"[""mclaren""]","[""McLaren""]",,hakkinen,Mika Häkkinen,Finnish,,37.0,5,5,2,2001
+"[""williams""]","[""Williams""]",MON,montoya,Juan Pablo Montoya,Colombian,,31.0,6,6,1,2001
+"[""bar""]","[""BAR""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,12.0,7,7,0,2001
+"[""sauber""]","[""Sauber""]",HEI,heidfeld,Nick Heidfeld,German,,12.0,8,8,0,2001
+"[""jordan""]","[""Jordan""]",TRU,trulli,Jarno Trulli,Italian,,12.0,9,9,0,2001
+"[""sauber""]","[""Sauber""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,9.0,10,10,0,2001
+"[""benetton""]","[""Benetton""]",FIS,fisichella,Giancarlo Fisichella,Italian,,8.0,11,11,0,2001
+"[""jaguar""]","[""Jaguar""]",,irvine,Eddie Irvine,British,,6.0,12,12,0,2001
+"[""jordan"", ""prost""]","[""Jordan"", ""Prost""]",,frentzen,Heinz-Harald Frentzen,German,,6.0,13,13,0,2001
+"[""bar""]","[""BAR""]",,panis,Olivier Panis,French,,5.0,14,14,0,2001
+"[""prost"", ""jordan""]","[""Prost"", ""Jordan""]",,alesi,Jean Alesi,French,,5.0,15,15,0,2001
+"[""jaguar""]","[""Jaguar""]",DLR,rosa,Pedro de la Rosa,Spanish,,3.0,16,16,0,2001
+"[""benetton""]","[""Benetton""]",BUT,button,Jenson Button,British,22,2.0,17,17,0,2001
+"[""arrows""]","[""Arrows""]",,verstappen,Jos Verstappen,Dutch,,1.0,18,18,0,2001
+"[""jordan""]","[""Jordan""]",ZON,zonta,Ricardo Zonta,Brazilian,,0.0,,-,0,2001
+"[""jaguar"", ""prost""]","[""Jaguar"", ""Prost""]",,burti,Luciano Burti,Brazilian,,0.0,,-,0,2001
+"[""arrows""]","[""Arrows""]",,bernoldi,Enrique Bernoldi,Brazilian,,0.0,,-,0,2001
+"[""minardi""]","[""Minardi""]",,marques,Tarso Marques,Brazilian,,0.0,,-,0,2001
+"[""minardi""]","[""Minardi""]",ALO,alonso,Fernando Alonso,Spanish,14,0.0,,-,0,2001
+"[""prost""]","[""Prost""]",,enge,Tomáš Enge,Czech,,0.0,,-,0,2001
+"[""prost""]","[""Prost""]",,mazzacane,Gastón Mazzacane,Argentine,,0.0,,-,0,2001
+"[""minardi""]","[""Minardi""]",,yoong,Alex Yoong,Malaysian,,0.0,,-,0,2001

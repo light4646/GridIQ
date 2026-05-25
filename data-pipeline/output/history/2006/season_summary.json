@@ -1,0 +1,40 @@
+{
+  "year": 2006,
+  "generated_at": "2026-05-25T19:03:22.077132+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 18,
+  "race_results": 396,
+  "qualifying_results": 396,
+  "drivers": 27,
+  "constructors": 12,
+  "driver_champion": {
+    "year": 2006,
+    "position": 1,
+    "position_text": "1",
+    "points": 134.0,
+    "wins": 7,
+    "driver_id": "alonso",
+    "driver_code": "ALO",
+    "driver_number": "14",
+    "driver_name": "Fernando Alonso",
+    "driver_nationality": "Spanish",
+    "constructors": [
+      "Renault"
+    ],
+    "constructor_ids": [
+      "renault"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2006,
+    "position": 1,
+    "position_text": "1",
+    "points": 206.0,
+    "wins": 8,
+    "constructor_id": "renault",
+    "constructor": "Renault",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Renault_in_Formula_One"
+  }
+}

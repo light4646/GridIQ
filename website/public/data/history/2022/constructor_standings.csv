@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,759.0,1,1,17,2022
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,554.0,2,2,4,2022
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,515.0,3,3,1,2022
+Alpine F1 Team,alpine,French,https://en.wikipedia.org/wiki/Alpine_F1_Team,173.0,4,4,0,2022
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,159.0,5,5,0,2022
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,55.0,6,6,0,2022
+Aston Martin,aston_martin,British,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,55.0,7,7,0,2022
+Haas F1 Team,haas,American,https://en.wikipedia.org/wiki/Haas_F1_Team,37.0,8,8,0,2022
+AlphaTauri,alphatauri,Italian,https://en.wikipedia.org/wiki/Scuderia_AlphaTauri,35.0,9,9,0,2022
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,8.0,10,10,0,2022

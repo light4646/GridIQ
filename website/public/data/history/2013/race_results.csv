@@ -1,0 +1,419 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-melbourne,Australian Grand Prix,213.845,kph,56,1,1:29.274,7,58,5403225,25.0,1,1,1,Finished,1:30:03.225,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-melbourne,Australian Grand Prix,213.162,kph,53,3,1:29.560,5,58,5415676,18.0,2,2,1,Finished,+12.451,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-melbourne,Australian Grand Prix,211.16,kph,42,10,1:30.409,1,58,5425571,15.0,3,3,1,Finished,+22.346,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-melbourne,Australian Grand Prix,211.558,kph,38,8,1:30.239,4,58,5436802,12.0,4,4,1,Finished,+33.577,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-melbourne,Australian Grand Prix,212.689,kph,45,5,1:29.759,3,58,5448786,10.0,5,5,1,Finished,+45.561,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-melbourne,Australian Grand Prix,212.753,kph,45,4,1:29.732,2,58,5450025,8.0,6,6,1,Finished,+46.800,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-melbourne,Australian Grand Prix,210.459,kph,49,13,1:30.710,12,58,5468293,6.0,7,7,1,Finished,+1:05.068,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-melbourne,Australian Grand Prix,210.033,kph,56,15,1:30.894,9,58,5471674,4.0,8,8,1,Finished,+1:08.449,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-melbourne,Australian Grand Prix,211.654,kph,41,7,1:30.198,10,58,5484855,2.0,9,9,1,Finished,+1:21.630,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-melbourne,Australian Grand Prix,211.193,kph,41,9,1:30.395,8,58,5485984,1.0,10,10,1,Finished,+1:22.759,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-melbourne,Australian Grand Prix,212.294,kph,46,6,1:29.926,15,58,5486592,0.0,11,11,1,Finished,+1:23.367,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-melbourne,Australian Grand Prix,213.309,kph,50,2,1:29.498,13,58,5487082,0.0,12,12,1,Finished,+1:23.857,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-melbourne,Australian Grand Prix,208.836,kph,32,16,1:31.415,18,57,,0.0,13,13,1,+1 Lap,,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-melbourne,Australian Grand Prix,210.594,kph,42,12,1:30.652,16,57,,0.0,14,14,1,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-melbourne,Australian Grand Prix,211.055,kph,52,11,1:30.454,19,57,,0.0,15,15,1,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-melbourne,Australian Grand Prix,206.921,kph,55,19,1:32.261,22,56,,0.0,16,16,1,+2 Laps,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-melbourne,Australian Grand Prix,207.036,kph,49,17,1:32.210,20,56,,0.0,17,17,1,+2 Laps,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-melbourne,Australian Grand Prix,206.084,kph,39,20,1:32.636,21,56,,0.0,18,18,1,+2 Laps,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-melbourne,Australian Grand Prix,210.063,kph,33,14,1:30.881,14,39,,0.0,19,R,1,Hydraulics,,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-melbourne,Australian Grand Prix,206.926,kph,18,18,1:32.259,6,26,,0.0,20,R,1,Electrical,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-melbourne,Australian Grand Prix,205.465,kph,12,21,1:32.915,17,24,,0.0,21,R,1,Spun off,,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-melbourne,Australian Grand Prix,,,,,,11,0,,0.0,22,W,1,Fuel system,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-kuala-lumpur,Malaysian Grand Prix,198.661,kph,45,3,1:40.446,1,56,5936681,25.0,1,1,2,Finished,1:38:56.681,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-kuala-lumpur,Malaysian Grand Prix,198.19,kph,45,6,1:40.685,5,56,5940979,18.0,2,2,2,Finished,+4.298,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-kuala-lumpur,Malaysian Grand Prix,197.57,kph,32,10,1:41.001,4,56,5948862,15.0,3,3,2,Finished,+12.181,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-kuala-lumpur,Malaysian Grand Prix,198.052,kph,44,8,1:40.755,6,56,5949321,12.0,4,4,2,Finished,+12.640,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-kuala-lumpur,Malaysian Grand Prix,199.937,kph,50,2,1:39.805,2,56,5962329,10.0,5,5,2,Finished,+25.648,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-kuala-lumpur,Malaysian Grand Prix,197.131,kph,37,11,1:41.226,11,56,5972245,8.0,6,6,2,Finished,+35.564,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-kuala-lumpur,Malaysian Grand Prix,196.079,kph,37,13,1:41.769,10,56,5985160,6.0,7,7,2,Finished,+48.479,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-kuala-lumpur,Malaysian Grand Prix,198.107,kph,46,7,1:40.727,12,56,5989725,4.0,8,8,2,Finished,+53.044,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-kuala-lumpur,Malaysian Grand Prix,201.159,kph,56,1,1:39.199,9,56,6009038,2.0,9,9,2,Finished,+1:12.357,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-kuala-lumpur,Malaysian Grand Prix,198.571,kph,45,4,1:40.492,17,56,6023805,1.0,10,10,2,Finished,+1:27.124,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-kuala-lumpur,Malaysian Grand Prix,196.845,kph,54,12,1:41.373,18,56,6025291,0.0,11,11,2,Finished,+1:28.610,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-kuala-lumpur,Malaysian Grand Prix,197.711,kph,54,9,1:40.929,14,55,,0.0,12,12,2,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-kuala-lumpur,Malaysian Grand Prix,194.827,kph,47,14,1:42.423,19,55,,0.0,13,13,2,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-kuala-lumpur,Malaysian Grand Prix,193.845,kph,51,17,1:42.942,20,55,,0.0,14,14,2,+1 Lap,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-kuala-lumpur,Malaysian Grand Prix,193.441,kph,44,20,1:43.157,22,55,,0.0,15,15,2,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-kuala-lumpur,Malaysian Grand Prix,193.454,kph,44,19,1:43.150,21,54,,0.0,16,16,2,+2 Laps,,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-kuala-lumpur,Malaysian Grand Prix,198.444,kph,43,5,1:40.556,7,53,,0.0,17,17,2,Withdrew,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-kuala-lumpur,Malaysian Grand Prix,194.527,kph,35,15,1:42.581,13,51,,0.0,18,18,2,Retired,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-kuala-lumpur,Malaysian Grand Prix,192.865,kph,34,21,1:43.465,16,45,,0.0,19,R,2,Retired,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-kuala-lumpur,Malaysian Grand Prix,194.129,kph,24,16,1:42.791,8,27,,0.0,20,R,2,Wheel nut,,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-kuala-lumpur,Malaysian Grand Prix,193.559,kph,19,18,1:43.094,15,22,,0.0,21,R,2,Wheel nut,,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-kuala-lumpur,Malaysian Grand Prix,,,,,,3,1,,0.0,22,R,2,Collision,,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-shanghai,Chinese Grand Prix,197.21,kph,46,4,1:39.506,3,56,5786945,25.0,1,1,3,Finished,1:36:26.945,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-shanghai,Chinese Grand Prix,196.324,kph,51,5,1:39.955,2,56,5797113,18.0,2,2,3,Finished,+10.168,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-shanghai,Chinese Grand Prix,196.273,kph,50,6,1:39.981,1,56,5799267,15.0,3,3,3,Finished,+12.322,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-shanghai,Chinese Grand Prix,202.706,kph,53,1,1:36.808,9,56,5799470,12.0,4,4,3,Finished,+12.525,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-shanghai,Chinese Grand Prix,200.122,kph,56,2,1:38.058,8,56,5822230,10.0,5,5,3,Finished,+35.285,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-shanghai,Chinese Grand Prix,195.68,kph,55,10,1:40.284,5,56,5827772,8.0,6,6,3,Finished,+40.827,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-shanghai,Chinese Grand Prix,195.766,kph,55,9,1:40.240,7,56,5829636,6.0,7,7,3,Finished,+42.691,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-shanghai,Chinese Grand Prix,196.038,kph,55,7,1:40.101,11,56,5838029,4.0,8,8,3,Finished,+51.084,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-shanghai,Chinese Grand Prix,195.137,kph,55,11,1:40.563,6,56,5840368,2.0,9,9,3,Finished,+53.423,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-shanghai,Chinese Grand Prix,195.007,kph,31,12,1:40.630,10,56,5843543,1.0,10,10,3,Finished,+56.598,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-shanghai,Chinese Grand Prix,193.754,kph,55,14,1:41.281,12,56,5850805,0.0,11,11,3,Finished,+1:03.860,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-shanghai,Chinese Grand Prix,195.965,kph,56,8,1:40.138,15,56,5859549,0.0,12,12,3,Finished,+1:12.604,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-shanghai,Chinese Grand Prix,199.832,kph,53,3,1:38.200,16,56,5880806,0.0,13,13,3,Finished,+1:33.861,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-shanghai,Chinese Grand Prix,194.354,kph,54,13,1:40.968,14,56,5882398,0.0,14,14,3,Finished,+1:35.453,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-shanghai,Chinese Grand Prix,193.265,kph,35,15,1:41.537,18,55,,0.0,15,15,3,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-shanghai,Chinese Grand Prix,192.393,kph,48,17,1:41.997,20,55,,0.0,16,16,3,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-shanghai,Chinese Grand Prix,192.429,kph,39,16,1:41.978,19,55,,0.0,17,17,3,+1 Lap,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-shanghai,Chinese Grand Prix,191.717,kph,42,18,1:42.357,21,55,,0.0,18,18,3,+1 Lap,,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-shanghai,Chinese Grand Prix,189.823,kph,7,19,1:43.378,4,21,,0.0,19,R,3,Suspension,,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-shanghai,Chinese Grand Prix,189.754,kph,12,20,1:43.416,22,15,,0.0,20,R,3,Wheel,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-shanghai,Chinese Grand Prix,188.223,kph,3,21,1:44.257,13,5,,0.0,21,R,3,Collision,,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-shanghai,Chinese Grand Prix,187.292,kph,2,22,1:44.775,17,4,,0.0,22,R,3,Collision,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-sakhir,Bahrain Grand Prix,200.938,kph,55,1,1:36.961,2,57,5760498,25.0,1,1,4,Finished,1:36:00.498,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-sakhir,Bahrain Grand Prix,198.476,kph,57,8,1:38.164,8,57,5769609,18.0,2,2,4,Finished,+9.111,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-sakhir,Bahrain Grand Prix,199.567,kph,52,5,1:37.627,11,57,5780005,15.0,3,3,4,Finished,+19.507,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-sakhir,Bahrain Grand Prix,198.128,kph,57,12,1:38.336,5,57,5782225,12.0,4,4,4,Finished,+21.727,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-sakhir,Bahrain Grand Prix,198.395,kph,48,11,1:38.204,9,57,5795728,10.0,5,5,4,Finished,+35.230,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-sakhir,Bahrain Grand Prix,198.984,kph,41,7,1:37.913,12,57,5796496,8.0,6,6,4,Finished,+35.998,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-sakhir,Bahrain Grand Prix,197.684,kph,52,13,1:38.557,7,57,5797742,6.0,7,7,4,Finished,+37.244,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-sakhir,Bahrain Grand Prix,200.436,kph,41,3,1:37.204,3,57,5798072,4.0,8,8,4,Finished,+37.574,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-sakhir,Bahrain Grand Prix,199.647,kph,48,4,1:37.588,1,57,5801624,2.0,9,9,4,Finished,+41.126,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-sakhir,Bahrain Grand Prix,199.33,kph,49,6,1:37.743,10,57,5807129,1.0,10,10,4,Finished,+46.631,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-sakhir,Bahrain Grand Prix,196.875,kph,57,17,1:38.962,17,57,5826948,0.0,11,11,4,Finished,+1:06.450,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-sakhir,Bahrain Grand Prix,197.258,kph,43,15,1:38.770,14,57,5833431,0.0,12,12,4,Finished,+1:12.933,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-sakhir,Bahrain Grand Prix,200.712,kph,44,2,1:37.070,6,57,5837217,0.0,13,13,4,Finished,+1:16.719,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-sakhir,Bahrain Grand Prix,198.419,kph,57,9,1:38.192,15,57,5842009,0.0,14,14,4,Finished,+1:21.511,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-sakhir,Bahrain Grand Prix,197.12,kph,42,16,1:38.839,4,57,5846862,0.0,15,15,4,Finished,+1:26.364,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-sakhir,Bahrain Grand Prix,195.655,kph,51,21,1:39.579,13,56,,0.0,16,16,4,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-sakhir,Bahrain Grand Prix,195.72,kph,37,20,1:39.546,18,56,,0.0,17,17,4,+1 Lap,,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-sakhir,Bahrain Grand Prix,198.399,kph,45,10,1:38.202,22,56,,0.0,18,18,4,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-sakhir,Bahrain Grand Prix,197.286,kph,50,14,1:38.756,19,56,,0.0,19,19,4,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-sakhir,Bahrain Grand Prix,196.246,kph,50,18,1:39.279,21,56,,0.0,20,20,4,+1 Lap,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-sakhir,Bahrain Grand Prix,196.138,kph,49,19,1:39.334,20,55,,0.0,21,21,4,+2 Laps,,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-sakhir,Bahrain Grand Prix,188.96,kph,4,22,1:43.107,16,16,,0.0,22,R,4,Puncture,,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-barcelona,Spanish Grand Prix,193.329,kph,53,5,1:26.681,5,66,5956596,25.0,1,1,5,Finished,1:39:16.596,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-barcelona,Spanish Grand Prix,193.16,kph,47,6,1:26.757,4,66,5965934,18.0,2,2,5,Finished,+9.338,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-barcelona,Spanish Grand Prix,193.971,kph,56,2,1:26.394,9,66,5982645,15.0,3,3,5,Finished,+26.049,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-barcelona,Spanish Grand Prix,192.541,kph,55,9,1:27.036,3,66,5994869,12.0,4,4,5,Finished,+38.273,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-barcelona,Spanish Grand Prix,192.583,kph,55,8,1:27.017,7,66,6004559,10.0,5,5,5,Finished,+47.963,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-barcelona,Spanish Grand Prix,191.321,kph,56,11,1:27.591,1,66,6024616,8.0,6,6,5,Finished,+1:08.020,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-barcelona,Spanish Grand Prix,193.117,kph,55,7,1:26.776,10,66,6025584,6.0,7,7,5,Finished,+1:08.988,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-barcelona,Spanish Grand Prix,190.524,kph,55,14,1:27.957,14,66,6036102,4.0,8,8,5,Finished,+1:19.506,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-barcelona,Spanish Grand Prix,192.066,kph,55,10,1:27.251,8,66,6038334,2.0,9,9,5,Finished,+1:21.738,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-barcelona,Spanish Grand Prix,190.252,kph,55,16,1:28.083,11,65,,1.0,10,10,5,+1 Lap,,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-barcelona,Spanish Grand Prix,194.37,kph,56,1,1:26.217,19,65,,0.0,11,11,5,+1 Lap,,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-barcelona,Spanish Grand Prix,190.659,kph,53,13,1:27.895,2,65,,0.0,12,12,5,+1 Lap,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-barcelona,Spanish Grand Prix,193.59,kph,38,3,1:26.564,13,65,,0.0,13,13,5,+1 Lap,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-barcelona,Spanish Grand Prix,190.759,kph,56,12,1:27.849,17,65,,0.0,14,14,5,+1 Lap,,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-barcelona,Spanish Grand Prix,193.541,kph,58,4,1:26.586,15,65,,0.0,15,15,5,+1 Lap,,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-barcelona,Spanish Grand Prix,186.724,kph,27,20,1:29.747,16,65,,0.0,16,16,5,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-barcelona,Spanish Grand Prix,187.529,kph,43,19,1:29.362,22,65,,0.0,17,17,5,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-barcelona,Spanish Grand Prix,188.537,kph,55,18,1:28.884,20,64,,0.0,18,18,5,+2 Laps,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-barcelona,Spanish Grand Prix,190.408,kph,49,15,1:28.011,21,64,,0.0,19,19,5,+2 Laps,,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-barcelona,Spanish Grand Prix,189.933,kph,41,17,1:28.231,12,52,,0.0,20,20,5,Accident,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-barcelona,Spanish Grand Prix,184.973,kph,11,21,1:30.597,18,21,,0.0,21,21,5,Wheel,,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-barcelona,Spanish Grand Prix,183.879,kph,5,22,1:31.136,6,8,,0.0,22,22,5,Suspension,,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-monte-carlo,Monaco Grand Prix,153.51,kph,74,6,1:18.327,1,78,8272056,25.0,1,1,6,Finished,2:17:52.056,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-monte-carlo,Monaco Grand Prix,157.018,kph,77,1,1:16.577,3,78,8275943,18.0,2,2,6,Finished,+3.888,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-monte-carlo,Monaco Grand Prix,153.637,kph,77,4,1:18.262,4,78,8278370,15.0,3,3,6,Finished,+6.314,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-monte-carlo,Monaco Grand Prix,153.891,kph,76,3,1:18.133,2,78,8285950,12.0,4,4,6,Finished,+13.894,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-monte-carlo,Monaco Grand Prix,153.578,kph,74,5,1:18.292,8,78,8293532,10.0,5,5,6,Finished,+21.477,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-monte-carlo,Monaco Grand Prix,152.743,kph,76,8,1:18.720,9,78,8295159,8.0,6,6,6,Finished,+23.103,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-monte-carlo,Monaco Grand Prix,151.55,kph,77,12,1:19.340,6,78,8298790,6.0,7,7,6,Finished,+26.734,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-monte-carlo,Monaco Grand Prix,151.912,kph,77,10,1:19.151,10,78,8299279,4.0,8,8,6,Finished,+27.223,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-monte-carlo,Monaco Grand Prix,151.789,kph,77,11,1:19.215,17,78,8299664,2.0,9,9,6,Finished,+27.608,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-monte-carlo,Monaco Grand Prix,155.364,kph,78,2,1:17.392,5,78,8308638,1.0,10,10,6,Finished,+36.582,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-monte-carlo,Monaco Grand Prix,150.576,kph,29,15,1:19.853,11,78,8314628,0.0,11,11,6,Finished,+42.572,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-monte-carlo,Monaco Grand Prix,148.589,kph,68,20,1:20.921,14,78,8314746,0.0,12,12,6,Finished,+42.691,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-monte-carlo,Monaco Grand Prix,152.811,kph,71,7,1:18.685,19,78,8315268,0.0,13,13,6,Finished,+43.212,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-monte-carlo,Monaco Grand Prix,152.171,kph,78,9,1:19.016,22,78,8321941,0.0,14,14,6,Finished,+49.885,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-monte-carlo,Monaco Grand Prix,149.377,kph,50,17,1:20.494,15,78,8334646,0.0,15,15,6,Finished,+1:02.590,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-monte-carlo,Monaco Grand Prix,151.188,kph,27,14,1:19.530,7,72,,0.0,16,16,6,Suspension,,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-monte-carlo,Monaco Grand Prix,148.501,kph,57,21,1:20.969,13,63,,0.0,17,R,6,Collision,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-monte-carlo,Monaco Grand Prix,151.386,kph,26,13,1:19.426,12,61,,0.0,18,R,6,Collision,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-monte-carlo,Monaco Grand Prix,149.149,kph,49,18,1:20.617,20,58,,0.0,19,R,6,Brakes,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-monte-carlo,Monaco Grand Prix,148.662,kph,8,19,1:20.881,16,44,,0.0,20,R,6,Collision,,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-monte-carlo,Monaco Grand Prix,150.179,kph,28,16,1:20.064,21,28,,0.0,21,R,6,Accident,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-monte-carlo,Monaco Grand Prix,145.266,kph,4,22,1:22.772,18,7,,0.0,22,R,6,Gearbox,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-montreal,Canadian Grand Prix,205.06,kph,55,5,1:16.561,1,70,5529143,25.0,1,1,7,Finished,1:32:09.143,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-montreal,Canadian Grand Prix,206.023,kph,69,2,1:16.203,6,70,5543551,18.0,2,2,7,Finished,+14.408,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-montreal,Canadian Grand Prix,205.615,kph,69,3,1:16.354,2,70,5545085,15.0,3,3,7,Finished,+15.942,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-montreal,Canadian Grand Prix,206.08,kph,69,1,1:16.182,5,70,5554874,12.0,4,4,7,Finished,+25.731,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-montreal,Canadian Grand Prix,205.132,kph,70,4,1:16.534,4,70,5598868,10.0,5,5,7,Finished,+1:09.725,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-montreal,Canadian Grand Prix,201.512,kph,61,13,1:17.909,7,69,,8.0,6,6,7,+1 Lap,,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-montreal,Canadian Grand Prix,201.688,kph,63,12,1:17.841,17,69,,6.0,7,7,7,+1 Lap,,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-montreal,Canadian Grand Prix,204.052,kph,69,6,1:16.939,16,69,,4.0,8,8,7,+1 Lap,,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-montreal,Canadian Grand Prix,201.882,kph,61,11,1:17.766,10,69,,2.0,9,9,7,+1 Lap,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-montreal,Canadian Grand Prix,202.069,kph,68,10,1:17.694,8,69,,1.0,10,10,7,+1 Lap,,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-montreal,Canadian Grand Prix,202.918,kph,69,7,1:17.369,12,69,,0.0,11,11,7,+1 Lap,,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-montreal,Canadian Grand Prix,202.685,kph,68,8,1:17.458,14,69,,0.0,12,12,7,+1 Lap,,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-montreal,Canadian Grand Prix,202.296,kph,62,9,1:17.607,22,69,,0.0,13,13,7,+1 Lap,,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-montreal,Canadian Grand Prix,201.266,kph,63,14,1:18.004,3,69,,0.0,14,14,7,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-montreal,Canadian Grand Prix,200.615,kph,68,16,1:18.257,11,68,,0.0,15,15,7,+2 Laps,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-montreal,Canadian Grand Prix,201.006,kph,68,15,1:18.105,13,68,,0.0,16,16,7,+2 Laps,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-montreal,Canadian Grand Prix,199.049,kph,68,17,1:18.873,19,68,,0.0,17,17,7,+2 Laps,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-montreal,Canadian Grand Prix,197.777,kph,60,19,1:19.380,18,67,,0.0,18,18,7,+3 Laps,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-montreal,Canadian Grand Prix,197.315,kph,67,21,1:19.566,20,67,,0.0,19,19,7,+3 Laps,,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-montreal,Canadian Grand Prix,197.533,kph,52,20,1:19.478,15,63,,0.0,20,20,7,Accident,,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-montreal,Canadian Grand Prix,198.588,kph,40,18,1:19.056,9,45,,0.0,21,R,7,Collision,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-montreal,Canadian Grand Prix,191.9,kph,42,22,1:21.811,21,43,,0.0,22,R,7,Collision,,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-silverstone,British Grand Prix,226.744,kph,50,2,1:33.531,2,52,5579456,25.0,1,1,8,Finished,1:32:59.456,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-silverstone,British Grand Prix,227.059,kph,52,1,1:33.401,4,52,5580221,18.0,2,2,8,Finished,+0.765,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-silverstone,British Grand Prix,225.396,kph,50,3,1:34.090,9,52,5586580,15.0,3,3,8,Finished,+7.124,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-silverstone,British Grand Prix,225.231,kph,51,4,1:34.159,1,52,5587212,12.0,4,4,8,Finished,+7.756,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-silverstone,British Grand Prix,222.339,kph,49,8,1:35.384,8,52,5590713,10.0,5,5,8,Finished,+11.257,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-silverstone,British Grand Prix,222.598,kph,51,6,1:35.273,11,52,5594029,8.0,6,6,8,Finished,+14.573,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-silverstone,British Grand Prix,221.002,kph,35,12,1:35.961,6,52,5595791,6.0,7,7,8,Finished,+16.335,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-silverstone,British Grand Prix,221.08,kph,37,11,1:35.927,5,52,5595999,4.0,8,8,8,Finished,+16.543,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-silverstone,British Grand Prix,222.465,kph,52,7,1:35.330,21,52,5597399,2.0,9,9,8,Finished,+17.943,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-silverstone,British Grand Prix,220.882,kph,48,13,1:36.013,14,52,5599165,1.0,10,10,8,Finished,+19.709,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-silverstone,British Grand Prix,221.126,kph,52,10,1:35.907,15,52,5600591,0.0,11,11,8,Finished,+21.135,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-silverstone,British Grand Prix,220.196,kph,52,15,1:36.312,16,52,5604550,0.0,12,12,8,Finished,+25.094,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-silverstone,British Grand Prix,220.096,kph,39,16,1:36.356,10,52,5605425,0.0,13,13,8,Finished,+25.969,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-silverstone,British Grand Prix,219.906,kph,32,17,1:36.439,17,52,5605741,0.0,14,14,8,Finished,+26.285,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-silverstone,British Grand Prix,218.43,kph,52,18,1:37.091,18,52,5611069,0.0,15,15,8,Finished,+31.613,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-silverstone,British Grand Prix,216.452,kph,51,19,1:37.978,19,52,5615553,0.0,16,16,8,Finished,+36.097,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-silverstone,British Grand Prix,213.881,kph,50,22,1:39.156,20,52,5647116,0.0,17,17,8,Finished,+1:07.660,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-silverstone,British Grand Prix,214.821,kph,50,21,1:38.722,22,52,5647215,0.0,18,18,8,Finished,+1:07.759,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-silverstone,British Grand Prix,221.804,kph,48,9,1:35.614,7,51,,0.0,19,19,8,Retired,,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-silverstone,British Grand Prix,220.611,kph,37,14,1:36.131,13,46,,0.0,20,20,8,Wheel,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-silverstone,British Grand Prix,223.195,kph,37,5,1:35.018,3,41,,0.0,21,R,8,Gearbox,,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-silverstone,British Grand Prix,215.59,kph,30,20,1:38.370,12,35,,0.0,22,R,8,Tyre,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-n-rburg,German Grand Prix,196.814,kph,59,5,1:34.164,2,60,6074711,25.0,1,1,9,Finished,1:41:14.711,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-n-rburg,German Grand Prix,197.647,kph,57,2,1:33.767,4,60,6075719,18.0,2,2,9,Finished,+1.008,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-n-rburg,German Grand Prix,195.956,kph,57,10,1:34.576,5,60,6080541,15.0,3,3,9,Finished,+5.830,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-n-rburg,German Grand Prix,198.279,kph,51,1,1:33.468,8,60,6082432,12.0,4,4,9,Finished,+7.721,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-n-rburg,German Grand Prix,196.83,kph,57,4,1:34.156,1,60,6101638,10.0,5,5,9,Finished,+26.927,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-n-rburg,German Grand Prix,196.736,kph,49,7,1:34.201,9,60,6102707,8.0,6,6,9,Finished,+27.996,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-n-rburg,German Grand Prix,195.53,kph,55,11,1:34.782,3,60,6112273,6.0,7,7,9,Finished,+37.562,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-n-rburg,German Grand Prix,192.78,kph,50,15,1:36.134,13,60,6113017,4.0,8,8,9,Finished,+38.306,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-n-rburg,German Grand Prix,196.778,kph,55,6,1:34.181,11,60,6121532,2.0,9,9,9,Finished,+46.821,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-n-rburg,German Grand Prix,196.647,kph,58,8,1:34.244,10,60,6124603,1.0,10,10,9,Finished,+49.892,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-n-rburg,German Grand Prix,191.918,kph,43,16,1:36.566,12,60,6128482,0.0,11,11,9,Finished,+53.771,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-n-rburg,German Grand Prix,193.086,kph,58,14,1:35.982,6,60,6131686,0.0,12,12,9,Finished,+56.975,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-n-rburg,German Grand Prix,193.42,kph,60,13,1:35.816,15,60,6132449,0.0,13,13,9,Finished,+57.738,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-n-rburg,German Grand Prix,193.469,kph,56,12,1:35.792,14,60,6134871,0.0,14,14,9,Finished,+1:00.160,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-n-rburg,German Grand Prix,196.544,kph,56,9,1:34.293,18,60,6136640,0.0,15,15,9,Finished,+1:01.929,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-n-rburg,German Grand Prix,197.216,kph,56,3,1:33.972,17,59,,0.0,16,16,9,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-n-rburg,German Grand Prix,189.916,kph,51,17,1:37.584,22,59,,0.0,17,17,9,+1 Lap,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-n-rburg,German Grand Prix,188.133,kph,40,19,1:38.509,20,59,,0.0,18,18,9,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-n-rburg,German Grand Prix,188.374,kph,47,18,1:38.383,21,59,,0.0,19,19,9,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-n-rburg,German Grand Prix,186.67,kph,12,21,1:39.281,16,22,,0.0,20,R,9,Hydraulics,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-n-rburg,German Grand Prix,185.617,kph,20,22,1:39.844,19,21,,0.0,21,R,9,Engine,,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-n-rburg,German Grand Prix,187.408,kph,3,20,1:38.890,7,3,,0.0,22,R,9,Spun off,,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-budapest,Hungarian Grand Prix,186.322,kph,69,3,1:24.647,1,70,6149445,25.0,1,1,10,Finished,1:42:29.445,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-budapest,Hungarian Grand Prix,184.982,kph,61,6,1:25.260,6,70,6160383,18.0,2,2,10,Finished,+10.938,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-budapest,Hungarian Grand Prix,186.529,kph,57,2,1:24.553,2,70,6161904,15.0,3,3,10,Finished,+12.459,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-budapest,Hungarian Grand Prix,187.603,kph,61,1,1:24.069,10,70,6167489,12.0,4,4,10,Finished,+18.044,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-budapest,Hungarian Grand Prix,184.692,kph,56,8,1:25.394,5,70,6180856,10.0,5,5,10,Finished,+31.411,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-budapest,Hungarian Grand Prix,184.834,kph,54,7,1:25.328,3,70,6201740,8.0,6,6,10,Finished,+52.295,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-budapest,Hungarian Grand Prix,182.975,kph,56,11,1:26.195,13,70,6203264,6.0,7,7,10,Finished,+53.819,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-budapest,Hungarian Grand Prix,185.164,kph,59,5,1:25.176,7,70,6205892,4.0,8,8,10,Finished,+56.447,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-budapest,Hungarian Grand Prix,183.086,kph,59,10,1:26.143,9,69,,2.0,9,9,10,+1 Lap,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-budapest,Hungarian Grand Prix,184.254,kph,69,9,1:25.597,15,69,,1.0,10,10,10,+1 Lap,,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-budapest,Hungarian Grand Prix,181.826,kph,58,14,1:26.740,12,69,,0.0,11,11,10,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-budapest,Hungarian Grand Prix,182.349,kph,53,12,1:26.491,14,69,,0.0,12,12,10,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-budapest,Hungarian Grand Prix,181.568,kph,58,15,1:26.863,8,69,,0.0,13,13,10,+1 Lap,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-budapest,Hungarian Grand Prix,180.302,kph,47,17,1:27.473,20,68,,0.0,14,14,10,+2 Laps,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-budapest,Hungarian Grand Prix,179.784,kph,54,18,1:27.725,19,68,,0.0,15,15,10,+2 Laps,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-budapest,Hungarian Grand Prix,178.715,kph,57,20,1:28.250,21,67,,0.0,16,16,10,+3 Laps,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-budapest,Hungarian Grand Prix,178.897,kph,65,19,1:28.160,22,67,,0.0,17,17,10,+3 Laps,,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-budapest,Hungarian Grand Prix,182.103,kph,55,13,1:26.608,18,66,,0.0,18,18,10,Hydraulics,,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-budapest,Hungarian Grand Prix,185.354,kph,62,4,1:25.089,4,64,,0.0,19,19,10,Engine,,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-budapest,Hungarian Grand Prix,181.018,kph,41,16,1:27.127,16,42,,0.0,20,R,10,Hydraulics,,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-budapest,Hungarian Grand Prix,176.94,kph,16,22,1:29.135,17,28,,0.0,21,R,10,Transmission,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-budapest,Hungarian Grand Prix,178.113,kph,12,21,1:28.548,11,19,,0.0,22,R,10,Hydraulics,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-spa,Belgian Grand Prix,227.657,kph,40,1,1:50.756,2,44,5022196,25.0,1,1,11,Finished,1:23:42.196,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-spa,Belgian Grand Prix,226.375,kph,36,4,1:51.383,9,44,5039065,18.0,2,2,11,Finished,+16.869,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-spa,Belgian Grand Prix,225.943,kph,39,7,1:51.596,1,44,5049930,15.0,3,3,11,Finished,+27.734,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-spa,Belgian Grand Prix,225.971,kph,39,6,1:51.582,4,44,5052068,12.0,4,4,11,Finished,+29.872,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-spa,Belgian Grand Prix,226.347,kph,31,5,1:51.397,3,44,5056041,10.0,5,5,11,Finished,+33.845,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-spa,Belgian Grand Prix,227.519,kph,36,2,1:50.823,6,44,5062990,8.0,6,6,11,Finished,+40.794,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-spa,Belgian Grand Prix,224.763,kph,40,9,1:52.182,10,44,5076118,6.0,7,7,11,Finished,+53.922,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-spa,Belgian Grand Prix,224.133,kph,34,11,1:52.497,7,44,5078042,4.0,8,8,11,Finished,+55.846,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-spa,Belgian Grand Prix,224.675,kph,35,10,1:52.226,12,44,5091743,2.0,9,9,11,Finished,+1:09.547,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-spa,Belgian Grand Prix,227.224,kph,38,3,1:50.967,19,44,5095666,1.0,10,10,11,Finished,+1:13.470,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-spa,Belgian Grand Prix,222.208,kph,34,16,1:53.472,13,44,5104132,0.0,11,11,11,Finished,+1:21.936,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-spa,Belgian Grand Prix,223.008,kph,29,14,1:53.065,18,44,5108936,0.0,12,12,11,Finished,+1:26.740,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-spa,Belgian Grand Prix,222.919,kph,41,15,1:53.110,11,44,5110454,0.0,13,13,11,Finished,+1:28.258,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-spa,Belgian Grand Prix,225.432,kph,30,8,1:51.849,21,44,5122632,0.0,14,14,11,Finished,+1:40.436,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-spa,Belgian Grand Prix,223.754,kph,31,13,1:52.688,20,44,5129652,0.0,15,15,11,Finished,+1:47.456,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-spa,Belgian Grand Prix,221.188,kph,43,18,1:53.995,14,43,,0.0,16,16,11,+1 Lap,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-spa,Belgian Grand Prix,223.97,kph,35,12,1:52.579,17,43,,0.0,17,17,11,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-spa,Belgian Grand Prix,219.457,kph,37,20,1:54.894,15,43,,0.0,18,18,11,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-spa,Belgian Grand Prix,219.4,kph,31,21,1:54.924,16,42,,0.0,19,19,11,+2 Laps,,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-spa,Belgian Grand Prix,219.719,kph,21,19,1:54.757,5,26,,0.0,20,R,11,Collision,,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-spa,Belgian Grand Prix,221.785,kph,20,17,1:53.688,8,25,,0.0,21,R,11,Brakes,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-spa,Belgian Grand Prix,214.901,kph,7,22,1:57.330,22,8,,0.0,22,R,11,Oil leak,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-monza,Italian Grand Prix,239.187,kph,52,12,1:27.190,1,53,4713352,25.0,1,1,12,Finished,1:18:33.352,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-monza,Italian Grand Prix,240.27,kph,52,5,1:26.797,5,53,4718819,18.0,2,2,12,Finished,+5.467,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-monza,Italian Grand Prix,240.567,kph,53,3,1:26.690,2,53,4719702,15.0,3,3,12,Finished,+6.350,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-monza,Italian Grand Prix,239.448,kph,48,10,1:27.095,4,53,4722713,12.0,4,4,12,Finished,+9.361,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-monza,Italian Grand Prix,240.495,kph,48,4,1:26.716,3,53,4723707,10.0,5,5,12,Finished,+10.355,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-monza,Italian Grand Prix,241.095,kph,50,2,1:26.500,6,53,4724351,8.0,6,6,12,Finished,+10.999,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-monza,Italian Grand Prix,238.903,kph,52,13,1:27.294,7,53,4745681,6.0,7,7,12,Finished,+32.329,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-monza,Italian Grand Prix,239.591,kph,52,8,1:27.043,13,53,4746482,4.0,8,8,12,Finished,+33.130,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-monza,Italian Grand Prix,242.924,kph,51,1,1:25.849,12,53,4746879,2.0,9,9,12,Finished,+33.527,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-monza,Italian Grand Prix,237.445,kph,46,16,1:27.830,9,53,4751679,1.0,10,10,12,Finished,+38.327,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-monza,Italian Grand Prix,239.853,kph,45,6,1:26.948,11,53,4752047,0.0,11,11,12,Finished,+38.695,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-monza,Italian Grand Prix,238.049,kph,44,15,1:27.607,8,53,4753117,0.0,12,12,12,Finished,+39.765,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-monza,Italian Grand Prix,239.457,kph,53,9,1:27.092,16,53,4754232,0.0,13,13,12,Finished,+40.880,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-monza,Italian Grand Prix,239.762,kph,51,7,1:26.981,14,53,4762437,0.0,14,14,12,Finished,+49.085,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-monza,Italian Grand Prix,239.253,kph,53,11,1:27.166,18,53,4770179,0.0,15,15,12,Finished,+56.827,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-monza,Italian Grand Prix,238.564,kph,38,14,1:27.418,17,52,,0.0,16,16,12,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-monza,Italian Grand Prix,235.328,kph,52,17,1:28.620,20,52,,0.0,17,17,12,+1 Lap,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-monza,Italian Grand Prix,235.214,kph,52,18,1:28.663,19,52,,0.0,18,18,12,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-monza,Italian Grand Prix,232.767,kph,47,20,1:29.595,21,52,,0.0,19,19,12,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-monza,Italian Grand Prix,233.037,kph,48,19,1:29.491,22,52,,0.0,20,20,12,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-monza,Italian Grand Prix,232.469,kph,14,21,1:29.710,10,14,,0.0,21,R,12,Transmission,,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-monza,Italian Grand Prix,,,,,,15,0,,0.0,22,R,12,Accident,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-marina-bay,Singapore Grand Prix,167.94,kph,46,1,1:48.574,1,61,7153132,25.0,1,1,13,Finished,1:59:13.132,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-marina-bay,Singapore Grand Prix,164.149,kph,44,11,1:51.082,7,61,7185759,18.0,2,2,13,Finished,+32.627,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-marina-bay,Singapore Grand Prix,164.063,kph,55,13,1:51.140,13,61,7197052,15.0,3,3,13,Finished,+43.920,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-marina-bay,Singapore Grand Prix,165.233,kph,51,6,1:50.353,2,61,7204287,12.0,4,4,13,Finished,+51.155,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-marina-bay,Singapore Grand Prix,165.89,kph,59,4,1:49.916,5,61,7206291,10.0,5,5,13,Finished,+53.159,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-marina-bay,Singapore Grand Prix,165.0,kph,45,7,1:50.509,6,61,7217009,8.0,6,6,13,Finished,+1:03.877,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-marina-bay,Singapore Grand Prix,163.182,kph,46,15,1:51.740,8,61,7236486,6.0,7,7,13,Finished,+1:23.354,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-marina-bay,Singapore Grand Prix,162.911,kph,46,16,1:51.926,14,61,7236952,4.0,8,8,13,Finished,+1:23.820,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-marina-bay,Singapore Grand Prix,162.533,kph,47,18,1:52.186,11,61,7237393,2.0,9,9,13,Finished,+1:24.261,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-marina-bay,Singapore Grand Prix,166.283,kph,43,2,1:49.656,15,61,7237800,1.0,10,10,13,Finished,+1:24.668,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-marina-bay,Singapore Grand Prix,164.703,kph,46,8,1:50.708,18,61,7241611,0.0,11,11,13,Finished,+1:28.479,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-marina-bay,Singapore Grand Prix,162.793,kph,37,17,1:52.007,10,61,7251026,0.0,12,12,13,Finished,+1:37.894,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-marina-bay,Singapore Grand Prix,163.232,kph,53,14,1:51.706,16,61,7258293,0.0,13,13,13,Finished,+1:45.161,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-marina-bay,Singapore Grand Prix,165.27,kph,45,5,1:50.328,12,61,7266644,0.0,14,14,13,Finished,+1:53.512,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-marina-bay,Singapore Grand Prix,166.091,kph,51,3,1:49.783,4,60,,0.0,15,15,13,Water pressure,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-marina-bay,Singapore Grand Prix,162.12,kph,44,19,1:52.472,20,60,,0.0,16,16,13,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-marina-bay,Singapore Grand Prix,161.304,kph,50,21,1:53.041,22,60,,0.0,17,17,13,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-marina-bay,Singapore Grand Prix,161.508,kph,45,20,1:52.898,21,60,,0.0,18,18,13,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-marina-bay,Singapore Grand Prix,164.285,kph,58,10,1:50.990,19,60,,0.0,19,19,13,+1 Lap,,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-marina-bay,Singapore Grand Prix,164.657,kph,45,9,1:50.739,17,54,,0.0,20,20,13,Accident,,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-marina-bay,Singapore Grand Prix,164.126,kph,35,12,1:51.097,3,37,,0.0,21,R,13,Pneumatics,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-marina-bay,Singapore Grand Prix,161.288,kph,23,22,1:53.052,9,23,,0.0,22,R,13,Accident,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-yeongam-county,Korean Grand Prix,199.388,kph,53,1,1:41.380,1,55,6193701,25.0,1,1,14,Finished,1:43:13.701,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-yeongam-county,Korean Grand Prix,198.225,kph,51,3,1:41.975,9,55,6197925,18.0,2,2,14,Finished,+4.224,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-yeongam-county,Korean Grand Prix,198.3,kph,46,2,1:41.936,3,55,6198628,15.0,3,3,14,Finished,+4.927,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-yeongam-county,Korean Grand Prix,197.002,kph,53,6,1:42.608,7,55,6217815,12.0,4,4,14,Finished,+24.114,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-yeongam-county,Korean Grand Prix,197.134,kph,53,5,1:42.539,2,55,6218956,10.0,5,5,14,Finished,+25.255,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-yeongam-county,Korean Grand Prix,196.808,kph,54,7,1:42.709,5,55,6219890,8.0,6,6,14,Finished,+26.189,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-yeongam-county,Korean Grand Prix,197.265,kph,54,4,1:42.471,4,55,6220399,6.0,7,7,14,Finished,+26.698,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-yeongam-county,Korean Grand Prix,196.113,kph,45,12,1:43.073,11,55,6225963,4.0,8,8,14,Finished,+32.262,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-yeongam-county,Korean Grand Prix,196.34,kph,47,10,1:42.954,6,55,6228091,2.0,9,9,14,Finished,+34.390,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-yeongam-county,Korean Grand Prix,196.303,kph,47,11,1:42.973,10,55,6228856,1.0,10,10,14,Finished,+35.155,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-yeongam-county,Korean Grand Prix,196.741,kph,55,8,1:42.744,8,55,6229691,0.0,11,11,14,Finished,+35.990,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-yeongam-county,Korean Grand Prix,194.61,kph,44,14,1:43.869,17,55,6240750,0.0,12,12,14,Finished,+47.049,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-yeongam-county,Korean Grand Prix,194.111,kph,43,17,1:44.136,18,55,6243714,0.0,13,13,14,Finished,+50.013,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-yeongam-county,Korean Grand Prix,193.477,kph,54,19,1:44.477,19,55,6257279,0.0,14,14,14,Finished,+1:03.578,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-yeongam-county,Korean Grand Prix,193.667,kph,55,18,1:44.375,20,55,6258202,0.0,15,15,14,Finished,+1:04.501,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-yeongam-county,Korean Grand Prix,192.53,kph,54,20,1:44.991,22,55,6261671,0.0,16,16,14,Finished,+1:07.970,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-yeongam-county,Korean Grand Prix,191.769,kph,48,21,1:45.408,21,55,6266599,0.0,17,17,14,Finished,+1:12.898,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-yeongam-county,Korean Grand Prix,194.197,kph,52,15,1:44.090,16,53,,0.0,18,18,14,+2 Laps,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-yeongam-county,Korean Grand Prix,196.353,kph,52,9,1:42.947,12,52,,0.0,19,19,14,+3 Laps,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-yeongam-county,Korean Grand Prix,194.188,kph,43,16,1:44.095,14,50,,0.0,20,20,14,Collision,,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-yeongam-county,Korean Grand Prix,194.621,kph,27,13,1:43.863,13,36,,0.0,21,R,14,Collision,,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-yeongam-county,Korean Grand Prix,189.961,kph,10,22,1:46.411,15,24,,0.0,22,R,14,Spun off,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-suzuka,Japanese Grand Prix,219.322,kph,39,4,1:35.317,2,53,5209301,25.0,1,1,15,Finished,1:26:49.301,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-suzuka,Japanese Grand Prix,221.015,kph,44,1,1:34.587,1,53,5216430,18.0,2,2,15,Finished,+7.129,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-suzuka,Japanese Grand Prix,217.782,kph,48,10,1:35.991,4,53,5219211,15.0,3,3,15,Finished,+9.910,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-suzuka,Japanese Grand Prix,218.041,kph,39,8,1:35.877,8,53,5254906,12.0,4,4,15,Finished,+45.605,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-suzuka,Japanese Grand Prix,218.865,kph,35,5,1:35.516,9,53,5256626,10.0,5,5,15,Finished,+47.325,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-suzuka,Japanese Grand Prix,216.674,kph,33,11,1:36.482,7,53,5260916,8.0,6,6,15,Finished,+51.615,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-suzuka,Japanese Grand Prix,216.636,kph,50,12,1:36.499,14,53,5280931,6.0,7,7,15,Finished,+1:11.630,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-suzuka,Japanese Grand Prix,220.868,kph,46,2,1:34.650,6,53,5281324,4.0,8,8,15,Finished,+1:12.023,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-suzuka,Japanese Grand Prix,218.79,kph,53,6,1:35.549,10,53,5290122,2.0,9,9,15,Finished,+1:20.821,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-suzuka,Japanese Grand Prix,215.515,kph,30,13,1:37.001,5,53,5298564,1.0,10,10,15,Finished,+1:29.263,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-suzuka,Japanese Grand Prix,214.617,kph,41,15,1:37.407,12,53,5307873,0.0,11,11,15,Finished,+1:38.572,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-suzuka,Japanese Grand Prix,218.0,kph,52,9,1:35.895,17,52,,0.0,12,12,15,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-suzuka,Japanese Grand Prix,220.008,kph,52,3,1:35.020,16,52,,0.0,13,13,15,+1 Lap,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-suzuka,Japanese Grand Prix,214.705,kph,29,14,1:37.367,22,52,,0.0,14,14,15,+1 Lap,,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-suzuka,Japanese Grand Prix,218.114,kph,46,7,1:35.845,11,52,,0.0,15,15,15,+1 Lap,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-suzuka,Japanese Grand Prix,214.581,kph,30,16,1:37.423,15,52,,0.0,16,16,15,+1 Lap,,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-suzuka,Japanese Grand Prix,213.632,kph,43,18,1:37.856,13,52,,0.0,17,17,15,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-suzuka,Japanese Grand Prix,214.436,kph,51,17,1:37.489,20,52,,0.0,18,18,15,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-suzuka,Japanese Grand Prix,211.777,kph,45,19,1:38.713,18,52,,0.0,19,19,15,+1 Lap,,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-suzuka,Japanese Grand Prix,206.569,kph,3,20,1:41.202,3,7,,0.0,20,R,15,Puncture,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-suzuka,Japanese Grand Prix,,,,,,19,0,,0.0,21,R,15,Accident,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-suzuka,Japanese Grand Prix,,,,,,21,0,,0.0,22,R,15,Accident,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-uttar-pradesh,Indian Grand Prix,209.383,kph,54,2,1:28.116,1,60,5472187,25.0,1,1,16,Finished,1:31:12.187,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-uttar-pradesh,Indian Grand Prix,207.732,kph,49,9,1:28.816,2,60,5502010,18.0,2,2,16,Finished,+29.823,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-uttar-pradesh,Indian Grand Prix,207.779,kph,57,7,1:28.796,17,60,5512079,15.0,3,3,16,Finished,+39.892,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-uttar-pradesh,Indian Grand Prix,207.569,kph,54,11,1:28.886,5,60,5513879,12.0,4,4,16,Finished,+41.692,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-uttar-pradesh,Indian Grand Prix,208.467,kph,59,4,1:28.503,9,60,5516016,10.0,5,5,16,Finished,+43.829,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-uttar-pradesh,Indian Grand Prix,207.182,kph,53,15,1:29.052,3,60,5524662,8.0,6,6,16,Finished,+52.475,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-uttar-pradesh,Indian Grand Prix,210.426,kph,60,1,1:27.679,6,60,5540175,6.0,7,7,16,Finished,+1:07.988,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-uttar-pradesh,Indian Grand Prix,206.606,kph,58,17,1:29.300,12,60,5545055,4.0,8,8,16,Finished,+1:12.868,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-uttar-pradesh,Indian Grand Prix,208.665,kph,60,3,1:28.419,13,60,5546921,2.0,9,9,16,Finished,+1:14.734,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-uttar-pradesh,Indian Grand Prix,207.697,kph,60,10,1:28.831,11,60,5548424,1.0,10,10,16,Finished,+1:16.237,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-uttar-pradesh,Indian Grand Prix,207.983,kph,58,6,1:28.709,8,60,5550484,0.0,11,11,16,Finished,+1:18.297,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-uttar-pradesh,Indian Grand Prix,207.275,kph,56,14,1:29.012,18,60,5551138,0.0,12,12,16,Finished,+1:18.951,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-uttar-pradesh,Indian Grand Prix,206.653,kph,53,16,1:29.280,14,59,,0.0,13,13,16,+1 Lap,,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-uttar-pradesh,Indian Grand Prix,207.737,kph,57,8,1:28.814,10,59,,0.0,14,14,16,+1 Lap,,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-uttar-pradesh,Indian Grand Prix,208.046,kph,49,5,1:28.682,16,59,,0.0,15,15,16,+1 Lap,,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-uttar-pradesh,Indian Grand Prix,207.471,kph,52,12,1:28.928,15,59,,0.0,16,16,16,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-uttar-pradesh,Indian Grand Prix,204.239,kph,56,20,1:30.335,22,58,,0.0,17,17,16,+2 Laps,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-uttar-pradesh,Indian Grand Prix,204.611,kph,57,19,1:30.171,19,58,,0.0,18,18,16,+2 Laps,,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-uttar-pradesh,Indian Grand Prix,207.426,kph,52,13,1:28.947,7,54,,0.0,19,19,16,Mechanical,,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-uttar-pradesh,Indian Grand Prix,206.145,kph,30,18,1:29.500,4,39,,0.0,20,R,16,Alternator,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-uttar-pradesh,Indian Grand Prix,198.585,kph,32,21,1:32.907,21,35,,0.0,21,R,16,Hydraulics,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-uttar-pradesh,Indian Grand Prix,,,,,,20,1,,0.0,22,R,16,Collision,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-abu-dhabi,Abu Dhabi Grand Prix,192.451,kph,51,2,1:43.893,2,55,5886106,25.0,1,1,17,Finished,1:38:06.106,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-abu-dhabi,Abu Dhabi Grand Prix,191.583,kph,49,5,1:44.364,1,55,5916935,18.0,2,2,17,Finished,+30.829,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-abu-dhabi,Abu Dhabi Grand Prix,191.41,kph,51,6,1:44.458,3,55,5919756,15.0,3,3,17,Finished,+33.650,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-abu-dhabi,Abu Dhabi Grand Prix,191.699,kph,54,3,1:44.301,6,55,5920908,12.0,4,4,17,Finished,+34.802,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-abu-dhabi,Abu Dhabi Grand Prix,193.305,kph,55,1,1:43.434,10,55,5953287,10.0,5,5,17,Finished,+1:07.181,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-abu-dhabi,Abu Dhabi Grand Prix,189.007,kph,55,14,1:45.786,11,55,5964280,8.0,6,6,17,Finished,+1:18.174,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-abu-dhabi,Abu Dhabi Grand Prix,189.586,kph,47,10,1:45.463,4,55,5965373,6.0,7,7,17,Finished,+1:19.267,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-abu-dhabi,Abu Dhabi Grand Prix,189.615,kph,52,9,1:45.447,7,55,5968992,4.0,8,8,17,Finished,+1:22.886,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-abu-dhabi,Abu Dhabi Grand Prix,189.637,kph,51,8,1:45.435,8,55,5977304,2.0,9,9,17,Finished,+1:31.198,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-abu-dhabi,Abu Dhabi Grand Prix,189.324,kph,48,13,1:45.609,17,55,5979363,1.0,10,10,17,Finished,+1:33.257,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-abu-dhabi,Abu Dhabi Grand Prix,189.466,kph,55,11,1:45.530,14,55,5982095,0.0,11,11,17,Finished,+1:35.989,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-abu-dhabi,Abu Dhabi Grand Prix,188.03,kph,43,17,1:46.336,12,55,5989873,0.0,12,12,17,Finished,+1:43.767,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-abu-dhabi,Abu Dhabi Grand Prix,188.672,kph,43,15,1:45.974,16,55,5990401,0.0,13,13,17,Finished,+1:44.295,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-abu-dhabi,Abu Dhabi Grand Prix,189.394,kph,52,12,1:45.570,5,54,,0.0,14,14,17,+1 Lap,,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-abu-dhabi,Abu Dhabi Grand Prix,191.607,kph,54,4,1:44.351,15,54,,0.0,15,15,17,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-abu-dhabi,Abu Dhabi Grand Prix,188.551,kph,46,16,1:46.042,9,54,,0.0,16,16,17,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-abu-dhabi,Abu Dhabi Grand Prix,191.302,kph,53,7,1:44.517,13,54,,0.0,17,17,17,+1 Lap,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-abu-dhabi,Abu Dhabi Grand Prix,187.578,kph,48,19,1:46.592,18,54,,0.0,18,18,17,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-abu-dhabi,Abu Dhabi Grand Prix,187.86,kph,50,18,1:46.432,19,54,,0.0,19,19,17,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-abu-dhabi,Abu Dhabi Grand Prix,185.788,kph,52,20,1:47.619,21,53,,0.0,20,20,17,+2 Laps,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-abu-dhabi,Abu Dhabi Grand Prix,185.636,kph,52,21,1:47.707,20,53,,0.0,21,21,17,+2 Laps,,2013
+Lotus F1,lotus_f1,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2013-abu-dhabi,Abu Dhabi Grand Prix,,,,,,22,0,,0.0,22,R,17,Accident,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-austin,United States Grand Prix,198.754,kph,54,1,1:39.856,1,56,5957148,25.0,1,1,18,Finished,1:39:17.148,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-austin,United States Grand Prix,197.588,kph,52,2,1:40.445,3,56,5963432,18.0,2,2,18,Finished,+6.284,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-austin,United States Grand Prix,197.301,kph,52,4,1:40.591,2,56,5965544,15.0,3,3,18,Finished,+8.396,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-austin,United States Grand Prix,196.857,kph,50,5,1:40.818,5,56,5984506,12.0,4,4,18,Finished,+27.358,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-austin,United States Grand Prix,196.141,kph,52,10,1:41.186,6,56,5986740,10.0,5,5,18,Finished,+29.592,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-austin,United States Grand Prix,196.596,kph,54,6,1:40.952,4,56,5987548,8.0,6,6,18,Finished,+30.400,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-austin,United States Grand Prix,194.901,kph,47,15,1:41.830,7,56,6003840,6.0,7,7,18,Finished,+46.692,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-austin,United States Grand Prix,197.496,kph,54,3,1:40.492,9,56,6011657,4.0,8,8,18,Finished,+54.509,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-austin,United States Grand Prix,196.244,kph,51,8,1:41.133,12,56,6016289,2.0,9,9,18,Finished,+59.141,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-austin,United States Grand Prix,195.95,kph,50,12,1:41.285,15,56,6034426,1.0,10,10,18,Finished,+1:17.278,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-austin,United States Grand Prix,194.349,kph,45,16,1:42.119,10,56,6038152,0.0,11,11,18,Finished,+1:21.004,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-austin,United States Grand Prix,195.882,kph,52,13,1:41.320,14,56,6041722,0.0,12,12,18,Finished,+1:24.574,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-austin,United States Grand Prix,196.097,kph,53,11,1:41.209,13,56,6044062,0.0,13,13,18,Finished,+1:26.914,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-austin,United States Grand Prix,195.725,kph,51,14,1:41.401,20,56,6048855,0.0,14,14,18,Finished,+1:31.707,2013
+Lotus F1,lotus_f1,British,KOV,kovalainen,Heikki Kovalainen,Finnish,7,2013-austin,United States Grand Prix,196.448,kph,52,7,1:41.028,8,56,6052211,0.0,15,15,18,Finished,+1:35.063,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-austin,United States Grand Prix,196.215,kph,54,9,1:41.148,11,56,6054001,0.0,16,16,18,Finished,+1:36.853,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-austin,United States Grand Prix,192.578,kph,42,17,1:43.058,17,55,,0.0,17,17,18,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-austin,United States Grand Prix,191.906,kph,45,18,1:43.419,19,55,,0.0,18,18,18,+1 Lap,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-austin,United States Grand Prix,190.957,kph,45,20,1:43.933,18,55,,0.0,19,19,18,+1 Lap,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-austin,United States Grand Prix,190.893,kph,48,21,1:43.968,22,55,,0.0,20,20,18,+1 Lap,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-austin,United States Grand Prix,191.248,kph,48,19,1:43.775,21,54,,0.0,21,21,18,+2 Laps,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-austin,United States Grand Prix,,,,,,16,0,,0.0,22,R,18,Accident,,2013
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2013-s-o-paulo,Brazilian Grand Prix,205.125,kph,51,3,1:15.624,1,71,5556300,25.0,1,1,19,Finished,1:32:36.300,2013
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2013-s-o-paulo,Brazilian Grand Prix,205.636,kph,51,1,1:15.436,4,71,5566752,18.0,2,2,19,Finished,+10.452,2013
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2013-s-o-paulo,Brazilian Grand Prix,205.473,kph,50,2,1:15.496,3,71,5575213,15.0,3,3,19,Finished,+18.913,2013
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2013-s-o-paulo,Brazilian Grand Prix,202.909,kph,52,7,1:16.450,14,71,5593660,12.0,4,4,19,Finished,+37.360,2013
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2013-s-o-paulo,Brazilian Grand Prix,202.93,kph,60,6,1:16.442,2,71,5595348,10.0,5,5,19,Finished,+39.048,2013
+McLaren,mclaren,British,PER,perez,Sergio Pérez,Mexican,11,2013-s-o-paulo,Brazilian Grand Prix,203.451,kph,50,5,1:16.246,19,71,5600351,8.0,6,6,19,Finished,+44.051,2013
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2013-s-o-paulo,Brazilian Grand Prix,202.856,kph,49,8,1:16.470,9,71,5605410,6.0,7,7,19,Finished,+49.110,2013
+Sauber,sauber,Swiss,HUL,hulkenberg,Nico Hülkenberg,German,27,2013-s-o-paulo,Brazilian Grand Prix,201.979,kph,49,12,1:16.802,10,71,5620552,4.0,8,8,19,Finished,+1:04.252,2013
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2013-s-o-paulo,Brazilian Grand Prix,202.268,kph,51,10,1:16.692,5,71,5629203,2.0,9,9,19,Finished,+1:12.903,2013
+Toro Rosso,toro_rosso,Italian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2013-s-o-paulo,Brazilian Grand Prix,201.527,kph,45,15,1:16.974,7,70,,1.0,10,10,19,+1 Lap,,2013
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2013-s-o-paulo,Brazilian Grand Prix,201.839,kph,58,14,1:16.855,12,70,,0.0,11,11,19,+1 Lap,,2013
+Sauber,sauber,Swiss,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2013-s-o-paulo,Brazilian Grand Prix,202.702,kph,59,9,1:16.528,17,70,,0.0,12,12,19,+1 Lap,,2013
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2013-s-o-paulo,Brazilian Grand Prix,203.979,kph,57,4,1:16.049,15,70,,0.0,13,13,19,+1 Lap,,2013
+Lotus F1,lotus_f1,British,KOV,kovalainen,Heikki Kovalainen,Finnish,7,2013-s-o-paulo,Brazilian Grand Prix,200.81,kph,70,16,1:17.249,11,70,,0.0,14,14,19,+1 Lap,,2013
+Toro Rosso,toro_rosso,Italian,VER,vergne,Jean-Éric Vergne,French,25,2013-s-o-paulo,Brazilian Grand Prix,202.01,kph,49,11,1:16.790,8,70,,0.0,15,15,19,+1 Lap,,2013
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2013-s-o-paulo,Brazilian Grand Prix,200.02,kph,45,18,1:17.554,16,70,,0.0,16,16,19,+1 Lap,,2013
+Marussia,marussia,Russian,BIA,jules_bianchi,Jules Bianchi,French,17,2013-s-o-paulo,Brazilian Grand Prix,199.601,kph,67,20,1:17.717,21,69,,0.0,17,17,19,+2 Laps,,2013
+Caterham,caterham,Malaysian,VDG,garde,Giedo van der Garde,Dutch,21,2013-s-o-paulo,Brazilian Grand Prix,199.927,kph,51,19,1:17.590,20,69,,0.0,18,18,19,+2 Laps,,2013
+Marussia,marussia,Russian,CHI,chilton,Max Chilton,British,4,2013-s-o-paulo,Brazilian Grand Prix,200.727,kph,68,17,1:17.281,22,69,,0.0,19,19,19,+2 Laps,,2013
+Caterham,caterham,Malaysian,PIC,pic,Charles Pic,French,20,2013-s-o-paulo,Brazilian Grand Prix,197.776,kph,27,21,1:18.434,18,58,,0.0,20,R,19,Mechanical,,2013
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2013-s-o-paulo,Brazilian Grand Prix,201.879,kph,43,13,1:16.840,13,45,,0.0,21,R,19,Accident,,2013
+Lotus F1,lotus_f1,British,GRO,grosjean,Romain Grosjean,French,8,2013-s-o-paulo,Brazilian Grand Prix,191.752,kph,2,22,1:20.898,6,2,,0.0,22,R,19,Engine,,2013

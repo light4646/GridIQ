@@ -1,0 +1,455 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-melbourne,Australian Grand Prix,212.488,kph,44,4,1:29.844,1,58,5370259,25.0,1,1,1,Finished,1:29:30.259,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-melbourne,Australian Grand Prix,211.382,kph,41,8,1:30.314,2,58,5392556,18.0,2,2,1,Finished,+22.297,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-melbourne,Australian Grand Prix,211.969,kph,55,7,1:30.064,6,58,5400819,15.0,3,3,1,Finished,+30.560,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-melbourne,Australian Grand Prix,213.336,kph,49,2,1:29.487,5,58,5402031,12.0,4,4,1,Finished,+31.772,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-melbourne,Australian Grand Prix,213.066,kph,50,3,1:29.600,3,58,5408430,10.0,5,5,1,Finished,+38.171,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-melbourne,Australian Grand Prix,212.396,kph,49,5,1:29.883,4,58,5424563,8.0,6,6,1,Finished,+54.304,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-melbourne,Australian Grand Prix,214.631,kph,55,1,1:28.947,8,58,5455445,6.0,7,7,1,Finished,+1:25.186,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-melbourne,Australian Grand Prix,210.167,kph,44,11,1:30.836,10,57,,4.0,8,8,1,+1 Lap,,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-melbourne,Australian Grand Prix,208.583,kph,55,13,1:31.526,16,57,,2.0,9,9,1,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-melbourne,Australian Grand Prix,207.641,kph,40,14,1:31.941,14,57,,1.0,10,10,1,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-melbourne,Australian Grand Prix,211.025,kph,41,10,1:30.467,12,57,,0.0,11,11,1,+1 Lap,,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-melbourne,Australian Grand Prix,206.661,kph,43,15,1:32.377,18,57,,0.0,12,12,1,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-melbourne,Australian Grand Prix,206.275,kph,52,16,1:32.550,20,56,,0.0,13,13,1,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-melbourne,Australian Grand Prix,201.969,kph,44,19,1:34.523,22,54,,0.0,14,14,1,+4 Laps,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-melbourne,Australian Grand Prix,199.3,kph,48,22,1:35.789,21,49,,0.0,15,R,1,+9 Laps,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-melbourne,Australian Grand Prix,208.861,kph,47,12,1:31.404,17,48,,0.0,16,R,1,Transmission,,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-melbourne,Australian Grand Prix,204.173,kph,21,17,1:33.503,7,22,,0.0,17,R,1,Collision,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-melbourne,Australian Grand Prix,201.129,kph,19,20,1:34.918,19,19,,0.0,18,R,1,Water leak,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-melbourne,Australian Grand Prix,200.283,kph,13,21,1:35.319,11,19,,0.0,19,R,1,Collision,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-melbourne,Australian Grand Prix,202.873,kph,7,18,1:34.102,15,9,,0.0,20,R,1,Transmission,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-melbourne,Australian Grand Prix,211.218,kph,51,9,1:30.384,9,58,,0.0,21,D,1,Disqualified,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-melbourne,Australian Grand Prix,212.209,kph,39,6,1:29.962,13,58,,0.0,22,D,1,Disqualified,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-kuala-lumpur,Malaysian Grand Prix,196.523,kph,33,6,1:41.539,1,56,5859832,25.0,1,1,2,Finished,1:37:39.832,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-kuala-lumpur,Malaysian Grand Prix,197.057,kph,50,4,1:41.264,4,56,5863093,18.0,2,2,2,Finished,+3.261,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-kuala-lumpur,Malaysian Grand Prix,196.508,kph,47,7,1:41.547,6,56,5884907,15.0,3,3,2,Finished,+25.075,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-kuala-lumpur,Malaysian Grand Prix,198.415,kph,46,1,1:40.571,3,56,5886216,12.0,4,4,2,Finished,+26.384,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-kuala-lumpur,Malaysian Grand Prix,195.637,kph,41,9,1:41.999,7,56,5896790,10.0,5,5,2,Finished,+36.958,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-kuala-lumpur,Malaysian Grand Prix,198.127,kph,49,2,1:40.717,5,56,5897080,8.0,6,6,2,Finished,+37.248,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-kuala-lumpur,Malaysian Grand Prix,195.453,kph,39,10,1:42.095,10,56,5926271,6.0,7,7,2,Finished,+1:06.439,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-kuala-lumpur,Malaysian Grand Prix,196.575,kph,54,5,1:41.512,2,56,5929789,4.0,8,8,2,Finished,+1:09.957,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-kuala-lumpur,Malaysian Grand Prix,194.698,kph,45,11,1:42.491,11,56,5944728,2.0,9,9,2,Finished,+1:24.896,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-kuala-lumpur,Malaysian Grand Prix,193.956,kph,48,13,1:42.883,14,56,5951395,1.0,10,10,2,Finished,+1:31.563,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-kuala-lumpur,Malaysian Grand Prix,193.786,kph,34,14,1:42.973,17,55,5961211,0.0,11,11,2,+1 Lap,+1:41.379,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-kuala-lumpur,Malaysian Grand Prix,196.062,kph,45,8,1:41.778,9,55,,0.0,12,12,2,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-kuala-lumpur,Malaysian Grand Prix,194.379,kph,36,12,1:42.659,12,55,,0.0,13,13,2,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-kuala-lumpur,Malaysian Grand Prix,192.346,kph,37,17,1:43.744,13,55,,0.0,14,14,2,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-kuala-lumpur,Malaysian Grand Prix,192.47,kph,43,16,1:43.677,19,55,,0.0,15,15,2,+1 Lap,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-kuala-lumpur,Malaysian Grand Prix,189.401,kph,50,20,1:45.357,21,54,,0.0,16,16,2,+2 Laps,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-kuala-lumpur,Malaysian Grand Prix,197.466,kph,49,3,1:41.054,8,52,,0.0,17,17,2,Accident,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-kuala-lumpur,Malaysian Grand Prix,187.332,kph,42,23,1:46.521,23,46,,0.0,18,R,2,+10 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-kuala-lumpur,Malaysian Grand Prix,189.421,kph,41,19,1:45.346,22,42,,0.0,19,R,2,Accident,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-kuala-lumpur,Malaysian Grand Prix,189.54,kph,23,18,1:45.280,20,31,,0.0,20,R,2,Clutch,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-kuala-lumpur,Malaysian Grand Prix,193.177,kph,19,15,1:43.298,16,23,,0.0,21,R,2,Accident,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-kuala-lumpur,Malaysian Grand Prix,189.116,kph,10,21,1:45.516,15,22,,0.0,22,R,2,Gearbox,,2011
+HRT,hrt,Spanish,KAR,karthikeyan,Narain Karthikeyan,Indian,22,2011-kuala-lumpur,Malaysian Grand Prix,182.427,kph,5,24,1:49.385,24,14,,0.0,23,R,2,+42 Laps,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-kuala-lumpur,Malaysian Grand Prix,188.806,kph,5,22,1:45.689,18,8,,0.0,24,R,2,Engine misfire,,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-shanghai,Chinese Grand Prix,195.424,kph,48,2,1:40.415,3,56,5818226,25.0,1,1,3,Finished,1:36:58.226,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-shanghai,Chinese Grand Prix,193.677,kph,47,8,1:41.321,1,56,5823424,18.0,2,2,3,Finished,+5.198,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-shanghai,Chinese Grand Prix,198.232,kph,42,1,1:38.993,18,56,5825781,15.0,3,3,3,Finished,+7.555,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-shanghai,Chinese Grand Prix,195.021,kph,39,3,1:40.623,2,56,5828226,12.0,4,4,3,Finished,+10.000,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-shanghai,Chinese Grand Prix,193.974,kph,41,5,1:41.166,4,56,5831674,10.0,5,5,3,Finished,+13.448,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-shanghai,Chinese Grand Prix,192.997,kph,39,10,1:41.678,6,56,5834066,8.0,6,6,3,Finished,+15.840,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-shanghai,Chinese Grand Prix,192.256,kph,41,15,1:42.070,5,56,5848848,6.0,7,7,3,Finished,+30.622,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-shanghai,Chinese Grand Prix,193.88,kph,46,6,1:41.215,14,56,5849252,4.0,8,8,3,Finished,+31.026,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-shanghai,Chinese Grand Prix,193.792,kph,50,7,1:41.261,10,56,5875630,2.0,9,9,3,Finished,+57.404,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-shanghai,Chinese Grand Prix,191.306,kph,32,17,1:42.577,13,56,5881499,1.0,10,10,3,Finished,+1:03.273,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-shanghai,Chinese Grand Prix,191.237,kph,45,18,1:42.614,8,56,5886983,0.0,11,11,3,Finished,+1:08.757,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-shanghai,Chinese Grand Prix,191.625,kph,51,16,1:42.406,16,56,5890965,0.0,12,12,3,Finished,+1:12.739,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-shanghai,Chinese Grand Prix,192.329,kph,45,13,1:42.031,15,56,5908415,0.0,13,13,3,Finished,+1:30.189,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-shanghai,Chinese Grand Prix,192.963,kph,45,11,1:41.696,9,56,5908897,0.0,14,14,3,Finished,+1:30.671,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-shanghai,Chinese Grand Prix,193.991,kph,54,4,1:41.157,11,55,,0.0,15,15,3,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-shanghai,Chinese Grand Prix,191.129,kph,45,19,1:42.672,19,55,,0.0,16,16,3,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-shanghai,Chinese Grand Prix,193.063,kph,39,9,1:41.643,12,55,,0.0,17,17,3,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-shanghai,Chinese Grand Prix,192.951,kph,46,12,1:41.702,17,55,,0.0,18,18,3,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-shanghai,Chinese Grand Prix,192.29,kph,53,14,1:42.052,20,55,,0.0,19,19,3,+1 Lap,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-shanghai,Chinese Grand Prix,187.237,kph,45,22,1:44.806,21,54,,0.0,20,20,3,+2 Laps,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-shanghai,Chinese Grand Prix,187.999,kph,54,21,1:44.381,22,54,,0.0,21,21,3,+2 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-shanghai,Chinese Grand Prix,189.812,kph,52,20,1:43.384,23,54,,0.0,22,22,3,+2 Laps,,2011
+HRT,hrt,Spanish,KAR,karthikeyan,Narain Karthikeyan,Indian,22,2011-shanghai,Chinese Grand Prix,184.986,kph,41,24,1:46.081,24,54,,0.0,23,23,3,+2 Laps,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-shanghai,Chinese Grand Prix,185.653,kph,5,23,1:45.700,7,9,,0.0,24,R,3,Wheel,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-istanbul,Turkish Grand Prix,213.669,kph,50,3,1:29.937,1,58,5417558,25.0,1,1,4,Finished,1:30:17.558,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-istanbul,Turkish Grand Prix,214.226,kph,48,1,1:29.703,2,58,5426365,18.0,2,2,4,Finished,+8.807,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-istanbul,Turkish Grand Prix,212.86,kph,48,6,1:30.279,5,58,5427633,15.0,3,3,4,Finished,+10.075,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-istanbul,Turkish Grand Prix,213.264,kph,48,4,1:30.108,4,58,5457790,12.0,4,4,4,Finished,+40.232,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-istanbul,Turkish Grand Prix,212.169,kph,47,7,1:30.573,3,58,5465097,10.0,5,5,4,Finished,+47.539,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-istanbul,Turkish Grand Prix,210.786,kph,47,13,1:31.167,6,58,5476989,8.0,6,6,4,Finished,+59.431,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-istanbul,Turkish Grand Prix,213.145,kph,52,5,1:30.158,9,58,5478415,6.0,7,7,4,Finished,+1:00.857,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-istanbul,Turkish Grand Prix,212.063,kph,48,8,1:30.618,7,58,5485726,4.0,8,8,4,Finished,+1:08.168,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-istanbul,Turkish Grand Prix,210.341,kph,44,14,1:31.360,16,58,5486952,2.0,9,9,4,Finished,+1:09.394,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-istanbul,Turkish Grand Prix,211.085,kph,45,10,1:31.038,24,58,5495579,1.0,10,10,4,Finished,+1:18.021,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-istanbul,Turkish Grand Prix,210.9,kph,57,11,1:31.118,10,58,5497381,0.0,11,11,4,Finished,+1:19.823,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-istanbul,Turkish Grand Prix,210.819,kph,47,12,1:31.153,8,58,5503002,0.0,12,12,4,Finished,+1:25.444,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-istanbul,Turkish Grand Prix,208.719,kph,43,16,1:32.070,12,57,,0.0,13,13,4,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-istanbul,Turkish Grand Prix,211.645,kph,46,9,1:30.797,15,57,,0.0,14,14,4,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-istanbul,Turkish Grand Prix,208.699,kph,46,17,1:32.079,11,57,,0.0,15,15,4,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-istanbul,Turkish Grand Prix,213.771,kph,57,2,1:29.894,17,57,,0.0,16,16,4,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-istanbul,Turkish Grand Prix,208.778,kph,44,15,1:32.044,14,57,,0.0,17,17,4,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-istanbul,Turkish Grand Prix,206.939,kph,49,20,1:32.862,19,57,,0.0,18,18,4,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-istanbul,Turkish Grand Prix,207.312,kph,55,19,1:32.695,18,56,,0.0,19,19,4,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-istanbul,Turkish Grand Prix,202.343,kph,55,23,1:34.971,23,56,,0.0,20,20,4,+2 Laps,,2011
+HRT,hrt,Spanish,KAR,karthikeyan,Narain Karthikeyan,Indian,22,2011-istanbul,Turkish Grand Prix,204.547,kph,51,21,1:33.948,22,55,,0.0,21,21,4,+3 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-istanbul,Turkish Grand Prix,202.925,kph,41,22,1:34.699,20,53,,0.0,22,22,4,+5 Laps,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-istanbul,Turkish Grand Prix,207.706,kph,40,18,1:32.519,13,44,,0.0,23,R,4,Retired,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-istanbul,Turkish Grand Prix,,,,,,21,0,,0.0,24,W,4,Gearbox,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-barcelona,Spanish Grand Prix,192.262,kph,60,4,1:27.162,2,66,5943301,25.0,1,1,5,Finished,1:39:03.301,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-barcelona,Spanish Grand Prix,193.227,kph,52,1,1:26.727,3,66,5943931,18.0,2,2,5,Finished,+0.630,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-barcelona,Spanish Grand Prix,191.48,kph,63,7,1:27.518,5,66,5978998,15.0,3,3,5,Finished,+35.697,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-barcelona,Spanish Grand Prix,192.207,kph,50,5,1:27.187,1,66,5991267,12.0,4,4,5,Finished,+47.966,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-barcelona,Spanish Grand Prix,188.85,kph,22,9,1:28.737,4,65,,10.0,5,5,5,+1 Lap,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-barcelona,Spanish Grand Prix,187.317,kph,34,15,1:29.463,10,65,,8.0,6,6,5,+1 Lap,,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-barcelona,Spanish Grand Prix,187.964,kph,34,13,1:29.155,7,65,,6.0,7,7,5,+1 Lap,,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-barcelona,Spanish Grand Prix,192.713,kph,61,3,1:26.958,24,65,,4.0,8,8,5,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-barcelona,Spanish Grand Prix,192.075,kph,55,6,1:27.247,12,65,,2.0,9,9,5,+1 Lap,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-barcelona,Spanish Grand Prix,191.268,kph,52,8,1:27.615,14,65,,1.0,10,10,5,+1 Lap,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-barcelona,Spanish Grand Prix,187.047,kph,35,17,1:29.592,6,65,,0.0,11,11,5,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-barcelona,Spanish Grand Prix,187.305,kph,42,16,1:29.469,16,65,,0.0,12,12,5,+1 Lap,,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-barcelona,Spanish Grand Prix,188.735,kph,52,10,1:28.791,17,65,,0.0,13,13,5,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-barcelona,Spanish Grand Prix,186.098,kph,27,18,1:30.049,11,65,,0.0,14,14,5,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-barcelona,Spanish Grand Prix,187.468,kph,64,14,1:29.391,9,65,,0.0,15,15,5,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-barcelona,Spanish Grand Prix,188.013,kph,52,12,1:29.132,13,64,,0.0,16,16,5,+2 Laps,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-barcelona,Spanish Grand Prix,192.862,kph,60,2,1:26.891,19,64,,0.0,17,17,5,+2 Laps,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-barcelona,Spanish Grand Prix,184.594,kph,34,20,1:30.783,18,64,,0.0,18,18,5,+2 Laps,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-barcelona,Spanish Grand Prix,182.877,kph,40,21,1:31.635,20,63,,0.0,19,19,5,+3 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-barcelona,Spanish Grand Prix,181.071,kph,36,22,1:32.549,23,62,,0.0,20,20,5,+4 Laps,,2011
+HRT,hrt,Spanish,KAR,karthikeyan,Narain Karthikeyan,Indian,22,2011-barcelona,Spanish Grand Prix,180.488,kph,33,23,1:32.848,22,61,,0.0,21,21,5,+5 Laps,,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-barcelona,Spanish Grand Prix,188.12,kph,24,11,1:29.081,8,58,,0.0,22,R,5,Gearbox,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-barcelona,Spanish Grand Prix,184.93,kph,34,19,1:30.618,15,48,,0.0,23,R,5,Accident,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-barcelona,Spanish Grand Prix,178.496,kph,22,24,1:33.884,21,28,,0.0,24,R,5,Gearbox,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-monte-carlo,Monaco Grand Prix,157.656,kph,78,2,1:16.267,1,78,7778373,25.0,1,1,6,Finished,2:09:38.373,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-monte-carlo,Monaco Grand Prix,157.236,kph,77,4,1:16.471,4,78,7779511,18.0,2,2,6,Finished,+1.138,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-monte-carlo,Monaco Grand Prix,157.252,kph,78,3,1:16.463,2,78,7780751,15.0,3,3,6,Finished,+2.378,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-monte-carlo,Monaco Grand Prix,157.724,kph,78,1,1:16.234,3,78,7801474,12.0,4,4,6,Finished,+23.101,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-monte-carlo,Monaco Grand Prix,153.547,kph,76,7,1:18.308,12,78,7805289,10.0,5,5,6,Finished,+26.916,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-monte-carlo,Monaco Grand Prix,154.456,kph,54,5,1:17.847,9,78,7805583,8.0,6,6,6,Finished,+27.210,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-monte-carlo,Monaco Grand Prix,152.449,kph,77,13,1:18.872,14,77,,6.0,7,7,6,+1 Lap,,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-monte-carlo,Monaco Grand Prix,154.436,kph,77,6,1:17.857,15,77,,4.0,8,8,6,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-monte-carlo,Monaco Grand Prix,153.008,kph,76,8,1:18.584,11,77,,2.0,9,9,6,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-monte-carlo,Monaco Grand Prix,152.526,kph,77,12,1:18.832,16,77,,1.0,10,10,6,+1 Lap,,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-monte-carlo,Monaco Grand Prix,152.784,kph,56,10,1:18.699,7,76,,0.0,11,11,6,+2 Laps,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-monte-carlo,Monaco Grand Prix,152.736,kph,75,11,1:18.724,13,76,,0.0,12,12,6,+2 Laps,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-monte-carlo,Monaco Grand Prix,147.938,kph,66,19,1:21.277,18,76,,0.0,13,13,6,+2 Laps,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-monte-carlo,Monaco Grand Prix,149.036,kph,54,18,1:20.678,17,76,,0.0,14,14,6,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-monte-carlo,Monaco Grand Prix,147.731,kph,75,20,1:21.391,21,75,,0.0,15,15,6,+3 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-monte-carlo,Monaco Grand Prix,147.414,kph,74,21,1:21.566,23,75,,0.0,16,16,6,+3 Laps,,2011
+HRT,hrt,Spanish,KAR,karthikeyan,Narain Karthikeyan,Indian,22,2011-monte-carlo,Monaco Grand Prix,145.338,kph,74,23,1:22.731,22,74,,0.0,17,17,6,+4 Laps,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-monte-carlo,Monaco Grand Prix,152.387,kph,62,14,1:18.904,8,73,,0.0,18,18,6,Accident,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-monte-carlo,Monaco Grand Prix,150.191,kph,57,16,1:20.058,10,67,,0.0,19,R,6,Collision,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-monte-carlo,Monaco Grand Prix,152.961,kph,59,9,1:18.608,19,66,,0.0,20,R,6,Collision,,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-monte-carlo,Monaco Grand Prix,149.921,kph,16,17,1:20.202,6,32,,0.0,21,R,6,Accident,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-monte-carlo,Monaco Grand Prix,150.674,kph,30,15,1:19.801,5,32,,0.0,22,R,6,Engine,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-monte-carlo,Monaco Grand Prix,146.451,kph,30,22,1:22.102,20,30,,0.0,23,R,6,Suspension,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,24,W,6,Injury,,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-montreal,Canadian Grand Prix,204.007,kph,69,1,1:16.956,7,70,14679537,25.0,1,1,7,Finished,4:04:39.537,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-montreal,Canadian Grand Prix,203.317,kph,69,2,1:17.217,1,70,14682246,18.0,2,2,7,Finished,+2.709,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-montreal,Canadian Grand Prix,197.3,kph,65,8,1:19.572,4,70,14693365,15.0,3,3,7,Finished,+13.828,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-montreal,Canadian Grand Prix,198.382,kph,70,4,1:19.138,8,70,14693756,12.0,4,4,7,Finished,+14.219,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-montreal,Canadian Grand Prix,198.593,kph,68,3,1:19.054,10,70,14699932,10.0,5,5,7,Finished,+20.395,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-montreal,Canadian Grand Prix,198.357,kph,68,5,1:19.148,3,70,14712762,8.0,6,6,7,Finished,+33.225,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-montreal,Canadian Grand Prix,195.723,kph,70,10,1:20.213,13,70,14712807,6.0,7,7,7,Finished,+33.270,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-montreal,Canadian Grand Prix,195.339,kph,69,13,1:20.371,24,70,14715501,4.0,8,8,7,Finished,+35.964,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-montreal,Canadian Grand Prix,195.472,kph,68,11,1:20.316,16,70,14724654,2.0,9,9,7,Finished,+45.117,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-montreal,Canadian Grand Prix,197.461,kph,69,7,1:19.507,15,70,14726593,1.0,10,10,7,Finished,+47.056,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-montreal,Canadian Grand Prix,196.07,kph,69,9,1:20.071,6,70,14729991,0.0,11,11,7,Finished,+50.454,2011
+Sauber,sauber,Swiss,DLR,rosa,Pedro de la Rosa,Spanish,17,2011-montreal,Canadian Grand Prix,195.343,kph,70,12,1:20.369,17,70,14743144,0.0,12,12,7,Finished,+1:03.607,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-montreal,Canadian Grand Prix,188.201,kph,63,17,1:23.419,20,69,,0.0,13,13,7,+1 Lap,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-montreal,Canadian Grand Prix,190.309,kph,68,15,1:22.495,23,69,,0.0,14,14,7,+1 Lap,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-montreal,Canadian Grand Prix,185.596,kph,68,19,1:24.590,21,69,,0.0,15,15,7,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-montreal,Canadian Grand Prix,190.916,kph,67,14,1:22.233,18,69,,0.0,16,16,7,+1 Lap,,2011
+HRT,hrt,Spanish,KAR,karthikeyan,Narain Karthikeyan,Indian,22,2011-montreal,Canadian Grand Prix,188.887,kph,66,16,1:23.116,22,69,,0.0,17,17,7,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-montreal,Canadian Grand Prix,197.74,kph,67,6,1:19.395,11,67,,0.0,18,18,7,Accident,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-montreal,Canadian Grand Prix,186.312,kph,53,18,1:24.265,12,61,,0.0,19,R,7,Retired,,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-montreal,Canadian Grand Prix,184.408,kph,55,20,1:25.135,9,55,,0.0,20,R,7,Accident,,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-montreal,Canadian Grand Prix,174.109,kph,47,21,1:30.171,14,49,,0.0,21,R,7,Accident,,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-montreal,Canadian Grand Prix,166.621,kph,14,22,1:34.223,2,36,,0.0,22,R,7,Collision,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-montreal,Canadian Grand Prix,159.451,kph,16,24,1:38.460,19,28,,0.0,23,R,7,Transmission,,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-montreal,Canadian Grand Prix,160.591,kph,7,23,1:37.761,5,7,,0.0,24,R,7,Collision,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-valencia,European Grand Prix,191.536,kph,53,1,1:41.852,1,57,5976169,25.0,1,1,8,Finished,1:39:36.169,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-valencia,European Grand Prix,190.683,kph,49,2,1:42.308,4,57,5987060,18.0,2,2,8,Finished,+10.891,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-valencia,European Grand Prix,190.262,kph,39,4,1:42.534,2,57,6003424,15.0,3,3,8,Finished,+27.255,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-valencia,European Grand Prix,189.499,kph,47,6,1:42.947,3,57,6022359,12.0,4,4,8,Finished,+46.190,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-valencia,European Grand Prix,189.945,kph,53,5,1:42.705,5,57,6027874,10.0,5,5,8,Finished,+51.705,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-valencia,European Grand Prix,190.623,kph,57,3,1:42.340,6,57,6036234,8.0,6,6,8,Finished,+1:00.065,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-valencia,European Grand Prix,188.215,kph,53,12,1:43.649,7,57,6074259,6.0,7,7,8,Finished,+1:38.090,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-valencia,European Grand Prix,188.343,kph,53,11,1:43.579,18,56,,4.0,8,8,8,+1 Lap,,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-valencia,European Grand Prix,188.439,kph,53,10,1:43.526,10,56,,2.0,9,9,8,+1 Lap,,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-valencia,European Grand Prix,187.759,kph,51,14,1:43.901,9,56,,1.0,10,10,8,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-valencia,European Grand Prix,187.672,kph,41,15,1:43.949,16,56,,0.0,11,11,8,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-valencia,European Grand Prix,187.344,kph,55,17,1:44.131,13,56,,0.0,12,12,8,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-valencia,European Grand Prix,187.395,kph,47,16,1:44.103,17,56,,0.0,13,13,8,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-valencia,European Grand Prix,187.849,kph,54,13,1:43.851,12,56,,0.0,14,14,8,+1 Lap,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-valencia,European Grand Prix,189.124,kph,41,8,1:43.151,11,56,,0.0,15,15,8,+1 Lap,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-valencia,European Grand Prix,188.456,kph,42,9,1:43.517,14,56,,0.0,16,16,8,+1 Lap,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-valencia,European Grand Prix,186.544,kph,50,18,1:44.578,8,56,,0.0,17,17,8,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-valencia,European Grand Prix,189.155,kph,47,7,1:43.134,15,56,,0.0,18,18,8,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-valencia,European Grand Prix,185.697,kph,44,19,1:45.055,19,55,,0.0,19,19,8,+2 Laps,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-valencia,European Grand Prix,183.681,kph,28,20,1:46.208,20,55,,0.0,20,20,8,+2 Laps,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-valencia,European Grand Prix,182.957,kph,49,21,1:46.628,21,55,,0.0,21,21,8,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-valencia,European Grand Prix,182.042,kph,51,22,1:47.164,23,55,,0.0,22,22,8,+2 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-valencia,European Grand Prix,181.612,kph,37,23,1:47.418,22,54,,0.0,23,23,8,+3 Laps,,2011
+HRT,hrt,Spanish,KAR,karthikeyan,Narain Karthikeyan,Indian,22,2011-valencia,European Grand Prix,181.123,kph,32,24,1:47.708,24,54,,0.0,24,24,8,+3 Laps,,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-silverstone,British Grand Prix,223.454,kph,41,1,1:34.908,3,52,5321196,25.0,1,1,9,Finished,1:28:41.196,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-silverstone,British Grand Prix,221.918,kph,38,3,1:35.565,2,52,5337707,18.0,2,2,9,Finished,+16.511,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-silverstone,British Grand Prix,221.686,kph,49,4,1:35.665,1,52,5338143,15.0,3,3,9,Finished,+16.947,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-silverstone,British Grand Prix,220.499,kph,39,5,1:36.180,10,52,5350182,12.0,4,4,9,Finished,+28.986,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-silverstone,British Grand Prix,222.129,kph,49,2,1:35.474,4,52,5350206,10.0,5,5,9,Finished,+29.010,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-silverstone,British Grand Prix,218.47,kph,32,13,1:37.073,9,52,5381861,8.0,6,6,9,Finished,+1:00.665,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-silverstone,British Grand Prix,219.413,kph,35,7,1:36.656,12,52,5386786,6.0,7,7,9,Finished,+1:05.590,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-silverstone,British Grand Prix,218.371,kph,37,14,1:37.117,16,52,5396738,4.0,8,8,9,Finished,+1:15.542,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-silverstone,British Grand Prix,218.558,kph,34,11,1:37.034,13,52,5399108,2.0,9,9,9,Finished,+1:17.912,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-silverstone,British Grand Prix,218.275,kph,38,15,1:37.160,18,52,5400304,1.0,10,10,9,Finished,+1:19.108,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-silverstone,British Grand Prix,219.213,kph,42,9,1:36.744,11,52,5400908,0.0,11,11,9,Finished,+1:19.712,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-silverstone,British Grand Prix,220.206,kph,40,6,1:36.308,14,52,5401877,0.0,12,12,9,Finished,+1:20.681,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-silverstone,British Grand Prix,219.238,kph,38,8,1:36.733,15,51,,0.0,13,13,9,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-silverstone,British Grand Prix,218.553,kph,41,12,1:37.036,7,51,,0.0,14,14,9,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-silverstone,British Grand Prix,216.545,kph,48,16,1:37.936,6,51,,0.0,15,15,9,+1 Lap,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-silverstone,British Grand Prix,212.477,kph,49,17,1:39.811,20,50,,0.0,16,16,9,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-silverstone,British Grand Prix,210.894,kph,30,20,1:40.560,22,50,,0.0,17,17,9,+2 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-silverstone,British Grand Prix,210.97,kph,40,19,1:40.524,23,50,,0.0,18,18,9,+2 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-silverstone,British Grand Prix,210.163,kph,30,22,1:40.910,24,49,,0.0,19,19,9,+3 Laps,,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-silverstone,British Grand Prix,218.675,kph,31,10,1:36.982,5,39,,0.0,20,R,9,Wheel nut,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-silverstone,British Grand Prix,211.602,kph,24,18,1:40.224,19,25,,0.0,21,R,9,Accident,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-silverstone,British Grand Prix,210.595,kph,23,21,1:40.703,8,23,,0.0,22,R,9,Engine,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-silverstone,British Grand Prix,183.629,kph,9,23,1:55.491,21,10,,0.0,23,R,9,Oil leak,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-silverstone,British Grand Prix,162.629,kph,2,24,2:10.404,17,2,,0.0,24,R,9,Gearbox,,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-n-rburg,German Grand Prix,196.526,kph,59,1,1:34.302,2,60,5850334,25.0,1,1,10,Finished,1:37:30.334,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-n-rburg,German Grand Prix,195.853,kph,60,5,1:34.626,4,60,5854314,18.0,2,2,10,Finished,+3.980,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-n-rburg,German Grand Prix,196.18,kph,60,2,1:34.468,1,60,5860122,15.0,3,3,10,Finished,+9.788,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-n-rburg,German Grand Prix,195.933,kph,47,3,1:34.587,3,60,5898255,12.0,4,4,10,Finished,+47.921,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-n-rburg,German Grand Prix,195.888,kph,51,4,1:34.609,5,60,5902586,10.0,5,5,10,Finished,+52.252,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-n-rburg,German Grand Prix,191.745,kph,57,10,1:36.653,8,60,5936542,8.0,6,6,10,Finished,+1:26.208,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-n-rburg,German Grand Prix,192.686,kph,51,7,1:36.181,6,59,,6.0,7,7,10,+1 Lap,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-n-rburg,German Grand Prix,193.8,kph,49,6,1:35.628,10,59,,4.0,8,8,10,+1 Lap,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-n-rburg,German Grand Prix,191.733,kph,50,11,1:36.659,17,59,,2.0,9,9,10,+1 Lap,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-n-rburg,German Grand Prix,192.676,kph,50,8,1:36.186,9,59,,1.0,10,10,10,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-n-rburg,German Grand Prix,190.994,kph,53,13,1:37.033,15,59,,0.0,11,11,10,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-n-rburg,German Grand Prix,190.245,kph,59,14,1:37.415,16,59,,0.0,12,12,10,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-n-rburg,German Grand Prix,191.622,kph,54,12,1:36.715,12,59,,0.0,13,13,10,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-n-rburg,German Grand Prix,189.947,kph,50,15,1:37.568,13,59,,0.0,14,14,10,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-n-rburg,German Grand Prix,189.374,kph,48,16,1:37.863,24,59,,0.0,15,15,10,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-n-rburg,German Grand Prix,187.105,kph,54,17,1:39.050,18,58,,0.0,16,16,10,+2 Laps,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-n-rburg,German Grand Prix,185.361,kph,57,21,1:39.982,19,57,,0.0,17,17,10,+3 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-n-rburg,German Grand Prix,185.723,kph,57,20,1:39.787,21,57,,0.0,18,18,10,+3 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-n-rburg,German Grand Prix,184.426,kph,57,23,1:40.489,22,57,,0.0,19,19,10,+3 Laps,,2011
+Lotus,lotus_racing,Malaysian,CHA,chandhok,Karun Chandhok,Indian,21,2011-n-rburg,German Grand Prix,184.525,kph,56,22,1:40.435,20,56,,0.0,20,20,10,+4 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-n-rburg,German Grand Prix,184.07,kph,28,24,1:40.683,23,37,,0.0,21,R,10,Electrical,,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-n-rburg,German Grand Prix,192.532,kph,33,9,1:36.258,7,35,,0.0,22,R,10,Hydraulics,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-n-rburg,German Grand Prix,185.924,kph,8,19,1:39.679,14,16,,0.0,23,R,10,Oil leak,,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-n-rburg,German Grand Prix,186.349,kph,7,18,1:39.452,11,9,,0.0,24,R,10,Collision,,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-budapest,Hungarian Grand Prix,187.898,kph,58,6,1:23.937,3,70,6402337,25.0,1,1,11,Finished,1:46:42.337,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-budapest,Hungarian Grand Prix,188.036,kph,70,5,1:23.875,1,70,6405925,18.0,2,2,11,Finished,+3.588,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-budapest,Hungarian Grand Prix,188.405,kph,62,3,1:23.711,5,70,6422156,15.0,3,3,11,Finished,+19.819,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-budapest,Hungarian Grand Prix,188.517,kph,61,2,1:23.661,2,70,6450675,12.0,4,4,11,Finished,+48.338,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-budapest,Hungarian Grand Prix,188.389,kph,61,4,1:23.718,6,70,6452079,10.0,5,5,11,Finished,+49.742,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-budapest,Hungarian Grand Prix,189.073,kph,61,1,1:23.415,4,70,6485513,8.0,6,6,11,Finished,+1:23.176,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-budapest,Hungarian Grand Prix,183.529,kph,65,14,1:25.935,11,69,,6.0,7,7,11,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-budapest,Hungarian Grand Prix,183.439,kph,65,15,1:25.977,23,69,,4.0,8,8,11,+1 Lap,,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-budapest,Hungarian Grand Prix,185.86,kph,64,9,1:24.857,7,69,,2.0,9,9,11,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-budapest,Hungarian Grand Prix,183.337,kph,68,16,1:26.025,16,69,,1.0,10,10,11,+1 Lap,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-budapest,Hungarian Grand Prix,186.284,kph,65,7,1:24.664,13,69,,0.0,11,11,11,+1 Lap,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-budapest,Hungarian Grand Prix,186.284,kph,68,8,1:24.664,12,69,,0.0,12,12,11,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-budapest,Hungarian Grand Prix,185.508,kph,65,11,1:25.018,15,68,,0.0,13,13,11,+2 Laps,,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-budapest,Hungarian Grand Prix,184.292,kph,66,12,1:25.579,8,68,,0.0,14,14,11,+2 Laps,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-budapest,Hungarian Grand Prix,185.55,kph,67,10,1:24.999,10,68,,0.0,15,15,11,+2 Laps,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-budapest,Hungarian Grand Prix,183.981,kph,56,13,1:25.724,17,68,,0.0,16,16,11,+2 Laps,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-budapest,Hungarian Grand Prix,179.177,kph,59,18,1:28.022,20,66,,0.0,17,17,11,+4 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-budapest,Hungarian Grand Prix,177.456,kph,62,19,1:28.876,22,66,,0.0,18,18,11,+4 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-budapest,Hungarian Grand Prix,177.073,kph,58,20,1:29.068,24,65,,0.0,19,19,11,+5 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-budapest,Hungarian Grand Prix,176.795,kph,53,21,1:29.208,21,65,,0.0,20,20,11,+5 Laps,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-budapest,Hungarian Grand Prix,180.972,kph,54,17,1:27.149,18,55,,0.0,21,R,11,Water leak,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-budapest,Hungarian Grand Prix,175.667,kph,19,22,1:29.781,9,26,,0.0,22,R,11,Gearbox,,2011
+Renault,renault,French,HEI,heidfeld,Nick Heidfeld,German,9,2011-budapest,Hungarian Grand Prix,173.646,kph,19,23,1:30.826,14,23,,0.0,23,R,11,Heat shield fire,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-budapest,Hungarian Grand Prix,165.577,kph,16,24,1:35.252,19,17,,0.0,24,R,11,Oil leak,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-spa,Belgian Grand Prix,228.285,kph,36,4,1:50.451,1,44,5204893,25.0,1,1,12,Finished,1:26:44.893,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-spa,Belgian Grand Prix,229.465,kph,33,1,1:49.883,3,44,5208634,18.0,2,2,12,Finished,+3.741,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-spa,Belgian Grand Prix,229.092,kph,39,2,1:50.062,13,44,5214562,15.0,3,3,12,Finished,+9.669,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-spa,Belgian Grand Prix,226.937,kph,41,5,1:51.107,8,44,5217915,12.0,4,4,12,Finished,+13.022,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-spa,Belgian Grand Prix,226.876,kph,34,6,1:51.137,24,44,5252357,10.0,5,5,12,Finished,+47.464,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-spa,Belgian Grand Prix,224.601,kph,39,8,1:52.263,5,44,5253567,8.0,6,6,12,Finished,+48.674,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-spa,Belgian Grand Prix,223.946,kph,33,10,1:52.591,15,44,5264606,6.0,7,7,12,Finished,+59.713,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-spa,Belgian Grand Prix,226.008,kph,42,7,1:51.564,4,44,5270969,4.0,8,8,12,Finished,+1:06.076,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-spa,Belgian Grand Prix,224.263,kph,34,9,1:52.432,10,44,5276810,2.0,9,9,12,Finished,+1:11.917,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-spa,Belgian Grand Prix,222.423,kph,43,12,1:53.362,21,44,5282508,1.0,10,10,12,Finished,+1:17.615,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-spa,Belgian Grand Prix,222.696,kph,32,11,1:53.223,17,44,5288887,0.0,11,11,12,Finished,+1:23.994,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-spa,Belgian Grand Prix,221.429,kph,35,14,1:53.871,12,44,5296869,0.0,12,12,12,Finished,+1:31.976,2011
+Renault,renault,French,SEN,bruno_senna,Bruno Senna,Brazilian,9,2011-spa,Belgian Grand Prix,221.987,kph,39,13,1:53.585,7,44,5297878,0.0,13,13,12,Finished,+1:32.985,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-spa,Belgian Grand Prix,220.076,kph,38,17,1:54.571,18,43,,0.0,14,14,12,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-spa,Belgian Grand Prix,221.08,kph,35,15,1:54.051,16,43,,0.0,15,15,12,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-spa,Belgian Grand Prix,228.341,kph,42,3,1:50.424,14,43,,0.0,16,16,12,+1 Lap,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-spa,Belgian Grand Prix,216.769,kph,38,19,1:56.319,20,43,,0.0,17,17,12,+1 Lap,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-spa,Belgian Grand Prix,216.358,kph,37,20,1:56.540,19,43,,0.0,18,18,12,+1 Lap,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-spa,Belgian Grand Prix,213.57,kph,42,22,1:58.061,22,43,,0.0,19,19,12,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-spa,Belgian Grand Prix,220.706,kph,26,16,1:54.244,9,27,,0.0,20,R,12,Suspension,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-spa,Belgian Grand Prix,210.416,kph,10,23,1:59.831,23,13,,0.0,21,R,12,Engine,,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-spa,Belgian Grand Prix,218.029,kph,8,18,1:55.647,2,12,,0.0,22,R,12,Collision,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-spa,Belgian Grand Prix,215.895,kph,4,21,1:56.790,11,6,,0.0,23,R,12,Rear wing,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-spa,Belgian Grand Prix,,,,,,6,0,,0.0,24,R,12,Collision,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-monza,Italian Grand Prix,240.937,kph,49,3,1:26.557,1,53,4846172,25.0,1,1,13,Finished,1:20:46.172,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-monza,Italian Grand Prix,241.915,kph,52,2,1:26.207,3,53,4855762,18.0,2,2,13,Finished,+9.590,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-monza,Italian Grand Prix,239.185,kph,50,6,1:27.191,4,53,4863081,15.0,3,3,13,Finished,+16.909,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-monza,Italian Grand Prix,241.971,kph,52,1,1:26.187,2,53,4863589,12.0,4,4,13,Finished,+17.417,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-monza,Italian Grand Prix,238.607,kph,46,7,1:27.402,8,53,4878849,10.0,5,5,13,Finished,+32.677,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-monza,Italian Grand Prix,239.919,kph,53,5,1:26.924,6,53,4889165,8.0,6,6,13,Finished,+42.993,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-monza,Italian Grand Prix,236.028,kph,49,10,1:28.357,18,52,,6.0,7,7,13,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-monza,Italian Grand Prix,236.841,kph,52,8,1:28.054,11,52,,4.0,8,8,13,+1 Lap,,2011
+Renault,renault,French,SEN,bruno_senna,Bruno Senna,Brazilian,9,2011-monza,Italian Grand Prix,240.0,kph,51,4,1:26.895,10,52,,2.0,9,9,13,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-monza,Italian Grand Prix,236.443,kph,51,9,1:28.202,16,52,,1.0,10,10,13,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-monza,Italian Grand Prix,234.497,kph,51,12,1:28.934,14,52,,0.0,11,11,13,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-monza,Italian Grand Prix,235.975,kph,49,11,1:28.377,13,52,,0.0,12,12,13,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-monza,Italian Grand Prix,232.653,kph,50,14,1:29.639,20,51,,0.0,13,13,13,+2 Laps,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-monza,Italian Grand Prix,232.171,kph,50,15,1:29.825,19,51,,0.0,14,14,13,+2 Laps,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-monza,Italian Grand Prix,229.721,kph,51,17,1:30.783,21,51,,0.0,15,15,13,+2 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-monza,Italian Grand Prix,226.65,kph,36,20,1:32.013,23,39,,0.0,16,R,13,+14 Laps,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-monza,Italian Grand Prix,233.267,kph,29,13,1:29.403,15,32,,0.0,17,R,13,Gearbox,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-monza,Italian Grand Prix,231.72,kph,21,16,1:30.000,17,21,,0.0,18,R,13,Gearbox,,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-monza,Italian Grand Prix,228.033,kph,8,19,1:31.455,12,9,,0.0,19,R,13,Hydraulics,,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-monza,Italian Grand Prix,229.188,kph,4,18,1:30.994,5,4,,0.0,20,R,13,Accident,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-monza,Italian Grand Prix,,,,,,22,1,,0.0,21,R,13,Gearbox,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-monza,Italian Grand Prix,,,,,,7,0,,0.0,22,R,13,Collision,,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-monza,Italian Grand Prix,,,,,,9,0,,0.0,23,R,13,Collision,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-monza,Italian Grand Prix,,,,,,24,0,,0.0,24,R,13,Collision,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-marina-bay,Singapore Grand Prix,168.029,kph,51,2,1:48.688,1,61,7146757,25.0,1,1,14,Finished,1:59:06.757,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-marina-bay,Singapore Grand Prix,168.392,kph,54,1,1:48.454,3,61,7148494,18.0,2,2,14,Finished,+1.737,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-marina-bay,Singapore Grand Prix,165.892,kph,54,3,1:50.088,2,61,7176036,15.0,3,3,14,Finished,+29.279,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-marina-bay,Singapore Grand Prix,164.691,kph,58,5,1:50.891,5,61,7202206,12.0,4,4,14,Finished,+55.449,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-marina-bay,Singapore Grand Prix,164.779,kph,54,4,1:50.832,4,61,7214523,10.0,5,5,14,Finished,+1:07.766,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-marina-bay,Singapore Grand Prix,159.864,kph,41,15,1:54.239,10,61,7257824,8.0,6,6,14,Finished,+1:51.067,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-marina-bay,Singapore Grand Prix,159.663,kph,42,16,1:54.383,7,60,,6.0,7,7,14,+1 Lap,,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-marina-bay,Singapore Grand Prix,159.411,kph,45,17,1:54.564,9,60,,4.0,8,8,14,+1 Lap,,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-marina-bay,Singapore Grand Prix,162.263,kph,26,8,1:52.550,6,60,,2.0,9,9,14,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-marina-bay,Singapore Grand Prix,159.34,kph,42,18,1:54.615,11,60,,1.0,10,10,14,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-marina-bay,Singapore Grand Prix,161.335,kph,50,10,1:53.198,13,60,,0.0,11,11,14,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-marina-bay,Singapore Grand Prix,162.774,kph,51,7,1:52.197,14,60,,0.0,12,12,14,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-marina-bay,Singapore Grand Prix,158.483,kph,40,19,1:55.235,12,60,,0.0,13,13,14,+1 Lap,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-marina-bay,Singapore Grand Prix,164.043,kph,56,6,1:51.329,17,59,,0.0,14,14,14,+2 Laps,,2011
+Renault,renault,French,SEN,bruno_senna,Bruno Senna,Brazilian,9,2011-marina-bay,Singapore Grand Prix,160.518,kph,55,12,1:53.774,15,59,,0.0,15,15,14,+2 Laps,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-marina-bay,Singapore Grand Prix,160.111,kph,56,13,1:54.063,19,59,,0.0,16,16,14,+2 Laps,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-marina-bay,Singapore Grand Prix,159.913,kph,56,14,1:54.204,18,59,,0.0,17,17,14,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-marina-bay,Singapore Grand Prix,153.817,kph,22,22,1:58.730,22,59,,0.0,18,18,14,+2 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-marina-bay,Singapore Grand Prix,153.386,kph,40,23,1:59.064,23,57,,0.0,19,19,14,+4 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-marina-bay,Singapore Grand Prix,154.399,kph,41,21,1:58.283,24,57,,0.0,20,20,14,+4 Laps,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-marina-bay,Singapore Grand Prix,160.656,kph,37,11,1:53.676,16,56,,0.0,21,21,14,Accident,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-marina-bay,Singapore Grand Prix,155.924,kph,25,20,1:57.126,20,47,,0.0,22,R,14,Gearbox,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-marina-bay,Singapore Grand Prix,161.48,kph,26,9,1:53.096,8,28,,0.0,23,R,14,Accident,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-marina-bay,Singapore Grand Prix,151.669,kph,6,24,2:00.412,21,9,,0.0,24,R,14,Accident,,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-suzuka,Japanese Grand Prix,216.481,kph,52,1,1:36.568,2,53,5453427,25.0,1,1,15,Finished,1:30:53.427,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-suzuka,Japanese Grand Prix,216.226,kph,50,4,1:36.682,5,53,5454587,18.0,2,2,15,Finished,+1.160,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-suzuka,Japanese Grand Prix,215.704,kph,52,6,1:36.916,1,53,5455433,15.0,3,3,15,Finished,+2.006,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-suzuka,Japanese Grand Prix,215.9,kph,47,5,1:36.828,6,53,5461498,12.0,4,4,15,Finished,+8.071,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-suzuka,Japanese Grand Prix,214.093,kph,49,9,1:37.645,3,53,5477695,10.0,5,5,15,Finished,+24.268,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-suzuka,Japanese Grand Prix,213.501,kph,53,12,1:37.916,8,53,5480547,8.0,6,6,15,Finished,+27.120,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-suzuka,Japanese Grand Prix,213.754,kph,50,11,1:37.800,4,53,5481667,6.0,7,7,15,Finished,+28.240,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-suzuka,Japanese Grand Prix,216.479,kph,39,2,1:36.569,17,53,5492804,4.0,8,8,15,Finished,+39.377,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-suzuka,Japanese Grand Prix,215.399,kph,47,7,1:37.053,10,53,5496034,2.0,9,9,15,Finished,+42.607,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-suzuka,Japanese Grand Prix,216.378,kph,50,3,1:36.614,23,53,5497749,1.0,10,10,15,Finished,+44.322,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-suzuka,Japanese Grand Prix,213.029,kph,43,14,1:38.133,11,53,5507874,0.0,11,11,15,Finished,+54.447,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-suzuka,Japanese Grand Prix,213.383,kph,43,13,1:37.970,12,53,5515753,0.0,12,12,15,Finished,+1:02.326,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-suzuka,Japanese Grand Prix,209.63,kph,44,19,1:39.724,7,53,5517132,0.0,13,13,15,Finished,+1:03.705,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-suzuka,Japanese Grand Prix,214.093,kph,50,10,1:37.645,14,53,5517621,0.0,14,14,15,Finished,+1:04.194,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-suzuka,Japanese Grand Prix,214.608,kph,41,8,1:37.411,16,53,5520050,0.0,15,15,15,Finished,+1:06.623,2011
+Renault,renault,French,SEN,bruno_senna,Bruno Senna,Brazilian,9,2011-suzuka,Japanese Grand Prix,212.436,kph,42,15,1:38.407,9,53,5526055,0.0,16,16,15,Finished,+1:12.628,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-suzuka,Japanese Grand Prix,210.993,kph,53,16,1:39.080,13,53,5527618,0.0,17,17,15,Finished,+1:14.191,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-suzuka,Japanese Grand Prix,210.532,kph,50,17,1:39.297,18,53,5541251,0.0,18,18,15,Finished,+1:27.824,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-suzuka,Japanese Grand Prix,209.973,kph,49,18,1:39.561,19,53,5549567,0.0,19,19,15,Finished,+1:36.140,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-suzuka,Japanese Grand Prix,205.549,kph,46,21,1:41.704,21,51,,0.0,20,20,15,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-suzuka,Japanese Grand Prix,205.367,kph,45,22,1:41.794,20,51,,0.0,21,21,15,+2 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-suzuka,Japanese Grand Prix,206.09,kph,49,20,1:41.437,22,51,,0.0,22,22,15,+2 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-suzuka,Japanese Grand Prix,204.134,kph,37,24,1:42.409,24,50,,0.0,23,23,15,+3 Laps,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-suzuka,Japanese Grand Prix,204.738,kph,6,23,1:42.107,15,11,,0.0,24,R,15,Wheel,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-yeongam-county,Korean Grand Prix,202.941,kph,55,1,1:39.605,2,55,5881994,25.0,1,1,16,Finished,1:38:01.994,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-yeongam-county,Korean Grand Prix,201.216,kph,54,3,1:40.459,1,55,5894013,18.0,2,2,16,Finished,+12.019,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-yeongam-county,Korean Grand Prix,201.547,kph,55,2,1:40.294,4,55,5894471,15.0,3,3,16,Finished,+12.477,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-yeongam-county,Korean Grand Prix,200.716,kph,55,7,1:40.709,3,55,5896688,12.0,4,4,16,Finished,+14.694,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-yeongam-county,Korean Grand Prix,201.04,kph,41,6,1:40.547,6,55,5897683,10.0,5,5,16,Finished,+15.689,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-yeongam-county,Korean Grand Prix,201.052,kph,51,5,1:40.541,5,55,5907127,8.0,6,6,16,Finished,+25.133,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-yeongam-county,Korean Grand Prix,200.257,kph,55,8,1:40.940,11,55,5931532,6.0,7,7,16,Finished,+49.538,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-yeongam-county,Korean Grand Prix,198.624,kph,49,9,1:41.770,7,55,5936047,4.0,8,8,16,Finished,+54.053,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-yeongam-county,Korean Grand Prix,201.06,kph,50,4,1:40.537,13,55,5944756,2.0,9,9,16,Finished,+1:02.762,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-yeongam-county,Korean Grand Prix,197.978,kph,50,12,1:42.102,9,55,5950596,1.0,10,10,16,Finished,+1:08.602,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-yeongam-county,Korean Grand Prix,198.149,kph,49,10,1:42.014,10,55,5953223,0.0,11,11,16,Finished,+1:11.229,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-yeongam-county,Korean Grand Prix,197.458,kph,54,13,1:42.371,18,55,5975062,0.0,12,12,16,Finished,+1:33.068,2011
+Renault,renault,French,SEN,bruno_senna,Bruno Senna,Brazilian,9,2011-yeongam-county,Korean Grand Prix,197.115,kph,41,16,1:42.549,15,54,,0.0,13,13,16,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-yeongam-county,Korean Grand Prix,197.294,kph,52,15,1:42.456,19,54,,0.0,14,14,16,+1 Lap,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-yeongam-county,Korean Grand Prix,198.021,kph,45,11,1:42.080,14,54,,0.0,15,15,16,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-yeongam-county,Korean Grand Prix,197.354,kph,39,14,1:42.425,17,54,,0.0,16,16,16,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-yeongam-county,Korean Grand Prix,196.235,kph,46,17,1:43.009,20,54,,0.0,17,17,16,+1 Lap,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-yeongam-county,Korean Grand Prix,193.368,kph,53,18,1:44.536,21,54,,0.0,18,18,16,+1 Lap,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-yeongam-county,Korean Grand Prix,192.752,kph,53,21,1:44.870,24,54,,0.0,19,19,16,+1 Lap,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-yeongam-county,Korean Grand Prix,192.981,kph,53,20,1:44.746,22,54,,0.0,20,20,16,+1 Lap,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-yeongam-county,Korean Grand Prix,190.387,kph,45,24,1:46.173,23,52,,0.0,21,21,16,+3 Laps,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-yeongam-county,Korean Grand Prix,193.086,kph,26,19,1:44.689,16,30,,0.0,22,R,16,Clutch,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-yeongam-county,Korean Grand Prix,191.658,kph,10,23,1:45.469,8,16,,0.0,23,R,16,Collision,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-yeongam-county,Korean Grand Prix,191.916,kph,13,22,1:45.327,12,15,,0.0,24,R,16,Collision,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-uttar-pradesh,Indian Grand Prix,211.463,kph,60,1,1:27.249,1,60,5435002,25.0,1,1,17,Finished,1:30:35.002,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-uttar-pradesh,Indian Grand Prix,209.737,kph,60,4,1:27.967,4,60,5443435,18.0,2,2,17,Finished,+8.433,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-uttar-pradesh,Indian Grand Prix,209.771,kph,58,3,1:27.953,3,60,5459303,15.0,3,3,17,Finished,+24.301,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-uttar-pradesh,Indian Grand Prix,210.808,kph,59,2,1:27.520,2,60,5460531,12.0,4,4,17,Finished,+25.529,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-uttar-pradesh,Indian Grand Prix,208.359,kph,48,5,1:28.549,11,60,5500423,10.0,5,5,17,Finished,+1:05.421,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-uttar-pradesh,Indian Grand Prix,208.239,kph,59,6,1:28.600,7,60,5501853,8.0,6,6,17,Finished,+1:06.851,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-uttar-pradesh,Indian Grand Prix,207.955,kph,58,9,1:28.721,5,60,5519185,6.0,7,7,17,Finished,+1:24.183,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-uttar-pradesh,Indian Grand Prix,206.748,kph,57,10,1:29.239,10,59,,4.0,8,8,17,+1 Lap,,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-uttar-pradesh,Indian Grand Prix,206.632,kph,59,12,1:29.289,8,59,,2.0,9,9,17,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-uttar-pradesh,Indian Grand Prix,206.502,kph,58,14,1:29.345,20,59,,1.0,10,10,17,+1 Lap,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-uttar-pradesh,Indian Grand Prix,206.632,kph,58,11,1:29.289,16,59,,0.0,11,11,17,+1 Lap,,2011
+Renault,renault,French,SEN,bruno_senna,Bruno Senna,Brazilian,9,2011-uttar-pradesh,Indian Grand Prix,206.583,kph,55,13,1:29.310,14,59,,0.0,12,12,17,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-uttar-pradesh,Indian Grand Prix,208.053,kph,59,8,1:28.679,12,59,,0.0,13,13,17,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-uttar-pradesh,Indian Grand Prix,204.332,kph,58,16,1:30.294,18,58,,0.0,14,14,17,+2 Laps,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-uttar-pradesh,Indian Grand Prix,208.157,kph,56,7,1:28.635,15,58,,0.0,15,15,17,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-uttar-pradesh,Indian Grand Prix,200.565,kph,51,21,1:31.990,21,57,,0.0,16,16,17,+3 Laps,,2011
+HRT,hrt,Spanish,KAR,karthikeyan,Narain Karthikeyan,Indian,22,2011-uttar-pradesh,Indian Grand Prix,200.569,kph,44,20,1:31.988,24,57,,0.0,17,17,17,+3 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-uttar-pradesh,Indian Grand Prix,201.256,kph,49,18,1:31.674,23,57,,0.0,18,18,17,+3 Laps,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-uttar-pradesh,Indian Grand Prix,201.219,kph,52,19,1:31.691,19,55,,0.0,19,19,17,+5 Laps,,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-uttar-pradesh,Indian Grand Prix,204.447,kph,19,15,1:30.243,6,32,,0.0,20,R,17,Suspension,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-uttar-pradesh,Indian Grand Prix,202.845,kph,23,17,1:30.956,9,24,,0.0,21,R,17,Engine,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-uttar-pradesh,Indian Grand Prix,197.172,kph,12,22,1:33.573,13,12,,0.0,22,R,17,Gearbox,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-uttar-pradesh,Indian Grand Prix,143.014,kph,2,23,2:09.008,22,2,,0.0,23,R,17,Collision,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-uttar-pradesh,Indian Grand Prix,,,,,,17,0,,0.0,24,R,17,Collision,,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-abu-dhabi,Abu Dhabi Grand Prix,193.255,kph,51,3,1:43.461,2,55,5831886,25.0,1,1,18,Finished,1:37:11.886,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-abu-dhabi,Abu Dhabi Grand Prix,192.412,kph,41,6,1:43.914,5,55,5840343,18.0,2,2,18,Finished,+8.457,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-abu-dhabi,Abu Dhabi Grand Prix,193.83,kph,51,2,1:43.154,3,55,5857767,15.0,3,3,18,Finished,+25.881,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-abu-dhabi,Abu Dhabi Grand Prix,194.854,kph,51,1,1:42.612,4,55,5867670,12.0,4,4,18,Finished,+35.784,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-abu-dhabi,Abu Dhabi Grand Prix,191.722,kph,51,10,1:44.288,6,55,5882464,10.0,5,5,18,Finished,+50.578,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-abu-dhabi,Abu Dhabi Grand Prix,192.266,kph,55,7,1:43.993,7,55,5884203,8.0,6,6,18,Finished,+52.317,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-abu-dhabi,Abu Dhabi Grand Prix,190.575,kph,48,15,1:44.916,8,55,5907850,6.0,7,7,18,Finished,+1:15.964,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-abu-dhabi,Abu Dhabi Grand Prix,190.952,kph,53,14,1:44.709,9,55,5909008,4.0,8,8,18,Finished,+1:17.122,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-abu-dhabi,Abu Dhabi Grand Prix,192.032,kph,49,9,1:44.120,10,55,5932973,2.0,9,9,18,Finished,+1:41.087,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-abu-dhabi,Abu Dhabi Grand Prix,193.143,kph,47,4,1:43.521,16,54,,1.0,10,10,18,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-abu-dhabi,Abu Dhabi Grand Prix,191.213,kph,41,12,1:44.566,11,54,,0.0,11,11,18,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-abu-dhabi,Abu Dhabi Grand Prix,191.447,kph,50,11,1:44.438,24,54,,0.0,12,12,18,+1 Lap,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-abu-dhabi,Abu Dhabi Grand Prix,192.86,kph,52,5,1:43.673,12,54,,0.0,13,13,18,+1 Lap,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-abu-dhabi,Abu Dhabi Grand Prix,191.099,kph,52,13,1:44.628,23,54,,0.0,14,14,18,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-abu-dhabi,Abu Dhabi Grand Prix,192.082,kph,47,8,1:44.093,15,54,,0.0,15,15,18,+1 Lap,,2011
+Renault,renault,French,SEN,bruno_senna,Bruno Senna,Brazilian,9,2011-abu-dhabi,Abu Dhabi Grand Prix,188.359,kph,32,16,1:46.150,14,54,,0.0,16,16,18,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-abu-dhabi,Abu Dhabi Grand Prix,187.547,kph,50,17,1:46.610,17,54,,0.0,17,17,18,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-abu-dhabi,Abu Dhabi Grand Prix,186.091,kph,36,19,1:47.444,18,53,,0.0,18,18,18,+2 Laps,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-abu-dhabi,Abu Dhabi Grand Prix,184.987,kph,42,20,1:48.085,19,53,,0.0,19,19,18,+2 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-abu-dhabi,Abu Dhabi Grand Prix,183.028,kph,52,22,1:49.242,22,53,,0.0,20,20,18,+2 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-abu-dhabi,Abu Dhabi Grand Prix,184.664,kph,35,21,1:48.274,20,48,,0.0,21,R,18,Mechanical,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-abu-dhabi,Abu Dhabi Grand Prix,186.699,kph,17,18,1:47.094,13,19,,0.0,22,R,18,Hydraulics,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-abu-dhabi,Abu Dhabi Grand Prix,179.812,kph,16,23,1:51.196,21,18,,0.0,23,R,18,Brakes,,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-abu-dhabi,Abu Dhabi Grand Prix,,,,,,1,1,,0.0,24,R,18,Puncture,,2011
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,2,2011-s-o-paulo,Brazilian Grand Prix,205.942,kph,71,1,1:15.324,2,71,5537464,25.0,1,1,19,Finished,1:32:17.464,2011
+Red Bull,red_bull,Austrian,VET,vettel,Sebastian Vettel,German,5,2011-s-o-paulo,Brazilian Grand Prix,203.906,kph,68,3,1:16.076,1,71,5554447,18.0,2,2,19,Finished,+16.983,2011
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2011-s-o-paulo,Brazilian Grand Prix,205.244,kph,63,2,1:15.580,3,71,5565102,15.0,3,3,19,Finished,+27.638,2011
+Ferrari,ferrari,Italian,ALO,alonso,Fernando Alonso,Spanish,14,2011-s-o-paulo,Brazilian Grand Prix,203.625,kph,65,4,1:16.181,5,71,5572512,12.0,4,4,19,Finished,+35.048,2011
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2011-s-o-paulo,Brazilian Grand Prix,200.753,kph,64,12,1:17.271,7,71,5604197,10.0,5,5,19,Finished,+1:06.733,2011
+Force India,force_india,Indian,SUT,sutil,Adrian Sutil,German,99,2011-s-o-paulo,Brazilian Grand Prix,201.039,kph,36,8,1:17.161,8,70,,8.0,6,6,19,+1 Lap,,2011
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2011-s-o-paulo,Brazilian Grand Prix,200.919,kph,45,10,1:17.207,6,70,,6.0,7,7,19,+1 Lap,,2011
+Force India,force_india,Indian,DIR,resta,Paul di Resta,British,40,2011-s-o-paulo,Brazilian Grand Prix,200.284,kph,64,14,1:17.452,11,70,,4.0,8,8,19,+1 Lap,,2011
+Sauber,sauber,Swiss,KOB,kobayashi,Kamui Kobayashi,Japanese,10,2011-s-o-paulo,Brazilian Grand Prix,199.788,kph,55,15,1:17.644,16,70,,2.0,9,9,19,+1 Lap,,2011
+Renault,renault,French,PET,petrov,Vitaly Petrov,Russian,10,2011-s-o-paulo,Brazilian Grand Prix,201.43,kph,58,7,1:17.011,15,70,,1.0,10,10,19,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,ALG,alguersuari,Jaime Alguersuari,Spanish,19,2011-s-o-paulo,Brazilian Grand Prix,201.036,kph,55,9,1:17.162,13,70,,0.0,11,11,19,+1 Lap,,2011
+Toro Rosso,toro_rosso,Italian,BUE,buemi,Sébastien Buemi,Swiss,18,2011-s-o-paulo,Brazilian Grand Prix,200.346,kph,59,13,1:17.428,14,70,,0.0,12,12,19,+1 Lap,,2011
+Sauber,sauber,Swiss,PER,perez,Sergio Pérez,Mexican,11,2011-s-o-paulo,Brazilian Grand Prix,199.439,kph,63,16,1:17.780,17,70,,0.0,13,13,19,+1 Lap,,2011
+Williams,williams,British,BAR,barrichello,Rubens Barrichello,Brazilian,11,2011-s-o-paulo,Brazilian Grand Prix,202.289,kph,70,6,1:16.684,12,70,,0.0,14,14,19,+1 Lap,,2011
+Mercedes,mercedes,German,MSC,michael_schumacher,Michael Schumacher,German,7,2011-s-o-paulo,Brazilian Grand Prix,202.297,kph,62,5,1:16.681,10,70,,0.0,15,15,19,+1 Lap,,2011
+Lotus,lotus_racing,Malaysian,KOV,kovalainen,Heikki Kovalainen,Finnish,20,2011-s-o-paulo,Brazilian Grand Prix,198.818,kph,69,17,1:18.023,19,69,,0.0,16,16,19,+2 Laps,,2011
+Renault,renault,French,SEN,bruno_senna,Bruno Senna,Brazilian,9,2011-s-o-paulo,Brazilian Grand Prix,198.18,kph,62,18,1:18.274,9,69,,0.0,17,17,19,+2 Laps,,2011
+Lotus,lotus_racing,Malaysian,TRU,trulli,Jarno Trulli,Italian,21,2011-s-o-paulo,Brazilian Grand Prix,197.368,kph,47,19,1:18.596,20,69,,0.0,18,18,19,+2 Laps,,2011
+Virgin,virgin,British,DAM,ambrosio,Jérôme d'Ambrosio,Belgian,25,2011-s-o-paulo,Brazilian Grand Prix,194.142,kph,60,22,1:19.902,23,68,,0.0,19,19,19,+3 Laps,,2011
+HRT,hrt,Spanish,RIC,ricciardo,Daniel Ricciardo,Australian,3,2011-s-o-paulo,Brazilian Grand Prix,194.759,kph,64,20,1:19.649,22,68,,0.0,20,20,19,+3 Laps,,2011
+HRT,hrt,Spanish,LIU,liuzzi,Vitantonio Liuzzi,Italian,23,2011-s-o-paulo,Brazilian Grand Prix,192.346,kph,60,23,1:20.648,21,61,,0.0,21,R,19,Retired,,2011
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2011-s-o-paulo,Brazilian Grand Prix,200.914,kph,35,11,1:17.209,4,46,,0.0,22,R,19,Gearbox,,2011
+Williams,williams,British,MAL,maldonado,Pastor Maldonado,Venezuelan,13,2011-s-o-paulo,Brazilian Grand Prix,194.62,kph,26,21,1:19.706,18,26,,0.0,23,R,19,Retired,,2011
+Virgin,virgin,British,GLO,glock,Timo Glock,German,24,2011-s-o-paulo,Brazilian Grand Prix,189.7,kph,14,24,1:21.773,24,21,,0.0,24,R,19,Retired,,2011

@@ -1,0 +1,25 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""red_bull""]","[""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,437.0,1,1,9,2024
+"[""mclaren""]","[""McLaren""]",NOR,norris,Lando Norris,British,1,374.0,2,2,4,2024
+"[""ferrari""]","[""Ferrari""]",LEC,leclerc,Charles Leclerc,Monegasque,16,356.0,3,3,3,2024
+"[""mclaren""]","[""McLaren""]",PIA,piastri,Oscar Piastri,Australian,81,292.0,4,4,2,2024
+"[""ferrari""]","[""Ferrari""]",SAI,sainz,Carlos Sainz,Spanish,55,290.0,5,5,2,2024
+"[""mercedes""]","[""Mercedes""]",RUS,russell,George Russell,British,63,245.0,6,6,2,2024
+"[""mercedes""]","[""Mercedes""]",HAM,hamilton,Lewis Hamilton,British,44,223.0,7,7,2,2024
+"[""red_bull""]","[""Red Bull""]",PER,perez,Sergio Pérez,Mexican,11,152.0,8,8,0,2024
+"[""aston_martin""]","[""Aston Martin""]",ALO,alonso,Fernando Alonso,Spanish,14,70.0,9,9,0,2024
+"[""alpine""]","[""Alpine F1 Team""]",GAS,gasly,Pierre Gasly,French,10,42.0,10,10,0,2024
+"[""haas""]","[""Haas F1 Team""]",HUL,hulkenberg,Nico Hülkenberg,German,27,41.0,11,11,0,2024
+"[""rb""]","[""RB F1 Team""]",TSU,tsunoda,Yuki Tsunoda,Japanese,22,30.0,12,12,0,2024
+"[""aston_martin""]","[""Aston Martin""]",STR,stroll,Lance Stroll,Canadian,18,24.0,13,13,0,2024
+"[""alpine""]","[""Alpine F1 Team""]",OCO,ocon,Esteban Ocon,French,31,23.0,14,14,0,2024
+"[""haas""]","[""Haas F1 Team""]",MAG,kevin_magnussen,Kevin Magnussen,Danish,20,16.0,15,15,0,2024
+"[""williams""]","[""Williams""]",ALB,albon,Alexander Albon,Thai,23,12.0,16,16,0,2024
+"[""rb""]","[""RB F1 Team""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,12.0,17,17,0,2024
+"[""ferrari"", ""haas""]","[""Ferrari"", ""Haas F1 Team""]",BEA,bearman,Oliver Bearman,British,87,7.0,18,18,0,2024
+"[""williams""]","[""Williams""]",COL,colapinto,Franco Colapinto,Argentine,43,5.0,19,19,0,2024
+"[""sauber""]","[""Sauber""]",ZHO,zhou,Guanyu Zhou,Chinese,24,4.0,20,20,0,2024
+"[""rb""]","[""RB F1 Team""]",LAW,lawson,Liam Lawson,New Zealander,30,4.0,21,21,0,2024
+"[""sauber""]","[""Sauber""]",BOT,bottas,Valtteri Bottas,Finnish,77,0.0,22,22,0,2024
+"[""williams""]","[""Williams""]",SAR,sargeant,Logan Sargeant,American,2,0.0,23,23,0,2024
+"[""alpine""]","[""Alpine F1 Team""]",DOO,doohan,Jack Doohan,Australian,7,0.0,24,24,0,2024

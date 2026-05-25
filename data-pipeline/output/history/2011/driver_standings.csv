@@ -1,0 +1,29 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""red_bull""]","[""Red Bull""]",VET,vettel,Sebastian Vettel,German,5,392.0,1,1,11,2011
+"[""mclaren""]","[""McLaren""]",BUT,button,Jenson Button,British,22,270.0,2,2,3,2011
+"[""red_bull""]","[""Red Bull""]",WEB,webber,Mark Webber,Australian,,258.0,3,3,1,2011
+"[""ferrari""]","[""Ferrari""]",ALO,alonso,Fernando Alonso,Spanish,14,257.0,4,4,1,2011
+"[""mclaren""]","[""McLaren""]",HAM,hamilton,Lewis Hamilton,British,44,227.0,5,5,3,2011
+"[""ferrari""]","[""Ferrari""]",MAS,massa,Felipe Massa,Brazilian,19,118.0,6,6,0,2011
+"[""mercedes""]","[""Mercedes""]",ROS,rosberg,Nico Rosberg,German,6,89.0,7,7,0,2011
+"[""mercedes""]","[""Mercedes""]",MSC,michael_schumacher,Michael Schumacher,German,,76.0,8,8,0,2011
+"[""force_india""]","[""Force India""]",SUT,sutil,Adrian Sutil,German,99,42.0,9,9,0,2011
+"[""renault""]","[""Renault""]",PET,petrov,Vitaly Petrov,Russian,,37.0,10,10,0,2011
+"[""renault""]","[""Renault""]",HEI,heidfeld,Nick Heidfeld,German,,34.0,11,11,0,2011
+"[""sauber""]","[""Sauber""]",KOB,kobayashi,Kamui Kobayashi,Japanese,10,30.0,12,12,0,2011
+"[""force_india""]","[""Force India""]",DIR,resta,Paul di Resta,British,40,27.0,13,13,0,2011
+"[""toro_rosso""]","[""Toro Rosso""]",ALG,alguersuari,Jaime Alguersuari,Spanish,,26.0,14,14,0,2011
+"[""toro_rosso""]","[""Toro Rosso""]",BUE,buemi,Sébastien Buemi,Swiss,,15.0,15,15,0,2011
+"[""sauber""]","[""Sauber""]",PER,perez,Sergio Pérez,Mexican,11,14.0,16,16,0,2011
+"[""williams""]","[""Williams""]",BAR,barrichello,Rubens Barrichello,Brazilian,,4.0,17,17,0,2011
+"[""renault""]","[""Renault""]",SEN,bruno_senna,Bruno Senna,Brazilian,,2.0,18,18,0,2011
+"[""williams""]","[""Williams""]",MAL,maldonado,Pastor Maldonado,Venezuelan,13,1.0,19,19,0,2011
+"[""sauber""]","[""Sauber""]",DLR,rosa,Pedro de la Rosa,Spanish,,0.0,20,20,0,2011
+"[""lotus_racing""]","[""Lotus""]",TRU,trulli,Jarno Trulli,Italian,,0.0,21,21,0,2011
+"[""lotus_racing""]","[""Lotus""]",KOV,kovalainen,Heikki Kovalainen,Finnish,,0.0,22,22,0,2011
+"[""hrt""]","[""HRT""]",LIU,liuzzi,Vitantonio Liuzzi,Italian,,0.0,23,23,0,2011
+"[""virgin""]","[""Virgin""]",DAM,ambrosio,Jérôme d'Ambrosio,Belgian,,0.0,24,24,0,2011
+"[""virgin""]","[""Virgin""]",GLO,glock,Timo Glock,German,,0.0,25,25,0,2011
+"[""hrt""]","[""HRT""]",KAR,karthikeyan,Narain Karthikeyan,Indian,,0.0,26,26,0,2011
+"[""hrt""]","[""HRT""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,0.0,27,27,0,2011
+"[""lotus_racing""]","[""Lotus""]",CHA,chandhok,Karun Chandhok,Indian,,0.0,28,28,0,2011

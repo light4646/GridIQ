@@ -1,0 +1,40 @@
+{
+  "year": 2022,
+  "generated_at": "2026-05-25T19:12:14.729924+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 22,
+  "race_results": 440,
+  "qualifying_results": 440,
+  "drivers": 22,
+  "constructors": 10,
+  "driver_champion": {
+    "year": 2022,
+    "position": 1,
+    "position_text": "1",
+    "points": 454.0,
+    "wins": 15,
+    "driver_id": "max_verstappen",
+    "driver_code": "VER",
+    "driver_number": "3",
+    "driver_name": "Max Verstappen",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "red_bull"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2022,
+    "position": 1,
+    "position_text": "1",
+    "points": 759.0,
+    "wins": 17,
+    "constructor_id": "red_bull",
+    "constructor": "Red Bull",
+    "constructor_nationality": "Austrian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Red_Bull_Racing"
+  }
+}

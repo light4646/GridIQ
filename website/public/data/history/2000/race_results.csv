@@ -1,0 +1,374 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-melbourne,Australian Grand Prix,,,,,,3,58,5641987,10.0,1,1,1,Finished,1:34:01.987,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-melbourne,Australian Grand Prix,,,,,,4,58,5653402,6.0,2,2,1,Finished,+11.415,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-melbourne,Australian Grand Prix,,,,,,11,58,5661996,4.0,3,3,1,Finished,+20.009,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-melbourne,Australian Grand Prix,,,,,,8,58,5686434,3.0,4,4,1,Finished,+44.447,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-melbourne,Australian Grand Prix,,,,,,9,58,5687152,2.0,5,5,1,Finished,+45.165,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-melbourne,Australian Grand Prix,,,,,,16,58,5688455,1.0,6,6,1,Finished,+46.468,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-melbourne,Australian Grand Prix,,,,,,14,58,5688902,0.0,7,7,1,Finished,+46.915,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-melbourne,Australian Grand Prix,,,,,,18,57,,0.0,8,8,1,+1 Lap,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-melbourne,Australian Grand Prix,,,,,,15,56,,0.0,9,9,1,+2 Laps,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-melbourne,Australian Grand Prix,,,,,,10,58,,0.0,10,D,1,Disqualified,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-melbourne,Australian Grand Prix,,,,,,21,46,,0.0,11,R,1,Engine,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-melbourne,Australian Grand Prix,,,,,,19,41,,0.0,12,R,1,Transmission,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-melbourne,Australian Grand Prix,,,,,,22,40,,0.0,13,R,1,Gearbox,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-melbourne,Australian Grand Prix,,,,,,5,39,,0.0,14,R,1,Hydraulics,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-melbourne,Australian Grand Prix,,,,,,6,35,,0.0,15,R,1,Engine,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-melbourne,Australian Grand Prix,,,,,,17,27,,0.0,16,R,1,Hydraulics,,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-melbourne,Australian Grand Prix,,,,,,1,18,,0.0,17,R,1,Engine,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-melbourne,Australian Grand Prix,,,,,,13,16,,0.0,18,R,1,Suspension,,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-melbourne,Australian Grand Prix,,,,,,2,11,,0.0,19,R,1,Engine,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-melbourne,Australian Grand Prix,,,,,,12,6,,0.0,20,R,1,Suspension,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-melbourne,Australian Grand Prix,,,,,,7,6,,0.0,21,R,1,Spun off,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-melbourne,Australian Grand Prix,,,,,,20,1,,0.0,22,R,1,Clutch,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-s-o-paulo,Brazilian Grand Prix,,,,,,3,71,5495271,10.0,1,1,2,Finished,1:31:35.271,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-s-o-paulo,Brazilian Grand Prix,,,,,,5,71,5535169,6.0,2,2,2,Finished,+39.898,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-s-o-paulo,Brazilian Grand Prix,,,,,,7,71,5537539,4.0,3,3,2,Finished,+42.268,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-s-o-paulo,Brazilian Grand Prix,,,,,,12,71,5568051,3.0,4,4,2,Finished,+1:12.780,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-s-o-paulo,Brazilian Grand Prix,,,,,,11,70,,2.0,5,5,2,+1 Lap,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-s-o-paulo,Brazilian Grand Prix,,,,,,9,70,,1.0,6,6,2,+1 Lap,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-s-o-paulo,Brazilian Grand Prix,,,,,,14,70,,0.0,7,7,2,+1 Lap,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-s-o-paulo,Brazilian Grand Prix,,,,,,16,70,,0.0,8,8,2,+1 Lap,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-s-o-paulo,Brazilian Grand Prix,,,,,,8,69,,0.0,9,9,2,+2 Laps,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-s-o-paulo,Brazilian Grand Prix,,,,,,20,69,,0.0,10,10,2,+2 Laps,,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-s-o-paulo,Brazilian Grand Prix,,,,,,2,71,,0.0,11,D,2,Disqualified,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-s-o-paulo,Brazilian Grand Prix,,,,,,17,51,,0.0,12,R,2,Gearbox,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-s-o-paulo,Brazilian Grand Prix,,,,,,18,31,,0.0,13,R,2,Engine,,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-s-o-paulo,Brazilian Grand Prix,,,,,,1,30,,0.0,14,R,2,Oil pressure,,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-s-o-paulo,Brazilian Grand Prix,,,,,,4,27,,0.0,15,R,2,Hydraulics,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-s-o-paulo,Brazilian Grand Prix,,,,,,6,20,,0.0,16,R,2,Spun off,,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-s-o-paulo,Brazilian Grand Prix,,,,,,10,16,,0.0,17,R,2,Gearbox,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-s-o-paulo,Brazilian Grand Prix,,,,,,15,11,,0.0,18,R,2,Electrical,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-s-o-paulo,Brazilian Grand Prix,,,,,,19,9,,0.0,19,R,2,Engine,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-s-o-paulo,Brazilian Grand Prix,,,,,,13,6,,0.0,20,R,2,Engine,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-s-o-paulo,Brazilian Grand Prix,,,,,,0,0,,0.0,21,W,2,Safety concerns,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-s-o-paulo,Brazilian Grand Prix,,,,,,0,0,,0.0,22,W,2,Safety concerns,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-imola,San Marino Grand Prix,,,,,,2,62,5499776,10.0,1,1,3,Finished,1:31:39.776,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-imola,San Marino Grand Prix,,,,,,1,62,5500944,6.0,2,2,3,Finished,+1.168,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-imola,San Marino Grand Prix,,,,,,3,62,5550784,4.0,3,3,3,Finished,+51.008,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-imola,San Marino Grand Prix,,,,,,4,62,5589052,3.0,4,4,3,Finished,+1:29.276,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-imola,San Marino Grand Prix,,,,,,9,61,,2.0,5,5,3,+1 Lap,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-imola,San Marino Grand Prix,,,,,,12,61,,1.0,6,6,3,+1 Lap,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-imola,San Marino Grand Prix,,,,,,7,61,,0.0,7,7,3,+1 Lap,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-imola,San Marino Grand Prix,,,,,,10,61,,0.0,8,8,3,+1 Lap,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-imola,San Marino Grand Prix,,,,,,11,61,,0.0,9,9,3,+1 Lap,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-imola,San Marino Grand Prix,,,,,,17,61,,0.0,10,10,3,+1 Lap,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-imola,San Marino Grand Prix,,,,,,19,61,,0.0,11,11,3,+1 Lap,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-imola,San Marino Grand Prix,,,,,,14,61,,0.0,12,12,3,+1 Lap,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-imola,San Marino Grand Prix,,,,,,20,60,,0.0,13,13,3,+2 Laps,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-imola,San Marino Grand Prix,,,,,,16,59,,0.0,14,14,3,+3 Laps,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-imola,San Marino Grand Prix,,,,,,8,58,,0.0,15,15,3,Gearbox,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-imola,San Marino Grand Prix,,,,,,13,49,,0.0,16,R,3,Spun off,,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-imola,San Marino Grand Prix,,,,,,5,45,,0.0,17,R,3,Fuel system,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-imola,San Marino Grand Prix,,,,,,15,25,,0.0,18,R,3,Hydraulics,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-imola,San Marino Grand Prix,,,,,,22,22,,0.0,19,R,3,Hydraulics,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-imola,San Marino Grand Prix,,,,,,18,5,,0.0,20,R,3,Engine,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-imola,San Marino Grand Prix,,,,,,21,5,,0.0,21,R,3,Spun off,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-imola,San Marino Grand Prix,,,,,,6,4,,0.0,22,R,3,Gearbox,,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-silverstone,British Grand Prix,,,,,,4,60,5330108,10.0,1,1,4,Finished,1:28:50.108,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-silverstone,British Grand Prix,,,,,,3,60,5331585,6.0,2,2,4,Finished,+1.477,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-silverstone,British Grand Prix,,,,,,5,60,5350025,4.0,3,3,4,Finished,+19.917,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-silverstone,British Grand Prix,,,,,,7,60,5371420,3.0,4,4,4,Finished,+41.312,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-silverstone,British Grand Prix,,,,,,6,60,5387867,2.0,5,5,4,Finished,+57.759,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-silverstone,British Grand Prix,,,,,,11,60,5409381,1.0,6,6,4,Finished,+1:19.273,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-silverstone,British Grand Prix,,,,,,12,59,,0.0,7,7,4,+1 Lap,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-silverstone,British Grand Prix,,,,,,18,59,,0.0,8,8,4,+1 Lap,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-silverstone,British Grand Prix,,,,,,20,59,,0.0,9,9,4,+1 Lap,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-silverstone,British Grand Prix,,,,,,15,59,,0.0,10,10,4,+1 Lap,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-silverstone,British Grand Prix,,,,,,13,59,,0.0,11,11,4,+1 Lap,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-silverstone,British Grand Prix,,,,,,14,59,,0.0,12,12,4,+1 Lap,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-silverstone,British Grand Prix,,,,,,9,59,,0.0,13,13,4,+1 Lap,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-silverstone,British Grand Prix,,,,,,21,59,,0.0,14,14,4,+1 Lap,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-silverstone,British Grand Prix,,,,,,22,59,,0.0,15,15,4,+1 Lap,,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-silverstone,British Grand Prix,,,,,,10,56,,0.0,16,16,4,+4 Laps,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-silverstone,British Grand Prix,,,,,,2,54,,0.0,17,17,4,+6 Laps,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-silverstone,British Grand Prix,,,,,,17,51,,0.0,18,R,4,Engine,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-silverstone,British Grand Prix,,,,,,16,36,,0.0,19,R,4,Spun off,,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-silverstone,British Grand Prix,,,,,,1,35,,0.0,20,R,4,Hydraulics,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-silverstone,British Grand Prix,,,,,,19,26,,0.0,21,R,4,Electrical,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-silverstone,British Grand Prix,,,,,,8,20,,0.0,22,R,4,Electrical,,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-barcelona,Spanish Grand Prix,,,,,,2,65,5635390,10.0,1,1,5,Finished,1:33:55.390,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-barcelona,Spanish Grand Prix,,,,,,4,65,5651456,6.0,2,2,5,Finished,+16.066,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-barcelona,Spanish Grand Prix,,,,,,3,65,5664502,4.0,3,3,5,Finished,+29.112,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-barcelona,Spanish Grand Prix,,,,,,5,65,5672701,3.0,4,4,5,Finished,+37.311,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-barcelona,Spanish Grand Prix,,,,,,1,65,5683373,2.0,5,5,5,Finished,+47.983,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-barcelona,Spanish Grand Prix,,,,,,8,65,5717315,1.0,6,6,5,Finished,+1:21.925,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-barcelona,Spanish Grand Prix,,,,,,12,64,,0.0,7,7,5,+1 Lap,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-barcelona,Spanish Grand Prix,,,,,,16,64,,0.0,8,8,5,+1 Lap,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-barcelona,Spanish Grand Prix,,,,,,13,64,,0.0,9,9,5,+1 Lap,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-barcelona,Spanish Grand Prix,,,,,,18,64,,0.0,10,10,5,+1 Lap,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-barcelona,Spanish Grand Prix,,,,,,9,64,,0.0,11,11,5,+1 Lap,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-barcelona,Spanish Grand Prix,,,,,,7,64,,0.0,12,12,5,+1 Lap,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-barcelona,Spanish Grand Prix,,,,,,14,64,,0.0,13,13,5,+1 Lap,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-barcelona,Spanish Grand Prix,,,,,,20,63,,0.0,14,14,5,+2 Laps,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-barcelona,Spanish Grand Prix,,,,,,21,63,,0.0,15,15,5,+2 Laps,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-barcelona,Spanish Grand Prix,,,,,,19,62,,0.0,16,16,5,+3 Laps,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-barcelona,Spanish Grand Prix,,,,,,10,61,,0.0,17,17,5,Engine,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-barcelona,Spanish Grand Prix,,,,,,11,25,,0.0,18,R,5,Gearbox,,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-barcelona,Spanish Grand Prix,,,,,,6,21,,0.0,19,R,5,Hydraulics,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-barcelona,Spanish Grand Prix,,,,,,17,1,,0.0,20,R,5,Collision,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-barcelona,Spanish Grand Prix,,,,,,22,1,,0.0,21,R,5,Collision,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-barcelona,Spanish Grand Prix,,,,,,15,0,,0.0,22,R,5,Spun off,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-n-rburg,European Grand Prix,,,,,,2,67,6120307,10.0,1,1,6,Finished,1:42:00.307,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-n-rburg,European Grand Prix,,,,,,3,67,6134129,6.0,2,2,6,Finished,+13.822,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-n-rburg,European Grand Prix,,,,,,1,66,,4.0,3,3,6,+1 Lap,,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-n-rburg,European Grand Prix,,,,,,4,66,,3.0,4,4,6,+1 Lap,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-n-rburg,European Grand Prix,,,,,,7,66,,2.0,5,5,6,+1 Lap,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-n-rburg,European Grand Prix,,,,,,12,66,,1.0,6,6,6,+1 Lap,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-n-rburg,European Grand Prix,,,,,,15,65,,0.0,7,7,6,+2 Laps,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-n-rburg,European Grand Prix,,,,,,21,65,,0.0,8,8,6,+2 Laps,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-n-rburg,European Grand Prix,,,,,,17,65,,0.0,9,9,6,+2 Laps,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-n-rburg,European Grand Prix,,,,,,11,62,,0.0,10,10,6,Electrical,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-n-rburg,European Grand Prix,,,,,,16,61,,0.0,11,11,6,Collision,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-n-rburg,European Grand Prix,,,,,,14,61,,0.0,12,12,6,Collision,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-n-rburg,European Grand Prix,,,,,,18,51,,0.0,13,R,6,Spun off,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-n-rburg,European Grand Prix,,,,,,20,47,,0.0,14,R,6,Throttle,,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-n-rburg,European Grand Prix,,,,,,9,46,,0.0,15,R,6,Engine,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-n-rburg,European Grand Prix,,,,,,8,29,,0.0,16,R,6,Collision,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-n-rburg,European Grand Prix,,,,,,13,29,,0.0,17,R,6,Spun off,,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-n-rburg,European Grand Prix,,,,,,5,29,,0.0,18,R,6,Collision,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-n-rburg,European Grand Prix,,,,,,19,27,,0.0,19,R,6,Halfshaft,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-n-rburg,European Grand Prix,,,,,,10,2,,0.0,20,R,6,Engine,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-n-rburg,European Grand Prix,,,,,,6,0,,0.0,21,R,6,Collision,,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-monte-carlo,Monaco Grand Prix,,,,,,3,78,6568213,10.0,1,1,7,Finished,1:49:28.213,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-monte-carlo,Monaco Grand Prix,,,,,,6,78,6584102,6.0,2,2,7,Finished,+15.889,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-monte-carlo,Monaco Grand Prix,,,,,,8,78,6586735,4.0,3,3,7,Finished,+18.522,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-monte-carlo,Monaco Grand Prix,,,,,,10,78,6634137,3.0,4,4,7,Finished,+1:05.924,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-monte-carlo,Monaco Grand Prix,,,,,,13,78,6648988,2.0,5,5,7,Finished,+1:20.775,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-monte-carlo,Monaco Grand Prix,,,,,,5,77,,1.0,6,6,7,+1 Lap,,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-monte-carlo,Monaco Grand Prix,,,,,,17,77,,0.0,7,7,7,+1 Lap,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-monte-carlo,Monaco Grand Prix,,,,,,18,77,,0.0,8,8,7,+1 Lap,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-monte-carlo,Monaco Grand Prix,,,,,,11,76,,0.0,9,9,7,+2 Laps,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-monte-carlo,Monaco Grand Prix,,,,,,4,70,,0.0,10,10,7,Spun off,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-monte-carlo,Monaco Grand Prix,,,,,,15,60,,0.0,11,R,7,Spun off,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-monte-carlo,Monaco Grand Prix,,,,,,1,55,,0.0,12,R,7,Suspension,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-monte-carlo,Monaco Grand Prix,,,,,,20,48,,0.0,13,R,7,Spun off,,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-monte-carlo,Monaco Grand Prix,,,,,,9,37,,0.0,14,R,7,Spun off,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-monte-carlo,Monaco Grand Prix,,,,,,2,36,,0.0,15,R,7,Gearbox,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-monte-carlo,Monaco Grand Prix,,,,,,19,30,,0.0,16,R,7,Spun off,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-monte-carlo,Monaco Grand Prix,,,,,,7,29,,0.0,17,R,7,Transmission,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-monte-carlo,Monaco Grand Prix,,,,,,22,22,,0.0,18,R,7,Spun off,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-monte-carlo,Monaco Grand Prix,,,,,,21,21,,0.0,19,R,7,Gearbox,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-monte-carlo,Monaco Grand Prix,,,,,,12,18,,0.0,20,R,7,Spun off,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-monte-carlo,Monaco Grand Prix,,,,,,14,16,,0.0,21,R,7,Engine,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-monte-carlo,Monaco Grand Prix,,,,,,16,0,,0.0,22,W,7,Not restarted,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-montreal,Canadian Grand Prix,,,,,,1,69,6072313,10.0,1,1,8,Finished,1:41:12.313,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-montreal,Canadian Grand Prix,,,,,,3,69,6072487,6.0,2,2,8,Finished,+0.174,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-montreal,Canadian Grand Prix,,,,,,10,69,6087678,4.0,3,3,8,Finished,+15.365,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-montreal,Canadian Grand Prix,,,,,,4,69,6090874,3.0,4,4,8,Finished,+18.561,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-montreal,Canadian Grand Prix,,,,,,13,69,6124521,2.0,5,5,8,Finished,+52.208,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-montreal,Canadian Grand Prix,,,,,,7,69,6134000,1.0,6,6,8,Finished,+1:01.687,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-montreal,Canadian Grand Prix,,,,,,2,69,6134529,0.0,7,7,8,Finished,+1:02.216,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-montreal,Canadian Grand Prix,,,,,,8,69,6142768,0.0,8,8,8,Finished,+1:10.455,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-montreal,Canadian Grand Prix,,,,,,14,69,6152212,0.0,9,9,8,Finished,+1:19.899,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-montreal,Canadian Grand Prix,,,,,,19,69,6186857,0.0,10,10,8,Finished,+1:54.544,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-montreal,Canadian Grand Prix,,,,,,18,68,,0.0,11,11,8,+1 Lap,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-montreal,Canadian Grand Prix,,,,,,22,68,,0.0,12,12,8,+1 Lap,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-montreal,Canadian Grand Prix,,,,,,16,66,,0.0,13,13,8,+3 Laps,,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-montreal,Canadian Grand Prix,,,,,,12,64,,0.0,14,14,8,Collision,,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-montreal,Canadian Grand Prix,,,,,,6,64,,0.0,15,15,8,Collision,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-montreal,Canadian Grand Prix,,,,,,20,64,,0.0,16,16,8,Spun off,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-montreal,Canadian Grand Prix,,,,,,9,48,,0.0,17,R,8,Collision,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-montreal,Canadian Grand Prix,,,,,,15,42,,0.0,18,R,8,Electrical,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-montreal,Canadian Grand Prix,,,,,,17,38,,0.0,19,R,8,Electrical,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-montreal,Canadian Grand Prix,,,,,,21,34,,0.0,20,R,8,Engine,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-montreal,Canadian Grand Prix,,,,,,5,32,,0.0,21,R,8,Brakes,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-montreal,Canadian Grand Prix,,,,,,11,14,,0.0,22,R,8,Gearbox,,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-magny-cours,French Grand Prix,,,,,,2,72,5885538,10.0,1,1,9,Finished,1:38:05.538,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-magny-cours,French Grand Prix,,,,,,4,72,5900286,6.0,2,2,9,Finished,+14.748,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-magny-cours,French Grand Prix,,,,,,3,72,5917947,4.0,3,3,9,Finished,+32.409,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-magny-cours,French Grand Prix,,,,,,7,72,5946860,3.0,4,4,9,Finished,+1:01.322,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-magny-cours,French Grand Prix,,,,,,5,72,5949519,2.0,5,5,9,Finished,+1:03.981,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-magny-cours,French Grand Prix,,,,,,9,72,5961143,1.0,6,6,9,Finished,+1:15.605,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-magny-cours,French Grand Prix,,,,,,8,71,,0.0,7,7,9,+1 Lap,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-magny-cours,French Grand Prix,,,,,,10,71,,0.0,8,8,9,+1 Lap,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-magny-cours,French Grand Prix,,,,,,14,71,,0.0,9,9,9,+1 Lap,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-magny-cours,French Grand Prix,,,,,,12,71,,0.0,10,10,9,+1 Lap,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-magny-cours,French Grand Prix,,,,,,15,71,,0.0,11,11,9,+1 Lap,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-magny-cours,French Grand Prix,,,,,,16,71,,0.0,12,12,9,+1 Lap,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-magny-cours,French Grand Prix,,,,,,6,70,,0.0,13,13,9,+2 Laps,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-magny-cours,French Grand Prix,,,,,,18,70,,0.0,14,14,9,+2 Laps,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-magny-cours,French Grand Prix,,,,,,21,70,,0.0,15,15,9,+2 Laps,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-magny-cours,French Grand Prix,,,,,,1,58,,0.0,16,R,9,Engine,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-magny-cours,French Grand Prix,,,,,,13,45,,0.0,17,R,9,Transmission,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-magny-cours,French Grand Prix,,,,,,17,34,,0.0,18,R,9,Spun off,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-magny-cours,French Grand Prix,,,,,,22,31,,0.0,19,R,9,Spun off,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-magny-cours,French Grand Prix,,,,,,20,25,,0.0,20,R,9,Transmission,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-magny-cours,French Grand Prix,,,,,,11,20,,0.0,21,R,9,Gearbox,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-magny-cours,French Grand Prix,,,,,,19,16,,0.0,22,R,9,Spun off,,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-spielberg,Austrian Grand Prix,,,,,,1,71,5295818,10.0,1,1,10,Finished,1:28:15.818,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-spielberg,Austrian Grand Prix,,,,,,2,71,5308353,6.0,2,2,10,Finished,+12.535,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-spielberg,Austrian Grand Prix,,,,,,3,71,5326613,4.0,3,3,10,Finished,+30.795,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-spielberg,Austrian Grand Prix,,,,,,7,70,,3.0,4,4,10,+1 Lap,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-spielberg,Austrian Grand Prix,,,,,,18,70,,2.0,5,5,10,+1 Lap,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-spielberg,Austrian Grand Prix,,,,,,9,70,,1.0,6,6,10,+1 Lap,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-spielberg,Austrian Grand Prix,,,,,,16,70,,0.0,7,7,10,+1 Lap,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-spielberg,Austrian Grand Prix,,,,,,20,70,,0.0,8,8,10,+1 Lap,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-spielberg,Austrian Grand Prix,,,,,,11,70,,0.0,9,9,10,+1 Lap,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-spielberg,Austrian Grand Prix,,,,,,14,70,,0.0,10,10,10,+1 Lap,,2000
+Jaguar,jaguar,British,,burti,Luciano Burti,Brazilian,7,2000-spielberg,Austrian Grand Prix,,,,,,21,69,,0.0,11,11,10,+2 Laps,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-spielberg,Austrian Grand Prix,,,,,,22,68,,0.0,12,12,10,+3 Laps,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-spielberg,Austrian Grand Prix,,,,,,6,58,,0.0,13,R,10,Engine,,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-spielberg,Austrian Grand Prix,,,,,,19,52,,0.0,14,R,10,Brakes,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-spielberg,Austrian Grand Prix,,,,,,13,41,,0.0,15,R,10,Collision,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-spielberg,Austrian Grand Prix,,,,,,17,41,,0.0,16,R,10,Collision,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-spielberg,Austrian Grand Prix,,,,,,12,32,,0.0,17,R,10,Gearbox,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-spielberg,Austrian Grand Prix,,,,,,10,14,,0.0,18,R,10,Engine,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-spielberg,Austrian Grand Prix,,,,,,15,4,,0.0,19,R,10,Oil leak,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-spielberg,Austrian Grand Prix,,,,,,4,0,,0.0,20,R,10,Collision,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-spielberg,Austrian Grand Prix,,,,,,5,0,,0.0,21,R,10,Collision,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-spielberg,Austrian Grand Prix,,,,,,8,0,,0.0,22,R,10,Collision,,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-hockenheim,German Grand Prix,,,,,,18,45,5134418,10.0,1,1,11,Finished,1:25:34.418,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-hockenheim,German Grand Prix,,,,,,4,45,5141870,6.0,2,2,11,Finished,+7.452,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-hockenheim,German Grand Prix,,,,,,1,45,5155586,4.0,3,3,11,Finished,+21.168,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-hockenheim,German Grand Prix,,,,,,16,45,5157103,3.0,4,4,11,Finished,+22.685,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-hockenheim,German Grand Prix,,,,,,15,45,5161530,2.0,5,5,11,Finished,+27.112,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-hockenheim,German Grand Prix,,,,,,5,45,5163498,1.0,6,6,11,Finished,+29.080,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-hockenheim,German Grand Prix,,,,,,14,45,5165316,0.0,7,7,11,Finished,+30.898,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-hockenheim,German Grand Prix,,,,,,9,45,5181955,0.0,8,8,11,Finished,+47.537,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-hockenheim,German Grand Prix,,,,,,6,45,5185319,0.0,9,9,11,Finished,+50.901,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-hockenheim,German Grand Prix,,,,,,10,45,5214082,0.0,10,10,11,Finished,+1:19.664,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-hockenheim,German Grand Prix,,,,,,21,45,5223922,0.0,11,11,11,Finished,+1:29.504,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-hockenheim,German Grand Prix,,,,,,13,40,,0.0,12,12,11,Alternator,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-hockenheim,German Grand Prix,,,,,,17,39,,0.0,13,R,11,Gearbox,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-hockenheim,German Grand Prix,,,,,,11,39,,0.0,14,R,11,Spun off,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-hockenheim,German Grand Prix,,,,,,12,37,,0.0,15,R,11,Spun off,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-hockenheim,German Grand Prix,,,,,,22,33,,0.0,16,R,11,Engine,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-hockenheim,German Grand Prix,,,,,,7,31,,0.0,17,R,11,Electrical,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-hockenheim,German Grand Prix,,,,,,19,29,,0.0,18,R,11,Collision,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-hockenheim,German Grand Prix,,,,,,20,29,,0.0,19,R,11,Collision,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-hockenheim,German Grand Prix,,,,,,8,12,,0.0,20,R,11,Gearbox,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-hockenheim,German Grand Prix,,,,,,2,0,,0.0,21,R,11,Collision,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-hockenheim,German Grand Prix,,,,,,3,0,,0.0,22,R,11,Collision,,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-budapest,Hungarian Grand Prix,,,,,,3,77,6333869,10.0,1,1,12,Finished,1:45:33.869,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-budapest,Hungarian Grand Prix,,,,,,1,77,6341786,6.0,2,2,12,Finished,+7.917,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-budapest,Hungarian Grand Prix,,,,,,2,77,6342324,4.0,3,3,12,Finished,+8.455,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-budapest,Hungarian Grand Prix,,,,,,5,77,6378026,3.0,4,4,12,Finished,+44.157,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-budapest,Hungarian Grand Prix,,,,,,4,77,6384306,2.0,5,5,12,Finished,+50.437,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-budapest,Hungarian Grand Prix,,,,,,6,77,6401968,1.0,6,6,12,Finished,+1:08.099,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-budapest,Hungarian Grand Prix,,,,,,12,76,,0.0,7,7,12,+1 Lap,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-budapest,Hungarian Grand Prix,,,,,,10,76,,0.0,8,8,12,+1 Lap,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-budapest,Hungarian Grand Prix,,,,,,8,76,,0.0,9,9,12,+1 Lap,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-budapest,Hungarian Grand Prix,,,,,,9,76,,0.0,10,10,12,+1 Lap,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-budapest,Hungarian Grand Prix,,,,,,11,76,,0.0,11,11,12,+1 Lap,,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-budapest,Hungarian Grand Prix,,,,,,16,75,,0.0,12,12,12,+2 Laps,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-budapest,Hungarian Grand Prix,,,,,,20,75,,0.0,13,13,12,+2 Laps,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-budapest,Hungarian Grand Prix,,,,,,18,75,,0.0,14,14,12,+2 Laps,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-budapest,Hungarian Grand Prix,,,,,,21,74,,0.0,15,15,12,+3 Laps,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-budapest,Hungarian Grand Prix,,,,,,15,73,,0.0,16,16,12,+4 Laps,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-budapest,Hungarian Grand Prix,,,,,,22,68,,0.0,17,R,12,Engine,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-budapest,Hungarian Grand Prix,,,,,,17,67,,0.0,18,R,12,Gearbox,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-budapest,Hungarian Grand Prix,,,,,,13,62,,0.0,19,R,12,Transmission,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-budapest,Hungarian Grand Prix,,,,,,7,31,,0.0,20,R,12,Brakes,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-budapest,Hungarian Grand Prix,,,,,,19,22,,0.0,21,R,12,Electrical,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-budapest,Hungarian Grand Prix,,,,,,14,11,,0.0,22,R,12,Suspension,,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-spa,Belgian Grand Prix,,,,,,1,44,5294494,10.0,1,1,13,Finished,1:28:14.494,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-spa,Belgian Grand Prix,,,,,,4,44,5295598,6.0,2,2,13,Finished,+1.104,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-spa,Belgian Grand Prix,,,,,,6,44,5332590,4.0,3,3,13,Finished,+38.096,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-spa,Belgian Grand Prix,,,,,,5,44,5337775,3.0,4,4,13,Finished,+43.281,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-spa,Belgian Grand Prix,,,,,,3,44,5344408,2.0,5,5,13,Finished,+49.914,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-spa,Belgian Grand Prix,,,,,,8,44,5350478,1.0,6,6,13,Finished,+55.984,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-spa,Belgian Grand Prix,,,,,,7,44,5366874,0.0,7,7,13,Finished,+1:12.380,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-spa,Belgian Grand Prix,,,,,,9,44,5382302,0.0,8,8,13,Finished,+1:27.808,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-spa,Belgian Grand Prix,,,,,,18,44,5383164,0.0,9,9,13,Finished,+1:28.670,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-spa,Belgian Grand Prix,,,,,,12,44,5386049,0.0,10,10,13,Finished,+1:31.555,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-spa,Belgian Grand Prix,,,,,,15,44,5388617,0.0,11,11,13,Finished,+1:34.123,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-spa,Belgian Grand Prix,,,,,,13,43,,0.0,12,12,13,+1 Lap,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-spa,Belgian Grand Prix,,,,,,19,43,,0.0,13,13,13,+1 Lap,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-spa,Belgian Grand Prix,,,,,,21,43,,0.0,14,14,13,+1 Lap,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-spa,Belgian Grand Prix,,,,,,20,43,,0.0,15,15,13,+1 Lap,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-spa,Belgian Grand Prix,,,,,,16,42,,0.0,16,16,13,+2 Laps,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-spa,Belgian Grand Prix,,,,,,22,42,,0.0,17,17,13,+2 Laps,,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-spa,Belgian Grand Prix,,,,,,10,32,,0.0,18,R,13,Fuel pressure,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-spa,Belgian Grand Prix,,,,,,17,32,,0.0,19,R,13,Fuel pressure,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-spa,Belgian Grand Prix,,,,,,14,12,,0.0,20,R,13,Engine,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-spa,Belgian Grand Prix,,,,,,11,8,,0.0,21,R,13,Electrical,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-spa,Belgian Grand Prix,,,,,,2,4,,0.0,22,R,13,Collision,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-monza,Italian Grand Prix,,,,,,1,53,5251638,10.0,1,1,14,Finished,1:27:31.638,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-monza,Italian Grand Prix,,,,,,3,53,5255448,6.0,2,2,14,Finished,+3.810,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-monza,Italian Grand Prix,,,,,,7,53,5304070,4.0,3,3,14,Finished,+52.432,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-monza,Italian Grand Prix,,,,,,11,53,5311576,3.0,4,4,14,Finished,+59.938,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-monza,Italian Grand Prix,,,,,,13,53,5319064,2.0,5,5,14,Finished,+1:07.426,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-monza,Italian Grand Prix,,,,,,17,53,5320931,1.0,6,6,14,Finished,+1:09.293,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-monza,Italian Grand Prix,,,,,,15,52,,0.0,7,7,14,+1 Lap,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-monza,Italian Grand Prix,,,,,,16,52,,0.0,8,8,14,+1 Lap,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-monza,Italian Grand Prix,,,,,,21,52,,0.0,9,9,14,+1 Lap,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-monza,Italian Grand Prix,,,,,,22,52,,0.0,10,10,14,+1 Lap,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-monza,Italian Grand Prix,,,,,,9,52,,0.0,11,11,14,+1 Lap,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-monza,Italian Grand Prix,,,,,,19,51,,0.0,12,12,14,+2 Laps,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-monza,Italian Grand Prix,,,,,,20,15,,0.0,13,R,14,Spun off,,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-monza,Italian Grand Prix,,,,,,4,14,,0.0,14,R,14,Electrical,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-monza,Italian Grand Prix,,,,,,12,10,,0.0,15,R,14,Spun off,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-monza,Italian Grand Prix,,,,,,18,1,,0.0,16,R,14,Collision,,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-monza,Italian Grand Prix,,,,,,2,0,,0.0,17,R,14,Collision,,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-monza,Italian Grand Prix,,,,,,5,0,,0.0,18,R,14,Collision,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-monza,Italian Grand Prix,,,,,,6,0,,0.0,19,R,14,Collision,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-monza,Italian Grand Prix,,,,,,8,0,,0.0,20,R,14,Collision,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-monza,Italian Grand Prix,,,,,,10,0,,0.0,21,R,14,Collision,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-monza,Italian Grand Prix,,,,,,14,0,,0.0,22,R,14,Spun off,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-indianapolis,United States Grand Prix,,,,,,1,73,5790883,10.0,1,1,15,Finished,1:36:30.883,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-indianapolis,United States Grand Prix,,,,,,4,73,5803001,6.0,2,2,15,Finished,+12.118,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-indianapolis,United States Grand Prix,,,,,,7,73,5808251,4.0,3,3,15,Finished,+17.368,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-indianapolis,United States Grand Prix,,,,,,8,73,5808819,3.0,4,4,15,Finished,+17.936,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-indianapolis,United States Grand Prix,,,,,,2,73,5819696,2.0,5,5,15,Finished,+28.813,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-indianapolis,United States Grand Prix,,,,,,12,73,5842577,1.0,6,6,15,Finished,+51.694,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-indianapolis,United States Grand Prix,,,,,,17,73,5861998,0.0,7,7,15,Finished,+1:11.115,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-indianapolis,United States Grand Prix,,,,,,9,72,,0.0,8,8,15,+1 Lap,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-indianapolis,United States Grand Prix,,,,,,16,72,,0.0,9,9,15,+1 Lap,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-indianapolis,United States Grand Prix,,,,,,11,72,,0.0,10,10,15,+1 Lap,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-indianapolis,United States Grand Prix,,,,,,19,72,,0.0,11,11,15,+1 Lap,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-indianapolis,United States Grand Prix,,,,,,22,72,,0.0,12,12,15,+1 Lap,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-indianapolis,United States Grand Prix,,,,,,20,64,,0.0,13,R,15,Engine,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-indianapolis,United States Grand Prix,,,,,,21,59,,0.0,14,R,15,Engine,,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-indianapolis,United States Grand Prix,,,,,,10,58,,0.0,15,R,15,Engine,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-indianapolis,United States Grand Prix,,,,,,18,45,,0.0,16,R,15,Gearbox,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-indianapolis,United States Grand Prix,,,,,,15,44,,0.0,17,R,15,Engine,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-indianapolis,United States Grand Prix,,,,,,13,34,,0.0,18,R,15,Brakes,,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-indianapolis,United States Grand Prix,,,,,,3,25,,0.0,19,R,15,Engine,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-indianapolis,United States Grand Prix,,,,,,14,18,,0.0,20,R,15,Spun off,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-indianapolis,United States Grand Prix,,,,,,6,14,,0.0,21,R,15,Engine,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-indianapolis,United States Grand Prix,,,,,,5,12,,0.0,22,R,15,Collision,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-suzuka,Japanese Grand Prix,,,,,,1,53,5393435,10.0,1,1,16,Finished,1:29:53.435,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-suzuka,Japanese Grand Prix,,,,,,2,53,5395272,6.0,2,2,16,Finished,+1.837,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-suzuka,Japanese Grand Prix,,,,,,3,53,5463349,4.0,3,3,16,Finished,+1:09.914,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-suzuka,Japanese Grand Prix,,,,,,4,53,5472626,3.0,4,4,16,Finished,+1:19.191,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-suzuka,Japanese Grand Prix,,,,,,5,53,5479129,2.0,5,5,16,Finished,+1:25.694,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-suzuka,Japanese Grand Prix,,,,,,9,52,,1.0,6,6,16,+1 Lap,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-suzuka,Japanese Grand Prix,,,,,,10,52,,0.0,7,7,16,+1 Lap,,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-suzuka,Japanese Grand Prix,,,,,,7,52,,0.0,8,8,16,+1 Lap,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-suzuka,Japanese Grand Prix,,,,,,18,52,,0.0,9,9,16,+1 Lap,,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-suzuka,Japanese Grand Prix,,,,,,19,52,,0.0,10,10,16,+1 Lap,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-suzuka,Japanese Grand Prix,,,,,,20,52,,0.0,11,11,16,+1 Lap,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-suzuka,Japanese Grand Prix,,,,,,13,52,,0.0,12,12,16,+1 Lap,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-suzuka,Japanese Grand Prix,,,,,,15,52,,0.0,13,13,16,+1 Lap,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-suzuka,Japanese Grand Prix,,,,,,12,52,,0.0,14,14,16,+1 Lap,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-suzuka,Japanese Grand Prix,,,,,,22,51,,0.0,15,15,16,+2 Laps,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-suzuka,Japanese Grand Prix,,,,,,21,46,,0.0,16,R,16,Engine,,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-suzuka,Japanese Grand Prix,,,,,,6,41,,0.0,17,R,16,Spun off,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-suzuka,Japanese Grand Prix,,,,,,16,41,,0.0,18,R,16,Suspension,,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-suzuka,Japanese Grand Prix,,,,,,11,37,,0.0,19,R,16,Spun off,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-suzuka,Japanese Grand Prix,,,,,,8,29,,0.0,20,R,16,Hydraulics,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-suzuka,Japanese Grand Prix,,,,,,17,19,,0.0,21,R,16,Engine,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-suzuka,Japanese Grand Prix,,,,,,14,9,,0.0,22,R,16,Electrical,,2000
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,1,56,5754235,10.0,1,1,17,Finished,1:35:54.235,2000
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,3,56,5754967,6.0,2,2,17,Finished,+0.732,2000
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,4,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,4,56,5772679,4.0,3,3,17,Finished,+18.444,2000
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,2,56,5789504,3.0,4,4,17,Finished,+35.269,2000
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,6,56,5824927,2.0,5,5,17,Finished,+1:10.692,2000
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,7,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,7,56,5826803,1.0,6,6,17,Finished,+1:12.568,2000
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,12,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,5,56,5843549,0.0,7,7,17,Finished,+1:29.314,2000
+Sauber,sauber,Swiss,,salo,Mika Salo,Finnish,17,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,17,55,,0.0,8,8,17,+1 Lap,,2000
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,11,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,13,55,,0.0,9,9,17,+1 Lap,,2000
+Arrows,arrows,British,,verstappen,Jos Verstappen,Dutch,19,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,15,55,,0.0,10,10,17,+1 Lap,,2000
+Prost,prost,French,,alesi,Jean Alesi,French,14,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,18,55,,0.0,11,11,17,+1 Lap,,2000
+Jordan,jordan,Irish,TRU,trulli,Jarno Trulli,Italian,6,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,9,55,,0.0,12,12,17,+1 Lap,,2000
+Minardi,minardi,Italian,,mazzacane,Gastón Mazzacane,Argentine,21,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,22,50,,0.0,13,13,17,Engine,,2000
+Jaguar,jaguar,British,,herbert,Johnny Herbert,British,8,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,12,48,,0.0,14,R,17,Suspension,,2000
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,11,46,,0.0,15,R,17,Engine,,2000
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,9,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,8,43,,0.0,16,R,17,Engine,,2000
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,20,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,21,36,,0.0,17,R,17,Wheel,,2000
+Williams,williams,British,BUT,button,Jenson Button,British,22,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,16,18,,0.0,18,R,17,Engine,,2000
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,5,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,10,7,,0.0,19,R,17,Electrical,,2000
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,18,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,14,0,,0.0,20,R,17,Collision,,2000
+Prost,prost,French,HEI,heidfeld,Nick Heidfeld,German,15,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,19,0,,0.0,21,R,17,Collision,,2000
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,16,2000-kuala-lumpur,Malaysian Grand Prix,,,,,,20,0,,0.0,22,R,17,Collision,,2000

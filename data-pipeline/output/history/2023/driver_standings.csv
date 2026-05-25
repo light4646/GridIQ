@@ -1,0 +1,23 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""red_bull""]","[""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,575.0,1,1,19,2023
+"[""red_bull""]","[""Red Bull""]",PER,perez,Sergio Pérez,Mexican,11,285.0,2,2,2,2023
+"[""mercedes""]","[""Mercedes""]",HAM,hamilton,Lewis Hamilton,British,44,234.0,3,3,0,2023
+"[""aston_martin""]","[""Aston Martin""]",ALO,alonso,Fernando Alonso,Spanish,14,206.0,4,4,0,2023
+"[""ferrari""]","[""Ferrari""]",LEC,leclerc,Charles Leclerc,Monegasque,16,206.0,5,5,0,2023
+"[""mclaren""]","[""McLaren""]",NOR,norris,Lando Norris,British,1,205.0,6,6,0,2023
+"[""ferrari""]","[""Ferrari""]",SAI,sainz,Carlos Sainz,Spanish,55,200.0,7,7,1,2023
+"[""mercedes""]","[""Mercedes""]",RUS,russell,George Russell,British,63,175.0,8,8,0,2023
+"[""mclaren""]","[""McLaren""]",PIA,piastri,Oscar Piastri,Australian,81,97.0,9,9,0,2023
+"[""aston_martin""]","[""Aston Martin""]",STR,stroll,Lance Stroll,Canadian,18,74.0,10,10,0,2023
+"[""alpine""]","[""Alpine F1 Team""]",GAS,gasly,Pierre Gasly,French,10,62.0,11,11,0,2023
+"[""alpine""]","[""Alpine F1 Team""]",OCO,ocon,Esteban Ocon,French,31,58.0,12,12,0,2023
+"[""williams""]","[""Williams""]",ALB,albon,Alexander Albon,Thai,23,27.0,13,13,0,2023
+"[""alphatauri""]","[""AlphaTauri""]",TSU,tsunoda,Yuki Tsunoda,Japanese,22,17.0,14,14,0,2023
+"[""alfa""]","[""Alfa Romeo""]",BOT,bottas,Valtteri Bottas,Finnish,77,10.0,15,15,0,2023
+"[""haas""]","[""Haas F1 Team""]",HUL,hulkenberg,Nico Hülkenberg,German,27,9.0,16,16,0,2023
+"[""alphatauri""]","[""AlphaTauri""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,6.0,17,17,0,2023
+"[""alfa""]","[""Alfa Romeo""]",ZHO,zhou,Guanyu Zhou,Chinese,24,6.0,18,18,0,2023
+"[""haas""]","[""Haas F1 Team""]",MAG,kevin_magnussen,Kevin Magnussen,Danish,20,3.0,19,19,0,2023
+"[""alphatauri""]","[""AlphaTauri""]",LAW,lawson,Liam Lawson,New Zealander,30,2.0,20,20,0,2023
+"[""williams""]","[""Williams""]",SAR,sargeant,Logan Sargeant,American,2,1.0,21,21,0,2023
+"[""alphatauri""]","[""AlphaTauri""]",DEV,de_vries,Nyck de Vries,Dutch,21,0.0,22,22,0,2023

@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,668.0,1,1,12,2017
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,522.0,2,2,5,2017
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,368.0,3,3,3,2017
+Force India,force_india,Indian,https://en.wikipedia.org/wiki/Racing_Point_Force_India,187.0,4,4,0,2017
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,83.0,5,5,0,2017
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,57.0,6,6,0,2017
+Toro Rosso,toro_rosso,Italian,https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,53.0,7,7,0,2017
+Haas F1 Team,haas,American,https://en.wikipedia.org/wiki/Haas_F1_Team,47.0,8,8,0,2017
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,30.0,9,9,0,2017
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,5.0,10,10,0,2017

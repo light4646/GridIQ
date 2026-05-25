@@ -1,0 +1,40 @@
+{
+  "year": 2018,
+  "generated_at": "2026-05-25T19:10:39.313462+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 21,
+  "race_results": 420,
+  "qualifying_results": 420,
+  "drivers": 20,
+  "constructors": 10,
+  "driver_champion": {
+    "year": 2018,
+    "position": 1,
+    "position_text": "1",
+    "points": 408.0,
+    "wins": 11,
+    "driver_id": "hamilton",
+    "driver_code": "HAM",
+    "driver_number": "44",
+    "driver_name": "Lewis Hamilton",
+    "driver_nationality": "British",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2018,
+    "position": 1,
+    "position_text": "1",
+    "points": 655.0,
+    "wins": 11,
+    "constructor_id": "mercedes",
+    "constructor": "Mercedes",
+    "constructor_nationality": "German",
+    "constructor_url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One"
+  }
+}

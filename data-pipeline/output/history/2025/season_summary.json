@@ -1,0 +1,40 @@
+{
+  "year": 2025,
+  "generated_at": "2026-05-25T19:13:18.888968+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 24,
+  "race_results": 479,
+  "qualifying_results": 479,
+  "drivers": 21,
+  "constructors": 10,
+  "driver_champion": {
+    "year": 2025,
+    "position": 1,
+    "position_text": "1",
+    "points": 423.0,
+    "wins": 7,
+    "driver_id": "norris",
+    "driver_code": "NOR",
+    "driver_number": "1",
+    "driver_name": "Lando Norris",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2025,
+    "position": 1,
+    "position_text": "1",
+    "points": 833.0,
+    "wins": 14,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  }
+}

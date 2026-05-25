@@ -1,0 +1,463 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-melbourne,Australian Grand Prix,210.815,kph,21,3,1:30.557,2,57,6495565,25.0,1,1,1,Finished,1:48:15.565,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-melbourne,Australian Grand Prix,210.608,kph,48,4,1:30.646,1,57,6503625,18.0,2,2,1,Finished,+8.060,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-melbourne,Australian Grand Prix,212.235,kph,23,2,1:29.951,3,57,6505208,15.0,3,3,1,Finished,+9.643,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-melbourne,Australian Grand Prix,214.51,kph,49,1,1:28.997,8,57,6519895,12.0,4,4,1,Finished,+24.330,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-melbourne,Australian Grand Prix,206.861,kph,39,9,1:32.288,6,57,6554544,10.0,5,5,1,Finished,+58.979,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-melbourne,Australian Grand Prix,205.582,kph,48,17,1:32.862,19,57,6567646,8.0,6,6,1,Finished,+1:12.081,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-melbourne,Australian Grand Prix,205.646,kph,49,16,1:32.833,10,57,6569764,6.0,7,7,1,Finished,+1:14.199,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-melbourne,Australian Grand Prix,205.886,kph,51,14,1:32.725,16,57,6570718,4.0,8,8,1,Finished,+1:15.153,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-melbourne,Australian Grand Prix,208.253,kph,23,7,1:31.671,7,57,6571245,2.0,9,9,1,Finished,+1:15.680,2016
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-melbourne,Australian Grand Prix,208.606,kph,44,6,1:31.516,5,57,6572398,1.0,10,10,1,Finished,+1:16.833,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-melbourne,Australian Grand Prix,205.376,kph,14,18,1:32.955,13,57,6578964,0.0,11,11,1,Finished,+1:23.399,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-melbourne,Australian Grand Prix,206.494,kph,45,10,1:32.452,14,57,6581171,0.0,12,12,1,Finished,+1:25.606,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-melbourne,Australian Grand Prix,205.764,kph,39,15,1:32.780,9,57,6587264,0.0,13,13,1,Finished,+1:31.699,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-melbourne,Australian Grand Prix,208.223,kph,33,8,1:31.684,12,56,,0.0,14,14,1,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-melbourne,Australian Grand Prix,205.917,kph,48,13,1:32.711,17,56,,0.0,15,15,1,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-melbourne,Australian Grand Prix,206.001,kph,34,12,1:32.673,21,56,,0.0,16,16,1,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-melbourne,Australian Grand Prix,203.327,kph,15,21,1:33.892,15,38,,0.0,17,R,1,Engine,,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-melbourne,Australian Grand Prix,210.48,kph,21,5,1:30.701,4,21,,0.0,18,R,1,Engine,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-melbourne,Australian Grand Prix,203.424,kph,15,20,1:33.847,22,17,,0.0,19,R,1,Mechanical,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-melbourne,Australian Grand Prix,205.281,kph,4,19,1:32.998,20,16,,0.0,20,R,1,Collision,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-melbourne,Australian Grand Prix,206.268,kph,14,11,1:32.553,11,16,,0.0,21,R,1,Collision,,2016
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-melbourne,Australian Grand Prix,,,,,,18,0,,0.0,22,W,1,Retired,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-sakhir,Bahrain Grand Prix,206.21,kph,41,1,1:34.482,2,57,5614696,25.0,1,1,2,Finished,1:33:34.696,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-sakhir,Bahrain Grand Prix,204.745,kph,39,3,1:35.158,4,57,5624978,18.0,2,2,2,Finished,+10.282,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-sakhir,Bahrain Grand Prix,205.785,kph,43,2,1:34.677,1,57,5644844,15.0,3,3,2,Finished,+30.148,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-sakhir,Bahrain Grand Prix,202.814,kph,44,9,1:36.064,5,57,5677190,12.0,4,4,2,Finished,+1:02.494,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-sakhir,Bahrain Grand Prix,202.749,kph,42,11,1:36.095,9,57,5692995,10.0,5,5,2,Finished,+1:18.299,2016
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-sakhir,Bahrain Grand Prix,204.004,kph,49,7,1:35.504,10,57,5695625,8.0,6,6,2,Finished,+1:20.929,2016
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-sakhir,Bahrain Grand Prix,203.633,kph,36,8,1:35.678,15,56,,6.0,7,7,2,+1 Lap,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-sakhir,Bahrain Grand Prix,199.704,kph,31,16,1:37.560,7,56,,4.0,8,8,2,+1 Lap,,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-sakhir,Bahrain Grand Prix,200.698,kph,37,15,1:37.077,6,56,,2.0,9,9,2,+1 Lap,,2016
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2016-sakhir,Bahrain Grand Prix,202.694,kph,44,12,1:36.121,12,56,,1.0,10,10,2,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-sakhir,Bahrain Grand Prix,201.418,kph,40,14,1:36.730,22,56,,0.0,11,11,2,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-sakhir,Bahrain Grand Prix,198.802,kph,32,17,1:38.003,17,56,,0.0,12,12,2,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-sakhir,Bahrain Grand Prix,204.123,kph,43,6,1:35.448,16,56,,0.0,13,13,2,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-sakhir,Bahrain Grand Prix,204.312,kph,49,5,1:35.360,21,56,,0.0,14,14,2,+1 Lap,,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-sakhir,Bahrain Grand Prix,204.681,kph,53,4,1:35.188,8,56,,0.0,15,15,2,+1 Lap,,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-sakhir,Bahrain Grand Prix,202.808,kph,39,10,1:36.067,18,56,,0.0,16,16,2,+1 Lap,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-sakhir,Bahrain Grand Prix,201.512,kph,47,13,1:36.685,20,56,,0.0,17,17,2,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-sakhir,Bahrain Grand Prix,197.983,kph,22,18,1:38.408,11,29,,0.0,18,R,2,Retired,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-sakhir,Bahrain Grand Prix,196.124,kph,2,19,1:39.341,13,9,,0.0,19,R,2,Retired,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-sakhir,Bahrain Grand Prix,195.954,kph,3,20,1:39.427,14,6,,0.0,20,R,2,Power Unit,,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-sakhir,Bahrain Grand Prix,,,,,,3,0,,0.0,21,W,2,Engine,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-sakhir,Bahrain Grand Prix,,,,,,19,0,,0.0,22,W,2,Hydraulics,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-shanghai,Chinese Grand Prix,195.419,kph,38,6,1:40.418,1,56,5933891,25.0,1,1,3,Finished,1:38:53.891,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-shanghai,Chinese Grand Prix,195.046,kph,37,9,1:40.610,4,56,5971667,18.0,2,2,3,Finished,+37.776,2016
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-shanghai,Chinese Grand Prix,193.248,kph,38,14,1:41.546,6,56,5979827,15.0,3,3,3,Finished,+45.936,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-shanghai,Chinese Grand Prix,194.264,kph,55,11,1:41.015,2,56,5986579,12.0,4,4,3,Finished,+52.688,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-shanghai,Chinese Grand Prix,195.079,kph,40,8,1:40.593,3,56,5999763,10.0,5,5,3,Finished,+1:05.872,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-shanghai,Chinese Grand Prix,192.737,kph,34,16,1:41.815,10,56,6009402,8.0,6,6,3,Finished,+1:15.511,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-shanghai,Chinese Grand Prix,194.945,kph,32,10,1:40.662,22,56,6012121,6.0,7,7,3,Finished,+1:18.230,2016
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-shanghai,Chinese Grand Prix,195.456,kph,41,5,1:40.399,9,56,6013159,4.0,8,8,3,Finished,+1:19.268,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-shanghai,Chinese Grand Prix,193.364,kph,35,12,1:41.485,8,56,6018018,2.0,9,9,3,Finished,+1:24.127,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-shanghai,Chinese Grand Prix,193.225,kph,23,15,1:41.558,5,56,6020083,1.0,10,10,3,Finished,+1:26.192,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-shanghai,Chinese Grand Prix,192.679,kph,30,17,1:41.846,7,56,6028174,0.0,11,11,3,Finished,+1:34.283,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-shanghai,Chinese Grand Prix,191.962,kph,36,19,1:42.226,11,56,6031144,0.0,12,12,3,Finished,+1:37.253,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-shanghai,Chinese Grand Prix,195.652,kph,46,3,1:40.298,12,56,6035881,0.0,13,13,3,Finished,+1:41.990,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-shanghai,Chinese Grand Prix,195.516,kph,45,4,1:40.368,18,55,,0.0,14,14,3,+1 Lap,,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-shanghai,Chinese Grand Prix,196.581,kph,48,1,1:39.824,13,55,,0.0,15,15,3,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-shanghai,Chinese Grand Prix,190.024,kph,41,22,1:43.269,15,55,,0.0,16,16,3,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-shanghai,Chinese Grand Prix,191.803,kph,22,21,1:42.311,17,55,,0.0,17,17,3,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-shanghai,Chinese Grand Prix,193.356,kph,48,13,1:41.489,21,55,,0.0,18,18,3,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-shanghai,Chinese Grand Prix,196.387,kph,47,2,1:39.923,14,55,,0.0,19,19,3,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-shanghai,Chinese Grand Prix,195.1,kph,42,7,1:40.582,16,55,,0.0,20,20,3,+1 Lap,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-shanghai,Chinese Grand Prix,192.371,kph,42,18,1:42.009,20,55,,0.0,21,21,3,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-shanghai,Chinese Grand Prix,191.951,kph,26,20,1:42.232,19,55,,0.0,22,22,3,+1 Lap,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-sochi,Russian Grand Prix,212.452,kph,52,1,1:39.094,1,53,5561997,25.0,1,1,4,Finished,1:32:41.997,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-sochi,Russian Grand Prix,209.969,kph,36,4,1:40.266,10,53,5587019,18.0,2,2,4,Finished,+25.022,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-sochi,Russian Grand Prix,210.315,kph,47,3,1:40.101,3,53,5593995,15.0,3,3,4,Finished,+31.998,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-sochi,Russian Grand Prix,208.115,kph,37,6,1:41.159,2,53,5612214,12.0,4,4,4,Finished,+50.217,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-sochi,Russian Grand Prix,211.07,kph,52,2,1:39.743,4,53,5636424,10.0,5,5,4,Finished,+1:14.427,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-sochi,Russian Grand Prix,209.799,kph,52,5,1:40.347,14,52,,8.0,6,6,4,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-sochi,Russian Grand Prix,206.74,kph,50,9,1:41.832,17,52,,6.0,7,7,4,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-sochi,Russian Grand Prix,206.347,kph,51,12,1:42.026,15,52,,4.0,8,8,4,+1 Lap,,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-sochi,Russian Grand Prix,206.608,kph,47,10,1:41.897,6,52,,2.0,9,9,4,+1 Lap,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-sochi,Russian Grand Prix,206.968,kph,50,8,1:41.720,12,52,,1.0,10,10,4,+1 Lap,,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-sochi,Russian Grand Prix,208.074,kph,46,7,1:41.179,5,52,,0.0,11,11,4,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-sochi,Russian Grand Prix,205.986,kph,41,15,1:42.205,11,52,,0.0,12,12,4,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-sochi,Russian Grand Prix,205.073,kph,37,19,1:42.660,18,52,,0.0,13,13,4,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-sochi,Russian Grand Prix,206.298,kph,45,14,1:42.050,22,52,,0.0,14,14,4,+1 Lap,,2016
+Red Bull,red_bull,Austrian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-sochi,Russian Grand Prix,205.706,kph,44,17,1:42.344,8,52,,0.0,15,15,4,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-sochi,Russian Grand Prix,205.889,kph,50,16,1:42.253,19,52,,0.0,16,16,4,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-sochi,Russian Grand Prix,205.637,kph,52,18,1:42.378,16,52,,0.0,17,17,4,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-sochi,Russian Grand Prix,206.588,kph,43,11,1:41.907,20,51,,0.0,18,18,4,+2 Laps,,2016
+Toro Rosso,toro_rosso,Italian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-sochi,Russian Grand Prix,206.341,kph,32,13,1:42.029,9,33,,0.0,19,R,4,Power Unit,,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-sochi,Russian Grand Prix,,,,,,7,0,,0.0,20,R,4,Collision,,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-sochi,Russian Grand Prix,,,,,,13,0,,0.0,21,R,4,Collision,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-sochi,Russian Grand Prix,,,,,,21,0,,0.0,22,R,4,Collision,,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-barcelona,Spanish Grand Prix,188.682,kph,36,6,1:28.816,4,66,6100017,25.0,1,1,5,Finished,1:41:40.017,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-barcelona,Spanish Grand Prix,189.274,kph,38,4,1:28.538,5,66,6100633,18.0,2,2,5,Finished,+0.616,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-barcelona,Spanish Grand Prix,190.488,kph,39,2,1:27.974,6,66,6105598,15.0,3,3,5,Finished,+5.581,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-barcelona,Spanish Grand Prix,189.98,kph,46,3,1:28.209,3,66,6143967,12.0,4,4,5,Finished,+43.950,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-barcelona,Spanish Grand Prix,188.12,kph,60,8,1:29.081,7,66,6145288,10.0,5,5,5,Finished,+45.271,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-barcelona,Spanish Grand Prix,186.899,kph,42,11,1:29.663,8,66,6161412,8.0,6,6,5,Finished,+1:01.395,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-barcelona,Spanish Grand Prix,186.612,kph,37,15,1:29.801,9,66,6179555,6.0,7,7,5,Finished,+1:19.538,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-barcelona,Spanish Grand Prix,187.789,kph,43,9,1:29.238,18,66,6180724,4.0,8,8,5,Finished,+1:20.707,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-barcelona,Spanish Grand Prix,185.663,kph,39,18,1:30.260,12,65,,2.0,9,9,5,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-barcelona,Spanish Grand Prix,192.735,kph,53,1,1:26.948,13,65,,1.0,10,10,5,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-barcelona,Spanish Grand Prix,185.912,kph,34,17,1:30.139,16,65,,0.0,11,11,5,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-barcelona,Spanish Grand Prix,186.791,kph,42,12,1:29.715,19,65,,0.0,12,12,5,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-barcelona,Spanish Grand Prix,186.658,kph,35,14,1:29.779,17,65,,0.0,13,13,5,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-barcelona,Spanish Grand Prix,188.894,kph,57,5,1:28.716,15,65,,0.0,14,14,5,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-barcelona,Spanish Grand Prix,186.396,kph,38,16,1:29.905,20,65,,0.0,15,15,5,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-barcelona,Spanish Grand Prix,183.786,kph,37,19,1:31.182,21,65,,0.0,16,16,5,+1 Lap,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-barcelona,Spanish Grand Prix,187.445,kph,52,10,1:29.402,22,65,,0.0,17,17,5,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-barcelona,Spanish Grand Prix,188.347,kph,41,7,1:28.974,14,56,,0.0,18,R,5,Engine,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-barcelona,Spanish Grand Prix,186.718,kph,41,13,1:29.750,10,45,,0.0,19,R,5,Engine,,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-barcelona,Spanish Grand Prix,182.529,kph,8,20,1:31.810,11,20,,0.0,20,R,5,Engine,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-barcelona,Spanish Grand Prix,,,,,,1,0,,0.0,21,R,5,Collision,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-barcelona,Spanish Grand Prix,,,,,,2,0,,0.0,22,R,5,Collision,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-monte-carlo,Monaco Grand Prix,154.135,kph,71,1,1:17.939,3,78,7169133,25.0,1,1,6,Finished,1:59:29.133,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-monte-carlo,Monaco Grand Prix,153.437,kph,67,3,1:18.294,1,78,7176385,18.0,2,2,6,Finished,+7.252,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-monte-carlo,Monaco Grand Prix,153.139,kph,64,4,1:18.446,7,78,7182958,15.0,3,3,6,Finished,+13.825,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-monte-carlo,Monaco Grand Prix,154.005,kph,62,2,1:18.005,4,78,7184979,12.0,4,4,6,Finished,+15.846,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-monte-carlo,Monaco Grand Prix,151.739,kph,72,8,1:19.170,9,78,7254209,10.0,5,5,6,Finished,+1:25.076,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-monte-carlo,Monaco Grand Prix,151.62,kph,74,11,1:19.232,5,78,7262132,8.0,6,6,6,Finished,+1:32.999,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-monte-carlo,Monaco Grand Prix,152.523,kph,74,6,1:18.763,2,78,7262423,6.0,7,7,6,Finished,+1:33.290,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-monte-carlo,Monaco Grand Prix,152.997,kph,70,5,1:18.519,6,77,,4.0,8,8,6,+1 Lap,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-monte-carlo,Monaco Grand Prix,150.786,kph,66,12,1:19.670,13,77,,2.0,9,9,6,+1 Lap,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-monte-carlo,Monaco Grand Prix,151.656,kph,69,9,1:19.213,14,77,,1.0,10,10,6,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-monte-carlo,Monaco Grand Prix,151.814,kph,69,7,1:19.131,12,77,,0.0,11,11,6,+1 Lap,,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-monte-carlo,Monaco Grand Prix,151.637,kph,66,10,1:19.223,10,77,,0.0,12,12,6,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-monte-carlo,Monaco Grand Prix,149.755,kph,65,14,1:20.219,15,76,,0.0,13,13,6,+2 Laps,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-monte-carlo,Monaco Grand Prix,149.469,kph,60,15,1:20.372,20,76,,0.0,14,14,6,+2 Laps,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-monte-carlo,Monaco Grand Prix,150.413,kph,70,13,1:19.868,19,74,,0.0,15,15,6,+4 Laps,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-monte-carlo,Monaco Grand Prix,147.687,kph,51,16,1:21.342,17,51,,0.0,16,R,6,Collision,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-monte-carlo,Monaco Grand Prix,146.701,kph,46,17,1:21.889,0,48,,0.0,17,R,6,Retired,,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-monte-carlo,Monaco Grand Prix,138.779,kph,34,18,1:26.563,0,34,,0.0,18,R,6,Accident,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-monte-carlo,Monaco Grand Prix,133.774,kph,27,19,1:29.802,16,32,,0.0,19,R,6,Retired,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-monte-carlo,Monaco Grand Prix,122.715,kph,14,20,1:37.895,8,18,,0.0,20,R,6,Accident,,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-monte-carlo,Monaco Grand Prix,112.116,kph,10,21,1:47.149,11,10,,0.0,21,R,6,Accident,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-monte-carlo,Monaco Grand Prix,101.399,kph,2,22,1:58.474,18,7,,0.0,22,R,6,Accident,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-montreal,Canadian Grand Prix,206.625,kph,68,2,1:15.981,1,70,5465296,25.0,1,1,7,Finished,1:31:05.296,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-montreal,Canadian Grand Prix,205.769,kph,70,3,1:16.297,3,70,5470307,18.0,2,2,7,Finished,+5.011,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-montreal,Canadian Grand Prix,204.055,kph,68,10,1:16.938,7,70,5511718,15.0,3,3,7,Finished,+46.422,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-montreal,Canadian Grand Prix,205.71,kph,49,4,1:16.319,5,70,5518316,12.0,4,4,7,Finished,+53.020,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-montreal,Canadian Grand Prix,207.669,kph,60,1,1:15.599,2,70,5527389,10.0,5,5,7,Finished,+1:02.093,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-montreal,Canadian Grand Prix,204.105,kph,44,9,1:16.919,6,70,5528313,8.0,6,6,7,Finished,+1:03.017,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-montreal,Canadian Grand Prix,205.207,kph,51,5,1:16.506,4,70,5528930,6.0,7,7,7,Finished,+1:03.634,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-montreal,Canadian Grand Prix,204.944,kph,68,8,1:16.604,9,69,,4.0,8,8,7,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-montreal,Canadian Grand Prix,205.014,kph,54,7,1:16.578,20,69,,2.0,9,9,7,+1 Lap,,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-montreal,Canadian Grand Prix,205.065,kph,54,6,1:16.559,11,69,,1.0,10,10,7,+1 Lap,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-montreal,Canadian Grand Prix,203.081,kph,67,13,1:17.307,10,69,,0.0,11,11,7,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-montreal,Canadian Grand Prix,204.044,kph,50,11,1:16.942,15,69,,0.0,12,12,7,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-montreal,Canadian Grand Prix,201.981,kph,48,15,1:17.728,13,68,,0.0,13,13,7,+2 Laps,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-montreal,Canadian Grand Prix,203.149,kph,50,12,1:17.281,14,68,,0.0,14,14,7,+2 Laps,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-montreal,Canadian Grand Prix,201.019,kph,63,17,1:18.100,21,68,,0.0,15,15,7,+2 Laps,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-montreal,Canadian Grand Prix,200.7,kph,42,18,1:18.224,22,68,,0.0,16,16,7,+2 Laps,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-montreal,Canadian Grand Prix,200.551,kph,48,19,1:18.282,17,68,,0.0,17,17,7,+2 Laps,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-montreal,Canadian Grand Prix,201.579,kph,66,16,1:17.883,18,68,,0.0,18,18,7,+2 Laps,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-montreal,Canadian Grand Prix,199.593,kph,57,20,1:18.658,19,68,,0.0,19,19,7,+2 Laps,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-montreal,Canadian Grand Prix,202.774,kph,32,14,1:17.424,8,35,,0.0,20,R,7,Retired,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-montreal,Canadian Grand Prix,196.542,kph,6,22,1:19.879,16,16,,0.0,21,R,7,Retired,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-montreal,Canadian Grand Prix,197.588,kph,5,21,1:19.456,12,9,,0.0,22,R,7,Power Unit,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-baku,European Grand Prix,202.946,kph,48,1,1:46.485,1,51,5572366,25.0,1,1,8,Finished,1:32:52.366,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-baku,European Grand Prix,201.917,kph,49,5,1:47.028,3,51,5589062,18.0,2,2,8,Finished,+16.696,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-baku,European Grand Prix,201.988,kph,45,4,1:46.990,7,51,5597607,15.0,3,3,8,Finished,+25.241,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-baku,European Grand Prix,201.629,kph,41,6,1:47.181,4,51,5605468,12.0,4,4,8,Finished,+33.102,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-baku,European Grand Prix,202.306,kph,42,2,1:46.822,10,51,5628701,10.0,5,5,8,Finished,+56.335,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-baku,European Grand Prix,200.836,kph,50,9,1:47.604,8,51,5633252,8.0,6,6,8,Finished,+1:00.886,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-baku,European Grand Prix,200.59,kph,51,12,1:47.736,2,51,5641595,6.0,7,7,8,Finished,+1:09.229,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-baku,European Grand Prix,202.021,kph,50,3,1:46.973,9,51,5643062,4.0,8,8,8,Finished,+1:10.696,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-baku,European Grand Prix,200.077,kph,37,15,1:48.012,12,51,5650074,2.0,9,9,8,Finished,+1:17.708,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-baku,European Grand Prix,200.543,kph,35,13,1:47.761,5,51,5657741,1.0,10,10,8,Finished,+1:25.375,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-baku,European Grand Prix,200.802,kph,50,10,1:47.622,19,51,5677183,0.0,11,11,8,Finished,+1:44.817,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-baku,European Grand Prix,200.642,kph,48,11,1:47.708,15,50,,0.0,12,12,8,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-baku,European Grand Prix,200.205,kph,48,14,1:47.943,11,50,,0.0,13,13,8,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-baku,European Grand Prix,197.752,kph,41,19,1:49.282,22,50,,0.0,14,14,8,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-baku,European Grand Prix,200.875,kph,48,8,1:47.583,21,50,,0.0,15,15,8,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-baku,European Grand Prix,200.912,kph,50,7,1:47.563,14,50,,0.0,16,16,8,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-baku,European Grand Prix,198.449,kph,48,17,1:48.898,20,50,,0.0,17,17,8,+1 Lap,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-baku,European Grand Prix,194.053,kph,27,21,1:51.365,16,49,,0.0,18,18,8,+2 Laps,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-baku,European Grand Prix,198.08,kph,27,18,1:49.101,13,42,,0.0,19,R,8,Gearbox,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-baku,European Grand Prix,195.447,kph,33,20,1:50.571,17,39,,0.0,20,R,8,Brakes,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-baku,European Grand Prix,198.621,kph,31,16,1:48.804,18,31,,0.0,21,R,8,Suspension,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-baku,European Grand Prix,190.963,kph,2,22,1:53.167,6,6,,0.0,22,R,8,Suspension,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-spielberg,Austrian Grand Prix,227.647,kph,67,1,1:08.411,1,71,5258107,25.0,1,1,9,Finished,1:27:38.107,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-spielberg,Austrian Grand Prix,223.7,kph,69,5,1:09.618,8,71,5263826,18.0,2,2,9,Finished,+5.719,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-spielberg,Austrian Grand Prix,226.11,kph,66,4,1:08.876,4,71,5264131,15.0,3,3,9,Finished,+6.024,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-spielberg,Austrian Grand Prix,227.381,kph,66,2,1:08.491,6,71,5274817,12.0,4,4,9,Finished,+16.710,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-spielberg,Austrian Grand Prix,226.459,kph,66,3,1:08.770,5,71,5289088,10.0,5,5,9,Finished,+30.981,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-spielberg,Austrian Grand Prix,222.476,kph,70,9,1:10.001,3,71,5295813,8.0,6,6,9,Finished,+37.706,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-spielberg,Austrian Grand Prix,222.718,kph,67,8,1:09.925,13,71,5302775,6.0,7,7,9,Finished,+44.668,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-spielberg,Austrian Grand Prix,222.042,kph,68,11,1:10.138,15,71,5305507,4.0,8,8,9,Finished,+47.400,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-spielberg,Austrian Grand Prix,221.814,kph,55,12,1:10.210,7,70,,2.0,9,9,9,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-spielberg,Austrian Grand Prix,219.782,kph,67,19,1:10.859,12,70,,1.0,10,10,9,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-spielberg,Austrian Grand Prix,223.456,kph,55,6,1:09.694,11,70,,0.0,11,11,9,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-spielberg,Austrian Grand Prix,221.757,kph,53,13,1:10.228,19,70,,0.0,12,12,9,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-spielberg,Austrian Grand Prix,221.168,kph,46,16,1:10.415,21,70,,0.0,13,13,9,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-spielberg,Austrian Grand Prix,221.058,kph,56,17,1:10.450,17,70,,0.0,14,14,9,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-spielberg,Austrian Grand Prix,220.264,kph,58,18,1:10.704,18,70,,0.0,15,15,9,+1 Lap,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-spielberg,Austrian Grand Prix,221.398,kph,66,15,1:10.342,20,70,,0.0,16,16,9,+1 Lap,,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-spielberg,Austrian Grand Prix,222.099,kph,66,10,1:10.120,16,69,,0.0,17,17,9,Brakes,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-spielberg,Austrian Grand Prix,219.284,kph,44,20,1:11.020,14,64,,0.0,18,18,9,Battery,,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-spielberg,Austrian Grand Prix,221.502,kph,53,14,1:10.309,2,64,,0.0,19,19,9,Brakes,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-spielberg,Austrian Grand Prix,222.801,kph,59,7,1:09.899,0,63,,0.0,20,20,9,Brakes,,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-spielberg,Austrian Grand Prix,217.992,kph,10,21,1:11.441,9,26,,0.0,21,R,9,Tyre,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-spielberg,Austrian Grand Prix,198.891,kph,2,22,1:18.302,0,2,,0.0,22,R,9,Retired,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-silverstone,British Grand Prix,221.44,kph,45,3,1:35.771,1,52,5695831,25.0,1,1,10,Finished,1:34:55.831,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-silverstone,British Grand Prix,219.979,kph,41,6,1:36.407,3,52,5704081,18.0,2,2,10,Finished,+8.250,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-silverstone,British Grand Prix,221.957,kph,44,1,1:35.548,2,52,5712742,15.0,3,3,10,Finished,+16.911,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-silverstone,British Grand Prix,220.882,kph,52,4,1:36.013,4,52,5722042,12.0,4,4,10,Finished,+26.211,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-silverstone,British Grand Prix,218.648,kph,39,8,1:36.994,5,52,5765574,10.0,5,5,10,Finished,+1:09.743,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-silverstone,British Grand Prix,216.625,kph,35,15,1:37.900,10,52,5772772,8.0,6,6,10,Finished,+1:16.941,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-silverstone,British Grand Prix,217.25,kph,51,11,1:37.618,8,52,5773543,6.0,7,7,10,Finished,+1:17.712,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-silverstone,British Grand Prix,217.734,kph,43,10,1:37.401,7,52,5781689,4.0,8,8,10,Finished,+1:25.858,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-silverstone,British Grand Prix,218.786,kph,44,7,1:36.933,11,52,5787485,2.0,9,9,10,Finished,+1:31.654,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-silverstone,British Grand Prix,217.141,kph,35,13,1:37.667,15,52,5788431,1.0,10,10,10,Finished,+1:32.600,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-silverstone,British Grand Prix,220.588,kph,40,5,1:36.141,12,51,,0.0,11,11,10,+1 Lap,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-silverstone,British Grand Prix,216.609,kph,36,16,1:37.907,17,51,,0.0,12,12,10,+1 Lap,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-silverstone,British Grand Prix,221.676,kph,43,2,1:35.669,9,51,,0.0,13,13,10,+1 Lap,,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-silverstone,British Grand Prix,217.775,kph,45,9,1:37.383,6,51,,0.0,14,14,10,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-silverstone,British Grand Prix,214.847,kph,43,17,1:38.710,21,51,,0.0,15,15,10,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-silverstone,British Grand Prix,217.039,kph,44,14,1:37.713,14,51,,0.0,16,16,10,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-silverstone,British Grand Prix,217.248,kph,43,12,1:37.619,16,49,,0.0,17,17,10,Gearbox,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-silverstone,British Grand Prix,212.596,kph,36,18,1:39.755,18,37,,0.0,18,R,10,Gearbox,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-silverstone,British Grand Prix,209.189,kph,23,19,1:41.380,19,24,,0.0,19,R,10,Spun off,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-silverstone,British Grand Prix,183.604,kph,14,20,1:55.507,13,17,,0.0,20,R,10,Retired,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-silverstone,British Grand Prix,176.309,kph,9,21,2:00.286,22,11,,0.0,21,R,10,Power Unit,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-silverstone,British Grand Prix,125.634,kph,4,22,2:48.804,20,6,,0.0,22,R,10,Spun off,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-budapest,Hungarian Grand Prix,188.095,kph,69,3,1:23.849,2,70,6030115,25.0,1,1,11,Finished,1:40:30.115,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-budapest,Hungarian Grand Prix,188.497,kph,60,2,1:23.670,1,70,6032092,18.0,2,2,11,Finished,+1.977,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-budapest,Hungarian Grand Prix,186.407,kph,60,5,1:24.608,3,70,6057654,15.0,3,3,11,Finished,+27.539,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-budapest,Hungarian Grand Prix,186.904,kph,59,4,1:24.383,5,70,6058328,12.0,4,4,11,Finished,+28.213,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-budapest,Hungarian Grand Prix,186.234,kph,40,7,1:24.687,4,70,6078774,10.0,5,5,11,Finished,+48.659,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-budapest,Hungarian Grand Prix,189.822,kph,52,1,1:23.086,14,70,6079159,8.0,6,6,11,Finished,+49.044,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-budapest,Hungarian Grand Prix,185.639,kph,62,8,1:24.958,7,69,,6.0,7,7,11,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-budapest,Hungarian Grand Prix,185.323,kph,67,10,1:25.103,6,69,,4.0,8,8,11,+1 Lap,,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-budapest,Hungarian Grand Prix,184.954,kph,59,11,1:25.273,10,69,,2.0,9,9,11,+1 Lap,,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-budapest,Hungarian Grand Prix,184.696,kph,69,13,1:25.392,9,69,,1.0,10,10,11,+1 Lap,,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-budapest,Hungarian Grand Prix,185.502,kph,65,9,1:25.021,13,69,,0.0,11,11,11,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-budapest,Hungarian Grand Prix,183.94,kph,41,16,1:25.743,17,69,,0.0,12,12,11,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-budapest,Hungarian Grand Prix,183.486,kph,39,17,1:25.955,15,69,,0.0,13,13,11,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-budapest,Hungarian Grand Prix,183.48,kph,56,18,1:25.958,11,69,,0.0,14,14,11,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-budapest,Hungarian Grand Prix,182.901,kph,39,19,1:26.230,19,69,,0.0,15,15,11,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-budapest,Hungarian Grand Prix,186.273,kph,48,6,1:24.669,12,69,,0.0,16,16,11,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-budapest,Hungarian Grand Prix,184.084,kph,66,15,1:25.676,16,69,,0.0,17,17,11,+1 Lap,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-budapest,Hungarian Grand Prix,184.904,kph,68,12,1:25.296,18,68,,0.0,18,18,11,+2 Laps,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-budapest,Hungarian Grand Prix,182.28,kph,47,20,1:26.524,20,68,,0.0,19,19,11,+2 Laps,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-budapest,Hungarian Grand Prix,184.517,kph,47,14,1:25.475,22,68,,0.0,20,20,11,+2 Laps,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-budapest,Hungarian Grand Prix,179.649,kph,64,22,1:27.791,21,68,,0.0,21,21,11,+2 Laps,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-budapest,Hungarian Grand Prix,181.817,kph,9,21,1:26.744,8,60,,0.0,22,R,11,Oil leak,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-hockenheim,German Grand Prix,209.107,kph,52,3,1:18.746,2,67,5444200,25.0,1,1,12,Finished,1:30:44.200,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-hockenheim,German Grand Prix,209.918,kph,48,1,1:18.442,3,67,5451196,18.0,2,2,12,Finished,+6.996,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-hockenheim,German Grand Prix,208.673,kph,47,4,1:18.910,4,67,5457613,15.0,3,3,12,Finished,+13.413,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-hockenheim,German Grand Prix,208.114,kph,51,5,1:19.122,1,67,5460045,12.0,4,4,12,Finished,+15.845,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-hockenheim,German Grand Prix,209.203,kph,48,2,1:18.710,6,67,5476770,10.0,5,5,12,Finished,+32.570,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-hockenheim,German Grand Prix,206.937,kph,36,6,1:19.572,5,67,5481223,8.0,6,6,12,Finished,+37.023,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-hockenheim,German Grand Prix,205.686,kph,46,12,1:20.056,8,67,5514249,6.0,7,7,12,Finished,+1:10.049,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-hockenheim,German Grand Prix,206.395,kph,48,9,1:19.781,12,66,,4.0,8,8,12,+1 Lap,,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-hockenheim,German Grand Prix,204.699,kph,36,15,1:20.442,7,66,,2.0,9,9,12,+1 Lap,,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-hockenheim,German Grand Prix,206.848,kph,46,8,1:19.606,9,66,,1.0,10,10,12,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-hockenheim,German Grand Prix,206.131,kph,56,10,1:19.883,11,66,,0.0,11,11,12,+1 Lap,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-hockenheim,German Grand Prix,205.49,kph,50,13,1:20.132,13,66,,0.0,12,12,12,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-hockenheim,German Grand Prix,205.188,kph,58,14,1:20.250,20,66,,0.0,13,13,12,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-hockenheim,German Grand Prix,205.94,kph,54,11,1:19.957,15,66,,0.0,14,14,12,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-hockenheim,German Grand Prix,206.903,kph,51,7,1:19.585,18,66,,0.0,15,15,12,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-hockenheim,German Grand Prix,201.673,kph,42,21,1:21.649,16,66,,0.0,16,16,12,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-hockenheim,German Grand Prix,204.019,kph,49,16,1:20.710,17,65,,0.0,17,17,12,+2 Laps,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-hockenheim,German Grand Prix,202.758,kph,35,18,1:21.212,22,65,,0.0,18,18,12,+2 Laps,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-hockenheim,German Grand Prix,202.97,kph,55,17,1:21.127,14,65,,0.0,19,19,12,+2 Laps,,2016
+Manor Marussia,manor,British,HAR,haryanto,Rio Haryanto,Indonesian,88,2016-hockenheim,German Grand Prix,201.19,kph,56,22,1:21.845,19,65,,0.0,20,20,12,+2 Laps,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-hockenheim,German Grand Prix,202.24,kph,45,19,1:21.420,21,57,,0.0,21,R,12,Power Unit,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-hockenheim,German Grand Prix,202.101,kph,31,20,1:21.476,10,36,,0.0,22,R,12,Suspension,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-spa,Belgian Grand Prix,225.64,kph,11,2,1:51.746,1,44,6291058,25.0,1,1,13,Finished,1:44:51.058,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-spa,Belgian Grand Prix,224.205,kph,11,4,1:52.461,5,44,6305171,18.0,2,2,13,Finished,+14.113,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-spa,Belgian Grand Prix,225.969,kph,40,1,1:51.583,21,44,6318692,15.0,3,3,13,Finished,+27.634,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-spa,Belgian Grand Prix,222.094,kph,41,10,1:53.530,7,44,6326965,12.0,4,4,13,Finished,+35.907,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-spa,Belgian Grand Prix,222.321,kph,34,8,1:53.414,6,44,6331718,10.0,5,5,13,Finished,+40.660,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-spa,Belgian Grand Prix,223.674,kph,35,5,1:52.728,4,44,6336452,8.0,6,6,13,Finished,+45.394,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-spa,Belgian Grand Prix,220.243,kph,43,15,1:54.484,22,44,6350503,6.0,7,7,13,Finished,+59.445,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-spa,Belgian Grand Prix,220.946,kph,31,12,1:54.120,8,44,6351209,4.0,8,8,13,Finished,+1:00.151,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-spa,Belgian Grand Prix,222.157,kph,27,9,1:53.498,3,44,6352167,2.0,9,9,13,Finished,+1:01.109,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-spa,Belgian Grand Prix,220.517,kph,25,14,1:54.342,10,44,6356931,1.0,10,10,13,Finished,+1:05.873,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-spa,Belgian Grand Prix,222.582,kph,32,7,1:53.281,2,44,6362196,0.0,11,11,13,Finished,+1:11.138,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-spa,Belgian Grand Prix,220.53,kph,26,13,1:54.335,18,44,6364935,0.0,12,12,13,Finished,+1:13.877,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-spa,Belgian Grand Prix,221.561,kph,25,11,1:53.803,11,44,6367532,0.0,13,13,13,Finished,+1:16.474,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-spa,Belgian Grand Prix,224.965,kph,37,3,1:52.081,19,44,6378155,0.0,14,14,13,Finished,+1:27.097,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-spa,Belgian Grand Prix,222.641,kph,41,6,1:53.251,13,44,6384223,0.0,15,15,13,Finished,+1:33.165,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-spa,Belgian Grand Prix,217.865,kph,26,16,1:55.734,17,43,,0.0,16,16,13,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-spa,Belgian Grand Prix,217.081,kph,31,17,1:56.152,16,43,,0.0,17,17,13,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-spa,Belgian Grand Prix,216.269,kph,4,18,1:56.588,12,5,,0.0,18,R,13,Accident,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-spa,Belgian Grand Prix,186.421,kph,2,19,2:15.255,20,3,,0.0,19,R,13,Gearbox,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-spa,Belgian Grand Prix,,,,,,14,1,,0.0,20,R,13,Puncture,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-spa,Belgian Grand Prix,,,,,,9,1,,0.0,21,R,13,Collision damage,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-spa,Belgian Grand Prix,,,,,,15,0,,0.0,22,R,13,Collision damage,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-monza,Italian Grand Prix,240.82,kph,26,9,1:26.599,2,53,4648089,25.0,1,1,14,Finished,1:17:28.089,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-monza,Italian Grand Prix,241.646,kph,27,4,1:26.303,1,53,4663159,18.0,2,2,14,Finished,+15.070,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-monza,Italian Grand Prix,241.626,kph,48,5,1:26.310,3,53,4669079,15.0,3,3,14,Finished,+20.990,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-monza,Italian Grand Prix,242.452,kph,50,3,1:26.016,4,53,4675650,12.0,4,4,14,Finished,+27.561,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-monza,Italian Grand Prix,242.726,kph,52,2,1:25.919,6,53,4693384,10.0,5,5,14,Finished,+45.295,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-monza,Italian Grand Prix,240.517,kph,46,10,1:26.708,5,53,4699104,8.0,6,6,14,Finished,+51.015,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-monza,Italian Grand Prix,241.361,kph,50,8,1:26.405,7,53,4702325,6.0,7,7,14,Finished,+54.236,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-monza,Italian Grand Prix,239.93,kph,40,12,1:26.920,8,53,4713043,4.0,8,8,14,Finished,+1:04.954,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-monza,Italian Grand Prix,241.375,kph,50,7,1:26.400,11,53,4713706,2.0,9,9,14,Finished,+1:05.617,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-monza,Italian Grand Prix,239.837,kph,40,13,1:26.954,9,53,4726745,1.0,10,10,14,Finished,+1:18.656,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-monza,Italian Grand Prix,239.086,kph,50,15,1:27.227,17,52,,0.0,11,11,14,+1 Lap,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-monza,Italian Grand Prix,241.503,kph,40,6,1:26.354,14,52,,0.0,12,12,14,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-monza,Italian Grand Prix,239.418,kph,42,14,1:27.106,10,52,,0.0,13,13,14,+1 Lap,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-monza,Italian Grand Prix,244.373,kph,51,1,1:25.340,12,52,,0.0,14,14,14,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-monza,Italian Grand Prix,240.398,kph,41,11,1:26.751,15,52,,0.0,15,15,14,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-monza,Italian Grand Prix,235.509,kph,37,19,1:28.552,19,52,,0.0,16,16,14,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-monza,Italian Grand Prix,238.019,kph,52,16,1:27.618,21,52,,0.0,17,17,14,+1 Lap,,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-monza,Italian Grand Prix,235.556,kph,51,18,1:28.534,22,51,,0.0,18,18,14,+2 Laps,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-monza,Italian Grand Prix,236.886,kph,35,17,1:28.037,16,36,,0.0,19,R,14,Battery,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-monza,Italian Grand Prix,235.055,kph,18,20,1:28.723,13,26,,0.0,20,R,14,Oil leak,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-monza,Italian Grand Prix,228.268,kph,4,21,1:31.361,20,7,,0.0,21,R,14,Collision damage,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-monza,Italian Grand Prix,,,,,,18,6,,0.0,22,R,14,Collision damage,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-marina-bay,Singapore Grand Prix,165.318,kph,38,6,1:50.296,1,61,6948950,25.0,1,1,15,Finished,1:55:48.950,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-marina-bay,Singapore Grand Prix,170.113,kph,49,1,1:47.187,2,61,6949438,18.0,2,2,15,Finished,+0.488,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-marina-bay,Singapore Grand Prix,169.221,kph,52,3,1:47.752,3,61,6956988,15.0,3,3,15,Finished,+8.038,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-marina-bay,Singapore Grand Prix,168.515,kph,51,4,1:48.204,5,61,6959169,12.0,4,4,15,Finished,+10.219,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-marina-bay,Singapore Grand Prix,169.863,kph,45,2,1:47.345,22,61,6976644,10.0,5,5,15,Finished,+27.694,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-marina-bay,Singapore Grand Prix,167.207,kph,46,5,1:49.050,4,61,7020147,8.0,6,6,15,Finished,+1:11.197,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-marina-bay,Singapore Grand Prix,163.902,kph,49,12,1:51.249,9,61,7038148,6.0,7,7,15,Finished,+1:29.198,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-marina-bay,Singapore Grand Prix,163.508,kph,34,15,1:51.517,17,61,7060012,4.0,8,8,15,Finished,+1:51.062,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-marina-bay,Singapore Grand Prix,164.353,kph,39,9,1:50.944,7,61,7060507,2.0,9,9,15,Finished,+1:51.557,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-marina-bay,Singapore Grand Prix,164.48,kph,44,8,1:50.858,15,61,7068902,1.0,10,10,15,Finished,+1:59.952,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-marina-bay,Singapore Grand Prix,164.159,kph,39,11,1:51.075,13,60,,0.0,11,11,15,+1 Lap,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-marina-bay,Singapore Grand Prix,163.599,kph,53,14,1:51.455,11,60,,0.0,12,12,15,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-marina-bay,Singapore Grand Prix,163.265,kph,41,17,1:51.683,16,60,,0.0,13,13,15,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-marina-bay,Singapore Grand Prix,164.965,kph,56,7,1:50.532,6,60,,0.0,14,14,15,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-marina-bay,Singapore Grand Prix,163.128,kph,36,19,1:51.777,18,60,,0.0,15,15,15,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-marina-bay,Singapore Grand Prix,162.773,kph,40,20,1:52.021,19,60,,0.0,16,16,15,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-marina-bay,Singapore Grand Prix,164.325,kph,27,10,1:50.963,14,60,,0.0,17,17,15,+1 Lap,,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-marina-bay,Singapore Grand Prix,163.17,kph,47,18,1:51.748,21,59,,0.0,18,18,15,+2 Laps,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-marina-bay,Singapore Grand Prix,163.341,kph,18,16,1:51.631,12,43,,0.0,19,R,15,Brakes,,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-marina-bay,Singapore Grand Prix,163.727,kph,17,13,1:51.368,10,35,,0.0,20,R,15,Overheating,,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-marina-bay,Singapore Grand Prix,,,,,,8,0,,0.0,21,R,15,Collision,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-marina-bay,Singapore Grand Prix,,,,,,20,0,,0.0,22,W,15,Withdrew,,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-kuala-lumpur,Malaysian Grand Prix,204.771,kph,44,3,1:37.449,4,56,5832776,25.0,1,1,16,Finished,1:37:12.776,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-kuala-lumpur,Malaysian Grand Prix,204.925,kph,44,2,1:37.376,3,56,5835219,18.0,2,2,16,Finished,+2.443,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-kuala-lumpur,Malaysian Grand Prix,206.948,kph,44,1,1:36.424,2,56,5858292,15.0,3,3,16,Finished,+25.516,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-kuala-lumpur,Malaysian Grand Prix,204.736,kph,47,4,1:37.466,6,56,5861561,12.0,4,4,16,Finished,+28.785,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-kuala-lumpur,Malaysian Grand Prix,201.159,kph,53,9,1:39.199,11,56,5894358,10.0,5,5,16,Finished,+1:01.582,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-kuala-lumpur,Malaysian Grand Prix,200.898,kph,51,11,1:39.328,7,56,5896570,8.0,6,6,16,Finished,+1:03.794,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-kuala-lumpur,Malaysian Grand Prix,203.017,kph,44,6,1:38.291,22,56,5897981,6.0,7,7,16,Finished,+1:05.205,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-kuala-lumpur,Malaysian Grand Prix,204.051,kph,43,5,1:37.793,8,56,5906838,4.0,8,8,16,Finished,+1:14.062,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-kuala-lumpur,Malaysian Grand Prix,202.094,kph,51,8,1:38.740,9,56,5914592,2.0,9,9,16,Finished,+1:21.816,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-kuala-lumpur,Malaysian Grand Prix,200.853,kph,53,12,1:39.350,19,56,5928242,1.0,10,10,16,Finished,+1:35.466,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-kuala-lumpur,Malaysian Grand Prix,201.07,kph,44,10,1:39.243,16,56,5931654,0.0,11,11,16,Finished,+1:38.878,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-kuala-lumpur,Malaysian Grand Prix,199.985,kph,55,14,1:39.781,17,55,,0.0,12,12,16,+1 Lap,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-kuala-lumpur,Malaysian Grand Prix,199.707,kph,53,16,1:39.920,10,55,,0.0,13,13,16,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-kuala-lumpur,Malaysian Grand Prix,199.951,kph,43,15,1:39.798,15,55,,0.0,14,14,16,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-kuala-lumpur,Malaysian Grand Prix,200.242,kph,55,13,1:39.653,21,55,,0.0,15,15,16,+1 Lap,,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-kuala-lumpur,Malaysian Grand Prix,196.662,kph,45,18,1:41.467,20,55,,0.0,16,16,16,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-kuala-lumpur,Malaysian Grand Prix,198.574,kph,43,17,1:40.490,18,46,,0.0,17,R,16,Brakes,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-kuala-lumpur,Malaysian Grand Prix,202.391,kph,31,7,1:38.595,1,40,,0.0,18,R,16,Engine,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-kuala-lumpur,Malaysian Grand Prix,196.067,kph,37,19,1:41.775,13,39,,0.0,19,R,16,Wheel nut,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-kuala-lumpur,Malaysian Grand Prix,193.025,kph,3,21,1:43.379,14,17,,0.0,20,R,16,Power loss,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-kuala-lumpur,Malaysian Grand Prix,195.363,kph,7,20,1:42.142,12,7,,0.0,21,R,16,Brakes,,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-kuala-lumpur,Malaysian Grand Prix,,,,,,5,0,,0.0,22,R,16,Collision,,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-suzuka,Japanese Grand Prix,217.651,kph,31,5,1:36.049,1,53,5203333,25.0,1,1,17,Finished,1:26:43.333,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-suzuka,Japanese Grand Prix,216.89,kph,43,6,1:36.386,3,53,5208311,18.0,2,2,17,Finished,+4.978,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-suzuka,Japanese Grand Prix,219.703,kph,36,2,1:35.152,2,53,5209109,15.0,3,3,17,Finished,+5.776,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-suzuka,Japanese Grand Prix,219.781,kph,36,1,1:35.118,6,53,5223602,12.0,4,4,17,Finished,+20.269,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-suzuka,Japanese Grand Prix,217.785,kph,33,4,1:35.990,8,53,5231703,10.0,5,5,17,Finished,+28.370,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-suzuka,Japanese Grand Prix,218.877,kph,36,3,1:35.511,4,53,5237274,8.0,6,6,17,Finished,+33.941,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-suzuka,Japanese Grand Prix,216.061,kph,31,7,1:36.756,5,53,5260828,6.0,7,7,17,Finished,+57.495,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-suzuka,Japanese Grand Prix,214.74,kph,39,10,1:37.351,9,53,5262510,4.0,8,8,17,Finished,+59.177,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-suzuka,Japanese Grand Prix,213.787,kph,35,14,1:37.785,12,53,5301096,2.0,9,9,17,Finished,+1:37.763,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-suzuka,Japanese Grand Prix,213.658,kph,33,15,1:37.844,11,53,5301656,1.0,10,10,17,Finished,+1:38.323,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-suzuka,Japanese Grand Prix,215.473,kph,32,8,1:37.020,7,53,5302587,0.0,11,11,17,Finished,+1:39.254,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-suzuka,Japanese Grand Prix,213.366,kph,43,16,1:37.978,16,52,,0.0,12,12,17,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-suzuka,Japanese Grand Prix,214.199,kph,25,11,1:37.597,13,52,,0.0,13,13,17,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-suzuka,Japanese Grand Prix,213.24,kph,27,18,1:38.036,17,52,,0.0,14,14,17,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-suzuka,Japanese Grand Prix,212.244,kph,28,21,1:38.496,18,52,,0.0,15,15,17,+1 Lap,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-suzuka,Japanese Grand Prix,212.866,kph,29,19,1:38.208,15,52,,0.0,16,16,17,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-suzuka,Japanese Grand Prix,213.923,kph,41,12,1:37.723,14,52,,0.0,17,17,17,+1 Lap,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-suzuka,Japanese Grand Prix,215.124,kph,39,9,1:37.177,22,52,,0.0,18,18,17,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-suzuka,Japanese Grand Prix,212.14,kph,28,22,1:38.544,19,52,,0.0,19,19,17,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-suzuka,Japanese Grand Prix,213.809,kph,30,13,1:37.775,10,52,,0.0,20,20,17,+1 Lap,,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-suzuka,Japanese Grand Prix,212.494,kph,33,20,1:38.380,20,52,,0.0,21,21,17,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-suzuka,Japanese Grand Prix,213.318,kph,39,17,1:38.000,21,52,,0.0,22,22,17,+1 Lap,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-austin,United States Grand Prix,193.842,kph,45,4,1:42.386,1,56,5892618,25.0,1,1,18,Finished,1:38:12.618,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-austin,United States Grand Prix,194.773,kph,34,3,1:41.897,2,56,5897138,18.0,2,2,18,Finished,+4.520,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-austin,United States Grand Prix,193.523,kph,51,7,1:42.555,3,56,5912310,15.0,3,3,18,Finished,+19.692,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-austin,United States Grand Prix,198.712,kph,55,1,1:39.877,6,56,5935752,12.0,4,4,18,Finished,+43.134,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-austin,United States Grand Prix,191.752,kph,36,10,1:43.502,12,56,5986571,10.0,5,5,18,Finished,+1:33.953,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-austin,United States Grand Prix,193.002,kph,33,8,1:42.832,10,56,5988742,8.0,6,6,18,Finished,+1:36.124,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-austin,United States Grand Prix,191.915,kph,33,9,1:43.414,9,55,,6.0,7,7,18,+1 Lap,,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-austin,United States Grand Prix,190.972,kph,33,12,1:43.925,11,55,,4.0,8,8,18,+1 Lap,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-austin,United States Grand Prix,189.979,kph,37,15,1:44.468,19,55,,2.0,9,9,18,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-austin,United States Grand Prix,190.221,kph,35,14,1:44.335,17,55,,1.0,10,10,18,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-austin,United States Grand Prix,193.674,kph,45,6,1:42.475,13,55,,0.0,11,11,18,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-austin,United States Grand Prix,189.504,kph,48,17,1:44.730,18,55,,0.0,12,12,18,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-austin,United States Grand Prix,189.515,kph,18,16,1:44.724,15,55,,0.0,13,13,18,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-austin,United States Grand Prix,188.765,kph,19,19,1:45.140,16,55,,0.0,14,14,18,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-austin,United States Grand Prix,190.62,kph,55,13,1:44.117,21,55,,0.0,15,15,18,+1 Lap,,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-austin,United States Grand Prix,189.058,kph,34,18,1:44.977,8,55,,0.0,16,16,18,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-austin,United States Grand Prix,188.208,kph,36,21,1:45.451,20,55,,0.0,17,17,18,+1 Lap,,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-austin,United States Grand Prix,191.599,kph,46,11,1:43.585,22,54,,0.0,18,18,18,+2 Laps,,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-austin,United States Grand Prix,194.88,kph,26,2,1:41.841,5,38,,0.0,19,R,18,Wheel,,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-austin,United States Grand Prix,193.77,kph,28,5,1:42.424,4,28,,0.0,20,R,18,Gearbox,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-austin,United States Grand Prix,188.364,kph,15,20,1:45.364,14,16,,0.0,21,R,18,Brakes,,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-austin,United States Grand Prix,,,,,,7,1,,0.0,22,R,18,Collision,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-mexico-city,Mexican Grand Prix,187.592,kph,66,4,1:22.596,1,71,6031402,25.0,1,1,19,Finished,1:40:31.402,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-mexico-city,Mexican Grand Prix,187.148,kph,43,5,1:22.792,2,71,6039756,18.0,2,2,19,Finished,+8.354,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-mexico-city,Mexican Grand Prix,190.972,kph,53,1,1:21.134,4,71,6052260,15.0,3,3,19,Finished,+20.858,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-mexico-city,Mexican Grand Prix,186.934,kph,66,6,1:22.887,3,71,6052725,12.0,4,4,19,Finished,+21.323,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-mexico-city,Mexican Grand Prix,187.817,kph,61,2,1:22.497,7,71,6058715,10.0,5,5,19,Finished,+27.313,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-mexico-city,Mexican Grand Prix,187.783,kph,47,3,1:22.512,6,71,6080778,8.0,6,6,19,Finished,+49.376,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-mexico-city,Mexican Grand Prix,186.034,kph,50,9,1:23.288,5,71,6090293,6.0,7,7,19,Finished,+58.891,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-mexico-city,Mexican Grand Prix,185.472,kph,65,11,1:23.540,8,71,6097014,4.0,8,8,19,Finished,+1:05.612,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-mexico-city,Mexican Grand Prix,185.392,kph,64,12,1:23.576,9,71,6107608,2.0,9,9,19,Finished,+1:16.206,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-mexico-city,Mexican Grand Prix,185.324,kph,62,13,1:23.607,12,71,6108200,1.0,10,10,19,Finished,+1:16.798,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-mexico-city,Mexican Grand Prix,183.713,kph,65,18,1:24.340,15,70,,0.0,11,11,19,+1 Lap,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-mexico-city,Mexican Grand Prix,184.948,kph,70,17,1:23.777,13,70,,0.0,12,12,19,+1 Lap,,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-mexico-city,Mexican Grand Prix,185.189,kph,69,16,1:23.668,11,70,,0.0,13,13,19,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-mexico-city,Mexican Grand Prix,183.205,kph,64,20,1:24.574,21,70,,0.0,14,14,19,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-mexico-city,Mexican Grand Prix,185.213,kph,58,15,1:23.657,19,70,,0.0,15,15,19,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-mexico-city,Mexican Grand Prix,183.437,kph,52,19,1:24.467,10,70,,0.0,16,16,19,+1 Lap,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-mexico-city,Mexican Grand Prix,186.351,kph,53,7,1:23.146,14,70,,0.0,17,17,19,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-mexico-city,Mexican Grand Prix,185.299,kph,59,14,1:23.618,18,70,,0.0,18,18,19,+1 Lap,,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-mexico-city,Mexican Grand Prix,185.659,kph,63,10,1:23.456,17,70,,0.0,19,19,19,+1 Lap,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-mexico-city,Mexican Grand Prix,186.056,kph,53,8,1:23.278,22,70,,0.0,20,20,19,+1 Lap,,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-mexico-city,Mexican Grand Prix,182.364,kph,43,21,1:24.964,20,69,,0.0,21,21,19,+2 Laps,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-mexico-city,Mexican Grand Prix,,,,,,16,0,,0.0,22,R,19,Collision,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-s-o-paulo,Brazilian Grand Prix,181.137,kph,44,3,1:25.639,1,71,10861335,25.0,1,1,20,Finished,3:01:01.335,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-s-o-paulo,Brazilian Grand Prix,179.912,kph,47,6,1:26.222,2,71,10872790,18.0,2,2,20,Finished,+11.455,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-s-o-paulo,Brazilian Grand Prix,181.846,kph,67,1,1:25.305,4,71,10882816,15.0,3,3,20,Finished,+21.481,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-s-o-paulo,Brazilian Grand Prix,178.113,kph,41,11,1:27.093,9,71,10886681,12.0,4,4,20,Finished,+25.346,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-s-o-paulo,Brazilian Grand Prix,179.968,kph,70,5,1:26.195,5,71,10887669,10.0,5,5,20,Finished,+26.334,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-s-o-paulo,Brazilian Grand Prix,177.99,kph,38,13,1:27.153,15,71,10890495,8.0,6,6,20,Finished,+29.160,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-s-o-paulo,Brazilian Grand Prix,178.862,kph,69,8,1:26.728,8,71,10891162,6.0,7,7,20,Finished,+29.827,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-s-o-paulo,Brazilian Grand Prix,181.363,kph,42,2,1:25.532,6,71,10891821,4.0,8,8,20,Finished,+30.486,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-s-o-paulo,Brazilian Grand Prix,177.189,kph,70,15,1:27.547,21,71,10903955,2.0,9,9,20,Finished,+42.620,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-s-o-paulo,Brazilian Grand Prix,178.09,kph,70,12,1:27.104,10,71,10905767,1.0,10,10,20,Finished,+44.432,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-s-o-paulo,Brazilian Grand Prix,180.246,kph,70,4,1:26.062,11,71,10906627,0.0,11,11,20,Finished,+45.292,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-s-o-paulo,Brazilian Grand Prix,176.686,kph,47,16,1:27.796,22,71,10907144,0.0,12,12,20,Finished,+45.809,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-s-o-paulo,Brazilian Grand Prix,177.333,kph,42,14,1:27.476,14,71,10912527,0.0,13,13,20,Finished,+51.192,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-s-o-paulo,Brazilian Grand Prix,179.284,kph,69,7,1:26.524,18,71,10912890,0.0,14,14,20,Finished,+51.555,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-s-o-paulo,Brazilian Grand Prix,176.439,kph,69,18,1:27.919,19,71,10921833,0.0,15,15,20,Finished,+1:00.498,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-s-o-paulo,Brazilian Grand Prix,178.338,kph,38,10,1:26.983,17,71,10943329,0.0,16,16,20,Finished,+1:21.994,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-s-o-paulo,Brazilian Grand Prix,176.668,kph,43,17,1:27.805,12,60,,0.0,17,R,20,Retired,,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-s-o-paulo,Brazilian Grand Prix,178.782,kph,39,9,1:26.767,13,46,,0.0,18,R,20,Collision,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-s-o-paulo,Brazilian Grand Prix,164.441,kph,11,21,1:34.334,16,20,,0.0,19,R,20,Collision damage,,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-s-o-paulo,Brazilian Grand Prix,174.596,kph,12,19,1:28.847,3,19,,0.0,20,R,20,Collision,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-s-o-paulo,Brazilian Grand Prix,169.97,kph,11,20,1:31.265,20,11,,0.0,21,R,20,Collision,,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-s-o-paulo,Brazilian Grand Prix,,,,,,7,0,,0.0,22,W,20,Withdrew,,2016
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2016-abu-dhabi,Abu Dhabi Grand Prix,190.174,kph,37,5,1:45.137,1,55,5884013,25.0,1,1,21,Finished,1:38:04.013,2016
+Mercedes,mercedes,German,ROS,rosberg,Nico Rosberg,German,6,2016-abu-dhabi,Abu Dhabi Grand Prix,189.95,kph,33,9,1:45.261,2,55,5884452,18.0,2,2,21,Finished,+0.439,2016
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2016-abu-dhabi,Abu Dhabi Grand Prix,192.756,kph,43,1,1:43.729,5,55,5884856,15.0,3,3,21,Finished,+0.843,2016
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2016-abu-dhabi,Abu Dhabi Grand Prix,190.084,kph,36,7,1:45.187,6,55,5885698,12.0,4,4,21,Finished,+1.685,2016
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2016-abu-dhabi,Abu Dhabi Grand Prix,190.624,kph,29,3,1:44.889,3,55,5889328,10.0,5,5,21,Finished,+5.315,2016
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2016-abu-dhabi,Abu Dhabi Grand Prix,190.127,kph,35,6,1:45.163,4,55,5902829,8.0,6,6,21,Finished,+18.816,2016
+Force India,force_india,Indian,HUL,hulkenberg,Nico Hülkenberg,German,27,2016-abu-dhabi,Abu Dhabi Grand Prix,188.717,kph,31,13,1:45.949,7,55,5934127,6.0,7,7,21,Finished,+50.114,2016
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2016-abu-dhabi,Abu Dhabi Grand Prix,189.972,kph,30,8,1:45.249,8,55,5942789,4.0,8,8,21,Finished,+58.776,2016
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2016-abu-dhabi,Abu Dhabi Grand Prix,189.206,kph,33,10,1:45.675,10,55,5943449,2.0,9,9,21,Finished,+59.436,2016
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2016-abu-dhabi,Abu Dhabi Grand Prix,191.343,kph,50,2,1:44.495,9,55,5943909,1.0,10,10,21,Finished,+59.896,2016
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2016-abu-dhabi,Abu Dhabi Grand Prix,190.477,kph,45,4,1:44.970,14,55,5960790,0.0,11,11,21,Finished,+1:16.777,2016
+Haas F1 Team,haas,American,GUT,gutierrez,Esteban Gutiérrez,Mexican,21,2016-abu-dhabi,Abu Dhabi Grand Prix,188.754,kph,45,12,1:45.928,13,55,5979126,0.0,12,12,21,Finished,+1:35.113,2016
+Manor Marussia,manor,British,OCO,ocon,Esteban Ocon,French,31,2016-abu-dhabi,Abu Dhabi Grand Prix,188.29,kph,46,15,1:46.189,20,54,,0.0,13,13,21,+1 Lap,,2016
+Manor Marussia,manor,British,WEH,wehrlein,Pascal Wehrlein,German,94,2016-abu-dhabi,Abu Dhabi Grand Prix,188.368,kph,26,14,1:46.145,16,54,,0.0,14,14,21,+1 Lap,,2016
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2016-abu-dhabi,Abu Dhabi Grand Prix,188.242,kph,40,16,1:46.216,22,54,,0.0,15,15,21,+1 Lap,,2016
+Sauber,sauber,Swiss,NAS,nasr,Felipe Nasr,Brazilian,12,2016-abu-dhabi,Abu Dhabi Grand Prix,188.117,kph,44,17,1:46.287,19,54,,0.0,16,16,21,+1 Lap,,2016
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2016-abu-dhabi,Abu Dhabi Grand Prix,189.134,kph,46,11,1:45.715,15,54,,0.0,17,17,21,+1 Lap,,2016
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2016-abu-dhabi,Abu Dhabi Grand Prix,187.58,kph,30,18,1:46.591,21,41,,0.0,18,R,21,Collision damage,,2016
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2016-abu-dhabi,Abu Dhabi Grand Prix,183.853,kph,13,21,1:48.752,17,14,,0.0,19,R,21,Gearbox,,2016
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2016-abu-dhabi,Abu Dhabi Grand Prix,183.851,kph,4,22,1:48.753,12,12,,0.0,20,R,21,Suspension,,2016
+Williams,williams,British,BOT,bottas,Valtteri Bottas,Finnish,77,2016-abu-dhabi,Abu Dhabi Grand Prix,185.413,kph,4,19,1:47.837,11,6,,0.0,21,R,21,Suspension,,2016
+Renault,renault,French,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2016-abu-dhabi,Abu Dhabi Grand Prix,184.108,kph,4,20,1:48.601,18,5,,0.0,22,R,21,Suspension,,2016

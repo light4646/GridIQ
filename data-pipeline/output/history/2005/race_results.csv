@@ -1,0 +1,377 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-melbourne,Australian Grand Prix,222.001,kph,55,2,1:25.994,1,57,5057336,10.0,1,1,1,Finished,1:24:17.336,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-melbourne,Australian Grand Prix,221.386,kph,54,3,1:26.233,11,57,5062889,8.0,2,2,1,Finished,+5.553,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-melbourne,Australian Grand Prix,222.807,kph,24,1,1:25.683,13,57,5064048,6.0,3,3,1,Finished,+6.712,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-melbourne,Australian Grand Prix,220.219,kph,40,11,1:26.690,5,57,5073467,5.0,4,4,1,Finished,+16.131,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-melbourne,Australian Grand Prix,220.72,kph,37,8,1:26.493,3,57,5074244,4.0,5,5,1,Finished,+16.908,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-melbourne,Australian Grand Prix,220.976,kph,41,7,1:26.393,9,57,5092369,3.0,6,6,1,Finished,+35.033,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-melbourne,Australian Grand Prix,220.379,kph,39,10,1:26.627,6,57,5096333,2.0,7,7,1,Finished,+38.997,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-melbourne,Australian Grand Prix,221.329,kph,55,4,1:26.255,10,57,5096969,1.0,8,8,1,Finished,+39.633,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-melbourne,Australian Grand Prix,219.142,kph,56,14,1:27.116,2,57,5120444,0.0,9,9,1,Finished,+1:03.108,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-melbourne,Australian Grand Prix,219.704,kph,55,13,1:26.893,18,57,5121729,0.0,10,10,1,Finished,+1:04.393,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-melbourne,Australian Grand Prix,221.316,kph,55,5,1:26.260,8,56,,0.0,11,R,1,+1 Lap,,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-melbourne,Australian Grand Prix,220.611,kph,56,9,1:26.536,15,56,,0.0,12,12,1,+1 Lap,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-melbourne,Australian Grand Prix,217.571,kph,54,15,1:27.745,4,56,,0.0,13,13,1,+1 Lap,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-melbourne,Australian Grand Prix,217.244,kph,36,16,1:27.877,20,55,,0.0,14,R,1,+2 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-melbourne,Australian Grand Prix,217.014,kph,36,17,1:27.970,12,55,,0.0,15,15,1,+2 Laps,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-melbourne,Australian Grand Prix,214.505,kph,16,18,1:28.999,14,55,,0.0,16,16,1,+2 Laps,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-melbourne,Australian Grand Prix,205.604,kph,22,19,1:32.852,16,55,,0.0,17,17,1,+4 Laps,,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-melbourne,Australian Grand Prix,221.314,kph,38,6,1:26.261,19,42,,0.0,18,R,1,Accident,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-melbourne,Australian Grand Prix,219.803,kph,38,12,1:26.854,7,42,,0.0,19,R,1,Accident,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-melbourne,Australian Grand Prix,204.96,kph,11,20,1:33.144,17,16,,0.0,20,R,1,Gearbox,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-kuala-lumpur,Malaysian Grand Prix,208.081,kph,18,4,1:35.899,1,56,5493736,10.0,1,1,2,Finished,1:31:33.736,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-kuala-lumpur,Malaysian Grand Prix,208.261,kph,18,3,1:35.816,2,56,5518063,8.0,2,2,2,Finished,+24.327,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-kuala-lumpur,Malaysian Grand Prix,208.487,kph,40,2,1:35.712,10,56,5525924,6.0,3,3,2,Finished,+32.188,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-kuala-lumpur,Malaysian Grand Prix,206.603,kph,42,8,1:36.585,11,56,5535367,5.0,4,4,2,Finished,+41.631,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-kuala-lumpur,Malaysian Grand Prix,207.169,kph,15,7,1:36.321,5,56,5545590,4.0,5,5,2,Finished,+51.854,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-kuala-lumpur,Malaysian Grand Prix,206.165,kph,18,9,1:36.790,8,56,5566279,3.0,6,6,2,Finished,+1:12.543,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-kuala-lumpur,Malaysian Grand Prix,205.757,kph,41,12,1:36.982,13,56,5573724,2.0,7,7,2,Finished,+1:19.988,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-kuala-lumpur,Malaysian Grand Prix,205.927,kph,17,11,1:36.902,7,56,5574571,1.0,8,8,2,Finished,+1:20.835,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-kuala-lumpur,Malaysian Grand Prix,208.987,kph,23,1,1:35.483,6,56,5575316,0.0,9,9,2,Finished,+1:21.580,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-kuala-lumpur,Malaysian Grand Prix,205.27,kph,18,13,1:37.212,14,55,,0.0,10,10,2,+1 Lap,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-kuala-lumpur,Malaysian Grand Prix,199.881,kph,18,16,1:39.833,17,54,,0.0,11,11,2,+2 Laps,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-kuala-lumpur,Malaysian Grand Prix,198.689,kph,36,17,1:40.432,18,53,,0.0,12,12,2,+3 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-kuala-lumpur,Malaysian Grand Prix,194.747,kph,12,19,1:42.465,19,52,,0.0,13,13,2,+4 Laps,,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-kuala-lumpur,Malaysian Grand Prix,205.978,kph,22,10,1:36.878,12,49,,0.0,14,R,2,Tyre,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-kuala-lumpur,Malaysian Grand Prix,207.469,kph,21,6,1:36.182,3,36,,0.0,15,R,2,Collision,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-kuala-lumpur,Malaysian Grand Prix,207.806,kph,20,5,1:36.026,4,36,,0.0,16,R,2,Collision,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-kuala-lumpur,Malaysian Grand Prix,203.499,kph,18,15,1:38.058,16,26,,0.0,17,R,2,Spun off,,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-kuala-lumpur,Malaysian Grand Prix,203.803,kph,2,14,1:37.912,9,2,,0.0,18,R,2,Engine,,2005
+BAR,bar,British,DAV,davidson,Anthony Davidson,British,4,2005-kuala-lumpur,Malaysian Grand Prix,196.657,kph,2,18,1:41.470,15,2,,0.0,19,R,2,Engine,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-kuala-lumpur,Malaysian Grand Prix,192.692,kph,2,20,1:43.558,20,2,,0.0,20,R,2,Spun off,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-sakhir,Bahrain Grand Prix,212.436,kph,39,2,1:31.713,1,57,5358531,10.0,1,1,3,Finished,1:29:18.531,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-sakhir,Bahrain Grand Prix,211.03,kph,41,4,1:32.324,3,57,5371940,8.0,2,2,3,Finished,+13.409,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-sakhir,Bahrain Grand Prix,212.184,kph,41,3,1:31.822,9,57,5390594,6.0,3,3,3,Finished,+32.063,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-sakhir,Bahrain Grand Prix,210.213,kph,36,6,1:32.683,6,57,5411803,5.0,4,4,3,Finished,+53.272,2005
+McLaren,mclaren,British,DLR,rosa,Pedro de la Rosa,Spanish,10,2005-sakhir,Bahrain Grand Prix,213.054,kph,43,1,1:31.447,8,57,5423519,4.0,5,5,3,Finished,+1:04.988,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-sakhir,Bahrain Grand Prix,209.3,kph,20,10,1:33.087,5,57,5433232,3.0,6,6,3,Finished,+1:14.701,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-sakhir,Bahrain Grand Prix,208.764,kph,40,12,1:33.326,12,56,,2.0,7,7,3,+1 Lap,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-sakhir,Bahrain Grand Prix,208.561,kph,42,13,1:33.417,14,56,,1.0,8,8,3,+1 Lap,,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-sakhir,Bahrain Grand Prix,209.55,kph,23,8,1:32.976,20,56,,0.0,9,9,3,+1 Lap,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-sakhir,Bahrain Grand Prix,203.492,kph,18,15,1:35.744,16,55,,0.0,10,10,3,+2 Laps,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-sakhir,Bahrain Grand Prix,208.47,kph,24,14,1:33.458,15,54,,0.0,11,11,3,Suspension,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-sakhir,Bahrain Grand Prix,202.04,kph,16,16,1:36.432,19,54,,0.0,12,12,3,+3 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-sakhir,Bahrain Grand Prix,201.038,kph,3,17,1:36.913,18,53,,0.0,13,13,3,+4 Laps,,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-sakhir,Bahrain Grand Prix,210.832,kph,45,5,1:32.411,11,46,,0.0,14,R,3,Clutch,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-sakhir,Bahrain Grand Prix,209.217,kph,23,11,1:33.124,13,27,,0.0,15,R,3,Brakes,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-sakhir,Bahrain Grand Prix,209.372,kph,19,9,1:33.055,4,25,,0.0,16,R,3,Engine,,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-sakhir,Bahrain Grand Prix,209.753,kph,7,7,1:32.886,2,12,,0.0,17,R,3,Hydraulics,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-sakhir,Bahrain Grand Prix,200.783,kph,2,18,1:37.036,10,4,,0.0,18,R,3,Engine,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-sakhir,Bahrain Grand Prix,199.76,kph,2,19,1:37.533,17,2,,0.0,19,R,3,Electrical,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-sakhir,Bahrain Grand Prix,,,,,,7,0,,0.0,20,W,3,Electrical,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-imola,San Marino Grand Prix,213.619,kph,22,4,1:23.133,2,62,5261921,10.0,1,1,4,Finished,1:27:41.921,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-imola,San Marino Grand Prix,216.946,kph,48,1,1:21.858,13,62,5262136,8.0,2,2,4,Finished,+0.215,2005
+McLaren,mclaren,British,WUR,wurz,Alexander Wurz,Austrian,10,2005-imola,San Marino Grand Prix,213.902,kph,24,3,1:23.023,7,62,5289475,6.0,3,3,4,Finished,+27.554,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-imola,San Marino Grand Prix,211.371,kph,45,10,1:24.017,11,62,5326363,5.0,4,4,4,Finished,+1:04.442,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-imola,San Marino Grand Prix,211.358,kph,44,11,1:24.022,5,62,5332179,4.0,5,5,4,Finished,+1:10.258,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-imola,San Marino Grand Prix,211.623,kph,54,9,1:23.917,8,62,5333203,3.0,6,6,4,Finished,+1:11.282,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-imola,San Marino Grand Prix,210.364,kph,17,14,1:24.419,4,62,5345218,2.0,7,7,4,Finished,+1:23.297,2005
+Red Bull,red_bull,Austrian,LIU,liuzzi,Vitantonio Liuzzi,Italian,15,2005-imola,San Marino Grand Prix,212.71,kph,46,7,1:23.488,15,62,5345685,1.0,8,8,4,Finished,+1:23.764,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-imola,San Marino Grand Prix,210.836,kph,19,13,1:24.230,10,62,5357762,0.0,9,9,4,Finished,+1:35.841,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-imola,San Marino Grand Prix,212.42,kph,37,8,1:23.602,18,61,,0.0,10,10,4,+1 Lap,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-imola,San Marino Grand Prix,209.813,kph,22,16,1:24.641,14,61,,0.0,11,11,4,+1 Lap,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-imola,San Marino Grand Prix,211.177,kph,20,12,1:24.094,16,61,,0.0,12,12,4,+1 Lap,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-imola,San Marino Grand Prix,209.62,kph,19,17,1:24.719,17,60,,0.0,13,13,4,+2 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-imola,San Marino Grand Prix,203.143,kph,18,19,1:27.420,20,20,,0.0,14,R,4,Hydraulics,,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-imola,San Marino Grand Prix,210.325,kph,13,15,1:24.435,9,18,,0.0,15,R,4,Electrical,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-imola,San Marino Grand Prix,213.201,kph,8,5,1:23.296,1,9,,0.0,16,R,4,Driveshaft,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-imola,San Marino Grand Prix,201.041,kph,5,20,1:28.334,19,8,,0.0,17,R,4,Clutch,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-imola,San Marino Grand Prix,207.305,kph,4,18,1:25.665,12,5,,0.0,18,R,4,Accident,,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-imola,San Marino Grand Prix,214.987,kph,22,2,1:22.604,3,62,,0.0,19,D,4,Disqualified,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-imola,San Marino Grand Prix,213.016,kph,23,6,1:23.368,6,62,,0.0,20,D,4,Disqualified,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-barcelona,Spanish Grand Prix,219.24,kph,41,4,1:15.977,1,66,5236830,10.0,1,1,5,Finished,1:27:16.830,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-barcelona,Spanish Grand Prix,218.891,kph,59,5,1:16.098,3,66,5264482,8.0,2,2,5,Finished,+27.652,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-barcelona,Spanish Grand Prix,217.417,kph,63,8,1:16.614,5,66,5282777,6.0,3,3,5,Finished,+45.947,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-barcelona,Spanish Grand Prix,217.829,kph,63,6,1:16.469,4,66,5283549,5.0,4,4,5,Finished,+46.719,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-barcelona,Spanish Grand Prix,220.213,kph,66,1,1:15.641,6,66,5294766,4.0,5,5,5,Finished,+57.936,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-barcelona,Spanish Grand Prix,217.0,kph,62,9,1:16.761,2,66,5305372,3.0,6,6,5,Finished,+1:08.542,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-barcelona,Spanish Grand Prix,219.836,kph,55,3,1:15.771,7,65,,2.0,7,7,5,+1 Lap,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-barcelona,Spanish Grand Prix,216.476,kph,65,11,1:16.947,9,65,,1.0,8,8,5,+1 Lap,,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-barcelona,Spanish Grand Prix,215.889,kph,64,12,1:17.156,16,65,,0.0,9,9,5,+1 Lap,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-barcelona,Spanish Grand Prix,217.687,kph,60,7,1:16.519,17,65,,0.0,10,10,5,+1 Lap,,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-barcelona,Spanish Grand Prix,216.884,kph,51,10,1:16.802,10,63,,0.0,11,11,5,Wheel rim,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-barcelona,Spanish Grand Prix,210.855,kph,22,14,1:18.998,18,63,,0.0,12,12,5,+3 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-barcelona,Spanish Grand Prix,208.909,kph,16,16,1:19.734,13,63,,0.0,13,13,5,+3 Laps,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-barcelona,Spanish Grand Prix,214.696,kph,43,13,1:17.585,12,51,,0.0,14,R,5,Engine,,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-barcelona,Spanish Grand Prix,220.193,kph,31,2,1:15.648,8,46,,0.0,15,R,5,Puncture,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-barcelona,Spanish Grand Prix,207.892,kph,15,17,1:20.124,14,19,,0.0,16,R,5,Gearbox,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-barcelona,Spanish Grand Prix,205.987,kph,10,18,1:20.865,15,11,,0.0,17,R,5,Spun off,,2005
+Red Bull,red_bull,Austrian,LIU,liuzzi,Vitantonio Liuzzi,Italian,15,2005-barcelona,Spanish Grand Prix,209.695,kph,9,15,1:19.435,11,9,,0.0,18,R,5,Spun off,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-monte-carlo,Monaco Grand Prix,158.375,kph,41,2,1:15.921,1,78,6315556,10.0,1,1,6,Finished,1:45:15.556,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-monte-carlo,Monaco Grand Prix,155.834,kph,15,9,1:17.159,6,78,6329433,8.0,2,2,6,Finished,+13.877,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-monte-carlo,Monaco Grand Prix,156.214,kph,77,7,1:16.971,3,78,6334040,6.0,3,3,6,Finished,+18.484,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-monte-carlo,Monaco Grand Prix,156.971,kph,19,3,1:16.600,2,78,6352043,5.0,4,4,6,Finished,+36.487,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-monte-carlo,Monaco Grand Prix,155.342,kph,50,10,1:17.403,16,78,6352203,4.0,5,5,6,Finished,+36.647,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-monte-carlo,Monaco Grand Prix,156.014,kph,11,8,1:17.070,18,78,6352673,3.0,6,6,6,Finished,+37.117,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-monte-carlo,Monaco Grand Prix,158.54,kph,40,1,1:15.842,8,78,6352779,2.0,7,7,6,Finished,+37.223,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-monte-carlo,Monaco Grand Prix,156.326,kph,51,6,1:16.916,10,78,6353126,1.0,8,8,6,Finished,+37.570,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-monte-carlo,Monaco Grand Prix,154.552,kph,16,13,1:17.799,11,77,,0.0,9,9,6,+1 Lap,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-monte-carlo,Monaco Grand Prix,156.538,kph,38,5,1:16.812,5,77,,0.0,10,10,6,+1 Lap,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-monte-carlo,Monaco Grand Prix,155.184,kph,17,11,1:17.482,9,77,,0.0,11,11,6,+1 Lap,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-monte-carlo,Monaco Grand Prix,156.611,kph,20,4,1:16.776,4,77,,0.0,12,12,6,+1 Lap,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-monte-carlo,Monaco Grand Prix,148.909,kph,12,17,1:20.747,15,75,,0.0,13,13,6,+3 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-monte-carlo,Monaco Grand Prix,149.856,kph,22,16,1:20.237,14,73,,0.0,14,14,6,+5 Laps,,2005
+Red Bull,red_bull,Austrian,LIU,liuzzi,Vitantonio Liuzzi,Italian,15,2005-monte-carlo,Monaco Grand Prix,154.094,kph,43,14,1:18.030,12,59,,0.0,15,R,6,Accident,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-monte-carlo,Monaco Grand Prix,152.131,kph,19,15,1:19.037,13,29,,0.0,16,R,6,Accident,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-monte-carlo,Monaco Grand Prix,154.762,kph,15,12,1:17.693,7,23,,0.0,17,R,6,Accident,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-monte-carlo,Monaco Grand Prix,146.6,kph,14,18,1:22.019,17,18,,0.0,18,R,6,Hydraulics,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-n-rburg,European Grand Prix,204.305,kph,44,1,1:30.711,6,59,5506648,10.0,1,1,7,Finished,1:31:46.648,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-n-rburg,European Grand Prix,203.38,kph,9,4,1:31.124,1,59,5523215,8.0,2,2,7,Finished,+16.567,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-n-rburg,European Grand Prix,203.594,kph,44,3,1:31.028,7,59,5525197,6.0,3,3,7,Finished,+18.549,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-n-rburg,European Grand Prix,202.974,kph,19,5,1:31.306,12,59,5538236,5.0,4,4,7,Finished,+31.588,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-n-rburg,European Grand Prix,202.537,kph,19,6,1:31.503,10,59,5557093,4.0,5,5,7,Finished,+50.445,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-n-rburg,European Grand Prix,202.084,kph,47,7,1:31.708,9,59,5558580,3.0,6,6,7,Finished,+51.932,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-n-rburg,European Grand Prix,201.866,kph,42,10,1:31.807,5,59,5564821,2.0,7,7,7,Finished,+58.173,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-n-rburg,European Grand Prix,201.928,kph,43,9,1:31.779,4,59,5577739,1.0,8,8,7,Finished,+1:11.091,2005
+Red Bull,red_bull,Austrian,LIU,liuzzi,Vitantonio Liuzzi,Italian,15,2005-n-rburg,European Grand Prix,201.506,kph,43,13,1:31.971,14,59,5578177,0.0,9,9,7,Finished,+1:11.529,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-n-rburg,European Grand Prix,201.542,kph,20,12,1:31.955,13,59,5602434,0.0,10,10,7,Finished,+1:35.786,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-n-rburg,European Grand Prix,203.791,kph,9,2,1:30.940,2,58,,0.0,11,11,7,Accident,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-n-rburg,European Grand Prix,201.686,kph,26,11,1:31.889,16,58,,0.0,12,12,7,+1 Lap,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-n-rburg,European Grand Prix,200.174,kph,41,15,1:32.583,15,58,,0.0,13,13,7,+1 Lap,,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-n-rburg,European Grand Prix,200.725,kph,18,14,1:32.329,11,58,,0.0,14,14,7,+1 Lap,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-n-rburg,European Grand Prix,198.37,kph,39,17,1:33.425,17,58,,0.0,15,15,7,+1 Lap,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-n-rburg,European Grand Prix,198.653,kph,21,16,1:33.292,19,58,,0.0,16,16,7,+1 Lap,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-n-rburg,European Grand Prix,194.985,kph,18,18,1:35.047,20,57,,0.0,17,17,7,+2 Laps,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-n-rburg,European Grand Prix,193.987,kph,18,19,1:35.536,18,56,,0.0,18,18,7,+3 Laps,,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-n-rburg,European Grand Prix,202.049,kph,25,8,1:31.724,8,33,,0.0,19,R,7,Spun off,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-n-rburg,European Grand Prix,,,,,,3,0,,0.0,20,R,7,Accident,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-montreal,Canadian Grand Prix,211.061,kph,23,1,1:14.384,7,70,5529290,10.0,1,1,8,Finished,1:32:09.290,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-montreal,Canadian Grand Prix,209.697,kph,32,4,1:14.868,2,70,5530390,8.0,2,2,8,Finished,+1.100,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-montreal,Canadian Grand Prix,207.996,kph,46,8,1:15.480,20,70,5569690,6.0,3,3,8,Finished,+40.400,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-montreal,Canadian Grand Prix,206.551,kph,18,13,1:16.008,11,70,5584390,5.0,4,4,8,Finished,+55.100,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-montreal,Canadian Grand Prix,208.214,kph,23,7,1:15.401,14,70,5584990,4.0,5,5,8,Finished,+55.700,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-montreal,Canadian Grand Prix,207.044,kph,44,10,1:15.827,10,69,,3.0,6,6,8,+1 Lap,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-montreal,Canadian Grand Prix,205.454,kph,17,16,1:16.414,12,69,,2.0,7,7,8,+1 Lap,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-montreal,Canadian Grand Prix,205.764,kph,46,15,1:16.299,16,69,,1.0,8,8,8,+1 Lap,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-montreal,Canadian Grand Prix,206.723,kph,26,12,1:15.945,8,69,,0.0,9,9,8,+1 Lap,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-montreal,Canadian Grand Prix,202.984,kph,19,18,1:17.344,18,67,,0.0,10,10,8,+3 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-montreal,Canadian Grand Prix,200.091,kph,15,19,1:18.462,15,67,,0.0,11,11,8,+3 Laps,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-montreal,Canadian Grand Prix,206.922,kph,43,11,1:15.872,9,62,,0.0,12,R,8,Brakes,,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-montreal,Canadian Grand Prix,208.801,kph,30,6,1:15.189,1,46,,0.0,13,R,8,Accident,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-montreal,Canadian Grand Prix,207.249,kph,20,9,1:15.752,13,43,,0.0,14,R,8,Engine,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-montreal,Canadian Grand Prix,206.454,kph,14,14,1:16.044,6,40,,0.0,15,R,8,Brakes,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-montreal,Canadian Grand Prix,199.463,kph,33,20,1:18.709,19,39,,0.0,16,R,8,Hydraulics,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-montreal,Canadian Grand Prix,210.092,kph,38,3,1:14.727,3,38,,0.0,17,R,8,Suspension,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-montreal,Canadian Grand Prix,209.635,kph,24,5,1:14.890,4,32,,0.0,18,R,8,Hydraulics,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-montreal,Canadian Grand Prix,203.851,kph,20,17,1:17.015,17,24,,0.0,19,R,8,Suspension,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-montreal,Canadian Grand Prix,210.518,kph,24,2,1:14.576,5,52,,0.0,20,D,8,Disqualified,,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-indianapolis,United States Grand Prix,211.074,kph,48,1,1:11.497,5,73,5383181,10.0,1,1,9,Finished,1:29:43.181,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-indianapolis,United States Grand Prix,210.626,kph,48,2,1:11.649,7,73,5384681,8.0,2,2,9,Finished,+1.500,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-indianapolis,United States Grand Prix,206.059,kph,44,3,1:13.237,17,72,,6.0,3,3,9,+1 Lap,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-indianapolis,United States Grand Prix,205.686,kph,65,4,1:13.370,19,72,,5.0,4,4,9,+1 Lap,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-indianapolis,United States Grand Prix,204.191,kph,2,5,1:13.907,18,71,,4.0,5,5,9,+2 Laps,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-indianapolis,United States Grand Prix,202.593,kph,43,6,1:14.490,20,71,,3.0,6,6,9,+2 Laps,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-indianapolis,United States Grand Prix,,,,,,1,0,,0.0,7,W,9,Withdrew,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-indianapolis,United States Grand Prix,,,,,,2,0,,0.0,8,W,9,Withdrew,,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-indianapolis,United States Grand Prix,,,,,,3,0,,0.0,9,W,9,Withdrew,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-indianapolis,United States Grand Prix,,,,,,4,0,,0.0,10,W,9,Withdrew,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-indianapolis,United States Grand Prix,,,,,,6,0,,0.0,11,W,9,Withdrew,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-indianapolis,United States Grand Prix,,,,,,8,0,,0.0,12,W,9,Withdrew,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-indianapolis,United States Grand Prix,,,,,,9,0,,0.0,13,W,9,Withdrew,,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-indianapolis,United States Grand Prix,,,,,,10,0,,0.0,14,W,9,Withdrew,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-indianapolis,United States Grand Prix,,,,,,11,0,,0.0,15,W,9,Withdrew,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-indianapolis,United States Grand Prix,,,,,,12,0,,0.0,16,W,9,Withdrew,,2005
+Toyota,toyota,Japanese,ZON,zonta,Ricardo Zonta,Brazilian,17,2005-indianapolis,United States Grand Prix,,,,,,13,0,,0.0,17,W,9,Withdrew,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-indianapolis,United States Grand Prix,,,,,,14,0,,0.0,18,W,9,Withdrew,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-indianapolis,United States Grand Prix,,,,,,15,0,,0.0,19,W,9,Withdrew,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-indianapolis,United States Grand Prix,,,,,,16,0,,0.0,20,W,9,Withdrew,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-magny-cours,French Grand Prix,207.571,kph,5,2,1:16.502,1,70,5482232,10.0,1,1,10,Finished,1:31:22.232,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-magny-cours,French Grand Prix,207.785,kph,25,1,1:16.423,13,70,5494032,8.0,2,2,10,Finished,+11.800,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-magny-cours,French Grand Prix,204.333,kph,22,7,1:17.714,3,70,5564132,6.0,3,3,10,Finished,+1:21.900,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-magny-cours,French Grand Prix,205.141,kph,18,4,1:17.408,7,69,,5.0,4,4,10,+1 Lap,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-magny-cours,French Grand Prix,204.128,kph,67,8,1:17.792,2,69,,4.0,5,5,10,+1 Lap,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-magny-cours,French Grand Prix,204.868,kph,18,5,1:17.511,6,69,,3.0,6,6,10,+1 Lap,,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-magny-cours,French Grand Prix,203.316,kph,36,14,1:18.103,11,69,,2.0,7,7,10,+1 Lap,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-magny-cours,French Grand Prix,204.0,kph,17,10,1:17.841,10,69,,1.0,8,8,10,+1 Lap,,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-magny-cours,French Grand Prix,203.689,kph,4,12,1:17.960,5,69,,0.0,9,9,10,+1 Lap,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-magny-cours,French Grand Prix,204.605,kph,39,6,1:17.611,15,69,,0.0,10,10,10,+1 Lap,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-magny-cours,French Grand Prix,203.77,kph,8,11,1:17.929,4,69,,0.0,11,11,10,+1 Lap,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-magny-cours,French Grand Prix,202.558,kph,17,15,1:18.395,12,68,,0.0,12,12,10,+2 Laps,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-magny-cours,French Grand Prix,198.485,kph,32,16,1:20.004,19,67,,0.0,13,13,10,+3 Laps,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-magny-cours,French Grand Prix,203.318,kph,36,13,1:18.102,14,66,,0.0,14,14,10,+4 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-magny-cours,French Grand Prix,198.108,kph,9,17,1:20.156,17,66,,0.0,15,15,10,+4 Laps,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-magny-cours,French Grand Prix,207.154,kph,24,3,1:16.656,8,46,,0.0,16,R,10,Engine,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-magny-cours,French Grand Prix,195.858,kph,8,18,1:21.077,20,37,,0.0,17,R,10,Puncture,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-magny-cours,French Grand Prix,194.958,kph,4,19,1:21.451,18,33,,0.0,18,R,10,Puncture,,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-magny-cours,French Grand Prix,204.094,kph,11,9,1:17.805,9,30,,0.0,19,R,10,Hydraulics,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-magny-cours,French Grand Prix,,,,,,16,1,,0.0,20,R,10,Fuel pressure,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-silverstone,British Grand Prix,229.338,kph,41,2,1:20.700,3,60,5069588,10.0,1,1,11,Finished,1:24:29.588,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-silverstone,British Grand Prix,227.847,kph,40,4,1:21.228,1,60,5072288,8.0,2,2,11,Finished,+2.700,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-silverstone,British Grand Prix,229.902,kph,60,1,1:20.502,12,60,5083988,6.0,3,3,11,Finished,+14.400,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-silverstone,British Grand Prix,228.041,kph,43,3,1:21.159,6,60,5087488,5.0,4,4,11,Finished,+17.900,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-silverstone,British Grand Prix,225.721,kph,42,7,1:21.993,2,60,5109888,4.0,5,5,11,Finished,+40.300,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-silverstone,British Grand Prix,226.6,kph,23,5,1:21.675,9,60,5144888,3.0,6,6,11,Finished,+1:15.300,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-silverstone,British Grand Prix,224.874,kph,41,9,1:22.302,5,60,5146188,2.0,7,7,11,Finished,+1:16.600,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-silverstone,British Grand Prix,225.812,kph,46,6,1:21.960,8,60,5148788,1.0,8,8,11,Finished,+1:19.200,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-silverstone,British Grand Prix,225.394,kph,56,8,1:22.112,4,60,5150488,0.0,9,9,11,Finished,+1:20.900,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-silverstone,British Grand Prix,224.427,kph,45,10,1:22.466,16,59,,0.0,10,10,11,+1 Lap,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-silverstone,British Grand Prix,222.204,kph,16,15,1:23.291,11,59,,0.0,11,11,11,+1 Lap,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-silverstone,British Grand Prix,222.02,kph,58,16,1:23.360,14,59,,0.0,12,12,11,+1 Lap,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-silverstone,British Grand Prix,222.744,kph,44,12,1:23.089,13,59,,0.0,13,13,11,+1 Lap,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-silverstone,British Grand Prix,222.42,kph,16,14,1:23.210,10,59,,0.0,14,14,11,+1 Lap,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-silverstone,British Grand Prix,222.588,kph,58,13,1:23.147,15,59,,0.0,15,15,11,+1 Lap,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-silverstone,British Grand Prix,224.195,kph,54,11,1:22.551,7,58,,0.0,16,16,11,+2 Laps,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-silverstone,British Grand Prix,219.682,kph,38,17,1:24.247,20,58,,0.0,17,17,11,+2 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-silverstone,British Grand Prix,214.75,kph,53,19,1:26.182,18,57,,0.0,18,18,11,+3 Laps,,2005
+Minardi,minardi,Italian,FRI,friesacher,Patrick Friesacher,Austrian,20,2005-silverstone,British Grand Prix,213.987,kph,37,20,1:26.489,19,56,,0.0,19,19,11,+4 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-silverstone,British Grand Prix,217.08,kph,8,18,1:25.257,17,10,,0.0,20,R,11,Electrical,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-hockenheim,German Grand Prix,218.866,kph,21,2,1:15.235,3,67,5188599,10.0,1,1,12,Finished,1:26:28.599,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-hockenheim,German Grand Prix,217.011,kph,54,4,1:15.878,20,67,5211168,8.0,2,2,12,Finished,+22.569,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-hockenheim,German Grand Prix,217.111,kph,19,3,1:15.843,2,67,5213021,6.0,3,3,12,Finished,+24.422,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-hockenheim,German Grand Prix,216.977,kph,21,5,1:15.890,4,67,5239186,5.0,4,4,12,Finished,+50.587,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-hockenheim,German Grand Prix,216.381,kph,18,7,1:16.099,5,67,5240289,4.0,5,5,12,Finished,+51.690,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-hockenheim,German Grand Prix,216.455,kph,23,6,1:16.073,12,67,5240841,3.0,6,6,12,Finished,+52.242,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-hockenheim,German Grand Prix,216.0,kph,18,8,1:16.233,11,67,5241299,2.0,7,7,12,Finished,+52.700,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-hockenheim,German Grand Prix,215.845,kph,45,10,1:16.288,13,67,5245169,1.0,8,8,12,Finished,+56.570,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-hockenheim,German Grand Prix,215.992,kph,45,9,1:16.236,10,67,5258417,0.0,9,9,12,Finished,+1:09.818,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-hockenheim,German Grand Prix,215.168,kph,47,12,1:16.528,15,66,,0.0,10,10,12,+1 Lap,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-hockenheim,German Grand Prix,214.946,kph,10,13,1:16.607,7,66,,0.0,11,11,12,+1 Lap,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-hockenheim,German Grand Prix,214.615,kph,27,14,1:16.725,8,66,,0.0,12,12,12,+1 Lap,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-hockenheim,German Grand Prix,209.963,kph,11,19,1:18.425,16,65,,0.0,13,13,12,+2 Laps,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-hockenheim,German Grand Prix,215.32,kph,45,11,1:16.474,9,64,,0.0,14,14,12,+3 Laps,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-hockenheim,German Grand Prix,213.511,kph,26,16,1:17.122,14,64,,0.0,15,15,12,+3 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-hockenheim,German Grand Prix,210.535,kph,7,18,1:18.212,19,64,,0.0,16,16,12,+3 Laps,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-hockenheim,German Grand Prix,210.821,kph,12,17,1:18.106,18,64,,0.0,17,17,12,+3 Laps,,2005
+Minardi,minardi,Italian,DOO,doornbos,Robert Doornbos,Dutch,20,2005-hockenheim,German Grand Prix,208.369,kph,44,20,1:19.025,17,63,,0.0,18,18,12,+4 Laps,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-hockenheim,German Grand Prix,214.397,kph,46,15,1:16.803,6,55,,0.0,19,R,12,+12 Laps,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-hockenheim,German Grand Prix,219.924,kph,24,1,1:14.873,1,32,,0.0,20,R,12,Hydraulics,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-budapest,Hungarian Grand Prix,194.186,kph,40,1,1:21.219,4,70,5845552,10.0,1,1,13,Finished,1:37:25.552,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-budapest,Hungarian Grand Prix,193.573,kph,13,3,1:21.476,1,70,5881133,8.0,2,2,13,Finished,+35.581,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-budapest,Hungarian Grand Prix,192.634,kph,13,5,1:21.873,5,70,5881681,6.0,3,3,13,Finished,+36.129,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-budapest,Hungarian Grand Prix,192.707,kph,32,4,1:21.842,3,70,5899773,5.0,4,4,13,Finished,+54.221,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-budapest,Hungarian Grand Prix,191.388,kph,70,8,1:22.406,8,70,5904384,4.0,5,5,13,Finished,+58.832,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-budapest,Hungarian Grand Prix,192.212,kph,53,6,1:22.053,12,70,5913927,3.0,6,6,13,Finished,+1:08.375,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-budapest,Hungarian Grand Prix,191.279,kph,47,9,1:22.453,16,69,,2.0,7,7,13,+1 Lap,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-budapest,Hungarian Grand Prix,191.405,kph,45,7,1:22.399,10,69,,1.0,8,8,13,+1 Lap,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-budapest,Hungarian Grand Prix,191.157,kph,19,10,1:22.506,9,69,,0.0,9,9,13,+1 Lap,,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-budapest,Hungarian Grand Prix,190.551,kph,20,11,1:22.768,7,69,,0.0,10,10,13,+1 Lap,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-budapest,Hungarian Grand Prix,190.285,kph,51,12,1:22.884,6,69,,0.0,11,11,13,+1 Lap,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-budapest,Hungarian Grand Prix,186.765,kph,17,15,1:24.446,18,67,,0.0,12,12,13,+3 Laps,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-budapest,Hungarian Grand Prix,186.042,kph,15,16,1:24.774,20,66,,0.0,13,13,13,+4 Laps,,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-budapest,Hungarian Grand Prix,189.909,kph,22,13,1:23.048,14,63,,0.0,14,14,13,+7 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-budapest,Hungarian Grand Prix,183.484,kph,8,18,1:25.956,17,59,,0.0,15,R,13,+11 Laps,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-budapest,Hungarian Grand Prix,189.749,kph,23,14,1:23.118,15,56,,0.0,16,R,13,Engine fire,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-budapest,Hungarian Grand Prix,194.143,kph,20,2,1:21.237,2,41,,0.0,17,R,13,Driveshaft,,2005
+Minardi,minardi,Italian,DOO,doornbos,Robert Doornbos,Dutch,20,2005-budapest,Hungarian Grand Prix,184.148,kph,16,17,1:25.646,19,26,,0.0,18,R,13,Hydraulics,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-budapest,Hungarian Grand Prix,,,,,,13,0,,0.0,19,R,13,Accident,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-budapest,Hungarian Grand Prix,,,,,,11,0,,0.0,20,R,13,Accident,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-istanbul,Turkish Grand Prix,226.0,kph,40,2,1:25.030,1,58,5074454,10.0,1,1,14,Finished,1:24:34.454,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-istanbul,Turkish Grand Prix,224.694,kph,58,3,1:25.524,3,58,5093063,8.0,2,2,14,Finished,+18.609,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-istanbul,Turkish Grand Prix,226.693,kph,39,1,1:24.770,4,58,5094089,6.0,3,3,14,Finished,+19.635,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-istanbul,Turkish Grand Prix,224.484,kph,34,4,1:25.604,2,58,5112427,5.0,4,4,14,Finished,+37.973,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-istanbul,Turkish Grand Prix,223.998,kph,58,5,1:25.790,13,58,5113758,4.0,5,5,14,Finished,+39.304,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-istanbul,Turkish Grand Prix,222.989,kph,52,7,1:26.178,5,58,5129874,3.0,6,6,14,Finished,+55.420,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-istanbul,Turkish Grand Prix,222.372,kph,58,9,1:26.417,12,58,5143746,2.0,7,7,14,Finished,+1:09.292,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-istanbul,Turkish Grand Prix,222.483,kph,58,8,1:26.374,10,58,5146076,1.0,8,8,14,Finished,+1:11.622,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-istanbul,Turkish Grand Prix,223.82,kph,54,6,1:25.858,20,58,5154441,0.0,9,9,14,Finished,+1:19.987,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-istanbul,Turkish Grand Prix,221.813,kph,45,11,1:26.635,11,57,,0.0,10,10,14,+1 Lap,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-istanbul,Turkish Grand Prix,220.966,kph,44,13,1:26.967,16,57,,0.0,11,11,14,+1 Lap,,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-istanbul,Turkish Grand Prix,220.819,kph,38,15,1:27.025,9,57,,0.0,12,12,14,+1 Lap,,2005
+Minardi,minardi,Italian,DOO,doornbos,Robert Doornbos,Dutch,20,2005-istanbul,Turkish Grand Prix,215.364,kph,53,18,1:29.229,17,55,,0.0,13,13,14,+3 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-istanbul,Turkish Grand Prix,215.227,kph,42,19,1:29.286,18,55,,0.0,14,14,14,+3 Laps,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-istanbul,Turkish Grand Prix,215.834,kph,50,17,1:29.035,14,55,,0.0,15,15,14,+3 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-istanbul,Turkish Grand Prix,214.972,kph,13,20,1:29.392,15,48,,0.0,16,R,14,Retired,,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-istanbul,Turkish Grand Prix,220.905,kph,21,14,1:26.991,19,32,,0.0,17,R,14,Retired,,2005
+Williams,williams,British,HEI,heidfeld,Nick Heidfeld,German,8,2005-istanbul,Turkish Grand Prix,219.99,kph,25,16,1:27.353,6,29,,0.0,18,R,14,Tyre,,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-istanbul,Turkish Grand Prix,222.123,kph,27,10,1:26.514,8,28,,0.0,19,R,14,Engine,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-istanbul,Turkish Grand Prix,221.414,kph,12,12,1:26.791,7,20,,0.0,20,R,14,Tyre,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-monza,Italian Grand Prix,254.861,kph,15,2,1:21.828,1,53,4468659,10.0,1,1,15,Finished,1:14:28.659,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-monza,Italian Grand Prix,253.874,kph,16,3,1:22.146,2,53,4471138,8.0,2,2,15,Finished,+2.479,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-monza,Italian Grand Prix,252.519,kph,16,4,1:22.587,8,53,4486634,6.0,3,3,15,Finished,+17.975,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-monza,Italian Grand Prix,255.874,kph,51,1,1:21.504,11,53,4491434,5.0,4,4,15,Finished,+22.775,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-monza,Italian Grand Prix,251.775,kph,19,5,1:22.831,5,53,4502445,4.0,5,5,15,Finished,+33.786,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-monza,Italian Grand Prix,251.032,kph,19,8,1:23.076,9,53,4512584,3.0,6,6,15,Finished,+43.925,2005
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,8,2005-monza,Italian Grand Prix,251.656,kph,21,6,1:22.870,16,53,4513302,2.0,7,7,15,Finished,+44.643,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-monza,Italian Grand Prix,250.776,kph,16,9,1:23.161,3,53,4532294,1.0,8,8,15,Finished,+1:03.635,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-monza,Italian Grand Prix,250.162,kph,18,11,1:23.365,15,53,4544072,0.0,9,9,15,Finished,+1:15.413,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-monza,Italian Grand Prix,249.507,kph,5,13,1:23.584,6,53,4564729,0.0,10,10,15,Finished,+1:36.070,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-monza,Italian Grand Prix,248.591,kph,13,16,1:23.892,12,52,,0.0,11,11,15,+1 Lap,,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-monza,Italian Grand Prix,249.859,kph,13,12,1:23.466,7,52,,0.0,12,12,15,+1 Lap,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-monza,Italian Grand Prix,249.36,kph,17,14,1:23.633,13,52,,0.0,13,13,15,+1 Lap,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-monza,Italian Grand Prix,251.459,kph,40,7,1:22.935,14,52,,0.0,14,14,15,+1 Lap,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-monza,Italian Grand Prix,248.665,kph,18,15,1:23.867,10,52,,0.0,15,15,15,+1 Lap,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-monza,Italian Grand Prix,250.234,kph,14,10,1:23.341,4,52,,0.0,16,16,15,+1 Lap,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-monza,Italian Grand Prix,245.9,kph,9,17,1:24.810,17,51,,0.0,17,17,15,+2 Laps,,2005
+Minardi,minardi,Italian,DOO,doornbos,Robert Doornbos,Dutch,20,2005-monza,Italian Grand Prix,244.794,kph,31,20,1:25.193,18,51,,0.0,18,18,15,+2 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-monza,Italian Grand Prix,245.448,kph,33,18,1:24.966,20,51,,0.0,19,19,15,+2 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-monza,Italian Grand Prix,244.929,kph,17,19,1:25.146,19,50,,0.0,20,20,15,+3 Laps,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-spa,Belgian Grand Prix,220.662,kph,34,6,1:53.810,2,44,5401295,10.0,1,1,16,Finished,1:30:01.295,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-spa,Belgian Grand Prix,216.252,kph,31,10,1:56.131,4,44,5429595,8.0,2,2,16,Finished,+28.300,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-spa,Belgian Grand Prix,221.61,kph,44,5,1:53.323,8,44,5433295,6.0,3,3,16,Finished,+32.000,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-spa,Belgian Grand Prix,223.655,kph,44,2,1:52.287,9,44,5470395,5.0,4,4,16,Finished,+1:09.100,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-spa,Belgian Grand Prix,223.053,kph,44,4,1:52.590,12,44,5479395,4.0,5,5,16,Finished,+1:18.100,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-spa,Belgian Grand Prix,219.81,kph,44,7,1:54.251,14,44,5488695,3.0,6,6,16,Finished,+1:27.400,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-spa,Belgian Grand Prix,225.329,kph,43,1,1:51.453,5,44,5488795,2.0,7,7,16,Finished,+1:27.500,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-spa,Belgian Grand Prix,213.032,kph,41,17,1:57.886,19,43,,1.0,8,8,16,+1 Lap,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-spa,Belgian Grand Prix,223.069,kph,43,3,1:52.582,16,43,,0.0,9,9,16,+1 Lap,,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-spa,Belgian Grand Prix,213.282,kph,28,16,1:57.748,7,43,,0.0,10,10,16,+1 Lap,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-spa,Belgian Grand Prix,216.711,kph,43,8,1:55.885,20,43,,0.0,11,11,16,+1 Lap,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-spa,Belgian Grand Prix,206.48,kph,6,20,2:01.627,18,42,,0.0,12,12,16,+2 Laps,,2005
+Minardi,minardi,Italian,DOO,doornbos,Robert Doornbos,Dutch,20,2005-spa,Belgian Grand Prix,207.296,kph,38,19,2:01.148,17,41,,0.0,13,13,16,+3 Laps,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-spa,Belgian Grand Prix,216.518,kph,14,9,1:55.988,1,40,,0.0,14,14,16,Collision,,2005
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,8,2005-spa,Belgian Grand Prix,213.658,kph,32,15,1:57.541,15,39,,0.0,15,15,16,Collision,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-spa,Belgian Grand Prix,214.732,kph,3,11,1:56.953,3,34,,0.0,16,R,16,Accident,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-spa,Belgian Grand Prix,212.016,kph,8,18,1:58.451,11,18,,0.0,17,R,16,Engine,,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-spa,Belgian Grand Prix,213.834,kph,10,13,1:57.444,6,13,,0.0,18,R,16,Accident,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-spa,Belgian Grand Prix,213.67,kph,10,14,1:57.534,10,13,,0.0,19,R,16,Accident,,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-spa,Belgian Grand Prix,214.431,kph,9,12,1:57.117,13,10,,0.0,20,R,16,Accident,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-s-o-paulo,Brazilian Grand Prix,213.522,kph,27,2,1:12.650,2,71,5360574,10.0,1,1,17,Finished,1:29:20.574,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-s-o-paulo,Brazilian Grand Prix,214.651,kph,29,1,1:12.268,5,71,5363101,8.0,2,2,17,Finished,+2.527,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-s-o-paulo,Brazilian Grand Prix,213.513,kph,21,3,1:12.653,1,71,5385414,6.0,3,3,17,Finished,+24.840,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-s-o-paulo,Brazilian Grand Prix,213.082,kph,25,4,1:12.800,7,71,5396242,5.0,4,4,17,Finished,+35.668,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-s-o-paulo,Brazilian Grand Prix,211.946,kph,11,5,1:13.190,3,71,5400792,4.0,5,5,17,Finished,+40.218,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-s-o-paulo,Brazilian Grand Prix,211.941,kph,49,6,1:13.192,9,71,5429747,3.0,6,6,17,Finished,+1:09.173,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-s-o-paulo,Brazilian Grand Prix,210.349,kph,24,10,1:13.746,4,70,,2.0,7,7,17,+1 Lap,,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-s-o-paulo,Brazilian Grand Prix,210.411,kph,25,9,1:13.724,10,70,,1.0,8,8,17,+1 Lap,,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-s-o-paulo,Brazilian Grand Prix,210.195,kph,50,11,1:13.800,6,70,,0.0,9,9,17,+1 Lap,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-s-o-paulo,Brazilian Grand Prix,208.516,kph,32,14,1:14.394,19,70,,0.0,10,10,17,+1 Lap,,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-s-o-paulo,Brazilian Grand Prix,208.659,kph,70,13,1:14.343,8,70,,0.0,11,11,17,+1 Lap,,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-s-o-paulo,Brazilian Grand Prix,209.474,kph,25,12,1:14.054,20,70,,0.0,12,12,17,+1 Lap,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-s-o-paulo,Brazilian Grand Prix,210.852,kph,69,7,1:13.570,17,69,,0.0,13,13,17,+2 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-s-o-paulo,Brazilian Grand Prix,205.388,kph,19,17,1:15.527,16,69,,0.0,14,14,17,+2 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-s-o-paulo,Brazilian Grand Prix,207.091,kph,41,15,1:14.906,15,68,,0.0,15,15,17,+3 Laps,,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-s-o-paulo,Brazilian Grand Prix,206.52,kph,41,16,1:15.113,11,55,,0.0,16,R,17,Mechanical,,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-s-o-paulo,Brazilian Grand Prix,210.794,kph,45,8,1:13.590,12,45,,0.0,17,R,17,+26 Laps,,2005
+Minardi,minardi,Italian,DOO,doornbos,Robert Doornbos,Dutch,20,2005-s-o-paulo,Brazilian Grand Prix,204.67,kph,16,18,1:15.792,18,34,,0.0,18,R,17,Engine,,2005
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,8,2005-s-o-paulo,Brazilian Grand Prix,,,,,,13,0,,0.0,19,R,17,Accident,,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-s-o-paulo,Brazilian Grand Prix,,,,,,14,0,,0.0,20,R,17,Accident,,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-suzuka,Japanese Grand Prix,228.372,kph,44,1,1:31.540,17,53,5342212,10.0,1,1,18,Finished,1:29:02.212,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-suzuka,Japanese Grand Prix,225.948,kph,19,3,1:32.522,3,53,5343845,8.0,2,2,18,Finished,+1.633,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-suzuka,Japanese Grand Prix,228.225,kph,21,2,1:31.599,16,53,5359668,6.0,3,3,18,Finished,+17.456,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-suzuka,Japanese Grand Prix,224.733,kph,21,7,1:33.022,7,53,5364486,5.0,4,4,18,Finished,+22.274,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-suzuka,Japanese Grand Prix,225.383,kph,19,4,1:32.754,2,53,5371719,4.0,5,5,18,Finished,+29.507,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-suzuka,Japanese Grand Prix,224.731,kph,18,8,1:33.023,6,53,5373813,3.0,6,6,18,Finished,+31.601,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-suzuka,Japanese Grand Prix,225.361,kph,25,5,1:32.763,14,53,5376091,2.0,7,7,18,Finished,+33.879,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-suzuka,Japanese Grand Prix,225.283,kph,9,6,1:32.795,1,53,5391760,1.0,8,8,18,Finished,+49.548,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-suzuka,Japanese Grand Prix,223.587,kph,49,12,1:33.499,4,53,5394137,0.0,9,9,18,Finished,+51.925,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-suzuka,Japanese Grand Prix,224.227,kph,43,10,1:33.232,10,53,5399721,0.0,10,10,18,Finished,+57.509,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-suzuka,Japanese Grand Prix,224.466,kph,52,9,1:33.133,9,53,5402845,0.0,11,11,18,Finished,+1:00.633,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-suzuka,Japanese Grand Prix,224.093,kph,50,11,1:33.288,8,53,5425433,0.0,12,12,18,Finished,+1:23.221,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-suzuka,Japanese Grand Prix,218.998,kph,17,14,1:35.458,20,52,,0.0,13,13,18,+1 Lap,,2005
+Minardi,minardi,Italian,DOO,doornbos,Robert Doornbos,Dutch,20,2005-suzuka,Japanese Grand Prix,216.468,kph,50,17,1:36.574,15,51,,0.0,14,14,18,+2 Laps,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-suzuka,Japanese Grand Prix,218.019,kph,11,15,1:35.887,11,51,,0.0,15,15,18,+2 Laps,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-suzuka,Japanese Grand Prix,217.674,kph,33,16,1:36.039,13,49,,0.0,16,16,18,+4 Laps,,2005
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,8,2005-suzuka,Japanese Grand Prix,216.161,kph,9,18,1:36.711,12,9,,0.0,17,R,18,Accident,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-suzuka,Japanese Grand Prix,214.57,kph,9,19,1:37.428,19,9,,0.0,18,R,18,Accident,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-suzuka,Japanese Grand Prix,,,,,,18,0,,0.0,19,R,18,Accident,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-suzuka,Japanese Grand Prix,221.956,kph,28,13,1:34.186,5,52,,0.0,20,D,18,Disqualified,,2005
+Renault,renault,French,ALO,alonso,Fernando Alonso,Spanish,14,2005-shanghai,Chinese Grand Prix,209.797,kph,45,2,1:33.536,1,56,5993618,10.0,1,1,19,Finished,1:39:53.618,2005
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2005-shanghai,Chinese Grand Prix,210.458,kph,56,1,1:33.242,3,56,5997618,8.0,2,2,19,Finished,+4.000,2005
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,17,2005-shanghai,Chinese Grand Prix,208.684,kph,44,5,1:34.035,9,56,6018918,6.0,3,3,19,Finished,+25.300,2005
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,6,2005-shanghai,Chinese Grand Prix,209.736,kph,54,3,1:33.563,2,56,6019718,5.0,4,4,19,Finished,+26.100,2005
+Red Bull,red_bull,Austrian,KLI,klien,Christian Klien,Austrian,15,2005-shanghai,Chinese Grand Prix,209.369,kph,43,4,1:33.727,14,56,6025418,4.0,5,5,19,Finished,+31.800,2005
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2005-shanghai,Chinese Grand Prix,208.553,kph,43,6,1:34.094,11,56,6030018,3.0,6,6,19,Finished,+36.400,2005
+Williams,williams,British,WEB,webber,Mark Webber,Australian,7,2005-shanghai,Chinese Grand Prix,208.161,kph,53,7,1:34.271,10,56,6030418,2.0,7,7,19,Finished,+36.800,2005
+BAR,bar,British,BUT,button,Jenson Button,British,22,2005-shanghai,Chinese Grand Prix,207.074,kph,53,12,1:34.766,4,56,6034818,1.0,8,8,19,Finished,+41.200,2005
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2005-shanghai,Chinese Grand Prix,207.47,kph,54,10,1:34.585,7,56,6037818,0.0,9,9,19,Finished,+44.200,2005
+Sauber,sauber,Swiss,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2005-shanghai,Chinese Grand Prix,207.19,kph,53,11,1:34.713,16,56,6053518,0.0,10,10,19,Finished,+59.900,2005
+Jordan,jordan,Irish,TMO,monteiro,Tiago Monteiro,Portuguese,18,2005-shanghai,Chinese Grand Prix,203.22,kph,13,17,1:36.563,19,56,6078218,0.0,11,11,19,Finished,+1:24.600,2005
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2005-shanghai,Chinese Grand Prix,206.54,kph,18,13,1:35.011,8,56,6086418,0.0,12,12,19,Finished,+1:32.800,2005
+Williams,williams,British,PIZ,pizzonia,Antônio Pizzonia,Brazilian,8,2005-shanghai,Chinese Grand Prix,207.525,kph,52,9,1:34.560,13,55,,0.0,13,13,19,Tyre puncture,,2005
+Minardi,minardi,Italian,DOO,doornbos,Robert Doornbos,Dutch,20,2005-shanghai,Chinese Grand Prix,202.526,kph,54,18,1:36.894,20,55,,0.0,14,14,19,Out of fuel,,2005
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,16,2005-shanghai,Chinese Grand Prix,205.812,kph,16,14,1:35.347,12,55,,0.0,15,15,19,+1 Lap,,2005
+Minardi,minardi,Italian,ALB,albers,Christijan Albers,Dutch,21,2005-shanghai,Chinese Grand Prix,201.857,kph,48,19,1:37.215,18,50,,0.0,16,16,19,Wheel nut,,2005
+BAR,bar,British,SAT,sato,Takuma Sato,Japanese,4,2005-shanghai,Chinese Grand Prix,205.295,kph,17,15,1:35.587,17,34,,0.0,17,R,19,Gearbox,,2005
+Jordan,jordan,Irish,KAR,karthikeyan,Narain Karthikeyan,Indian,19,2005-shanghai,Chinese Grand Prix,201.478,kph,17,20,1:37.398,15,28,,0.0,18,R,19,Accident,,2005
+McLaren,mclaren,British,MON,montoya,Juan Pablo Montoya,Colombian,10,2005-shanghai,Chinese Grand Prix,207.654,kph,15,8,1:34.501,5,24,,0.0,19,R,19,Engine,,2005
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2005-shanghai,Chinese Grand Prix,204.674,kph,16,16,1:35.877,6,20,,0.0,20,R,19,Spun off,,2005

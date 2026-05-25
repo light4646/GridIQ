@@ -1,0 +1,21 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mercedes""]","[""Mercedes""]",HAM,hamilton,Lewis Hamilton,British,44,413.0,1,1,11,2019
+"[""mercedes""]","[""Mercedes""]",BOT,bottas,Valtteri Bottas,Finnish,77,326.0,2,2,4,2019
+"[""red_bull""]","[""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,278.0,3,3,3,2019
+"[""ferrari""]","[""Ferrari""]",LEC,leclerc,Charles Leclerc,Monegasque,16,264.0,4,4,2,2019
+"[""ferrari""]","[""Ferrari""]",VET,vettel,Sebastian Vettel,German,5,240.0,5,5,1,2019
+"[""mclaren""]","[""McLaren""]",SAI,sainz,Carlos Sainz,Spanish,55,96.0,6,6,0,2019
+"[""red_bull"", ""toro_rosso""]","[""Red Bull"", ""Toro Rosso""]",GAS,gasly,Pierre Gasly,French,10,95.0,7,7,0,2019
+"[""toro_rosso"", ""red_bull""]","[""Toro Rosso"", ""Red Bull""]",ALB,albon,Alexander Albon,Thai,23,92.0,8,8,0,2019
+"[""renault""]","[""Renault""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,54.0,9,9,0,2019
+"[""racing_point""]","[""Racing Point""]",PER,perez,Sergio Pérez,Mexican,11,52.0,10,10,0,2019
+"[""mclaren""]","[""McLaren""]",NOR,norris,Lando Norris,British,1,49.0,11,11,0,2019
+"[""alfa""]","[""Alfa Romeo""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,43.0,12,12,0,2019
+"[""toro_rosso""]","[""Toro Rosso""]",KVY,kvyat,Daniil Kvyat,Russian,26,37.0,13,13,0,2019
+"[""renault""]","[""Renault""]",HUL,hulkenberg,Nico Hülkenberg,German,27,37.0,14,14,0,2019
+"[""racing_point""]","[""Racing Point""]",STR,stroll,Lance Stroll,Canadian,18,21.0,15,15,0,2019
+"[""haas""]","[""Haas F1 Team""]",MAG,kevin_magnussen,Kevin Magnussen,Danish,20,20.0,16,16,0,2019
+"[""alfa""]","[""Alfa Romeo""]",GIO,giovinazzi,Antonio Giovinazzi,Italian,99,14.0,17,17,0,2019
+"[""haas""]","[""Haas F1 Team""]",GRO,grosjean,Romain Grosjean,French,8,8.0,18,18,0,2019
+"[""williams""]","[""Williams""]",KUB,kubica,Robert Kubica,Polish,88,1.0,19,19,0,2019
+"[""williams""]","[""Williams""]",RUS,russell,George Russell,British,63,0.0,20,20,0,2019

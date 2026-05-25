@@ -1,0 +1,25 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,93.0,1,1,6,2003
+"[""mclaren""]","[""McLaren""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,91.0,2,2,1,2003
+"[""williams""]","[""Williams""]",MON,montoya,Juan Pablo Montoya,Colombian,,82.0,3,3,2,2003
+"[""ferrari""]","[""Ferrari""]",BAR,barrichello,Rubens Barrichello,Brazilian,,65.0,4,4,2,2003
+"[""williams""]","[""Williams""]",SCH,ralf_schumacher,Ralf Schumacher,German,,58.0,5,5,2,2003
+"[""renault""]","[""Renault""]",ALO,alonso,Fernando Alonso,Spanish,14,55.0,6,6,1,2003
+"[""mclaren""]","[""McLaren""]",COU,coulthard,David Coulthard,British,,51.0,7,7,1,2003
+"[""renault""]","[""Renault""]",TRU,trulli,Jarno Trulli,Italian,,33.0,8,8,0,2003
+"[""bar""]","[""BAR""]",BUT,button,Jenson Button,British,22,17.0,9,9,0,2003
+"[""jaguar""]","[""Jaguar""]",WEB,webber,Mark Webber,Australian,,17.0,10,10,0,2003
+"[""sauber""]","[""Sauber""]",,frentzen,Heinz-Harald Frentzen,German,,13.0,11,11,0,2003
+"[""jordan""]","[""Jordan""]",FIS,fisichella,Giancarlo Fisichella,Italian,,12.0,12,12,1,2003
+"[""toyota""]","[""Toyota""]",,matta,Cristiano da Matta,Brazilian,,10.0,13,13,0,2003
+"[""sauber""]","[""Sauber""]",HEI,heidfeld,Nick Heidfeld,German,,6.0,14,14,0,2003
+"[""toyota""]","[""Toyota""]",,panis,Olivier Panis,French,,6.0,15,15,0,2003
+"[""bar""]","[""BAR""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,6.0,16,16,0,2003
+"[""williams""]","[""Williams""]",,gene,Marc Gené,Spanish,,4.0,17,17,0,2003
+"[""bar""]","[""BAR""]",SAT,sato,Takuma Sato,Japanese,,3.0,18,18,0,2003
+"[""jordan""]","[""Jordan""]",,firman,Ralph Firman,Irish,,1.0,19,19,0,2003
+"[""minardi"", ""jaguar""]","[""Minardi"", ""Jaguar""]",,wilson,Justin Wilson,British,,1.0,20,20,0,2003
+"[""jaguar""]","[""Jaguar""]",PIZ,pizzonia,Antônio Pizzonia,Brazilian,,0.0,21,21,0,2003
+"[""minardi""]","[""Minardi""]",,verstappen,Jos Verstappen,Dutch,,0.0,22,22,0,2003
+"[""minardi""]","[""Minardi""]",,kiesa,Nicolas Kiesa,Danish,,0.0,23,23,0,2003
+"[""jordan""]","[""Jordan""]",,baumgartner,Zsolt Baumgartner,Hungarian,,0.0,24,24,0,2003

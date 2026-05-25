@@ -1,0 +1,12 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,596.0,1,1,13,2013
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,360.0,2,2,3,2013
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,354.0,3,3,2,2013
+Lotus F1,lotus_f1,British,https://en.wikipedia.org/wiki/Lotus_F1,315.0,4,4,1,2013
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,122.0,5,5,0,2013
+Force India,force_india,Indian,https://en.wikipedia.org/wiki/Racing_Point_Force_India,77.0,6,6,0,2013
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,57.0,7,7,0,2013
+Toro Rosso,toro_rosso,Italian,https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,33.0,8,8,0,2013
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,5.0,9,9,0,2013
+Marussia,marussia,Russian,https://en.wikipedia.org/wiki/Marussia_F1,0.0,10,10,0,2013
+Caterham,caterham,Malaysian,https://en.wikipedia.org/wiki/Caterham_F1,0.0,11,11,0,2013

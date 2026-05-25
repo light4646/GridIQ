@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,860.0,1,1,21,2023
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,409.0,2,2,0,2023
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,406.0,3,3,1,2023
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,302.0,4,4,0,2023
+Aston Martin,aston_martin,British,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,280.0,5,5,0,2023
+Alpine F1 Team,alpine,French,https://en.wikipedia.org/wiki/Alpine_F1_Team,120.0,6,6,0,2023
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,28.0,7,7,0,2023
+AlphaTauri,alphatauri,Italian,https://en.wikipedia.org/wiki/Scuderia_AlphaTauri,25.0,8,8,0,2023
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,16.0,9,9,0,2023
+Haas F1 Team,haas,American,https://en.wikipedia.org/wiki/Haas_F1_Team,12.0,10,10,0,2023

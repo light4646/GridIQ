@@ -1,0 +1,23 @@
+year,round,event_name,official_event_name,country,location,circuit_key,circuit_short_name,event_format,event_date,event_slug,event_id
+2021,1,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Bahrain,Sakhir,,,conventional,2021-03-28T00:00:00,sakhir,2021-sakhir
+2021,2,Emilia Romagna Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA 2021,Italy,Imola,,,conventional,2021-04-18T00:00:00,imola,2021-imola
+2021,3,Portuguese Grand Prix,FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021,Portugal,Portimão,,,conventional,2021-05-02T00:00:00,portim-o,2021-portim-o
+2021,4,Spanish Grand Prix,FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021,Spain,Barcelona,,,conventional,2021-05-09T00:00:00,barcelona,2021-barcelona
+2021,5,Monaco Grand Prix,FORMULA 1 GRAND PRIX DE MONACO 2021,Monaco,Monte Carlo,,,conventional,2021-05-23T00:00:00,monte-carlo,2021-monte-carlo
+2021,6,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Azerbaijan,Baku,,,conventional,2021-06-06T00:00:00,baku,2021-baku
+2021,7,French Grand Prix,FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021,France,Le Castellet,,,conventional,2021-06-20T00:00:00,le-castellet,2021-le-castellet
+2021,8,Styrian Grand Prix,FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021,Austria,Spielberg,,,conventional,2021-06-27T00:00:00,spielberg,2021-spielberg
+2021,9,Austrian Grand Prix,FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021,Austria,Spielberg,,,conventional,2021-07-04T00:00:00,spielberg,2021-spielberg
+2021,10,British Grand Prix,FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021,Great Britain,Silverstone,,,sprint,2021-07-18T00:00:00,silverstone,2021-silverstone
+2021,11,Hungarian Grand Prix,FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021,Hungary,Budapest,,,conventional,2021-08-01T00:00:00,budapest,2021-budapest
+2021,12,Belgian Grand Prix,FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021,Belgium,Spa-Francorchamps,,,conventional,2021-08-29T00:00:00,spa-francorchamps,2021-spa-francorchamps
+2021,13,Dutch Grand Prix,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021,Netherlands,Zandvoort,,,conventional,2021-09-05T00:00:00,zandvoort,2021-zandvoort
+2021,14,Italian Grand Prix,FORMULA 1 HEINEKEN GRAN PREMIO D’ITALIA 2021,Italy,Monza,,,sprint,2021-09-12T00:00:00,monza,2021-monza
+2021,15,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Russia,Sochi,,,conventional,2021-09-26T00:00:00,sochi,2021-sochi
+2021,16,Turkish Grand Prix,FORMULA 1 ROLEX TURKISH GRAND PRIX 2021,Turkey,Istanbul,,,conventional,2021-10-10T00:00:00,istanbul,2021-istanbul
+2021,17,United States Grand Prix,FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021,United States,Austin,,,conventional,2021-10-24T00:00:00,austin,2021-austin
+2021,18,Mexico City Grand Prix,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021,Mexico,Mexico City,,,conventional,2021-11-07T00:00:00,mexico-city,2021-mexico-city
+2021,19,São Paulo Grand Prix,FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO 2021,Brazil,São Paulo,,,sprint,2021-11-14T00:00:00,s-o-paulo,2021-s-o-paulo
+2021,20,Qatar Grand Prix,FORMULA 1 OOREDOO QATAR GRAND PRIX 2021,Qatar,Lusail,,,conventional,2021-11-21T00:00:00,lusail,2021-lusail
+2021,21,Saudi Arabian Grand Prix,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021,Saudi Arabia,Jeddah,,,conventional,2021-12-05T00:00:00,jeddah,2021-jeddah
+2021,22,Abu Dhabi Grand Prix,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021,Abu Dhabi,Yas Island,,,conventional,2021-12-12T00:00:00,yas-island,2021-yas-island

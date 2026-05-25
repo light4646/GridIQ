@@ -1,0 +1,40 @@
+{
+  "year": 2009,
+  "generated_at": "2026-05-25T19:04:02.333302+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 17,
+  "race_results": 340,
+  "qualifying_results": 340,
+  "drivers": 25,
+  "constructors": 10,
+  "driver_champion": {
+    "year": 2009,
+    "position": 1,
+    "position_text": "1",
+    "points": 95.0,
+    "wins": 6,
+    "driver_id": "button",
+    "driver_code": "BUT",
+    "driver_number": "22",
+    "driver_name": "Jenson Button",
+    "driver_nationality": "British",
+    "constructors": [
+      "Brawn"
+    ],
+    "constructor_ids": [
+      "brawn"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2009,
+    "position": 1,
+    "position_text": "1",
+    "points": 172.0,
+    "wins": 8,
+    "constructor_id": "brawn",
+    "constructor": "Brawn",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brawn_GP"
+  }
+}

@@ -1,0 +1,26 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""brawn""]","[""Brawn""]",BUT,button,Jenson Button,British,22,95.0,1,1,6,2009
+"[""red_bull""]","[""Red Bull""]",VET,vettel,Sebastian Vettel,German,5,84.0,2,2,4,2009
+"[""brawn""]","[""Brawn""]",BAR,barrichello,Rubens Barrichello,Brazilian,,77.0,3,3,2,2009
+"[""red_bull""]","[""Red Bull""]",WEB,webber,Mark Webber,Australian,,69.5,4,4,2,2009
+"[""mclaren""]","[""McLaren""]",HAM,hamilton,Lewis Hamilton,British,44,49.0,5,5,2,2009
+"[""ferrari""]","[""Ferrari""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,48.0,6,6,1,2009
+"[""williams""]","[""Williams""]",ROS,rosberg,Nico Rosberg,German,6,34.5,7,7,0,2009
+"[""toyota""]","[""Toyota""]",TRU,trulli,Jarno Trulli,Italian,,32.5,8,8,0,2009
+"[""renault""]","[""Renault""]",ALO,alonso,Fernando Alonso,Spanish,14,26.0,9,9,0,2009
+"[""toyota""]","[""Toyota""]",GLO,glock,Timo Glock,German,,24.0,10,10,0,2009
+"[""ferrari""]","[""Ferrari""]",MAS,massa,Felipe Massa,Brazilian,19,22.0,11,11,0,2009
+"[""mclaren""]","[""McLaren""]",KOV,kovalainen,Heikki Kovalainen,Finnish,,22.0,12,12,0,2009
+"[""bmw_sauber""]","[""BMW Sauber""]",HEI,heidfeld,Nick Heidfeld,German,,19.0,13,13,0,2009
+"[""bmw_sauber""]","[""BMW Sauber""]",KUB,kubica,Robert Kubica,Polish,88,17.0,14,14,0,2009
+"[""force_india"", ""ferrari""]","[""Force India"", ""Ferrari""]",FIS,fisichella,Giancarlo Fisichella,Italian,,8.0,15,15,0,2009
+"[""toro_rosso""]","[""Toro Rosso""]",BUE,buemi,Sébastien Buemi,Swiss,,6.0,16,16,0,2009
+"[""force_india""]","[""Force India""]",SUT,sutil,Adrian Sutil,German,99,5.0,17,17,0,2009
+"[""toyota""]","[""Toyota""]",KOB,kobayashi,Kamui Kobayashi,Japanese,10,3.0,18,18,0,2009
+"[""toro_rosso""]","[""Toro Rosso""]",BOU,bourdais,Sébastien Bourdais,French,,2.0,19,19,0,2009
+"[""williams""]","[""Williams""]",NAK,nakajima,Kazuki Nakajima,Japanese,,0.0,20,20,0,2009
+"[""renault""]","[""Renault""]",PIQ,piquet_jr,Nelson Piquet Jr.,Brazilian,,0.0,21,21,0,2009
+"[""force_india""]","[""Force India""]",LIU,liuzzi,Vitantonio Liuzzi,Italian,,0.0,22,22,0,2009
+"[""renault""]","[""Renault""]",GRO,grosjean,Romain Grosjean,French,8,0.0,23,23,0,2009
+"[""toro_rosso""]","[""Toro Rosso""]",ALG,alguersuari,Jaime Alguersuari,Spanish,,0.0,24,24,0,2009
+"[""ferrari""]","[""Ferrari""]",BAD,badoer,Luca Badoer,Italian,,0.0,25,25,0,2009

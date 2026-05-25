@@ -1,0 +1,31 @@
+{
+  "year": 2010,
+  "generated_at": "2026-05-25T18:45:04.664778+00:00",
+  "source": "FastF1 historical/session results",
+  "races": 19,
+  "race_results": 456,
+  "qualifying_results": 456,
+  "drivers": 27,
+  "constructors": 12,
+  "driver_champion": {
+    "driver": "VET",
+    "driver_name": "Sebastian Vettel",
+    "teams": [
+      "Red Bull"
+    ],
+    "points": 256.0,
+    "wins": 5,
+    "podiums": 10,
+    "starts": 19,
+    "dnfs": 3,
+    "position": 1
+  },
+  "constructor_champion": {
+    "constructor": "Red Bull",
+    "points": 498.0,
+    "wins": 9,
+    "podiums": 20,
+    "starts": 38,
+    "position": 1
+  }
+}

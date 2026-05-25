@@ -1,0 +1,452 @@
+[
+  {
+    "year": 2012,
+    "position": 1,
+    "position_text": "1",
+    "points": 281.0,
+    "wins": 5,
+    "driver_id": "vettel",
+    "driver_code": "VET",
+    "driver_number": "5",
+    "driver_name": "Sebastian Vettel",
+    "driver_nationality": "German",
+    "constructors": [
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "red_bull"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 2,
+    "position_text": "2",
+    "points": 278.0,
+    "wins": 3,
+    "driver_id": "alonso",
+    "driver_code": "ALO",
+    "driver_number": "14",
+    "driver_name": "Fernando Alonso",
+    "driver_nationality": "Spanish",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 3,
+    "position_text": "3",
+    "points": 207.0,
+    "wins": 1,
+    "driver_id": "raikkonen",
+    "driver_code": "RAI",
+    "driver_number": "7",
+    "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Lotus F1"
+    ],
+    "constructor_ids": [
+      "lotus_f1"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 4,
+    "position_text": "4",
+    "points": 190.0,
+    "wins": 4,
+    "driver_id": "hamilton",
+    "driver_code": "HAM",
+    "driver_number": "44",
+    "driver_name": "Lewis Hamilton",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 5,
+    "position_text": "5",
+    "points": 188.0,
+    "wins": 3,
+    "driver_id": "button",
+    "driver_code": "BUT",
+    "driver_number": "22",
+    "driver_name": "Jenson Button",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 6,
+    "position_text": "6",
+    "points": 179.0,
+    "wins": 2,
+    "driver_id": "webber",
+    "driver_code": "WEB",
+    "driver_number": null,
+    "driver_name": "Mark Webber",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "red_bull"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 7,
+    "position_text": "7",
+    "points": 122.0,
+    "wins": 0,
+    "driver_id": "massa",
+    "driver_code": "MAS",
+    "driver_number": "19",
+    "driver_name": "Felipe Massa",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 8,
+    "position_text": "8",
+    "points": 96.0,
+    "wins": 0,
+    "driver_id": "grosjean",
+    "driver_code": "GRO",
+    "driver_number": "8",
+    "driver_name": "Romain Grosjean",
+    "driver_nationality": "French",
+    "constructors": [
+      "Lotus F1"
+    ],
+    "constructor_ids": [
+      "lotus_f1"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 9,
+    "position_text": "9",
+    "points": 93.0,
+    "wins": 1,
+    "driver_id": "rosberg",
+    "driver_code": "ROS",
+    "driver_number": "6",
+    "driver_name": "Nico Rosberg",
+    "driver_nationality": "German",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 10,
+    "position_text": "10",
+    "points": 66.0,
+    "wins": 0,
+    "driver_id": "perez",
+    "driver_code": "PER",
+    "driver_number": "11",
+    "driver_name": "Sergio P\u00e9rez",
+    "driver_nationality": "Mexican",
+    "constructors": [
+      "Sauber"
+    ],
+    "constructor_ids": [
+      "sauber"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 11,
+    "position_text": "11",
+    "points": 63.0,
+    "wins": 0,
+    "driver_id": "hulkenberg",
+    "driver_code": "HUL",
+    "driver_number": "27",
+    "driver_name": "Nico H\u00fclkenberg",
+    "driver_nationality": "German",
+    "constructors": [
+      "Force India"
+    ],
+    "constructor_ids": [
+      "force_india"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 12,
+    "position_text": "12",
+    "points": 60.0,
+    "wins": 0,
+    "driver_id": "kobayashi",
+    "driver_code": "KOB",
+    "driver_number": "10",
+    "driver_name": "Kamui Kobayashi",
+    "driver_nationality": "Japanese",
+    "constructors": [
+      "Sauber"
+    ],
+    "constructor_ids": [
+      "sauber"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 13,
+    "position_text": "13",
+    "points": 49.0,
+    "wins": 0,
+    "driver_id": "michael_schumacher",
+    "driver_code": "MSC",
+    "driver_number": null,
+    "driver_name": "Michael Schumacher",
+    "driver_nationality": "German",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 14,
+    "position_text": "14",
+    "points": 46.0,
+    "wins": 0,
+    "driver_id": "resta",
+    "driver_code": "DIR",
+    "driver_number": "40",
+    "driver_name": "Paul di Resta",
+    "driver_nationality": "British",
+    "constructors": [
+      "Force India"
+    ],
+    "constructor_ids": [
+      "force_india"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 15,
+    "position_text": "15",
+    "points": 45.0,
+    "wins": 1,
+    "driver_id": "maldonado",
+    "driver_code": "MAL",
+    "driver_number": "13",
+    "driver_name": "Pastor Maldonado",
+    "driver_nationality": "Venezuelan",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 16,
+    "position_text": "16",
+    "points": 31.0,
+    "wins": 0,
+    "driver_id": "bruno_senna",
+    "driver_code": "SEN",
+    "driver_number": null,
+    "driver_name": "Bruno Senna",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 17,
+    "position_text": "17",
+    "points": 16.0,
+    "wins": 0,
+    "driver_id": "vergne",
+    "driver_code": "VER",
+    "driver_number": "25",
+    "driver_name": "Jean-\u00c9ric Vergne",
+    "driver_nationality": "French",
+    "constructors": [
+      "Toro Rosso"
+    ],
+    "constructor_ids": [
+      "toro_rosso"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 18,
+    "position_text": "18",
+    "points": 10.0,
+    "wins": 0,
+    "driver_id": "ricciardo",
+    "driver_code": "RIC",
+    "driver_number": "3",
+    "driver_name": "Daniel Ricciardo",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Toro Rosso"
+    ],
+    "constructor_ids": [
+      "toro_rosso"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 19,
+    "position_text": "19",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "petrov",
+    "driver_code": "PET",
+    "driver_number": null,
+    "driver_name": "Vitaly Petrov",
+    "driver_nationality": "Russian",
+    "constructors": [
+      "Caterham"
+    ],
+    "constructor_ids": [
+      "caterham"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 20,
+    "position_text": "20",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "glock",
+    "driver_code": "GLO",
+    "driver_number": null,
+    "driver_name": "Timo Glock",
+    "driver_nationality": "German",
+    "constructors": [
+      "Marussia"
+    ],
+    "constructor_ids": [
+      "marussia"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 21,
+    "position_text": "21",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pic",
+    "driver_code": "PIC",
+    "driver_number": null,
+    "driver_name": "Charles Pic",
+    "driver_nationality": "French",
+    "constructors": [
+      "Marussia"
+    ],
+    "constructor_ids": [
+      "marussia"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 22,
+    "position_text": "22",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "kovalainen",
+    "driver_code": "KOV",
+    "driver_number": null,
+    "driver_name": "Heikki Kovalainen",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Caterham"
+    ],
+    "constructor_ids": [
+      "caterham"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 23,
+    "position_text": "23",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ambrosio",
+    "driver_code": "DAM",
+    "driver_number": null,
+    "driver_name": "J\u00e9r\u00f4me d'Ambrosio",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Lotus F1"
+    ],
+    "constructor_ids": [
+      "lotus_f1"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 24,
+    "position_text": "24",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "karthikeyan",
+    "driver_code": "KAR",
+    "driver_number": null,
+    "driver_name": "Narain Karthikeyan",
+    "driver_nationality": "Indian",
+    "constructors": [
+      "HRT"
+    ],
+    "constructor_ids": [
+      "hrt"
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 25,
+    "position_text": "25",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "rosa",
+    "driver_code": "DLR",
+    "driver_number": null,
+    "driver_name": "Pedro de la Rosa",
+    "driver_nationality": "Spanish",
+    "constructors": [
+      "HRT"
+    ],
+    "constructor_ids": [
+      "hrt"
+    ]
+  }
+]

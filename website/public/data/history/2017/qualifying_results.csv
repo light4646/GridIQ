@@ -1,0 +1,399 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,position,q1,q2,q3,round,year
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-melbourne,Australian Grand Prix,1,1:24.191,1:23.251,1:22.188,1,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-melbourne,Australian Grand Prix,2,1:25.210,1:23.401,1:22.456,1,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-melbourne,Australian Grand Prix,3,1:24.514,1:23.215,1:22.481,1,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-melbourne,Australian Grand Prix,4,1:24.352,1:23.376,1:23.033,1,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-melbourne,Australian Grand Prix,5,1:24.482,1:24.092,1:23.485,1,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-melbourne,Australian Grand Prix,6,1:25.419,1:24.718,1:24.074,1,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-melbourne,Australian Grand Prix,7,1:25.099,1:24.597,1:24.443,1,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-melbourne,Australian Grand Prix,8,1:25.542,1:24.997,1:24.487,1,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-melbourne,Australian Grand Prix,9,1:25.970,1:24.864,1:24.512,1,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-melbourne,Australian Grand Prix,10,1:25.383,1:23.989,,1,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-melbourne,Australian Grand Prix,11,1:25.064,1:25.081,,1,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-melbourne,Australian Grand Prix,12,1:24.975,1:25.091,,1,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-melbourne,Australian Grand Prix,13,1:25.872,1:25.425,,1,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-melbourne,Australian Grand Prix,14,1:26.009,1:25.568,,1,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-melbourne,Australian Grand Prix,15,1:26.236,1:26.465,,1,2017
+Sauber,sauber,Swiss,GIO,giovinazzi,Antonio Giovinazzi,Italian,99,2017-melbourne,Australian Grand Prix,16,1:26.419,,,1,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-melbourne,Australian Grand Prix,17,1:26.847,,,1,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-melbourne,Australian Grand Prix,18,1:26.858,,,1,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-melbourne,Australian Grand Prix,19,1:27.143,,,1,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-melbourne,Australian Grand Prix,20,1:28.244,,,1,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-shanghai,Chinese Grand Prix,1,1:33.333,1:32.406,1:31.678,2,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-shanghai,Chinese Grand Prix,2,1:33.078,1:32.391,1:31.864,2,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-shanghai,Chinese Grand Prix,3,1:33.684,1:32.552,1:31.865,2,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-shanghai,Chinese Grand Prix,4,1:33.341,1:32.181,1:32.140,2,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-shanghai,Chinese Grand Prix,5,1:34.041,1:33.546,1:33.033,2,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-shanghai,Chinese Grand Prix,6,1:34.205,1:33.759,1:33.507,2,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-shanghai,Chinese Grand Prix,7,1:34.453,1:33.636,1:33.580,2,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-shanghai,Chinese Grand Prix,8,1:34.657,1:33.920,1:33.706,2,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-shanghai,Chinese Grand Prix,9,1:34.440,1:34.034,1:33.719,2,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-shanghai,Chinese Grand Prix,10,1:33.986,1:34.090,1:34.220,2,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-shanghai,Chinese Grand Prix,11,1:34.567,1:34.150,,2,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-shanghai,Chinese Grand Prix,12,1:34.942,1:34.164,,2,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-shanghai,Chinese Grand Prix,13,1:34.499,1:34.372,,2,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-shanghai,Chinese Grand Prix,14,1:34.892,1:35.046,,2,2017
+Sauber,sauber,Swiss,GIO,giovinazzi,Antonio Giovinazzi,Italian,99,2017-shanghai,Chinese Grand Prix,15,1:34.963,,,2,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-shanghai,Chinese Grand Prix,16,1:35.023,,,2,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-shanghai,Chinese Grand Prix,17,1:35.223,,,2,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-shanghai,Chinese Grand Prix,18,1:35.279,,,2,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-shanghai,Chinese Grand Prix,19,1:35.433,,,2,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-shanghai,Chinese Grand Prix,20,1:35.496,,,2,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-sakhir,Bahrain Grand Prix,1,1:31.041,1:29.555,1:28.769,3,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-sakhir,Bahrain Grand Prix,2,1:30.814,1:29.535,1:28.792,3,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-sakhir,Bahrain Grand Prix,3,1:31.037,1:29.596,1:29.247,3,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-sakhir,Bahrain Grand Prix,4,1:31.667,1:30.497,1:29.545,3,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-sakhir,Bahrain Grand Prix,5,1:30.988,1:29.843,1:29.567,3,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-sakhir,Bahrain Grand Prix,6,1:30.904,1:30.307,1:29.687,3,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-sakhir,Bahrain Grand Prix,7,1:31.057,1:30.169,1:29.842,3,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-sakhir,Bahrain Grand Prix,8,1:31.373,1:30.677,1:30.074,3,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-sakhir,Bahrain Grand Prix,9,1:31.691,1:30.857,1:30.763,3,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-sakhir,Bahrain Grand Prix,10,1:31.458,1:30.899,1:31.074,3,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-sakhir,Bahrain Grand Prix,11,1:31.531,1:30.923,,3,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-sakhir,Bahrain Grand Prix,12,1:31.748,1:31.168,,3,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-sakhir,Bahrain Grand Prix,13,1:31.995,1:31.414,,3,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-sakhir,Bahrain Grand Prix,14,1:31.774,1:31.684,,3,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-sakhir,Bahrain Grand Prix,15,1:32.054,,,3,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-sakhir,Bahrain Grand Prix,16,1:32.118,,,3,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-sakhir,Bahrain Grand Prix,17,1:32.313,,,3,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-sakhir,Bahrain Grand Prix,18,1:32.318,,,3,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-sakhir,Bahrain Grand Prix,19,1:32.543,,,3,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-sakhir,Bahrain Grand Prix,20,1:32.900,,,3,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-sochi,Russian Grand Prix,1,1:34.493,1:34.038,1:33.194,4,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-sochi,Russian Grand Prix,2,1:34.953,1:33.663,1:33.253,4,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-sochi,Russian Grand Prix,3,1:34.041,1:33.264,1:33.289,4,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-sochi,Russian Grand Prix,4,1:34.409,1:33.760,1:33.767,4,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-sochi,Russian Grand Prix,5,1:35.560,1:35.483,1:34.905,4,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-sochi,Russian Grand Prix,6,1:35.828,1:35.049,1:35.110,4,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-sochi,Russian Grand Prix,7,1:35.301,1:35.221,1:35.161,4,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-sochi,Russian Grand Prix,8,1:35.507,1:35.328,1:35.285,4,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-sochi,Russian Grand Prix,9,1:36.185,1:35.513,1:35.337,4,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-sochi,Russian Grand Prix,10,1:35.372,1:35.729,1:35.430,4,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-sochi,Russian Grand Prix,11,1:35.827,1:35.948,,4,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-sochi,Russian Grand Prix,12,1:36.279,1:35.964,,4,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-sochi,Russian Grand Prix,13,1:35.984,1:35.968,,4,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-sochi,Russian Grand Prix,14,1:36.408,1:36.017,,4,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-sochi,Russian Grand Prix,15,1:36.353,1:36.660,,4,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-sochi,Russian Grand Prix,16,1:36.462,,,4,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-sochi,Russian Grand Prix,17,1:37.070,,,4,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-sochi,Russian Grand Prix,18,1:37.332,,,4,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-sochi,Russian Grand Prix,19,1:37.507,,,4,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-sochi,Russian Grand Prix,20,1:37.620,,,4,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-barcelona,Spanish Grand Prix,1,1:20.511,1:20.210,1:19.149,5,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-barcelona,Spanish Grand Prix,2,1:20.939,1:20.295,1:19.200,5,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-barcelona,Spanish Grand Prix,3,1:20.991,1:20.300,1:19.373,5,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-barcelona,Spanish Grand Prix,4,1:20.742,1:20.621,1:19.439,5,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-barcelona,Spanish Grand Prix,5,1:21.430,1:20.722,1:19.706,5,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-barcelona,Spanish Grand Prix,6,1:21.704,1:20.855,1:20.175,5,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-barcelona,Spanish Grand Prix,7,1:22.015,1:21.251,1:21.048,5,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-barcelona,Spanish Grand Prix,8,1:21.998,1:21.239,1:21.070,5,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-barcelona,Spanish Grand Prix,9,1:22.138,1:21.222,1:21.232,5,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-barcelona,Spanish Grand Prix,10,1:21.901,1:21.148,1:21.272,5,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-barcelona,Spanish Grand Prix,11,1:21.945,1:21.329,,5,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-barcelona,Spanish Grand Prix,12,1:21.941,1:21.371,,5,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-barcelona,Spanish Grand Prix,13,1:22.091,1:21.397,,5,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-barcelona,Spanish Grand Prix,14,1:21.822,1:21.517,,5,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-barcelona,Spanish Grand Prix,15,1:22.327,1:21.803,,5,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-barcelona,Spanish Grand Prix,16,1:22.332,,,5,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-barcelona,Spanish Grand Prix,17,1:22.401,,,5,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-barcelona,Spanish Grand Prix,18,1:22.411,,,5,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-barcelona,Spanish Grand Prix,19,1:22.532,,,5,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-barcelona,Spanish Grand Prix,20,1:22.746,,,5,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-monte-carlo,Monaco Grand Prix,1,1:13.117,1:12.231,1:12.178,6,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-monte-carlo,Monaco Grand Prix,2,1:13.090,1:12.449,1:12.221,6,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-monte-carlo,Monaco Grand Prix,3,1:13.325,1:12.901,1:12.223,6,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-monte-carlo,Monaco Grand Prix,4,1:13.078,1:12.697,1:12.496,6,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-monte-carlo,Monaco Grand Prix,5,1:13.219,1:13.011,1:12.998,6,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-monte-carlo,Monaco Grand Prix,6,1:13.526,1:13.397,1:13.162,6,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-monte-carlo,Monaco Grand Prix,7,1:13.530,1:13.430,1:13.329,6,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-monte-carlo,Monaco Grand Prix,8,1:13.786,1:13.203,1:13.349,6,2017
+McLaren,mclaren,British,BUT,button,Jenson Button,British,22,2017-monte-carlo,Monaco Grand Prix,9,1:13.723,1:13.453,1:13.613,6,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-monte-carlo,Monaco Grand Prix,10,1:13.476,1:13.249,,6,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-monte-carlo,Monaco Grand Prix,11,1:13.899,1:13.516,,6,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-monte-carlo,Monaco Grand Prix,12,1:13.787,1:13.628,,6,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-monte-carlo,Monaco Grand Prix,13,1:13.531,1:13.959,,6,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-monte-carlo,Monaco Grand Prix,14,1:13.640,1:14.106,,6,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-monte-carlo,Monaco Grand Prix,15,1:13.796,1:20.529,,6,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-monte-carlo,Monaco Grand Prix,16,1:14.101,,,6,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-monte-carlo,Monaco Grand Prix,17,1:14.696,,,6,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-monte-carlo,Monaco Grand Prix,18,1:14.893,,,6,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-monte-carlo,Monaco Grand Prix,19,1:15.159,,,6,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-monte-carlo,Monaco Grand Prix,20,1:15.276,,,6,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-montreal,Canadian Grand Prix,1,1:12.692,1:12.496,1:11.459,7,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-montreal,Canadian Grand Prix,2,1:13.046,1:12.749,1:11.789,7,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-montreal,Canadian Grand Prix,3,1:12.685,1:12.563,1:12.177,7,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-montreal,Canadian Grand Prix,4,1:13.548,1:12.580,1:12.252,7,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-montreal,Canadian Grand Prix,5,1:13.177,1:12.751,1:12.403,7,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-montreal,Canadian Grand Prix,6,1:13.543,1:12.810,1:12.557,7,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-montreal,Canadian Grand Prix,7,1:13.435,1:13.012,1:12.858,7,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-montreal,Canadian Grand Prix,8,1:13.470,1:13.262,1:13.018,7,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-montreal,Canadian Grand Prix,9,1:13.520,1:13.320,1:13.135,7,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-montreal,Canadian Grand Prix,10,1:13.804,1:13.406,1:13.271,7,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-montreal,Canadian Grand Prix,11,1:13.802,1:13.690,,7,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-montreal,Canadian Grand Prix,12,1:13.669,1:13.693,,7,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-montreal,Canadian Grand Prix,13,1:14.051,1:13.756,,7,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-montreal,Canadian Grand Prix,14,1:13.780,1:13.839,,7,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-montreal,Canadian Grand Prix,15,1:13.990,1:14.293,,7,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-montreal,Canadian Grand Prix,16,1:14.182,,,7,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-montreal,Canadian Grand Prix,17,1:14.209,,,7,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-montreal,Canadian Grand Prix,18,1:14.318,,,7,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-montreal,Canadian Grand Prix,19,1:14.495,,,7,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-montreal,Canadian Grand Prix,20,1:14.810,,,7,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-baku,Azerbaijan Grand Prix,1,1:41.983,1:41.275,1:40.593,8,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-baku,Azerbaijan Grand Prix,2,1:43.026,1:41.502,1:41.027,8,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-baku,Azerbaijan Grand Prix,3,1:42.678,1:42.090,1:41.693,8,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-baku,Azerbaijan Grand Prix,4,1:42.952,1:41.911,1:41.841,8,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-baku,Azerbaijan Grand Prix,5,1:42.544,1:41.961,1:41.879,8,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-baku,Azerbaijan Grand Prix,6,1:43.162,1:42.467,1:42.111,8,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-baku,Azerbaijan Grand Prix,7,1:43.051,1:42.751,1:42.186,8,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-baku,Azerbaijan Grand Prix,8,1:43.613,1:42.284,1:42.753,8,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-baku,Azerbaijan Grand Prix,9,1:43.165,1:42.735,1:42.798,8,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-baku,Azerbaijan Grand Prix,10,1:42.857,1:42.215,1:43.414,8,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-baku,Azerbaijan Grand Prix,11,1:42.927,1:43.186,,8,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-baku,Azerbaijan Grand Prix,12,1:43.489,1:43.347,,8,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-baku,Azerbaijan Grand Prix,13,1:44.029,1:43.796,,8,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-baku,Azerbaijan Grand Prix,14,1:43.930,1:44.267,,8,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-baku,Azerbaijan Grand Prix,15,1:44.317,1:44.603,,8,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-baku,Azerbaijan Grand Prix,16,1:44.334,,,8,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-baku,Azerbaijan Grand Prix,17,1:44.468,,,8,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-baku,Azerbaijan Grand Prix,18,1:44.795,,,8,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-baku,Azerbaijan Grand Prix,19,1:45.030,,,8,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-spielberg,Austrian Grand Prix,1,1:05.760,1:04.316,1:04.251,9,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-spielberg,Austrian Grand Prix,2,1:05.585,1:04.772,1:04.293,9,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-spielberg,Austrian Grand Prix,3,1:05.064,1:04.800,1:04.424,9,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-spielberg,Austrian Grand Prix,4,1:05.148,1:05.004,1:04.779,9,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-spielberg,Austrian Grand Prix,5,1:05.854,1:05.161,1:04.896,9,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-spielberg,Austrian Grand Prix,6,1:05.779,1:04.948,1:04.983,9,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-spielberg,Austrian Grand Prix,7,1:05.902,1:05.319,1:05.480,9,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-spielberg,Austrian Grand Prix,8,1:05.975,1:05.435,1:05.605,9,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-spielberg,Austrian Grand Prix,9,1:06.033,1:05.550,1:05.674,9,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-spielberg,Austrian Grand Prix,10,1:05.675,1:05.544,1:05.726,9,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-spielberg,Austrian Grand Prix,11,1:06.174,1:05.597,,9,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-spielberg,Austrian Grand Prix,12,1:06.158,1:05.602,,9,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-spielberg,Austrian Grand Prix,13,1:06.316,1:05.741,,9,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-spielberg,Austrian Grand Prix,14,1:05.990,1:05.884,,9,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-spielberg,Austrian Grand Prix,15,1:06.143,,,9,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-spielberg,Austrian Grand Prix,16,1:06.345,,,9,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-spielberg,Austrian Grand Prix,17,1:06.534,,,9,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-spielberg,Austrian Grand Prix,18,1:06.608,,,9,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-spielberg,Austrian Grand Prix,19,1:06.857,,,9,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-spielberg,Austrian Grand Prix,20,1:07.011,,,9,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-silverstone,British Grand Prix,1,1:39.069,1:27.893,1:26.600,10,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-silverstone,British Grand Prix,2,1:40.455,1:28.992,1:27.147,10,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-silverstone,British Grand Prix,3,1:39.962,1:28.978,1:27.356,10,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-silverstone,British Grand Prix,4,1:39.698,1:28.732,1:27.376,10,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-silverstone,British Grand Prix,5,1:38.912,1:29.431,1:28.130,10,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-silverstone,British Grand Prix,6,1:39.201,1:29.340,1:28.856,10,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-silverstone,British Grand Prix,7,1:42.009,1:29.824,1:28.902,10,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-silverstone,British Grand Prix,8,1:39.738,1:29.701,1:29.074,10,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-silverstone,British Grand Prix,9,1:40.011,1:30.105,1:29.418,10,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-silverstone,British Grand Prix,10,1:42.042,1:29.966,1:29.549,10,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-silverstone,British Grand Prix,11,1:41.404,1:30.193,,10,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-silverstone,British Grand Prix,12,1:41.726,1:30.355,,10,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-silverstone,British Grand Prix,13,1:37.598,1:30.600,,10,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-silverstone,British Grand Prix,14,1:41.114,1:31.368,,10,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-silverstone,British Grand Prix,15,1:41.874,1:31.482,,10,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-silverstone,British Grand Prix,16,1:42.573,,,10,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-silverstone,British Grand Prix,17,1:42.577,,,10,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-silverstone,British Grand Prix,18,1:42.593,,,10,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-silverstone,British Grand Prix,19,1:42.633,,,10,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-silverstone,British Grand Prix,20,1:42.966,,,10,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-budapest,Hungarian Grand Prix,1,1:17.244,1:16.802,1:16.276,11,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-budapest,Hungarian Grand Prix,2,1:17.364,1:17.207,1:16.444,11,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-budapest,Hungarian Grand Prix,3,1:18.058,1:17.362,1:16.530,11,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-budapest,Hungarian Grand Prix,4,1:17.492,1:16.693,1:16.707,11,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-budapest,Hungarian Grand Prix,5,1:17.266,1:17.028,1:16.797,11,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-budapest,Hungarian Grand Prix,6,1:17.702,1:17.698,1:16.818,11,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-budapest,Hungarian Grand Prix,7,1:18.137,1:17.655,1:17.468,11,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-budapest,Hungarian Grand Prix,8,1:18.395,1:17.919,1:17.549,11,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-budapest,Hungarian Grand Prix,9,1:18.479,1:18.000,1:17.894,11,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-budapest,Hungarian Grand Prix,10,1:18.948,1:18.311,1:18.912,11,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-budapest,Hungarian Grand Prix,11,1:18.699,1:18.415,,11,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-budapest,Hungarian Grand Prix,12,1:18.843,1:18.495,,11,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-budapest,Hungarian Grand Prix,13,1:18.702,1:18.538,,11,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-budapest,Hungarian Grand Prix,14,1:19.095,1:18.639,,11,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-budapest,Hungarian Grand Prix,15,1:19.085,1:18.771,,11,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-budapest,Hungarian Grand Prix,16,1:19.095,,,11,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-budapest,Hungarian Grand Prix,17,1:19.102,,,11,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-budapest,Hungarian Grand Prix,18,1:19.839,,,11,2017
+Williams,williams,British,DIR,resta,Paul di Resta,British,40,2017-budapest,Hungarian Grand Prix,19,1:19.868,,,11,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-budapest,Hungarian Grand Prix,20,1:19.972,,,11,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-spa,Belgian Grand Prix,1,1:44.184,1:42.927,1:42.553,12,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-spa,Belgian Grand Prix,2,1:44.275,1:43.987,1:42.795,12,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-spa,Belgian Grand Prix,3,1:44.773,1:43.249,1:43.094,12,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-spa,Belgian Grand Prix,4,1:44.729,1:43.700,1:43.270,12,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-spa,Belgian Grand Prix,5,1:44.535,1:43.940,1:43.380,12,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-spa,Belgian Grand Prix,6,1:45.114,1:44.224,1:43.863,12,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-spa,Belgian Grand Prix,7,1:45.280,1:44.988,1:44.982,12,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-spa,Belgian Grand Prix,8,1:45.591,1:44.894,1:45.244,12,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-spa,Belgian Grand Prix,9,1:45.277,1:45.006,1:45.369,12,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-spa,Belgian Grand Prix,10,1:45.447,1:44.685,,12,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-spa,Belgian Grand Prix,11,1:45.668,1:45.090,,12,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-spa,Belgian Grand Prix,12,1:45.728,1:45.133,,12,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-spa,Belgian Grand Prix,13,1:45.535,1:45.400,,12,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-spa,Belgian Grand Prix,14,1:45.374,1:45.439,,12,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-spa,Belgian Grand Prix,15,1:45.441,,,12,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-spa,Belgian Grand Prix,16,1:45.823,,,12,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-spa,Belgian Grand Prix,17,1:46.028,,,12,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-spa,Belgian Grand Prix,18,1:46.915,,,12,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-spa,Belgian Grand Prix,19,1:47.214,,,12,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-spa,Belgian Grand Prix,20,1:47.679,,,12,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-monza,Italian Grand Prix,1,1:36.009,1:34.660,1:35.554,13,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-monza,Italian Grand Prix,2,1:37.344,1:36.113,1:36.702,13,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-monza,Italian Grand Prix,3,1:38.304,1:37.313,1:36.841,13,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-monza,Italian Grand Prix,4,1:37.653,1:37.002,1:37.032,13,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-monza,Italian Grand Prix,5,1:38.775,1:37.580,1:37.719,13,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-monza,Italian Grand Prix,6,1:35.716,1:35.396,1:37.833,13,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-monza,Italian Grand Prix,7,1:38.235,1:37.031,1:37.987,13,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-monza,Italian Grand Prix,8,1:37.198,1:36.223,1:38.064,13,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-monza,Italian Grand Prix,9,1:38.338,1:37.456,1:38.251,13,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-monza,Italian Grand Prix,10,1:38.767,1:37.471,1:39.157,13,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-monza,Italian Grand Prix,11,1:38.511,1:37.582,,13,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-monza,Italian Grand Prix,12,1:39.242,1:38.059,,13,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-monza,Italian Grand Prix,13,1:39.134,1:38.202,,13,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-monza,Italian Grand Prix,14,1:39.183,1:38.245,,13,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-monza,Italian Grand Prix,15,1:39.788,1:38.526,,13,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-monza,Italian Grand Prix,16,1:40.489,,,13,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-monza,Italian Grand Prix,17,1:40.646,,,13,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-monza,Italian Grand Prix,18,1:41.732,,,13,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-monza,Italian Grand Prix,19,1:41.875,,,13,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-monza,Italian Grand Prix,20,1:43.355,,,13,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-marina-bay,Singapore Grand Prix,1,1:43.336,1:40.529,1:39.491,14,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-marina-bay,Singapore Grand Prix,2,1:42.010,1:40.332,1:39.814,14,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-marina-bay,Singapore Grand Prix,3,1:42.063,1:40.385,1:39.840,14,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-marina-bay,Singapore Grand Prix,4,1:43.328,1:40.525,1:40.069,14,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-marina-bay,Singapore Grand Prix,5,1:42.455,1:40.577,1:40.126,14,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-marina-bay,Singapore Grand Prix,6,1:43.137,1:41.409,1:40.810,14,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-marina-bay,Singapore Grand Prix,7,1:42.586,1:41.277,1:41.013,14,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-marina-bay,Singapore Grand Prix,8,1:42.086,1:41.442,1:41.179,14,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-marina-bay,Singapore Grand Prix,9,1:42.222,1:41.227,1:41.398,14,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-marina-bay,Singapore Grand Prix,10,1:42.176,1:41.826,1:42.056,14,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-marina-bay,Singapore Grand Prix,11,1:42.472,1:42.107,,14,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-marina-bay,Singapore Grand Prix,12,1:43.594,1:42.246,,14,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-marina-bay,Singapore Grand Prix,13,1:42.544,1:42.338,,14,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-marina-bay,Singapore Grand Prix,14,1:43.626,1:42.760,,14,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-marina-bay,Singapore Grand Prix,15,1:43.627,1:43.883,,14,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-marina-bay,Singapore Grand Prix,16,1:43.756,,,14,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-marina-bay,Singapore Grand Prix,17,1:44.014,,,14,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-marina-bay,Singapore Grand Prix,18,1:44.728,,,14,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-marina-bay,Singapore Grand Prix,19,1:45.059,,,14,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-marina-bay,Singapore Grand Prix,20,1:45.570,,,14,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-kuala-lumpur,Malaysian Grand Prix,1,1:31.605,1:30.977,1:30.076,15,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-kuala-lumpur,Malaysian Grand Prix,2,1:32.259,1:30.926,1:30.121,15,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-kuala-lumpur,Malaysian Grand Prix,3,1:31.920,1:30.931,1:30.541,15,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-kuala-lumpur,Malaysian Grand Prix,4,1:32.416,1:31.061,1:30.595,15,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-kuala-lumpur,Malaysian Grand Prix,5,1:32.254,1:30.803,1:30.758,15,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-kuala-lumpur,Malaysian Grand Prix,6,1:32.527,1:31.651,1:31.478,15,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-kuala-lumpur,Malaysian Grand Prix,7,1:32.838,1:31.848,1:31.582,15,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-kuala-lumpur,Malaysian Grand Prix,8,1:32.586,1:31.778,1:31.607,15,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-kuala-lumpur,Malaysian Grand Prix,9,1:32.768,1:31.484,1:31.658,15,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-kuala-lumpur,Malaysian Grand Prix,10,1:33.049,1:32.010,1:31.704,15,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-kuala-lumpur,Malaysian Grand Prix,11,1:32.267,1:32.034,,15,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-kuala-lumpur,Malaysian Grand Prix,12,1:32.576,1:32.100,,15,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-kuala-lumpur,Malaysian Grand Prix,13,1:33.000,1:32.307,,15,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-kuala-lumpur,Malaysian Grand Prix,14,1:32.650,1:32.402,,15,2017
+Toro Rosso,toro_rosso,Italian,GAS,gasly,Pierre Gasly,French,10,2017-kuala-lumpur,Malaysian Grand Prix,15,1:32.547,1:32.558,,15,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-kuala-lumpur,Malaysian Grand Prix,16,1:33.308,,,15,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-kuala-lumpur,Malaysian Grand Prix,17,1:33.434,,,15,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-kuala-lumpur,Malaysian Grand Prix,18,1:33.483,,,15,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-kuala-lumpur,Malaysian Grand Prix,19,1:33.970,,,15,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-kuala-lumpur,Malaysian Grand Prix,20,,,,15,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-suzuka,Japanese Grand Prix,1,1:29.047,1:27.819,1:27.319,16,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-suzuka,Japanese Grand Prix,2,1:29.332,1:28.543,1:27.651,16,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-suzuka,Japanese Grand Prix,3,1:29.352,1:28.225,1:27.791,16,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-suzuka,Japanese Grand Prix,4,1:29.475,1:28.935,1:28.306,16,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-suzuka,Japanese Grand Prix,5,1:29.181,1:28.747,1:28.332,16,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-suzuka,Japanese Grand Prix,6,1:29.163,1:29.079,1:28.498,16,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-suzuka,Japanese Grand Prix,7,1:30.115,1:29.199,1:29.111,16,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-suzuka,Japanese Grand Prix,8,1:29.696,1:29.343,1:29.260,16,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-suzuka,Japanese Grand Prix,9,1:30.352,1:29.687,1:29.480,16,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-suzuka,Japanese Grand Prix,10,1:30.525,1:29.749,1:30.687,16,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-suzuka,Japanese Grand Prix,11,1:30.654,1:29.778,,16,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-suzuka,Japanese Grand Prix,12,1:30.252,1:29.879,,16,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-suzuka,Japanese Grand Prix,13,1:30.774,1:29.972,,16,2017
+Renault,renault,French,PAL,jolyon_palmer,Jolyon Palmer,British,30,2017-suzuka,Japanese Grand Prix,14,1:30.516,1:30.022,,16,2017
+Toro Rosso,toro_rosso,Italian,SAI,sainz,Carlos Sainz,Spanish,55,2017-suzuka,Japanese Grand Prix,15,1:30.565,1:30.413,,16,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-suzuka,Japanese Grand Prix,16,1:30.849,,,16,2017
+Toro Rosso,toro_rosso,Italian,GAS,gasly,Pierre Gasly,French,10,2017-suzuka,Japanese Grand Prix,17,1:31.317,,,16,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-suzuka,Japanese Grand Prix,18,1:31.409,,,16,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-suzuka,Japanese Grand Prix,19,1:31.597,,,16,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-suzuka,Japanese Grand Prix,20,1:31.885,,,16,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-austin,United States Grand Prix,1,1:34.822,1:33.437,1:33.108,17,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-austin,United States Grand Prix,2,1:35.420,1:34.103,1:33.347,17,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-austin,United States Grand Prix,3,1:35.309,1:33.769,1:33.568,17,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-austin,United States Grand Prix,4,1:35.991,1:34.495,1:33.577,17,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-austin,United States Grand Prix,5,1:35.649,1:33.840,1:33.577,17,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-austin,United States Grand Prix,6,1:34.899,1:34.716,1:33.658,17,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-austin,United States Grand Prix,7,1:35.849,1:35.113,1:34.647,17,2017
+Renault,renault,French,SAI,sainz,Carlos Sainz,Spanish,55,2017-austin,United States Grand Prix,8,1:35.517,1:34.899,1:34.852,17,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-austin,United States Grand Prix,9,1:35.712,1:35.046,1:35.007,17,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-austin,United States Grand Prix,10,1:36.358,1:34.789,1:35.148,17,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-austin,United States Grand Prix,11,1:35.603,1:35.155,,17,2017
+Toro Rosso,toro_rosso,Italian,KVY,kvyat,Daniil Kvyat,Russian,26,2017-austin,United States Grand Prix,12,1:36.073,1:35.529,,17,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-austin,United States Grand Prix,13,1:36.286,1:35.641,,17,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-austin,United States Grand Prix,14,1:36.835,1:35.870,,17,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-austin,United States Grand Prix,15,1:35.740,,,17,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-austin,United States Grand Prix,16,1:36.842,,,17,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-austin,United States Grand Prix,17,1:36.868,,,17,2017
+Toro Rosso,toro_rosso,Italian,HAR,brendon_hartley,Brendon Hartley,New Zealander,28,2017-austin,United States Grand Prix,18,1:36.889,,,17,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-austin,United States Grand Prix,19,1:37.179,,,17,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-austin,United States Grand Prix,20,1:37.394,,,17,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-mexico-city,Mexican Grand Prix,1,1:17.665,1:16.870,1:16.488,18,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-mexico-city,Mexican Grand Prix,2,1:17.630,1:16.524,1:16.574,18,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-mexico-city,Mexican Grand Prix,3,1:17.518,1:17.035,1:16.934,18,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-mexico-city,Mexican Grand Prix,4,1:17.578,1:17.161,1:16.958,18,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-mexico-city,Mexican Grand Prix,5,1:18.148,1:17.534,1:17.238,18,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-mexico-city,Mexican Grand Prix,6,1:18.336,1:17.827,1:17.437,18,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-mexico-city,Mexican Grand Prix,7,1:18.208,1:17.631,1:17.447,18,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-mexico-city,Mexican Grand Prix,8,1:18.322,1:17.792,1:17.466,18,2017
+Renault,renault,French,SAI,sainz,Carlos Sainz,Spanish,55,2017-mexico-city,Mexican Grand Prix,9,1:18.405,1:17.753,1:17.794,18,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-mexico-city,Mexican Grand Prix,10,1:18.020,1:17.868,1:17.807,18,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-mexico-city,Mexican Grand Prix,11,1:18.570,1:18.099,,18,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-mexico-city,Mexican Grand Prix,12,1:18.902,1:19.159,,18,2017
+Toro Rosso,toro_rosso,Italian,HAR,brendon_hartley,Brendon Hartley,New Zealander,28,2017-mexico-city,Mexican Grand Prix,13,1:18.683,,,18,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-mexico-city,Mexican Grand Prix,14,1:17.710,,,18,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-mexico-city,Mexican Grand Prix,15,1:18.578,,,18,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-mexico-city,Mexican Grand Prix,16,1:19.176,,,18,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-mexico-city,Mexican Grand Prix,17,1:19.333,,,18,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-mexico-city,Mexican Grand Prix,18,1:19.443,,,18,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-mexico-city,Mexican Grand Prix,19,1:19.473,,,18,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-s-o-paulo,Brazilian Grand Prix,1,1:09.452,1:08.638,1:08.322,19,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-s-o-paulo,Brazilian Grand Prix,2,1:09.643,1:08.494,1:08.360,19,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-s-o-paulo,Brazilian Grand Prix,3,1:09.405,1:09.116,1:08.538,19,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-s-o-paulo,Brazilian Grand Prix,4,1:09.820,1:09.050,1:08.925,19,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-s-o-paulo,Brazilian Grand Prix,5,1:09.828,1:09.533,1:09.330,19,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-s-o-paulo,Brazilian Grand Prix,6,1:10.145,1:09.760,1:09.598,19,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-s-o-paulo,Brazilian Grand Prix,7,1:10.172,1:09.593,1:09.617,19,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-s-o-paulo,Brazilian Grand Prix,8,1:10.078,1:09.726,1:09.703,19,2017
+Renault,renault,French,SAI,sainz,Carlos Sainz,Spanish,55,2017-s-o-paulo,Brazilian Grand Prix,9,1:10.227,1:09.768,1:09.805,19,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-s-o-paulo,Brazilian Grand Prix,10,1:09.789,1:09.612,1:09.841,19,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-s-o-paulo,Brazilian Grand Prix,11,1:10.168,1:09.830,,19,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-s-o-paulo,Brazilian Grand Prix,12,1:10.148,1:09.879,,19,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-s-o-paulo,Brazilian Grand Prix,13,1:10.286,1:10.116,,19,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-s-o-paulo,Brazilian Grand Prix,14,1:10.521,1:10.154,,19,2017
+Toro Rosso,toro_rosso,Italian,HAR,brendon_hartley,Brendon Hartley,New Zealander,28,2017-s-o-paulo,Brazilian Grand Prix,15,1:10.625,,,19,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-s-o-paulo,Brazilian Grand Prix,16,1:10.678,,,19,2017
+Toro Rosso,toro_rosso,Italian,GAS,gasly,Pierre Gasly,French,10,2017-s-o-paulo,Brazilian Grand Prix,17,1:10.686,,,19,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-s-o-paulo,Brazilian Grand Prix,18,1:10.776,,,19,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-s-o-paulo,Brazilian Grand Prix,19,1:10.875,,,19,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-s-o-paulo,Brazilian Grand Prix,20,,,,19,2017
+Mercedes,mercedes,German,BOT,bottas,Valtteri Bottas,Finnish,77,2017-abu-dhabi,Abu Dhabi Grand Prix,1,1:37.356,1:36.822,1:36.231,20,2017
+Mercedes,mercedes,German,HAM,hamilton,Lewis Hamilton,British,44,2017-abu-dhabi,Abu Dhabi Grand Prix,2,1:37.391,1:36.742,1:36.403,20,2017
+Ferrari,ferrari,Italian,VET,vettel,Sebastian Vettel,German,5,2017-abu-dhabi,Abu Dhabi Grand Prix,3,1:37.817,1:37.023,1:36.777,20,2017
+Red Bull,red_bull,Austrian,RIC,ricciardo,Daniel Ricciardo,Australian,3,2017-abu-dhabi,Abu Dhabi Grand Prix,4,1:38.016,1:37.583,1:36.959,20,2017
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2017-abu-dhabi,Abu Dhabi Grand Prix,5,1:37.453,1:37.302,1:36.985,20,2017
+Red Bull,red_bull,Austrian,VER,max_verstappen,Max Verstappen,Dutch,3,2017-abu-dhabi,Abu Dhabi Grand Prix,6,1:38.021,1:37.777,1:37.328,20,2017
+Renault,renault,French,HUL,hulkenberg,Nico Hülkenberg,German,27,2017-abu-dhabi,Abu Dhabi Grand Prix,7,1:38.781,1:38.138,1:38.282,20,2017
+Force India,force_india,Indian,PER,perez,Sergio Pérez,Mexican,11,2017-abu-dhabi,Abu Dhabi Grand Prix,8,1:38.601,1:38.359,1:38.374,20,2017
+Force India,force_india,Indian,OCO,ocon,Esteban Ocon,French,31,2017-abu-dhabi,Abu Dhabi Grand Prix,9,1:38.896,1:38.392,1:38.397,20,2017
+Williams,williams,British,MAS,massa,Felipe Massa,Brazilian,19,2017-abu-dhabi,Abu Dhabi Grand Prix,10,1:38.629,1:38.565,1:38.550,20,2017
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2017-abu-dhabi,Abu Dhabi Grand Prix,11,1:38.820,1:38.636,,20,2017
+Renault,renault,French,SAI,sainz,Carlos Sainz,Spanish,55,2017-abu-dhabi,Abu Dhabi Grand Prix,12,1:38.810,1:38.725,,20,2017
+McLaren,mclaren,British,VAN,vandoorne,Stoffel Vandoorne,Belgian,2,2017-abu-dhabi,Abu Dhabi Grand Prix,13,1:38.777,1:38.808,,20,2017
+Haas F1 Team,haas,American,MAG,kevin_magnussen,Kevin Magnussen,Danish,20,2017-abu-dhabi,Abu Dhabi Grand Prix,14,1:39.395,1:39.298,,20,2017
+Williams,williams,British,STR,stroll,Lance Stroll,Canadian,18,2017-abu-dhabi,Abu Dhabi Grand Prix,15,1:39.503,1:39.646,,20,2017
+Haas F1 Team,haas,American,GRO,grosjean,Romain Grosjean,French,8,2017-abu-dhabi,Abu Dhabi Grand Prix,16,1:39.516,,,20,2017
+Toro Rosso,toro_rosso,Italian,GAS,gasly,Pierre Gasly,French,10,2017-abu-dhabi,Abu Dhabi Grand Prix,17,1:39.724,,,20,2017
+Sauber,sauber,Swiss,WEH,wehrlein,Pascal Wehrlein,German,94,2017-abu-dhabi,Abu Dhabi Grand Prix,18,1:39.930,,,20,2017
+Sauber,sauber,Swiss,ERI,ericsson,Marcus Ericsson,Swedish,9,2017-abu-dhabi,Abu Dhabi Grand Prix,19,1:39.994,,,20,2017
+Toro Rosso,toro_rosso,Italian,HAR,brendon_hartley,Brendon Hartley,New Zealander,28,2017-abu-dhabi,Abu Dhabi Grand Prix,20,1:40.471,,,20,2017

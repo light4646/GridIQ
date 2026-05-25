@@ -1,0 +1,40 @@
+{
+  "year": 2026,
+  "generated_at": "2026-05-25T19:01:29.003616+00:00",
+  "through_date": "2026-05-24",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 5,
+  "race_results": 110,
+  "qualifying_results": 107,
+  "drivers": 22,
+  "constructors": 11,
+  "driver_champion": {
+    "year": 2026,
+    "position": 1,
+    "position_text": "1",
+    "points": 131.0,
+    "wins": 4,
+    "driver_id": "antonelli",
+    "driver_code": "ANT",
+    "driver_number": "12",
+    "driver_name": "Andrea Kimi Antonelli",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  "constructor_champion": {
+    "year": 2026,
+    "position": 1,
+    "position_text": "1",
+    "points": 219.0,
+    "wins": 5,
+    "constructor_id": "mercedes",
+    "constructor": "Mercedes",
+    "constructor_nationality": "German",
+    "constructor_url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One"
+  }
+}

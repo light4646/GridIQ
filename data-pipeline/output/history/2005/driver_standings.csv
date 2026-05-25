@@ -1,0 +1,28 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""renault""]","[""Renault""]",ALO,alonso,Fernando Alonso,Spanish,14,133.0,1,1,7,2005
+"[""mclaren""]","[""McLaren""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,112.0,2,2,7,2005
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,62.0,3,3,1,2005
+"[""mclaren""]","[""McLaren""]",MON,montoya,Juan Pablo Montoya,Colombian,,60.0,4,4,3,2005
+"[""renault""]","[""Renault""]",FIS,fisichella,Giancarlo Fisichella,Italian,,58.0,5,5,1,2005
+"[""toyota""]","[""Toyota""]",SCH,ralf_schumacher,Ralf Schumacher,German,,45.0,6,6,0,2005
+"[""toyota""]","[""Toyota""]",TRU,trulli,Jarno Trulli,Italian,,43.0,7,7,0,2005
+"[""ferrari""]","[""Ferrari""]",BAR,barrichello,Rubens Barrichello,Brazilian,,38.0,8,8,0,2005
+"[""bar""]","[""BAR""]",BUT,button,Jenson Button,British,22,37.0,9,9,0,2005
+"[""williams""]","[""Williams""]",WEB,webber,Mark Webber,Australian,,36.0,10,10,0,2005
+"[""williams""]","[""Williams""]",HEI,heidfeld,Nick Heidfeld,German,,28.0,11,11,0,2005
+"[""red_bull""]","[""Red Bull""]",COU,coulthard,David Coulthard,British,,24.0,12,12,0,2005
+"[""sauber""]","[""Sauber""]",MAS,massa,Felipe Massa,Brazilian,19,11.0,13,13,0,2005
+"[""sauber""]","[""Sauber""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,9.0,14,14,0,2005
+"[""red_bull""]","[""Red Bull""]",KLI,klien,Christian Klien,Austrian,,9.0,15,15,0,2005
+"[""jordan""]","[""Jordan""]",TMO,monteiro,Tiago Monteiro,Portuguese,,7.0,16,16,0,2005
+"[""mclaren""]","[""McLaren""]",WUR,wurz,Alexander Wurz,Austrian,,6.0,17,17,0,2005
+"[""jordan""]","[""Jordan""]",KAR,karthikeyan,Narain Karthikeyan,Indian,,5.0,18,18,0,2005
+"[""minardi""]","[""Minardi""]",ALB,albers,Christijan Albers,Dutch,,4.0,19,19,0,2005
+"[""mclaren""]","[""McLaren""]",DLR,rosa,Pedro de la Rosa,Spanish,,4.0,20,20,0,2005
+"[""minardi""]","[""Minardi""]",FRI,friesacher,Patrick Friesacher,Austrian,,3.0,21,21,0,2005
+"[""williams""]","[""Williams""]",PIZ,pizzonia,Antônio Pizzonia,Brazilian,,2.0,22,22,0,2005
+"[""bar""]","[""BAR""]",SAT,sato,Takuma Sato,Japanese,,1.0,23,23,0,2005
+"[""red_bull""]","[""Red Bull""]",LIU,liuzzi,Vitantonio Liuzzi,Italian,,1.0,24,24,0,2005
+"[""minardi""]","[""Minardi""]",DOO,doornbos,Robert Doornbos,Dutch,,0.0,25,25,0,2005
+"[""toyota""]","[""Toyota""]",ZON,zonta,Ricardo Zonta,Brazilian,,0.0,,-,0,2005
+"[""bar""]","[""BAR""]",DAV,davidson,Anthony Davidson,British,,0.0,,-,0,2005

@@ -1,0 +1,398 @@
+[
+  {
+    "year": 2008,
+    "position": 1,
+    "position_text": "1",
+    "points": 98.0,
+    "wins": 5,
+    "driver_id": "hamilton",
+    "driver_code": "HAM",
+    "driver_number": "44",
+    "driver_name": "Lewis Hamilton",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 2,
+    "position_text": "2",
+    "points": 97.0,
+    "wins": 6,
+    "driver_id": "massa",
+    "driver_code": "MAS",
+    "driver_number": "19",
+    "driver_name": "Felipe Massa",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 3,
+    "position_text": "3",
+    "points": 75.0,
+    "wins": 2,
+    "driver_id": "raikkonen",
+    "driver_code": "RAI",
+    "driver_number": "7",
+    "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 4,
+    "position_text": "4",
+    "points": 75.0,
+    "wins": 1,
+    "driver_id": "kubica",
+    "driver_code": "KUB",
+    "driver_number": "88",
+    "driver_name": "Robert Kubica",
+    "driver_nationality": "Polish",
+    "constructors": [
+      "BMW Sauber"
+    ],
+    "constructor_ids": [
+      "bmw_sauber"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 5,
+    "position_text": "5",
+    "points": 61.0,
+    "wins": 2,
+    "driver_id": "alonso",
+    "driver_code": "ALO",
+    "driver_number": "14",
+    "driver_name": "Fernando Alonso",
+    "driver_nationality": "Spanish",
+    "constructors": [
+      "Renault"
+    ],
+    "constructor_ids": [
+      "renault"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 6,
+    "position_text": "6",
+    "points": 60.0,
+    "wins": 0,
+    "driver_id": "heidfeld",
+    "driver_code": "HEI",
+    "driver_number": null,
+    "driver_name": "Nick Heidfeld",
+    "driver_nationality": "German",
+    "constructors": [
+      "BMW Sauber"
+    ],
+    "constructor_ids": [
+      "bmw_sauber"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 7,
+    "position_text": "7",
+    "points": 53.0,
+    "wins": 1,
+    "driver_id": "kovalainen",
+    "driver_code": "KOV",
+    "driver_number": null,
+    "driver_name": "Heikki Kovalainen",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 8,
+    "position_text": "8",
+    "points": 35.0,
+    "wins": 1,
+    "driver_id": "vettel",
+    "driver_code": "VET",
+    "driver_number": "5",
+    "driver_name": "Sebastian Vettel",
+    "driver_nationality": "German",
+    "constructors": [
+      "Toro Rosso"
+    ],
+    "constructor_ids": [
+      "toro_rosso"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 9,
+    "position_text": "9",
+    "points": 31.0,
+    "wins": 0,
+    "driver_id": "trulli",
+    "driver_code": "TRU",
+    "driver_number": null,
+    "driver_name": "Jarno Trulli",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Toyota"
+    ],
+    "constructor_ids": [
+      "toyota"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 10,
+    "position_text": "10",
+    "points": 25.0,
+    "wins": 0,
+    "driver_id": "glock",
+    "driver_code": "GLO",
+    "driver_number": null,
+    "driver_name": "Timo Glock",
+    "driver_nationality": "German",
+    "constructors": [
+      "Toyota"
+    ],
+    "constructor_ids": [
+      "toyota"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 11,
+    "position_text": "11",
+    "points": 21.0,
+    "wins": 0,
+    "driver_id": "webber",
+    "driver_code": "WEB",
+    "driver_number": null,
+    "driver_name": "Mark Webber",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "red_bull"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 12,
+    "position_text": "12",
+    "points": 19.0,
+    "wins": 0,
+    "driver_id": "piquet_jr",
+    "driver_code": "PIQ",
+    "driver_number": null,
+    "driver_name": "Nelson Piquet Jr.",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Renault"
+    ],
+    "constructor_ids": [
+      "renault"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 13,
+    "position_text": "13",
+    "points": 17.0,
+    "wins": 0,
+    "driver_id": "rosberg",
+    "driver_code": "ROS",
+    "driver_number": "6",
+    "driver_name": "Nico Rosberg",
+    "driver_nationality": "German",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 14,
+    "position_text": "14",
+    "points": 11.0,
+    "wins": 0,
+    "driver_id": "barrichello",
+    "driver_code": "BAR",
+    "driver_number": null,
+    "driver_name": "Rubens Barrichello",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Honda"
+    ],
+    "constructor_ids": [
+      "honda"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 15,
+    "position_text": "15",
+    "points": 9.0,
+    "wins": 0,
+    "driver_id": "nakajima",
+    "driver_code": "NAK",
+    "driver_number": null,
+    "driver_name": "Kazuki Nakajima",
+    "driver_nationality": "Japanese",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 16,
+    "position_text": "16",
+    "points": 8.0,
+    "wins": 0,
+    "driver_id": "coulthard",
+    "driver_code": "COU",
+    "driver_number": null,
+    "driver_name": "David Coulthard",
+    "driver_nationality": "British",
+    "constructors": [
+      "Red Bull"
+    ],
+    "constructor_ids": [
+      "red_bull"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 17,
+    "position_text": "17",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "bourdais",
+    "driver_code": "BOU",
+    "driver_number": null,
+    "driver_name": "S\u00e9bastien Bourdais",
+    "driver_nationality": "French",
+    "constructors": [
+      "Toro Rosso"
+    ],
+    "constructor_ids": [
+      "toro_rosso"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 18,
+    "position_text": "18",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "button",
+    "driver_code": "BUT",
+    "driver_number": "22",
+    "driver_name": "Jenson Button",
+    "driver_nationality": "British",
+    "constructors": [
+      "Honda"
+    ],
+    "constructor_ids": [
+      "honda"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 19,
+    "position_text": "19",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "fisichella",
+    "driver_code": "FIS",
+    "driver_number": null,
+    "driver_name": "Giancarlo Fisichella",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Force India"
+    ],
+    "constructor_ids": [
+      "force_india"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 20,
+    "position_text": "20",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "sutil",
+    "driver_code": "SUT",
+    "driver_number": "99",
+    "driver_name": "Adrian Sutil",
+    "driver_nationality": "German",
+    "constructors": [
+      "Force India"
+    ],
+    "constructor_ids": [
+      "force_india"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 21,
+    "position_text": "21",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "sato",
+    "driver_code": "SAT",
+    "driver_number": null,
+    "driver_name": "Takuma Sato",
+    "driver_nationality": "Japanese",
+    "constructors": [
+      "Super Aguri"
+    ],
+    "constructor_ids": [
+      "super_aguri"
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 22,
+    "position_text": "22",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "davidson",
+    "driver_code": "DAV",
+    "driver_number": null,
+    "driver_name": "Anthony Davidson",
+    "driver_nationality": "British",
+    "constructors": [
+      "Super Aguri"
+    ],
+    "constructor_ids": [
+      "super_aguri"
+    ]
+  }
+]

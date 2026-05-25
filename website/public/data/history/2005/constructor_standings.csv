@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,191.0,1,1,8,2005
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,182.0,2,2,10,2005
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,100.0,3,3,1,2005
+Toyota,toyota,Japanese,https://en.wikipedia.org/wiki/Toyota_Racing,88.0,4,4,0,2005
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,66.0,5,5,0,2005
+BAR,bar,British,https://en.wikipedia.org/wiki/British_American_Racing,38.0,6,6,0,2005
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,34.0,7,7,0,2005
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,20.0,8,8,0,2005
+Jordan,jordan,Irish,https://en.wikipedia.org/wiki/Jordan_Grand_Prix,12.0,9,9,0,2005
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,7.0,10,10,0,2005

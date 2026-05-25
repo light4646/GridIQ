@@ -1,0 +1,375 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-melbourne,Australian Grand Prix,223.978,kph,41,1,1:25.235,1,58,5128770,10.0,1,1,1,Finished,1:25:28.770,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-melbourne,Australian Grand Prix,221.178,kph,20,2,1:26.314,2,58,5136012,8.0,2,2,1,Finished,+7.242,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-melbourne,Australian Grand Prix,221.083,kph,20,3,1:26.351,4,58,5147365,6.0,3,3,1,Finished,+18.595,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-melbourne,Australian Grand Prix,220.137,kph,37,6,1:26.722,3,58,5167533,5.0,4,4,1,Finished,+38.763,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-melbourne,Australian Grand Prix,219.707,kph,18,7,1:26.892,6,58,5195239,4.0,5,5,1,Finished,+1:06.469,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-melbourne,Australian Grand Prix,219.323,kph,28,8,1:27.044,22,58,5195575,3.0,6,6,1,Finished,+1:06.805,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-melbourne,Australian Grand Prix,220.14,kph,40,5,1:26.721,12,57,,2.0,7,7,1,+1 Lap,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-melbourne,Australian Grand Prix,217.444,kph,42,12,1:27.796,9,57,,1.0,8,8,1,+1 Lap,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-melbourne,Australian Grand Prix,216.857,kph,45,13,1:28.034,8,57,,0.0,9,9,1,+1 Lap,,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-melbourne,Australian Grand Prix,217.951,kph,44,10,1:27.592,13,57,,0.0,10,10,1,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-melbourne,Australian Grand Prix,216.699,kph,17,14,1:28.098,16,57,,0.0,11,11,1,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-melbourne,Australian Grand Prix,215.746,kph,20,18,1:28.487,10,57,,0.0,12,12,1,+1 Lap,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-melbourne,Australian Grand Prix,218.178,kph,21,9,1:27.501,7,57,,0.0,13,13,1,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-melbourne,Australian Grand Prix,216.247,kph,44,15,1:28.282,19,57,,0.0,14,14,1,+1 Lap,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-melbourne,Australian Grand Prix,215.991,kph,42,17,1:28.387,14,57,,0.0,15,15,1,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-melbourne,Australian Grand Prix,215.742,kph,41,19,1:28.489,11,56,,0.0,16,16,1,+2 Laps,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-melbourne,Australian Grand Prix,215.26,kph,40,20,1:28.687,20,56,,0.0,17,17,1,+2 Laps,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-melbourne,Australian Grand Prix,216.196,kph,24,16,1:28.303,15,48,,0.0,18,R,1,Collision,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-melbourne,Australian Grand Prix,217.668,kph,44,11,1:27.706,18,48,,0.0,19,R,1,Collision,,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-melbourne,Australian Grand Prix,220.341,kph,19,4,1:26.642,5,36,,0.0,20,R,1,Gearbox,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-melbourne,Australian Grand Prix,214.616,kph,22,21,1:28.953,17,28,,0.0,21,R,1,Puncture,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-melbourne,Australian Grand Prix,210.022,kph,9,22,1:30.899,21,10,,0.0,22,R,1,Accident,,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-kuala-lumpur,Malaysian Grand Prix,206.014,kph,42,2,1:36.861,2,56,5534930,10.0,1,1,2,Finished,1:32:14.930,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-kuala-lumpur,Malaysian Grand Prix,206.355,kph,22,1,1:36.701,4,56,5552487,8.0,2,2,2,Finished,+17.557,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-kuala-lumpur,Malaysian Grand Prix,205.237,kph,40,4,1:37.228,3,56,5553269,6.0,3,3,2,Finished,+18.339,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-kuala-lumpur,Malaysian Grand Prix,204.838,kph,55,5,1:37.417,5,56,5568707,5.0,4,4,2,Finished,+33.777,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-kuala-lumpur,Malaysian Grand Prix,205.298,kph,42,3,1:37.199,1,56,5571635,4.0,5,5,2,Finished,+36.705,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-kuala-lumpur,Malaysian Grand Prix,203.872,kph,44,9,1:37.879,12,56,5600568,3.0,6,6,2,Finished,+1:05.638,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-kuala-lumpur,Malaysian Grand Prix,203.587,kph,40,10,1:38.016,8,56,5605062,2.0,7,7,2,Finished,+1:10.132,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-kuala-lumpur,Malaysian Grand Prix,204.015,kph,41,7,1:37.810,11,56,5606945,1.0,8,8,2,Finished,+1:12.015,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-kuala-lumpur,Malaysian Grand Prix,203.903,kph,19,8,1:37.864,19,56,5624854,0.0,9,9,2,Finished,+1:29.924,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-kuala-lumpur,Malaysian Grand Prix,202.504,kph,55,14,1:38.540,10,56,5628486,0.0,10,10,2,Finished,+1:33.556,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-kuala-lumpur,Malaysian Grand Prix,202.451,kph,32,15,1:38.566,22,55,,0.0,11,11,2,+1 Lap,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-kuala-lumpur,Malaysian Grand Prix,202.262,kph,54,16,1:38.658,15,55,,0.0,12,12,2,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-kuala-lumpur,Malaysian Grand Prix,202.595,kph,37,13,1:38.496,14,55,,0.0,13,13,2,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-kuala-lumpur,Malaysian Grand Prix,201.364,kph,54,18,1:39.098,17,55,,0.0,14,14,2,+1 Lap,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-kuala-lumpur,Malaysian Grand Prix,201.07,kph,52,19,1:39.243,9,55,,0.0,15,15,2,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-kuala-lumpur,Malaysian Grand Prix,200.417,kph,32,20,1:39.566,18,55,,0.0,16,16,2,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-kuala-lumpur,Malaysian Grand Prix,202.695,kph,21,12,1:38.447,16,55,,0.0,17,17,2,+1 Lap,,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-kuala-lumpur,Malaysian Grand Prix,201.82,kph,53,17,1:38.874,7,55,,0.0,18,18,2,+1 Lap,,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-kuala-lumpur,Malaysian Grand Prix,204.237,kph,18,6,1:37.704,6,42,,0.0,19,R,2,Hydraulics,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-kuala-lumpur,Malaysian Grand Prix,203.416,kph,28,11,1:38.098,13,36,,0.0,20,R,2,Brakes,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-kuala-lumpur,Malaysian Grand Prix,196.608,kph,5,21,1:41.495,20,7,,0.0,21,R,2,Engine,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-kuala-lumpur,Malaysian Grand Prix,,,,,,21,0,,0.0,22,R,2,Collision,,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-sakhir,Bahrain Grand Prix,207.12,kph,42,1,1:34.067,1,57,5607515,10.0,1,1,3,Finished,1:33:27.515,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-sakhir,Bahrain Grand Prix,206.674,kph,18,2,1:34.270,2,57,5609875,8.0,2,2,3,Finished,+2.360,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-sakhir,Bahrain Grand Prix,206.483,kph,39,3,1:34.357,3,57,5618354,6.0,3,3,3,Finished,+10.839,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-sakhir,Bahrain Grand Prix,206.236,kph,38,5,1:34.470,5,57,5621346,5.0,4,4,3,Finished,+13.831,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-sakhir,Bahrain Grand Prix,206.346,kph,46,4,1:34.420,4,57,5621941,4.0,5,5,3,Finished,+14.426,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-sakhir,Bahrain Grand Prix,205.477,kph,46,6,1:34.819,6,57,5653044,3.0,6,6,3,Finished,+45.529,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-sakhir,Bahrain Grand Prix,204.756,kph,40,7,1:35.153,9,57,5688886,2.0,7,7,3,Finished,+1:21.371,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-sakhir,Bahrain Grand Prix,204.655,kph,51,8,1:35.200,7,57,5689216,1.0,8,8,3,Finished,+1:21.701,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-sakhir,Bahrain Grand Prix,204.065,kph,27,10,1:35.475,12,57,5696926,0.0,9,9,3,Finished,+1:29.411,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-sakhir,Bahrain Grand Prix,203.893,kph,51,11,1:35.556,10,57,5697431,0.0,10,10,3,Finished,+1:29.916,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-sakhir,Bahrain Grand Prix,202.966,kph,27,16,1:35.992,11,56,,0.0,11,11,3,+1 Lap,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-sakhir,Bahrain Grand Prix,203.278,kph,37,15,1:35.845,14,56,,0.0,12,12,3,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-sakhir,Bahrain Grand Prix,203.284,kph,50,14,1:35.842,15,56,,0.0,13,13,3,+1 Lap,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-sakhir,Bahrain Grand Prix,200.477,kph,40,20,1:37.184,22,55,,0.0,14,14,3,+2 Laps,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-sakhir,Bahrain Grand Prix,201.33,kph,45,19,1:36.772,20,53,,0.0,15,15,3,+4 Laps,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-sakhir,Bahrain Grand Prix,202.715,kph,27,17,1:36.111,13,51,,0.0,16,16,3,Engine,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-sakhir,Bahrain Grand Prix,203.575,kph,37,12,1:35.705,8,41,,0.0,17,R,3,Gearbox,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-sakhir,Bahrain Grand Prix,204.26,kph,34,9,1:35.384,21,36,,0.0,18,R,3,Driveshaft,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-sakhir,Bahrain Grand Prix,202.193,kph,23,18,1:36.359,17,34,,0.0,19,R,3,Engine,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-sakhir,Bahrain Grand Prix,203.537,kph,23,13,1:35.723,18,26,,0.0,20,R,3,Hydraulics,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-sakhir,Bahrain Grand Prix,,,,,,16,0,,0.0,21,R,3,Collision,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-sakhir,Bahrain Grand Prix,,,,,,19,0,,0.0,22,R,3,Collision,,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-barcelona,Spanish Grand Prix,202.685,kph,14,1,1:22.680,1,65,5496230,10.0,1,1,4,Finished,1:31:36.230,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-barcelona,Spanish Grand Prix,202.205,kph,20,2,1:22.876,4,65,5503020,8.0,2,2,4,Finished,+6.790,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-barcelona,Spanish Grand Prix,201.986,kph,17,3,1:22.966,2,65,5513686,6.0,3,3,4,Finished,+17.456,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-barcelona,Spanish Grand Prix,201.59,kph,20,5,1:23.129,5,65,5527845,5.0,4,4,4,Finished,+31.615,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-barcelona,Spanish Grand Prix,200.636,kph,18,8,1:23.524,9,65,5554561,4.0,5,5,4,Finished,+58.331,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-barcelona,Spanish Grand Prix,200.231,kph,60,10,1:23.693,11,65,5555768,3.0,6,6,4,Finished,+59.538,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-barcelona,Spanish Grand Prix,201.952,kph,32,4,1:22.980,8,65,5558358,2.0,7,7,4,Finished,+1:02.128,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-barcelona,Spanish Grand Prix,199.239,kph,23,12,1:24.110,13,64,,1.0,8,8,4,+1 Lap,,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-barcelona,Spanish Grand Prix,200.55,kph,57,9,1:23.560,10,64,,0.0,9,9,4,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-barcelona,Spanish Grand Prix,198.82,kph,16,14,1:24.287,12,64,,0.0,10,10,4,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-barcelona,Spanish Grand Prix,198.811,kph,59,15,1:24.291,15,64,,0.0,11,11,4,+1 Lap,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-barcelona,Spanish Grand Prix,199.059,kph,64,13,1:24.186,14,64,,0.0,12,12,4,+1 Lap,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-barcelona,Spanish Grand Prix,196.71,kph,57,16,1:25.191,20,63,,0.0,13,13,4,+2 Laps,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-barcelona,Spanish Grand Prix,196.551,kph,61,18,1:25.260,21,63,,0.0,14,14,4,+2 Laps,,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-barcelona,Spanish Grand Prix,200.735,kph,22,7,1:23.483,7,46,,0.0,15,R,4,Gearbox,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-barcelona,Spanish Grand Prix,199.492,kph,37,11,1:24.003,17,44,,0.0,16,R,4,Suspension,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-barcelona,Spanish Grand Prix,196.673,kph,18,17,1:25.207,16,19,,0.0,17,R,4,Retired,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-barcelona,Spanish Grand Prix,194.322,kph,6,20,1:26.238,22,9,,0.0,18,R,4,Tyre,,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-barcelona,Spanish Grand Prix,200.754,kph,7,6,1:23.475,3,9,,0.0,19,R,4,Suspension,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-barcelona,Spanish Grand Prix,194.647,kph,6,19,1:26.094,6,8,,0.0,20,R,4,Fuel pressure,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-barcelona,Spanish Grand Prix,194.131,kph,4,21,1:26.323,19,7,,0.0,21,R,4,Hydraulics,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-barcelona,Spanish Grand Prix,,,,,,18,1,,0.0,22,R,4,Collision,,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-monte-carlo,Monaco Grand Prix,159.715,kph,44,1,1:15.284,1,78,6029329,10.0,1,1,5,Finished,1:40:29.329,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-monte-carlo,Monaco Grand Prix,159.528,kph,28,2,1:15.372,2,78,6033424,8.0,2,2,5,Finished,+4.095,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-monte-carlo,Monaco Grand Prix,157.83,kph,47,4,1:16.183,3,78,6098443,6.0,3,3,5,Finished,+1:09.114,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-monte-carlo,Monaco Grand Prix,157.683,kph,54,5,1:16.254,4,77,,5.0,4,4,5,+1 Lap,,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-monte-carlo,Monaco Grand Prix,158.198,kph,39,3,1:16.006,8,77,,4.0,5,5,5,+1 Lap,,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-monte-carlo,Monaco Grand Prix,156.072,kph,30,12,1:17.041,7,77,,3.0,6,6,5,+1 Lap,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-monte-carlo,Monaco Grand Prix,156.852,kph,40,7,1:16.658,11,77,,2.0,7,7,5,+1 Lap,,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-monte-carlo,Monaco Grand Prix,156.987,kph,62,6,1:16.592,16,77,,1.0,8,8,5,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-monte-carlo,Monaco Grand Prix,156.426,kph,73,10,1:16.867,18,77,,0.0,9,9,5,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-monte-carlo,Monaco Grand Prix,155.993,kph,69,13,1:17.080,9,77,,0.0,10,10,5,+1 Lap,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-monte-carlo,Monaco Grand Prix,156.558,kph,40,9,1:16.802,10,77,,0.0,11,11,5,+1 Lap,,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-monte-carlo,Monaco Grand Prix,156.174,kph,70,11,1:16.991,5,77,,0.0,12,12,5,+1 Lap,,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-monte-carlo,Monaco Grand Prix,155.953,kph,72,14,1:17.100,15,76,,0.0,13,13,5,Engine,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-monte-carlo,Monaco Grand Prix,156.591,kph,75,8,1:16.786,13,76,,0.0,14,14,5,+2 Laps,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-monte-carlo,Monaco Grand Prix,155.158,kph,53,18,1:17.495,14,76,,0.0,15,15,5,+2 Laps,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-monte-carlo,Monaco Grand Prix,155.688,kph,47,17,1:17.231,20,76,,0.0,16,16,5,+2 Laps,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-monte-carlo,Monaco Grand Prix,155.785,kph,74,15,1:17.183,21,76,,0.0,17,17,5,+2 Laps,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-monte-carlo,Monaco Grand Prix,155.704,kph,63,16,1:17.223,17,76,,0.0,18,18,5,+2 Laps,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-monte-carlo,Monaco Grand Prix,154.77,kph,70,20,1:17.689,22,70,,0.0,19,19,5,Driveshaft,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-monte-carlo,Monaco Grand Prix,154.792,kph,34,19,1:17.678,19,53,,0.0,20,R,5,Accident,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-monte-carlo,Monaco Grand Prix,152.206,kph,17,21,1:18.998,6,17,,0.0,21,R,5,Gearbox,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-monte-carlo,Monaco Grand Prix,,,,,,12,2,,0.0,22,R,5,Accident,,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-montreal,Canadian Grand Prix,205.239,kph,37,2,1:16.494,1,70,6251292,10.0,1,1,6,Finished,1:44:11.292,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-montreal,Canadian Grand Prix,204.699,kph,19,3,1:16.696,3,70,6255635,8.0,2,2,6,Finished,+4.343,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-montreal,Canadian Grand Prix,201.413,kph,67,11,1:17.947,19,70,6256617,6.0,3,3,6,Finished,+5.325,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-montreal,Canadian Grand Prix,200.331,kph,67,13,1:18.368,22,70,6258021,5.0,4,4,6,Finished,+6.729,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-montreal,Canadian Grand Prix,204.259,kph,21,5,1:16.861,4,70,6264299,4.0,5,5,6,Finished,+13.007,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-montreal,Canadian Grand Prix,201.186,kph,47,12,1:18.035,11,70,6267990,3.0,6,6,6,Finished,+16.698,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-montreal,Canadian Grand Prix,205.58,kph,46,1,1:16.367,2,70,6273228,2.0,7,7,6,Finished,+21.936,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-montreal,Canadian Grand Prix,201.509,kph,38,10,1:17.910,18,70,6274180,1.0,8,8,6,Finished,+22.888,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-montreal,Canadian Grand Prix,202.267,kph,47,9,1:17.618,6,70,6274252,0.0,9,9,6,Finished,+22.960,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-montreal,Canadian Grand Prix,203.478,kph,42,6,1:17.156,7,70,6275276,0.0,10,10,6,Finished,+23.984,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-montreal,Canadian Grand Prix,199.284,kph,36,15,1:18.780,17,70,6275610,0.0,11,11,6,Finished,+24.318,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-montreal,Canadian Grand Prix,199.885,kph,62,14,1:18.543,13,70,6281731,0.0,12,12,6,Finished,+30.439,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-montreal,Canadian Grand Prix,198.497,kph,12,17,1:19.092,10,58,,0.0,13,R,6,Accident,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-montreal,Canadian Grand Prix,197.79,kph,9,19,1:19.375,12,54,,0.0,14,R,6,Accident,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-montreal,Canadian Grand Prix,198.092,kph,21,18,1:19.254,21,47,,0.0,15,R,6,Front wing,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-montreal,Canadian Grand Prix,198.776,kph,19,16,1:18.981,14,36,,0.0,16,R,6,Gearbox,,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-montreal,Canadian Grand Prix,202.499,kph,19,8,1:17.529,8,26,,0.0,17,R,6,Accident,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-montreal,Canadian Grand Prix,197.598,kph,20,20,1:19.452,20,21,,0.0,18,R,6,Accident,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-montreal,Canadian Grand Prix,196.019,kph,6,21,1:20.092,16,8,,0.0,19,R,6,Accident,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-montreal,Canadian Grand Prix,,,,,,15,0,,0.0,20,R,6,Gearbox,,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-montreal,Canadian Grand Prix,204.291,kph,22,4,1:16.849,5,51,,0.0,21,D,6,Disqualified,,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-montreal,Canadian Grand Prix,202.808,kph,22,7,1:17.411,9,51,,0.0,22,D,6,Disqualified,,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-indianapolis,United States Grand Prix,206.101,kph,20,2,1:13.222,1,73,5469965,10.0,1,1,7,Finished,1:31:09.965,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-indianapolis,United States Grand Prix,206.003,kph,21,3,1:13.257,2,73,5471465,8.0,2,2,7,Finished,+1.500,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-indianapolis,United States Grand Prix,205.658,kph,50,4,1:13.380,3,73,5482765,6.0,3,3,7,Finished,+12.800,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-indianapolis,United States Grand Prix,206.397,kph,49,1,1:13.117,4,73,5485365,5.0,4,4,7,Finished,+15.400,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-indianapolis,United States Grand Prix,203.94,kph,67,7,1:13.998,6,73,5511365,4.0,5,5,7,Finished,+41.400,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-indianapolis,United States Grand Prix,203.891,kph,30,10,1:14.016,8,73,5536665,3.0,6,6,7,Finished,+1:06.700,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-indianapolis,United States Grand Prix,203.924,kph,57,8,1:14.004,9,73,5537265,2.0,7,7,7,Finished,+1:07.300,2007
+BMW Sauber,bmw_sauber,German,VET,vettel,Sebastian Vettel,German,5,2007-indianapolis,United States Grand Prix,204.316,kph,53,6,1:13.862,7,73,5537665,1.0,8,8,7,Finished,+1:07.700,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-indianapolis,United States Grand Prix,203.91,kph,67,9,1:14.009,10,72,,0.0,9,9,7,+1 Lap,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-indianapolis,United States Grand Prix,202.604,kph,41,13,1:14.486,17,72,,0.0,10,10,7,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-indianapolis,United States Grand Prix,203.753,kph,55,12,1:14.066,16,72,,0.0,11,11,7,+1 Lap,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-indianapolis,United States Grand Prix,202.015,kph,42,14,1:14.703,13,72,,0.0,12,12,7,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-indianapolis,United States Grand Prix,200.969,kph,66,16,1:15.092,20,71,,0.0,13,13,7,+2 Laps,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-indianapolis,United States Grand Prix,201.597,kph,49,15,1:14.858,21,71,,0.0,14,14,7,+2 Laps,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-indianapolis,United States Grand Prix,198.824,kph,65,18,1:15.902,22,70,,0.0,15,15,7,+3 Laps,,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-indianapolis,United States Grand Prix,203.753,kph,34,11,1:14.066,14,68,,0.0,16,16,7,Engine,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-indianapolis,United States Grand Prix,200.079,kph,64,17,1:15.426,19,68,,0.0,17,17,7,Water pressure,,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-indianapolis,United States Grand Prix,205.562,kph,20,5,1:13.414,5,56,,0.0,18,R,7,Transmission,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-indianapolis,United States Grand Prix,196.807,kph,8,19,1:16.680,18,13,,0.0,19,R,7,Spun off,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-indianapolis,United States Grand Prix,,,,,,11,0,,0.0,20,R,7,Collision,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-indianapolis,United States Grand Prix,,,,,,15,0,,0.0,21,R,7,Collision,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-indianapolis,United States Grand Prix,,,,,,12,0,,0.0,22,R,7,Collision,,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-magny-cours,French Grand Prix,208.374,kph,20,2,1:16.207,3,70,5454200,10.0,1,1,8,Finished,1:30:54.200,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-magny-cours,French Grand Prix,208.67,kph,42,1,1:16.099,1,70,5456614,8.0,2,2,8,Finished,+2.414,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-magny-cours,French Grand Prix,207.34,kph,39,4,1:16.587,2,70,5486353,6.0,3,3,8,Finished,+32.153,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-magny-cours,French Grand Prix,205.819,kph,44,10,1:17.153,4,70,5495927,5.0,4,4,8,Finished,+41.727,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-magny-cours,French Grand Prix,206.563,kph,70,7,1:16.875,7,70,5503001,4.0,5,5,8,Finished,+48.801,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-magny-cours,French Grand Prix,207.027,kph,70,5,1:16.703,5,70,5506140,3.0,6,6,8,Finished,+51.940,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-magny-cours,French Grand Prix,207.59,kph,36,3,1:16.495,10,70,5510716,2.0,7,7,8,Finished,+56.516,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-magny-cours,French Grand Prix,206.846,kph,70,6,1:16.770,12,70,5513085,1.0,8,8,8,Finished,+58.885,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-magny-cours,French Grand Prix,206.199,kph,69,9,1:17.011,9,70,5522705,0.0,9,9,8,Finished,+1:08.505,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-magny-cours,French Grand Prix,206.319,kph,68,8,1:16.966,11,69,,0.0,10,10,8,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-magny-cours,French Grand Prix,205.641,kph,68,12,1:17.220,13,69,,0.0,11,11,8,+1 Lap,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-magny-cours,French Grand Prix,205.563,kph,69,14,1:17.249,14,69,,0.0,12,12,8,+1 Lap,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-magny-cours,French Grand Prix,205.038,kph,68,15,1:17.447,16,69,,0.0,13,13,8,+1 Lap,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-magny-cours,French Grand Prix,205.587,kph,69,13,1:17.240,18,69,,0.0,14,14,8,+1 Lap,,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-magny-cours,French Grand Prix,205.678,kph,69,11,1:17.206,6,69,,0.0,15,15,8,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-magny-cours,French Grand Prix,204.118,kph,39,16,1:17.796,22,68,,0.0,16,16,8,+2 Laps,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-magny-cours,French Grand Prix,203.347,kph,27,18,1:18.091,21,68,,0.0,17,17,8,+2 Laps,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-magny-cours,French Grand Prix,203.757,kph,51,17,1:17.934,15,55,,0.0,18,R,8,Gearbox,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-magny-cours,French Grand Prix,201.122,kph,27,19,1:18.955,20,28,,0.0,19,R,8,Refuelling,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-magny-cours,French Grand Prix,,,,,,19,1,,0.0,20,R,8,Collision,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-magny-cours,French Grand Prix,,,,,,8,1,,0.0,21,R,8,Collision,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-magny-cours,French Grand Prix,,,,,,17,0,,0.0,22,R,8,Collision,,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-silverstone,British Grand Prix,229.514,kph,17,1,1:20.638,2,59,4903074,10.0,1,1,9,Finished,1:21:43.074,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-silverstone,British Grand Prix,228.159,kph,35,3,1:21.117,3,59,4905533,8.0,2,2,9,Finished,+2.459,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-silverstone,British Grand Prix,226.6,kph,11,4,1:21.675,1,59,4942447,6.0,3,3,9,Finished,+39.373,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-silverstone,British Grand Prix,225.413,kph,14,6,1:22.105,5,59,4956393,5.0,4,4,9,Finished,+53.319,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-silverstone,British Grand Prix,228.89,kph,17,2,1:20.858,4,59,4957137,4.0,5,5,9,Finished,+54.063,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-silverstone,British Grand Prix,225.727,kph,17,5,1:21.991,9,59,4959410,3.0,6,6,9,Finished,+56.336,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-silverstone,British Grand Prix,224.193,kph,11,9,1:22.552,7,58,,2.0,7,7,9,+1 Lap,,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-silverstone,British Grand Prix,225.328,kph,13,7,1:22.136,8,58,,1.0,8,8,9,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-silverstone,British Grand Prix,221.948,kph,28,13,1:23.387,14,58,,0.0,9,9,9,+1 Lap,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-silverstone,British Grand Prix,221.433,kph,29,16,1:23.581,18,58,,0.0,10,10,9,+1 Lap,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-silverstone,British Grand Prix,222.666,kph,40,12,1:23.118,12,58,,0.0,11,11,9,+1 Lap,,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-silverstone,British Grand Prix,223.262,kph,49,11,1:22.896,17,58,,0.0,12,12,9,+1 Lap,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-silverstone,British Grand Prix,223.81,kph,57,10,1:22.693,13,58,,0.0,13,13,9,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-silverstone,British Grand Prix,221.879,kph,42,14,1:23.413,21,57,,0.0,14,14,9,+2 Laps,,2007
+Spyker,spyker,Dutch,ALB,albers,Christijan Albers,Dutch,21,2007-silverstone,British Grand Prix,219.31,kph,56,21,1:24.390,22,57,,0.0,15,15,9,+2 Laps,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-silverstone,British Grand Prix,221.308,kph,46,17,1:23.628,16,53,,0.0,16,16,9,Gearbox,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-silverstone,British Grand Prix,221.097,kph,17,18,1:23.708,10,43,,0.0,17,R,9,Retired,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-silverstone,British Grand Prix,219.951,kph,26,20,1:24.144,19,35,,0.0,18,R,9,Mechanical,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-silverstone,British Grand Prix,221.462,kph,19,15,1:23.570,15,29,,0.0,19,R,9,Accident,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-silverstone,British Grand Prix,224.307,kph,12,8,1:22.510,6,22,,0.0,20,R,9,Wheel,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-silverstone,British Grand Prix,217.698,kph,16,22,1:25.015,20,16,,0.0,21,R,9,Engine,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-silverstone,British Grand Prix,220.941,kph,6,19,1:23.767,11,8,,0.0,22,R,9,Hydraulics,,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-n-rburg,European Grand Prix,198.783,kph,35,2,1:33.231,2,60,7586358,10.0,1,1,10,Finished,2:06:26.358,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-n-rburg,European Grand Prix,199.592,kph,34,1,1:32.853,3,60,7594513,8.0,2,2,10,Finished,+8.155,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-n-rburg,European Grand Prix,196.22,kph,29,8,1:34.449,6,60,7652032,6.0,3,3,10,Finished,+1:05.674,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-n-rburg,European Grand Prix,196.665,kph,33,5,1:34.235,12,60,7652295,5.0,4,4,10,Finished,+1:05.937,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-n-rburg,European Grand Prix,196.496,kph,48,6,1:34.316,20,60,7660014,4.0,5,5,10,Finished,+1:13.656,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-n-rburg,European Grand Prix,196.417,kph,49,7,1:34.354,4,60,7666656,3.0,6,6,10,Finished,+1:20.298,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-n-rburg,European Grand Prix,196.216,kph,49,9,1:34.451,5,60,7668773,2.0,7,7,10,Finished,+1:22.415,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-n-rburg,European Grand Prix,195.9,kph,48,11,1:34.603,7,59,,1.0,8,8,10,+1 Lap,,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-n-rburg,European Grand Prix,198.421,kph,29,3,1:33.401,10,59,,0.0,9,9,10,+1 Lap,,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-n-rburg,European Grand Prix,195.302,kph,48,12,1:34.893,13,59,,0.0,10,10,10,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-n-rburg,European Grand Prix,193.792,kph,37,14,1:35.632,14,59,,0.0,11,11,10,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-n-rburg,European Grand Prix,194.504,kph,46,13,1:35.282,15,59,,0.0,12,12,10,+1 Lap,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-n-rburg,European Grand Prix,196.122,kph,29,10,1:34.496,8,59,,0.0,13,13,10,+1 Lap,,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-n-rburg,European Grand Prix,197.359,kph,32,4,1:33.904,1,34,,0.0,14,R,10,Hydraulics,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-n-rburg,European Grand Prix,190.273,kph,18,16,1:37.401,16,19,,0.0,15,R,10,Retired,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-n-rburg,European Grand Prix,192.658,kph,18,15,1:36.195,9,18,,0.0,16,R,10,Collision,,2007
+Spyker,spyker,Dutch,WIN,markus_winkelhock,Markus Winkelhock,German,21,2007-n-rburg,European Grand Prix,180.309,kph,13,17,1:42.783,22,13,,0.0,17,R,10,Hydraulics,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-n-rburg,European Grand Prix,132.338,kph,2,18,2:20.041,17,2,,0.0,18,R,10,Spun off,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-n-rburg,European Grand Prix,127.112,kph,2,19,2:25.798,21,2,,0.0,19,R,10,Spun off,,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-n-rburg,European Grand Prix,108.41,kph,2,20,2:50.950,11,2,,0.0,20,R,10,Spun off,,2007
+Toro Rosso,toro_rosso,Italian,SPE,speed,Scott Speed,American,19,2007-n-rburg,European Grand Prix,101.884,kph,2,21,3:01.900,18,2,,0.0,21,R,10,Spun off,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-n-rburg,European Grand Prix,91.61,kph,2,22,3:22.300,19,2,,0.0,22,R,10,Spun off,,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-budapest,Hungarian Grand Prix,196.724,kph,13,2,1:20.171,1,70,5752991,10.0,1,1,11,Finished,1:35:52.991,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-budapest,Hungarian Grand Prix,197.029,kph,70,1,1:20.047,3,70,5753706,8.0,2,2,11,Finished,+0.715,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-budapest,Hungarian Grand Prix,195.721,kph,16,5,1:20.582,2,70,5796120,6.0,3,3,11,Finished,+43.129,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-budapest,Hungarian Grand Prix,196.349,kph,49,3,1:20.324,6,70,5797849,5.0,4,4,11,Finished,+44.858,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-budapest,Hungarian Grand Prix,196.117,kph,40,4,1:20.419,7,70,5800607,4.0,5,5,11,Finished,+47.616,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-budapest,Hungarian Grand Prix,194.804,kph,69,9,1:20.961,5,70,5803660,3.0,6,6,11,Finished,+50.669,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-budapest,Hungarian Grand Prix,195.502,kph,68,6,1:20.672,4,70,5812130,2.0,7,7,11,Finished,+59.139,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-budapest,Hungarian Grand Prix,194.867,kph,69,8,1:20.935,11,70,5821095,1.0,8,8,11,Finished,+1:08.104,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-budapest,Hungarian Grand Prix,194.915,kph,63,7,1:20.915,9,70,5829322,0.0,9,9,11,Finished,+1:16.331,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-budapest,Hungarian Grand Prix,194.104,kph,48,12,1:21.253,8,69,,0.0,10,10,11,+1 Lap,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-budapest,Hungarian Grand Prix,193.39,kph,67,14,1:21.553,10,69,,0.0,11,11,11,+1 Lap,,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-budapest,Hungarian Grand Prix,193.054,kph,66,15,1:21.695,13,69,,0.0,12,12,11,+1 Lap,,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-budapest,Hungarian Grand Prix,194.756,kph,37,11,1:20.981,14,69,,0.0,13,13,11,+1 Lap,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-budapest,Hungarian Grand Prix,194.078,kph,49,13,1:21.264,12,69,,0.0,14,14,11,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-budapest,Hungarian Grand Prix,194.759,kph,66,10,1:20.980,19,69,,0.0,15,15,11,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2007-budapest,Hungarian Grand Prix,192.536,kph,65,16,1:21.915,20,69,,0.0,16,16,11,+1 Lap,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-budapest,Hungarian Grand Prix,191.721,kph,67,19,1:22.263,21,68,,0.0,17,17,11,+2 Laps,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-budapest,Hungarian Grand Prix,192.327,kph,34,17,1:22.004,18,68,,0.0,18,18,11,+2 Laps,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-budapest,Hungarian Grand Prix,191.379,kph,35,20,1:22.410,16,42,,0.0,19,R,11,Electrical,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-budapest,Hungarian Grand Prix,191.948,kph,39,18,1:22.166,15,41,,0.0,20,R,11,Accident,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-budapest,Hungarian Grand Prix,190.234,kph,25,21,1:22.906,17,35,,0.0,21,R,11,Throttle,,2007
+Spyker,spyker,Dutch,YAM,yamamoto,Sakon Yamamoto,Japanese,21,2007-budapest,Hungarian Grand Prix,181.824,kph,4,22,1:26.741,22,4,,0.0,22,R,11,Accident,,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-istanbul,Turkish Grand Prix,218.566,kph,18,2,1:27.922,1,58,5202161,10.0,1,1,12,Finished,1:26:42.161,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-istanbul,Turkish Grand Prix,220.136,kph,57,1,1:27.295,3,58,5204436,8.0,2,2,12,Finished,+2.275,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-istanbul,Turkish Grand Prix,218.199,kph,39,4,1:28.070,4,58,5228342,6.0,3,3,12,Finished,+26.181,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-istanbul,Turkish Grand Prix,217.583,kph,39,5,1:28.319,6,58,5241835,5.0,4,4,12,Finished,+39.674,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-istanbul,Turkish Grand Prix,218.464,kph,17,3,1:27.963,2,58,5247246,4.0,5,5,12,Finished,+45.085,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-istanbul,Turkish Grand Prix,216.886,kph,20,7,1:28.603,7,58,5248330,3.0,6,6,12,Finished,+46.169,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-istanbul,Turkish Grand Prix,217.05,kph,37,6,1:28.536,8,58,5257939,2.0,7,7,12,Finished,+55.778,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-istanbul,Turkish Grand Prix,216.118,kph,11,11,1:28.918,5,58,5258868,1.0,8,8,12,Finished,+56.707,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-istanbul,Turkish Grand Prix,216.422,kph,56,9,1:28.793,10,58,5261652,0.0,9,9,12,Finished,+59.491,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-istanbul,Turkish Grand Prix,215.754,kph,54,13,1:29.068,13,58,5273170,0.0,10,10,12,Finished,+1:11.009,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-istanbul,Turkish Grand Prix,216.559,kph,55,8,1:28.737,14,58,5281789,0.0,11,11,12,Finished,+1:19.628,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-istanbul,Turkish Grand Prix,216.103,kph,55,12,1:28.924,16,57,,0.0,12,12,12,+1 Lap,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-istanbul,Turkish Grand Prix,216.227,kph,34,10,1:28.873,21,57,,0.0,13,13,12,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-istanbul,Turkish Grand Prix,214.334,kph,38,17,1:29.658,11,57,,0.0,14,14,12,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-istanbul,Turkish Grand Prix,214.561,kph,56,16,1:29.563,15,57,,0.0,15,15,12,+1 Lap,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-istanbul,Turkish Grand Prix,214.811,kph,39,14,1:29.459,9,57,,0.0,16,16,12,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-istanbul,Turkish Grand Prix,214.681,kph,35,15,1:29.513,22,57,,0.0,17,17,12,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-istanbul,Turkish Grand Prix,213.719,kph,56,18,1:29.916,17,57,,0.0,18,18,12,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2007-istanbul,Turkish Grand Prix,213.56,kph,39,19,1:29.983,18,57,,0.0,19,19,12,+1 Lap,,2007
+Spyker,spyker,Dutch,YAM,yamamoto,Sakon Yamamoto,Japanese,21,2007-istanbul,Turkish Grand Prix,211.287,kph,21,22,1:30.951,20,56,,0.0,20,20,12,+2 Laps,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-istanbul,Turkish Grand Prix,212.066,kph,52,20,1:30.617,19,53,,0.0,21,21,12,Fuel pressure,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-istanbul,Turkish Grand Prix,211.62,kph,4,21,1:30.808,12,9,,0.0,22,R,12,Hydraulics,,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-monza,Italian Grand Prix,251.653,kph,15,1,1:22.871,1,53,4717806,10.0,1,1,13,Finished,1:18:37.806,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-monza,Italian Grand Prix,251.456,kph,17,2,1:22.936,2,53,4723868,8.0,2,2,13,Finished,+6.062,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-monza,Italian Grand Prix,250.147,kph,21,3,1:23.370,5,53,4745131,6.0,3,3,13,Finished,+27.325,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-monza,Italian Grand Prix,249.217,kph,19,4,1:23.681,4,53,4774368,5.0,4,4,13,Finished,+56.562,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-monza,Italian Grand Prix,248.543,kph,22,5,1:23.908,6,53,4778364,4.0,5,5,13,Finished,+1:00.558,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-monza,Italian Grand Prix,246.884,kph,52,8,1:24.472,8,53,4783616,3.0,6,6,13,Finished,+1:05.810,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-monza,Italian Grand Prix,247.605,kph,53,7,1:24.226,7,53,4784557,2.0,7,7,13,Finished,+1:06.751,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-monza,Italian Grand Prix,246.708,kph,32,9,1:24.532,10,53,4779974,1.0,8,8,13,Finished,+1:02.168,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-monza,Italian Grand Prix,245.859,kph,46,13,1:24.824,11,53,4783685,0.0,9,9,13,Finished,+1:05.879,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-monza,Italian Grand Prix,246.024,kph,52,12,1:24.767,12,53,4784764,0.0,10,10,13,Finished,+1:06.958,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-monza,Italian Grand Prix,246.446,kph,49,10,1:24.622,9,53,4785542,0.0,11,11,13,Finished,+1:07.736,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-monza,Italian Grand Prix,245.787,kph,32,14,1:24.849,15,52,,0.0,12,12,13,+1 Lap,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-monza,Italian Grand Prix,245.35,kph,42,16,1:25.000,13,52,,0.0,13,13,13,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-monza,Italian Grand Prix,245.016,kph,46,17,1:25.116,14,52,,0.0,14,14,13,+1 Lap,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-monza,Italian Grand Prix,245.492,kph,49,15,1:24.951,18,52,,0.0,15,15,13,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-monza,Italian Grand Prix,246.309,kph,49,11,1:24.669,17,52,,0.0,16,16,13,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-monza,Italian Grand Prix,244.278,kph,45,19,1:25.373,19,52,,0.0,17,17,13,+1 Lap,,2007
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2007-monza,Italian Grand Prix,244.45,kph,47,18,1:25.313,16,52,,0.0,18,18,13,+1 Lap,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-monza,Italian Grand Prix,244.267,kph,30,20,1:25.377,21,52,,0.0,19,19,13,+1 Lap,,2007
+Spyker,spyker,Dutch,YAM,yamamoto,Sakon Yamamoto,Japanese,21,2007-monza,Italian Grand Prix,243.978,kph,34,21,1:25.478,22,52,,0.0,20,20,13,+1 Lap,,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-monza,Italian Grand Prix,248.357,kph,8,6,1:23.971,3,10,,0.0,21,R,13,Suspension,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-monza,Italian Grand Prix,,,,,,20,1,,0.0,22,R,13,Accident,,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-spa,Belgian Grand Prix,233.261,kph,12,2,1:48.095,1,44,4839066,10.0,1,1,14,Finished,1:20:39.066,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-spa,Belgian Grand Prix,233.388,kph,34,1,1:48.036,2,44,4843761,8.0,2,2,14,Finished,+4.695,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-spa,Belgian Grand Prix,233.073,kph,44,3,1:48.182,3,44,4853409,6.0,3,3,14,Finished,+14.343,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-spa,Belgian Grand Prix,233.002,kph,41,4,1:48.215,4,44,4862681,5.0,4,4,14,Finished,+23.615,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-spa,Belgian Grand Prix,232.042,kph,33,5,1:48.663,6,44,4890945,4.0,5,5,14,Finished,+51.879,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-spa,Belgian Grand Prix,229.704,kph,29,9,1:49.769,5,44,4915942,3.0,6,6,14,Finished,+1:16.876,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-spa,Belgian Grand Prix,229.119,kph,12,11,1:50.049,7,44,4919705,2.0,7,7,14,Finished,+1:20.639,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-spa,Belgian Grand Prix,230.058,kph,21,8,1:49.600,9,44,4924172,1.0,8,8,14,Finished,+1:25.106,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-spa,Belgian Grand Prix,231.549,kph,32,6,1:48.894,14,44,4924727,0.0,9,9,14,Finished,+1:25.661,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-spa,Belgian Grand Prix,229.175,kph,43,10,1:50.022,10,44,4927640,0.0,10,10,14,Finished,+1:28.574,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-spa,Belgian Grand Prix,231.345,kph,43,7,1:48.990,8,44,4942719,0.0,11,11,14,Finished,+1:43.653,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-spa,Belgian Grand Prix,227.71,kph,40,13,1:50.730,13,43,,0.0,12,12,14,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-spa,Belgian Grand Prix,227.817,kph,43,12,1:50.678,17,43,,0.0,13,13,14,+1 Lap,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-spa,Belgian Grand Prix,227.357,kph,29,15,1:50.902,19,43,,0.0,14,14,14,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-spa,Belgian Grand Prix,227.39,kph,32,14,1:50.886,18,43,,0.0,15,15,14,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-spa,Belgian Grand Prix,226.359,kph,43,19,1:51.391,20,43,,0.0,16,16,14,+1 Lap,,2007
+Spyker,spyker,Dutch,YAM,yamamoto,Sakon Yamamoto,Japanese,21,2007-spa,Belgian Grand Prix,225.838,kph,30,20,1:51.648,21,43,,0.0,17,17,14,+1 Lap,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-spa,Belgian Grand Prix,226.868,kph,22,16,1:51.141,12,36,,0.0,18,R,14,Hydraulics,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-spa,Belgian Grand Prix,226.605,kph,18,18,1:51.270,15,34,,0.0,19,R,14,Fuel pressure,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-spa,Belgian Grand Prix,226.837,kph,24,17,1:51.156,11,29,,0.0,20,R,14,Hydraulics,,2007
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2007-spa,Belgian Grand Prix,223.682,kph,4,21,1:52.724,16,8,,0.0,21,R,14,Steering,,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-spa,Belgian Grand Prix,,,,,,22,1,,0.0,22,R,14,Suspension,,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-oyama,Japanese Grand Prix,186.259,kph,27,1,1:28.193,1,67,7234579,10.0,1,1,15,Finished,2:00:34.579,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-oyama,Japanese Grand Prix,183.222,kph,34,9,1:29.655,11,67,7242956,8.0,2,2,15,Finished,+8.377,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-oyama,Japanese Grand Prix,183.295,kph,29,8,1:29.619,3,67,7244057,6.0,3,3,15,Finished,+9.478,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-oyama,Japanese Grand Prix,182.345,kph,56,11,1:30.086,12,67,7254876,5.0,4,4,15,Finished,+20.297,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-oyama,Japanese Grand Prix,181.738,kph,33,12,1:30.387,10,67,7273443,4.0,5,5,15,Finished,+38.864,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-oyama,Japanese Grand Prix,183.359,kph,32,7,1:29.588,4,67,7283621,3.0,6,6,15,Finished,+49.042,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-oyama,Japanese Grand Prix,184.527,kph,32,4,1:29.021,9,67,7283864,2.0,7,7,15,Finished,+49.285,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-oyama,Japanese Grand Prix,178.763,kph,54,18,1:31.891,20,67,7294708,1.0,8,8,15,Finished,+1:00.129,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-oyama,Japanese Grand Prix,181.205,kph,35,13,1:30.653,14,67,7315201,0.0,9,9,15,Finished,+1:20.622,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-oyama,Japanese Grand Prix,180.395,kph,57,15,1:31.060,17,67,7322921,0.0,10,10,15,Finished,+1:28.342,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-oyama,Japanese Grand Prix,178.647,kph,58,19,1:31.951,6,66,,0.0,11,11,15,Suspension,,2007
+Spyker,spyker,Dutch,YAM,yamamoto,Sakon Yamamoto,Japanese,21,2007-oyama,Japanese Grand Prix,178.3,kph,33,20,1:32.130,22,66,,0.0,12,12,15,+1 Lap,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-oyama,Japanese Grand Prix,177.752,kph,55,21,1:32.414,13,66,,0.0,13,13,15,+1 Lap,,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-oyama,Japanese Grand Prix,184.396,kph,28,6,1:29.084,5,65,,0.0,14,14,15,Technical,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-oyama,Japanese Grand Prix,179.514,kph,54,16,1:31.507,21,65,,0.0,15,15,15,Collision,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-oyama,Japanese Grand Prix,180.782,kph,33,14,1:30.865,15,55,,0.0,16,R,15,Puncture,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-oyama,Japanese Grand Prix,178.935,kph,27,17,1:31.803,19,54,,0.0,17,R,15,Throttle,,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-oyama,Japanese Grand Prix,182.67,kph,27,10,1:29.926,16,49,,0.0,18,R,15,Electronics,,2007
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2007-oyama,Japanese Grand Prix,184.452,kph,31,5,1:29.057,8,46,,0.0,19,R,15,Collision,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-oyama,Japanese Grand Prix,184.695,kph,30,3,1:28.940,7,45,,0.0,20,R,15,Collision,,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-oyama,Japanese Grand Prix,185.59,kph,25,2,1:28.511,2,41,,0.0,21,R,15,Accident,,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-oyama,Japanese Grand Prix,130.749,kph,19,22,2:05.636,18,19,,0.0,22,R,15,Collision,,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-shanghai,Chinese Grand Prix,199.66,kph,52,3,1:38.285,2,56,5878395,10.0,1,1,16,Finished,1:37:58.395,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-shanghai,Chinese Grand Prix,200.259,kph,54,2,1:37.991,4,56,5888201,8.0,2,2,16,Finished,+9.806,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-shanghai,Chinese Grand Prix,201.362,kph,56,1,1:37.454,3,56,5891286,6.0,3,3,16,Finished,+12.891,2007
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2007-shanghai,Chinese Grand Prix,196.452,kph,52,13,1:39.890,17,56,5931904,5.0,4,4,16,Finished,+53.509,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-shanghai,Chinese Grand Prix,198.392,kph,39,5,1:38.913,10,56,5947061,4.0,5,5,16,Finished,+1:08.666,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-shanghai,Chinese Grand Prix,196.917,kph,53,11,1:39.654,11,56,5952068,3.0,6,6,16,Finished,+1:13.673,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-shanghai,Chinese Grand Prix,197.569,kph,55,7,1:39.325,8,56,5952619,2.0,7,7,16,Finished,+1:14.224,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-shanghai,Chinese Grand Prix,196.945,kph,55,10,1:39.640,5,56,5959145,1.0,8,8,16,Finished,+1:20.750,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-shanghai,Chinese Grand Prix,197.557,kph,52,8,1:39.331,13,56,5959581,0.0,9,9,16,Finished,+1:21.186,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-shanghai,Chinese Grand Prix,197.478,kph,55,9,1:39.371,7,56,5963080,0.0,10,10,16,Finished,+1:24.685,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-shanghai,Chinese Grand Prix,198.418,kph,39,4,1:38.900,18,56,5965078,0.0,11,11,16,Finished,+1:26.683,2007
+Williams,williams,British,WUR,wurz,Alexander Wurz,Austrian,17,2007-shanghai,Chinese Grand Prix,196.741,kph,54,12,1:39.743,19,55,,0.0,12,12,16,+1 Lap,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-shanghai,Chinese Grand Prix,196.41,kph,55,14,1:39.911,12,55,,0.0,13,13,16,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-shanghai,Chinese Grand Prix,195.989,kph,54,15,1:40.126,20,55,,0.0,14,14,16,+1 Lap,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-shanghai,Chinese Grand Prix,195.228,kph,55,16,1:40.516,16,55,,0.0,15,15,16,+1 Lap,,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-shanghai,Chinese Grand Prix,197.752,kph,54,6,1:39.233,15,54,,0.0,16,16,16,+2 Laps,,2007
+Spyker,spyker,Dutch,YAM,yamamoto,Sakon Yamamoto,Japanese,21,2007-shanghai,Chinese Grand Prix,194.748,kph,52,17,1:40.764,22,53,,0.0,17,17,16,+3 Laps,,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-shanghai,Chinese Grand Prix,194.435,kph,32,18,1:40.926,9,33,,0.0,18,R,16,Hydraulics,,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-shanghai,Chinese Grand Prix,190.278,kph,22,19,1:43.131,1,30,,0.0,19,R,16,Spun off,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-shanghai,Chinese Grand Prix,188.576,kph,25,20,1:44.062,6,25,,0.0,20,R,16,Spun off,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-shanghai,Chinese Grand Prix,182.37,kph,22,21,1:47.603,21,24,,0.0,21,R,16,Accident,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-shanghai,Chinese Grand Prix,175.579,kph,9,22,1:51.765,14,11,,0.0,22,R,16,Brakes,,2007
+Ferrari,ferrari,Italian,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2007-s-o-paulo,Brazilian Grand Prix,214.126,kph,66,1,1:12.445,3,71,5295270,10.0,1,1,17,Finished,1:28:15.270,2007
+Ferrari,ferrari,Italian,MAS,massa,Felipe Massa,Brazilian,19,2007-s-o-paulo,Brazilian Grand Prix,213.716,kph,71,3,1:12.584,1,71,5296763,8.0,2,2,17,Finished,+1.493,2007
+McLaren,mclaren,British,ALO,alonso,Fernando Alonso,Spanish,14,2007-s-o-paulo,Brazilian Grand Prix,212.062,kph,59,6,1:13.150,4,71,5352289,6.0,3,3,17,Finished,+57.019,2007
+Williams,williams,British,ROS,rosberg,Nico Rosberg,German,6,2007-s-o-paulo,Brazilian Grand Prix,212.036,kph,56,7,1:13.159,10,71,5358118,5.0,4,4,17,Finished,+1:02.848,2007
+BMW Sauber,bmw_sauber,German,KUB,kubica,Robert Kubica,Polish,88,2007-s-o-paulo,Brazilian Grand Prix,213.416,kph,61,4,1:12.686,7,71,5366227,4.0,5,5,17,Finished,+1:10.957,2007
+BMW Sauber,bmw_sauber,German,HEI,heidfeld,Nick Heidfeld,German,9,2007-s-o-paulo,Brazilian Grand Prix,211.19,kph,53,10,1:13.452,6,71,5366587,3.0,6,6,17,Finished,+1:11.317,2007
+McLaren,mclaren,British,HAM,hamilton,Lewis Hamilton,British,44,2007-s-o-paulo,Brazilian Grand Prix,213.946,kph,58,2,1:12.506,2,70,,2.0,7,7,17,+1 Lap,,2007
+Toyota,toyota,Japanese,TRU,trulli,Jarno Trulli,Italian,12,2007-s-o-paulo,Brazilian Grand Prix,211.452,kph,68,8,1:13.361,8,70,,1.0,8,8,17,+1 Lap,,2007
+Red Bull,red_bull,Austrian,COU,coulthard,David Coulthard,British,14,2007-s-o-paulo,Brazilian Grand Prix,209.076,kph,22,13,1:14.195,9,70,,0.0,9,9,17,+1 Lap,,2007
+Williams,williams,British,NAK,nakajima,Kazuki Nakajima,Japanese,17,2007-s-o-paulo,Brazilian Grand Prix,212.161,kph,69,5,1:13.116,19,70,,0.0,10,10,17,+1 Lap,,2007
+Toyota,toyota,Japanese,SCH,ralf_schumacher,Ralf Schumacher,German,11,2007-s-o-paulo,Brazilian Grand Prix,211.432,kph,65,9,1:13.368,15,70,,0.0,11,11,17,+1 Lap,,2007
+Super Aguri,super_aguri,Japanese,SAT,sato,Takuma Sato,Japanese,22,2007-s-o-paulo,Brazilian Grand Prix,207.069,kph,39,19,1:14.914,18,69,,0.0,12,12,17,+2 Laps,,2007
+Toro Rosso,toro_rosso,Italian,LIU,liuzzi,Vitantonio Liuzzi,Italian,18,2007-s-o-paulo,Brazilian Grand Prix,210.643,kph,56,11,1:13.643,14,69,,0.0,13,13,17,+2 Laps,,2007
+Super Aguri,super_aguri,Japanese,DAV,davidson,Anthony Davidson,British,23,2007-s-o-paulo,Brazilian Grand Prix,208.699,kph,64,14,1:14.329,20,68,,0.0,14,14,17,+3 Laps,,2007
+Spyker,spyker,Dutch,SUT,sutil,Adrian Sutil,German,99,2007-s-o-paulo,Brazilian Grand Prix,206.276,kph,13,20,1:15.202,21,43,,0.0,15,R,17,Brakes,,2007
+Honda,honda,Japanese,BAR,barrichello,Rubens Barrichello,Brazilian,8,2007-s-o-paulo,Brazilian Grand Prix,207.545,kph,32,17,1:14.742,11,40,,0.0,16,R,17,Engine,,2007
+Renault,renault,French,KOV,kovalainen,Heikki Kovalainen,Finnish,4,2007-s-o-paulo,Brazilian Grand Prix,207.133,kph,31,18,1:14.891,17,35,,0.0,17,R,17,Accident,,2007
+Toro Rosso,toro_rosso,Italian,VET,vettel,Sebastian Vettel,German,5,2007-s-o-paulo,Brazilian Grand Prix,208.435,kph,18,16,1:14.423,13,34,,0.0,18,R,17,Hydraulics,,2007
+Honda,honda,Japanese,BUT,button,Jenson Button,British,22,2007-s-o-paulo,Brazilian Grand Prix,209.516,kph,20,12,1:14.039,16,20,,0.0,19,R,17,Engine,,2007
+Red Bull,red_bull,Austrian,WEB,webber,Mark Webber,Australian,15,2007-s-o-paulo,Brazilian Grand Prix,208.505,kph,13,15,1:14.398,5,14,,0.0,20,R,17,Gearbox,,2007
+Spyker,spyker,Dutch,YAM,yamamoto,Sakon Yamamoto,Japanese,21,2007-s-o-paulo,Brazilian Grand Prix,140.505,kph,2,21,1:50.404,22,2,,0.0,21,R,17,Collision,,2007
+Renault,renault,French,FIS,fisichella,Giancarlo Fisichella,Italian,3,2007-s-o-paulo,Brazilian Grand Prix,126.446,kph,2,22,2:02.680,12,2,,0.0,22,R,17,Collision,,2007

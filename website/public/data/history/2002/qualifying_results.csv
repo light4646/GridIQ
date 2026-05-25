@@ -1,0 +1,43 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,position,q1,q2,q3,round,year
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-kuala-lumpur,Malaysian Grand Prix,1,1:35.266,,,2,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-kuala-lumpur,Malaysian Grand Prix,2,1:35.497,,,2,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-kuala-lumpur,Malaysian Grand Prix,3,1:35.891,,,2,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-kuala-lumpur,Malaysian Grand Prix,4,1:36.028,,,2,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-kuala-lumpur,Malaysian Grand Prix,5,1:36.468,,,2,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-kuala-lumpur,Malaysian Grand Prix,6,1:36.477,,,2,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-kuala-lumpur,Malaysian Grand Prix,7,1:37.199,,,2,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-kuala-lumpur,Malaysian Grand Prix,8,1:37.245,,,2,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-kuala-lumpur,Malaysian Grand Prix,9,1:37.536,,,2,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-kuala-lumpur,Malaysian Grand Prix,10,1:37.694,,,2,2002
+Arrows,arrows,British,,frentzen,Heinz-Harald Frentzen,German,20,2002-kuala-lumpur,Malaysian Grand Prix,11,1:37.919,,,2,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-kuala-lumpur,Malaysian Grand Prix,12,1:37.920,,,2,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-kuala-lumpur,Malaysian Grand Prix,13,1:38.039,,,2,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-kuala-lumpur,Malaysian Grand Prix,14,1:38.057,,,2,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-kuala-lumpur,Malaysian Grand Prix,15,1:38.141,,,2,2002
+Arrows,arrows,British,,bernoldi,Enrique Bernoldi,Brazilian,21,2002-kuala-lumpur,Malaysian Grand Prix,16,1:38.284,,,2,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-kuala-lumpur,Malaysian Grand Prix,17,1:38.374,,,2,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-kuala-lumpur,Malaysian Grand Prix,18,1:38.390,,,2,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-kuala-lumpur,Malaysian Grand Prix,19,1:38.959,,,2,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-kuala-lumpur,Malaysian Grand Prix,20,1:39.121,,,2,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-kuala-lumpur,Malaysian Grand Prix,21,1:39.454,,,2,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-kuala-lumpur,Malaysian Grand Prix,22,1:40.158,,,2,2002
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,2002-suzuka,Japanese Grand Prix,1,1:31.317,,,17,2002
+Ferrari,ferrari,Italian,BAR,barrichello,Rubens Barrichello,Brazilian,2,2002-suzuka,Japanese Grand Prix,2,1:31.749,,,17,2002
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,3,2002-suzuka,Japanese Grand Prix,3,1:32.088,,,17,2002
+McLaren,mclaren,British,RAI,raikkonen,Kimi Räikkönen,Finnish,7,2002-suzuka,Japanese Grand Prix,4,1:32.197,,,17,2002
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,5,2002-suzuka,Japanese Grand Prix,5,1:32.444,,,17,2002
+Williams,williams,British,MON,montoya,Juan Pablo Montoya,Colombian,6,2002-suzuka,Japanese Grand Prix,6,1:32.507,,,17,2002
+Jordan,jordan,Irish,SAT,sato,Takuma Sato,Japanese,10,2002-suzuka,Japanese Grand Prix,7,1:33.090,,,17,2002
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,9,2002-suzuka,Japanese Grand Prix,8,1:33.276,,,17,2002
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,11,2002-suzuka,Japanese Grand Prix,9,1:33.349,,,17,2002
+Renault,renault,French,BUT,button,Jenson Button,British,22,2002-suzuka,Japanese Grand Prix,10,1:33.429,,,17,2002
+Renault,renault,French,TRU,trulli,Jarno Trulli,Italian,14,2002-suzuka,Japanese Grand Prix,11,1:33.547,,,17,2002
+Sauber,sauber,Swiss,HEI,heidfeld,Nick Heidfeld,German,7,2002-suzuka,Japanese Grand Prix,12,1:33.553,,,17,2002
+Toyota,toyota,Japanese,,salo,Mika Salo,Finnish,24,2002-suzuka,Japanese Grand Prix,13,1:33.742,,,17,2002
+Jaguar,jaguar,British,,irvine,Eddie Irvine,British,16,2002-suzuka,Japanese Grand Prix,14,1:33.915,,,17,2002
+Sauber,sauber,Swiss,MAS,massa,Felipe Massa,Brazilian,19,2002-suzuka,Japanese Grand Prix,15,1:33.979,,,17,2002
+BAR,bar,British,,panis,Olivier Panis,French,12,2002-suzuka,Japanese Grand Prix,16,1:34.192,,,17,2002
+Jaguar,jaguar,British,DLR,rosa,Pedro de la Rosa,Spanish,17,2002-suzuka,Japanese Grand Prix,17,1:34.227,,,17,2002
+Toyota,toyota,Japanese,,mcnish,Allan McNish,British,25,2002-suzuka,Japanese Grand Prix,18,1:35.191,,,17,2002
+Minardi,minardi,Italian,WEB,webber,Mark Webber,Australian,23,2002-suzuka,Japanese Grand Prix,19,1:35.958,,,17,2002
+Minardi,minardi,Italian,,yoong,Alex Yoong,Malaysian,22,2002-suzuka,Japanese Grand Prix,20,1:36.267,,,17,2002

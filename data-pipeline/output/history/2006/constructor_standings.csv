@@ -1,0 +1,13 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,206.0,1,1,8,2006
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,201.0,2,2,9,2006
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,110.0,3,3,0,2006
+Honda,honda,Japanese,https://en.wikipedia.org/wiki/Honda_in_Formula_One,86.0,4,4,1,2006
+BMW Sauber,bmw_sauber,German,https://en.wikipedia.org/wiki/BMW_in_Formula_One,36.0,5,5,0,2006
+Toyota,toyota,Japanese,https://en.wikipedia.org/wiki/Toyota_Racing,35.0,6,6,0,2006
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,16.0,7,7,0,2006
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,11.0,8,8,0,2006
+Toro Rosso,toro_rosso,Italian,https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,1.0,9,9,0,2006
+MF1,mf1,Russian,https://en.wikipedia.org/wiki/Midland_F1_Racing,0.0,10,10,0,2006
+Super Aguri,super_aguri,Japanese,https://en.wikipedia.org/wiki/Super_Aguri_F1,0.0,11,11,0,2006
+Spyker MF1,spyker_mf1,Dutch,https://en.wikipedia.org/wiki/Midland_F1_Racing,0.0,12,12,0,2006

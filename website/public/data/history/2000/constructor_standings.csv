@@ -1,0 +1,12 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,170.0,1,1,10,2000
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,162.0,2,2,7,2000
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,36.0,3,3,0,2000
+Benetton,benetton,Italian,https://en.wikipedia.org/wiki/Benetton_Formula,20.0,4,4,0,2000
+BAR,bar,British,https://en.wikipedia.org/wiki/British_American_Racing,20.0,5,5,0,2000
+Jordan,jordan,Irish,https://en.wikipedia.org/wiki/Jordan_Grand_Prix,17.0,6,6,0,2000
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,7.0,7,7,0,2000
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,6.0,8,8,0,2000
+Jaguar,jaguar,British,https://en.wikipedia.org/wiki/Jaguar_Racing,4.0,9,9,0,2000
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,0.0,,-,0,2000
+Prost,prost,French,https://en.wikipedia.org/wiki/Prost_Grand_Prix,0.0,,-,0,2000

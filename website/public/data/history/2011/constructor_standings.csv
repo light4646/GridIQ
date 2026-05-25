@@ -1,0 +1,13 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,650.0,1,1,12,2011
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,497.0,2,2,6,2011
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,375.0,3,3,1,2011
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,165.0,4,4,0,2011
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,73.0,5,5,0,2011
+Force India,force_india,Indian,https://en.wikipedia.org/wiki/Racing_Point_Force_India,69.0,6,6,0,2011
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,44.0,7,7,0,2011
+Toro Rosso,toro_rosso,Italian,https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,41.0,8,8,0,2011
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,5.0,9,9,0,2011
+Lotus,lotus_racing,Malaysian,https://en.wikipedia.org/wiki/Lotus_Racing,0.0,10,10,0,2011
+HRT,hrt,Spanish,https://en.wikipedia.org/wiki/HRT_Formula_1_Team,0.0,11,11,0,2011
+Virgin,virgin,British,https://en.wikipedia.org/wiki/Virgin_Racing,0.0,12,12,0,2011

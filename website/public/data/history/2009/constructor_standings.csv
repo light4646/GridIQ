@@ -1,0 +1,11 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Brawn,brawn,British,https://en.wikipedia.org/wiki/Brawn_GP,172.0,1,1,8,2009
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,153.5,2,2,6,2009
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,71.0,3,3,2,2009
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,70.0,4,4,1,2009
+Toyota,toyota,Japanese,https://en.wikipedia.org/wiki/Toyota_Racing,59.5,5,5,0,2009
+BMW Sauber,bmw_sauber,German,https://en.wikipedia.org/wiki/BMW_in_Formula_One,36.0,6,6,0,2009
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,34.5,7,7,0,2009
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,26.0,8,8,0,2009
+Force India,force_india,Indian,https://en.wikipedia.org/wiki/Racing_Point_Force_India,13.0,9,9,0,2009
+Toro Rosso,toro_rosso,Italian,https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,8.0,10,10,0,2009
