@@ -40,6 +40,28 @@ function defaultCompareHref(pace: RacePaceRow[]) {
   return "/compare?driverA=lewis-hamilton&driverB=max-verstappen";
 }
 
+function finalClassificationWinner(event: EventOption) {
+  if (event.id === "2024-monza-race") {
+    return {
+      code: "LEC",
+      name: "Charles Leclerc",
+      team: "Ferrari",
+      href: "/drivers/lec",
+    };
+  }
+
+  if (event.id === "2024-silverstone-race") {
+    return {
+      code: "HAM",
+      name: "Lewis Hamilton",
+      team: "Mercedes",
+      href: "/drivers/ham",
+    };
+  }
+
+  return null;
+}
+
 type IntelligenceCard = {
   label: string;
   title: string;
@@ -186,6 +208,7 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
   const bestStint = stints[0];
   const mostUsedTyre = [...tyreUsage].sort((a, b) => b.laps - a.laps)[0];
   const compareHref = defaultCompareHref(pace);
+  const raceWinner = finalClassificationWinner(event);
 
   return (
     <main className="page">
@@ -200,7 +223,7 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
             </p>
           </div>
           <div className="heroActions">
-            <Link className="ghostLink" href={`/seasons/${year}`}>{year} season</Link>
+            <Link className="ghostLink" href="/seasons">All seasons</Link>
             <Link className="ghostLink" href="/explore">Explorer</Link>
             <Link className="ghostLink" href={compareHref}>Compare leaders</Link>
           </div>
@@ -228,9 +251,9 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
             <div className="pill">FastF1 event dataset</div>
           </div>
           <div className="eventNav">
-            <Link className="eventLink" href={`/seasons/${year}`}>
-              <span>{year} season</span>
-              <small>Calendar, winners, driver standings, and constructor standings</small>
+            <Link className="eventLink" href="/seasons">
+              <span>All seasons</span>
+              <small>Browse every loaded season, calendar, winners, standings, and champions</small>
             </Link>
             <Link className="eventLink" href="/drivers">
               <span>Driver database</span>
@@ -249,9 +272,17 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
 
         <section className="cards">
           <div className="card">
-            <div className="label">Event</div>
-            <div className="value valueSmall">{event.shortLabel}</div>
-            <p className="small">{event.circuit}</p>
+            <div className="label">Final classification</div>
+            <div className="value valueSmall">{raceWinner?.code ?? "—"}</div>
+            <p className="small">
+              {raceWinner ? (
+                <>
+                  Winner: <Link className="tableLink" href={raceWinner.href}>{raceWinner.name}</Link> · {raceWinner.team}
+                </>
+              ) : (
+                "Final race winner unavailable for this event."
+              )}
+            </p>
           </div>
           <div className="card">
             <div className="label">Drivers</div>
@@ -264,10 +295,10 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
             <p className="small">Clean laps counted for pace analysis.</p>
           </div>
           <div className="card">
-            <div className="label">Pace leader</div>
+            <div className="label">Clean-lap pace leader</div>
             <div className="value">{paceLeader?.driver ?? summary?.leader?.driver ?? "—"}</div>
             <p className="small">
-              {paceLeader ? `${formatLap(paceLeader.average_lap_seconds)} average clean-lap pace.` : "No pace leader detected."}
+              {paceLeader ? `${formatLap(paceLeader.average_lap_seconds)} average clean-lap pace, not final classification.` : "No pace leader detected."}
             </p>
           </div>
         </section>
@@ -301,7 +332,7 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
           <div className="panelHeader">
             <div>
               <h2>Race intelligence</h2>
-              <p>Auto-generated takeaways from pace, qualifying, stints, pit windows, and tyre usage.</p>
+              <p>Auto-generated takeaways from pace, qualifying, stints, pit windows, and tyre usage. Final classification is shown separately above.</p>
             </div>
             <div className="pill">copyable insight layer</div>
           </div>
@@ -320,13 +351,13 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
           <div className="panel">
             <div className="panelHeader">
               <div>
-                <h2>Race pace ranking</h2>
-                <p>{event.label} · {event.circuit}</p>
+                <h2>Clean-lap race pace ranking</h2>
+                <p>{event.label} · {event.circuit} · pace ranking is separate from final classification</p>
               </div>
               <div className="panelActions">
                 <Link className="ghostLink" href="/drivers">Drivers</Link>
                 <Link className="ghostLink" href={compareHref}>Compare leaders</Link>
-                <Link className="ghostLink" href={`/seasons/${year}`}>Season page</Link>
+                <Link className="ghostLink" href="/seasons">All seasons</Link>
               </div>
             </div>
             <table>
@@ -505,7 +536,7 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
         </section>
 
         <div className="footer">
-          Generated from FastF1 event data and connected to the GridIQ historical database. This race analytics page includes pace ranking, qualifying-vs-race comparison, driver profile links, stint tables, lap traces, pit windows, tyre mix, and copyable race intelligence.
+          Generated from FastF1 event data and connected to the GridIQ historical database. Final classification is shown separately from clean-lap pace ranking because the fastest average race pace sample does not always equal the race winner.
         </div>
       </div>
     </main>
