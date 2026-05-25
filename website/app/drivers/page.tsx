@@ -31,6 +31,10 @@ function getDriverKey(driverId?: string, driverName?: string) {
   return driverId || driverName || "unknown";
 }
 
+function driverProfileHref(driver: HistoricalDriverSummary) {
+  return `/drivers/${driver.driverCode?.toLowerCase() || driver.driverId}`;
+}
+
 function getConstructorName(row: { constructor?: unknown; constructor_id?: unknown }) {
   if (
     Object.prototype.hasOwnProperty.call(row, "constructor") &&
@@ -249,7 +253,11 @@ export default function DriversPage() {
               {drivers.map((driver, index) => (
                 <tr key={driver.driverId}>
                   <td className="rank">{index + 1}</td>
-                  <td>{driver.driverName}</td>
+                  <td>
+                    <Link className="tableLink" href={driverProfileHref(driver)}>
+                      {driver.driverName}
+                    </Link>
+                  </td>
                   <td>{driver.driverCode ?? "—"}</td>
                   <td>{driver.wins}</td>
                   <td>{driver.podiums}</td>
@@ -267,7 +275,8 @@ export default function DriversPage() {
 
         <div className="footer">
           Historical driver data is calculated from GridIQ race results, qualifying
-          results, and season standings from 2000 through 2026.
+          results, and season standings from 2000 through 2026. Select a driver name
+          to open the full historical profile.
         </div>
       </div>
     </main>
