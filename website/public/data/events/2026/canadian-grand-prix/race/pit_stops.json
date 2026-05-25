@@ -1,0 +1,274 @@
+[
+  {
+    "Driver": "PIA",
+    "Team": "McLaren",
+    "pitInLap": 1,
+    "pitOutLap": 2,
+    "fromCompound": "INTERMEDIATE",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "BOR",
+    "Team": "Audi",
+    "pitInLap": 2,
+    "pitOutLap": 3,
+    "fromCompound": "INTERMEDIATE",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "HUL",
+    "Team": "Audi",
+    "pitInLap": 2,
+    "pitOutLap": 3,
+    "fromCompound": "INTERMEDIATE",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "NOR",
+    "Team": "McLaren",
+    "pitInLap": 2,
+    "pitOutLap": 3,
+    "fromCompound": "INTERMEDIATE",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "PER",
+    "Team": "Cadillac",
+    "pitInLap": 2,
+    "pitOutLap": 3,
+    "fromCompound": "INTERMEDIATE",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "SAI",
+    "Team": "Williams",
+    "pitInLap": 2,
+    "pitOutLap": 3,
+    "fromCompound": "INTERMEDIATE",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "BOT",
+    "Team": "Cadillac",
+    "pitInLap": 3,
+    "pitOutLap": 4,
+    "fromCompound": "INTERMEDIATE",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "BOT",
+    "Team": "Cadillac",
+    "pitInLap": 9,
+    "pitOutLap": 10,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "PIA",
+    "Team": "McLaren",
+    "pitInLap": 12,
+    "pitOutLap": 13,
+    "fromCompound": "MEDIUM",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "STR",
+    "Team": "Aston Martin",
+    "pitInLap": 14,
+    "pitOutLap": 15,
+    "fromCompound": "SOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "NOR",
+    "Team": "McLaren",
+    "pitInLap": 15,
+    "pitOutLap": 16,
+    "fromCompound": "MEDIUM",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "PER",
+    "Team": "Cadillac",
+    "pitInLap": 15,
+    "pitOutLap": 16,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "OCO",
+    "Team": "Haas F1 Team",
+    "pitInLap": 16,
+    "pitOutLap": 17,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "BOR",
+    "Team": "Audi",
+    "pitInLap": 18,
+    "pitOutLap": 19,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "ALO",
+    "Team": "Aston Martin",
+    "pitInLap": 20,
+    "pitOutLap": 21,
+    "fromCompound": "SOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "HUL",
+    "Team": "Audi",
+    "pitInLap": 20,
+    "pitOutLap": 21,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "BOT",
+    "Team": "Cadillac",
+    "pitInLap": 29,
+    "pitOutLap": 30,
+    "fromCompound": "MEDIUM",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "PER",
+    "Team": "Cadillac",
+    "pitInLap": 29,
+    "pitOutLap": 30,
+    "fromCompound": "MEDIUM",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "BEA",
+    "Team": "Haas F1 Team",
+    "pitInLap": 30,
+    "pitOutLap": 31,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "COL",
+    "Team": "Alpine",
+    "pitInLap": 30,
+    "pitOutLap": 31,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "GAS",
+    "Team": "Alpine",
+    "pitInLap": 30,
+    "pitOutLap": 31,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "LAW",
+    "Team": "Racing Bulls",
+    "pitInLap": 30,
+    "pitOutLap": 31,
+    "fromCompound": "MEDIUM",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "OCO",
+    "Team": "Haas F1 Team",
+    "pitInLap": 30,
+    "pitOutLap": 31,
+    "fromCompound": "MEDIUM",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "SAI",
+    "Team": "Williams",
+    "pitInLap": 30,
+    "pitOutLap": 31,
+    "fromCompound": "MEDIUM",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "ANT",
+    "Team": "Mercedes",
+    "pitInLap": 31,
+    "pitOutLap": 32,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "HAD",
+    "Team": "Red Bull Racing",
+    "pitInLap": 31,
+    "pitOutLap": 32,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "HAM",
+    "Team": "Ferrari",
+    "pitInLap": 31,
+    "pitOutLap": 32,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "LEC",
+    "Team": "Ferrari",
+    "pitInLap": 31,
+    "pitOutLap": 32,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "VER",
+    "Team": "Red Bull Racing",
+    "pitInLap": 31,
+    "pitOutLap": 32,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "BOT",
+    "Team": "Cadillac",
+    "pitInLap": 49,
+    "pitOutLap": 50,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "STR",
+    "Team": "Aston Martin",
+    "pitInLap": 49,
+    "pitOutLap": 50,
+    "fromCompound": "SOFT",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "PIA",
+    "Team": "McLaren",
+    "pitInLap": 51,
+    "pitOutLap": 52,
+    "fromCompound": "MEDIUM",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "HAD",
+    "Team": "Red Bull Racing",
+    "pitInLap": 52,
+    "pitOutLap": 53,
+    "fromCompound": "MEDIUM",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "HAD",
+    "Team": "Red Bull Racing",
+    "pitInLap": 62,
+    "pitOutLap": 63,
+    "fromCompound": "SOFT",
+    "toCompound": "SOFT"
+  }
+]

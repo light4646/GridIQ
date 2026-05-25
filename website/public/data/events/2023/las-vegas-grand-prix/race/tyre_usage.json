@@ -1,0 +1,26 @@
+[
+  {
+    "Compound": "HARD",
+    "laps": 578,
+    "drivers": 19,
+    "average_lap_seconds": 98.737,
+    "best_lap_seconds": 95.614,
+    "share": 0.7656
+  },
+  {
+    "Compound": "MEDIUM",
+    "laps": 171,
+    "drivers": 16,
+    "average_lap_seconds": 101.112,
+    "best_lap_seconds": 95.49,
+    "share": 0.2265
+  },
+  {
+    "Compound": "SOFT",
+    "laps": 6,
+    "drivers": 1,
+    "average_lap_seconds": 112.343,
+    "best_lap_seconds": 101.561,
+    "share": 0.0079
+  }
+]

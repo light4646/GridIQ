@@ -1,0 +1,210 @@
+[
+  {
+    "Driver": "GAS",
+    "Team": "Alpine",
+    "pitInLap": 10,
+    "pitOutLap": 11.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "ZHO",
+    "Team": "Alfa Romeo",
+    "pitInLap": 11,
+    "pitOutLap": 12.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "MAG",
+    "Team": "Haas F1 Team",
+    "pitInLap": 12,
+    "pitOutLap": 13.0,
+    "fromCompound": "HARD",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "LAW",
+    "Team": "AlphaTauri",
+    "pitInLap": 13,
+    "pitOutLap": 14.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "HUL",
+    "Team": "Haas F1 Team",
+    "pitInLap": 14,
+    "pitOutLap": 15.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "SAR",
+    "Team": "Williams",
+    "pitInLap": 14,
+    "pitOutLap": 15.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "ALB",
+    "Team": "Williams",
+    "pitInLap": 15,
+    "pitOutLap": 16.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "RUS",
+    "Team": "Mercedes",
+    "pitInLap": 19,
+    "pitOutLap": 20.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "SAI",
+    "Team": "Ferrari",
+    "pitInLap": 19,
+    "pitOutLap": 20.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "LEC",
+    "Team": "Ferrari",
+    "pitInLap": 20,
+    "pitOutLap": 21.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "STR",
+    "Team": "Aston Martin",
+    "pitInLap": 20,
+    "pitOutLap": 21.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "VER",
+    "Team": "Red Bull Racing",
+    "pitInLap": 20,
+    "pitOutLap": 21.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "ALO",
+    "Team": "Aston Martin",
+    "pitInLap": 21,
+    "pitOutLap": 22.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "PER",
+    "Team": "Red Bull Racing",
+    "pitInLap": 21,
+    "pitOutLap": 22.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "NOR",
+    "Team": "McLaren",
+    "pitInLap": 22,
+    "pitOutLap": 23.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "PIA",
+    "Team": "McLaren",
+    "pitInLap": 23,
+    "pitOutLap": 24.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "OCO",
+    "Team": "Alpine",
+    "pitInLap": 24,
+    "pitOutLap": 25.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "HARD"
+  },
+  {
+    "Driver": "BOT",
+    "Team": "Alfa Romeo",
+    "pitInLap": 25,
+    "pitOutLap": 26.0,
+    "fromCompound": "HARD",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "HAM",
+    "Team": "Mercedes",
+    "pitInLap": 27,
+    "pitOutLap": 28.0,
+    "fromCompound": "HARD",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "GAS",
+    "Team": "Alpine",
+    "pitInLap": 31,
+    "pitOutLap": 32.0,
+    "fromCompound": "HARD",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "LAW",
+    "Team": "AlphaTauri",
+    "pitInLap": 33,
+    "pitOutLap": 34.0,
+    "fromCompound": "HARD",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "MAG",
+    "Team": "Haas F1 Team",
+    "pitInLap": 33,
+    "pitOutLap": 34.0,
+    "fromCompound": "MEDIUM",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "ZHO",
+    "Team": "Alfa Romeo",
+    "pitInLap": 33,
+    "pitOutLap": 34.0,
+    "fromCompound": "HARD",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "HUL",
+    "Team": "Haas F1 Team",
+    "pitInLap": 39,
+    "pitOutLap": 40.0,
+    "fromCompound": "HARD",
+    "toCompound": "MEDIUM"
+  },
+  {
+    "Driver": "OCO",
+    "Team": "Alpine",
+    "pitInLap": 39,
+    "pitOutLap": NaN,
+    "fromCompound": "HARD",
+    "toCompound": null
+  },
+  {
+    "Driver": "PIA",
+    "Team": "McLaren",
+    "pitInLap": 41,
+    "pitOutLap": 42.0,
+    "fromCompound": "HARD",
+    "toCompound": "MEDIUM"
+  }
+]

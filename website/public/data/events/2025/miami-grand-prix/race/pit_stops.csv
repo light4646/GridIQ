@@ -1,0 +1,20 @@
+Driver,Team,pitInLap,pitOutLap,fromCompound,toCompound
+BOR,Kick Sauber,19,20.0,nan,nan
+STR,Aston Martin,20,21.0,nan,nan
+HAD,Racing Bulls,22,23.0,nan,nan
+OCO,Haas F1 Team,23,24.0,nan,HARD
+ANT,Mercedes,25,26.0,MEDIUM,MEDIUM
+SAI,Williams,25,26.0,MEDIUM,MEDIUM
+ALB,Williams,26,27.0,MEDIUM,MEDIUM
+VER,Red Bull Racing,26,27.0,MEDIUM,MEDIUM
+TSU,Red Bull Racing,27,28.0,MEDIUM,MEDIUM
+ALO,Aston Martin,28,29.0,HARD,HARD
+HAM,Ferrari,28,29.0,HARD,HARD
+LAW,Racing Bulls,28,29.0,HARD,HARD
+LEC,Ferrari,29,30.0,MEDIUM,MEDIUM
+NOR,McLaren,29,30.0,MEDIUM,MEDIUM
+PIA,McLaren,29,30.0,MEDIUM,MEDIUM
+RUS,Mercedes,29,30.0,HARD,HARD
+GAS,Alpine,32,33.0,HARD,MEDIUM
+HUL,Kick Sauber,36,37.0,HARD,MEDIUM
+LAW,Racing Bulls,36,,MEDIUM,

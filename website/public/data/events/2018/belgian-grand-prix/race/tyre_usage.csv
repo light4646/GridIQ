@@ -1,0 +1,4 @@
+Compound,laps,drivers,average_lap_seconds,best_lap_seconds,share
+SUPERSOFT,295,15,109.828,107.937,0.5277
+SOFT,226,12,109.544,106.286,0.4043
+MEDIUM,38,3,112.521,111.537,0.068

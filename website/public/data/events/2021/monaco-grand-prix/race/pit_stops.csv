@@ -1,0 +1,20 @@
+Driver,Team,pitInLap,pitOutLap,fromCompound,toCompound
+HAM,Mercedes,29,30,SOFT,HARD
+GAS,AlphaTauri,30,31,SOFT,HARD
+NOR,McLaren,30,31,SOFT,HARD
+RUS,Williams,31,32,MEDIUM,HARD
+VET,Aston Martin,31,32,SOFT,HARD
+SAI,Ferrari,32,33,SOFT,HARD
+GIO,Alfa Romeo Racing,33,34,SOFT,HARD
+MAZ,Haas F1 Team,34,35,SOFT,HARD
+VER,Red Bull Racing,34,35,SOFT,HARD
+PER,Red Bull Racing,35,36,SOFT,HARD
+RIC,McLaren,36,37,MEDIUM,HARD
+MSC,Haas F1 Team,37,38,SOFT,HARD
+OCO,Alpine,37,38,SOFT,MEDIUM
+LAT,Williams,43,44,MEDIUM,HARD
+RAI,Alfa Romeo Racing,43,44,MEDIUM,HARD
+ALO,Alpine,45,46,MEDIUM,SOFT
+STR,Aston Martin,58,59,HARD,SOFT
+TSU,AlphaTauri,64,65,HARD,SOFT
+HAM,Mercedes,67,68,HARD,SOFT

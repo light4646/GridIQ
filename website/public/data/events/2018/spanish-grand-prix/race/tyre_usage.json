@@ -1,0 +1,34 @@
+[
+  {
+    "Compound": "MEDIUM",
+    "laps": 545,
+    "drivers": 16,
+    "average_lap_seconds": 84.074,
+    "best_lap_seconds": 78.441,
+    "share": 0.6042
+  },
+  {
+    "Compound": "SOFT",
+    "laps": 308,
+    "drivers": 14,
+    "average_lap_seconds": 84.79,
+    "best_lap_seconds": 80.603,
+    "share": 0.3415
+  },
+  {
+    "Compound": "SUPERSOFT",
+    "laps": 35,
+    "drivers": 2,
+    "average_lap_seconds": 84.204,
+    "best_lap_seconds": 82.68,
+    "share": 0.0388
+  },
+  {
+    "Compound": "nan",
+    "laps": 14,
+    "drivers": 14,
+    "average_lap_seconds": 117.021,
+    "best_lap_seconds": 108.152,
+    "share": 0.0155
+  }
+]

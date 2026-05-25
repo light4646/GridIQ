@@ -1,0 +1,26 @@
+[
+  {
+    "Compound": "nan",
+    "laps": 407,
+    "drivers": 19,
+    "average_lap_seconds": 93.921,
+    "best_lap_seconds": 91.312,
+    "share": 0.4473
+  },
+  {
+    "Compound": "HARD",
+    "laps": 342,
+    "drivers": 19,
+    "average_lap_seconds": 92.009,
+    "best_lap_seconds": 89.746,
+    "share": 0.3758
+  },
+  {
+    "Compound": "MEDIUM",
+    "laps": 161,
+    "drivers": 14,
+    "average_lap_seconds": 91.88,
+    "best_lap_seconds": 90.17,
+    "share": 0.1769
+  }
+]

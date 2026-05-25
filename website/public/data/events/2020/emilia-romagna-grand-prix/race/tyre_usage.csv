@@ -1,0 +1,4 @@
+Compound,laps,drivers,average_lap_seconds,best_lap_seconds,share
+HARD,434,15,80.541,77.279,0.4297
+MEDIUM,397,15,80.61,77.502,0.3931
+SOFT,179,15,82.862,75.484,0.1772

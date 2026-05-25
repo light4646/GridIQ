@@ -1,0 +1,50 @@
+[
+  {
+    "Compound": "SOFT",
+    "laps": 457,
+    "drivers": 15,
+    "average_lap_seconds": 80.293,
+    "best_lap_seconds": 76.956,
+    "share": 0.4151
+  },
+  {
+    "Compound": "ULTRASOFT",
+    "laps": 396,
+    "drivers": 16,
+    "average_lap_seconds": 80.116,
+    "best_lap_seconds": 75.545,
+    "share": 0.3597
+  },
+  {
+    "Compound": "MEDIUM",
+    "laps": 226,
+    "drivers": 10,
+    "average_lap_seconds": 80.125,
+    "best_lap_seconds": 78.262,
+    "share": 0.2053
+  },
+  {
+    "Compound": "nan",
+    "laps": 16,
+    "drivers": 16,
+    "average_lap_seconds": 87.278,
+    "best_lap_seconds": 77.942,
+    "share": 0.0145
+  },
+  {
+    "Compound": "INTERMEDIATE",
+    "laps": 5,
+    "drivers": 4,
+    "average_lap_seconds": 88.741,
+    "best_lap_seconds": 87.445,
+    "share": 0.0045
+  },
+  {
+    "Compound": "WET",
+    "laps": 1,
+    "drivers": 1,
+    "average_lap_seconds": 94.544,
+    "best_lap_seconds": 94.544,
+    "share": 0.0009
+  }
+]

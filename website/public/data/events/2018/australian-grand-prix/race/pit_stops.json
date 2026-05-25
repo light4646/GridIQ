@@ -1,0 +1,162 @@
+[
+  {
+    "Driver": "HAR",
+    "Team": "Toro Rosso",
+    "pitInLap": 1,
+    "pitOutLap": 2.0,
+    "fromCompound": "nan",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "RAI",
+    "Team": "Ferrari",
+    "pitInLap": 18,
+    "pitOutLap": 19.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "HAM",
+    "Team": "Mercedes",
+    "pitInLap": 19,
+    "pitOutLap": 20.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "LEC",
+    "Team": "Sauber",
+    "pitInLap": 20,
+    "pitOutLap": 21.0,
+    "fromCompound": "SUPERSOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "VER",
+    "Team": "Red Bull Racing",
+    "pitInLap": 21,
+    "pitOutLap": 22.0,
+    "fromCompound": "SUPERSOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "HAR",
+    "Team": "Toro Rosso",
+    "pitInLap": 22,
+    "pitOutLap": 23.0,
+    "fromCompound": "SOFT",
+    "toCompound": "ULTRASOFT"
+  },
+  {
+    "Driver": "MAG",
+    "Team": "Haas F1 Team",
+    "pitInLap": 22,
+    "pitOutLap": NaN,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": null
+  },
+  {
+    "Driver": "SAI",
+    "Team": "Renault",
+    "pitInLap": 22,
+    "pitOutLap": 23.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "OCO",
+    "Team": "Force India",
+    "pitInLap": 23,
+    "pitOutLap": 24.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "GRO",
+    "Team": "Haas F1 Team",
+    "pitInLap": 24,
+    "pitOutLap": NaN,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": null
+  },
+  {
+    "Driver": "HUL",
+    "Team": "Renault",
+    "pitInLap": 24,
+    "pitOutLap": 25.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "PER",
+    "Team": "Force India",
+    "pitInLap": 24,
+    "pitOutLap": 25.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "BOT",
+    "Team": "Mercedes",
+    "pitInLap": 25,
+    "pitOutLap": 26.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SUPERSOFT"
+  },
+  {
+    "Driver": "STR",
+    "Team": "Williams",
+    "pitInLap": 25,
+    "pitOutLap": 26.0,
+    "fromCompound": "SUPERSOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "VAN",
+    "Team": "McLaren",
+    "pitInLap": 25,
+    "pitOutLap": 26.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SUPERSOFT"
+  },
+  {
+    "Driver": "ALO",
+    "Team": "McLaren",
+    "pitInLap": 26,
+    "pitOutLap": 27.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "RIC",
+    "Team": "Red Bull Racing",
+    "pitInLap": 26,
+    "pitOutLap": 27.0,
+    "fromCompound": "SUPERSOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "VET",
+    "Team": "Ferrari",
+    "pitInLap": 26,
+    "pitOutLap": 27.0,
+    "fromCompound": "ULTRASOFT",
+    "toCompound": "SOFT"
+  },
+  {
+    "Driver": "LEC",
+    "Team": "Sauber",
+    "pitInLap": 27,
+    "pitOutLap": 28.0,
+    "fromCompound": "SOFT",
+    "toCompound": "ULTRASOFT"
+  },
+  {
+    "Driver": "STR",
+    "Team": "Williams",
+    "pitInLap": 29,
+    "pitOutLap": 30.0,
+    "fromCompound": "SOFT",
+    "toCompound": "ULTRASOFT"
+  }
+]

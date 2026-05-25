@@ -1,0 +1,18 @@
+Driver,Team,pitInLap,pitOutLap,fromCompound,toCompound
+BOT,Alfa Romeo,1,2.0,SOFT,HARD
+OCO,Alpine,1,2.0,SOFT,HARD
+PER,Red Bull Racing,1,2.0,HARD,MEDIUM
+SAR,Williams,1,2.0,HARD,MEDIUM
+ZHO,Alfa Romeo,1,2.0,SOFT,HARD
+PER,Red Bull Racing,2,3.0,MEDIUM,HARD
+SAR,Williams,2,3.0,MEDIUM,HARD
+MAG,Haas F1 Team,7,10.0,MEDIUM,HARD
+RUS,Mercedes,7,10.0,MEDIUM,HARD
+SAI,Ferrari,7,10.0,MEDIUM,HARD
+SAR,Williams,36,37.0,MEDIUM,HARD
+DEV,AlphaTauri,45,46.0,MEDIUM,SOFT
+BOT,Alfa Romeo,53,,HARD,
+PIA,McLaren,54,,HARD,
+TSU,AlphaTauri,54,,HARD,
+ZHO,Alfa Romeo,54,,HARD,
+HAM,Mercedes,57,,SOFT,

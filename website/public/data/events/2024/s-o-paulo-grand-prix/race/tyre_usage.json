@@ -1,0 +1,18 @@
+[
+  {
+    "Compound": "INTERMEDIATE",
+    "laps": 998,
+    "drivers": 18,
+    "average_lap_seconds": 86.073,
+    "best_lap_seconds": 80.472,
+    "share": 0.999
+  },
+  {
+    "Compound": "WET",
+    "laps": 1,
+    "drivers": 1,
+    "average_lap_seconds": 101.662,
+    "best_lap_seconds": 101.662,
+    "share": 0.001
+  }
+]

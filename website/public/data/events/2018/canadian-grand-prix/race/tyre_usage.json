@@ -1,0 +1,26 @@
+[
+  {
+    "Compound": "SUPERSOFT",
+    "laps": 788,
+    "drivers": 18,
+    "average_lap_seconds": 76.256,
+    "best_lap_seconds": 73.835,
+    "share": 0.7125
+  },
+  {
+    "Compound": "ULTRASOFT",
+    "laps": 231,
+    "drivers": 9,
+    "average_lap_seconds": 77.214,
+    "best_lap_seconds": 75.059,
+    "share": 0.2089
+  },
+  {
+    "Compound": "HYPERSOFT",
+    "laps": 87,
+    "drivers": 8,
+    "average_lap_seconds": 77.144,
+    "best_lap_seconds": 75.765,
+    "share": 0.0787
+  }
+]

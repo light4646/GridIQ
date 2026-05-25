@@ -1,33 +1,16 @@
-
-
 #!/usr/bin/env python3
-"""Build a processed FastF1 dataset for one event/session.
+"""Build processed FastF1 datasets for one event/session or many races.
 
 Examples:
   python scripts/build_event_dataset.py --year 2024 --event Monza --session R
   python scripts/build_event_dataset.py --year 2024 --event Silverstone --session Q
-  python scripts/build_event_dataset.py --year 2024 --event "British Grand Prix" --session Race
+
+  # Build Race analytics for every completed race in a season range
+  python scripts/build_event_dataset.py --all-races --start-year 2024 --end-year 2024 --session Race --skip-existing
+  python scripts/build_event_dataset.py --all-races --start-year 2000 --end-year 2026 --session Race --through-date 2026-05-24 --skip-existing
 
 Outputs are written to:
   output/events/<year>/<event-slug>/<session-slug>/
-
-For race/sprint sessions:
-  laps.csv
-  laps.json
-  pace.csv
-  pace.json
-  stints.csv
-  stints.json
-  pit_stops.csv
-  pit_stops.json
-  tyre_usage.csv
-  tyre_usage.json
-  metadata.json
-
-For qualifying sessions:
-  qualifying.csv
-  qualifying.json
-  metadata.json
 """
 
 from __future__ import annotations
@@ -104,10 +87,15 @@ QUALIFYING_COLUMNS = [
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Build one processed FastF1 event dataset.")
-    parser.add_argument("--year", type=int, required=True, help="Season year, e.g. 2024")
-    parser.add_argument("--event", type=str, required=True, help="Event name/location, e.g. Monza")
-    parser.add_argument("--session", type=str, required=True, help="Session, e.g. R, Race, Q, Qualifying")
+    parser = argparse.ArgumentParser(description="Build processed FastF1 event datasets.")
+    parser.add_argument("--year", type=int, help="Season year, e.g. 2024")
+    parser.add_argument("--event", type=str, help="Event name/location, e.g. Monza")
+    parser.add_argument("--session", type=str, default="Race", help="Session, e.g. R, Race, Q, Qualifying")
+    parser.add_argument("--all-races", action="store_true", help="Build race analytics for every race in a season range")
+    parser.add_argument("--start-year", type=int, help="First season year for --all-races")
+    parser.add_argument("--end-year", type=int, help="Last season year for --all-races")
+    parser.add_argument("--through-date", type=str, help="Only build events on or before this YYYY-MM-DD date")
+    parser.add_argument("--skip-existing", action="store_true", help="Skip events whose metadata.json already exists")
     return parser.parse_args()
 
 
@@ -130,20 +118,64 @@ def event_output_dir(year: int, event_name: str, session: str) -> Path:
     return OUTPUT_DIR / "events" / str(year) / slugify(event_name) / normalize_session_slug(session)
 
 
+def event_metadata_path(year: int, event_name: str, session: str) -> Path:
+    return event_output_dir(year, event_name, session) / "metadata.json"
+
+
+def event_has_existing_output(year: int, event_name: str, session: str) -> bool:
+    return event_metadata_path(year, event_name, session).exists()
+
+
+def parse_cutoff_date(value: str | None) -> pd.Timestamp | None:
+    if not value:
+        return None
+    return pd.Timestamp(value).tz_localize(None)
+
+
+def event_date_value(event_row: pd.Series) -> pd.Timestamp | None:
+    for column in ["EventDate", "Session5Date", "Session4Date", "Session3Date", "Session2Date", "Session1Date"]:
+        value = event_row.get(column)
+        if pd.notna(value):
+            return pd.Timestamp(value).tz_localize(None)
+    return None
+
+
+def scheduled_race_events(year: int, through_date: str | None = None) -> list[dict[str, Any]]:
+    cutoff = parse_cutoff_date(through_date)
+    schedule = fastf1.get_event_schedule(year, include_testing=False)
+    events: list[dict[str, Any]] = []
+
+    for _, row in schedule.iterrows():
+        event_name = str(row.get("EventName", "")).strip()
+        round_number = row.get("RoundNumber")
+        event_format = str(row.get("EventFormat", "")).lower()
+        event_date = event_date_value(row)
+
+        if not event_name or event_name.lower() == "nan":
+            continue
+        if pd.isna(round_number) or int(round_number) <= 0:
+            continue
+        if "testing" in event_format:
+            continue
+        if cutoff is not None and event_date is not None and event_date > cutoff:
+            continue
+
+        events.append(
+            {
+                "year": year,
+                "round": int(round_number),
+                "event_name": event_name,
+                "event_date": event_date.isoformat() if event_date is not None else None,
+            }
+        )
+
+    return sorted(events, key=lambda item: item["round"])
+
+
 def timedelta_to_seconds(value: Any) -> float | None:
     if pd.isna(value):
         return None
     return float(pd.to_timedelta(value).total_seconds())
-
-
-def json_clean_value(value: Any) -> Any:
-    if pd.isna(value):
-        return None
-    if isinstance(value, pd.Timedelta):
-        return str(value)
-    if isinstance(value, pd.Timestamp):
-        return value.isoformat()
-    return value
 
 
 def dataframe_to_json_records(frame: pd.DataFrame) -> list[dict[str, Any]]:
@@ -399,32 +431,41 @@ def build_metadata(
     }
 
 
-def main() -> None:
-    args = parse_args()
-
+def build_one_event_dataset(year: int, event: str, session_input: str, skip_existing: bool = False) -> dict[str, Any]:
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     fastf1.Cache.enable_cache(str(CACHE_DIR))
 
-    session_slug = normalize_session_slug(args.session)
-    session_code = fastf1_session_code(args.session)
-    out_dir = event_output_dir(args.year, args.event, args.session)
+    session_slug = normalize_session_slug(session_input)
+    session_code = fastf1_session_code(session_input)
+    out_dir = event_output_dir(year, event, session_input)
+
+    if skip_existing and event_has_existing_output(year, event, session_input):
+        print(f"Skipping existing dataset: {year} {event} {session_slug}")
+        return {
+            "year": year,
+            "event": event,
+            "session": session_slug,
+            "status": "skipped_existing",
+            "output_dir": str(out_dir),
+        }
+
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"Loading FastF1 session: {args.year} {args.event} {session_code}")
-    session = fastf1.get_session(args.year, args.event, session_code)
-    session.load(laps=True, telemetry=False, weather=False, messages=False)
+    print(f"Loading FastF1 session: {year} {event} {session_code}")
+    loaded_session = fastf1.get_session(year, event, session_code)
+    loaded_session.load(laps=True, telemetry=False, weather=False, messages=False)
 
     metadata = build_metadata(
-        year=args.year,
-        event_input=args.event,
-        session_input=args.session,
-        session=session,
+        year=year,
+        event_input=event,
+        session_input=session_input,
+        session=loaded_session,
         output_dir=out_dir,
     )
 
     if session_slug in {"race", "sprint", "fp1", "fp2", "fp3"}:
-        laps = prepare_laps(session)
+        laps = prepare_laps(loaded_session)
         export_json_csv(laps, out_dir / "laps.csv", out_dir / "laps.json")
 
         metadata["rows_laps"] = int(len(laps))
@@ -449,19 +490,116 @@ def main() -> None:
             metadata["rows_tyre_usage"] = int(len(tyre_usage))
 
     elif session_slug == "qualifying":
-        qualifying = prepare_qualifying_results(session)
+        qualifying = prepare_qualifying_results(loaded_session)
         export_json_csv(qualifying, out_dir / "qualifying.csv", out_dir / "qualifying.json")
         metadata["rows_qualifying"] = int(len(qualifying))
         metadata["drivers"] = sorted(qualifying["Driver"].dropna().unique().tolist())
 
     else:
-        raise ValueError(f"Unsupported session type for this builder: {args.session}")
+        raise ValueError(f"Unsupported session type for this builder: {session_input}")
 
     (out_dir / "metadata.json").write_text(json.dumps(metadata, indent=2), encoding="utf-8")
 
     print("Done.")
     print(f"Output directory: {out_dir}")
     print(json.dumps(metadata, indent=2))
+
+    return {
+        "year": year,
+        "event": event,
+        "session": session_slug,
+        "status": "built",
+        "output_dir": str(out_dir),
+        "metadata": metadata,
+    }
+
+
+def build_all_races(args: argparse.Namespace) -> None:
+    if args.start_year is None or args.end_year is None:
+        raise ValueError("--all-races requires --start-year and --end-year")
+
+    results: list[dict[str, Any]] = []
+    failed: list[dict[str, Any]] = []
+
+    for year in range(args.start_year, args.end_year + 1):
+        print(f"\n=== Discovering races for {year} ===")
+        events = scheduled_race_events(year, through_date=args.through_date)
+        print(f"Found {len(events)} race events for {year}")
+
+        for event_info in events:
+            event_name = event_info["event_name"]
+            try:
+                result = build_one_event_dataset(
+                    year=year,
+                    event=event_name,
+                    session_input=args.session,
+                    skip_existing=args.skip_existing,
+                )
+                result["round"] = event_info["round"]
+                result["event_date"] = event_info["event_date"]
+                results.append(result)
+            except Exception as exc:
+                failure = {
+                    "year": year,
+                    "round": event_info["round"],
+                    "event": event_name,
+                    "session": normalize_session_slug(args.session),
+                    "status": "failed",
+                    "error": str(exc),
+                }
+                failed.append(failure)
+                results.append(failure)
+                print(f"FAILED: {year} {event_name}: {exc}")
+
+    manifest = {
+        "start_year": args.start_year,
+        "end_year": args.end_year,
+        "through_date": args.through_date,
+        "session": normalize_session_slug(args.session),
+        "built": sum(1 for item in results if item.get("status") == "built"),
+        "skipped_existing": sum(1 for item in results if item.get("status") == "skipped_existing"),
+        "failed": len(failed),
+        "events": results,
+    }
+
+    manifest_path = OUTPUT_DIR / "events" / "manifest.json"
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    manifest_path.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+
+    print("\n=== Event dataset batch complete ===")
+    print(
+        json.dumps(
+            {
+                "start_year": manifest["start_year"],
+                "end_year": manifest["end_year"],
+                "through_date": manifest["through_date"],
+                "session": manifest["session"],
+                "built": manifest["built"],
+                "skipped_existing": manifest["skipped_existing"],
+                "failed": manifest["failed"],
+            },
+            indent=2,
+        )
+    )
+    print(f"Manifest: {manifest_path}")
+
+
+def main() -> None:
+    args = parse_args()
+
+    if args.all_races:
+        build_all_races(args)
+        return
+
+    if args.year is None or not args.event:
+        raise ValueError("Single-event mode requires --year and --event")
+
+    build_one_event_dataset(
+        year=args.year,
+        event=args.event,
+        session_input=args.session,
+        skip_existing=args.skip_existing,
+    )
 
 
 if __name__ == "__main__":

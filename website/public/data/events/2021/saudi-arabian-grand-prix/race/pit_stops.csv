@@ -1,0 +1,13 @@
+Driver,Team,pitInLap,pitOutLap,fromCompound,toCompound
+RUS,Williams,9,10.0,MEDIUM,HARD
+STR,Aston Martin,9,10.0,MEDIUM,HARD
+ALO,Alpine,10,17.0,MEDIUM,HARD
+BOT,Mercedes,10,17.0,MEDIUM,MEDIUM
+HAM,Mercedes,10,18.0,MEDIUM,HARD
+LAT,Williams,10,17.0,MEDIUM,HARD
+LEC,Ferrari,10,17.0,MEDIUM,HARD
+NOR,McLaren,10,17.0,SOFT,HARD
+PER,Red Bull Racing,10,,MEDIUM,
+RAI,Alfa Romeo Racing,26,27.0,HARD,MEDIUM
+ALO,Alpine,44,45.0,HARD,SOFT
+VET,Aston Martin,44,,MEDIUM,

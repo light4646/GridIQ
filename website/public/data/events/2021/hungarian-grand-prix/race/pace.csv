@@ -1,0 +1,15 @@
+pace_rank,Driver,Team,DriverNumber,clean_laps,average_lap_seconds,median_lap_seconds,best_lap_seconds,lap_time_std_seconds,gap_to_best_avg_seconds
+1,HAM,Mercedes,44,58,81.957,81.62,78.715,1.648,0.0
+2,SAI,Ferrari,55,61,82.718,82.192,81.423,1.168,0.761
+3,OCO,Alpine,31,61,82.635,82.459,81.421,0.927,0.678
+4,VET,Aston Martin,5,61,82.661,82.502,81.459,0.922,0.704
+5,ALO,Alpine,14,61,82.711,82.514,80.359,1.27,0.754
+6,GAS,AlphaTauri,10,59,83.027,82.591,78.394,1.317,1.07
+7,TSU,AlphaTauri,22,61,83.574,83.17,82.45,0.827,1.617
+8,VER,Red Bull Racing,33,58,83.304,83.196,80.945,1.313,1.347
+9,RAI,Alfa Romeo Racing,7,58,83.404,83.263,81.518,1.141,1.447
+10,RUS,Williams,63,61,83.671,83.452,82.112,0.976,1.714
+11,LAT,Williams,6,61,83.724,83.508,82.831,0.564,1.767
+12,GIO,Alfa Romeo Racing,99,58,83.78,83.517,82.736,0.88,1.823
+13,MSC,Haas F1 Team,47,60,84.238,83.709,82.711,1.207,2.281
+14,RIC,McLaren,3,60,84.124,83.882,82.802,0.977,2.167

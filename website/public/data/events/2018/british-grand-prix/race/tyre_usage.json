@@ -1,0 +1,34 @@
+[
+  {
+    "Compound": "SOFT",
+    "laps": 418,
+    "drivers": 18,
+    "average_lap_seconds": 97.356,
+    "best_lap_seconds": 90.696,
+    "share": 0.5325
+  },
+  {
+    "Compound": "MEDIUM",
+    "laps": 310,
+    "drivers": 18,
+    "average_lap_seconds": 97.565,
+    "best_lap_seconds": 91.245,
+    "share": 0.3949
+  },
+  {
+    "Compound": "HARD",
+    "laps": 41,
+    "drivers": 2,
+    "average_lap_seconds": 98.848,
+    "best_lap_seconds": 93.405,
+    "share": 0.0522
+  },
+  {
+    "Compound": "nan",
+    "laps": 16,
+    "drivers": 15,
+    "average_lap_seconds": 103.132,
+    "best_lap_seconds": 92.918,
+    "share": 0.0204
+  }
+]

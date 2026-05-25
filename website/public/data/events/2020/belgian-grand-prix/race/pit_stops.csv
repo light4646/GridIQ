@@ -1,0 +1,11 @@
+Driver,Team,pitInLap,pitOutLap,fromCompound,toCompound
+GRO,Haas F1 Team,10,14,MEDIUM,HARD
+LAT,Williams,10,12,MEDIUM,HARD
+LEC,Ferrari,10,15,SOFT,HARD
+MAG,Haas F1 Team,10,12,MEDIUM,HARD
+RAI,Alfa Romeo Racing,10,15,MEDIUM,SOFT
+PER,Racing Point,18,19,SOFT,HARD
+LEC,Ferrari,24,25,HARD,MEDIUM
+GAS,AlphaTauri,26,27,HARD,MEDIUM
+LAT,Williams,30,31,HARD,MEDIUM
+MAG,Haas F1 Team,35,36,HARD,SOFT
