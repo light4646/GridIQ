@@ -10,6 +10,10 @@ const featureCards = [
     body: "Compare wins, podiums, points, poles, and constructor records across the modern historical database.",
   },
   {
+    title: "Constructor database",
+    body: "Review constructor wins, podiums, points, active seasons, titles, drivers, and championship finishes from 2000 to 2026.",
+  },
+  {
     title: "Race intelligence",
     body: "Auto-generated story cards summarize pace leaders, strategy triggers, tyre mix, and qualifying-to-race swings.",
   },
@@ -29,6 +33,11 @@ const mainLinks = [
     href: "/records",
     title: "Records",
     subtitle: "Wins, podiums, points, poles",
+  },
+  {
+    href: "/constructors",
+    title: "Constructors",
+    subtitle: "Teams, wins, titles, points",
   },
   {
     href: "/seasons/2026",
@@ -62,17 +71,23 @@ export default function HomePage() {
             <h1>Formula 1 stats, seasons, records, and race intelligence.</h1>
             <p>
               GridIQ combines a historical F1 database from 2000 to 2026 with selected
-              FastF1 race analytics, giving you season pages, records, standings,
-              race winners, lap traces, strategy windows, and copyable insights.
+              FastF1 race analytics, giving you season pages, records, constructor
+              tables, standings, race winners, lap traces, strategy windows, and copyable insights.
             </p>
           </div>
 
           <div className="heroActions">
             <Link className="ghostLink" href="/seasons">
-              Browse Seasons
+              Seasons
             </Link>
             <Link className="ghostLink" href="/records">
-              View Records
+              Records
+            </Link>
+            <Link className="ghostLink" href="/drivers">
+              Drivers
+            </Link>
+            <Link className="ghostLink" href="/constructors">
+              Constructors
             </Link>
           </div>
         </section>
@@ -91,9 +106,9 @@ export default function HomePage() {
           </div>
 
           <div className="card">
-            <div className="label">Records</div>
+            <div className="label">Constructors</div>
             <div className="value valueSmall">Live</div>
-            <p className="small">Wins, podiums, poles, points, and constructor totals.</p>
+            <p className="small">Team titles, wins, podiums, points, and driver histories.</p>
           </div>
 
           <div className="card">
@@ -108,8 +123,8 @@ export default function HomePage() {
             <div>
               <h2>What GridIQ does</h2>
               <p>
-                A real F1 stats platform with historical seasons, records, standings,
-                and selected race intelligence dashboards.
+                A real F1 stats platform with historical seasons, records, drivers,
+                constructors, standings, and selected race intelligence dashboards.
               </p>
             </div>
             <div className="pill">Production-ready MVP</div>
@@ -157,6 +172,9 @@ export default function HomePage() {
               <Link className="ghostLink" href="/drivers">
                 Driver index
               </Link>
+              <Link className="ghostLink" href="/constructors">
+                Constructor index
+              </Link>
               <Link className="ghostLink" href="/seasons">
                 Season index
               </Link>
@@ -169,8 +187,8 @@ export default function HomePage() {
               <Link className="ghostLink" href="/drivers/ham">
                 Example driver: HAM
               </Link>
-              <Link className="ghostLink" href="/compare?driverA=lec&driverB=ham">
-                Compare LEC vs HAM
+              <Link className="ghostLink" href="/compare?driverA=lewis-hamilton&driverB=max-verstappen">
+                Compare Hamilton vs Verstappen
               </Link>
             </div>
           </div>
@@ -182,7 +200,7 @@ export default function HomePage() {
               <h2>Built for the next phase</h2>
               <p>
                 The historical backbone is now loaded from 2000 to 2026. The next phase
-                can add richer driver profiles, constructor pages, charts, search, and
+                can add richer driver profiles, constructor profiles, charts, search, and
                 automated updates after every Grand Prix.
               </p>
             </div>
