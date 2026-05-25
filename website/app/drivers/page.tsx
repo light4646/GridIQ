@@ -31,6 +31,22 @@ function getDriverKey(driverId?: string, driverName?: string) {
   return driverId || driverName || "unknown";
 }
 
+function getConstructorName(row: { constructor?: unknown; constructor_id?: unknown }) {
+  if (
+    Object.prototype.hasOwnProperty.call(row, "constructor") &&
+    typeof row.constructor === "string" &&
+    row.constructor.length > 0
+  ) {
+    return row.constructor;
+  }
+
+  if (typeof row.constructor_id === "string" && row.constructor_id.length > 0) {
+    return row.constructor_id;
+  }
+
+  return null;
+}
+
 function getHistoricalDriverSummaries() {
   const years = getAvailableSeasonYears();
   const drivers = new Map<string, HistoricalDriverSummary>();
@@ -66,8 +82,9 @@ function getHistoricalDriverSummaries() {
         entry.driverCode = result.driver_code;
       }
 
-      if (result.constructor) {
-        entry.constructors.add(result.constructor);
+      const constructorName = getConstructorName(result);
+      if (constructorName) {
+        entry.constructors.add(constructorName);
       }
 
       if (result.position === 1) {
@@ -104,8 +121,9 @@ function getHistoricalDriverSummaries() {
       entry.seasons.add(year);
       entry.poles += 1;
 
-      if (result.constructor) {
-        entry.constructors.add(result.constructor);
+      const constructorName = getConstructorName(result);
+      if (constructorName) {
+        entry.constructors.add(constructorName);
       }
 
       drivers.set(key, entry);
@@ -132,7 +150,9 @@ function getHistoricalDriverSummaries() {
       entry.seasons.add(year);
 
       for (const constructorName of standing.constructors ?? []) {
-        if (constructorName) entry.constructors.add(constructorName);
+        if (typeof constructorName === "string" && constructorName.length > 0) {
+          entry.constructors.add(constructorName);
+        }
       }
 
       if (
