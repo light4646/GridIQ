@@ -1,0 +1,12 @@
+{
+  "name": "GridIQ session laps",
+  "year": 2024,
+  "gp": "Italy",
+  "session": "R",
+  "event_name": "Italian Grand Prix",
+  "meeting_name": null,
+  "session_name": "Race",
+  "rows": 1008,
+  "csv": "/Users/light/jarvis/00 Light/Projects/f1-stats-site/data-pipeline/output/monza_2024_race_laps.csv",
+  "json": "/Users/light/jarvis/00 Light/Projects/f1-stats-site/data-pipeline/output/monza_2024_race_laps.json"
+}

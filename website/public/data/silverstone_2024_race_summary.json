@@ -1,0 +1,18 @@
+{
+  "slug": "silverstone_2024_race",
+  "source_laps": "output/silverstone_2024_race_laps.csv",
+  "input_laps": 961,
+  "valid_laps_counted": 850,
+  "drivers": 19,
+  "leader": {
+    "rank": 1,
+    "driver": "HAM",
+    "team": "Mercedes",
+    "laps_counted": 47,
+    "average_lap_seconds": 93.838,
+    "gap_to_best_avg_seconds": 0.0,
+    "median_lap_seconds": 91.675,
+    "best_lap_seconds": 89.438,
+    "consistency_std_seconds": 4.709
+  }
+}

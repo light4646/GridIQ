@@ -1,0 +1,18 @@
+{
+  "slug": "monza_2024_race",
+  "source_laps": "/Users/light/jarvis/00 Light/Projects/f1-stats-site/data-pipeline/output/monza_2024_race_laps.csv",
+  "input_laps": 1008,
+  "valid_laps_counted": 927,
+  "drivers": 20,
+  "leader": {
+    "rank": 1,
+    "driver": "PIA",
+    "team": "McLaren",
+    "laps_counted": 48,
+    "average_lap_seconds": 83.542,
+    "gap_to_best_avg_seconds": 0.0,
+    "median_lap_seconds": 83.468,
+    "best_lap_seconds": 81.943,
+    "consistency_std_seconds": 0.941
+  }
+}

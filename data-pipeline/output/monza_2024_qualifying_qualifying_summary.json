@@ -1,0 +1,19 @@
+{
+  "slug": "monza_2024_qualifying",
+  "source_laps": "output/monza_2024_qualifying_laps.csv",
+  "input_laps": 276,
+  "valid_laps_counted": 92,
+  "drivers": 20,
+  "pole": {
+    "rank": 1,
+    "driver": "NOR",
+    "team": "McLaren",
+    "best_lap_seconds": 79.327,
+    "gap_to_pole_seconds": 0.0,
+    "best_lap_number": 11,
+    "sector1_seconds": 26.492,
+    "sector2_seconds": 26.579,
+    "sector3_seconds": 26.256,
+    "laps_counted": 4
+  }
+}

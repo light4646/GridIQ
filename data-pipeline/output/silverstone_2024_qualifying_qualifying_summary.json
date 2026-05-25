@@ -1,0 +1,19 @@
+{
+  "slug": "silverstone_2024_qualifying",
+  "source_laps": "output/silverstone_2024_qualifying_laps.csv",
+  "input_laps": 368,
+  "valid_laps_counted": 177,
+  "drivers": 20,
+  "pole": {
+    "rank": 1,
+    "driver": "RUS",
+    "team": "Mercedes",
+    "best_lap_seconds": 85.819,
+    "gap_to_pole_seconds": 0.0,
+    "best_lap_number": 25,
+    "sector1_seconds": 28.016,
+    "sector2_seconds": 34.508,
+    "sector3_seconds": 23.295,
+    "laps_counted": 13
+  }
+}

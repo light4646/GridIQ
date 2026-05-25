@@ -1,0 +1,222 @@
+[
+  {
+    "rank": 1,
+    "driver": "PIA",
+    "team": "McLaren",
+    "laps_counted": 48,
+    "average_lap_seconds": 83.542,
+    "gap_to_best_avg_seconds": 0.0,
+    "median_lap_seconds": 83.468,
+    "best_lap_seconds": 81.943,
+    "consistency_std_seconds": 0.941
+  },
+  {
+    "rank": 2,
+    "driver": "NOR",
+    "team": "McLaren",
+    "laps_counted": 48,
+    "average_lap_seconds": 83.608,
+    "gap_to_best_avg_seconds": 0.066,
+    "median_lap_seconds": 83.591,
+    "best_lap_seconds": 81.432,
+    "consistency_std_seconds": 1.033
+  },
+  {
+    "rank": 3,
+    "driver": "HAM",
+    "team": "Mercedes",
+    "laps_counted": 48,
+    "average_lap_seconds": 83.897,
+    "gap_to_best_avg_seconds": 0.355,
+    "median_lap_seconds": 83.656,
+    "best_lap_seconds": 81.512,
+    "consistency_std_seconds": 1.171
+  },
+  {
+    "rank": 4,
+    "driver": "LEC",
+    "team": "Ferrari",
+    "laps_counted": 50,
+    "average_lap_seconds": 83.949,
+    "gap_to_best_avg_seconds": 0.407,
+    "median_lap_seconds": 83.716,
+    "best_lap_seconds": 83.226,
+    "consistency_std_seconds": 0.623
+  },
+  {
+    "rank": 5,
+    "driver": "RUS",
+    "team": "Mercedes",
+    "laps_counted": 48,
+    "average_lap_seconds": 83.984,
+    "gap_to_best_avg_seconds": 0.442,
+    "median_lap_seconds": 84.28,
+    "best_lap_seconds": 82.036,
+    "consistency_std_seconds": 1.163
+  },
+  {
+    "rank": 6,
+    "driver": "VER",
+    "team": "Red Bull Racing",
+    "laps_counted": 48,
+    "average_lap_seconds": 84.124,
+    "gap_to_best_avg_seconds": 0.582,
+    "median_lap_seconds": 83.619,
+    "best_lap_seconds": 81.745,
+    "consistency_std_seconds": 1.11
+  },
+  {
+    "rank": 7,
+    "driver": "SAI",
+    "team": "Ferrari",
+    "laps_counted": 50,
+    "average_lap_seconds": 84.236,
+    "gap_to_best_avg_seconds": 0.694,
+    "median_lap_seconds": 83.926,
+    "best_lap_seconds": 83.219,
+    "consistency_std_seconds": 0.775
+  },
+  {
+    "rank": 8,
+    "driver": "PER",
+    "team": "Red Bull Racing",
+    "laps_counted": 48,
+    "average_lap_seconds": 84.499,
+    "gap_to_best_avg_seconds": 0.957,
+    "median_lap_seconds": 84.524,
+    "best_lap_seconds": 82.971,
+    "consistency_std_seconds": 1.003
+  },
+  {
+    "rank": 9,
+    "driver": "ALO",
+    "team": "Aston Martin",
+    "laps_counted": 48,
+    "average_lap_seconds": 84.74,
+    "gap_to_best_avg_seconds": 1.198,
+    "median_lap_seconds": 84.887,
+    "best_lap_seconds": 82.944,
+    "consistency_std_seconds": 1.025
+  },
+  {
+    "rank": 10,
+    "driver": "MAG",
+    "team": "Haas F1 Team",
+    "laps_counted": 50,
+    "average_lap_seconds": 84.963,
+    "gap_to_best_avg_seconds": 1.421,
+    "median_lap_seconds": 84.796,
+    "best_lap_seconds": 83.437,
+    "consistency_std_seconds": 0.893
+  },
+  {
+    "rank": 11,
+    "driver": "HUL",
+    "team": "Haas F1 Team",
+    "laps_counted": 47,
+    "average_lap_seconds": 85.058,
+    "gap_to_best_avg_seconds": 1.516,
+    "median_lap_seconds": 85.194,
+    "best_lap_seconds": 83.275,
+    "consistency_std_seconds": 1.099
+  },
+  {
+    "rank": 12,
+    "driver": "ALB",
+    "team": "Williams",
+    "laps_counted": 50,
+    "average_lap_seconds": 85.175,
+    "gap_to_best_avg_seconds": 1.633,
+    "median_lap_seconds": 85.059,
+    "best_lap_seconds": 83.918,
+    "consistency_std_seconds": 0.76
+  },
+  {
+    "rank": 13,
+    "driver": "RIC",
+    "team": "RB",
+    "laps_counted": 50,
+    "average_lap_seconds": 85.238,
+    "gap_to_best_avg_seconds": 1.696,
+    "median_lap_seconds": 85.04,
+    "best_lap_seconds": 84.219,
+    "consistency_std_seconds": 0.606
+  },
+  {
+    "rank": 14,
+    "driver": "STR",
+    "team": "Aston Martin",
+    "laps_counted": 45,
+    "average_lap_seconds": 85.27,
+    "gap_to_best_avg_seconds": 1.728,
+    "median_lap_seconds": 85.064,
+    "best_lap_seconds": 82.232,
+    "consistency_std_seconds": 1.224
+  },
+  {
+    "rank": 15,
+    "driver": "GAS",
+    "team": "Alpine",
+    "laps_counted": 47,
+    "average_lap_seconds": 85.324,
+    "gap_to_best_avg_seconds": 1.782,
+    "median_lap_seconds": 85.229,
+    "best_lap_seconds": 83.755,
+    "consistency_std_seconds": 0.888
+  },
+  {
+    "rank": 16,
+    "driver": "COL",
+    "team": "Williams",
+    "laps_counted": 50,
+    "average_lap_seconds": 85.372,
+    "gap_to_best_avg_seconds": 1.83,
+    "median_lap_seconds": 85.066,
+    "best_lap_seconds": 83.728,
+    "consistency_std_seconds": 0.911
+  },
+  {
+    "rank": 17,
+    "driver": "OCO",
+    "team": "Alpine",
+    "laps_counted": 49,
+    "average_lap_seconds": 85.765,
+    "gap_to_best_avg_seconds": 2.223,
+    "median_lap_seconds": 86.013,
+    "best_lap_seconds": 84.343,
+    "consistency_std_seconds": 0.818
+  },
+  {
+    "rank": 18,
+    "driver": "BOT",
+    "team": "Kick Sauber",
+    "laps_counted": 49,
+    "average_lap_seconds": 86.024,
+    "gap_to_best_avg_seconds": 2.482,
+    "median_lap_seconds": 86.31,
+    "best_lap_seconds": 83.609,
+    "consistency_std_seconds": 1.094
+  },
+  {
+    "rank": 19,
+    "driver": "ZHO",
+    "team": "Kick Sauber",
+    "laps_counted": 49,
+    "average_lap_seconds": 86.181,
+    "gap_to_best_avg_seconds": 2.639,
+    "median_lap_seconds": 85.942,
+    "best_lap_seconds": 85.092,
+    "consistency_std_seconds": 0.842
+  },
+  {
+    "rank": 20,
+    "driver": "TSU",
+    "team": "RB",
+    "laps_counted": 5,
+    "average_lap_seconds": 88.223,
+    "gap_to_best_avg_seconds": 4.681,
+    "median_lap_seconds": 87.538,
+    "best_lap_seconds": 86.198,
+    "consistency_std_seconds": 2.154
+  }
+]
