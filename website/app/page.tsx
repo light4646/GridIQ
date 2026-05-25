@@ -2,24 +2,44 @@ import Link from "next/link";
 
 const featureCards = [
   {
+    title: "Historical database",
+    body: "Browse every loaded F1 season from 2000 to 2026, including calendars, winners, driver standings, and constructor standings.",
+  },
+  {
+    title: "Records hub",
+    body: "Compare wins, podiums, points, poles, and constructor records across the modern historical database.",
+  },
+  {
     title: "Race intelligence",
     body: "Auto-generated story cards summarize pace leaders, strategy triggers, tyre mix, and qualifying-to-race swings.",
   },
   {
-    title: "Driver analytics",
-    body: "Explore driver pages with race pace, event-by-event performance, lap traces, and comparison links.",
-  },
-  {
-    title: "Strategy view",
-    body: "Review best stints, pit stop windows, tyre compound usage, and clean-lap race pace rankings.",
-  },
-  {
-    title: "Saturday vs Sunday",
-    body: "Compare qualifying rank against Sunday race pace to see who gained or lost performance over the race.",
+    title: "Deep event analytics",
+    body: "Explore race pace, best stints, pit windows, tyre usage, lap traces, and qualifying-vs-race comparisons for selected FastF1 events.",
   },
 ];
 
 const mainLinks = [
+  {
+    href: "/seasons",
+    title: "Seasons",
+    subtitle: "2000–2026 historical database",
+  },
+  {
+    href: "/records",
+    title: "Records",
+    subtitle: "Wins, podiums, points, poles",
+  },
+  {
+    href: "/seasons/2026",
+    title: "2026 Season",
+    subtitle: "Current season through May 24",
+  },
+  {
+    href: "/seasons/2024",
+    title: "2024 Season",
+    subtitle: "Full historical season profile",
+  },
   {
     href: "/events/2024-monza-race",
     title: "Monza 2024",
@@ -30,16 +50,6 @@ const mainLinks = [
     title: "Silverstone 2024",
     subtitle: "British GP race intelligence",
   },
-  {
-    href: "/explore",
-    title: "Explorer",
-    subtitle: "Interactive event and driver view",
-  },
-  {
-    href: "/compare",
-    title: "Compare",
-    subtitle: "Driver-vs-driver analytics",
-  },
 ];
 
 export default function HomePage() {
@@ -48,48 +58,48 @@ export default function HomePage() {
       <div className="shell">
         <section className="hero compactHero">
           <div>
-            <div className="eyebrow">GridIQ v1.0 · FastF1 race intelligence</div>
-            <h1>Turn Formula 1 lap data into readable race stories.</h1>
+            <div className="eyebrow">GridIQ · F1 stats and race intelligence</div>
+            <h1>Formula 1 stats, seasons, records, and race intelligence.</h1>
             <p>
-              GridIQ transforms static FastF1 JSON into race pace rankings, driver
-              pages, stint analysis, pit windows, tyre mix, qualifying-vs-race
-              comparisons, lap traces, and copyable insight cards.
+              GridIQ combines a historical F1 database from 2000 to 2026 with selected
+              FastF1 race analytics, giving you season pages, records, standings,
+              race winners, lap traces, strategy windows, and copyable insights.
             </p>
           </div>
 
           <div className="heroActions">
-            <Link className="ghostLink" href="/events/2024-monza-race">
-              Open Monza
+            <Link className="ghostLink" href="/seasons">
+              Browse Seasons
             </Link>
-            <Link className="ghostLink" href="/explore">
-              Launch Explorer
+            <Link className="ghostLink" href="/records">
+              View Records
             </Link>
           </div>
         </section>
 
         <section className="cards">
           <div className="card">
-            <div className="label">Datasets</div>
-            <div className="value">2</div>
-            <p className="small">Monza + Silverstone race and qualifying sessions.</p>
+            <div className="label">Seasons</div>
+            <div className="value">27</div>
+            <p className="small">Historical data from 2000 through 2026.</p>
           </div>
 
           <div className="card">
-            <div className="label">Source</div>
-            <div className="value valueSmall">FastF1</div>
-            <p className="small">Processed locally into static JSON dashboards.</p>
+            <div className="label">Sources</div>
+            <div className="value valueSmall">Jolpica + FastF1</div>
+            <p className="small">Historical results plus selected deep race analytics.</p>
           </div>
 
           <div className="card">
-            <div className="label">Insights</div>
-            <div className="value">6</div>
-            <p className="small">Copyable race intelligence cards per event.</p>
+            <div className="label">Records</div>
+            <div className="value valueSmall">Live</div>
+            <p className="small">Wins, podiums, poles, points, and constructor totals.</p>
           </div>
 
           <div className="card">
-            <div className="label">Mode</div>
-            <div className="value valueSmall">Static MVP</div>
-            <p className="small">No live API calls from the public frontend.</p>
+            <div className="label">Frontend</div>
+            <div className="value valueSmall">Static</div>
+            <p className="small">Fast loading pages generated from local JSON data.</p>
           </div>
         </section>
 
@@ -98,8 +108,8 @@ export default function HomePage() {
             <div>
               <h2>What GridIQ does</h2>
               <p>
-                A lightweight F1 analytics product that makes race data easier to
-                understand, compare, and share.
+                A real F1 stats platform with historical seasons, records, standings,
+                and selected race intelligence dashboards.
               </p>
             </div>
             <div className="pill">Production-ready MVP</div>
@@ -121,7 +131,7 @@ export default function HomePage() {
             <div className="panelHeader">
               <div>
                 <h2>Start exploring</h2>
-                <p>Jump into the most useful v1.0 pages.</p>
+                <p>Start with the historical database, then jump into race analytics.</p>
               </div>
             </div>
 
@@ -147,6 +157,12 @@ export default function HomePage() {
               <Link className="ghostLink" href="/drivers">
                 Driver index
               </Link>
+              <Link className="ghostLink" href="/seasons">
+                Season index
+              </Link>
+              <Link className="ghostLink" href="/records">
+                Records hub
+              </Link>
               <Link className="ghostLink" href="/drivers/lec">
                 Example driver: LEC
               </Link>
@@ -165,20 +181,20 @@ export default function HomePage() {
             <div>
               <h2>Built for the next phase</h2>
               <p>
-                v1.0 is intentionally static and reliable. The next production phase
-                can add Supabase sync, automated dataset generation, deployment, and
-                richer telemetry views.
+                The historical backbone is now loaded from 2000 to 2026. The next phase
+                can add richer driver profiles, constructor pages, charts, search, and
+                automated updates after every Grand Prix.
               </p>
             </div>
-            <Link className="ghostLink" href="/events/2024-silverstone-race">
-              View latest event
+            <Link className="ghostLink" href="/seasons/2026">
+              View 2026 season
             </Link>
           </div>
         </section>
 
         <div className="footer">
-          GridIQ is an independent analytics prototype powered by processed FastF1
-          data. It is not affiliated with Formula 1.
+          GridIQ is an independent Formula 1 stats and analytics project powered by
+          processed Jolpica and FastF1 data. It is not affiliated with Formula 1.
         </div>
       </div>
     </main>
