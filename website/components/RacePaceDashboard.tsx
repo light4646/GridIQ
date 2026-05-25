@@ -24,6 +24,22 @@ function compoundClass(compound: string): string {
   return `compound compound-${compound.toLowerCase()}`;
 }
 
+function eventYear(event: EventOption) {
+  const match = event.id.match(/^(\d{4})-/);
+  return match?.[1] ?? "2024";
+}
+
+function defaultCompareHref(pace: RacePaceRow[]) {
+  const first = pace[0]?.driver?.toLowerCase();
+  const second = pace[1]?.driver?.toLowerCase();
+
+  if (first && second) {
+    return `/compare?driverA=${first}&driverB=${second}`;
+  }
+
+  return "/compare?driverA=lewis-hamilton&driverB=max-verstappen";
+}
+
 type IntelligenceCard = {
   label: string;
   title: string;
@@ -164,16 +180,30 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
     qualifyingComparison,
   });
 
+  const year = eventYear(event);
+  const paceLeader = pace[0];
+  const secondFastest = pace[1];
+  const bestStint = stints[0];
+  const mostUsedTyre = [...tyreUsage].sort((a, b) => b.laps - a.laps)[0];
+  const compareHref = defaultCompareHref(pace);
+
   return (
     <main className="page">
       <div className="shell">
         <section className="hero">
           <div>
-            <div className="eyebrow">GridIQ MVP · {event.session}</div>
-            <h1>F1 race pace, made readable.</h1>
-            <p>{event.description}</p>
+            <div className="eyebrow">GridIQ race analytics · {event.session}</div>
+            <h1>{event.shortLabel} race analytics.</h1>
+            <p>
+              {event.description} Explore clean-lap pace, qualifying-to-race movement,
+              stint strength, pit windows, tyre mix, lap traces, and copyable race intelligence.
+            </p>
           </div>
-          <div className="pill">Local FastF1 data · event selector live</div>
+          <div className="heroActions">
+            <Link className="ghostLink" href={`/seasons/${year}`}>{year} season</Link>
+            <Link className="ghostLink" href="/explore">Explorer</Link>
+            <Link className="ghostLink" href={compareHref}>Compare leaders</Link>
+          </div>
         </section>
 
         <nav className="eventNav" aria-label="Race events">
@@ -189,11 +219,80 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
           })}
         </nav>
 
+        <section className="panel widePanel">
+          <div className="panelHeader">
+            <div>
+              <h2>Event research links</h2>
+              <p>Jump from this race dashboard into the related historical pages.</p>
+            </div>
+            <div className="pill">FastF1 event dataset</div>
+          </div>
+          <div className="eventNav">
+            <Link className="eventLink" href={`/seasons/${year}`}>
+              <span>{year} season</span>
+              <small>Calendar, winners, driver standings, and constructor standings</small>
+            </Link>
+            <Link className="eventLink" href="/drivers">
+              <span>Driver database</span>
+              <small>Career profiles and historical season tables</small>
+            </Link>
+            <Link className="eventLink" href="/constructors">
+              <span>Constructor database</span>
+              <small>Titles, wins, podiums, points, and active seasons</small>
+            </Link>
+            <Link className="eventLink" href={compareHref}>
+              <span>Compare race leaders</span>
+              <small>{paceLeader?.driver ?? "Leader"} vs {secondFastest?.driver ?? "closest rival"}</small>
+            </Link>
+          </div>
+        </section>
+
         <section className="cards">
-          <div className="card"><div className="label">Event</div><div className="value valueSmall">{event.shortLabel}</div></div>
-          <div className="card"><div className="label">Drivers</div><div className="value">{summary?.drivers ?? 0}</div></div>
-          <div className="card"><div className="label">Valid laps</div><div className="value">{summary?.valid_laps_counted ?? 0}</div></div>
-          <div className="card"><div className="label">Pace leader</div><div className="value">{summary?.leader?.driver ?? "—"}</div></div>
+          <div className="card">
+            <div className="label">Event</div>
+            <div className="value valueSmall">{event.shortLabel}</div>
+            <p className="small">{event.circuit}</p>
+          </div>
+          <div className="card">
+            <div className="label">Drivers</div>
+            <div className="value">{summary?.drivers ?? 0}</div>
+            <p className="small">Classified drivers in the event dataset.</p>
+          </div>
+          <div className="card">
+            <div className="label">Valid laps</div>
+            <div className="value">{summary?.valid_laps_counted ?? 0}</div>
+            <p className="small">Clean laps counted for pace analysis.</p>
+          </div>
+          <div className="card">
+            <div className="label">Pace leader</div>
+            <div className="value">{paceLeader?.driver ?? summary?.leader?.driver ?? "—"}</div>
+            <p className="small">
+              {paceLeader ? `${formatLap(paceLeader.average_lap_seconds)} average clean-lap pace.` : "No pace leader detected."}
+            </p>
+          </div>
+        </section>
+
+        <section className="cards">
+          <div className="card">
+            <div className="label">Closest chaser</div>
+            <div className="value valueSmall">{secondFastest?.driver ?? "—"}</div>
+            <p className="small">{secondFastest ? `${formatGap(secondFastest.gap_to_best_avg_seconds)} behind on average pace.` : "No comparison available."}</p>
+          </div>
+          <div className="card">
+            <div className="label">Best stint</div>
+            <div className="value valueSmall">{bestStint?.driver ?? "—"}</div>
+            <p className="small">{bestStint ? `${bestStint.compound} · laps ${bestStint.from_lap}-${bestStint.to_lap}` : "No stint sample available."}</p>
+          </div>
+          <div className="card">
+            <div className="label">Main tyre</div>
+            <div className="value valueSmall">{mostUsedTyre?.compound ?? "—"}</div>
+            <p className="small">{mostUsedTyre ? `${Math.round(mostUsedTyre.share * 100)}% of counted laps.` : "No tyre mix available."}</p>
+          </div>
+          <div className="card">
+            <div className="label">Race intelligence</div>
+            <div className="value">{intelligenceCards.length}</div>
+            <p className="small">Copyable insight cards generated for this race.</p>
+          </div>
         </section>
 
         <EventExplorer activeEvent={event} events={events} lapTraces={lapTraces} />
@@ -204,7 +303,7 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
               <h2>Race intelligence</h2>
               <p>Auto-generated takeaways from pace, qualifying, stints, pit windows, and tyre usage.</p>
             </div>
-            <div className="pill">v0.9 insight layer</div>
+            <div className="pill">copyable insight layer</div>
           </div>
           <div className="insightGrid">
             {intelligenceCards.map((card) => (
@@ -226,8 +325,8 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
               </div>
               <div className="panelActions">
                 <Link className="ghostLink" href="/drivers">Drivers</Link>
-                <Link className="ghostLink" href="/compare">Compare</Link>
-                <Link className="ghostLink" href={`/events/${event.id}`}>Open detail</Link>
+                <Link className="ghostLink" href={compareHref}>Compare leaders</Link>
+                <Link className="ghostLink" href={`/seasons/${year}`}>Season page</Link>
               </div>
             </div>
             <table>
@@ -406,7 +505,7 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
         </section>
 
         <div className="footer">
-          Generated from FastF1. Now supports multiple race datasets, qualifying-vs-race comparisons, driver pages, stint tables, lap traces, pit windows, and tyre-mix analytics.
+          Generated from FastF1 event data and connected to the GridIQ historical database. This race analytics page includes pace ranking, qualifying-vs-race comparison, driver profile links, stint tables, lap traces, pit windows, tyre mix, and copyable race intelligence.
         </div>
       </div>
     </main>
