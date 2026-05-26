@@ -34,7 +34,7 @@ export default function EventsPage() {
             </p>
           </div>
           <div className="heroActions">
-            <Link className="ghostLink" href="/explore">Explorer</Link>
+            <Link className="ghostLink" href="/events">Race Analytics</Link>
             <Link className="ghostLink" href="/seasons">Seasons</Link>
             <Link className="ghostLink" href="/drivers">Drivers</Link>
           </div>
@@ -73,22 +73,28 @@ export default function EventsPage() {
           </div>
 
           <div className="raceList" aria-label="Race analytics dashboards">
-            {years.map((year) => (
-              <div className="raceYearGroup" key={year}>
-                <div className="raceYearHeader">{year}</div>
-                <div className="raceYearLinks">
-                  {eventsByYear[year]
-                    .slice()
-                    .sort((a, b) => a.shortLabel.localeCompare(b.shortLabel))
-                    .map((event) => (
+            {years.map((year, index) => {
+              const yearEvents = eventsByYear[year]
+                .slice()
+                .sort((a, b) => a.shortLabel.localeCompare(b.shortLabel));
+
+              return (
+                <details className="raceYearGroup" key={year} open={index === 0}>
+                  <summary className="raceYearSummary">
+                    <span>{year}</span>
+                    <small>{yearEvents.length} race dashboards</small>
+                  </summary>
+                  <div className="raceYearLinks">
+                    {yearEvents.map((event) => (
                       <Link className="raceListLink" href={`/events/${event.id}`} key={event.id}>
                         <span>{event.shortLabel}</span>
                         <small>{event.circuit}</small>
                       </Link>
                     ))}
-                </div>
-              </div>
-            ))}
+                  </div>
+                </details>
+              );
+            })}
           </div>
         </section>
 
