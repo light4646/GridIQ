@@ -146,3 +146,113 @@
     width: 100%;
   }
 }
+/* Race analytics expandable hub */
+.raceList {
+  display: grid;
+  gap: 16px;
+}
+
+.raceYearGroup {
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  border-radius: 16px;
+  background: rgba(10, 18, 36, 0.52);
+  overflow: hidden;
+}
+
+.raceYearSummary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  cursor: pointer;
+  list-style: none;
+  padding: 14px 16px;
+  color: #79ffe1;
+  font-size: 14px;
+  font-weight: 950;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.raceYearSummary::-webkit-details-marker {
+  display: none;
+}
+
+.raceYearSummary::after {
+  content: "+";
+  display: inline-grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  border: 1px solid rgba(121, 255, 225, 0.38);
+  border-radius: 999px;
+  color: #79ffe1;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.raceYearGroup[open] .raceYearSummary::after {
+  content: "–";
+}
+
+.raceYearSummary small {
+  margin-left: auto;
+  color: #9fb0d4;
+  font-size: 12px;
+  font-weight: 850;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.raceYearGroup[open] .raceYearLinks {
+  border-top: 1px solid rgba(148, 163, 184, 0.14);
+  padding: 12px;
+}
+
+.raceYearLinks {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(235px, 1fr));
+  gap: 10px;
+}
+
+.raceListLink {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  border-radius: 14px;
+  padding: 11px 12px;
+  background: rgba(6, 10, 20, 0.5);
+  color: #eef3ff;
+  text-decoration: none;
+  transition: border-color 160ms ease, background 160ms ease, transform 160ms ease;
+}
+
+.raceListLink span {
+  font-weight: 900;
+}
+
+.raceListLink small {
+  color: #9fb0d4;
+  font-size: 12px;
+  text-align: right;
+}
+
+.raceListLink:hover,
+.raceListLink.active {
+  border-color: rgba(121, 255, 225, 0.55);
+  background: rgba(121, 255, 225, 0.12);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 720px) {
+  .raceListLink {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .raceListLink small {
+    text-align: left;
+  }
+}

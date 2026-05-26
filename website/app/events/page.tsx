@@ -34,7 +34,7 @@ export default function EventsPage() {
             </p>
           </div>
           <div className="heroActions">
-            <Link className="ghostLink" href="/events">Race Analytics</Link>
+            <Link className="ghostLink" href="/explore">Explorer</Link>
             <Link className="ghostLink" href="/seasons">Seasons</Link>
             <Link className="ghostLink" href="/drivers">Drivers</Link>
           </div>
