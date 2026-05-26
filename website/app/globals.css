@@ -284,3 +284,16 @@
 .raceYearGroup[open] .raceYearSummary::after {
   transform: rotate(180deg);
 }
+
+/* Event explorer empty chart state */
+.chartEmptyText {
+  fill: #9fb0d4;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.selectInput:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}

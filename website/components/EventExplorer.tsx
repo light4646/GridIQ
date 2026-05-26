@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 
 import { formatLap } from "@/lib/f1-utils";
@@ -39,6 +39,10 @@ function makePolyline(laps: { lap: number; seconds: number }[], width: number, h
 export function EventExplorer({ activeEvent, events, lapTraces }: Props) {
   const router = useRouter();
   const [selectedDriver, setSelectedDriver] = useState(lapTraces[0]?.driver ?? "");
+
+  useEffect(() => {
+    setSelectedDriver(lapTraces[0]?.driver ?? "");
+  }, [activeEvent.id, lapTraces]);
 
   const selectedTrace = useMemo(() => {
     return lapTraces.find((trace) => trace.driver === selectedDriver) ?? lapTraces[0] ?? null;
@@ -79,10 +83,15 @@ export function EventExplorer({ activeEvent, events, lapTraces }: Props) {
             className="selectInput"
             value={selectedTrace?.driver ?? ""}
             onChange={(event) => setSelectedDriver(event.target.value)}
+            disabled={lapTraces.length === 0}
           >
-            {lapTraces.map((trace) => (
-              <option key={`${activeEvent.id}-${trace.driver}`} value={trace.driver}>{trace.driver} · {trace.team}</option>
-            ))}
+            {lapTraces.length === 0 ? (
+              <option value="">No lap traces loaded</option>
+            ) : (
+              lapTraces.map((trace) => (
+                <option key={`${activeEvent.id}-${trace.driver}`} value={trace.driver}>{trace.driver} · {trace.team}</option>
+              ))
+            )}
           </select>
         </label>
 
@@ -98,14 +107,22 @@ export function EventExplorer({ activeEvent, events, lapTraces }: Props) {
         <svg viewBox="0 0 560 220" role="img">
           <line x1="24" y1="190" x2="544" y2="190" className="chartAxis" />
           <line x1="24" y1="10" x2="24" y2="190" className="chartAxis" />
-          <polyline points={polyline} transform="translate(24 10)" className="lapPolyline" />
-          {selectedLaps.filter((_, index) => index % 5 === 0).map((lap) => {
-            const lapNumbers = selectedLaps.map((point) => point.lap);
-            const seconds = selectedLaps.map((point) => point.seconds);
-            const x = ((lap.lap - Math.min(...lapNumbers)) / Math.max(Math.max(...lapNumbers) - Math.min(...lapNumbers), 1)) * 520 + 24;
-            const y = 190 - ((lap.seconds - Math.min(...seconds)) / Math.max(Math.max(...seconds) - Math.min(...seconds), 0.001)) * 180;
-            return <circle key={`${selectedTrace?.driver}-${lap.lap}`} cx={x} cy={y} r="3" className={`chartDot compound-${lap.compound.toLowerCase()}`} />;
-          })}
+          {selectedLaps.length > 0 ? (
+            <>
+              <polyline points={polyline} transform="translate(24 10)" className="lapPolyline" />
+              {selectedLaps.filter((_, index) => index % 5 === 0).map((lap) => {
+                const lapNumbers = selectedLaps.map((point) => point.lap);
+                const seconds = selectedLaps.map((point) => point.seconds);
+                const x = ((lap.lap - Math.min(...lapNumbers)) / Math.max(Math.max(...lapNumbers) - Math.min(...lapNumbers), 1)) * 520 + 24;
+                const y = 190 - ((lap.seconds - Math.min(...seconds)) / Math.max(Math.max(...seconds) - Math.min(...seconds), 0.001)) * 180;
+                return <circle key={`${selectedTrace?.driver}-${lap.lap}`} cx={x} cy={y} r="3" className={`chartDot compound-${lap.compound.toLowerCase()}`} />;
+              })}
+            </>
+          ) : (
+            <text x="280" y="112" textAnchor="middle" className="chartEmptyText">
+              No lap trace data loaded for this race yet
+            </text>
+          )}
         </svg>
         <div className="lapChartHint">Lower is faster. Dots are every fifth clean lap, colored by tyre compound.</div>
       </div>
