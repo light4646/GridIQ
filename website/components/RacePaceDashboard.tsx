@@ -62,6 +62,13 @@ function finalClassificationWinner(event: EventOption) {
   return null;
 }
 
+function groupEventsByYear(events: EventOption[]) {
+  return events.reduce<Record<number, EventOption[]>>((groups, option) => {
+    groups[option.year] = [...(groups[option.year] ?? []), option];
+    return groups;
+  }, {});
+}
+
 type IntelligenceCard = {
   label: string;
   title: string;
@@ -209,6 +216,10 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
   const mostUsedTyre = [...tyreUsage].sort((a, b) => b.laps - a.laps)[0];
   const compareHref = defaultCompareHref(pace);
   const raceWinner = finalClassificationWinner(event);
+  const eventsByYear = groupEventsByYear(events);
+  const sortedEventYears = Object.keys(eventsByYear)
+    .map(Number)
+    .sort((a, b) => b - a);
 
   return (
     <main className="page">
@@ -229,18 +240,44 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
           </div>
         </section>
 
-        <nav className="eventNav" aria-label="Race events">
-          {events.map((option) => {
-            const href = option.id === "2024-monza-race" ? "/" : `/events/${option.id}`;
-            const active = option.id === event.id;
-            return (
-              <Link className={active ? "eventLink active" : "eventLink"} href={href} key={option.id}>
-                <span>{option.shortLabel}</span>
-                <small>{option.circuit}</small>
-              </Link>
-            );
-          })}
-        </nav>
+        <details className="panel widePanel raceSelectorPanel">
+          <summary className="raceYearSummary">
+            <span>Switch race dashboard</span>
+            <small>{events.length} race dashboards</small>
+          </summary>
+          <div className="raceYearContent">
+            <div className="raceList" aria-label="Race events">
+              {sortedEventYears.map((raceYear) => {
+                const yearEvents = eventsByYear[raceYear]
+                  .slice()
+                  .sort((a, b) => a.shortLabel.localeCompare(b.shortLabel));
+
+                return (
+                  <details className="raceYearGroup" key={raceYear} open={raceYear === event.year}>
+                    <summary className="raceYearSummary">
+                      <span>{raceYear}</span>
+                      <small>{yearEvents.length} race dashboards</small>
+                    </summary>
+                    <div className="raceYearContent">
+                      <div className="raceYearLinks">
+                        {yearEvents.map((option) => {
+                          const href = `/events/${option.id}`;
+                          const active = option.id === event.id;
+                          return (
+                            <Link className={active ? "raceListLink active" : "raceListLink"} href={href} key={option.id}>
+                              <span>{option.shortLabel}</span>
+                              <small>{option.circuit}</small>
+                            </Link>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  </details>
+                );
+              })}
+            </div>
+          </div>
+        </details>
 
         <section className="panel widePanel">
           <div className="panelHeader">
