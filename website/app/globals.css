@@ -256,3 +256,31 @@
     text-align: left;
   }
 }
+
+/* Smooth slide animation for Race Analytics accordion */
+.raceYearContent {
+  display: grid;
+  grid-template-rows: 0fr;
+  opacity: 0;
+  transform: translateY(-6px);
+  transition: grid-template-rows 260ms ease, opacity 220ms ease, transform 220ms ease;
+}
+
+.raceYearContent > .raceYearLinks {
+  min-height: 0;
+  overflow: hidden;
+}
+
+.raceYearGroup[open] .raceYearContent {
+  grid-template-rows: 1fr;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.raceYearSummary::after {
+  transition: transform 220ms ease, background 180ms ease, border-color 180ms ease;
+}
+
+.raceYearGroup[open] .raceYearSummary::after {
+  transform: rotate(180deg);
+}

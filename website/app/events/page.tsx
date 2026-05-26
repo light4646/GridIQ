@@ -84,13 +84,15 @@ export default function EventsPage() {
                     <span>{year}</span>
                     <small>{yearEvents.length} race dashboards</small>
                   </summary>
-                  <div className="raceYearLinks">
-                    {yearEvents.map((event) => (
-                      <Link className="raceListLink" href={`/events/${event.id}`} key={event.id}>
-                        <span>{event.shortLabel}</span>
-                        <small>{event.circuit}</small>
-                      </Link>
-                    ))}
+                  <div className="raceYearContent">
+                    <div className="raceYearLinks">
+                      {yearEvents.map((event) => (
+                        <Link className="raceListLink" href={`/events/${event.id}`} key={event.id}>
+                          <span>{event.shortLabel}</span>
+                          <small>{event.circuit}</small>
+                        </Link>
+                      ))}
+                    </div>
                   </div>
                 </details>
               );
