@@ -1,0 +1,842 @@
+[
+  {
+    "year": 1994,
+    "position": 1,
+    "position_text": "1",
+    "points": 92.0,
+    "wins": 8,
+    "driver_id": "michael_schumacher",
+    "driver_code": "MSC",
+    "driver_number": null,
+    "driver_name": "Michael Schumacher",
+    "driver_nationality": "German",
+    "constructors": [
+      "Benetton"
+    ],
+    "constructor_ids": [
+      "benetton"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 2,
+    "position_text": "2",
+    "points": 91.0,
+    "wins": 6,
+    "driver_id": "damon_hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Damon Hill",
+    "driver_nationality": "British",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 3,
+    "position_text": "3",
+    "points": 41.0,
+    "wins": 1,
+    "driver_id": "berger",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gerhard Berger",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 4,
+    "position_text": "4",
+    "points": 26.0,
+    "wins": 0,
+    "driver_id": "hakkinen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mika H\u00e4kkinen",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 5,
+    "position_text": "5",
+    "points": 24.0,
+    "wins": 0,
+    "driver_id": "alesi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean Alesi",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 6,
+    "position_text": "6",
+    "points": 19.0,
+    "wins": 0,
+    "driver_id": "barrichello",
+    "driver_code": "BAR",
+    "driver_number": null,
+    "driver_name": "Rubens Barrichello",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Jordan"
+    ],
+    "constructor_ids": [
+      "jordan"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 7,
+    "position_text": "7",
+    "points": 16.0,
+    "wins": 0,
+    "driver_id": "brundle",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Martin Brundle",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 8,
+    "position_text": "8",
+    "points": 14.0,
+    "wins": 0,
+    "driver_id": "coulthard",
+    "driver_code": "COU",
+    "driver_number": null,
+    "driver_name": "David Coulthard",
+    "driver_nationality": "British",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 9,
+    "position_text": "9",
+    "points": 13.0,
+    "wins": 1,
+    "driver_id": "mansell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nigel Mansell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 10,
+    "position_text": "10",
+    "points": 10.0,
+    "wins": 0,
+    "driver_id": "verstappen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jos Verstappen",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Benetton"
+    ],
+    "constructor_ids": [
+      "benetton"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 11,
+    "position_text": "11",
+    "points": 9.0,
+    "wins": 0,
+    "driver_id": "panis",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Olivier Panis",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ligier"
+    ],
+    "constructor_ids": [
+      "ligier"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 12,
+    "position_text": "12",
+    "points": 8.0,
+    "wins": 0,
+    "driver_id": "blundell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mark Blundell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 13,
+    "position_text": "13",
+    "points": 7.0,
+    "wins": 0,
+    "driver_id": "frentzen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Heinz-Harald Frentzen",
+    "driver_nationality": "German",
+    "constructors": [
+      "Sauber"
+    ],
+    "constructor_ids": [
+      "sauber"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 14,
+    "position_text": "14",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "larini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nicola Larini",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 15,
+    "position_text": "15",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "fittipaldi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Christian Fittipaldi",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Footwork"
+    ],
+    "constructor_ids": [
+      "footwork"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 16,
+    "position_text": "16",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "irvine",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Eddie Irvine",
+    "driver_nationality": "British",
+    "constructors": [
+      "Jordan"
+    ],
+    "constructor_ids": [
+      "jordan"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 17,
+    "position_text": "17",
+    "points": 5.0,
+    "wins": 0,
+    "driver_id": "katayama",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ukyo Katayama",
+    "driver_nationality": "Japanese",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 18,
+    "position_text": "18",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "bernard",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "\u00c9ric Bernard",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ligier",
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "ligier",
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 19,
+    "position_text": "19",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "wendlinger",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Karl Wendlinger",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Sauber"
+    ],
+    "constructor_ids": [
+      "sauber"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 20,
+    "position_text": "20",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "cesaris",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Andrea de Cesaris",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Jordan",
+      "Sauber"
+    ],
+    "constructor_ids": [
+      "jordan",
+      "sauber"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 21,
+    "position_text": "21",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "martini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pierluigi Martini",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Minardi"
+    ],
+    "constructor_ids": [
+      "minardi"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 22,
+    "position_text": "22",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "morbidelli",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gianni Morbidelli",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Footwork"
+    ],
+    "constructor_ids": [
+      "footwork"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 23,
+    "position_text": "23",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "comas",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "\u00c9rik Comas",
+    "driver_nationality": "French",
+    "constructors": [
+      "Larrousse"
+    ],
+    "constructor_ids": [
+      "larrousse"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 24,
+    "position_text": "24",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "lehto",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jyrki J\u00e4rvilehto",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Benetton",
+      "Sauber"
+    ],
+    "constructor_ids": [
+      "benetton",
+      "sauber"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": 25,
+    "position_text": "25",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "alboreto",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Michele Alboreto",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Minardi"
+    ],
+    "constructor_ids": [
+      "minardi"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "herbert",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Johnny Herbert",
+    "driver_nationality": "British",
+    "constructors": [
+      "Team Lotus",
+      "Ligier",
+      "Benetton"
+    ],
+    "constructor_ids": [
+      "team_lotus",
+      "ligier",
+      "benetton"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "beretta",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Olivier Beretta",
+    "driver_nationality": "Monegasque",
+    "constructors": [
+      "Larrousse"
+    ],
+    "constructor_ids": [
+      "larrousse"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "lamy",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pedro Lamy",
+    "driver_nationality": "Portuguese",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "gounon",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean-Marc Gounon",
+    "driver_nationality": "French",
+    "constructors": [
+      "Simtek"
+    ],
+    "constructor_ids": [
+      "simtek"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "zanardi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alessandro Zanardi",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "brabham",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "David Brabham",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Simtek"
+    ],
+    "constructor_ids": [
+      "simtek"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "salo",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mika Salo",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "lagorce",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Franck Lagorce",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ligier"
+    ],
+    "constructor_ids": [
+      "ligier"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ratzenberger",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Roland Ratzenberger",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Simtek"
+    ],
+    "constructor_ids": [
+      "simtek"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "dalmas",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Yannick Dalmas",
+    "driver_nationality": "French",
+    "constructors": [
+      "Larrousse"
+    ],
+    "constructor_ids": [
+      "larrousse"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "adams",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Philippe Adams",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "schiattarella",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Domenico Schiattarella",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Simtek"
+    ],
+    "constructor_ids": [
+      "simtek"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "senna",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ayrton Senna",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "belmondo",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Paul Belmondo",
+    "driver_nationality": "French",
+    "constructors": [
+      "Pacific"
+    ],
+    "constructor_ids": [
+      "pacific"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "gachot",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bertrand Gachot",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Pacific"
+    ],
+    "constructor_ids": [
+      "pacific"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "deletraz",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean-Denis D\u00e9l\u00e9traz",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Larrousse"
+    ],
+    "constructor_ids": [
+      "larrousse"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "suzuki",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Aguri Suzuki",
+    "driver_nationality": "Japanese",
+    "constructors": [
+      "Jordan"
+    ],
+    "constructor_ids": [
+      "jordan"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "alliot",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Philippe Alliot",
+    "driver_nationality": "French",
+    "constructors": [
+      "McLaren",
+      "Larrousse"
+    ],
+    "constructor_ids": [
+      "mclaren",
+      "larrousse"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "noda",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Hideki Noda",
+    "driver_nationality": "Japanese",
+    "constructors": [
+      "Larrousse"
+    ],
+    "constructor_ids": [
+      "larrousse"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "inoue",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Taki Inoue",
+    "driver_nationality": "Japanese",
+    "constructors": [
+      "Simtek"
+    ],
+    "constructor_ids": [
+      "simtek"
+    ]
+  },
+  {
+    "year": 1994,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "montermini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Andrea Montermini",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Simtek"
+    ],
+    "constructor_ids": [
+      "simtek"
+    ]
+  }
+]

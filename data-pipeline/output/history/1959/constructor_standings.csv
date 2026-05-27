@@ -1,0 +1,16 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Cooper-Climax,cooper-climax,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,40.0,1,1,5,1959
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,32.0,2,2,2,1959
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,18.0,3,3,1,1959
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,5.0,4,4,0,1959
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1959
+Aston Martin,aston_martin,British,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,0.0,,-,0,1959
+Porsche,porsche,German,https://en.wikipedia.org/wiki/Porsche_in_motorsport,0.0,,-,0,1959
+Maserati,maserati,Italian,https://en.wikipedia.org/wiki/Maserati,0.0,,-,0,1959
+Cooper-Borgward,cooper-borgward,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1959
+Kurtis Kraft,kurtis_kraft,American,https://en.wikipedia.org/wiki/Kurtis_Kraft,0.0,,-,0,1959
+Cooper-OSCA,cooper-osca,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1959
+Tec-Mec,tec-mec,Italian,https://en.wikipedia.org/wiki/Tec-Mec,0.0,,-,0,1959
+Connaught,connaught,British,https://en.wikipedia.org/wiki/Connaught_Engineering,0.0,,-,0,1959
+JBW,jbw,British,https://en.wikipedia.org/wiki/JBW,0.0,,-,0,1959
+Vanwall,vanwall,British,https://en.wikipedia.org/wiki/Vanwall,0.0,,-,0,1959

@@ -1,0 +1,145 @@
+[
+  {
+    "year": 1993,
+    "position": 1,
+    "position_text": "1",
+    "points": 168.0,
+    "wins": 10,
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+  },
+  {
+    "year": 1993,
+    "position": 2,
+    "position_text": "2",
+    "points": 84.0,
+    "wins": 5,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1993,
+    "position": 3,
+    "position_text": "3",
+    "points": 72.0,
+    "wins": 1,
+    "constructor_id": "benetton",
+    "constructor": "Benetton",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Benetton_Formula"
+  },
+  {
+    "year": 1993,
+    "position": 4,
+    "position_text": "4",
+    "points": 28.0,
+    "wins": 0,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1993,
+    "position": 5,
+    "position_text": "5",
+    "points": 23.0,
+    "wins": 0,
+    "constructor_id": "ligier",
+    "constructor": "Ligier",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Ligier"
+  },
+  {
+    "year": 1993,
+    "position": 6,
+    "position_text": "6",
+    "points": 12.0,
+    "wins": 0,
+    "constructor_id": "team_lotus",
+    "constructor": "Team Lotus",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1993,
+    "position": 7,
+    "position_text": "7",
+    "points": 12.0,
+    "wins": 0,
+    "constructor_id": "sauber",
+    "constructor": "Sauber",
+    "constructor_nationality": "Swiss",
+    "constructor_url": "https://en.wikipedia.org/wiki/Sauber_Motorsport"
+  },
+  {
+    "year": 1993,
+    "position": 8,
+    "position_text": "8",
+    "points": 7.0,
+    "wins": 0,
+    "constructor_id": "minardi",
+    "constructor": "Minardi",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Minardi"
+  },
+  {
+    "year": 1993,
+    "position": 9,
+    "position_text": "9",
+    "points": 4.0,
+    "wins": 0,
+    "constructor_id": "footwork",
+    "constructor": "Footwork",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Footwork_Arrows"
+  },
+  {
+    "year": 1993,
+    "position": 10,
+    "position_text": "10",
+    "points": 3.0,
+    "wins": 0,
+    "constructor_id": "larrousse",
+    "constructor": "Larrousse",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Larrousse"
+  },
+  {
+    "year": 1993,
+    "position": 11,
+    "position_text": "11",
+    "points": 3.0,
+    "wins": 0,
+    "constructor_id": "jordan",
+    "constructor": "Jordan",
+    "constructor_nationality": "Irish",
+    "constructor_url": "https://en.wikipedia.org/wiki/Jordan_Grand_Prix"
+  },
+  {
+    "year": 1993,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "lola",
+    "constructor": "Lola",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/MasterCard_Lola"
+  },
+  {
+    "year": 1993,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "tyrrell",
+    "constructor": "Tyrrell",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Tyrrell_Racing"
+  }
+]

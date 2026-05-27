@@ -1,0 +1,43 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""lotus-ford""]","[""Lotus-Ford""]",,hill,Graham Hill,British,,48.0,1,1,3,1968
+"[""matra-ford""]","[""Matra-Ford""]",,stewart,Jackie Stewart,British,,36.0,2,2,3,1968
+"[""mclaren-brm"", ""mclaren-ford"", ""mclaren""]","[""McLaren-BRM"", ""McLaren-Ford"", ""McLaren""]",,hulme,Denny Hulme,New Zealander,,33.0,3,3,2,1968
+"[""ferrari""]","[""Ferrari""]",,ickx,Jacky Ickx,Belgian,,27.0,4,4,1,1968
+"[""mclaren-ford"", ""mclaren""]","[""McLaren-Ford"", ""McLaren""]",,mclaren,Bruce McLaren,New Zealander,,22.0,5,5,1,1968
+"[""brm""]","[""BRM""]",,rodriguez,Pedro Rodríguez,Mexican,,18.0,6,6,0,1968
+"[""cooper-maserati"", ""lotus-ford""]","[""Cooper-Maserati"", ""Lotus-Ford""]",,siffert,Jo Siffert,Swiss,,12.0,7,7,1,1968
+"[""honda""]","[""Honda""]",,surtees,John Surtees,British,,12.0,8,8,0,1968
+"[""matra-ford"", ""matra""]","[""Matra-Ford"", ""Matra""]",,beltoise,Jean-Pierre Beltoise,French,,11.0,9,9,0,1968
+"[""ferrari""]","[""Ferrari""]",,amon,Chris Amon,New Zealander,,10.0,10,10,0,1968
+"[""lotus-ford""]","[""Lotus-Ford""]",,clark,Jim Clark,British,,9.0,11,11,1,1968
+"[""brabham-repco""]","[""Brabham-Repco""]",,rindt,Jochen Rindt,Austrian,,8.0,12,12,0,1968
+"[""brm""]","[""BRM""]",,attwood,Richard Attwood,British,,6.0,13,13,0,1968
+"[""matra-ford"", ""cooper-brm""]","[""Matra-Ford"", ""Cooper-BRM""]",,gavin,Johnny Servoz-Gavin,French,,6.0,14,14,0,1968
+"[""lotus-ford""]","[""Lotus-Ford""]",,oliver,Jackie Oliver,British,,6.0,15,15,0,1968
+"[""cooper-brm""]","[""Cooper-BRM""]",,scarfiotti,Ludovico Scarfiotti,Italian,,6.0,16,16,0,1968
+"[""cooper-brm""]","[""Cooper-BRM""]",,bianchi,Lucien Bianchi,Belgian,,5.0,17,17,0,1968
+"[""cooper-brm""]","[""Cooper-BRM""]",,elford,Vic Elford,British,,5.0,18,18,0,1968
+"[""cooper-maserati"", ""cooper-brm""]","[""Cooper-Maserati"", ""Cooper-BRM""]",,redman,Brian Redman,British,,4.0,19,19,0,1968
+"[""brm""]","[""BRM""]",,courage,Piers Courage,British,,4.0,20,20,0,1968
+"[""eagle-weslake"", ""brabham-repco"", ""mclaren-ford""]","[""Eagle-Weslake"", ""Brabham-Repco"", ""McLaren-Ford""]",,gurney,Dan Gurney,American,,3.0,21,21,0,1968
+"[""cooper-maserati"", ""mclaren-brm"", ""honda""]","[""Cooper-Maserati"", ""McLaren-BRM"", ""Honda""]",,bonnier,Jo Bonnier,Swedish,,3.0,22,22,0,1968
+"[""brabham-repco""]","[""Brabham-Repco""]",,jack_brabham,Jack Brabham,Australian,,2.0,23,23,0,1968
+"[""brabham-repco""]","[""Brabham-Repco""]",,moser,Silvio Moser,Swiss,,2.0,24,24,0,1968
+"[""matra""]","[""Matra""]",,pescarolo,Henri Pescarolo,French,,0.0,,-,0,1968
+"[""brabham-repco""]","[""Brabham-Repco""]",,love,John Love,Rhodesian,,0.0,,-,0,1968
+"[""lola""]","[""Lola""]",,hahne,Hubert Hahne,German,,0.0,,-,0,1968
+"[""brabham-repco""]","[""Brabham-Repco""]",,ahrens,Kurt Ahrens,German,,0.0,,-,0,1968
+"[""brabham-climax""]","[""Brabham-Climax""]",,pretorius,Jackie Pretorius,South African,,0.0,,-,0,1968
+"[""honda""]","[""Honda""]",,hobbs,David Hobbs,British,,0.0,,-,0,1968
+"[""cooper-brm""]","[""Cooper-BRM""]",,widdows,Robin Widdows,British,,0.0,,-,0,1968
+"[""lds""]","[""LDS""]",,tingle,Sam Tingle,Rhodesian,,0.0,,-,0,1968
+"[""cooper-climax""]","[""Cooper-Climax""]",,rooyen,Basil van Rooyen,South African,,0.0,,-,0,1968
+"[""honda""]","[""Honda""]",,jo_schlesser,Jo Schlesser,French,,0.0,,-,0,1968
+"[""brm""]","[""BRM""]",,unser,Bobby Unser,American,,0.0,,-,0,1968
+"[""lotus-ford""]","[""Lotus-Ford""]",,solana,Moisés Solana,Mexican,,0.0,,-,0,1968
+"[""lotus-ford""]","[""Lotus-Ford""]",,brack,Bill Brack,Canadian,,0.0,,-,0,1968
+"[""lotus-ford""]","[""Lotus-Ford""]",,mario_andretti,Mario Andretti,American,,0.0,,-,0,1968
+"[""ferrari""]","[""Ferrari""]",,bell,Derek Bell,British,,0.0,,-,0,1968
+"[""ferrari""]","[""Ferrari""]",,adamich,Andrea de Adamich,Italian,,0.0,,-,0,1968
+"[""brm""]","[""BRM""]",,spence,Mike Spence,British,,0.0,,-,0,1968
+"[""brabham-repco""]","[""Brabham-Repco""]",,charlton,Dave Charlton,South African,,0.0,,-,0,1968

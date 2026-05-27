@@ -1,0 +1,182 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,24,1959-monte-carlo,Monaco Grand Prix,,,,,,3,100,10551300,9.0,1,1,1,Finished,2:55:51.300,1959
+Ferrari,ferrari,Italian,,brooks,Tony Brooks,British,50,1959-monte-carlo,Monaco Grand Prix,,,,,,4,100,10571700,6.0,2,2,1,Finished,+20.400,1959
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,32,1959-monte-carlo,Monaco Grand Prix,,,,,,6,98,,4.0,3,3,1,+2 Laps,,1959
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,48,1959-monte-carlo,Monaco Grand Prix,,,,,,5,97,,3.0,4,4,1,+3 Laps,,1959
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,22,1959-monte-carlo,Monaco Grand Prix,,,,,,13,96,,2.0,5,5,1,+4 Laps,,1959
+Cooper-Maserati,cooper-maserati,British,,salvadori,Roy Salvadori,British,38,1959-monte-carlo,Monaco Grand Prix,,,,,,8,83,,0.0,6,6,1,+17 Laps,,1959
+Cooper-Climax,cooper-climax,British,,moss,Stirling Moss,British,30,1959-monte-carlo,Monaco Grand Prix,,,,,,1,81,,0.0,7,R,1,Transmission,,1959
+BRM,brm,British,,flockhart,Ron Flockhart,British,20,1959-monte-carlo,Monaco Grand Prix,,,,,,10,64,,0.0,8,R,1,Spun off,,1959
+BRM,brm,British,,schell,Harry Schell,American,16,1959-monte-carlo,Monaco Grand Prix,,,,,,9,48,,0.0,9,R,1,Accident,,1959
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,18,1959-monte-carlo,Monaco Grand Prix,,,,,,7,44,,0.0,10,R,1,Brakes,,1959
+Ferrari,ferrari,Italian,,behra,Jean Behra,French,46,1959-monte-carlo,Monaco Grand Prix,,,,,,2,24,,0.0,11,R,1,Engine,,1959
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,40,1959-monte-carlo,Monaco Grand Prix,,,,,,14,21,,0.0,12,R,1,Heat shield fire,,1959
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,26,1959-monte-carlo,Monaco Grand Prix,,,,,,11,6,,0.0,13,R,1,Gearbox,,1959
+Porsche,porsche,German,,trips,Wolfgang von Trips,German,6,1959-monte-carlo,Monaco Grand Prix,,,,,,12,1,,0.0,14,R,1,Collision,,1959
+Ferrari,ferrari,Italian,,allison,Cliff Allison,British,52,1959-monte-carlo,Monaco Grand Prix,,,,,,15,1,,0.0,15,R,1,Collision,,1959
+Team Lotus,team_lotus,British,,halford,Bruce Halford,British,44,1959-monte-carlo,Monaco Grand Prix,,,,,,16,1,,0.0,16,R,1,Collision,,1959
+Watson,watson,American,,ward,Rodger Ward,American,5,1959-indianapolis,Indianapolis 500,,,,,,6,200,13249200,8.0,1,1,2,Finished,3:40:49.200,1959
+Watson,watson,American,,rathmann,Jim Rathmann,American,16,1959-indianapolis,Indianapolis 500,,,,,,3,200,13272480,6.0,2,2,2,Finished,+23.280,1959
+Lesovsky,lesovsky,American,,thomson,Johnny Thomson,American,3,1959-indianapolis,Indianapolis 500,,,,,,1,200,13299840,5.0,3,3,2,Finished,+50.640,1959
+Epperly,epperly,American,,bettenhausen,Tony Bettenhausen,American,1,1959-indianapolis,Indianapolis 500,,,,,,15,200,13356290,3.0,4,4,2,Finished,+1:47.090,1959
+Epperly,epperly,American,,goldsmith,Paul Goldsmith,American,99,1959-indianapolis,Indianapolis 500,,,,,,16,200,13375640,2.0,5,5,2,Finished,+2:06.440,1959
+Epperly,epperly,American,,boyd,Johnny Boyd,American,33,1959-indianapolis,Indianapolis 500,,,,,,11,200,13446180,0.0,6,6,2,Finished,+3:16.980,1959
+Kurtis Kraft,kurtis_kraft,American,,darter,Duane Carter,American,37,1959-indianapolis,Indianapolis 500,,,,,,12,200,13499120,0.0,7,7,2,Finished,+4:09.920,1959
+Kurtis Kraft,kurtis_kraft,American,,johnson,Eddie Johnson,American,19,1959-indianapolis,Indianapolis 500,,,,,,8,200,13499730,0.0,8,8,2,Finished,+4:10.530,1959
+Kurtis Kraft,kurtis_kraft,American,,paul_russo,Paul Russo,American,45,1959-indianapolis,Indianapolis 500,,,,,,27,200,13500240,0.0,9,9,2,Finished,+4:11.040,1959
+Kuzma,kuzma,American,,foyt,Anthony Foyt,American,10,1959-indianapolis,Indianapolis 500,,,,,,17,200,13503680,0.0,10,10,2,Finished,+4:14.480,1959
+Kuzma,kuzma,American,,hartley,Gene Hartley,American,88,1959-indianapolis,Indianapolis 500,,,,,,9,200,13591680,0.0,11,11,2,Finished,+5:42.480,1959
+Moore,moore,American,,veith,Bob Veith,American,74,1959-indianapolis,Indianapolis 500,,,,,,7,200,13618930,0.0,12,12,2,Finished,+6:09.730,1959
+Dunn,dunn,American,,herman,Al Herman,American,89,1959-indianapolis,Indianapolis 500,,,,,,23,200,13649600,0.0,13,13,2,Finished,+6:40.400,1959
+Kurtis Kraft,kurtis_kraft,American,,daywalt,Jimmy Daywalt,American,66,1959-indianapolis,Indianapolis 500,,,,,,13,200,13650740,0.0,14,14,2,Finished,+6:41.540,1959
+Kurtis Kraft,kurtis_kraft,American,,arnold,Chuck Arnold,American,71,1959-indianapolis,Indianapolis 500,,,,,,21,200,13749060,0.0,15,15,2,Finished,+8:19.860,1959
+Kurtis Kraft,kurtis_kraft,American,,mcwithey,Jim McWithey,American,58,1959-indianapolis,Indianapolis 500,,,,,,33,200,13950890,0.0,16,16,2,Finished,+11:41.690,1959
+Kuzma,kuzma,American,,sachs,Eddie Sachs,American,44,1959-indianapolis,Indianapolis 500,,,,,,2,182,,0.0,17,R,2,Spun off,,1959
+Kuzma,kuzma,American,,keller,Al Keller,American,57,1959-indianapolis,Indianapolis 500,,,,,,28,163,,0.0,18,R,2,Engine,,1959
+Watson,watson,American,,flaherty,Pat Flaherty,American,64,1959-indianapolis,Indianapolis 500,,,,,,18,162,,0.0,19,R,2,Accident,,1959
+Watson,watson,American,,dick_rathmann,Dick Rathmann,American,73,1959-indianapolis,Indianapolis 500,,,,,,4,150,,0.0,20,R,2,Heat shield fire,,1959
+Kuzma,kuzma,American,,cheesbourg,Bill Cheesbourg,American,53,1959-indianapolis,Indianapolis 500,,,,,,30,147,,0.0,21,R,2,Magneto,,1959
+Kurtis Kraft,kurtis_kraft,American,,freeland,Don Freeland,American,15,1959-indianapolis,Indianapolis 500,,,,,,25,136,,0.0,22,R,2,Magneto,,1959
+Elder,elder,American,,ray_crawford,Ray Crawford,American,49,1959-indianapolis,Indianapolis 500,,,,,,32,115,,0.0,23,R,2,Accident,,1959
+Phillips,phillips,American,,branson,Don Branson,American,9,1959-indianapolis,Indianapolis 500,,,,,,10,112,,0.0,24,R,2,Suspension,,1959
+Kurtis Kraft,kurtis_kraft,American,,christie,Bob Christie,American,65,1959-indianapolis,Indianapolis 500,,,,,,24,109,,0.0,25,R,2,Engine,,1959
+Kurtis Kraft,kurtis_kraft,American,,grim,Bobby Grim,American,48,1959-indianapolis,Indianapolis 500,,,,,,5,85,,0.0,26,R,2,Magneto,,1959
+Christensen,vhristensen,American,,turner,Jack Turner,American,24,1959-indianapolis,Indianapolis 500,,,,,,14,47,,0.0,27,R,2,Fuel leak,,1959
+Kurtis Kraft,kurtis_kraft,American,,weyant,Chuck Weyant,American,47,1959-indianapolis,Indianapolis 500,,,,,,29,45,,0.0,28,R,2,Accident,,1959
+Kurtis Kraft,kurtis_kraft,American,,larson,Jud Larson,American,7,1959-indianapolis,Indianapolis 500,,,,,,19,45,,0.0,29,R,2,Accident,,1959
+Sutton,sutton,American,,magill,Mike Magill,American,77,1959-indianapolis,Indianapolis 500,,,,,,31,45,,0.0,30,R,2,Accident,,1959
+Kurtis Kraft,kurtis_kraft,American,,amick,Red Amick,American,87,1959-indianapolis,Indianapolis 500,,,,,,26,45,,0.0,31,R,2,Accident,,1959
+Lesovsky,lesovsky,American,,sutton,Len Sutton,American,8,1959-indianapolis,Indianapolis 500,,,,,,22,34,,0.0,32,R,2,Accident,,1959
+Epperly,epperly,American,,bryan,Jimmy Bryan,American,6,1959-indianapolis,Indianapolis 500,,,,,,20,1,,0.0,33,R,2,Engine,,1959
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,7,1959-zandvoort,Dutch Grand Prix,,,,,,1,75,7526800,8.0,1,1,3,Finished,2:05:26.800,1959
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,8,1959-zandvoort,Dutch Grand Prix,,,,,,2,75,7541000,6.0,2,2,3,Finished,+14.200,1959
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,9,1959-zandvoort,Dutch Grand Prix,,,,,,7,75,7609800,4.0,3,3,3,Finished,+1:23.000,1959
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,12,1959-zandvoort,Dutch Grand Prix,,,,,,9,74,,3.0,4,4,3,+1 Lap,,1959
+Ferrari,ferrari,Italian,,behra,Jean Behra,French,1,1959-zandvoort,Dutch Grand Prix,,,,,,4,74,,2.0,5,5,3,+1 Lap,,1959
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,3,1959-zandvoort,Dutch Grand Prix,,,,,,12,73,,0.0,6,6,3,+2 Laps,,1959
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,14,1959-zandvoort,Dutch Grand Prix,,,,,,5,73,,0.0,7,7,3,+2 Laps,,1959
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,10,1959-zandvoort,Dutch Grand Prix,,,,,,11,73,,0.0,8,8,3,+2 Laps,,1959
+Ferrari,ferrari,Italian,,allison,Cliff Allison,British,16,1959-zandvoort,Dutch Grand Prix,,,,,,15,71,,0.0,9,9,3,+4 Laps,,1959
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,15,1959-zandvoort,Dutch Grand Prix,,,,,,14,68,,0.0,10,10,3,+7 Laps,,1959
+Cooper-Climax,cooper-climax,British,,moss,Stirling Moss,British,11,1959-zandvoort,Dutch Grand Prix,,,,,,3,62,,1.0,11,R,3,Gearbox,,1959
+BRM,brm,British,,schell,Harry Schell,American,6,1959-zandvoort,Dutch Grand Prix,,,,,,6,46,,0.0,12,R,3,Gearbox,,1959
+Ferrari,ferrari,Italian,,brooks,Tony Brooks,British,2,1959-zandvoort,Dutch Grand Prix,,,,,,8,42,,0.0,13,R,3,Oil leak,,1959
+Aston Martin,aston_martin,British,,shelby,Carroll Shelby,American,5,1959-zandvoort,Dutch Grand Prix,,,,,,10,25,,0.0,14,R,3,Engine,,1959
+Aston Martin,aston_martin,British,,salvadori,Roy Salvadori,British,4,1959-zandvoort,Dutch Grand Prix,,,,,,13,3,,0.0,15,R,3,Engine,,1959
+Ferrari,ferrari,Italian,,brooks,Tony Brooks,British,24,1959-reims,French Grand Prix,,,,,,1,50,7286500,8.0,1,1,4,Finished,2:01:26.500,1959
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,26,1959-reims,French Grand Prix,,,,,,3,50,7314000,6.0,2,2,4,Finished,+27.500,1959
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,8,1959-reims,French Grand Prix,,,,,,2,50,7384200,4.0,3,3,4,Finished,+1:37.700,1959
+Ferrari,ferrari,Italian,,gendebien,Olivier Gendebien,Belgian,22,1959-reims,French Grand Prix,,,,,,11,50,7394000,3.0,4,4,4,Finished,+1:47.500,1959
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,12,1959-reims,French Grand Prix,,,,,,10,50,7394200,2.0,5,5,4,Finished,+1:47.700,1959
+BRM,brm,British,,flockhart,Ron Flockhart,British,44,1959-reims,French Grand Prix,,,,,,13,50,7412200,0.0,6,6,4,Finished,+2:05.700,1959
+BRM,brm,British,,schell,Harry Schell,American,6,1959-reims,French Grand Prix,,,,,,9,47,,0.0,7,7,4,+3 Laps,,1959
+Maserati,maserati,Italian,,scarlatti,Giorgio Scarlatti,Italian,40,1959-reims,French Grand Prix,,,,,,21,41,,0.0,8,8,4,+9 Laps,,1959
+Maserati,maserati,Italian,,beaufort,Carel Godin de Beaufort,Dutch,42,1959-reims,French Grand Prix,,,,,,20,40,,0.0,9,9,4,+10 Laps,,1959
+Maserati,maserati,Italian,,orey,Fritz d'Orey,Brazilian,38,1959-reims,French Grand Prix,,,,,,18,40,,0.0,10,10,4,+10 Laps,,1959
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,14,1959-reims,French Grand Prix,,,,,,8,36,,0.0,11,11,4,+14 Laps,,1959
+BRM,brm,British,,moss,Stirling Moss,British,2,1959-reims,French Grand Prix,,,,,,4,42,,1.0,12,D,4,Disqualified,,1959
+Ferrari,ferrari,Italian,,behra,Jean Behra,French,30,1959-reims,French Grand Prix,,,,,,5,31,,0.0,13,R,4,Engine,,1959
+Cooper-Maserati,cooper-maserati,British,,salvadori,Roy Salvadori,British,16,1959-reims,French Grand Prix,,,,,,16,20,,0.0,14,R,4,Engine,,1959
+Ferrari,ferrari,Italian,,gurney,Dan Gurney,American,28,1959-reims,French Grand Prix,,,,,,12,19,,0.0,15,R,4,Radiator,,1959
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,34,1959-reims,French Grand Prix,,,,,,15,14,,0.0,16,R,4,Wheel,,1959
+Cooper-Maserati,cooper-maserati,British,,burgess,Ian Burgess,British,18,1959-reims,French Grand Prix,,,,,,19,13,,0.0,17,R,4,Engine,,1959
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,10,1959-reims,French Grand Prix,,,,,,7,8,,0.0,18,R,4,Physical,,1959
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,32,1959-reims,French Grand Prix,,,,,,14,7,,0.0,19,R,4,Radiator,,1959
+Cooper-Maserati,cooper-maserati,British,,davis,Colin Davis,British,20,1959-reims,French Grand Prix,,,,,,17,7,,0.0,20,R,4,Oil leak,,1959
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,4,1959-reims,French Grand Prix,,,,,,6,6,,0.0,21,R,4,Engine,,1959
+Maserati,maserati,Italian,,fontes,Azdrubal Fontes,Uruguayan,36,1959-reims,French Grand Prix,,,,,,0,0,,0.0,22,W,4,Withdrew,,1959
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,12,1959-liverpool,British Grand Prix,,,,,,1,75,9011600,8.0,1,1,5,Finished,2:30:11.600,1959
+BRM,brm,British,,moss,Stirling Moss,British,6,1959-liverpool,British Grand Prix,,,,,,7,75,9033800,6.5,2,2,5,Finished,+22.200,1959
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,16,1959-liverpool,British Grand Prix,,,,,,8,75,9034000,4.5,3,3,5,Finished,+22.400,1959
+BRM,brm,British,,schell,Harry Schell,American,8,1959-liverpool,British Grand Prix,,,,,,3,74,,3.0,4,4,5,+1 Lap,,1959
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,18,1959-liverpool,British Grand Prix,,,,,,4,74,,2.0,5,5,5,+1 Lap,,1959
+Aston Martin,aston_martin,British,,salvadori,Roy Salvadori,British,2,1959-liverpool,British Grand Prix,,,,,,2,74,,0.0,6,6,5,+1 Lap,,1959
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,14,1959-liverpool,British Grand Prix,,,,,,5,73,,0.0,7,7,5,+2 Laps,,1959
+Team Lotus,team_lotus,British,,stacey,Alan Stacey,British,30,1959-liverpool,British Grand Prix,,,,,,12,71,,0.0,8,8,5,+4 Laps,,1959
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,28,1959-liverpool,British Grand Prix,,,,,,9,70,,0.0,9,9,5,+5 Laps,,1959
+Cooper-Borgward,cooper-borgward,British,,bristow,Chris Bristow,British,48,1959-liverpool,British Grand Prix,,,,,,16,70,,0.0,10,10,5,+5 Laps,,1959
+Cooper-Climax,cooper-climax,British,,henry_taylor,Henry Taylor,British,58,1959-liverpool,British Grand Prix,,,,,,21,69,,0.0,11,11,5,+6 Laps,,1959
+Cooper-Climax,cooper-climax,British,,ashdown,Peter Ashdown,British,52,1959-liverpool,British Grand Prix,,,,,,23,69,,0.0,12,12,5,+6 Laps,,1959
+Cooper-Borgward,cooper-borgward,British,,bueb,Ivor Bueb,British,46,1959-liverpool,British Grand Prix,,,,,,18,69,,0.0,13,13,5,+6 Laps,,1959
+Aston Martin,aston_martin,British,,shelby,Carroll Shelby,American,4,1959-liverpool,British Grand Prix,,,,,,6,69,,0.0,14,R,5,Ignition,,1959
+Maserati,maserati,Italian,,orey,Fritz d'Orey,Brazilian,40,1959-liverpool,British Grand Prix,,,,,,20,57,,0.0,15,R,5,Accident,,1959
+BRM,brm,British,,flockhart,Ron Flockhart,British,42,1959-liverpool,British Grand Prix,,,,,,11,53,,0.0,16,R,5,Spun off,,1959
+Cooper-Climax,cooper-climax,British,,fairman,Jack Fairman,British,38,1959-liverpool,British Grand Prix,,,,,,15,39,,0.0,17,R,5,Gearbox,,1959
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,10,1959-liverpool,British Grand Prix,,,,,,10,37,,0.0,18,R,5,Brakes,,1959
+Cooper-Maserati,cooper-maserati,British,,burgess,Ian Burgess,British,22,1959-liverpool,British Grand Prix,,,,,,13,31,,0.0,19,R,5,Transmission,,1959
+Cooper-Maserati,cooper-maserati,British,,herrmann,Hans Herrmann,German,24,1959-liverpool,British Grand Prix,,,,,,19,21,,0.0,20,R,5,Gearbox,,1959
+Team Lotus,team_lotus,British,,piper,David Piper,British,64,1959-liverpool,British Grand Prix,,,,,,22,19,,0.0,21,R,5,Overheating,,1959
+JBW,jbw,British,,naylor,Brian Naylor,British,36,1959-liverpool,British Grand Prix,,,,,,14,18,,0.0,22,R,5,Transmission,,1959
+Cooper-Climax,cooper-climax,British,,mike_taylor,Mike Taylor,British,50,1959-liverpool,British Grand Prix,,,,,,24,17,,0.0,23,R,5,Transmission,,1959
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,20,1959-liverpool,British Grand Prix,,,,,,17,13,,0.0,24,R,5,Ignition,,1959
+Ferrari,ferrari,Italian,,brooks,Tony Brooks,British,4,1959-berlin,German Grand Prix,,,,,,1,60,7771600,9.0,1,1,6,Finished,2:09:31.600,1959
+Ferrari,ferrari,Italian,,gurney,Dan Gurney,American,6,1959-berlin,German Grand Prix,,,,,,3,60,7774500,6.0,2,2,6,Finished,+2.900,1959
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,5,1959-berlin,German Grand Prix,,,,,,6,60,7836400,4.0,3,3,6,Finished,+1:04.800,1959
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,8,1959-berlin,German Grand Prix,,,,,,12,59,,3.0,4,4,6,+1 Lap,,1959
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,9,1959-berlin,German Grand Prix,,,,,,7,58,,2.0,5,5,6,+2 Laps,,1959
+Cooper-Maserati,cooper-maserati,British,,burgess,Ian Burgess,British,18,1959-berlin,German Grand Prix,,,,,,15,56,,0.0,6,6,6,+4 Laps,,1959
+BRM,brm,British,,schell,Harry Schell,American,10,1959-berlin,German Grand Prix,,,,,,8,49,,0.0,7,7,6,+11 Laps,,1959
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,2,1959-berlin,German Grand Prix,,,,,,9,36,,0.0,8,R,6,Transmission,,1959
+BRM,brm,British,,herrmann,Hans Herrmann,German,11,1959-berlin,German Grand Prix,,,,,,11,36,,0.0,9,R,6,Accident,,1959
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,3,1959-berlin,German Grand Prix,,,,,,5,23,,0.0,10,R,6,Engine,,1959
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,1,1959-berlin,German Grand Prix,,,,,,4,15,,0.0,11,R,6,Transmission,,1959
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,16,1959-berlin,German Grand Prix,,,,,,10,10,,0.0,12,R,6,Gearbox,,1959
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,15,1959-berlin,German Grand Prix,,,,,,13,7,,0.0,13,R,6,Differential,,1959
+Ferrari,ferrari,Italian,,allison,Cliff Allison,British,17,1959-berlin,German Grand Prix,,,,,,14,2,,0.0,14,R,6,Clutch,,1959
+Cooper-Climax,cooper-climax,British,,moss,Stirling Moss,British,7,1959-berlin,German Grand Prix,,,,,,2,1,,0.0,15,R,6,Transmission,,1959
+Cooper-Climax,cooper-climax,British,,moss,Stirling Moss,British,4,1959-lisbon,Portuguese Grand Prix,,,,,,1,62,7915410,9.0,1,1,7,Finished,2:11:55.410,1959
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,2,1959-lisbon,Portuguese Grand Prix,,,,,,3,61,,6.0,2,2,7,+1 Lap,,1959
+Ferrari,ferrari,Italian,,gurney,Dan Gurney,American,16,1959-lisbon,Portuguese Grand Prix,,,,,,6,61,,4.0,3,3,7,+1 Lap,,1959
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,5,1959-lisbon,Portuguese Grand Prix,,,,,,4,60,,3.0,4,4,7,+2 Laps,,1959
+BRM,brm,British,,schell,Harry Schell,American,6,1959-lisbon,Portuguese Grand Prix,,,,,,9,59,,2.0,5,5,7,+3 Laps,,1959
+Aston Martin,aston_martin,British,,salvadori,Roy Salvadori,British,10,1959-lisbon,Portuguese Grand Prix,,,,,,12,59,,0.0,6,6,7,+3 Laps,,1959
+BRM,brm,British,,flockhart,Ron Flockhart,British,8,1959-lisbon,Portuguese Grand Prix,,,,,,11,59,,0.0,7,7,7,+3 Laps,,1959
+Aston Martin,aston_martin,British,,shelby,Carroll Shelby,American,9,1959-lisbon,Portuguese Grand Prix,,,,,,13,58,,0.0,8,8,7,+4 Laps,,1959
+Ferrari,ferrari,Italian,,brooks,Tony Brooks,British,14,1959-lisbon,Portuguese Grand Prix,,,,,,10,57,,0.0,9,9,7,+5 Laps,,1959
+Cooper-Maserati,cooper-maserati,British,,cabral,Mário de Araújo Cabral,Portuguese,18,1959-lisbon,Portuguese Grand Prix,,,,,,14,56,,0.0,10,10,7,+6 Laps,,1959
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,3,1959-lisbon,Portuguese Grand Prix,,,,,,8,38,,0.0,11,R,7,Transmission,,1959
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,1,1959-lisbon,Portuguese Grand Prix,,,,,,2,23,,0.0,12,R,7,Transmission,,1959
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,7,1959-lisbon,Portuguese Grand Prix,,,,,,5,10,,0.0,13,R,7,Engine,,1959
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,15,1959-lisbon,Portuguese Grand Prix,,,,,,7,5,,0.0,14,R,7,Accident,,1959
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,11,1959-lisbon,Portuguese Grand Prix,,,,,,15,5,,0.0,15,R,7,Accident,,1959
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,12,1959-lisbon,Portuguese Grand Prix,,,,,,16,3,,0.0,16,R,7,Gearbox,,1959
+Cooper-Climax,cooper-climax,British,,moss,Stirling Moss,British,14,1959-monza,Italian Grand Prix,,,,,,1,72,7445400,8.0,1,1,8,Finished,2:04:05.400,1959
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,32,1959-monza,Italian Grand Prix,,,,,,5,72,7492100,7.0,2,2,8,Finished,+46.700,1959
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,12,1959-monza,Italian Grand Prix,,,,,,3,72,7517900,4.0,3,3,8,Finished,+1:12.500,1959
+Ferrari,ferrari,Italian,,gurney,Dan Gurney,American,36,1959-monza,Italian Grand Prix,,,,,,4,72,7525000,3.0,4,4,8,Finished,+1:19.600,1959
+Ferrari,ferrari,Italian,,allison,Cliff Allison,British,34,1959-monza,Italian Grand Prix,,,,,,8,71,,2.0,5,5,8,+1 Lap,,1959
+Ferrari,ferrari,Italian,,gendebien,Olivier Gendebien,Belgian,38,1959-monza,Italian Grand Prix,,,,,,6,71,,0.0,6,6,8,+1 Lap,,1959
+BRM,brm,British,,schell,Harry Schell,American,2,1959-monza,Italian Grand Prix,,,,,,7,70,,0.0,7,7,8,+2 Laps,,1959
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,6,1959-monza,Italian Grand Prix,,,,,,11,70,,0.0,8,8,8,+2 Laps,,1959
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,16,1959-monza,Italian Grand Prix,,,,,,13,70,,0.0,9,9,8,+2 Laps,,1959
+Aston Martin,aston_martin,British,,shelby,Carroll Shelby,American,26,1959-monza,Italian Grand Prix,,,,,,19,70,,0.0,10,10,8,+2 Laps,,1959
+Cooper-Maserati,cooper-maserati,British,,davis,Colin Davis,British,40,1959-monza,Italian Grand Prix,,,,,,18,68,,0.0,11,11,8,+4 Laps,,1959
+Cooper-Climax,cooper-climax,British,,scarlatti,Giorgio Scarlatti,Italian,10,1959-monza,Italian Grand Prix,,,,,,12,68,,0.0,12,12,8,+4 Laps,,1959
+BRM,brm,British,,flockhart,Ron Flockhart,British,4,1959-monza,Italian Grand Prix,,,,,,15,67,,0.0,13,13,8,+5 Laps,,1959
+Cooper-Maserati,cooper-maserati,British,,burgess,Ian Burgess,British,42,1959-monza,Italian Grand Prix,,,,,,16,67,,0.0,14,14,8,+5 Laps,,1959
+Maserati,maserati,Italian,,cabianca,Giulio Cabianca,Italian,28,1959-monza,Italian Grand Prix,,,,,,21,64,,0.0,15,15,8,+8 Laps,,1959
+Aston Martin,aston_martin,British,,salvadori,Roy Salvadori,British,24,1959-monza,Italian Grand Prix,,,,,,17,44,,0.0,16,R,8,Engine,,1959
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,8,1959-monza,Italian Grand Prix,,,,,,9,22,,0.0,17,R,8,Engine,,1959
+Cooper-Maserati,cooper-maserati,British,,fairman,Jack Fairman,British,22,1959-monza,Italian Grand Prix,,,,,,12,18,,0.0,18,R,8,Engine,,1959
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,20,1959-monza,Italian Grand Prix,,,,,,14,14,,0.0,19,R,8,Brakes,,1959
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,18,1959-monza,Italian Grand Prix,,,,,,10,1,,0.0,20,R,8,Clutch,,1959
+Ferrari,ferrari,Italian,,brooks,Tony Brooks,British,30,1959-monza,Italian Grand Prix,,,,,,2,0,,0.0,21,R,8,Clutch,,1959
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1959-florida,United States Grand Prix,,,,,,10,42,7955700,8.0,1,1,9,Finished,2:12:35.700,1959
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,6,1959-florida,United States Grand Prix,,,,,,5,42,7956300,7.0,2,2,9,Finished,+0.600,1959
+Ferrari,ferrari,Italian,,brooks,Tony Brooks,British,2,1959-florida,United States Grand Prix,,,,,,4,42,8136600,4.0,3,3,9,Finished,+3:00.900,1959
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,8,1959-florida,United States Grand Prix,,,,,,2,42,8253000,3.0,4,4,9,Finished,+4:57.300,1959
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,10,1959-florida,United States Grand Prix,,,,,,9,39,,2.0,5,5,9,+3 Laps,,1959
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,4,1959-florida,United States Grand Prix,,,,,,6,38,,0.0,6,6,9,Engine,,1959
+Porsche,porsche,German,,blanchard,Harry Blanchard,American,17,1959-florida,United States Grand Prix,,,,,,16,38,,0.0,7,7,9,+4 Laps,,1959
+Ferrari,ferrari,Italian,,allison,Cliff Allison,British,3,1959-florida,United States Grand Prix,,,,,,11,23,,0.0,8,R,9,Transmission,,1959
+Cooper-Maserati,cooper-maserati,British,,salvadori,Roy Salvadori,British,12,1959-florida,United States Grand Prix,,,,,,11,23,,0.0,9,R,9,Transmission,,1959
+Kurtis Kraft,kurtis_kraft,American,,ward,Rodger Ward,American,1,1959-florida,United States Grand Prix,,,,,,19,20,,0.0,10,R,9,Clutch,,1959
+Cooper-OSCA,cooper-osca,British,,tomaso,Alessandro de Tomaso,Argentine,14,1959-florida,United States Grand Prix,,,,,,14,13,,0.0,11,R,9,Brakes,,1959
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,5,1959-florida,United States Grand Prix,,,,,,8,8,,0.0,12,R,9,Clutch,,1959
+Tec-Mec,tec-mec,Italian,,orey,Fritz d'Orey,Brazilian,15,1959-florida,United States Grand Prix,,,,,,17,6,,0.0,13,R,9,Oil leak,,1959
+Cooper-Climax,cooper-climax,British,,moss,Stirling Moss,British,7,1959-florida,United States Grand Prix,,,,,,1,5,,0.0,14,R,9,Transmission,,1959
+Cooper-Climax,cooper-climax,British,,schell,Harry Schell,American,19,1959-florida,United States Grand Prix,,,,,,3,5,,0.0,15,R,9,Clutch,,1959
+Cooper-Borgward,cooper-borgward,British,,constantine,George Constantine,American,16,1959-florida,United States Grand Prix,,,,,,15,5,,0.0,16,R,9,Overheating,,1959
+Team Lotus,team_lotus,British,,stacey,Alan Stacey,British,11,1959-florida,United States Grand Prix,,,,,,12,2,,0.0,17,R,9,Clutch,,1959
+Connaught,connaught,British,,said,Bob Said,American,18,1959-florida,United States Grand Prix,,,,,,13,0,,0.0,18,R,9,Accident,,1959
+Maserati,maserati,Italian,,cade,Phil Cade,American,22,1959-florida,United States Grand Prix,,,,,,0,0,,0.0,19,W,9,Withdrew,,1959

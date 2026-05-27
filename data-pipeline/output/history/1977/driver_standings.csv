@@ -1,0 +1,49 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",,lauda,Niki Lauda,Austrian,,70.0,1,1,3,1977
+"[""wolf""]","[""Wolf""]",,scheckter,Jody Scheckter,South African,,55.0,2,2,3,1977
+"[""team_lotus""]","[""Team Lotus""]",,mario_andretti,Mario Andretti,American,,47.0,3,3,4,1977
+"[""ferrari""]","[""Ferrari""]",,reutemann,Carlos Reutemann,Argentine,,41.0,4,4,1,1977
+"[""mclaren""]","[""McLaren""]",,hunt,James Hunt,British,,40.0,5,5,3,1977
+"[""mclaren""]","[""McLaren""]",,mass,Jochen Mass,German,,25.0,6,6,0,1977
+"[""shadow""]","[""Shadow""]",,jones,Alan Jones,Australian,,22.0,7,7,1,1977
+"[""team_lotus""]","[""Team Lotus""]",,nilsson,Gunnar Nilsson,Swedish,,20.0,8,8,1,1977
+"[""tyrrell""]","[""Tyrrell""]",,depailler,Patrick Depailler,French,,20.0,9,9,0,1977
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,18.0,10,10,1,1977
+"[""march"", ""brabham""]","[""March"", ""Brabham""]",,stuck,Hans-Joachim Stuck,German,,12.0,11,11,0,1977
+"[""fittipaldi""]","[""Fittipaldi""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,11.0,12,12,0,1977
+"[""brabham""]","[""Brabham""]",,watson,John Watson,British,,9.0,13,13,0,1977
+"[""tyrrell""]","[""Tyrrell""]",,peterson,Ronnie Peterson,Swedish,,7.0,14,14,0,1977
+"[""brabham""]","[""Brabham""]",,pace,Carlos Pace,Brazilian,,6.0,15,15,0,1977
+"[""surtees""]","[""Surtees""]",,brambilla,Vittorio Brambilla,Italian,,6.0,16,16,0,1977
+"[""ensign""]","[""Ensign""]",,regazzoni,Clay Regazzoni,Swiss,,5.0,17,17,0,1977
+"[""surtees"", ""ensign""]","[""Surtees"", ""Ensign""]",,tambay,Patrick Tambay,French,,5.0,18,18,0,1977
+"[""penske"", ""shadow"", ""ligier""]","[""Penske"", ""Shadow"", ""Ligier""]",,jarier,Jean-Pierre Jarier,French,,1.0,19,19,0,1977
+"[""shadow""]","[""Shadow""]",,patrese,Riccardo Patrese,Italian,,1.0,20,20,0,1977
+"[""shadow""]","[""Shadow""]",,zorzi,Renzo Zorzi,Italian,,1.0,21,21,0,1977
+"[""hesketh""]","[""Hesketh""]",,keegan,Rupert Keegan,British,,0.0,,-,0,1977
+"[""march""]","[""March""]",,neve,Patrick Nève,Belgian,,0.0,,-,0,1977
+"[""surtees""]","[""Surtees""]",,schuppan,Vern Schuppan,Australian,,0.0,,-,0,1977
+"[""fittipaldi""]","[""Fittipaldi""]",,hoffmann,Ingo Hoffmann,Brazilian,,0.0,,-,0,1977
+"[""penske""]","[""Penske""]",,ongais,Danny Ongais,American,,0.0,,-,0,1977
+"[""march""]","[""March""]",,ribeiro,Alex Ribeiro,Brazilian,,0.0,,-,0,1977
+"[""surtees"", ""penske""]","[""Surtees"", ""Penske""]",,binder,Hans Binder,Austrian,,0.0,,-,0,1977
+"[""march"", ""mclaren""]","[""March"", ""McLaren""]",,lunger,Brett Lunger,American,,0.0,,-,0,1977
+"[""hesketh""]","[""Hesketh""]",,ertl,Harald Ertl,Austrian,,0.0,,-,0,1977
+"[""shadow""]","[""Shadow""]",,oliver,Jackie Oliver,British,,0.0,,-,0,1977
+"[""tyrrell""]","[""Tyrrell""]",,takahashi,Kunimitsu Takahashi,Japanese,,0.0,,-,0,1977
+"[""march""]","[""March""]",,ian_scheckter,Ian Scheckter,South African,,0.0,,-,0,1977
+"[""march"", ""boro""]","[""March"", ""Boro""]",,henton,Brian Henton,British,,0.0,,-,0,1977
+"[""ensign""]","[""Ensign""]",,ickx,Jacky Ickx,Belgian,,0.0,,-,0,1977
+"[""mclaren"", ""ferrari""]","[""McLaren"", ""Ferrari""]",,gilles_villeneuve,Gilles Villeneuve,Canadian,,0.0,,-,0,1977
+"[""kojima""]","[""Kojima""]",,hoshino,Kazuyoshi Hoshino,Japanese,,0.0,,-,0,1977
+"[""brm"", ""surtees""]","[""BRM"", ""Surtees""]",,perkins,Larry Perkins,Australian,,0.0,,-,0,1977
+"[""lec""]","[""LEC""]",,purley,David Purley,British,,0.0,,-,0,1977
+"[""mclaren""]","[""McLaren""]",,villota,Emilio de Villota,Spanish,,0.0,,-,0,1977
+"[""march"", ""shadow""]","[""March"", ""Shadow""]",,merzario,Arturo Merzario,Italian,,0.0,,-,0,1977
+"[""hesketh""]","[""Hesketh""]",,ashley,Ian Ashley,British,,0.0,,-,0,1977
+"[""shadow""]","[""Shadow""]",,pryce,Tom Pryce,British,,0.0,,-,0,1977
+"[""mclaren""]","[""McLaren""]",,giacomelli,Bruno Giacomelli,Italian,,0.0,,-,0,1977
+"[""renault""]","[""Renault""]",,jabouille,Jean-Pierre Jabouille,French,,0.0,,-,0,1977
+"[""march""]","[""March""]",,hayje,Boy Lunger,Dutch,,0.0,,-,0,1977
+"[""hesketh""]","[""Hesketh""]",,rebaque,Hector Rebaque,Mexican,,0.0,,-,0,1977
+"[""kojima""]","[""Kojima""]",,takahara,Noritake Takahara,Japanese,,0.0,,-,0,1977

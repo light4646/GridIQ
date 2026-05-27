@@ -8,6 +8,9 @@ import {
   getConstructorStandings,
   getRaceResults,
 } from "@/lib/history";
+import F1TVBanner from "@/components/F1TVBanner";
+import AdUnit from "@/components/AdUnit";
+import { ADSENSE } from "@/lib/monetization";
 
 export const metadata = {
   title: "F1 Constructor Database 1950–2026 · GridIQ",
@@ -197,6 +200,8 @@ export default function ConstructorsPage() {
           </div>
         </section>
 
+        <AdUnit slot={ADSENSE.slots.inContent} />
+
         <section className="panel widePanel">
           <div className="panelHeader">
             <div>
@@ -242,6 +247,8 @@ export default function ConstructorsPage() {
             </tbody>
           </table>
         </section>
+
+        <F1TVBanner />
 
         <div className="footer">
           Historical constructor data is calculated from GridIQ race results and

@@ -1,0 +1,36 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""williams""]","[""Williams""]",,prost,Alain Prost,French,,99.0,1,1,7,1993
+"[""mclaren""]","[""McLaren""]",,senna,Ayrton Senna,Brazilian,,73.0,2,2,5,1993
+"[""williams""]","[""Williams""]",,damon_hill,Damon Hill,British,,69.0,3,3,3,1993
+"[""benetton""]","[""Benetton""]",MSC,michael_schumacher,Michael Schumacher,German,,52.0,4,4,1,1993
+"[""benetton""]","[""Benetton""]",,patrese,Riccardo Patrese,Italian,,20.0,5,5,0,1993
+"[""ferrari""]","[""Ferrari""]",,alesi,Jean Alesi,French,,16.0,6,6,0,1993
+"[""ligier""]","[""Ligier""]",,brundle,Martin Brundle,British,,13.0,7,7,0,1993
+"[""ferrari""]","[""Ferrari""]",,berger,Gerhard Berger,Austrian,,12.0,8,8,0,1993
+"[""team_lotus""]","[""Team Lotus""]",,herbert,Johnny Herbert,British,,11.0,9,9,0,1993
+"[""ligier""]","[""Ligier""]",,blundell,Mark Blundell,British,,10.0,10,10,0,1993
+"[""mclaren""]","[""McLaren""]",,andretti,Michael Andretti,American,,7.0,11,11,0,1993
+"[""sauber""]","[""Sauber""]",,wendlinger,Karl Wendlinger,Austrian,,7.0,12,12,0,1993
+"[""sauber""]","[""Sauber""]",,lehto,Jyrki Järvilehto,Finnish,,5.0,13,13,0,1993
+"[""minardi""]","[""Minardi""]",,fittipaldi,Christian Fittipaldi,Brazilian,,5.0,14,14,0,1993
+"[""mclaren""]","[""McLaren""]",,hakkinen,Mika Häkkinen,Finnish,,4.0,15,15,0,1993
+"[""footwork""]","[""Footwork""]",,warwick,Derek Warwick,British,,4.0,16,16,0,1993
+"[""larrousse""]","[""Larrousse""]",,alliot,Philippe Alliot,French,,2.0,17,17,0,1993
+"[""jordan""]","[""Jordan""]",BAR,barrichello,Rubens Barrichello,Brazilian,,2.0,18,18,0,1993
+"[""minardi""]","[""Minardi""]",,barbazza,Fabrizio Barbazza,Italian,,2.0,19,19,0,1993
+"[""team_lotus""]","[""Team Lotus""]",,zanardi,Alessandro Zanardi,Italian,,1.0,20,20,0,1993
+"[""larrousse""]","[""Larrousse""]",,comas,Érik Comas,French,,1.0,21,21,0,1993
+"[""jordan""]","[""Jordan""]",,irvine,Eddie Irvine,British,,1.0,22,22,0,1993
+"[""minardi""]","[""Minardi""]",,martini,Pierluigi Martini,Italian,,0.0,,-,0,1993
+"[""footwork""]","[""Footwork""]",,suzuki,Aguri Suzuki,Japanese,,0.0,,-,0,1993
+"[""lola""]","[""Lola""]",BAD,badoer,Luca Badoer,Italian,,0.0,,-,0,1993
+"[""jordan""]","[""Jordan""]",,boutsen,Thierry Boutsen,Belgian,,0.0,,-,0,1993
+"[""tyrrell""]","[""Tyrrell""]",,cesaris,Andrea de Cesaris,Italian,,0.0,,-,0,1993
+"[""tyrrell""]","[""Tyrrell""]",,katayama,Ukyo Katayama,Japanese,,0.0,,-,0,1993
+"[""lola""]","[""Lola""]",,alboreto,Michele Alboreto,Italian,,0.0,,-,0,1993
+"[""team_lotus""]","[""Team Lotus""]",,lamy,Pedro Lamy,Portuguese,,0.0,,-,0,1993
+"[""larrousse""]","[""Larrousse""]",,toshio_suzuki,Toshio Suzuki,Japanese,,0.0,,-,0,1993
+"[""minardi""]","[""Minardi""]",,gounon,Jean-Marc Gounon,French,,0.0,,-,0,1993
+"[""jordan""]","[""Jordan""]",,capelli,Ivan Capelli,Italian,,0.0,,-,0,1993
+"[""jordan""]","[""Jordan""]",,apicella,Marco Apicella,Italian,,0.0,,-,0,1993
+"[""jordan""]","[""Jordan""]",,naspetti,Emanuele Naspetti,Italian,,0.0,,-,0,1993

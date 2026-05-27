@@ -1,0 +1,33 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""williams""]","[""Williams""]",,piquet,Nelson Piquet,Brazilian,,73.0,1,1,3,1987
+"[""williams""]","[""Williams""]",,mansell,Nigel Mansell,British,,61.0,2,2,6,1987
+"[""team_lotus""]","[""Team Lotus""]",,senna,Ayrton Senna,Brazilian,,57.0,3,3,2,1987
+"[""mclaren""]","[""McLaren""]",,prost,Alain Prost,French,,46.0,4,4,3,1987
+"[""ferrari""]","[""Ferrari""]",,berger,Gerhard Berger,Austrian,,36.0,5,5,2,1987
+"[""mclaren""]","[""McLaren""]",,johansson,Stefan Johansson,Swedish,,30.0,6,6,0,1987
+"[""ferrari""]","[""Ferrari""]",,alboreto,Michele Alboreto,Italian,,17.0,7,7,0,1987
+"[""benetton""]","[""Benetton""]",,boutsen,Thierry Boutsen,Belgian,,16.0,8,8,0,1987
+"[""benetton""]","[""Benetton""]",,fabi,Teo Fabi,Italian,,12.0,9,9,0,1987
+"[""arrows""]","[""Arrows""]",,cheever,Eddie Cheever,American,,8.0,10,10,0,1987
+"[""tyrrell""]","[""Tyrrell""]",,palmer,Jonathan Palmer,British,,7.0,11,11,0,1987
+"[""team_lotus""]","[""Team Lotus""]",,satoru_nakajima,Satoru Nakajima,Japanese,,7.0,12,12,0,1987
+"[""brabham"", ""williams""]","[""Brabham"", ""Williams""]",,patrese,Riccardo Patrese,Italian,,6.0,13,13,0,1987
+"[""brabham""]","[""Brabham""]",,cesaris,Andrea de Cesaris,Italian,,4.0,14,14,0,1987
+"[""tyrrell""]","[""Tyrrell""]",,streiff,Philippe Streiff,French,,4.0,15,15,0,1987
+"[""arrows""]","[""Arrows""]",,warwick,Derek Warwick,British,,3.0,16,16,0,1987
+"[""larrousse""]","[""Larrousse""]",,alliot,Philippe Alliot,French,,3.0,17,17,0,1987
+"[""zakspeed""]","[""Zakspeed""]",,brundle,Martin Brundle,British,,2.0,18,18,0,1987
+"[""march""]","[""March""]",,capelli,Ivan Capelli,Italian,,1.0,19,19,0,1987
+"[""ligier""]","[""Ligier""]",,arnoux,René Arnoux,French,,1.0,20,20,0,1987
+"[""ags""]","[""AGS""]",,moreno,Roberto Moreno,Brazilian,,1.0,21,21,0,1987
+"[""larrousse""]","[""Larrousse""]",,dalmas,Yannick Dalmas,French,,0.0,,-,0,1987
+"[""zakspeed""]","[""Zakspeed""]",,danner,Christian Danner,German,,0.0,,-,0,1987
+"[""ligier""]","[""Ligier""]",,ghinzani,Piercarlo Ghinzani,Italian,,0.0,,-,0,1987
+"[""ags""]","[""AGS""]",,fabre,Pascal Fabre,French,,0.0,,-,0,1987
+"[""minardi""]","[""Minardi""]",,nannini,Alessandro Nannini,Italian,,0.0,,-,0,1987
+"[""osella""]","[""Osella""]",,caffi,Alex Caffi,Italian,,0.0,,-,0,1987
+"[""minardi""]","[""Minardi""]",,campos,Adrián Campos,Spanish,,0.0,,-,0,1987
+"[""osella""]","[""Osella""]",,forini,Franco Forini,Swiss,,0.0,,-,0,1987
+"[""osella""]","[""Osella""]",,tarquini,Gabriele Tarquini,Italian,,0.0,,-,0,1987
+"[""brabham""]","[""Brabham""]",,modena,Stefano Modena,Italian,,0.0,,-,0,1987
+"[""coloni""]","[""Coloni""]",,larini,Nicola Larini,Italian,,0.0,,-,0,1987

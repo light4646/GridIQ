@@ -1,0 +1,9 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Vanwall,vanwall,British,https://en.wikipedia.org/wiki/Vanwall,48.0,1,1,6,1958
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,40.0,2,2,2,1958
+Cooper,cooper,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,31.0,3,3,2,1958
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,18.0,4,4,0,1958
+Maserati,maserati,Italian,https://en.wikipedia.org/wiki/Maserati,6.0,5,5,0,1958
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,3.0,6,6,0,1958
+Porsche,porsche,German,https://en.wikipedia.org/wiki/Porsche_in_motorsport,0.0,,-,0,1958
+Connaught,connaught,British,https://en.wikipedia.org/wiki/Connaught_Engineering,0.0,,-,0,1958

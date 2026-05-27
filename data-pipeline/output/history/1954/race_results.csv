@@ -1,0 +1,230 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,2,1954-buenos-aires,Argentine Grand Prix,,,,,,3,87,10855800,8.0,1,1,1,Finished,3:00:55.800,1954
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,10,1954-buenos-aires,Argentine Grand Prix,,,,,,1,87,10934800,6.0,2,2,1,Finished,+1:19.000,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,12,1954-buenos-aires,Argentine Grand Prix,,,,,,2,87,10976800,5.0,3,3,1,Finished,+2:01.000,1954
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,26,1954-buenos-aires,Argentine Grand Prix,,,,,,5,86,,3.0,4,4,1,+1 Lap,,1954
+Gordini,gordini,French,,bayol,Élie Bayol,French,20,1954-buenos-aires,Argentine Grand Prix,,,,,,15,85,,2.0,5,5,1,+2 Laps,,1954
+Maserati,maserati,Italian,,schell,Harry Schell,American,28,1954-buenos-aires,Argentine Grand Prix,,,,,,11,84,,0.0,6,6,1,+3 Laps,,1954
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,8,1954-buenos-aires,Argentine Grand Prix,,,,,,10,83,,0.0,7,7,1,+4 Laps,,1954
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,30,1954-buenos-aires,Argentine Grand Prix,,,,,,13,83,,0.0,8,8,1,+4 Laps,,1954
+Ferrari,ferrari,Italian,,maglioli,Umberto Maglioli,Italian,16,1954-buenos-aires,Argentine Grand Prix,,,,,,12,82,,0.0,9,9,1,+5 Laps,,1954
+Gordini,gordini,French,,behra,Jean Behra,French,18,1954-buenos-aires,Argentine Grand Prix,,,,,,17,61,,0.0,10,D,1,Disqualified,,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,14,1954-buenos-aires,Argentine Grand Prix,,,,,,4,52,,0.0,11,D,1,Disqualified,,1954
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,4,1954-buenos-aires,Argentine Grand Prix,,,,,,6,48,,0.0,12,R,1,Engine,,1954
+Maserati,maserati,Italian,,mieres,Roberto Mieres,Argentine,32,1954-buenos-aires,Argentine Grand Prix,,,,,,8,37,,0.0,13,R,1,Oil leak,,1954
+Gordini,gordini,French,,loyer,Roger Loyer,French,22,1954-buenos-aires,Argentine Grand Prix,,,,,,16,19,,0.0,14,R,1,Oil pressure,,1954
+Maserati,maserati,Italian,,daponte,Jorge Daponte,Argentine,34,1954-buenos-aires,Argentine Grand Prix,,,,,,18,19,,0.0,15,R,1,Gearbox,,1954
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,24,1954-buenos-aires,Argentine Grand Prix,,,,,,14,1,,0.0,16,R,1,Accident,,1954
+Maserati,maserati,Italian,,musso,Luigi Musso,Italian,6,1954-buenos-aires,Argentine Grand Prix,,,,,,7,0,,0.0,17,W,1,Withdrew,,1954
+Maserati,maserati,Italian,,menditeguy,Carlos Menditeguy,Argentine,36,1954-buenos-aires,Argentine Grand Prix,,,,,,9,0,,0.0,18,W,1,Withdrew,,1954
+Kurtis Kraft,kurtis_kraft,American,,vukovich,Bill Vukovich,American,14,1954-indianapolis,Indianapolis 500,,,,,,19,200,13757270,8.0,1,1,2,Finished,3:49:17.270,1954
+Kuzma,kuzma,American,,bryan,Jimmy Bryan,American,9,1954-indianapolis,Indianapolis 500,,,,,,3,200,13827220,6.0,2,2,2,Finished,+1:09.950,1954
+Kurtis Kraft,kurtis_kraft,American,,mcgrath,Jack McGrath,American,2,1954-indianapolis,Indianapolis 500,,,,,,1,200,13837000,5.0,3,3,2,Finished,+1:19.730,1954
+Kurtis Kraft,kurtis_kraft,American,,ruttman,Troy Ruttman,American,34,1954-indianapolis,Indianapolis 500,,,,,,11,200,13929950,1.5,4,4,2,Finished,+2:52.680,1954
+Kurtis Kraft,kurtis_kraft,American,,darter,Duane Carter,American,34,1954-indianapolis,Indianapolis 500,,,,,,11,200,13929950,1.5,4,4,2,Finished,+2:52.680,1954
+Kurtis Kraft,kurtis_kraft,American,,nazaruk,Mike Nazaruk,American,73,1954-indianapolis,Indianapolis 500,,,,,,14,200,13961820,2.0,5,5,2,Finished,+3:24.550,1954
+Kurtis Kraft,kurtis_kraft,American,,agabashian,Fred Agabashian,American,77,1954-indianapolis,Indianapolis 500,,,,,,24,200,13984820,0.0,6,6,2,Finished,+3:47.550,1954
+Phillips,phillips,American,,freeland,Don Freeland,American,7,1954-indianapolis,Indianapolis 500,,,,,,6,200,14010620,0.0,7,7,2,Finished,+4:13.350,1954
+Kurtis Kraft,kurtis_kraft,American,,hoyt,Jerry Hoyt,American,5,1954-indianapolis,Indianapolis 500,,,,,,32,200,14058440,0.0,8,8,2,Finished,+5:01.170,1954
+Kurtis Kraft,kurtis_kraft,American,,paul_russo,Paul Russo,American,5,1954-indianapolis,Indianapolis 500,,,,,,32,200,14058440,0.0,8,8,2,Finished,+5:01.170,1954
+Kurtis Kraft,kurtis_kraft,American,,crockett,Larry Crockett,American,28,1954-indianapolis,Indianapolis 500,,,,,,25,200,14184510,0.0,9,9,2,Finished,+7:07.240,1954
+Stevens,stevens,American,,niday,Cal Niday,American,24,1954-indianapolis,Indianapolis 500,,,,,,13,200,14184960,0.0,10,10,2,Finished,+7:07.690,1954
+Kurtis Kraft,kurtis_kraft,American,,davies,Jimmy Davies,American,45,1954-indianapolis,Indianapolis 500,,,,,,27,200,14259460,0.0,11,11,2,Finished,+8:22.190,1954
+Kurtis Kraft,kurtis_kraft,American,,cross,Art Cross,American,45,1954-indianapolis,Indianapolis 500,,,,,,27,200,14259460,0.0,11,11,2,Finished,+8:22.190,1954
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,45,1954-indianapolis,Indianapolis 500,,,,,,27,200,14259460,0.0,11,11,2,Finished,+8:22.190,1954
+Kurtis Kraft,kurtis_kraft,American,,hanks,Sam Hanks,American,45,1954-indianapolis,Indianapolis 500,,,,,,27,200,14259460,0.0,11,11,2,Finished,+8:22.190,1954
+Kurtis Kraft,kurtis_kraft,American,,linden,Andy Linden,American,45,1954-indianapolis,Indianapolis 500,,,,,,27,200,14259460,0.0,11,11,2,Finished,+8:22.190,1954
+Kuzma,kuzma,American,,stevenson,Chuck Stevenson,American,98,1954-indianapolis,Indianapolis 500,,,,,,5,199,,0.0,12,12,2,+1 Lap,,1954
+Kuzma,kuzma,American,,faulkner,Walt Faulkner,American,98,1954-indianapolis,Indianapolis 500,,,,,,5,199,,0.0,12,12,2,+1 Lap,,1954
+Kuzma,kuzma,American,,ayulo,Manny Ayulo,American,88,1954-indianapolis,Indianapolis 500,,,,,,22,197,,0.0,13,13,2,+3 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,sweikert,Bob Sweikert,American,17,1954-indianapolis,Indianapolis 500,,,,,,9,197,,0.0,14,14,2,+3 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,darter,Duane Carter,American,16,1954-indianapolis,Indianapolis 500,,,,,,8,196,,0.0,15,15,2,+4 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,bettenhausen,Tony Bettenhausen,American,16,1954-indianapolis,Indianapolis 500,,,,,,8,196,,0.0,15,15,2,+4 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,jackson,Jimmy Jackson,American,16,1954-indianapolis,Indianapolis 500,,,,,,8,196,,0.0,15,15,2,+4 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,teague,Marshall Teague,American,16,1954-indianapolis,Indianapolis 500,,,,,,8,196,,0.0,15,15,2,+4 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,mccoy,Ernie McCoy,American,32,1954-indianapolis,Indianapolis 500,,,,,,20,194,,0.0,16,16,2,+6 Laps,,1954
+Pankratz,pankratz,American,,reece,Jimmy Reece,American,25,1954-indianapolis,Indianapolis 500,,,,,,7,194,,0.0,17,17,2,+6 Laps,,1954
+Stevens,stevens,American,,elisian,Ed Elisian,American,27,1954-indianapolis,Indianapolis 500,,,,,,31,193,,0.0,18,18,2,+7 Laps,,1954
+Stevens,stevens,American,,bob_scott,Bob Scott,American,27,1954-indianapolis,Indianapolis 500,,,,,,31,193,,0.0,18,18,2,+7 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,armi,Frank Armi,American,71,1954-indianapolis,Indianapolis 500,,,,,,33,193,,0.0,19,19,2,+7 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,fonder,George Fonder,American,71,1954-indianapolis,Indianapolis 500,,,,,,33,193,,0.0,19,19,2,+7 Laps,,1954
+Kurtis Kraft,kurtis_kraft,American,,davies,Jimmy Davies,American,1,1954-indianapolis,Indianapolis 500,,,,,,10,191,,0.0,20,R,2,Spun off,,1954
+Kurtis Kraft,kurtis_kraft,American,,rathmann,Jim Rathmann,American,1,1954-indianapolis,Indianapolis 500,,,,,,10,191,,0.0,20,R,2,Spun off,,1954
+Kurtis Kraft,kurtis_kraft,American,,hanks,Sam Hanks,American,1,1954-indianapolis,Indianapolis 500,,,,,,10,191,,0.0,20,R,2,Spun off,,1954
+Kurtis Kraft,kurtis_kraft,American,,connor,Pat O'Connor,American,35,1954-indianapolis,Indianapolis 500,,,,,,12,181,,0.0,21,R,2,Spun off,,1954
+Pawl,pawl,American,,ward,Rodger Ward,American,12,1954-indianapolis,Indianapolis 500,,,,,,16,172,,0.0,22,R,2,Retired,,1954
+Pawl,pawl,American,,johnson,Eddie Johnson,American,12,1954-indianapolis,Indianapolis 500,,,,,,16,172,,0.0,22,R,2,Retired,,1954
+Kurtis Kraft,kurtis_kraft,American,,teague,Marshall Teague,American,31,1954-indianapolis,Indianapolis 500,,,,,,17,168,,0.0,23,R,2,Clutch,,1954
+Kurtis Kraft,kurtis_kraft,American,,hartley,Gene Hartley,American,31,1954-indianapolis,Indianapolis 500,,,,,,17,168,,0.0,23,23,2,Clutch,,1954
+Nichels,nichels,American,,linden,Andy Linden,American,43,1954-indianapolis,Indianapolis 500,,,,,,4,165,,0.0,24,R,2,Retired,,1954
+Nichels,nichels,American,,daywalt,Jimmy Daywalt,American,43,1954-indianapolis,Indianapolis 500,,,,,,4,165,,0.0,24,R,2,Retired,,1954
+Nichels,nichels,American,,thomson,Johnny Thomson,American,43,1954-indianapolis,Indianapolis 500,,,,,,4,165,,0.0,24,R,2,Retired,,1954
+Schroeder,schroeder,American,,linden,Andy Linden,American,74,1954-indianapolis,Indianapolis 500,,,,,,23,165,,0.0,25,R,2,Suspension,,1954
+Schroeder,schroeder,American,,bob_scott,Bob Scott,American,74,1954-indianapolis,Indianapolis 500,,,,,,23,165,,0.0,25,R,2,Suspension,,1954
+Kurtis Kraft,kurtis_kraft,American,,hoyt,Jerry Hoyt,American,99,1954-indianapolis,Indianapolis 500,,,,,,30,130,,0.0,26,R,2,Engine,,1954
+Kurtis Kraft,kurtis_kraft,American,,daywalt,Jimmy Daywalt,American,19,1954-indianapolis,Indianapolis 500,,,,,,2,111,,0.0,27,R,2,Accident,,1954
+Kurtis Kraft,kurtis_kraft,American,,rathmann,Jim Rathmann,American,38,1954-indianapolis,Indianapolis 500,,,,,,28,110,,0.0,28,R,2,Accident,,1954
+Kurtis Kraft,kurtis_kraft,American,,flaherty,Pat Flaherty,American,38,1954-indianapolis,Indianapolis 500,,,,,,28,110,,0.0,28,R,2,Accident,,1954
+Kurtis Kraft,kurtis_kraft,American,,bettenhausen,Tony Bettenhausen,American,10,1954-indianapolis,Indianapolis 500,,,,,,21,105,,0.0,29,R,2,Wheel bearing,,1954
+Bromme,bromme,American,,webb,Travis Webb,American,65,1954-indianapolis,Indianapolis 500,,,,,,29,104,,0.0,30,R,2,Fuel pump,,1954
+Bromme,bromme,American,,kladis,Danny Kladis,American,65,1954-indianapolis,Indianapolis 500,,,,,,29,104,,0.0,30,R,2,Fuel pump,,1954
+Schroeder,schroeder,American,,duncan,Len Duncan,American,33,1954-indianapolis,Indianapolis 500,,,,,,26,101,,0.0,31,R,2,Brakes,,1954
+Schroeder,schroeder,American,,fonder,George Fonder,American,33,1954-indianapolis,Indianapolis 500,,,,,,26,101,,0.0,31,R,2,Brakes,,1954
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,15,1954-indianapolis,Indianapolis 500,,,,,,15,79,,0.0,32,R,2,Engine,,1954
+Kurtis Kraft,kurtis_kraft,American,,homeier,Bill Homeier,American,51,1954-indianapolis,Indianapolis 500,,,,,,18,74,,0.0,33,R,2,Accident,,1954
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,26,1954-spa,Belgian Grand Prix,,,,,,1,36,9882400,9.0,1,1,3,Finished,2:44:42.400,1954
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,8,1954-spa,Belgian Grand Prix,,,,,,6,36,9906600,6.0,2,2,3,Finished,+24.200,1954
+Maserati,maserati,Italian,,moss,Stirling Moss,British,22,1954-spa,Belgian Grand Prix,,,,,,9,35,,4.0,3,3,3,+1 Lap,,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,10,1954-spa,Belgian Grand Prix,,,,,,5,35,,1.5,4,4,3,+1 Lap,,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,10,1954-spa,Belgian Grand Prix,,,,,,5,35,,1.5,4,4,3,+1 Lap,,1954
+Gordini,gordini,French,,andre_pilette,André Pilette,Belgian,18,1954-spa,Belgian Grand Prix,,,,,,8,35,,2.0,5,5,3,+1 Lap,,1954
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,20,1954-spa,Belgian Grand Prix,,,,,,13,35,,0.0,6,6,3,+1 Lap,,1954
+Maserati,maserati,Italian,,mantovani,Sergio Mantovani,Italian,30,1954-spa,Belgian Grand Prix,,,,,,11,34,,0.0,7,7,3,+2 Laps,,1954
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,4,1954-spa,Belgian Grand Prix,,,,,,3,14,,0.0,8,R,3,Ignition,,1954
+Gordini,gordini,French,,frere,Paul Frère,Belgian,16,1954-spa,Belgian Grand Prix,,,,,,10,14,,0.0,9,R,3,Engine,,1954
+Gordini,gordini,French,,behra,Jean Behra,French,12,1954-spa,Belgian Grand Prix,,,,,,7,12,,0.0,10,R,3,Suspension,,1954
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,28,1954-spa,Belgian Grand Prix,,,,,,4,3,,0.0,11,R,3,Engine,,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,6,1954-spa,Belgian Grand Prix,,,,,,2,1,,0.0,12,R,3,Engine,,1954
+Ferrari,ferrari,Italian,,swaters,Jacques Swaters,American,2,1954-spa,Belgian Grand Prix,,,,,,14,1,,0.0,13,R,3,Engine,,1954
+Maserati,maserati,Italian,,mieres,Roberto Mieres,Argentine,24,1954-spa,Belgian Grand Prix,,,,,,12,0,,0.0,14,R,3,Heat shield fire,,1954
+Mercedes,mercedes,German,,fangio,Juan Fangio,Argentine,18,1954-reims,French Grand Prix,,,,,,1,61,9767900,8.0,1,1,4,Finished,2:42:47.900,1954
+Mercedes,mercedes,German,,kling,Karl Kling,German,20,1954-reims,French Grand Prix,,,,,,2,61,9768000,6.0,2,2,4,Finished,+0.100,1954
+Ferrari,ferrari,Italian,,manzon,Robert Manzon,French,34,1954-reims,French Grand Prix,,,,,,12,60,,4.0,3,3,4,+1 Lap,,1954
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,46,1954-reims,French Grand Prix,,,,,,6,60,,3.0,4,4,4,+1 Lap,,1954
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,14,1954-reims,French Grand Prix,,,,,,14,58,,2.0,5,5,4,+3 Laps,,1954
+Gordini,gordini,French,,behra,Jean Behra,French,24,1954-reims,French Grand Prix,,,,,,17,56,,0.0,6,6,4,+5 Laps,,1954
+Gordini,gordini,French,,frere,Paul Frère,Belgian,28,1954-reims,French Grand Prix,,,,,,19,50,,0.0,7,R,4,Axle,,1954
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,4,1954-reims,French Grand Prix,,,,,,9,36,,0.0,8,R,4,Engine,,1954
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,36,1954-reims,French Grand Prix,,,,,,13,27,,0.0,9,R,4,Engine,,1954
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,12,1954-reims,French Grand Prix,,,,,,5,27,,0.0,10,R,4,Gearbox,,1954
+Maserati,maserati,Italian,,mieres,Roberto Mieres,Argentine,16,1954-reims,French Grand Prix,,,,,,11,24,,0.0,11,R,4,Engine,,1954
+Maserati,maserati,Italian,,wharton,Ken Wharton,British,42,1954-reims,French Grand Prix,,,,,,16,19,,0.0,12,R,4,Transmission,,1954
+Maserati,maserati,Italian,,schell,Harry Schell,American,48,1954-reims,French Grand Prix,,,,,,21,19,,0.0,13,R,4,Fuel pump,,1954
+Mercedes,mercedes,German,,herrmann,Hans Herrmann,German,22,1954-reims,French Grand Prix,,,,,,7,16,,1.0,14,R,4,Engine,,1954
+Maserati,maserati,Italian,,salvadori,Roy Salvadori,British,44,1954-reims,French Grand Prix,,,,,,10,15,,0.0,15,R,4,Halfshaft,,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,2,1954-reims,French Grand Prix,,,,,,4,13,,0.0,16,R,4,Engine,,1954
+HWM,hwm,British,,macklin,Lance Macklin,British,32,1954-reims,French Grand Prix,,,,,,15,10,,0.0,17,R,4,Engine,,1954
+Gordini,gordini,French,,georges_berger,Georges Berger,Belgian,30,1954-reims,French Grand Prix,,,,,,20,9,,0.0,18,R,4,Engine,,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,6,1954-reims,French Grand Prix,,,,,,8,9,,0.0,19,R,4,Engine,,1954
+Gordini,gordini,French,,pollet,Jacques Pollet,French,26,1954-reims,French Grand Prix,,,,,,18,8,,0.0,20,R,4,Engine,,1954
+Maserati,maserati,Italian,,ascari,Alberto Ascari,Italian,10,1954-reims,French Grand Prix,,,,,,3,1,,0.0,21,R,4,Transmission,,1954
+Maserati,maserati,Italian,,mantovani,Sergio Mantovani,Italian,40,1954-reims,French Grand Prix,,,,,,0,0,,0.0,22,W,4,Withdrew,,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,9,1954-silverstone,British Grand Prix,,,,,,2,90,10574000,8.14,1,1,5,Finished,2:56,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,11,1954-silverstone,British Grand Prix,,,,,,3,90,10644000,6.14,2,2,5,Finished,+1:10.000,1954
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,33,1954-silverstone,British Grand Prix,,,,,,28,89,,4.14,3,3,5,+1 Lap,,1954
+Mercedes,mercedes,German,,fangio,Juan Fangio,Argentine,1,1954-silverstone,British Grand Prix,,,,,,1,89,,3.14,4,4,5,+1 Lap,,1954
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,10,1954-silverstone,British Grand Prix,,,,,,8,87,,2.0,5,5,5,+3 Laps,,1954
+Maserati,maserati,Italian,,mieres,Roberto Mieres,Argentine,4,1954-silverstone,British Grand Prix,,,,,,32,87,,0.0,6,6,5,+3 Laps,,1954
+Mercedes,mercedes,German,,kling,Karl Kling,German,2,1954-silverstone,British Grand Prix,,,,,,6,87,,0.0,7,7,5,+3 Laps,,1954
+Maserati,maserati,Italian,,wharton,Ken Wharton,British,8,1954-silverstone,British Grand Prix,,,,,,9,86,,0.0,8,8,5,+4 Laps,,1954
+Gordini,gordini,French,,andre_pilette,André Pilette,Belgian,19,1954-silverstone,British Grand Prix,,,,,,12,86,,0.0,9,9,5,+4 Laps,,1954
+Cooper,cooper,British,,gerard,Bob Gerard,British,29,1954-silverstone,British Grand Prix,,,,,,18,85,,0.0,10,10,5,+5 Laps,,1954
+Connaught,connaught,British,,beauman,Don Beauman,British,25,1954-silverstone,British Grand Prix,,,,,,17,84,,0.0,11,11,5,+6 Laps,,1954
+Maserati,maserati,Italian,,schell,Harry Schell,American,3,1954-silverstone,British Grand Prix,,,,,,16,83,,0.0,12,12,5,+7 Laps,,1954
+Connaught,connaught,British,,marr,Leslie Marr,British,23,1954-silverstone,British Grand Prix,,,,,,22,82,,0.0,13,13,5,+8 Laps,,1954
+Connaught,connaught,British,,thorne,Leslie Thorne,British,26,1954-silverstone,British Grand Prix,,,,,,23,78,,0.0,14,14,5,+12 Laps,,1954
+Cooper,cooper,British,,gould,Horace Gould,British,28,1954-silverstone,British Grand Prix,,,,,,20,44,,0.0,15,15,5,+46 Laps,,1954
+Maserati,maserati,Italian,,moss,Stirling Moss,British,7,1954-silverstone,British Grand Prix,,,,,,4,80,,0.14,16,R,5,Axle,,1954
+Connaught,connaught,British,,whitehouse,Bill Whitehouse,British,22,1954-silverstone,British Grand Prix,,,,,,19,63,,0.0,17,R,5,Fuel system,,1954
+Gordini,gordini,French,,behra,Jean Behra,French,17,1954-silverstone,British Grand Prix,,,,,,5,54,,0.14,18,R,5,Suspension,,1954
+Maserati,maserati,Italian,,salvadori,Roy Salvadori,British,5,1954-silverstone,British Grand Prix,,,,,,7,53,,0.0,19,R,5,Transmission,,1954
+Maserati,maserati,Italian,,flockhart,Ron Flockhart,British,6,1954-silverstone,British Grand Prix,,,,,,10,44,,0.0,20,R,5,Accident,,1954
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,6,1954-silverstone,British Grand Prix,,,,,,10,44,,0.0,20,R,5,Accident,,1954
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,32,1954-silverstone,British Grand Prix,,,,,,27,40,,0.0,21,R,5,Engine,,1954
+Maserati,maserati,Italian,,ascari,Alberto Ascari,Italian,32,1954-silverstone,British Grand Prix,,,,,,27,40,,0.0,21,R,5,Engine,,1954
+Connaught,connaught,British,,riseley_prichard,John Riseley-Prichard,British,24,1954-silverstone,British Grand Prix,,,,,,21,40,,0.0,22,R,5,Accident,,1954
+Ferrari,ferrari,Italian,,reg_parnell,Reg Parnell,British,12,1954-silverstone,British Grand Prix,,,,,,14,25,,0.0,23,R,5,Engine,,1954
+Maserati,maserati,Italian,,ascari,Alberto Ascari,Italian,31,1954-silverstone,British Grand Prix,,,,,,30,21,,0.14,24,R,5,Engine,,1954
+Gordini,gordini,French,,bucci,Clemar Bucci,Argentine,18,1954-silverstone,British Grand Prix,,,,,,13,18,,0.0,25,R,5,Accident,,1954
+Vanwall,vanwall,British,,collins,Peter Collins,British,20,1954-silverstone,British Grand Prix,,,,,,11,16,,0.0,26,R,5,Engine,,1954
+Ferrari,ferrari,Italian,,manzon,Robert Manzon,French,14,1954-silverstone,British Grand Prix,,,,,,15,16,,0.0,27,R,5,Engine,,1954
+Cooper,cooper,British,,whitehead,Peter Whitehead,British,21,1954-silverstone,British Grand Prix,,,,,,24,4,,0.0,28,R,5,Oil leak,,1954
+Cooper,cooper,British,,brandon,Eric Brandon,British,30,1954-silverstone,British Grand Prix,,,,,,25,2,,0.0,29,R,5,Engine,,1954
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,15,1954-silverstone,British Grand Prix,,,,,,31,2,,0.0,30,R,5,Engine,,1954
+Cooper,cooper,British,,alan_brown,Alan Brown,British,27,1954-silverstone,British Grand Prix,,,,,,26,0,,0.0,31,W,5,Withdrew,,1954
+Cooper,cooper,British,,nuckey,Rodney Nuckey,British,30,1954-silverstone,British Grand Prix,,,,,,29,0,,0.0,32,W,5,Withdrew,,1954
+Mercedes,mercedes,German,,fangio,Juan Fangio,Argentine,18,1954-n-rburg,German Grand Prix,,,,,,1,22,13545800,8.0,1,1,6,Finished,3:45:45.800,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,1,1954-n-rburg,German Grand Prix,,,,,,5,22,13642300,3.0,2,2,6,Finished,+1:36.500,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,1,1954-n-rburg,German Grand Prix,,,,,,5,22,13642300,3.0,2,2,6,Finished,+1:36.500,1954
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,2,1954-n-rburg,German Grand Prix,,,,,,7,22,13854400,4.0,3,3,6,Finished,+5:08.600,1954
+Mercedes,mercedes,German,,kling,Karl Kling,German,19,1954-n-rburg,German Grand Prix,,,,,,23,22,13912300,4.0,4,4,6,Finished,+6:06.500,1954
+Maserati,maserati,Italian,,mantovani,Sergio Mantovani,Italian,7,1954-n-rburg,German Grand Prix,,,,,,15,22,14076300,2.0,5,5,6,Finished,+8:50.500,1954
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,4,1954-n-rburg,German Grand Prix,,,,,,13,21,,0.0,6,6,6,+1 Lap,,1954
+Maserati,maserati,Italian,,schell,Harry Schell,American,15,1954-n-rburg,German Grand Prix,,,,,,14,21,,0.0,7,7,6,+1 Lap,,1954
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,25,1954-n-rburg,German Grand Prix,,,,,,11,21,,0.0,8,8,6,+1 Lap,,1954
+Ferrari,ferrari,Italian,,manzon,Robert Manzon,French,24,1954-n-rburg,German Grand Prix,,,,,,12,20,,0.0,9,9,6,+2 Laps,,1954
+Gordini,gordini,French,,behra,Jean Behra,French,9,1954-n-rburg,German Grand Prix,,,,,,9,20,,0.0,10,10,6,+2 Laps,,1954
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,14,1954-n-rburg,German Grand Prix,,,,,,19,18,,0.0,11,R,6,Steering,,1954
+Mercedes,mercedes,German,,lang,Hermann Lang,German,21,1954-n-rburg,German Grand Prix,,,,,,13,10,,0.0,12,R,6,Spun off,,1954
+Gordini,gordini,French,,bucci,Clemar Bucci,Argentine,11,1954-n-rburg,German Grand Prix,,,,,,16,8,,0.0,13,R,6,Wheel,,1954
+Klenk,klenk,German,,helfrich,Theo Helfrich,German,22,1954-n-rburg,German Grand Prix,,,,,,21,8,,0.0,14,R,6,Engine,,1954
+Mercedes,mercedes,German,,herrmann,Hans Herrmann,German,20,1954-n-rburg,German Grand Prix,,,,,,4,7,,0.0,15,R,6,Fuel leak,,1954
+Gordini,gordini,French,,frere,Paul Frère,Belgian,10,1954-n-rburg,German Grand Prix,,,,,,4,4,,0.0,16,R,6,Wheel,,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,3,1954-n-rburg,German Grand Prix,,,,,,3,3,,0.0,17,R,6,Transmission,,1954
+Maserati,maserati,Italian,,mieres,Roberto Mieres,Argentine,8,1954-n-rburg,German Grand Prix,,,,,,17,2,,0.0,18,R,6,Fuel leak,,1954
+Maserati,maserati,Italian,,moss,Stirling Moss,British,16,1954-n-rburg,German Grand Prix,,,,,,3,1,,0.0,19,R,6,Wheel bearing,,1954
+Gordini,gordini,French,,andre_pilette,André Pilette,Belgian,12,1954-n-rburg,German Grand Prix,,,,,,20,0,,0.0,20,R,6,Suspension,,1954
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,6,1954-n-rburg,German Grand Prix,,,,,,8,0,,0.0,21,W,6,Accident,,1954
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,5,1954-n-rburg,German Grand Prix,,,,,,10,0,,0.0,22,W,6,Withdrew,,1954
+Maserati,maserati,Italian,,wharton,Ken Wharton,British,17,1954-n-rburg,German Grand Prix,,,,,,22,0,,0.0,23,W,6,Withdrew,,1954
+Mercedes,mercedes,German,,fangio,Juan Fangio,Argentine,4,1954-bern,Swiss Grand Prix,,,,,,2,66,10834500,9.0,1,1,7,Finished,3:00:34.500,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,20,1954-bern,Swiss Grand Prix,,,,,,1,66,10892300,6.0,2,2,7,Finished,+57.800,1954
+Mercedes,mercedes,German,,herrmann,Hans Herrmann,German,6,1954-bern,Swiss Grand Prix,,,,,,7,65,,4.0,3,3,7,+1 Lap,,1954
+Maserati,maserati,Italian,,mieres,Roberto Mieres,Argentine,30,1954-bern,Swiss Grand Prix,,,,,,12,64,,3.0,4,4,7,+2 Laps,,1954
+Maserati,maserati,Italian,,mantovani,Sergio Mantovani,Italian,28,1954-bern,Swiss Grand Prix,,,,,,9,64,,2.0,5,5,7,+2 Laps,,1954
+Maserati,maserati,Italian,,wharton,Ken Wharton,British,18,1954-bern,Swiss Grand Prix,,,,,,8,64,,0.0,6,6,7,+2 Laps,,1954
+Ferrari,ferrari,Italian,,maglioli,Umberto Maglioli,Italian,24,1954-bern,Swiss Grand Prix,,,,,,11,61,,0.0,7,7,7,+5 Laps,,1954
+Ferrari,ferrari,Italian,,swaters,Jacques Swaters,American,2,1954-bern,Swiss Grand Prix,,,,,,16,58,,0.0,8,8,7,+8 Laps,,1954
+Mercedes,mercedes,German,,kling,Karl Kling,German,8,1954-bern,Swiss Grand Prix,,,,,,5,38,,0.0,9,R,7,Fuel system,,1954
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,26,1954-bern,Swiss Grand Prix,,,,,,4,33,,0.0,10,R,7,Engine,,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,22,1954-bern,Swiss Grand Prix,,,,,,6,30,,0.0,11,R,7,Oil leak,,1954
+Maserati,maserati,Italian,,schell,Harry Schell,American,34,1954-bern,Swiss Grand Prix,,,,,,13,23,,0.0,12,R,7,Oil pump,,1954
+Maserati,maserati,Italian,,moss,Stirling Moss,British,32,1954-bern,Swiss Grand Prix,,,,,,3,21,,0.0,13,R,7,Oil pump,,1954
+Gordini,gordini,French,,wacker,Fred Wacker,American,14,1954-bern,Swiss Grand Prix,,,,,,15,10,,0.0,14,R,7,Transmission,,1954
+Gordini,gordini,French,,behra,Jean Behra,French,10,1954-bern,Swiss Grand Prix,,,,,,14,8,,0.0,15,R,7,Clutch,,1954
+Gordini,gordini,French,,bucci,Clemar Bucci,Argentine,12,1954-bern,Swiss Grand Prix,,,,,,10,0,,0.0,16,R,7,Fuel pump,,1954
+Ferrari,ferrari,Italian,,manzon,Robert Manzon,French,24,1954-bern,Swiss Grand Prix,,,,,,0,0,,0.0,17,W,7,Accident,,1954
+Mercedes,mercedes,German,,fangio,Juan Fangio,Argentine,16,1954-monza,Italian Grand Prix,,,,,,1,80,10067900,8.0,1,1,8,Finished,2:47:47.900,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,40,1954-monza,Italian Grand Prix,,,,,,7,79,,6.0,2,2,8,+1 Lap,,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,38,1954-monza,Italian Grand Prix,,,,,,13,78,,3.0,3,3,8,+2 Laps,,1954
+Ferrari,ferrari,Italian,,maglioli,Umberto Maglioli,Italian,38,1954-monza,Italian Grand Prix,,,,,,13,78,,2.0,3,3,8,+2 Laps,,1954
+Mercedes,mercedes,German,,herrmann,Hans Herrmann,German,12,1954-monza,Italian Grand Prix,,,,,,8,77,,3.0,4,4,8,+3 Laps,,1954
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,30,1954-monza,Italian Grand Prix,,,,,,11,75,,2.0,5,5,8,+5 Laps,,1954
+Gordini,gordini,French,,wacker,Fred Wacker,American,42,1954-monza,Italian Grand Prix,,,,,,18,75,,0.0,6,6,8,+5 Laps,,1954
+Vanwall,vanwall,British,,collins,Peter Collins,British,10,1954-monza,Italian Grand Prix,,,,,,16,75,,0.0,7,7,8,+5 Laps,,1954
+Maserati,maserati,Italian,,rosier,Louis Rosier,French,26,1954-monza,Italian Grand Prix,,,,,,20,74,,0.0,8,8,8,+6 Laps,,1954
+Maserati,maserati,Italian,,mantovani,Sergio Mantovani,Italian,18,1954-monza,Italian Grand Prix,,,,,,9,74,,0.0,9,9,8,+6 Laps,,1954
+Maserati,maserati,Italian,,moss,Stirling Moss,British,28,1954-monza,Italian Grand Prix,,,,,,3,71,,0.0,10,10,8,+9 Laps,,1954
+Maserati,maserati,Italian,,daponte,Jorge Daponte,Argentine,8,1954-monza,Italian Grand Prix,,,,,,19,70,,0.0,11,11,8,+10 Laps,,1954
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,34,1954-monza,Italian Grand Prix,,,,,,2,48,,0.0,12,R,8,Engine,,1954
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,22,1954-monza,Italian Grand Prix,,,,,,6,42,,0.0,13,R,8,Clutch,,1954
+Mercedes,mercedes,German,,kling,Karl Kling,German,14,1954-monza,Italian Grand Prix,,,,,,4,36,,0.0,14,R,8,Accident,,1954
+Maserati,maserati,Italian,,mieres,Roberto Mieres,Argentine,24,1954-monza,Italian Grand Prix,,,,,,10,34,,0.0,15,R,8,Suspension,,1954
+Maserati,maserati,Italian,,musso,Luigi Musso,Italian,20,1954-monza,Italian Grand Prix,,,,,,14,32,,0.0,16,R,8,Transmission,,1954
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,32,1954-monza,Italian Grand Prix,,,,,,5,16,,0.0,17,R,8,Gearbox,,1954
+Ferrari,ferrari,Italian,,manzon,Robert Manzon,French,6,1954-monza,Italian Grand Prix,,,,,,15,16,,0.0,18,R,8,Engine,,1954
+Gordini,gordini,French,,bucci,Clemar Bucci,Argentine,46,1954-monza,Italian Grand Prix,,,,,,17,13,,0.0,19,R,8,Transmission,,1954
+Gordini,gordini,French,,behra,Jean Behra,French,44,1954-monza,Italian Grand Prix,,,,,,12,2,,0.0,20,R,8,Engine,,1954
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,38,1954-barcelona,Spanish Grand Prix,,,,,,3,80,11632100,8.0,1,1,9,Finished,3:13:52.100,1954
+Maserati,maserati,Italian,,musso,Luigi Musso,Italian,14,1954-barcelona,Spanish Grand Prix,,,,,,7,80,11705300,6.0,2,2,9,Finished,+1:13.200,1954
+Mercedes,mercedes,German,,fangio,Juan Fangio,Argentine,2,1954-barcelona,Spanish Grand Prix,,,,,,2,79,,4.0,3,3,9,+1 Lap,,1954
+Maserati,maserati,Italian,,mieres,Roberto Mieres,Argentine,10,1954-barcelona,Spanish Grand Prix,,,,,,11,79,,3.0,4,4,9,+1 Lap,,1954
+Mercedes,mercedes,German,,kling,Karl Kling,German,4,1954-barcelona,Spanish Grand Prix,,,,,,12,79,,2.0,5,5,9,+4 Laps,,1954
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,16,1954-barcelona,Spanish Grand Prix,,,,,,13,76,,0.0,6,6,9,+4 Laps,,1954
+Maserati,maserati,Italian,,rosier,Louis Rosier,French,26,1954-barcelona,Spanish Grand Prix,,,,,,20,74,,0.0,7,7,9,+6 Laps,,1954
+Maserati,maserati,Italian,,wharton,Ken Wharton,British,28,1954-barcelona,Spanish Grand Prix,,,,,,14,74,,0.0,8,8,9,+6 Laps,,1954
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,18,1954-barcelona,Spanish Grand Prix,,,,,,15,68,,0.0,9,9,9,+12 Laps,,1954
+Maserati,maserati,Italian,,mantovani,Sergio Mantovani,Italian,12,1954-barcelona,Spanish Grand Prix,,,,,,10,58,,0.0,10,R,9,Brakes,,1954
+Maserati,maserati,Italian,,volonterio,Ottorino Volonterio,Swiss,22,1954-barcelona,Spanish Grand Prix,,,,,,21,57,,0.0,11,R,9,Engine,,1954
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,22,1954-barcelona,Spanish Grand Prix,,,,,,21,57,,0.0,11,R,9,Engine,,1954
+Mercedes,mercedes,German,,herrmann,Hans Herrmann,German,6,1954-barcelona,Spanish Grand Prix,,,,,,9,50,,0.0,12,R,9,Injection,,1954
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,40,1954-barcelona,Spanish Grand Prix,,,,,,8,47,,0.0,13,R,9,Gearbox,,1954
+Gordini,gordini,French,,pollet,Jacques Pollet,French,48,1954-barcelona,Spanish Grand Prix,,,,,,16,37,,0.0,14,R,9,Engine,,1954
+Maserati,maserati,Italian,,schell,Harry Schell,American,24,1954-barcelona,Spanish Grand Prix,,,,,,4,29,,0.0,15,R,9,Transmission,,1954
+Maserati,maserati,Italian,,moss,Stirling Moss,British,8,1954-barcelona,Spanish Grand Prix,,,,,,6,20,,0.0,16,R,9,Oil pump,,1954
+Gordini,gordini,French,,behra,Jean Behra,French,46,1954-barcelona,Spanish Grand Prix,,,,,,18,17,,0.0,17,R,9,Brakes,,1954
+Ferrari,ferrari,Italian,,swaters,Jacques Swaters,American,30,1954-barcelona,Spanish Grand Prix,,,,,,19,16,,0.0,18,R,9,Engine,,1954
+Lancia,lancia,Italian,,ascari,Alberto Ascari,Italian,34,1954-barcelona,Spanish Grand Prix,,,,,,1,10,,1.0,19,R,9,Clutch,,1954
+Lancia,lancia,Italian,,villoresi,Luigi Villoresi,Italian,36,1954-barcelona,Spanish Grand Prix,,,,,,5,2,,0.0,20,R,9,Brakes,,1954
+Ferrari,ferrari,Italian,,manzon,Robert Manzon,French,20,1954-barcelona,Spanish Grand Prix,,,,,,17,2,,0.0,21,R,9,Engine,,1954
+Vanwall,vanwall,British,,collins,Peter Collins,British,42,1954-barcelona,Spanish Grand Prix,,,,,,0,0,,0.0,22,W,9,Accident,,1954

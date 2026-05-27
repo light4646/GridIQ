@@ -1,0 +1,16 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,120.0,1,1,6,1980
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,66.0,2,2,2,1980
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,55.0,3,3,3,1980
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,38.0,4,4,3,1980
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,14.0,5,5,0,1980
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,12.0,6,6,0,1980
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,11.0,7,7,0,1980
+Fittipaldi,fittipaldi,Brazilian,https://en.wikipedia.org/wiki/Fittipaldi_Automotive,11.0,8,8,0,1980
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,11.0,9,9,0,1980
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,8.0,10,10,0,1980
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,4.0,11,11,0,1980
+ATS,ats,Italian,https://en.wikipedia.org/wiki/ATS_Wheels,0.0,,-,0,1980
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,0.0,,-,0,1980
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,0.0,,-,0,1980
+Shadow,shadow,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,0.0,,-,0,1980

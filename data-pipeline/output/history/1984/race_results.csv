@@ -1,0 +1,415 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,4,61,6154492,9.0,1,1,1,Finished,1:42:34.492,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,9,61,6195006,6.0,2,2,1,Finished,+40.514,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,1,61,6213620,4.0,3,3,1,Finished,+59.128,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,12,60,,3.0,4,4,1,+1 Lap,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,8,59,,2.0,5,5,1,Out of fuel,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,20,59,,1.0,6,6,1,+2 Laps,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,24,59,,0.0,7,7,1,+2 Laps,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,26,58,,0.0,8,8,1,+3 Laps,,1984
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,18,60,,0.0,9,D,1,Disqualified,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,3,51,,0.0,10,R,1,Suspension,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,14,42,,0.0,11,R,1,Gearbox,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,11,41,,0.0,12,R,1,Gearbox,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,6,38,,0.0,13,R,1,Electrical,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,5,35,,0.0,14,R,1,Accident,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,7,32,,0.0,15,R,1,Engine,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,15,32,,0.0,16,R,1,Turbo,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,10,30,,0.0,17,R,1,Battery,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,21,28,,0.0,18,R,1,Gearbox,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,19,25,,0.0,19,R,1,Overheating,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,25,24,,0.0,20,R,1,Battery,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,17,18,,0.0,21,R,1,Turbo,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,13,15,,0.0,22,R,1,Electrical,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,2,14,,0.0,23,R,1,Brakes,,1984
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,23,12,,0.0,24,R,1,Distributor,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,22,11,,0.0,25,D,1,Disqualified,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,16,8,,0.0,26,R,1,Turbo,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-rio-de-janeiro,Brazilian Grand Prix,,,,,,0,0,,0.0,27,D,1,Disqualified,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-midrand,South African Grand Prix,,,,,,8,75,5363430,9.0,1,1,2,Finished,1:29:23.430,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-midrand,South African Grand Prix,,,,,,5,75,5429380,6.0,2,2,2,Finished,+1:05.950,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-midrand,South African Grand Prix,,,,,,9,74,,4.0,3,3,2,+1 Lap,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-midrand,South African Grand Prix,,,,,,18,73,,3.0,4,4,2,+2 Laps,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-midrand,South African Grand Prix,,,,,,14,73,,2.0,5,5,2,+2 Laps,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-midrand,South African Grand Prix,,,,,,13,72,,1.0,6,6,2,+3 Laps,,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-midrand,South African Grand Prix,,,,,,7,71,,0.0,7,7,2,+4 Laps,,1984
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1984-midrand,South African Grand Prix,,,,,,20,71,,0.0,8,8,2,+4 Laps,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-midrand,South African Grand Prix,,,,,,23,71,,0.0,9,9,2,+4 Laps,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-midrand,South African Grand Prix,,,,,,17,71,,0.0,10,10,2,+4 Laps,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-midrand,South African Grand Prix,,,,,,10,70,,0.0,11,11,2,Ignition,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-midrand,South African Grand Prix,,,,,,26,70,,0.0,12,12,2,+5 Laps,,1984
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1984-midrand,South African Grand Prix,,,,,,25,71,,0.0,13,D,2,Disqualified,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-midrand,South African Grand Prix,,,,,,4,66,,0.0,14,R,2,Out of fuel,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-midrand,South African Grand Prix,,,,,,24,60,,0.0,15,D,2,Disqualified,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-midrand,South African Grand Prix,,,,,,11,60,,0.0,16,R,2,Transmission,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-midrand,South African Grand Prix,,,,,,12,53,,0.0,17,R,2,Engine,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-midrand,South African Grand Prix,,,,,,2,51,,0.0,18,R,2,Wheel,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-midrand,South African Grand Prix,,,,,,3,51,,0.0,19,R,2,Turbo,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-midrand,South African Grand Prix,,,,,,15,40,,0.0,20,R,2,Injection,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-midrand,South African Grand Prix,,,,,,1,29,,0.0,21,R,2,Turbo,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-midrand,South African Grand Prix,,,,,,19,26,,0.0,22,R,2,Tyre,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-midrand,South African Grand Prix,,,,,,22,24,,0.0,23,R,2,Engine,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-midrand,South African Grand Prix,,,,,,21,22,,0.0,24,R,2,Gearbox,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-midrand,South African Grand Prix,,,,,,6,18,,0.0,25,R,2,Turbo,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-midrand,South African Grand Prix,,,,,,16,4,,0.0,26,R,2,Radiator,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-midrand,South African Grand Prix,,,,,,0,0,,0.0,27,W,2,Withdrew,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-heusden-zolder,Belgian Grand Prix,,,,,,1,70,5792048,9.0,1,1,3,Finished,1:36:32.048,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-heusden-zolder,Belgian Grand Prix,,,,,,4,70,5834434,6.0,2,2,3,Finished,+42.386,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-heusden-zolder,Belgian Grand Prix,,,,,,2,70,5861851,4.0,3,3,3,Finished,+1:09.803,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-heusden-zolder,Belgian Grand Prix,,,,,,3,69,,3.0,4,4,3,Out of fuel,,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-heusden-zolder,Belgian Grand Prix,,,,,,5,69,,2.0,5,5,3,+1 Lap,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-heusden-zolder,Belgian Grand Prix,,,,,,19,68,,1.0,6,6,3,+2 Laps,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-heusden-zolder,Belgian Grand Prix,,,,,,12,68,,0.0,7,7,3,+2 Laps,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-heusden-zolder,Belgian Grand Prix,,,,,,24,68,,0.0,8,8,3,+2 Laps,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-heusden-zolder,Belgian Grand Prix,,,,,,9,66,,0.0,9,9,3,Engine,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-heusden-zolder,Belgian Grand Prix,,,,,,26,64,,0.0,10,10,3,+2 Laps,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-heusden-zolder,Belgian Grand Prix,,,,,,21,69,,0.0,11,D,3,Disqualified,,1984
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1984-heusden-zolder,Belgian Grand Prix,,,,,,25,53,,0.0,12,R,3,Suspension,,1984
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1984-heusden-zolder,Belgian Grand Prix,,,,,,22,51,,0.0,13,D,3,Disqualified,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-heusden-zolder,Belgian Grand Prix,,,,,,13,42,,0.0,14,R,3,Accident,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-heusden-zolder,Belgian Grand Prix,,,,,,18,42,,0.0,15,R,3,Spun off,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-heusden-zolder,Belgian Grand Prix,,,,,,6,39,,0.0,16,R,3,Exhaust,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-heusden-zolder,Belgian Grand Prix,,,,,,14,35,,0.0,17,R,3,Water pump,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-heusden-zolder,Belgian Grand Prix,,,,,,11,28,,0.0,18,R,3,Engine,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-heusden-zolder,Belgian Grand Prix,,,,,,15,15,,0.0,19,R,3,Electrical,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-heusden-zolder,Belgian Grand Prix,,,,,,23,15,,0.0,20,R,3,Radiator,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-heusden-zolder,Belgian Grand Prix,,,,,,17,15,,0.0,21,R,3,Engine,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-heusden-zolder,Belgian Grand Prix,,,,,,20,14,,0.0,22,R,3,Transmission,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-heusden-zolder,Belgian Grand Prix,,,,,,10,14,,0.0,23,R,3,Clutch,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-heusden-zolder,Belgian Grand Prix,,,,,,8,5,,0.0,24,R,3,Distributor,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-heusden-zolder,Belgian Grand Prix,,,,,,7,2,,0.0,25,R,3,Ignition,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-heusden-zolder,Belgian Grand Prix,,,,,,16,1,,0.0,26,R,3,Clutch,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-imola,San Marino Grand Prix,,,,,,2,60,5813679,9.0,1,1,4,Finished,1:36:53.679,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-imola,San Marino Grand Prix,,,,,,6,60,5827095,6.0,2,2,4,Finished,+13.416,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-imola,San Marino Grand Prix,,,,,,11,59,,4.0,3,3,4,Out of fuel,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-imola,San Marino Grand Prix,,,,,,4,59,,3.0,4,4,4,+1 Lap,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-imola,San Marino Grand Prix,,,,,,20,59,,2.0,5,5,4,+1 Lap,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-imola,San Marino Grand Prix,,,,,,12,58,,1.0,6,6,4,Out of fuel,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-imola,San Marino Grand Prix,,,,,,8,58,,0.0,7,7,4,Out of fuel,,1984
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1984-imola,San Marino Grand Prix,,,,,,24,58,,0.0,8,8,4,+2 Laps,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-imola,San Marino Grand Prix,,,,,,25,57,,0.0,9,9,4,+3 Laps,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-imola,San Marino Grand Prix,,,,,,21,59,,0.0,10,D,4,Disqualified,,1984
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1984-imola,San Marino Grand Prix,,,,,,22,55,,0.0,11,D,4,Disqualified,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-imola,San Marino Grand Prix,,,,,,23,53,,0.0,12,R,4,Turbo,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-imola,San Marino Grand Prix,,,,,,19,52,,0.0,13,R,4,Not classified,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-imola,San Marino Grand Prix,,,,,,1,48,,0.0,14,R,4,Turbo,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-imola,San Marino Grand Prix,,,,,,9,48,,0.0,15,R,4,Turbo,,1984
+Osella,osella,Italian,,gartner,Jo Gartner,Austrian,30,1984-imola,San Marino Grand Prix,,,,,,26,46,,0.0,16,R,4,Engine,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-imola,San Marino Grand Prix,,,,,,16,40,,0.0,17,R,4,Turbo,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-imola,San Marino Grand Prix,,,,,,7,31,,0.0,18,R,4,Turbo,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-imola,San Marino Grand Prix,,,,,,13,23,,0.0,19,R,4,Exhaust,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-imola,San Marino Grand Prix,,,,,,5,15,,0.0,20,R,4,Engine,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-imola,San Marino Grand Prix,,,,,,15,11,,0.0,21,R,4,Engine,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-imola,San Marino Grand Prix,,,,,,10,6,,0.0,22,R,4,Electrical,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-imola,San Marino Grand Prix,,,,,,18,2,,0.0,23,R,4,Spun off,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-imola,San Marino Grand Prix,,,,,,3,2,,0.0,24,R,4,Electrical,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-imola,San Marino Grand Prix,,,,,,14,0,,0.0,25,R,4,Collision,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-imola,San Marino Grand Prix,,,,,,17,0,,0.0,26,R,4,Collision,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-dijon,French Grand Prix,,,,,,9,79,5471951,9.0,1,1,5,Finished,1:31:11.951,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-dijon,French Grand Prix,,,,,,1,79,5479105,6.0,2,2,5,Finished,+7.154,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-dijon,French Grand Prix,,,,,,6,79,5495920,4.0,3,3,5,Finished,+23.969,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-dijon,French Grand Prix,,,,,,11,79,5515657,3.0,4,4,5,Finished,+43.706,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-dijon,French Grand Prix,,,,,,2,79,5538076,2.0,5,5,5,Finished,+1:06.125,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-dijon,French Grand Prix,,,,,,4,78,,1.0,6,6,5,+1 Lap,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-dijon,French Grand Prix,,,,,,5,78,,0.0,7,7,5,+1 Lap,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-dijon,French Grand Prix,,,,,,12,78,,0.0,8,8,5,+1 Lap,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-dijon,French Grand Prix,,,,,,17,78,,0.0,9,9,5,+1 Lap,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-dijon,French Grand Prix,,,,,,26,77,,0.0,10,10,5,+2 Laps,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-dijon,French Grand Prix,,,,,,14,77,,0.0,11,11,5,+2 Laps,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-dijon,French Grand Prix,,,,,,25,74,,0.0,12,12,5,+5 Laps,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-dijon,French Grand Prix,,,,,,21,72,,0.0,13,13,5,+7 Laps,,1984
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1984-dijon,French Grand Prix,,,,,,23,76,,0.0,14,D,5,Disqualified,,1984
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1984-dijon,French Grand Prix,,,,,,24,61,,0.0,15,R,5,Engine,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-dijon,French Grand Prix,,,,,,7,53,,0.0,16,R,5,Accident,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-dijon,French Grand Prix,,,,,,19,51,,0.0,17,R,5,Accident,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-dijon,French Grand Prix,,,,,,16,51,,0.0,18,R,5,Engine,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-dijon,French Grand Prix,,,,,,13,35,,0.0,19,R,5,Turbo,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-dijon,French Grand Prix,,,,,,10,33,,0.0,20,R,5,Engine,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-dijon,French Grand Prix,,,,,,18,22,,0.0,21,R,5,Turbo,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-dijon,French Grand Prix,,,,,,15,15,,0.0,22,R,5,Engine,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-dijon,French Grand Prix,,,,,,3,11,,0.0,23,R,5,Turbo,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-dijon,French Grand Prix,,,,,,20,11,,0.0,24,D,5,Disqualified,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-dijon,French Grand Prix,,,,,,8,5,,0.0,25,R,5,Clutch,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-dijon,French Grand Prix,,,,,,22,4,,0.0,26,R,5,Electrical,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-monte-carlo,Monaco Grand Prix,,,,,,1,31,3667740,4.5,1,1,6,Finished,1:01:07.740,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-monte-carlo,Monaco Grand Prix,,,,,,13,31,3675186,3.0,2,2,6,Finished,+7.446,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-monte-carlo,Monaco Grand Prix,,,,,,3,31,3696817,2.0,3,3,6,Finished,+29.077,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-monte-carlo,Monaco Grand Prix,,,,,,10,31,3702986,1.5,4,4,6,Finished,+35.246,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-monte-carlo,Monaco Grand Prix,,,,,,11,31,3712179,1.0,5,5,6,Finished,+44.439,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-monte-carlo,Monaco Grand Prix,,,,,,4,30,,0.5,6,6,6,+1 Lap,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-monte-carlo,Monaco Grand Prix,,,,,,19,30,,0.0,7,7,6,+1 Lap,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-monte-carlo,Monaco Grand Prix,,,,,,16,30,,0.0,8,8,6,+1 Lap,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-monte-carlo,Monaco Grand Prix,,,,,,20,31,,0.0,9,D,6,Disqualified,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-monte-carlo,Monaco Grand Prix,,,,,,14,24,,0.0,10,R,6,Steering,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-monte-carlo,Monaco Grand Prix,,,,,,8,23,,0.0,11,R,6,Spun off,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-monte-carlo,Monaco Grand Prix,,,,,,12,22,,0.0,12,R,6,Spun off,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-monte-carlo,Monaco Grand Prix,,,,,,2,15,,0.0,13,R,6,Spun off,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-monte-carlo,Monaco Grand Prix,,,,,,9,14,,0.0,14,R,6,Electrical,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-monte-carlo,Monaco Grand Prix,,,,,,17,12,,0.0,15,R,6,Electrical,,1984
+Brabham,brabham,British,,corrado_fabi,Corrado Fabi,Italian,2,1984-monte-carlo,Monaco Grand Prix,,,,,,15,9,,0.0,16,R,6,Electrical,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-monte-carlo,Monaco Grand Prix,,,,,,18,1,,0.0,17,R,6,Spun off,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-monte-carlo,Monaco Grand Prix,,,,,,5,0,,0.0,18,R,6,Collision,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-monte-carlo,Monaco Grand Prix,,,,,,6,0,,0.0,19,R,6,Collision,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-monte-carlo,Monaco Grand Prix,,,,,,7,0,,0.0,20,R,6,Accident,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-montreal,Canadian Grand Prix,,,,,,1,70,6383748,9.0,1,1,7,Finished,1:46:23.748,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-montreal,Canadian Grand Prix,,,,,,8,70,6386360,6.0,2,2,7,Finished,+2.612,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-montreal,Canadian Grand Prix,,,,,,2,70,6471780,4.0,3,3,7,Finished,+1:28.032,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-montreal,Canadian Grand Prix,,,,,,3,69,,3.0,4,4,7,+1 Lap,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-montreal,Canadian Grand Prix,,,,,,5,68,,2.0,5,5,7,+2 Laps,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-montreal,Canadian Grand Prix,,,,,,7,68,,1.0,6,6,7,+2 Laps,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-montreal,Canadian Grand Prix,,,,,,9,68,,0.0,7,7,7,+2 Laps,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-montreal,Canadian Grand Prix,,,,,,12,68,,0.0,8,8,7,+2 Laps,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-montreal,Canadian Grand Prix,,,,,,20,68,,0.0,9,9,7,+2 Laps,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-montreal,Canadian Grand Prix,,,,,,26,65,,0.0,10,10,7,+5 Laps,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-montreal,Canadian Grand Prix,,,,,,11,63,,0.0,11,11,7,Out of fuel,,1984
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1984-montreal,Canadian Grand Prix,,,,,,21,68,,0.0,12,D,7,Disqualified,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-montreal,Canadian Grand Prix,,,,,,23,59,,0.0,13,R,7,Engine,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-montreal,Canadian Grand Prix,,,,,,4,57,,0.0,14,R,7,Chassis,,1984
+Spirit,spirit,British,,rothengatter,Huub Rothengatter,Dutch,21,1984-montreal,Canadian Grand Prix,,,,,,24,56,,0.0,15,R,7,Not classified,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-montreal,Canadian Grand Prix,,,,,,22,52,,0.0,16,D,7,Disqualified,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-montreal,Canadian Grand Prix,,,,,,10,40,,0.0,17,R,7,Brakes,,1984
+Brabham,brabham,British,,corrado_fabi,Corrado Fabi,Italian,2,1984-montreal,Canadian Grand Prix,,,,,,16,39,,0.0,18,R,7,Turbo,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-montreal,Canadian Grand Prix,,,,,,18,38,,0.0,19,R,7,Engine,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-montreal,Canadian Grand Prix,,,,,,14,37,,0.0,20,R,7,Accident,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-montreal,Canadian Grand Prix,,,,,,15,32,,0.0,21,R,7,Fuel system,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-montreal,Canadian Grand Prix,,,,,,17,31,,0.0,22,R,7,Turbo,,1984
+RAM,ram,British,,thackwell,Mike Thackwell,New Zealander,10,1984-montreal,Canadian Grand Prix,,,,,,25,29,,0.0,23,R,7,Turbo,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-montreal,Canadian Grand Prix,,,,,,19,11,,0.0,24,R,7,Gearbox,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-montreal,Canadian Grand Prix,,,,,,6,10,,0.0,25,R,7,Engine,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-montreal,Canadian Grand Prix,,,,,,13,7,,0.0,26,R,7,Turbo,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-detroit,Detroit Grand Prix,,,,,,1,63,6941842,9.0,1,1,8,Finished,1:55:41.842,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-detroit,Detroit Grand Prix,,,,,,5,63,6974480,6.0,2,2,8,Finished,+32.638,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-detroit,Detroit Grand Prix,,,,,,23,63,7028370,4.0,3,3,8,Finished,+1:26.528,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-detroit,Detroit Grand Prix,,,,,,2,63,7057100,3.0,4,4,8,Finished,+1:55.258,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-detroit,Detroit Grand Prix,,,,,,19,62,,2.0,5,5,8,+1 Lap,,1984
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1984-detroit,Detroit Grand Prix,,,,,,11,63,,0.0,6,D,8,Disqualified,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-detroit,Detroit Grand Prix,,,,,,4,49,,0.0,7,R,8,Engine,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-detroit,Detroit Grand Prix,,,,,,21,47,,0.0,8,R,8,Turbo,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-detroit,Detroit Grand Prix,,,,,,6,40,,0.0,9,R,8,Gearbox,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-detroit,Detroit Grand Prix,,,,,,16,33,,0.0,10,R,8,Accident,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-detroit,Detroit Grand Prix,,,,,,9,33,,0.0,11,R,8,Transmission,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-detroit,Detroit Grand Prix,,,,,,20,33,,0.0,12,R,8,Brakes,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-detroit,Detroit Grand Prix,,,,,,10,33,,0.0,13,R,8,Electrical,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-detroit,Detroit Grand Prix,,,,,,3,27,,0.0,14,R,8,Gearbox,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-detroit,Detroit Grand Prix,,,,,,13,27,,0.0,15,R,8,Engine,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-detroit,Detroit Grand Prix,,,,,,12,24,,0.0,16,R,8,Overheating,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-detroit,Detroit Grand Prix,,,,,,17,23,,0.0,17,R,8,Clutch,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-detroit,Detroit Grand Prix,,,,,,8,21,,0.0,18,R,8,Engine,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-detroit,Detroit Grand Prix,,,,,,7,21,,0.0,19,R,8,Accident,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-detroit,Detroit Grand Prix,,,,,,25,20,,0.0,20,R,8,Spun off,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-detroit,Detroit Grand Prix,,,,,,18,3,,0.0,21,R,8,Accident,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-detroit,Detroit Grand Prix,,,,,,26,3,,0.0,22,R,8,Accident,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-detroit,Detroit Grand Prix,,,,,,15,2,,0.0,23,R,8,Accident,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-detroit,Detroit Grand Prix,,,,,,24,2,,0.0,24,R,8,Tyre,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-detroit,Detroit Grand Prix,,,,,,14,0,,0.0,25,R,8,Engine,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-detroit,Detroit Grand Prix,,,,,,22,0,,0.0,26,R,8,Accident,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-dallas,Dallas Grand Prix,,,,,,8,67,7282617,9.0,1,1,9,Finished,2:01:22.617,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-dallas,Dallas Grand Prix,,,,,,4,67,7305081,6.0,2,2,9,Finished,+22.464,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-dallas,Dallas Grand Prix,,,,,,2,66,,4.0,3,3,9,+1 Lap,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-dallas,Dallas Grand Prix,,,,,,24,65,,3.0,4,4,9,+2 Laps,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-dallas,Dallas Grand Prix,,,,,,18,65,,2.0,5,5,9,+2 Laps,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-dallas,Dallas Grand Prix,,,,,,1,64,,1.0,6,6,9,Gearbox,,1984
+Brabham,brabham,British,,corrado_fabi,Corrado Fabi,Italian,2,1984-dallas,Dallas Grand Prix,,,,,,11,64,,0.0,7,7,9,+3 Laps,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-dallas,Dallas Grand Prix,,,,,,13,64,,0.0,8,8,9,+3 Laps,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-dallas,Dallas Grand Prix,,,,,,5,60,,0.0,9,R,9,Spun off,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-dallas,Dallas Grand Prix,,,,,,7,56,,0.0,10,R,9,Spun off,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-dallas,Dallas Grand Prix,,,,,,20,55,,0.0,11,R,9,Spun off,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-dallas,Dallas Grand Prix,,,,,,9,54,,0.0,12,R,9,Spun off,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-dallas,Dallas Grand Prix,,,,,,22,54,,0.0,13,R,9,Spun off,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-dallas,Dallas Grand Prix,,,,,,6,47,,0.0,14,R,9,Clutch,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-dallas,Dallas Grand Prix,,,,,,25,46,,0.0,15,R,9,Electrical,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-dallas,Dallas Grand Prix,,,,,,12,45,,0.0,16,R,9,Spun off,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-dallas,Dallas Grand Prix,,,,,,10,25,,0.0,17,R,9,Spun off,,1984
+Toleman,toleman,British,,cecotto,Johnny Cecotto,Venezuelan,20,1984-dallas,Dallas Grand Prix,,,,,,15,25,,0.0,18,R,9,Spun off,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-dallas,Dallas Grand Prix,,,,,,16,15,,0.0,19,R,9,Spun off,,1984
+Spirit,spirit,British,,rothengatter,Huub Rothengatter,Dutch,21,1984-dallas,Dallas Grand Prix,,,,,,23,15,,0.0,20,R,9,Fuel leak,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-dallas,Dallas Grand Prix,,,,,,21,12,,0.0,21,R,9,Spun off,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-dallas,Dallas Grand Prix,,,,,,3,10,,0.0,22,R,9,Spun off,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-dallas,Dallas Grand Prix,,,,,,17,9,,0.0,23,D,9,Disqualified,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-dallas,Dallas Grand Prix,,,,,,14,8,,0.0,24,R,9,Spun off,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-dallas,Dallas Grand Prix,,,,,,19,0,,0.0,25,R,9,Accident,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-kent,British Grand Prix,,,,,,3,71,5368532,9.0,1,1,10,Finished,1:29:28.532,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-kent,British Grand Prix,,,,,,6,71,5410655,6.0,2,2,10,Finished,+42.123,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-kent,British Grand Prix,,,,,,7,71,5431860,4.0,3,3,10,Finished,+1:03.328,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-kent,British Grand Prix,,,,,,4,70,,3.0,4,4,10,+1 Lap,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-kent,British Grand Prix,,,,,,9,70,,2.0,5,5,10,+1 Lap,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-kent,British Grand Prix,,,,,,13,70,,1.0,6,6,10,+1 Lap,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-kent,British Grand Prix,,,,,,1,70,,0.0,7,7,10,+1 Lap,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-kent,British Grand Prix,,,,,,10,69,,0.0,8,8,10,Turbo,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-kent,British Grand Prix,,,,,,21,68,,0.0,9,9,10,+3 Laps,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-kent,British Grand Prix,,,,,,19,68,,0.0,10,10,10,+3 Laps,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-kent,British Grand Prix,,,,,,15,67,,0.0,11,11,10,+4 Laps,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-kent,British Grand Prix,,,,,,17,66,,0.0,12,12,10,+5 Laps,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-kent,British Grand Prix,,,,,,26,68,,0.0,13,D,10,Disqualified,,1984
+Spirit,spirit,British,,rothengatter,Huub Rothengatter,Dutch,21,1984-kent,British Grand Prix,,,,,,22,62,,0.0,14,R,10,Not classified,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-kent,British Grand Prix,,,,,,20,43,,0.0,15,R,10,Electrical,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-kent,British Grand Prix,,,,,,2,37,,0.0,16,R,10,Gearbox,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-kent,British Grand Prix,,,,,,8,24,,0.0,17,R,10,Gearbox,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-kent,British Grand Prix,,,,,,12,24,,0.0,18,R,10,Electrical,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-kent,British Grand Prix,,,,,,16,14,,0.0,19,R,10,Water pump,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-kent,British Grand Prix,,,,,,23,10,,0.0,20,R,10,Accident,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-kent,British Grand Prix,,,,,,14,9,,0.0,21,R,10,Electrical,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-kent,British Grand Prix,,,,,,11,8,,0.0,22,R,10,Spun off,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-kent,British Grand Prix,,,,,,5,5,,0.0,23,R,10,Engine,,1984
+Tyrrell,tyrrell,British,,johansson,Stefan Johansson,Swedish,3,1984-kent,British Grand Prix,,,,,,25,1,,0.0,24,D,10,Disqualified,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-kent,British Grand Prix,,,,,,18,0,,0.0,25,R,10,Accident,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-kent,British Grand Prix,,,,,,24,0,,0.0,26,R,10,Accident,,1984
+Osella,osella,Italian,,gartner,Jo Gartner,Austrian,30,1984-kent,British Grand Prix,,,,,,27,0,,0.0,27,R,10,Accident,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-hockenheim,German Grand Prix,,,,,,1,44,5083210,9.0,1,1,11,Finished,1:24:43.210,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-hockenheim,German Grand Prix,,,,,,7,44,5086359,6.0,2,2,11,Finished,+3.149,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-hockenheim,German Grand Prix,,,,,,3,44,5119633,4.0,3,3,11,Finished,+36.423,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-hockenheim,German Grand Prix,,,,,,16,44,5134873,3.0,4,4,11,Finished,+51.663,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-hockenheim,German Grand Prix,,,,,,4,44,5155159,2.0,5,5,11,Finished,+1:11.949,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-hockenheim,German Grand Prix,,,,,,10,43,,1.0,6,6,11,+1 Lap,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-hockenheim,German Grand Prix,,,,,,11,43,,0.0,7,7,11,+1 Lap,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-hockenheim,German Grand Prix,,,,,,17,43,,0.0,8,8,11,+1 Lap,,1984
+Spirit,spirit,British,,rothengatter,Huub Rothengatter,Dutch,21,1984-hockenheim,German Grand Prix,,,,,,24,40,,0.0,9,9,11,+4 Laps,,1984
+Tyrrell,tyrrell,British,,johansson,Stefan Johansson,Swedish,3,1984-hockenheim,German Grand Prix,,,,,,26,42,,0.0,10,D,11,Disqualified,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-hockenheim,German Grand Prix,,,,,,13,31,,0.0,11,R,11,Gearbox,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-hockenheim,German Grand Prix,,,,,,18,29,,0.0,12,R,11,Engine,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-hockenheim,German Grand Prix,,,,,,8,28,,0.0,13,R,11,Turbo,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-hockenheim,German Grand Prix,,,,,,5,23,,0.0,14,R,11,Gearbox,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-hockenheim,German Grand Prix,,,,,,20,16,,0.0,15,R,11,Fuel system,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-hockenheim,German Grand Prix,,,,,,21,14,,0.0,16,R,11,Electrical,,1984
+Osella,osella,Italian,,gartner,Jo Gartner,Austrian,30,1984-hockenheim,German Grand Prix,,,,,,23,13,,0.0,17,R,11,Turbo,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-hockenheim,German Grand Prix,,,,,,6,13,,0.0,18,R,11,Engine,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-hockenheim,German Grand Prix,,,,,,25,11,,0.0,19,R,11,Turbo,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-hockenheim,German Grand Prix,,,,,,19,10,,0.0,20,R,11,Electrical,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-hockenheim,German Grand Prix,,,,,,12,10,,0.0,21,R,11,Engine,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-hockenheim,German Grand Prix,,,,,,15,8,,0.0,22,R,11,Engine,,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-hockenheim,German Grand Prix,,,,,,2,8,,0.0,23,R,11,Turbo,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-hockenheim,German Grand Prix,,,,,,22,7,,0.0,24,R,11,Overheating,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-hockenheim,German Grand Prix,,,,,,9,4,,0.0,25,R,11,Accident,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-hockenheim,German Grand Prix,,,,,,14,1,,0.0,26,R,11,Turbo,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-spielberg,Austrian Grand Prix,,,,,,4,51,4872851,9.0,1,1,12,Finished,1:21:12.851,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-spielberg,Austrian Grand Prix,,,,,,1,51,4896376,6.0,2,2,12,Finished,+23.525,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-spielberg,Austrian Grand Prix,,,,,,12,51,4921849,4.0,3,3,12,Finished,+48.998,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-spielberg,Austrian Grand Prix,,,,,,7,51,4929163,3.0,4,4,12,Finished,+56.312,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-spielberg,Austrian Grand Prix,,,,,,17,50,,2.0,5,5,12,+1 Lap,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-spielberg,Austrian Grand Prix,,,,,,19,50,,1.0,6,6,12,+1 Lap,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-spielberg,Austrian Grand Prix,,,,,,15,50,,0.0,7,7,12,+1 Lap,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-spielberg,Austrian Grand Prix,,,,,,21,49,,0.0,8,8,12,+2 Laps,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-spielberg,Austrian Grand Prix,,,,,,24,49,,0.0,9,9,12,+2 Laps,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-spielberg,Austrian Grand Prix,,,,,,13,48,,0.0,10,10,12,Out of fuel,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-spielberg,Austrian Grand Prix,,,,,,25,48,,0.0,11,11,12,+3 Laps,,1984
+ATS,ats,Italian,,berger,Gerhard Berger,Austrian,31,1984-spielberg,Austrian Grand Prix,,,,,,20,48,,0.0,12,12,12,Gearbox,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-spielberg,Austrian Grand Prix,,,,,,5,42,,0.0,13,R,12,Engine,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-spielberg,Austrian Grand Prix,,,,,,10,35,,0.0,14,R,12,Oil pressure,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-spielberg,Austrian Grand Prix,,,,,,8,32,,0.0,15,R,12,Engine,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-spielberg,Austrian Grand Prix,,,,,,2,28,,0.0,16,R,12,Spun off,,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-spielberg,Austrian Grand Prix,,,,,,3,28,,0.0,17,R,12,Engine,,1984
+Spirit,spirit,British,,rothengatter,Huub Rothengatter,Dutch,21,1984-spielberg,Austrian Grand Prix,,,,,,26,23,,0.0,18,R,12,Not classified,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-spielberg,Austrian Grand Prix,,,,,,16,18,,0.0,19,R,12,Engine,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-spielberg,Austrian Grand Prix,,,,,,6,17,,0.0,20,R,12,Engine,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-spielberg,Austrian Grand Prix,,,,,,18,15,,0.0,21,R,12,Injection,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-spielberg,Austrian Grand Prix,,,,,,9,15,,0.0,22,R,12,Handling,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-spielberg,Austrian Grand Prix,,,,,,11,12,,0.0,23,R,12,Engine,,1984
+Osella,osella,Italian,,gartner,Jo Gartner,Austrian,30,1984-spielberg,Austrian Grand Prix,,,,,,22,6,,0.0,24,R,12,Engine,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-spielberg,Austrian Grand Prix,,,,,,23,4,,0.0,25,R,12,Gearbox,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-spielberg,Austrian Grand Prix,,,,,,0,0,,0.0,26,D,12,Disqualified,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-zandvoort,Dutch Grand Prix,,,,,,1,71,5841468,9.0,1,1,13,Finished,1:37:21.468,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-zandvoort,Dutch Grand Prix,,,,,,6,71,5851751,6.0,2,2,13,Finished,+10.283,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-zandvoort,Dutch Grand Prix,,,,,,12,71,5921012,4.0,3,3,13,Finished,+1:19.544,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-zandvoort,Dutch Grand Prix,,,,,,3,70,,3.0,4,4,13,+1 Lap,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-zandvoort,Dutch Grand Prix,,,,,,10,70,,2.0,5,5,13,+1 Lap,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-zandvoort,Dutch Grand Prix,,,,,,5,70,,1.0,6,6,13,+1 Lap,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-zandvoort,Dutch Grand Prix,,,,,,20,69,,0.0,7,7,13,+2 Laps,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-zandvoort,Dutch Grand Prix,,,,,,7,68,,0.0,8,8,13,Out of fuel,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-zandvoort,Dutch Grand Prix,,,,,,22,67,,0.0,9,9,13,+4 Laps,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-zandvoort,Dutch Grand Prix,,,,,,26,67,,0.0,10,10,13,+4 Laps,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-zandvoort,Dutch Grand Prix,,,,,,15,66,,0.0,11,11,13,Electrical,,1984
+Osella,osella,Italian,,gartner,Jo Gartner,Austrian,30,1984-zandvoort,Dutch Grand Prix,,,,,,23,66,,0.0,12,12,13,+5 Laps,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-zandvoort,Dutch Grand Prix,,,,,,17,65,,0.0,13,13,13,Out of fuel,,1984
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1984-zandvoort,Dutch Grand Prix,,,,,,26,69,,0.0,14,D,13,Disqualified,,1984
+Tyrrell,tyrrell,British,,johansson,Stefan Johansson,Swedish,3,1984-zandvoort,Dutch Grand Prix,,,,,,25,69,,0.0,15,D,13,Disqualified,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-zandvoort,Dutch Grand Prix,,,,,,11,59,,0.0,16,R,13,Accident,,1984
+Spirit,spirit,British,,rothengatter,Huub Rothengatter,Dutch,21,1984-zandvoort,Dutch Grand Prix,,,,,,27,53,,0.0,17,R,13,Throttle,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-zandvoort,Dutch Grand Prix,,,,,,11,51,,0.0,18,R,13,Engine,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-zandvoort,Dutch Grand Prix,,,,,,14,31,,0.0,19,R,13,Engine,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-zandvoort,Dutch Grand Prix,,,,,,8,23,,0.0,20,R,13,Engine,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-zandvoort,Dutch Grand Prix,,,,,,4,23,,0.0,21,R,13,Spun off,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-zandvoort,Dutch Grand Prix,,,,,,16,22,,0.0,22,R,13,Spun off,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-zandvoort,Dutch Grand Prix,,,,,,13,19,,0.0,23,R,13,Engine,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-zandvoort,Dutch Grand Prix,,,,,,19,17,,0.0,24,R,13,Wheel,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-zandvoort,Dutch Grand Prix,,,,,,2,10,,0.0,25,R,13,Oil pressure,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-zandvoort,Dutch Grand Prix,,,,,,21,8,,0.0,26,R,13,Fuel pump,,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-zandvoort,Dutch Grand Prix,,,,,,9,7,,0.0,27,R,13,Engine,,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-monza,Italian Grand Prix,,,,,,4,51,4829065,9.0,1,1,14,Finished,1:20:29.065,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-monza,Italian Grand Prix,,,,,,11,51,4853314,6.0,2,2,14,Finished,+24.249,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-monza,Italian Grand Prix,,,,,,9,50,,4.0,3,3,14,+1 Lap,,1984
+Toleman,toleman,British,,johansson,Stefan Johansson,Swedish,19,1984-monza,Italian Grand Prix,,,,,,17,49,,3.0,4,4,14,+2 Laps,,1984
+Osella,osella,Italian,,gartner,Jo Gartner,Austrian,30,1984-monza,Italian Grand Prix,,,,,,24,49,,0.0,5,5,14,+2 Laps,,1984
+ATS,ats,Italian,,berger,Gerhard Berger,Austrian,31,1984-monza,Italian Grand Prix,,,,,,20,49,,0.0,6,6,14,+2 Laps,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-monza,Italian Grand Prix,,,,,,22,48,,0.0,7,7,14,Out of fuel,,1984
+Spirit,spirit,British,,rothengatter,Huub Rothengatter,Dutch,21,1984-monza,Italian Grand Prix,,,,,,25,48,,0.0,8,8,14,+3 Laps,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-monza,Italian Grand Prix,,,,,,10,45,,0.0,9,9,14,Out of fuel,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-monza,Italian Grand Prix,,,,,,19,45,,0.0,10,10,14,+6 Laps,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-monza,Italian Grand Prix,,,,,,8,43,,0.0,11,R,14,Throttle,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-monza,Italian Grand Prix,,,,,,5,43,,0.0,12,R,14,Engine,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-monza,Italian Grand Prix,,,,,,15,43,,0.0,13,R,14,Engine,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-monza,Italian Grand Prix,,,,,,12,31,,0.0,14,R,14,Oil pressure,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-monza,Italian Grand Prix,,,,,,26,20,,0.0,15,R,14,Oil pressure,,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-monza,Italian Grand Prix,,,,,,1,15,,0.0,16,R,14,Engine,,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-monza,Italian Grand Prix,,,,,,3,14,,0.0,17,R,14,Gearbox,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-monza,Italian Grand Prix,,,,,,7,13,,0.0,18,R,14,Spun off,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-monza,Italian Grand Prix,,,,,,13,10,,0.0,19,R,14,Turbo,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-monza,Italian Grand Prix,,,,,,6,8,,0.0,20,R,14,Turbo,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-monza,Italian Grand Prix,,,,,,16,7,,0.0,21,R,14,Engine,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-monza,Italian Grand Prix,,,,,,18,7,,0.0,22,R,14,Spun off,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-monza,Italian Grand Prix,,,,,,23,6,,0.0,23,R,14,Electrical,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-monza,Italian Grand Prix,,,,,,14,5,,0.0,24,R,14,Gearbox,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-monza,Italian Grand Prix,,,,,,2,3,,0.0,25,R,14,Engine,,1984
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,14,1984-monza,Italian Grand Prix,,,,,,21,0,,0.0,26,W,14,Withdrew,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-n-rburg,European Grand Prix,,,,,,2,67,5713284,9.0,1,1,15,Finished,1:35:13.284,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-n-rburg,European Grand Prix,,,,,,5,67,5737195,6.0,2,2,15,Finished,+23.911,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-n-rburg,European Grand Prix,,,,,,1,67,5738206,4.0,3,3,15,Finished,+24.922,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-n-rburg,European Grand Prix,,,,,,15,67,5756370,3.0,4,4,15,Finished,+43.086,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-n-rburg,European Grand Prix,,,,,,6,67,5774714,2.0,5,5,15,Finished,+1:01.430,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-n-rburg,European Grand Prix,,,,,,9,66,,1.0,6,6,15,+1 Lap,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-n-rburg,European Grand Prix,,,,,,17,65,,0.0,7,7,15,+2 Laps,,1984
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1984-n-rburg,European Grand Prix,,,,,,24,65,,0.0,8,8,15,+2 Laps,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-n-rburg,European Grand Prix,,,,,,11,64,,0.0,9,9,15,Ignition,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-n-rburg,European Grand Prix,,,,,,19,64,,0.0,10,10,15,+3 Laps,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-n-rburg,European Grand Prix,,,,,,7,61,,0.0,11,11,15,Overheating,,1984
+Osella,osella,Italian,,gartner,Jo Gartner,Austrian,30,1984-n-rburg,European Grand Prix,,,,,,22,60,,0.0,12,R,15,Fuel system,,1984
+Brabham,brabham,British,,fabi,Teo Fabi,Italian,2,1984-n-rburg,European Grand Prix,,,,,,10,57,,0.0,13,R,15,Gearbox,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-n-rburg,European Grand Prix,,,,,,8,51,,0.0,14,R,15,Engine,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-n-rburg,European Grand Prix,,,,,,3,47,,0.0,15,R,15,Fuel system,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-n-rburg,European Grand Prix,,,,,,13,37,,0.0,16,R,15,Fuel system,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-n-rburg,European Grand Prix,,,,,,25,37,,0.0,17,R,15,Turbo,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-n-rburg,European Grand Prix,,,,,,21,35,,0.0,18,R,15,Turbo,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-n-rburg,European Grand Prix,,,,,,14,27,,0.0,19,R,15,Engine,,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-n-rburg,European Grand Prix,,,,,,23,25,,0.0,20,R,15,Turbo,,1984
+Toleman,toleman,British,,johansson,Stefan Johansson,Swedish,20,1984-n-rburg,European Grand Prix,,,,,,26,17,,0.0,21,R,15,Overheating,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-n-rburg,European Grand Prix,,,,,,4,0,,0.0,22,R,15,Accident,,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-n-rburg,European Grand Prix,,,,,,12,0,,0.0,23,R,15,Accident,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-n-rburg,European Grand Prix,,,,,,16,0,,0.0,24,R,15,Accident,,1984
+ATS,ats,Italian,,berger,Gerhard Berger,Austrian,31,1984-n-rburg,European Grand Prix,,,,,,18,0,,0.0,25,R,15,Accident,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-n-rburg,European Grand Prix,,,,,,20,0,,0.0,26,R,15,Accident,,1984
+McLaren,mclaren,British,,prost,Alain Prost,French,7,1984-estoril,Portuguese Grand Prix,,,,,,2,70,6071753,9.0,1,1,16,Finished,1:41:11.753,1984
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1984-estoril,Portuguese Grand Prix,,,,,,11,70,6085178,6.0,2,2,16,Finished,+13.425,1984
+Toleman,toleman,British,,senna,Ayrton Senna,Brazilian,19,1984-estoril,Portuguese Grand Prix,,,,,,3,70,6091795,4.0,3,3,16,Finished,+20.042,1984
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1984-estoril,Portuguese Grand Prix,,,,,,8,70,6092070,3.0,4,4,16,Finished,+20.317,1984
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1984-estoril,Portuguese Grand Prix,,,,,,5,70,6163922,2.0,5,5,16,Finished,+1:32.169,1984
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1984-estoril,Portuguese Grand Prix,,,,,,1,69,,1.0,6,6,16,+1 Lap,,1984
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1984-estoril,Portuguese Grand Prix,,,,,,7,69,,0.0,7,7,16,+1 Lap,,1984
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1984-estoril,Portuguese Grand Prix,,,,,,12,69,,0.0,8,8,16,+1 Lap,,1984
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1984-estoril,Portuguese Grand Prix,,,,,,17,69,,0.0,9,9,16,+1 Lap,,1984
+Brabham,brabham,British,,manfred_winkelhock,Manfred Winkelhock,German,2,1984-estoril,Portuguese Grand Prix,,,,,,19,69,,0.0,10,10,16,+1 Lap,,1984
+Toleman,toleman,British,,johansson,Stefan Johansson,Swedish,20,1984-estoril,Portuguese Grand Prix,,,,,,10,69,,0.0,11,11,16,+1 Lap,,1984
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,26,1984-estoril,Portuguese Grand Prix,,,,,,20,69,,0.0,12,12,16,+1 Lap,,1984
+ATS,ats,Italian,,berger,Gerhard Berger,Austrian,14,1984-estoril,Portuguese Grand Prix,,,,,,23,68,,0.0,13,13,16,+2 Laps,,1984
+Williams,williams,British,,laffite,Jacques Laffite,French,5,1984-estoril,Portuguese Grand Prix,,,,,,15,67,,0.0,14,14,16,+3 Laps,,1984
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1984-estoril,Portuguese Grand Prix,,,,,,25,66,,0.0,15,15,16,+4 Laps,,1984
+Osella,osella,Italian,,gartner,Jo Gartner,Austrian,30,1984-estoril,Portuguese Grand Prix,,,,,,24,65,,0.0,16,16,16,Out of fuel,,1984
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1984-estoril,Portuguese Grand Prix,,,,,,14,64,,0.0,17,17,16,+6 Laps,,1984
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1984-estoril,Portuguese Grand Prix,,,,,,22,60,,0.0,18,R,16,Engine,,1984
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1984-estoril,Portuguese Grand Prix,,,,,,6,52,,0.0,19,R,16,Spun off,,1984
+Renault,renault,French,,warwick,Derek Warwick,British,16,1984-estoril,Portuguese Grand Prix,,,,,,9,51,,0.0,20,R,16,Gearbox,,1984
+Renault,renault,French,,streiff,Philippe Streiff,French,33,1984-estoril,Portuguese Grand Prix,,,,,,13,48,,0.0,21,R,16,Transmission,,1984
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1984-estoril,Portuguese Grand Prix,,,,,,4,39,,0.0,22,R,16,Engine,,1984
+Ligier,ligier,French,,hesnault,François Hesnault,French,25,1984-estoril,Portuguese Grand Prix,,,,,,21,31,,0.0,23,R,16,Electrical,,1984
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1984-estoril,Portuguese Grand Prix,,,,,,18,24,,0.0,24,R,16,Transmission,,1984
+RAM,ram,British,,palmer,Jonathan Palmer,British,10,1984-estoril,Portuguese Grand Prix,,,,,,26,19,,0.0,25,R,16,Gearbox,,1984
+Arrows,arrows,British,,surer,Marc Surer,Swiss,17,1984-estoril,Portuguese Grand Prix,,,,,,16,8,,0.0,26,R,16,Electrical,,1984
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1984-estoril,Portuguese Grand Prix,,,,,,27,2,,0.0,27,R,16,Engine,,1984

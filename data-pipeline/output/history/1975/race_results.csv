@@ -1,0 +1,347 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-buenos-aires,Argentine Grand Prix,,,,,,5,53,5966290,9.0,1,1,1,Finished,1:39:26.290,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-buenos-aires,Argentine Grand Prix,,,,,,6,53,5972200,6.0,2,2,1,Finished,+5.910,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-buenos-aires,Argentine Grand Prix,,,,,,3,53,5983350,4.0,3,3,1,Finished,+17.060,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-buenos-aires,Argentine Grand Prix,,,,,,7,53,6002080,3.0,4,4,1,Finished,+35.790,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-buenos-aires,Argentine Grand Prix,,,,,,8,53,6020540,2.0,5,5,1,Finished,+54.250,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-buenos-aires,Argentine Grand Prix,,,,,,4,53,6045940,1.0,6,6,1,Finished,+1:19.650,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-buenos-aires,Argentine Grand Prix,,,,,,16,52,,0.0,7,7,1,+1 Lap,,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-buenos-aires,Argentine Grand Prix,,,,,,18,52,,0.0,8,8,1,+1 Lap,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-buenos-aires,Argentine Grand Prix,,,,,,12,52,,0.0,9,9,1,+1 Lap,,1975
+Lola,lola,British,,hill,Graham Hill,British,22,1975-buenos-aires,Argentine Grand Prix,,,,,,21,52,,0.0,10,10,1,+1 Lap,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-buenos-aires,Argentine Grand Prix,,,,,,9,52,,0.0,11,11,1,+1 Lap,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-buenos-aires,Argentine Grand Prix,,,,,,14,51,,0.0,12,12,1,Transmission,,1975
+Lola,lola,British,,stommelen,Rolf Stommelen,German,23,1975-buenos-aires,Argentine Grand Prix,,,,,,19,51,,0.0,13,13,1,+2 Laps,,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-buenos-aires,Argentine Grand Prix,,,,,,13,50,,0.0,14,14,1,+3 Laps,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-buenos-aires,Argentine Grand Prix,,,,,,2,46,,0.0,15,R,1,Engine,,1975
+Williams,williams,British,,merzario,Arturo Merzario,Italian,20,1975-buenos-aires,Argentine Grand Prix,,,,,,20,44,,0.0,16,R,1,Not classified,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-buenos-aires,Argentine Grand Prix,,,,,,10,27,,0.0,17,R,1,Transmission,,1975
+BRM,brm,British,,wilds,Mike Wilds,British,14,1975-buenos-aires,Argentine Grand Prix,,,,,,22,24,,0.0,18,R,1,Engine,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-buenos-aires,Argentine Grand Prix,,,,,,11,15,,0.0,19,R,1,Engine,,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-buenos-aires,Argentine Grand Prix,,,,,,17,15,,0.0,20,R,1,Gearbox,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-buenos-aires,Argentine Grand Prix,,,,,,23,12,,0.0,21,R,1,Accident,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-buenos-aires,Argentine Grand Prix,,,,,,15,6,,0.0,22,D,1,Disqualified,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-buenos-aires,Argentine Grand Prix,,,,,,1,0,,0.0,23,W,1,Transmission,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-s-o-paulo,Brazilian Grand Prix,,,,,,6,40,6281170,9.0,1,1,2,Finished,1:44:41.170,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-s-o-paulo,Brazilian Grand Prix,,,,,,2,40,6286960,6.0,2,2,2,Finished,+5.790,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-s-o-paulo,Brazilian Grand Prix,,,,,,10,40,6307830,4.0,3,3,2,Finished,+26.660,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-s-o-paulo,Brazilian Grand Prix,,,,,,5,40,6324450,3.0,4,4,2,Finished,+43.280,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-s-o-paulo,Brazilian Grand Prix,,,,,,4,40,6343050,2.0,5,5,2,Finished,+1:01.880,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-s-o-paulo,Brazilian Grand Prix,,,,,,7,40,6346290,1.0,6,6,2,Finished,+1:05.120,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-s-o-paulo,Brazilian Grand Prix,,,,,,18,40,6347980,0.0,7,7,2,Finished,+1:06.810,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-s-o-paulo,Brazilian Grand Prix,,,,,,3,40,6380790,0.0,8,8,2,Finished,+1:39.620,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-s-o-paulo,Brazilian Grand Prix,,,,,,12,40,6393010,0.0,9,9,2,Finished,+1:51.840,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-s-o-paulo,Brazilian Grand Prix,,,,,,13,40,6430770,0.0,10,10,2,Finished,+2:29.600,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-s-o-paulo,Brazilian Grand Prix,,,,,,11,39,,0.0,11,11,2,+1 Lap,,1975
+Lola,lola,British,,hill,Graham Hill,British,22,1975-s-o-paulo,Brazilian Grand Prix,,,,,,20,39,,0.0,12,12,2,+1 Lap,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-s-o-paulo,Brazilian Grand Prix,,,,,,21,39,,0.0,13,13,2,+1 Lap,,1975
+Lola,lola,British,,stommelen,Rolf Stommelen,German,23,1975-s-o-paulo,Brazilian Grand Prix,,,,,,23,39,,0.0,14,14,2,+1 Lap,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-s-o-paulo,Brazilian Grand Prix,,,,,,16,38,,0.0,15,15,2,+2 Laps,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-s-o-paulo,Brazilian Grand Prix,,,,,,1,32,,0.0,16,R,2,Fuel system,,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-s-o-paulo,Brazilian Grand Prix,,,,,,9,31,,0.0,17,R,2,Suspension,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-s-o-paulo,Brazilian Grand Prix,,,,,,14,31,,0.0,18,R,2,Accident,,1975
+Williams,williams,British,,merzario,Arturo Merzario,Italian,20,1975-s-o-paulo,Brazilian Grand Prix,,,,,,11,24,,0.0,19,R,2,Fuel system,,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-s-o-paulo,Brazilian Grand Prix,,,,,,15,22,,0.0,20,R,2,Handling,,1975
+BRM,brm,British,,wilds,Mike Wilds,British,14,1975-s-o-paulo,Brazilian Grand Prix,,,,,,22,22,,0.0,21,R,2,Electrical,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-s-o-paulo,Brazilian Grand Prix,,,,,,8,18,,0.0,22,R,2,Oil leak,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-s-o-paulo,Brazilian Grand Prix,,,,,,17,1,,0.0,23,R,2,Engine,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-midrand,South African Grand Prix,,,,,,3,78,6196900,9.0,1,1,3,Finished,1:43:16.900,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-midrand,South African Grand Prix,,,,,,2,78,6200640,6.0,2,2,3,Finished,+3.740,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-midrand,South African Grand Prix,,,,,,5,78,6213820,4.0,3,3,3,Finished,+16.920,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-midrand,South African Grand Prix,,,,,,1,78,6214210,3.0,4,4,3,Finished,+17.310,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-midrand,South African Grand Prix,,,,,,4,78,6225540,2.0,5,5,3,Finished,+28.640,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-midrand,South African Grand Prix,,,,,,16,78,6260540,1.0,6,6,3,Finished,+1:03.640,1975
+Embassy Hill,hill,British,,stommelen,Rolf Stommelen,German,23,1975-midrand,South African Grand Prix,,,,,,14,78,6269810,0.0,7,7,3,Finished,+1:12.910,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-midrand,South African Grand Prix,,,,,,18,77,,0.0,8,8,3,+1 Lap,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-midrand,South African Grand Prix,,,,,,19,77,,0.0,9,9,3,+1 Lap,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-midrand,South African Grand Prix,,,,,,8,77,,0.0,10,10,3,+1 Lap,,1975
+Team Lotus,team_lotus,British,,tunmer,Guy Tunmer,South African,34,1975-midrand,South African Grand Prix,,,,,,25,76,,0.0,11,11,3,+2 Laps,,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-midrand,South African Grand Prix,,,,,,21,76,,0.0,12,12,3,+2 Laps,,1975
+Team Lotus,team_lotus,British,,keizan,Eddie Keizan,South African,33,1975-midrand,South African Grand Prix,,,,,,22,76,,0.0,13,13,3,+2 Laps,,1975
+McLaren,mclaren,British,,charlton,Dave Charlton,South African,31,1975-midrand,South African Grand Prix,,,,,,20,76,,0.0,14,14,3,+2 Laps,,1975
+BRM,brm,British,,evans,Bob Evans,British,14,1975-midrand,South African Grand Prix,,,,,,24,76,,0.0,15,15,3,+2 Laps,,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-midrand,South African Grand Prix,,,,,,9,71,,0.0,16,16,3,Throttle,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-midrand,South African Grand Prix,,,,,,6,70,,0.0,17,17,3,Transmission,,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-midrand,South African Grand Prix,,,,,,23,69,,0.0,18,R,3,Not classified,,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-midrand,South African Grand Prix,,,,,,11,65,,0.0,19,R,3,Not classified,,1975
+Tyrrell,tyrrell,British,,ian_scheckter,Ian Scheckter,South African,32,1975-midrand,South African Grand Prix,,,,,,17,55,,0.0,20,R,3,Accident,,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-midrand,South African Grand Prix,,,,,,12,53,,0.0,21,R,3,Fuel system,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-midrand,South African Grand Prix,,,,,,13,37,,0.0,22,R,3,Overheating,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,10,1975-midrand,South African Grand Prix,,,,,,26,23,,0.0,23,R,3,Fuel system,,1975
+Williams,williams,British,,merzario,Arturo Merzario,Italian,20,1975-midrand,South African Grand Prix,,,,,,15,22,,0.0,24,R,3,Engine,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-midrand,South African Grand Prix,,,,,,10,19,,0.0,25,R,3,Clutch,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-midrand,South African Grand Prix,,,,,,7,16,,0.0,26,R,3,Radiator,,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-barcelona,Spanish Grand Prix,,,,,,11,29,2573700,4.5,1,1,4,Finished,42:53.700,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-barcelona,Spanish Grand Prix,,,,,,16,29,2574800,3.0,2,2,4,Finished,+1.100,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-barcelona,Spanish Grand Prix,,,,,,15,28,,2.0,3,3,4,+1 Lap,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-barcelona,Spanish Grand Prix,,,,,,10,28,,1.5,4,4,4,+1 Lap,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-barcelona,Spanish Grand Prix,,,,,,5,28,,1.0,5,5,4,+1 Lap,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,10,1975-barcelona,Spanish Grand Prix,,,,,,24,27,,0.5,6,6,4,+2 Laps,,1975
+Williams,williams,British,,brise,Tony Brise,British,21,1975-barcelona,Spanish Grand Prix,,,,,,18,27,,0.0,7,7,4,+2 Laps,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-barcelona,Spanish Grand Prix,,,,,,6,26,,0.0,8,8,4,+3 Laps,,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-barcelona,Spanish Grand Prix,,,,,,2,25,,0.0,9,R,4,Not classified,,1975
+Lola,lola,British,,stommelen,Rolf Stommelen,German,22,1975-barcelona,Spanish Grand Prix,,,,,,9,25,,0.0,10,R,4,Accident,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-barcelona,Spanish Grand Prix,,,,,,14,25,,0.0,11,R,4,Accident,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-barcelona,Spanish Grand Prix,,,,,,8,23,,0.0,12,R,4,Accident,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-barcelona,Spanish Grand Prix,,,,,,12,23,,0.0,13,R,4,Suspension,,1975
+Ensign,ensign,British,,wunderink,Roelof Wunderink,Dutch,31,1975-barcelona,Spanish Grand Prix,,,,,,19,20,,0.0,14,R,4,Transmission,,1975
+Lola,lola,British,,migault,François Migault,French,23,1975-barcelona,Spanish Grand Prix,,,,,,22,18,,0.0,15,R,4,Not classified,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-barcelona,Spanish Grand Prix,,,,,,4,16,,0.0,16,R,4,Suspension,,1975
+BRM,brm,British,,evans,Bob Evans,British,14,1975-barcelona,Spanish Grand Prix,,,,,,23,7,,0.0,17,R,4,Fuel system,,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-barcelona,Spanish Grand Prix,,,,,,3,6,,0.0,18,R,4,Accident,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-barcelona,Spanish Grand Prix,,,,,,13,3,,0.0,19,R,4,Engine,,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-barcelona,Spanish Grand Prix,,,,,,17,3,,0.0,20,R,4,Accident,,1975
+Hesketh,hesketh,British,,jones,Alan Jones,Australian,25,1975-barcelona,Spanish Grand Prix,,,,,,20,3,,0.0,21,R,4,Accident,,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-barcelona,Spanish Grand Prix,,,,,,7,1,,0.0,22,R,4,Accident,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-barcelona,Spanish Grand Prix,,,,,,21,1,,0.0,23,W,4,Withdrew,,1975
+Williams,williams,British,,merzario,Arturo Merzario,Italian,20,1975-barcelona,Spanish Grand Prix,,,,,,25,1,,0.0,24,W,4,Withdrew,,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-barcelona,Spanish Grand Prix,,,,,,1,0,,0.0,25,R,4,Accident,,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-barcelona,Spanish Grand Prix,,,,,,26,0,,0.0,26,W,4,Withdrew,,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-monte-carlo,Monaco Grand Prix,,,,,,1,75,7281310,9.0,1,1,5,Finished,2:01:21.310,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-monte-carlo,Monaco Grand Prix,,,,,,9,75,7284090,6.0,2,2,5,Finished,+2.780,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-monte-carlo,Monaco Grand Prix,,,,,,8,75,7299120,4.0,3,3,5,Finished,+17.810,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-monte-carlo,Monaco Grand Prix,,,,,,4,75,7319760,3.0,4,4,5,Finished,+38.450,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-monte-carlo,Monaco Grand Prix,,,,,,12,75,7322170,2.0,5,5,5,Finished,+40.860,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-monte-carlo,Monaco Grand Prix,,,,,,15,75,7323380,1.0,6,6,5,Finished,+42.070,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-monte-carlo,Monaco Grand Prix,,,,,,7,74,,0.0,7,7,5,+1 Lap,,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-monte-carlo,Monaco Grand Prix,,,,,,14,74,,0.0,8,8,5,+1 Lap,,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-monte-carlo,Monaco Grand Prix,,,,,,10,73,,0.0,9,9,5,+2 Laps,,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-monte-carlo,Monaco Grand Prix,,,,,,16,66,,0.0,10,R,5,Accident,,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-monte-carlo,Monaco Grand Prix,,,,,,11,63,,0.0,11,R,5,Accident,,1975
+Hesketh,hesketh,British,,jones,Alan Jones,Australian,26,1975-monte-carlo,Monaco Grand Prix,,,,,,18,61,,0.0,12,R,5,Wheel,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-monte-carlo,Monaco Grand Prix,,,,,,5,48,,0.0,13,R,5,Accident,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-monte-carlo,Monaco Grand Prix,,,,,,2,39,,0.0,14,R,5,Accident,,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-monte-carlo,Monaco Grand Prix,,,,,,17,36,,0.0,15,R,5,Accident,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-monte-carlo,Monaco Grand Prix,,,,,,6,36,,0.0,16,R,5,Spun off,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-monte-carlo,Monaco Grand Prix,,,,,,13,9,,0.0,17,R,5,Oil leak,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-monte-carlo,Monaco Grand Prix,,,,,,3,0,,0.0,18,R,5,Accident,,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-heusden-zolder,Belgian Grand Prix,,,,,,1,70,6233980,9.0,1,1,6,Finished,1:43:53.980,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-heusden-zolder,Belgian Grand Prix,,,,,,9,70,6253200,6.0,2,2,6,Finished,+19.220,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-heusden-zolder,Belgian Grand Prix,,,,,,6,70,6275800,4.0,3,3,6,Finished,+41.820,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-heusden-zolder,Belgian Grand Prix,,,,,,12,70,6294060,3.0,4,4,6,Finished,+1:00.080,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-heusden-zolder,Belgian Grand Prix,,,,,,4,70,6297820,2.0,5,5,6,Finished,+1:03.840,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-heusden-zolder,Belgian Grand Prix,,,,,,5,70,6322430,1.0,6,6,6,Finished,+1:28.450,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-heusden-zolder,Belgian Grand Prix,,,,,,8,69,,0.0,7,7,6,+1 Lap,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-heusden-zolder,Belgian Grand Prix,,,,,,2,69,,0.0,8,8,6,+1 Lap,,1975
+BRM,brm,British,,evans,Bob Evans,British,14,1975-heusden-zolder,Belgian Grand Prix,,,,,,20,68,,0.0,9,9,6,+2 Laps,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-heusden-zolder,Belgian Grand Prix,,,,,,18,68,,0.0,10,10,6,+2 Laps,,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-heusden-zolder,Belgian Grand Prix,,,,,,21,67,,0.0,11,11,6,+3 Laps,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-heusden-zolder,Belgian Grand Prix,,,,,,24,67,,0.0,12,12,6,+3 Laps,,1975
+Embassy Hill,hill,British,,migault,François Migault,French,22,1975-heusden-zolder,Belgian Grand Prix,,,,,,22,57,,0.0,13,R,6,Suspension,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-heusden-zolder,Belgian Grand Prix,,,,,,3,54,,0.0,14,R,6,Brakes,,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-heusden-zolder,Belgian Grand Prix,,,,,,16,52,,0.0,15,R,6,Brakes,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-heusden-zolder,Belgian Grand Prix,,,,,,14,36,,0.0,16,R,6,Brakes,,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-heusden-zolder,Belgian Grand Prix,,,,,,23,18,,0.0,17,R,6,Gearbox,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,10,1975-heusden-zolder,Belgian Grand Prix,,,,,,17,18,,0.0,18,R,6,Engine,,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-heusden-zolder,Belgian Grand Prix,,,,,,7,17,,0.0,19,R,6,Engine,,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-heusden-zolder,Belgian Grand Prix,,,,,,11,15,,0.0,20,R,6,Transmission,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-heusden-zolder,Belgian Grand Prix,,,,,,10,13,,0.0,21,R,6,Spun off,,1975
+Williams,williams,British,,merzario,Arturo Merzario,Italian,20,1975-heusden-zolder,Belgian Grand Prix,,,,,,19,2,,0.0,22,R,6,Clutch,,1975
+Hesketh,hesketh,British,,jones,Alan Jones,Australian,26,1975-heusden-zolder,Belgian Grand Prix,,,,,,13,1,,0.0,23,R,6,Accident,,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-heusden-zolder,Belgian Grand Prix,,,,,,15,0,,0.0,24,R,6,Accident,,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-anderstorp,Swedish Grand Prix,,,,,,5,80,7158319,9.0,1,1,7,Finished,1:59:18.319,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-anderstorp,Swedish Grand Prix,,,,,,4,80,7164607,6.0,2,2,7,Finished,+6.288,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-anderstorp,Swedish Grand Prix,,,,,,12,80,7187414,4.0,3,3,7,Finished,+29.095,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-anderstorp,Swedish Grand Prix,,,,,,15,80,7202699,3.0,4,4,7,Finished,+44.380,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-anderstorp,Swedish Grand Prix,,,,,,16,80,7249082,2.0,5,5,7,Finished,+1:30.763,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-anderstorp,Swedish Grand Prix,,,,,,17,79,,1.0,6,6,7,+1 Lap,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-anderstorp,Swedish Grand Prix,,,,,,8,79,,0.0,7,7,7,+1 Lap,,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-anderstorp,Swedish Grand Prix,,,,,,11,79,,0.0,8,8,7,+1 Lap,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-anderstorp,Swedish Grand Prix,,,,,,9,79,,0.0,9,9,7,+1 Lap,,1975
+Hesketh,hesketh,British,,palm,Torsten Palm,Swedish,32,1975-anderstorp,Swedish Grand Prix,,,,,,21,78,,0.0,10,10,7,Out of fuel,,1975
+Hesketh,hesketh,British,,jones,Alan Jones,Australian,26,1975-anderstorp,Swedish Grand Prix,,,,,,19,78,,0.0,11,11,7,+2 Laps,,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-anderstorp,Swedish Grand Prix,,,,,,2,78,,0.0,12,12,7,+2 Laps,,1975
+BRM,brm,British,,evans,Bob Evans,British,14,1975-anderstorp,Swedish Grand Prix,,,,,,23,78,,0.0,13,13,7,+2 Laps,,1975
+Williams,williams,British,,magee,Damien Magee,British,20,1975-anderstorp,Swedish Grand Prix,,,,,,22,78,,0.0,14,14,7,+2 Laps,,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-anderstorp,Swedish Grand Prix,,,,,,18,77,,0.0,15,15,7,+3 Laps,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-anderstorp,Swedish Grand Prix,,,,,,10,77,,0.0,16,16,7,+3 Laps,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-anderstorp,Swedish Grand Prix,,,,,,25,74,,0.0,17,17,7,+6 Laps,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-anderstorp,Swedish Grand Prix,,,,,,7,53,,0.0,18,R,7,Spun off,,1975
+Williams,williams,British,,ian_scheckter,Ian Scheckter,South African,21,1975-anderstorp,Swedish Grand Prix,,,,,,20,49,,0.0,19,R,7,Tyre,,1975
+Embassy Hill,hill,British,,schuppan,Vern Schuppan,Australian,22,1975-anderstorp,Swedish Grand Prix,,,,,,26,47,,0.0,20,R,7,Transmission,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-anderstorp,Swedish Grand Prix,,,,,,6,41,,0.0,21,R,7,Spun off,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-anderstorp,Swedish Grand Prix,,,,,,3,38,,0.0,22,R,7,Engine,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-anderstorp,Swedish Grand Prix,,,,,,1,36,,0.0,23,R,7,Transmission,,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-anderstorp,Swedish Grand Prix,,,,,,14,34,,0.0,24,R,7,Overheating,,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-anderstorp,Swedish Grand Prix,,,,,,13,21,,0.0,25,R,7,Brakes,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,10,1975-anderstorp,Swedish Grand Prix,,,,,,24,10,,0.0,26,R,7,Fuel system,,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-zandvoort,Dutch Grand Prix,,,,,,3,75,6417400,9.0,1,1,8,Finished,1:46:57.400,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-zandvoort,Dutch Grand Prix,,,,,,1,75,6418460,6.0,2,2,8,Finished,+1.060,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-zandvoort,Dutch Grand Prix,,,,,,2,75,6472460,4.0,3,3,8,Finished,+55.060,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-zandvoort,Dutch Grand Prix,,,,,,5,74,,3.0,4,4,8,+1 Lap,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-zandvoort,Dutch Grand Prix,,,,,,9,74,,2.0,5,5,8,+1 Lap,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-zandvoort,Dutch Grand Prix,,,,,,12,74,,1.0,6,6,8,+1 Lap,,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-zandvoort,Dutch Grand Prix,,,,,,7,74,,0.0,7,7,8,+1 Lap,,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-zandvoort,Dutch Grand Prix,,,,,,18,74,,0.0,8,8,8,+1 Lap,,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-zandvoort,Dutch Grand Prix,,,,,,13,73,,0.0,9,9,8,+2 Laps,,1975
+Ensign,ensign,British,,lennep,Gijs van Lennep,Dutch,31,1975-zandvoort,Dutch Grand Prix,,,,,,22,71,,0.0,10,10,8,+4 Laps,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-zandvoort,Dutch Grand Prix,,,,,,24,71,,0.0,11,11,8,+4 Laps,,1975
+Williams,williams,British,,ian_scheckter,Ian Scheckter,South African,20,1975-zandvoort,Dutch Grand Prix,,,,,,19,70,,0.0,12,12,8,+5 Laps,,1975
+Embassy Hill,hill,British,,jones,Alan Jones,Australian,22,1975-zandvoort,Dutch Grand Prix,,,,,,17,70,,0.0,13,13,8,+5 Laps,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,10,1975-zandvoort,Dutch Grand Prix,,,,,,23,70,,0.0,14,14,8,+5 Laps,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-zandvoort,Dutch Grand Prix,,,,,,16,69,,0.0,15,15,8,Out of fuel,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-zandvoort,Dutch Grand Prix,,,,,,4,67,,0.0,16,16,8,Engine,,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-zandvoort,Dutch Grand Prix,,,,,,15,64,,0.0,17,R,8,Engine,,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-zandvoort,Dutch Grand Prix,,,,,,8,61,,0.0,18,R,8,Accident,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-zandvoort,Dutch Grand Prix,,,,,,10,44,,0.0,19,R,8,Tyre,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-zandvoort,Dutch Grand Prix,,,,,,14,43,,0.0,20,R,8,Vibrations,,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-zandvoort,Dutch Grand Prix,,,,,,6,40,,0.0,21,R,8,Engine,,1975
+BRM,brm,British,,evans,Bob Evans,British,14,1975-zandvoort,Dutch Grand Prix,,,,,,20,23,,0.0,22,R,8,Differential,,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-zandvoort,Dutch Grand Prix,,,,,,21,6,,0.0,23,R,8,Engine,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-zandvoort,Dutch Grand Prix,,,,,,11,0,,0.0,24,R,8,Suspension,,1975
+Maki,maki,Japanese,,fushida,Hiroshi Fushida,Japanese,35,1975-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,25,W,8,Withdrew,,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-le-castellet,French Grand Prix,,,,,,1,54,6018840,9.0,1,1,9,Finished,1:40:18.840,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-le-castellet,French Grand Prix,,,,,,3,54,6020430,6.0,2,2,9,Finished,+1.590,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-le-castellet,French Grand Prix,,,,,,7,54,6021150,4.0,3,3,9,Finished,+2.310,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-le-castellet,French Grand Prix,,,,,,10,54,6058610,3.0,4,4,9,Finished,+39.770,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-le-castellet,French Grand Prix,,,,,,15,54,6080920,2.0,5,5,9,Finished,+1:02.080,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-le-castellet,French Grand Prix,,,,,,13,54,6086240,1.0,6,6,9,Finished,+1:07.400,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-le-castellet,French Grand Prix,,,,,,12,54,6088450,0.0,7,7,9,Finished,+1:09.610,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-le-castellet,French Grand Prix,,,,,,4,54,6098620,0.0,8,8,9,Finished,+1:19.780,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-le-castellet,French Grand Prix,,,,,,2,54,6110520,0.0,9,9,9,Finished,+1:31.680,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-le-castellet,French Grand Prix,,,,,,17,54,6114860,0.0,10,10,9,Finished,+1:36.020,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-le-castellet,French Grand Prix,,,,,,16,54,6115610,0.0,11,11,9,Finished,+1:36.770,1975
+Tyrrell,tyrrell,British,,jabouille,Jean-Pierre Jabouille,French,15,1975-le-castellet,French Grand Prix,,,,,,21,54,6115970,0.0,12,12,9,Finished,+1:37.130,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-le-castellet,French Grand Prix,,,,,,14,53,,0.0,13,13,9,+1 Lap,,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-le-castellet,French Grand Prix,,,,,,11,53,,0.0,14,14,9,+1 Lap,,1975
+Ensign,ensign,British,,lennep,Gijs van Lennep,Dutch,31,1975-le-castellet,French Grand Prix,,,,,,22,53,,0.0,15,15,9,+1 Lap,,1975
+Embassy Hill,hill,British,,jones,Alan Jones,Australian,22,1975-le-castellet,French Grand Prix,,,,,,20,53,,0.0,16,16,9,+1 Lap,,1975
+BRM,brm,British,,evans,Bob Evans,British,14,1975-le-castellet,French Grand Prix,,,,,,25,52,,0.0,17,17,9,+2 Laps,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,10,1975-le-castellet,French Grand Prix,,,,,,26,50,,0.0,18,18,9,+4 Laps,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-le-castellet,French Grand Prix,,,,,,5,26,,0.0,19,R,9,Transmission,,1975
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,6,1975-le-castellet,French Grand Prix,,,,,,19,17,,0.0,20,R,9,Brakes,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-le-castellet,French Grand Prix,,,,,,23,14,,0.0,21,R,9,Engine,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-le-castellet,French Grand Prix,,,,,,8,6,,0.0,22,R,9,Chassis,,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-le-castellet,French Grand Prix,,,,,,9,6,,0.0,23,R,9,Engine,,1975
+Penske,penske,American,,donohue,Mark Donohue,American,28,1975-le-castellet,French Grand Prix,,,,,,18,6,,0.0,24,R,9,Transmission,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-le-castellet,French Grand Prix,,,,,,6,2,,0.0,25,R,9,Transmission,,1975
+Williams,williams,British,,migault,François Migault,French,20,1975-le-castellet,French Grand Prix,,,,,,24,0,,0.0,26,W,9,Withdrew,,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-silverstone,British Grand Prix,,,,,,7,56,4925000,9.0,1,1,10,Finished,1:22,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-silverstone,British Grand Prix,,,,,,2,55,,6.0,2,2,10,Accident,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-silverstone,British Grand Prix,,,,,,6,55,,4.0,3,3,10,Accident,,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-silverstone,British Grand Prix,,,,,,9,55,,3.0,4,4,10,Accident,,1975
+March,march,British,,donohue,Mark Donohue,American,28,1975-silverstone,British Grand Prix,,,,,,15,55,,2.0,5,5,10,Accident,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-silverstone,British Grand Prix,,,,,,5,55,,1.0,6,6,10,+1 Lap,,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-silverstone,British Grand Prix,,,,,,10,55,,0.0,7,7,10,Accident,,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-silverstone,British Grand Prix,,,,,,3,54,,0.0,8,8,10,+2 Laps,,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-silverstone,British Grand Prix,,,,,,17,54,,0.0,9,9,10,Accident,,1975
+Embassy Hill,hill,British,,jones,Alan Jones,Australian,22,1975-silverstone,British Grand Prix,,,,,,28,54,,0.0,10,10,10,+2 Laps,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-silverstone,British Grand Prix,,,,,,18,54,,0.0,11,11,10,Accident,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-silverstone,British Grand Prix,,,,,,12,54,,0.0,12,12,10,+2 Laps,,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-silverstone,British Grand Prix,,,,,,4,54,,0.0,13,13,10,+2 Laps,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-silverstone,British Grand Prix,,,,,,11,53,,0.0,14,14,10,Accident,,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-silverstone,British Grand Prix,,,,,,13,53,,0.0,15,15,10,Accident,,1975
+Team Lotus,team_lotus,British,,henton,Brian Henton,British,15,1975-silverstone,British Grand Prix,,,,,,21,53,,0.0,16,16,10,Accident,,1975
+Lyncar,lyncar,British,,nicholson,John Nicholson,New Zealander,32,1975-silverstone,British Grand Prix,,,,,,26,51,,0.0,17,17,10,Accident,,1975
+Surtees,surtees,British,,morgan,Dave Morgan,British,19,1975-silverstone,British Grand Prix,,,,,,23,50,,0.0,18,18,10,Accident,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-silverstone,British Grand Prix,,,,,,24,50,,0.0,19,19,10,Accident,,1975
+March,march,British,,stuck,Hans-Joachim Stuck,German,10,1975-silverstone,British Grand Prix,,,,,,14,45,,0.0,20,R,10,Accident,,1975
+Team Lotus,team_lotus,British,,crawford,Jim Crawford,British,6,1975-silverstone,British Grand Prix,,,,,,25,28,,0.0,21,R,10,Accident,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-silverstone,British Grand Prix,,,,,,1,20,,0.0,22,R,10,Accident,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,29,1975-silverstone,British Grand Prix,,,,,,22,18,,0.0,23,R,10,Engine,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-silverstone,British Grand Prix,,,,,,16,7,,0.0,24,R,10,Engine,,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-silverstone,British Grand Prix,,,,,,19,5,,0.0,25,R,10,Gearbox,,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-silverstone,British Grand Prix,,,,,,8,4,,0.0,26,R,10,Engine,,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-n-rburg,German Grand Prix,,,,,,10,14,6074100,9.0,1,1,11,Finished,1:41:14.100,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-n-rburg,German Grand Prix,,,,,,15,14,6171800,6.0,2,2,11,Finished,+1:37.700,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-n-rburg,German Grand Prix,,,,,,1,14,6217400,4.0,3,3,11,Finished,+2:23.300,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-n-rburg,German Grand Prix,,,,,,16,14,6285500,3.0,4,4,11,Finished,+3:31.400,1975
+Embassy Hill,hill,British,,jones,Alan Jones,Australian,22,1975-n-rburg,German Grand Prix,,,,,,21,14,6304400,2.0,5,5,11,Finished,+3:50.300,1975
+Ensign,ensign,British,,lennep,Gijs van Lennep,Dutch,19,1975-n-rburg,German Grand Prix,,,,,,24,14,6379600,1.0,6,6,11,Finished,+5:05.500,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,29,1975-n-rburg,German Grand Prix,,,,,,25,14,6524500,0.0,7,7,11,Finished,+7:30.400,1975
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,25,1975-n-rburg,German Grand Prix,,,,,,23,14,6535000,0.0,8,8,11,Finished,+7:40.900,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-n-rburg,German Grand Prix,,,,,,4,13,,0.0,9,9,11,+1 Lap,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-n-rburg,German Grand Prix,,,,,,13,12,,0.0,10,10,11,Out of fuel,,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-n-rburg,German Grand Prix,,,,,,9,10,,0.0,11,R,11,Wheel,,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-n-rburg,German Grand Prix,,,,,,5,9,,0.0,12,R,11,Engine,,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-n-rburg,German Grand Prix,,,,,,17,9,,0.0,13,R,11,Accident,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-n-rburg,German Grand Prix,,,,,,3,7,,0.0,14,R,11,Accident,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-n-rburg,German Grand Prix,,,,,,12,7,,0.0,15,R,11,Tyre,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-n-rburg,German Grand Prix,,,,,,2,5,,0.0,16,R,11,Suspension,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-n-rburg,German Grand Prix,,,,,,22,4,,0.0,17,R,11,Engine,,1975
+March,march,British,,stuck,Hans-Joachim Stuck,German,10,1975-n-rburg,German Grand Prix,,,,,,7,3,,0.0,18,R,11,Engine,,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-n-rburg,German Grand Prix,,,,,,8,3,,0.0,19,R,11,Suspension,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-n-rburg,German Grand Prix,,,,,,11,3,,0.0,20,R,11,Suspension,,1975
+Team Lotus,team_lotus,British,,watson,John Watson,British,6,1975-n-rburg,German Grand Prix,,,,,,14,2,,0.0,21,R,11,Suspension,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-n-rburg,German Grand Prix,,,,,,18,1,,0.0,22,R,11,Clutch,,1975
+March,march,British,,donohue,Mark Donohue,American,28,1975-n-rburg,German Grand Prix,,,,,,19,1,,0.0,23,R,11,Tyre,,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-n-rburg,German Grand Prix,,,,,,6,0,,0.0,24,R,11,Accident,,1975
+Williams,williams,British,,ashley,Ian Ashley,British,20,1975-n-rburg,German Grand Prix,,,,,,20,0,,0.0,25,R,11,Accident,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-spielberg,Austrian Grand Prix,,,,,,8,29,3476690,4.5,1,1,12,Finished,57:56.690,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-spielberg,Austrian Grand Prix,,,,,,2,29,3503720,3.0,2,2,12,Finished,+27.030,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-spielberg,Austrian Grand Prix,,,,,,15,29,3511540,2.0,3,3,12,Finished,+34.850,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-spielberg,Austrian Grand Prix,,,,,,9,29,3549350,1.5,4,4,12,Finished,+1:12.660,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-spielberg,Austrian Grand Prix,,,,,,13,29,3560020,1.0,5,5,12,Finished,+1:23.330,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-spielberg,Austrian Grand Prix,,,,,,1,29,3566970,0.5,6,6,12,Finished,+1:30.280,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-spielberg,Austrian Grand Prix,,,,,,5,29,3575760,0.0,7,7,12,Finished,+1:39.070,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-spielberg,Austrian Grand Prix,,,,,,10,28,,0.0,8,8,12,+1 Lap,,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-spielberg,Austrian Grand Prix,,,,,,3,28,,0.0,9,9,12,+1 Lap,,1975
+Surtees,surtees,British,,watson,John Watson,British,18,1975-spielberg,Austrian Grand Prix,,,,,,18,28,,0.0,10,10,12,+1 Lap,,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-spielberg,Austrian Grand Prix,,,,,,7,28,,0.0,11,11,12,+1 Lap,,1975
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,31,1975-spielberg,Austrian Grand Prix,,,,,,23,28,,0.0,12,12,12,+1 Lap,,1975
+Hesketh,hesketh,British,,lunger,Brett Lunger,American,25,1975-spielberg,Austrian Grand Prix,,,,,,17,28,,0.0,13,13,12,+1 Lap,,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-spielberg,Austrian Grand Prix,,,,,,11,28,,0.0,14,14,12,+1 Lap,,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-spielberg,Austrian Grand Prix,,,,,,16,28,,0.0,15,15,12,+1 Lap,,1975
+Embassy Hill,hill,British,,stommelen,Rolf Stommelen,German,22,1975-spielberg,Austrian Grand Prix,,,,,,25,27,,0.0,16,16,12,+2 Laps,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,29,1975-spielberg,Austrian Grand Prix,,,,,,21,26,,0.0,17,17,12,+3 Laps,,1975
+Ensign,ensign,British,,wunderink,Roelof Wunderink,Dutch,33,1975-spielberg,Austrian Grand Prix,,,,,,27,25,,0.0,18,R,12,Not classified,,1975
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,32,1975-spielberg,Austrian Grand Prix,,,,,,26,23,,0.0,19,R,12,Electrical,,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-spielberg,Austrian Grand Prix,,,,,,12,21,,0.0,20,R,12,Handling,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-spielberg,Austrian Grand Prix,,,,,,6,17,,0.0,21,R,12,Engine,,1975
+Williams,williams,British,,vonlanthen,Jo Vonlanthen,Swiss,20,1975-spielberg,Austrian Grand Prix,,,,,,28,14,,0.0,22,R,12,Engine,,1975
+March,march,British,,stuck,Hans-Joachim Stuck,German,10,1975-spielberg,Austrian Grand Prix,,,,,,4,10,,0.0,23,R,12,Accident,,1975
+Shadow-Matra,shadow-matra,British,,jarier,Jean-Pierre Jarier,French,17,1975-spielberg,Austrian Grand Prix,,,,,,14,10,,0.0,24,R,12,Injection,,1975
+BRM,brm,British,,evans,Bob Evans,British,14,1975-spielberg,Austrian Grand Prix,,,,,,24,2,,0.0,25,R,12,Engine,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-spielberg,Austrian Grand Prix,,,,,,19,1,,0.0,26,R,12,Accident,,1975
+March,march,British,,donohue,Mark Donohue,American,28,1975-spielberg,Austrian Grand Prix,,,,,,20,0,,0.0,27,W,12,Accident,,1975
+Team Lotus,team_lotus,British,,henton,Brian Henton,British,6,1975-spielberg,Austrian Grand Prix,,,,,,22,0,,0.0,28,W,12,Accident,,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-monza,Italian Grand Prix,,,,,,2,52,4962600,9.0,1,1,13,Finished,1:22:42.600,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-monza,Italian Grand Prix,,,,,,3,52,4979200,6.0,2,2,13,Finished,+16.600,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-monza,Italian Grand Prix,,,,,,1,52,4985800,4.0,3,3,13,Finished,+23.200,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-monza,Italian Grand Prix,,,,,,7,52,5017700,3.0,4,4,13,Finished,+55.100,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-monza,Italian Grand Prix,,,,,,8,52,5019700,2.0,5,5,13,Finished,+57.100,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-monza,Italian Grand Prix,,,,,,14,52,5038500,1.0,6,6,13,Finished,+1:15.900,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-monza,Italian Grand Prix,,,,,,12,51,,0.0,7,7,13,+1 Lap,,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-monza,Italian Grand Prix,,,,,,4,51,,0.0,8,8,13,+1 Lap,,1975
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,34,1975-monza,Italian Grand Prix,,,,,,17,51,,0.0,9,9,13,+1 Lap,,1975
+Hesketh,hesketh,British,,lunger,Brett Lunger,American,25,1975-monza,Italian Grand Prix,,,,,,21,50,,0.0,10,10,13,+2 Laps,,1975
+Fittipaldi,fittipaldi,Brazilian,,merzario,Arturo Merzario,Italian,30,1975-monza,Italian Grand Prix,,,,,,26,48,,0.0,11,11,13,+4 Laps,,1975
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,32,1975-monza,Italian Grand Prix,,,,,,19,48,,0.0,12,12,13,+4 Laps,,1975
+Team Lotus,team_lotus,British,,crawford,Jim Crawford,British,6,1975-monza,Italian Grand Prix,,,,,,25,46,,0.0,13,13,13,+6 Laps,,1975
+Williams,williams,British,,zorzi,Renzo Zorzi,Italian,20,1975-monza,Italian Grand Prix,,,,,,22,46,,0.0,14,14,13,+6 Laps,,1975
+Shadow-Matra,shadow-matra,British,,jarier,Jean-Pierre Jarier,French,17,1975-monza,Italian Grand Prix,,,,,,13,32,,0.0,15,R,13,Fuel pump,,1975
+March,march,British,,lombardi,Lella Lombardi,Italian,29,1975-monza,Italian Grand Prix,,,,,,24,21,,0.0,16,R,13,Accident,,1975
+March,march,British,,stuck,Hans-Joachim Stuck,German,10,1975-monza,Italian Grand Prix,,,,,,16,15,,0.0,17,R,13,Accident,,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-monza,Italian Grand Prix,,,,,,18,7,,0.0,18,R,13,Gearbox,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-monza,Italian Grand Prix,,,,,,10,6,,0.0,19,R,13,Throttle,,1975
+Embassy Hill,hill,British,,stommelen,Rolf Stommelen,German,22,1975-monza,Italian Grand Prix,,,,,,23,3,,0.0,20,R,13,Accident,,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-monza,Italian Grand Prix,,,,,,5,2,,0.0,21,R,13,Accident,,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-monza,Italian Grand Prix,,,,,,11,1,,0.0,22,R,13,Engine,,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-monza,Italian Grand Prix,,,,,,6,1,,0.0,23,R,13,Accident,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-monza,Italian Grand Prix,,,,,,15,1,,0.0,24,R,13,Accident,,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-monza,Italian Grand Prix,,,,,,9,1,,0.0,25,R,13,Clutch,,1975
+BRM,brm,British,,evans,Bob Evans,British,14,1975-monza,Italian Grand Prix,,,,,,20,0,,0.0,26,R,13,Electrical,,1975
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1975-new-york-state,United States Grand Prix,,,,,,1,59,6178175,9.0,1,1,14,Finished,1:42:58.175,1975
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1975-new-york-state,United States Grand Prix,,,,,,2,59,6183118,6.0,2,2,14,Finished,+4.943,1975
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1975-new-york-state,United States Grand Prix,,,,,,9,59,6225812,4.0,3,3,14,Finished,+47.637,1975
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1975-new-york-state,United States Grand Prix,,,,,,15,59,6227650,3.0,4,4,14,Finished,+49.475,1975
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1975-new-york-state,United States Grand Prix,,,,,,14,59,6228161,2.0,5,5,14,Finished,+49.986,1975
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1975-new-york-state,United States Grand Prix,,,,,,10,59,6228496,1.0,6,6,14,Finished,+50.321,1975
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1975-new-york-state,United States Grand Prix,,,,,,6,59,6282206,0.0,7,7,14,Finished,+1:44.031,1975
+March,march,British,,stuck,Hans-Joachim Stuck,German,10,1975-new-york-state,United States Grand Prix,,,,,,13,58,,0.0,8,8,14,+1 Lap,,1975
+Penske,penske,American,,watson,John Watson,British,28,1975-new-york-state,United States Grand Prix,,,,,,12,57,,0.0,9,9,14,+2 Laps,,1975
+Fittipaldi,fittipaldi,Brazilian,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1975-new-york-state,United States Grand Prix,,,,,,23,55,,0.0,10,10,14,+4 Laps,,1975
+Shadow-Ford,shadow-ford,British,,pryce,Tom Pryce,British,16,1975-new-york-state,United States Grand Prix,,,,,,7,52,,0.0,11,R,14,Not classified,,1975
+Team Lotus,team_lotus,British,,henton,Brian Henton,British,6,1975-new-york-state,United States Grand Prix,,,,,,19,49,,0.0,12,R,14,Not classified,,1975
+Hesketh,hesketh,British,,lunger,Brett Lunger,American,25,1975-new-york-state,United States Grand Prix,,,,,,18,46,,0.0,13,R,14,Accident,,1975
+Ensign,ensign,British,,wunderink,Roelof Wunderink,Dutch,31,1975-new-york-state,United States Grand Prix,,,,,,22,41,,0.0,14,R,14,Gearbox,,1975
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1975-new-york-state,United States Grand Prix,,,,,,11,0,,0.0,15,W,14,Withdrew,,1975
+Shadow-Ford,shadow-ford,British,,jarier,Jean-Pierre Jarier,French,17,1975-new-york-state,United States Grand Prix,,,,,,4,19,,0.0,16,R,14,Wheel bearing,,1975
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1975-new-york-state,United States Grand Prix,,,,,,3,9,,0.0,17,R,14,Engine,,1975
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1975-new-york-state,United States Grand Prix,,,,,,5,9,,0.0,18,R,14,Suspension,,1975
+Embassy Hill,hill,British,,brise,Tony Brise,British,23,1975-new-york-state,United States Grand Prix,,,,,,17,5,,0.0,19,R,14,Accident,,1975
+Tyrrell,tyrrell,British,,leclere,Michel Leclère,French,15,1975-new-york-state,United States Grand Prix,,,,,,20,5,,0.0,20,R,14,Engine,,1975
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1975-new-york-state,United States Grand Prix,,,,,,8,2,,0.0,21,R,14,Accident,,1975
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1975-new-york-state,United States Grand Prix,,,,,,16,2,,0.0,22,R,14,Accident,,1975
+Williams,williams,British,,laffite,Jacques Laffite,French,21,1975-new-york-state,United States Grand Prix,,,,,,21,0,,0.0,23,W,14,Physical,,1975
+Williams,williams,British,,lombardi,Lella Lombardi,Italian,20,1975-new-york-state,United States Grand Prix,,,,,,24,0,,0.0,24,W,14,Ignition,,1975

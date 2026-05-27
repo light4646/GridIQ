@@ -1,0 +1,134 @@
+[
+  {
+    "year": 1970,
+    "position": 1,
+    "position_text": "1",
+    "points": 59.0,
+    "wins": 6,
+    "constructor_id": "team_lotus",
+    "constructor": "Team Lotus",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1970,
+    "position": 2,
+    "position_text": "2",
+    "points": 55.0,
+    "wins": 4,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1970,
+    "position": 3,
+    "position_text": "3",
+    "points": 48.0,
+    "wins": 1,
+    "constructor_id": "march",
+    "constructor": "March",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/March_Engineering"
+  },
+  {
+    "year": 1970,
+    "position": 4,
+    "position_text": "4",
+    "points": 35.0,
+    "wins": 1,
+    "constructor_id": "brabham",
+    "constructor": "Brabham",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1970,
+    "position": 5,
+    "position_text": "5",
+    "points": 35.0,
+    "wins": 0,
+    "constructor_id": "mclaren-ford",
+    "constructor": "McLaren-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1970,
+    "position": 6,
+    "position_text": "6",
+    "points": 23.0,
+    "wins": 1,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1970,
+    "position": 7,
+    "position_text": "7",
+    "points": 23.0,
+    "wins": 0,
+    "constructor_id": "matra",
+    "constructor": "Matra",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Matra"
+  },
+  {
+    "year": 1970,
+    "position": 8,
+    "position_text": "8",
+    "points": 3.0,
+    "wins": 0,
+    "constructor_id": "surtees",
+    "constructor": "Surtees",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Surtees"
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "mclaren-alfa_romeo",
+    "constructor": "McLaren-Alfa Romeo",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "tomaso",
+    "constructor": "De Tomaso",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/De_Tomaso"
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "tyrrell",
+    "constructor": "Tyrrell",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Tyrrell_Racing"
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "bellasi",
+    "constructor": "Bellasi",
+    "constructor_nationality": "Swiss",
+    "constructor_url": "https://en.wikipedia.org/wiki/Bellasi"
+  }
+]

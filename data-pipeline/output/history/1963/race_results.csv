@@ -1,0 +1,243 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+BRM,brm,British,,hill,Graham Hill,British,6,1963-monte-carlo,Monaco Grand Prix,,,,,,2,100,9709700,9.0,1,1,1,Finished,2:41:49.700,1963
+BRM,brm,British,,ginther,Richie Ginther,American,5,1963-monte-carlo,Monaco Grand Prix,,,,,,4,100,9714300,6.0,2,2,1,Finished,+4.600,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,7,1963-monte-carlo,Monaco Grand Prix,,,,,,8,100,9722500,4.0,3,3,1,Finished,+12.800,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,21,1963-monte-carlo,Monaco Grand Prix,,,,,,3,100,9723800,3.0,4,4,1,Finished,+14.100,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,8,1963-monte-carlo,Monaco Grand Prix,,,,,,10,98,,2.0,5,5,1,+2 Laps,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,10,1963-monte-carlo,Monaco Grand Prix,,,,,,9,98,,1.0,6,6,1,+2 Laps,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,11,1963-monte-carlo,Monaco Grand Prix,,,,,,11,94,,0.0,7,7,1,+6 Laps,,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,9,1963-monte-carlo,Monaco Grand Prix,,,,,,1,78,,0.0,8,8,1,Gearbox,,1963
+Lotus-Climax,lotus-climax,British,,jack_brabham,Jack Brabham,Australian,3,1963-monte-carlo,Monaco Grand Prix,,,,,,16,77,,0.0,9,9,1,Gearbox,,1963
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,14,1963-monte-carlo,Monaco Grand Prix,,,,,,5,40,,0.0,10,R,1,Accident,,1963
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,20,1963-monte-carlo,Monaco Grand Prix,,,,,,7,37,,0.0,11,R,1,Gearbox,,1963
+Lola,lola,British,,trintignant,Maurice Trintignant,French,17,1963-monte-carlo,Monaco Grand Prix,,,,,,14,34,,0.0,12,R,1,Clutch,,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,4,1963-monte-carlo,Monaco Grand Prix,,,,,,6,25,,0.0,13,R,1,Differential,,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,12,1963-monte-carlo,Monaco Grand Prix,,,,,,13,20,,0.0,14,R,1,Gearbox,,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,25,1963-monte-carlo,Monaco Grand Prix,,,,,,12,3,,0.0,15,R,1,Engine,,1963
+Lola,lola,British,,amon,Chris Amon,New Zealander,15,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,16,W,1,Withdrew,,1963
+ATS,ats,Italian,,phil_hill,Phil Hill,American,1,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,18,W,1,Withdrew,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,2,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,19,W,1,Withdrew,,1963
+Lotus-BRM,lotus-brm,British,,campbell-jones,John Campbell-Jones,British,16,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,20,W,1,Withdrew,,1963
+Scirocco,scirocco,British,,burgess,Ian Burgess,British,18,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,21,W,1,Withdrew,,1963
+Scirocco,scirocco,British,,settember,Tony Settember,American,19,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,22,W,1,Withdrew,,1963
+De Tomaso,tomaso,Italian,,estefano,Nasif Estéfano,Argentine,22,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,23,W,1,Withdrew,,1963
+BRM,brm,British,,bandini,Lorenzo Bandini,Italian,23,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,24,W,1,Withdrew,,1963
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,24,1963-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,25,W,1,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1963-spa,Belgian Grand Prix,,,,,,8,32,8867600,9.0,1,1,2,Finished,2:27:47.600,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,14,1963-spa,Belgian Grand Prix,,,,,,5,32,9161600,6.0,2,2,2,Finished,+4:54.000,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,18,1963-spa,Belgian Grand Prix,,,,,,2,31,,4.0,3,3,2,+1 Lap,,1963
+BRM,brm,British,,ginther,Richie Ginther,American,8,1963-spa,Belgian Grand Prix,,,,,,9,31,,3.0,4,4,2,+1 Lap,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,12,1963-spa,Belgian Grand Prix,,,,,,13,30,,2.0,5,5,2,+2 Laps,,1963
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,29,1963-spa,Belgian Grand Prix,,,,,,18,30,,1.0,6,6,2,+2 Laps,,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,15,1963-spa,Belgian Grand Prix,,,,,,4,27,,0.0,7,7,2,Accident,,1963
+Scirocco,scirocco,British,,settember,Tony Settember,American,24,1963-spa,Belgian Grand Prix,,,,,,19,25,,0.0,8,8,2,Accident,,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,9,1963-spa,Belgian Grand Prix,,,,,,10,19,,0.0,9,R,2,Injection,,1963
+BRM,brm,British,,hill,Graham Hill,British,7,1963-spa,Belgian Grand Prix,,,,,,1,17,,0.0,10,R,2,Gearbox,,1963
+Lola,lola,British,,bianchi,Lucien Bianchi,Belgian,22,1963-spa,Belgian Grand Prix,,,,,,16,17,,0.0,11,R,2,Accident,,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,5,1963-spa,Belgian Grand Prix,,,,,,12,16,,0.0,12,R,2,Accident,,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,28,1963-spa,Belgian Grand Prix,,,,,,14,16,,0.0,13,R,2,Accident,,1963
+ATS,ats,Italian,,phil_hill,Phil Hill,American,26,1963-spa,Belgian Grand Prix,,,,,,17,13,,0.0,14,R,2,Gearbox,,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,17,1963-spa,Belgian Grand Prix,,,,,,6,12,,0.0,15,R,2,Injection,,1963
+Lola,lola,British,,amon,Chris Amon,New Zealander,21,1963-spa,Belgian Grand Prix,,,,,,15,10,,0.0,16,R,2,Oil leak,,1963
+BRP,brp,British,,ireland,Innes Ireland,British,4,1963-spa,Belgian Grand Prix,,,,,,7,9,,0.0,17,R,2,Gearbox,,1963
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,10,1963-spa,Belgian Grand Prix,,,,,,3,7,,0.0,18,R,2,Injection,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,27,1963-spa,Belgian Grand Prix,,,,,,20,7,,0.0,19,R,2,Gearbox,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,2,1963-spa,Belgian Grand Prix,,,,,,11,5,,0.0,20,R,2,Physical,,1963
+Lotus-Climax,lotus-climax,British,,arundell,Peter Arundell,British,3,1963-spa,Belgian Grand Prix,,,,,,0,0,,0.0,21,W,2,Withdrew,,1963
+Ferrari,ferrari,Italian,,scarfiotti,Ludovico Scarfiotti,Italian,11,1963-spa,Belgian Grand Prix,,,,,,0,0,,0.0,22,W,2,Withdrew,,1963
+BRM,brm,British,,bandini,Lorenzo Bandini,Italian,19,1963-spa,Belgian Grand Prix,,,,,,0,0,,0.0,23,W,2,Withdrew,,1963
+Scirocco,scirocco,British,,burgess,Ian Burgess,British,25,1963-spa,Belgian Grand Prix,,,,,,0,0,,0.0,24,W,2,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,6,1963-zandvoort,Dutch Grand Prix,,,,,,1,80,7693700,9.0,1,1,3,Finished,2:08:13.700,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,18,1963-zandvoort,Dutch Grand Prix,,,,,,14,79,,6.0,2,2,3,+1 Lap,,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,2,1963-zandvoort,Dutch Grand Prix,,,,,,5,79,,4.0,3,3,3,+1 Lap,,1963
+BRP,brp,British,,ireland,Innes Ireland,British,30,1963-zandvoort,Dutch Grand Prix,,,,,,7,79,,3.0,4,4,3,+1 Lap,,1963
+BRM,brm,British,,ginther,Richie Ginther,American,14,1963-zandvoort,Dutch Grand Prix,,,,,,6,79,,2.0,5,5,3,+1 Lap,,1963
+Ferrari,ferrari,Italian,,scarfiotti,Ludovico Scarfiotti,Italian,4,1963-zandvoort,Dutch Grand Prix,,,,,,11,78,,1.0,6,6,3,+2 Laps,,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,36,1963-zandvoort,Dutch Grand Prix,,,,,,17,77,,0.0,7,7,3,+3 Laps,,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,42,1963-zandvoort,Dutch Grand Prix,,,,,,18,77,,0.0,8,8,3,+3 Laps,,1963
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,32,1963-zandvoort,Dutch Grand Prix,,,,,,19,75,,0.0,9,9,3,+5 Laps,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,8,1963-zandvoort,Dutch Grand Prix,,,,,,10,66,,0.0,10,10,3,+14 Laps,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,28,1963-zandvoort,Dutch Grand Prix,,,,,,8,56,,0.0,11,11,3,+24 Laps,,1963
+BRM,brm,British,,hill,Graham Hill,British,12,1963-zandvoort,Dutch Grand Prix,,,,,,2,69,,0.0,12,R,3,Overheating,,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,16,1963-zandvoort,Dutch Grand Prix,,,,,,4,68,,0.0,13,R,3,Accident,,1963
+Lola,lola,British,,amon,Chris Amon,New Zealander,10,1963-zandvoort,Dutch Grand Prix,,,,,,12,29,,0.0,14,R,3,Water pump,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,26,1963-zandvoort,Dutch Grand Prix,,,,,,15,17,,0.0,15,R,3,Ignition,,1963
+ATS,ats,Italian,,phil_hill,Phil Hill,American,24,1963-zandvoort,Dutch Grand Prix,,,,,,13,15,,0.0,16,R,3,Suspension,,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,22,1963-zandvoort,Dutch Grand Prix,,,,,,9,14,,0.0,17,R,3,Overheating,,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,20,1963-zandvoort,Dutch Grand Prix,,,,,,3,7,,0.0,18,R,3,Gearbox,,1963
+Porsche,porsche,German,,mitter,Gerhard Mitter,German,34,1963-zandvoort,Dutch Grand Prix,,,,,,16,2,,0.0,19,R,3,Clutch,,1963
+Scirocco,scirocco,British,,settember,Tony Settember,American,38,1963-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,20,W,3,Withdrew,,1963
+Scirocco,scirocco,British,,burgess,Ian Burgess,British,40,1963-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,21,W,3,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,18,1963-reims,French Grand Prix,,,,,,1,53,7854300,9.0,1,1,4,Finished,2:10:54.300,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,12,1963-reims,French Grand Prix,,,,,,8,53,7919200,6.0,2,2,4,Finished,+1:04.900,1963
+BRM,brm,British,,hill,Graham Hill,British,2,1963-reims,French Grand Prix,,,,,,2,53,7928200,0.0,3,3,4,Finished,+1:13.900,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,6,1963-reims,French Grand Prix,,,,,,5,53,7989500,3.0,4,4,4,Finished,+2:15.200,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,8,1963-reims,French Grand Prix,,,,,,3,53,8007700,2.0,5,5,4,Finished,+2:33.400,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,36,1963-reims,French Grand Prix,,,,,,10,52,,1.0,6,6,4,+1 Lap,,1963
+Lola,lola,British,,amon,Chris Amon,New Zealander,30,1963-reims,French Grand Prix,,,,,,17,51,,0.0,7,7,4,+2 Laps,,1963
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,28,1963-reims,French Grand Prix,,,,,,15,50,,0.0,8,8,4,+3 Laps,,1963
+BRP,brp,British,,ireland,Innes Ireland,British,32,1963-reims,French Grand Prix,,,,,,9,49,,0.0,9,9,4,+4 Laps,,1963
+BRM,brm,British,,bandini,Lorenzo Bandini,Italian,46,1963-reims,French Grand Prix,,,,,,21,45,,0.0,10,10,4,+8 Laps,,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,34,1963-reims,French Grand Prix,,,,,,18,45,,0.0,11,11,4,+8 Laps,,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,10,1963-reims,French Grand Prix,,,,,,6,42,,0.0,12,12,4,Ignition,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,20,1963-reims,French Grand Prix,,,,,,7,41,,0.0,13,13,4,Suspension,,1963
+Lotus-BRM,lotus-brm,British,,phil_hill,Phil Hill,American,42,1963-reims,French Grand Prix,,,,,,13,34,,0.0,14,R,4,Not classified,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,44,1963-reims,French Grand Prix,,,,,,11,32,,0.0,15,R,4,Not classified,,1963
+Lotus-BRM,lotus-brm,British,,gregory,Masten Gregory,American,48,1963-reims,French Grand Prix,,,,,,19,30,,0.0,16,R,4,Gearbox,,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,16,1963-reims,French Grand Prix,,,,,,4,12,,0.0,17,R,4,Fuel pump,,1963
+Scirocco,scirocco,British,,settember,Tony Settember,American,38,1963-reims,French Grand Prix,,,,,,20,5,,0.0,18,R,4,Wheel bearing,,1963
+BRM,brm,British,,ginther,Richie Ginther,American,4,1963-reims,French Grand Prix,,,,,,12,4,,0.0,19,R,4,Radiator,,1963
+Ferrari,ferrari,Italian,,scarfiotti,Ludovico Scarfiotti,Italian,14,1963-reims,French Grand Prix,,,,,,0,0,,0.0,20,W,4,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,arundell,Peter Arundell,British,22,1963-reims,French Grand Prix,,,,,,0,0,,0.0,21,W,4,Withdrew,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,26,1963-reims,French Grand Prix,,,,,,0,0,,0.0,22,W,4,Withdrew,,1963
+Scirocco,scirocco,British,,burgess,Ian Burgess,British,40,1963-reims,French Grand Prix,,,,,,0,0,,0.0,23,W,4,Withdrew,,1963
+De Tomaso,tomaso,Italian,,estefano,Nasif Estéfano,Argentine,50,1963-reims,French Grand Prix,,,,,,0,0,,0.0,24,W,4,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,4,1963-silverstone,British Grand Prix,,,,,,1,82,8049600,9.0,1,1,5,Finished,2:14:09.600,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,10,1963-silverstone,British Grand Prix,,,,,,5,82,8075400,6.0,2,2,5,Finished,+25.800,1963
+BRM,brm,British,,hill,Graham Hill,British,1,1963-silverstone,British Grand Prix,,,,,,3,82,8087200,4.0,3,3,5,Finished,+37.600,1963
+BRM,brm,British,,ginther,Richie Ginther,American,2,1963-silverstone,British Grand Prix,,,,,,9,81,,3.0,4,4,5,+1 Lap,,1963
+BRM,brm,British,,bandini,Lorenzo Bandini,Italian,3,1963-silverstone,British Grand Prix,,,,,,8,81,,2.0,5,5,5,+1 Lap,,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,12,1963-silverstone,British Grand Prix,,,,,,13,80,,1.0,6,6,5,+2 Laps,,1963
+Lola,lola,British,,amon,Chris Amon,New Zealander,19,1963-silverstone,British Grand Prix,,,,,,14,80,,0.0,7,7,5,+2 Laps,,1963
+Lotus-Climax,lotus-climax,British,,hailwood,Mike Hailwood,British,20,1963-silverstone,British Grand Prix,,,,,,17,78,,0.0,8,8,5,+4 Laps,,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,7,1963-silverstone,British Grand Prix,,,,,,7,78,,0.0,9,9,5,+4 Laps,,1963
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,23,1963-silverstone,British Grand Prix,,,,,,21,76,,0.0,10,10,5,+6 Laps,,1963
+Lotus-BRM,lotus-brm,British,,gregory,Masten Gregory,American,21,1963-silverstone,British Grand Prix,,,,,,22,75,,0.0,11,11,5,+7 Laps,,1963
+Lola,lola,British,,anderson,Bob Anderson,British,22,1963-silverstone,British Grand Prix,,,,,,16,75,,0.0,12,12,5,+7 Laps,,1963
+Lola,lola,British,,campbell-jones,John Campbell-Jones,British,24,1963-silverstone,British Grand Prix,,,,,,23,74,,0.0,13,13,5,+8 Laps,,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,25,1963-silverstone,British Grand Prix,,,,,,15,66,,0.0,14,R,5,Gearbox,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,14,1963-silverstone,British Grand Prix,,,,,,12,65,,0.0,15,R,5,Oil pressure,,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,9,1963-silverstone,British Grand Prix,,,,,,2,59,,0.0,16,R,5,Engine,,1963
+Gilby,gilby,British,,raby,Ian Raby,British,26,1963-silverstone,British Grand Prix,,,,,,19,59,,0.0,17,R,5,Gearbox,,1963
+Scirocco,scirocco,British,,burgess,Ian Burgess,British,16,1963-silverstone,British Grand Prix,,,,,,20,36,,0.0,18,R,5,Ignition,,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,8,1963-silverstone,British Grand Prix,,,,,,4,27,,0.0,19,R,5,Engine,,1963
+BRP,brp,British,,ireland,Innes Ireland,British,11,1963-silverstone,British Grand Prix,,,,,,11,26,,0.0,20,R,5,Ignition,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,5,1963-silverstone,British Grand Prix,,,,,,10,23,,0.0,21,R,5,Fuel pump,,1963
+Scirocco,scirocco,British,,settember,Tony Settember,American,15,1963-silverstone,British Grand Prix,,,,,,18,20,,0.0,22,R,5,Ignition,,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,6,1963-silverstone,British Grand Prix,,,,,,6,6,,0.0,23,R,5,Engine,,1963
+De Tomaso,tomaso,Italian,,estefano,Nasif Estéfano,Argentine,27,1963-silverstone,British Grand Prix,,,,,,0,0,,0.0,24,W,5,Withdrew,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,17,1963-silverstone,British Grand Prix,,,,,,0,0,,0.0,25,W,5,Withdrew,,1963
+ATS,ats,Italian,,phil_hill,Phil Hill,American,18,1963-silverstone,British Grand Prix,,,,,,0,0,,0.0,26,W,5,Withdrew,,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,7,1963-n-rburg,German Grand Prix,,,,,,2,15,7986800,9.0,1,1,6,Finished,2:13:06.800,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,3,1963-n-rburg,German Grand Prix,,,,,,1,15,8064300,6.0,2,2,6,Finished,+1:17.500,1963
+BRM,brm,British,,ginther,Richie Ginther,American,2,1963-n-rburg,German Grand Prix,,,,,,6,15,8151700,4.0,3,3,6,Finished,+2:44.900,1963
+Porsche,porsche,German,,mitter,Gerhard Mitter,German,26,1963-n-rburg,German Grand Prix,,,,,,15,15,8478300,3.0,4,4,6,Finished,+8:11.500,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,20,1963-n-rburg,German Grand Prix,,,,,,16,14,,2.0,5,5,6,+1 Lap,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,16,1963-n-rburg,German Grand Prix,,,,,,12,14,,1.0,6,6,6,+1 Lap,,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,9,1963-n-rburg,German Grand Prix,,,,,,8,14,,0.0,7,7,6,+1 Lap,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,4,1963-n-rburg,German Grand Prix,,,,,,18,14,,0.0,8,8,6,+1 Lap,,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,18,1963-n-rburg,German Grand Prix,,,,,,9,10,,0.0,9,9,6,Differential,,1963
+Lotus-Climax,lotus-climax,British,,collomb,Bernard Collomb,French,28,1963-n-rburg,German Grand Prix,,,,,,21,10,,0.0,10,10,6,+5 Laps,,1963
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,17,1963-n-rburg,German Grand Prix,,,,,,17,9,,0.0,11,R,6,Wheel,,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,6,1963-n-rburg,German Grand Prix,,,,,,10,7,,0.0,12,R,6,Engine,,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,10,1963-n-rburg,German Grand Prix,,,,,,13,6,,0.0,13,R,6,Gearbox,,1963
+Cooper-Climax,cooper-climax,British,,cabral,Mário de Araújo Cabral,Portuguese,22,1963-n-rburg,German Grand Prix,,,,,,20,6,,0.0,14,R,6,Gearbox,,1963
+Scirocco,scirocco,British,,burgess,Ian Burgess,British,24,1963-n-rburg,German Grand Prix,,,,,,19,5,,0.0,15,R,6,Steering,,1963
+Scirocco,scirocco,British,,settember,Tony Settember,American,23,1963-n-rburg,German Grand Prix,,,,,,22,5,,0.0,16,R,6,Accident,,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,5,1963-n-rburg,German Grand Prix,,,,,,5,3,,0.0,17,R,6,Accident,,1963
+BRM,brm,British,,hill,Graham Hill,British,1,1963-n-rburg,German Grand Prix,,,,,,4,2,,0.0,18,R,6,Gearbox,,1963
+Lola,lola,British,,amon,Chris Amon,New Zealander,21,1963-n-rburg,German Grand Prix,,,,,,14,1,,0.0,19,R,6,Accident,,1963
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,8,1963-n-rburg,German Grand Prix,,,,,,7,1,,0.0,20,R,6,Accident,,1963
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,14,1963-n-rburg,German Grand Prix,,,,,,11,1,,0.0,21,R,6,Accident,,1963
+BRM,brm,British,,bandini,Lorenzo Bandini,Italian,15,1963-n-rburg,German Grand Prix,,,,,,3,0,,0.0,22,R,6,Accident,,1963
+ATS,ats,Italian,,phil_hill,Phil Hill,American,11,1963-n-rburg,German Grand Prix,,,,,,0,0,,0.0,27,W,6,Withdrew,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,12,1963-n-rburg,German Grand Prix,,,,,,0,0,,0.0,28,W,6,Withdrew,,1963
+Lotus-BRM,lotus-brm,British,,gregory,Masten Gregory,American,19,1963-n-rburg,German Grand Prix,,,,,,0,0,,0.0,29,W,6,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,8,1963-monza,Italian Grand Prix,,,,,,3,86,8659600,9.0,1,1,7,Finished,2:24:19.600,1963
+BRM,brm,British,,ginther,Richie Ginther,American,10,1963-monza,Italian Grand Prix,,,,,,4,86,8754600,6.0,2,2,7,Finished,+1:35.000,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,18,1963-monza,Italian Grand Prix,,,,,,8,85,,4.0,3,3,7,+1 Lap,,1963
+BRP,brp,British,,ireland,Innes Ireland,British,32,1963-monza,Italian Grand Prix,,,,,,10,84,,3.0,4,4,7,Engine,,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,22,1963-monza,Italian Grand Prix,,,,,,7,84,,2.0,5,5,7,+2 Laps,,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,20,1963-monza,Italian Grand Prix,,,,,,13,84,,1.0,6,6,7,+2 Laps,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,58,1963-monza,Italian Grand Prix,,,,,,11,84,,0.0,7,7,7,+2 Laps,,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,30,1963-monza,Italian Grand Prix,,,,,,17,84,,0.0,8,8,7,+2 Laps,,1963
+BRM,brm,British,,trintignant,Maurice Trintignant,French,66,1963-monza,Italian Grand Prix,,,,,,20,83,,0.0,9,9,7,+3 Laps,,1963
+Lola,lola,British,,hailwood,Mike Hailwood,British,40,1963-monza,Italian Grand Prix,,,,,,18,82,,0.0,10,10,7,+4 Laps,,1963
+ATS,ats,Italian,,phil_hill,Phil Hill,American,16,1963-monza,Italian Grand Prix,,,,,,14,79,,0.0,11,11,7,+7 Laps,,1963
+Lola,lola,British,,anderson,Bob Anderson,British,48,1963-monza,Italian Grand Prix,,,,,,19,79,,0.0,12,12,7,+7 Laps,,1963
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,6,1963-monza,Italian Grand Prix,,,,,,9,73,,0.0,13,13,7,Oil pressure,,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,24,1963-monza,Italian Grand Prix,,,,,,5,64,,0.0,14,14,7,Fuel system,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,14,1963-monza,Italian Grand Prix,,,,,,25,63,,0.0,15,15,7,+23 Laps,,1963
+BRM,brm,British,,hill,Graham Hill,British,12,1963-monza,Italian Grand Prix,,,,,,2,59,,0.0,16,16,7,Clutch,,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,54,1963-monza,Italian Grand Prix,,,,,,16,40,,0.0,17,R,7,Oil pressure,,1963
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,2,1963-monza,Italian Grand Prix,,,,,,6,37,,0.0,18,R,7,Gearbox,,1963
+Lotus-BRM,lotus-brm,British,,gregory,Masten Gregory,American,42,1963-monza,Italian Grand Prix,,,,,,12,26,,0.0,19,R,7,Engine,,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,4,1963-monza,Italian Grand Prix,,,,,,1,16,,0.0,20,R,7,Engine,,1963
+Lola,lola,British,,amon,Chris Amon,New Zealander,38,1963-monza,Italian Grand Prix,,,,,,0,0,,0.0,21,W,7,Withdrew,,1963
+Porsche,porsche,German,,mitter,Gerhard Mitter,German,26,1963-monza,Italian Grand Prix,,,,,,0,0,,0.0,29,W,7,Withdrew,,1963
+Scirocco,scirocco,British,,burgess,Ian Burgess,British,36,1963-monza,Italian Grand Prix,,,,,,0,0,,0.0,30,W,7,Withdrew,,1963
+Lotus-BRM,lotus-brm,British,,seiffert,Günther Seiffert,German,52,1963-monza,Italian Grand Prix,,,,,,0,0,,0.0,31,W,7,Withdrew,,1963
+Porsche,porsche,German,,abate,Carlo Abate,Italian,56,1963-monza,Italian Grand Prix,,,,,,0,0,,0.0,32,W,7,Withdrew,,1963
+Lotus-Maserati,lotus-maserati,British,,starrabba,Gaetano Starrabba,Italian,60,1963-monza,Italian Grand Prix,,,,,,0,0,,0.0,33,W,7,Withdrew,,1963
+BRM,brm,British,,hill,Graham Hill,British,1,1963-new-york-state,United States Grand Prix,,,,,,1,110,8362100,9.0,1,1,8,Finished,2:19:22.100,1963
+BRM,brm,British,,ginther,Richie Ginther,American,2,1963-new-york-state,United States Grand Prix,,,,,,4,110,8396400,6.0,2,2,8,Finished,+34.300,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,8,1963-new-york-state,United States Grand Prix,,,,,,2,109,,4.0,3,3,8,+1 Lap,,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,5,1963-new-york-state,United States Grand Prix,,,,,,5,108,,3.0,4,4,8,+2 Laps,,1963
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,24,1963-new-york-state,United States Grand Prix,,,,,,9,106,,2.0,5,5,8,+4 Laps,,1963
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,12,1963-new-york-state,United States Grand Prix,,,,,,19,99,,1.0,6,6,8,+11 Laps,,1963
+Stebro,stebro,Canadian,,broeker,Peter Broeker,Canadian,21,1963-new-york-state,United States Grand Prix,,,,,,21,88,,0.0,7,7,8,+22 Laps,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,11,1963-new-york-state,United States Grand Prix,,,,,,12,85,,0.0,8,8,8,+25 Laps,,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,23,1963-new-york-state,United States Grand Prix,,,,,,3,82,,0.0,9,9,8,Engine,,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,16,1963-new-york-state,United States Grand Prix,,,,,,16,76,,0.0,10,10,8,Gearbox,,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,3,1963-new-york-state,United States Grand Prix,,,,,,11,74,,0.0,11,11,8,Fuel pump,,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,14,1963-new-york-state,United States Grand Prix,,,,,,14,56,,0.0,12,R,8,Gearbox,,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,4,1963-new-york-state,United States Grand Prix,,,,,,10,44,,0.0,13,R,8,Ignition,,1963
+Lotus-BRM,lotus-brm,British,,ward,Rodger Ward,American,18,1963-new-york-state,United States Grand Prix,,,,,,17,44,,0.0,14,R,8,Gearbox,,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,6,1963-new-york-state,United States Grand Prix,,,,,,6,42,,0.0,15,R,8,Chassis,,1963
+Lotus-Climax,lotus-climax,British,,rodriguez,Pedro Rodríguez,Mexican,10,1963-new-york-state,United States Grand Prix,,,,,,13,36,,0.0,16,R,8,Engine,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,9,1963-new-york-state,United States Grand Prix,,,,,,7,24,,0.0,17,R,8,Electrical,,1963
+Lola,lola,British,,gregory,Masten Gregory,American,17,1963-new-york-state,United States Grand Prix,,,,,,8,14,,0.0,18,R,8,Engine,,1963
+Lotus-BRM,lotus-brm,British,,sharp,Hap Sharp,American,22,1963-new-york-state,United States Grand Prix,,,,,,18,6,,0.0,19,R,8,Retired,,1963
+ATS,ats,Italian,,phil_hill,Phil Hill,American,25,1963-new-york-state,United States Grand Prix,,,,,,15,4,,0.0,20,R,8,Oil pump,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,26,1963-new-york-state,United States Grand Prix,,,,,,20,0,,0.0,21,R,8,Oil pump,,1963
+Lotus-Climax,lotus-climax,British,,hansgen,Walt Hansgen,American,7,1963-new-york-state,United States Grand Prix,,,,,,0,0,,0.0,22,W,8,Withdrew,,1963
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,15,1963-new-york-state,United States Grand Prix,,,,,,0,0,,0.0,23,W,8,Withdrew,,1963
+Stebro,stebro,Canadian,,vos,Ernie de Vos,Dutch,19,1963-new-york-state,United States Grand Prix,,,,,,0,0,,0.0,24,W,8,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,8,1963-mexico-city,Mexican Grand Prix,,,,,,1,65,7792100,9.0,1,1,9,Finished,2:09:52.100,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,5,1963-mexico-city,Mexican Grand Prix,,,,,,10,65,7893200,6.0,2,2,9,Finished,+1:41.100,1963
+BRM,brm,British,,ginther,Richie Ginther,American,2,1963-mexico-city,Mexican Grand Prix,,,,,,5,65,7906800,4.0,3,3,9,Finished,+1:54.700,1963
+BRM,brm,British,,hill,Graham Hill,British,1,1963-mexico-city,Mexican Grand Prix,,,,,,3,64,,3.0,4,4,9,+1 Lap,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,11,1963-mexico-city,Mexican Grand Prix,,,,,,8,62,,2.0,5,5,9,+3 Laps,,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,6,1963-mexico-city,Mexican Grand Prix,,,,,,4,62,,1.0,6,6,9,+3 Laps,,1963
+Lotus-BRM,lotus-brm,British,,sharp,Hap Sharp,American,22,1963-mexico-city,Mexican Grand Prix,,,,,,16,61,,0.0,7,7,9,+4 Laps,,1963
+Lotus-BRM,lotus-brm,British,,hall,Jim Hall,American,16,1963-mexico-city,Mexican Grand Prix,,,,,,15,61,,0.0,8,8,9,+4 Laps,,1963
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,14,1963-mexico-city,Mexican Grand Prix,,,,,,9,59,,0.0,9,9,9,+6 Laps,,1963
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,12,1963-mexico-city,Mexican Grand Prix,,,,,,18,58,,0.0,10,10,9,+7 Laps,,1963
+BRM,brm,British,,solana,Moisés Solana,Mexican,13,1963-mexico-city,Mexican Grand Prix,,,,,,11,57,,0.0,11,11,9,Engine,,1963
+ATS,ats,Italian,,phil_hill,Phil Hill,American,25,1963-mexico-city,Mexican Grand Prix,,,,,,17,46,,0.0,12,R,9,Suspension,,1963
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,24,1963-mexico-city,Mexican Grand Prix,,,,,,7,36,,0.0,13,R,9,Ignition,,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,3,1963-mexico-city,Mexican Grand Prix,,,,,,6,30,,0.0,14,R,9,Engine,,1963
+Lotus-Climax,lotus-climax,British,,rodriguez,Pedro Rodríguez,Mexican,10,1963-mexico-city,Mexican Grand Prix,,,,,,20,26,,0.0,15,R,9,Suspension,,1963
+Lola,lola,British,,gregory,Masten Gregory,American,17,1963-mexico-city,Mexican Grand Prix,,,,,,14,23,,0.0,16,R,9,Suspension,,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,23,1963-mexico-city,Mexican Grand Prix,,,,,,2,19,,0.0,17,D,9,Disqualified,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,9,1963-mexico-city,Mexican Grand Prix,,,,,,12,19,,0.0,18,R,9,Engine,,1963
+ATS,ats,Italian,,baghetti,Giancarlo Baghetti,Italian,26,1963-mexico-city,Mexican Grand Prix,,,,,,21,12,,0.0,19,R,9,Engine,,1963
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,18,1963-mexico-city,Mexican Grand Prix,,,,,,19,9,,0.0,20,R,9,Gearbox,,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,4,1963-mexico-city,Mexican Grand Prix,,,,,,13,7,,0.0,21,R,9,Engine,,1963
+Cooper-Climax,cooper-climax,British,,dochnal,Frank Dochnal,American,20,1963-mexico-city,Mexican Grand Prix,,,,,,0,0,,0.0,22,W,9,Withdrew,,1963
+Team Lotus,team_lotus,British,,hansgen,Walt Hansgen,American,7,1963-mexico-city,Mexican Grand Prix,,,,,,0,0,,0.0,23,W,9,Withdrew,,1963
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,15,1963-mexico-city,Mexican Grand Prix,,,,,,0,0,,0.0,24,W,9,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,monarch,Thomas Monarch,American,19,1963-mexico-city,Mexican Grand Prix,,,,,,0,0,,0.0,25,W,9,Withdrew,,1963
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1963-eastern-cape-province,South African Grand Prix,,,,,,1,85,7836900,9.0,1,1,10,Finished,2:10:36.900,1963
+Brabham,brabham,British,,gurney,Dan Gurney,American,9,1963-eastern-cape-province,South African Grand Prix,,,,,,3,85,7903700,6.0,2,2,10,Finished,+1:06.800,1963
+BRM,brm,British,,hill,Graham Hill,British,5,1963-eastern-cape-province,South African Grand Prix,,,,,,6,84,,4.0,3,3,10,+1 Lap,,1963
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,10,1963-eastern-cape-province,South African Grand Prix,,,,,,9,84,,3.0,4,4,10,+1 Lap,,1963
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,4,1963-eastern-cape-province,South African Grand Prix,,,,,,5,84,,2.0,5,5,10,+1 Lap,,1963
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,12,1963-eastern-cape-province,South African Grand Prix,,,,,,11,83,,1.0,6,6,10,+2 Laps,,1963
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,11,1963-eastern-cape-province,South African Grand Prix,,,,,,10,82,,0.0,7,7,10,+3 Laps,,1963
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,2,1963-eastern-cape-province,South African Grand Prix,,,,,,8,81,,0.0,8,8,10,+4 Laps,,1963
+Cooper-Climax,cooper-climax,British,,love,John Love,Rhodesian,19,1963-eastern-cape-province,South African Grand Prix,,,,,,13,80,,0.0,9,9,10,+5 Laps,,1963
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,14,1963-eastern-cape-province,South African Grand Prix,,,,,,20,79,,0.0,10,10,10,+6 Laps,,1963
+LDS,lds,South African,,serrurier,Doug Serrurier,South African,16,1963-eastern-cape-province,South African Grand Prix,,,,,,18,78,,0.0,11,11,10,+7 Laps,,1963
+Cooper-Maserati,cooper-maserati,British,,blokdyk,Trevor Blokdyk,South African,23,1963-eastern-cape-province,South African Grand Prix,,,,,,19,77,,0.0,12,12,10,+8 Laps,,1963
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,8,1963-eastern-cape-province,South African Grand Prix,,,,,,2,70,,0.0,13,13,10,Accident,,1963
+Lotus-Ford,lotus-ford,British,,niemann,Brausch Niemann,South African,21,1963-eastern-cape-province,South African Grand Prix,,,,,,15,66,,0.0,14,14,10,+19 Laps,,1963
+Alfa Romeo,alfa,Swiss,,klerk,Peter de Klerk,South African,18,1963-eastern-cape-province,South African Grand Prix,,,,,,16,53,,0.0,15,R,10,Gearbox,,1963
+Brabham,brabham,British,,prophet,David Prophet,British,22,1963-eastern-cape-province,South African Grand Prix,,,,,,14,49,,0.0,16,R,10,Oil pressure,,1963
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,3,1963-eastern-cape-province,South African Grand Prix,,,,,,4,43,,0.0,17,R,10,Engine,,1963
+BRM,brm,British,,ginther,Richie Ginther,American,6,1963-eastern-cape-province,South African Grand Prix,,,,,,7,43,,0.0,18,R,10,Halfshaft,,1963
+Lotus-Climax,lotus-climax,British,,pieterse,Ernie Pieterse,South African,7,1963-eastern-cape-province,South African Grand Prix,,,,,,12,3,,0.0,19,R,10,Engine,,1963
+LDS,lds,South African,,tingle,Sam Tingle,Rhodesian,20,1963-eastern-cape-province,South African Grand Prix,,,,,,17,2,,0.0,20,R,10,Halfshaft,,1963
+Lotus-BRM,lotus-brm,British,,driver,Paddy Driver,South African,15,1963-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,21,W,10,Accident,,1963
+Lotus-Climax,lotus-climax,British,,lederle,Neville Lederle,South African,17,1963-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,22,W,10,Withdrew,,1963
+Lola,lola,British,,hailwood,Mike Hailwood,British,None,1963-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,23,W,10,Withdrew,,1963

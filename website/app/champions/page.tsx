@@ -2,6 +2,9 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 import { getHistoryManifest } from "@/lib/history";
+import F1TVBanner from "@/components/F1TVBanner";
+import AdUnit from "@/components/AdUnit";
+import { ADSENSE } from "@/lib/monetization";
 
 export const metadata: Metadata = {
   title: "F1 World Champions 1950–2026 · GridIQ",
@@ -152,6 +155,8 @@ export default function ChampionsPage() {
           </div>
         </section>
 
+        <AdUnit slot={ADSENSE.slots.inContent} />
+
         <section className="panel widePanel">
           <div className="panelHeader">
             <div>
@@ -215,6 +220,8 @@ export default function ChampionsPage() {
             </tbody>
           </table>
         </section>
+
+        <F1TVBanner />
 
         <div className="footer">
           Champion data sourced from Jolpica/Ergast historical F1 results. GridIQ is not affiliated with Formula 1.

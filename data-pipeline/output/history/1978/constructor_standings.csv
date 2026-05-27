@@ -1,0 +1,20 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,86.0,1,1,8,1978
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,58.0,2,2,5,1978
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,53.0,3,3,2,1978
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,38.0,4,4,1,1978
+Wolf,wolf,Canadian,https://en.wikipedia.org/wiki/Walter_Wolf_Racing,24.0,5,5,0,1978
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,19.0,6,6,0,1978
+Fittipaldi,fittipaldi,Brazilian,https://en.wikipedia.org/wiki/Fittipaldi_Automotive,17.0,7,7,0,1978
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,15.0,8,8,0,1978
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,11.0,9,9,0,1978
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,11.0,10,10,0,1978
+Shadow,shadow,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,6.0,11,11,0,1978
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,3.0,12,12,0,1978
+Surtees,surtees,British,https://en.wikipedia.org/wiki/Surtees,1.0,13,13,0,1978
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,1.0,14,14,0,1978
+ATS,ats,Italian,https://en.wikipedia.org/wiki/ATS_Wheels,0.0,,-,0,1978
+Martini,martini,French,https://en.wikipedia.org/wiki/Automobiles_Martini,0.0,,-,0,1978
+Merzario,merzario,Italian,https://en.wikipedia.org/wiki/Merzario,0.0,,-,0,1978
+Theodore,theodore,Hong Kong,https://en.wikipedia.org/wiki/Theodore_Racing,0.0,,-,0,1978
+Hesketh,hesketh,British,https://en.wikipedia.org/wiki/Hesketh_Racing,0.0,,-,0,1978

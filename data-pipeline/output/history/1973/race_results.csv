@@ -1,0 +1,358 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,2,1973-buenos-aires,Argentine Grand Prix,,,,,,2,96,6978220,9.0,1,1,1,Finished,1:56:18.220,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,8,1973-buenos-aires,Argentine Grand Prix,,,,,,6,96,6982910,6.0,2,2,1,Finished,+4.690,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,6,1973-buenos-aires,Argentine Grand Prix,,,,,,4,96,7011410,4.0,3,3,1,Finished,+33.190,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,18,1973-buenos-aires,Argentine Grand Prix,,,,,,3,96,7020790,3.0,4,4,1,Finished,+42.570,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,14,1973-buenos-aires,Argentine Grand Prix,,,,,,8,95,,2.0,5,5,1,+1 Lap,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,12,1973-buenos-aires,Argentine Grand Prix,,,,,,13,95,,1.0,6,6,1,+1 Lap,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,32,1973-buenos-aires,Argentine Grand Prix,,,,,,1,93,,0.0,7,7,1,+3 Laps,,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,16,1973-buenos-aires,Argentine Grand Prix,,,,,,11,92,,0.0,8,8,1,+4 Laps,,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,20,1973-buenos-aires,Argentine Grand Prix,,,,,,14,92,,0.0,9,9,1,+4 Laps,,1973
+March,march,British,,beuttler,Mike Beuttler,British,22,1973-buenos-aires,Argentine Grand Prix,,,,,,18,90,,0.0,10,10,1,Suspension,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,24,1973-buenos-aires,Argentine Grand Prix,,,,,,17,84,,0.0,11,R,1,Radiator,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,30,1973-buenos-aires,Argentine Grand Prix,,,,,,7,79,,0.0,12,R,1,Engine,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,38,1973-buenos-aires,Argentine Grand Prix,,,,,,19,79,,0.0,13,R,1,Not classified,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,4,1973-buenos-aires,Argentine Grand Prix,,,,,,5,67,,0.0,14,R,1,Oil pressure,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,34,1973-buenos-aires,Argentine Grand Prix,,,,,,13,66,,0.0,15,R,1,Oil pressure,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-buenos-aires,Argentine Grand Prix,,,,,,9,16,,0.0,16,R,1,Gearbox,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,26,1973-buenos-aires,Argentine Grand Prix,,,,,,10,10,,0.0,17,R,1,Halfshaft,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,28,1973-buenos-aires,Argentine Grand Prix,,,,,,15,10,,0.0,18,R,1,Suspension,,1973
+Iso Marlboro,iso_marlboro,British,,galli,Nanni Galli,Italian,36,1973-buenos-aires,Argentine Grand Prix,,,,,,16,0,,0.0,19,R,1,Engine,,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-s-o-paulo,Brazilian Grand Prix,,,,,,2,40,6235600,9.0,1,1,2,Finished,1:43:55.600,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,3,1973-s-o-paulo,Brazilian Grand Prix,,,,,,8,40,6249100,6.0,2,2,2,Finished,+13.500,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-s-o-paulo,Brazilian Grand Prix,,,,,,5,40,6342000,4.0,3,3,2,Finished,+1:46.400,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,10,1973-s-o-paulo,Brazilian Grand Prix,,,,,,17,39,,3.0,4,4,2,+1 Lap,,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,9,1973-s-o-paulo,Brazilian Grand Prix,,,,,,3,39,,2.0,5,5,2,+1 Lap,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,14,1973-s-o-paulo,Brazilian Grand Prix,,,,,,4,39,,1.0,6,6,2,+1 Lap,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,19,1973-s-o-paulo,Brazilian Grand Prix,,,,,,14,39,,0.0,7,7,2,+1 Lap,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,16,1973-s-o-paulo,Brazilian Grand Prix,,,,,,13,38,,0.0,8,8,2,+2 Laps,,1973
+Iso Marlboro,iso_marlboro,British,,galli,Nanni Galli,Italian,20,1973-s-o-paulo,Brazilian Grand Prix,,,,,,18,38,,0.0,9,9,2,+2 Laps,,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,4,1973-s-o-paulo,Brazilian Grand Prix,,,,,,9,38,,0.0,10,10,2,+2 Laps,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,17,1973-s-o-paulo,Brazilian Grand Prix,,,,,,7,38,,0.0,11,11,2,+2 Laps,,1973
+Surtees,surtees,British,,bueno,Luiz Bueno,Brazilian,23,1973-s-o-paulo,Brazilian Grand Prix,,,,,,20,36,,0.0,12,12,2,+4 Laps,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,15,1973-s-o-paulo,Brazilian Grand Prix,,,,,,10,23,,0.0,13,R,2,Electrical,,1973
+March,march,British,,beuttler,Mike Beuttler,British,12,1973-s-o-paulo,Brazilian Grand Prix,,,,,,19,18,,0.0,14,R,2,Overheating,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,6,1973-s-o-paulo,Brazilian Grand Prix,,,,,,6,9,,0.0,15,R,2,Suspension,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,5,1973-s-o-paulo,Brazilian Grand Prix,,,,,,14,6,,0.0,16,R,2,Gearbox,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,11,1973-s-o-paulo,Brazilian Grand Prix,,,,,,15,6,,0.0,17,R,2,Gearbox,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-s-o-paulo,Brazilian Grand Prix,,,,,,1,5,,0.0,18,R,2,Wheel,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,18,1973-s-o-paulo,Brazilian Grand Prix,,,,,,11,5,,0.0,19,R,2,Overheating,,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-s-o-paulo,Brazilian Grand Prix,,,,,,12,3,,0.0,20,R,2,Gearbox,,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,3,1973-midrand,South African Grand Prix,,,,,,16,79,6191070,9.0,1,1,3,Finished,1:43:11.070,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,6,1973-midrand,South African Grand Prix,,,,,,6,79,6215620,6.0,2,2,3,Finished,+24.550,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-midrand,South African Grand Prix,,,,,,2,79,6216130,4.0,3,3,3,Finished,+25.060,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,9,1973-midrand,South African Grand Prix,,,,,,15,78,,3.0,4,4,3,+1 Lap,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,5,1973-midrand,South African Grand Prix,,,,,,1,77,,2.0,5,5,3,+2 Laps,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,23,1973-midrand,South African Grand Prix,,,,,,21,77,,1.0,6,6,3,+2 Laps,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,18,1973-midrand,South African Grand Prix,,,,,,8,77,,0.0,7,7,3,+2 Laps,,1973
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,12,1973-midrand,South African Grand Prix,,,,,,20,77,,0.0,8,8,3,+2 Laps,,1973
+McLaren,mclaren,British,,scheckter,Jody Scheckter,South African,7,1973-midrand,South African Grand Prix,,,,,,3,75,,0.0,9,9,3,Engine,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,21,1973-midrand,South African Grand Prix,,,,,,19,73,,0.0,10,10,3,+6 Laps,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-midrand,South African Grand Prix,,,,,,4,73,,0.0,11,11,3,+6 Laps,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,11,1973-midrand,South African Grand Prix,,,,,,9,69,,0.0,12,R,3,Accident,,1973
+Tyrrell,tyrrell,British,,keizan,Eddie Keizan,South African,26,1973-midrand,South African Grand Prix,,,,,,22,67,,0.0,13,R,3,Not classified,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,14,1973-midrand,South African Grand Prix,,,,,,18,66,,0.0,14,R,3,Not classified,,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,4,1973-midrand,South African Grand Prix,,,,,,25,66,,0.0,15,R,3,Not classified,,1973
+March,march,British,,beuttler,Mike Beuttler,British,24,1973-midrand,South African Grand Prix,,,,,,23,65,,0.0,16,R,3,Not classified,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,19,1973-midrand,South African Grand Prix,,,,,,17,52,,0.0,17,R,3,Gearbox,,1973
+Iso Marlboro,iso_marlboro,British,,pretorius,Jackie Pretorius,South African,20,1973-midrand,South African Grand Prix,,,,,,24,35,,0.0,18,R,3,Overheating,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,17,1973-midrand,South African Grand Prix,,,,,,10,26,,0.0,19,R,3,Engine,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,22,1973-midrand,South African Grand Prix,,,,,,14,14,,0.0,20,R,3,Engine,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,16,1973-midrand,South African Grand Prix,,,,,,7,4,,0.0,21,R,3,Clutch,,1973
+Team Lotus,team_lotus,British,,charlton,Dave Charlton,South African,25,1973-midrand,South African Grand Prix,,,,,,13,3,,0.0,22,R,3,Accident,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,15,1973-midrand,South African Grand Prix,,,,,,5,2,,0.0,23,R,3,Accident,,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,8,1973-midrand,South African Grand Prix,,,,,,11,2,,0.0,24,R,3,Accident,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,10,1973-midrand,South African Grand Prix,,,,,,12,2,,0.0,25,R,3,Accident,,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-barcelona,Spanish Grand Prix,,,,,,7,75,6498700,9.0,1,1,4,Finished,1:48:18.700,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,4,1973-barcelona,Spanish Grand Prix,,,,,,3,75,6541400,6.0,2,2,4,Finished,+42.700,1973
+Shadow,shadow,British,,follmer,George Follmer,American,20,1973-barcelona,Spanish Grand Prix,,,,,,14,75,6571800,4.0,3,3,4,Finished,+1:13.100,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,6,1973-barcelona,Spanish Grand Prix,,,,,,5,74,,3.0,4,4,4,+1 Lap,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,15,1973-barcelona,Spanish Grand Prix,,,,,,10,74,,2.0,5,5,4,+1 Lap,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,5,1973-barcelona,Spanish Grand Prix,,,,,,2,74,,1.0,6,6,4,+1 Lap,,1973
+March,march,British,,beuttler,Mike Beuttler,British,12,1973-barcelona,Spanish Grand Prix,,,,,,19,74,,0.0,7,7,4,+1 Lap,,1973
+March,march,British,,pescarolo,Henri Pescarolo,French,11,1973-barcelona,Spanish Grand Prix,,,,,,18,73,,0.0,8,8,4,+2 Laps,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,14,1973-barcelona,Spanish Grand Prix,,,,,,8,69,,0.0,9,9,4,+6 Laps,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,17,1973-barcelona,Spanish Grand Prix,,,,,,12,69,,0.0,10,10,4,+6 Laps,,1973
+Iso Marlboro,iso_marlboro,British,,galli,Nanni Galli,Italian,24,1973-barcelona,Spanish Grand Prix,,,,,,20,69,,0.0,11,11,4,+6 Laps,,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,7,1973-barcelona,Spanish Grand Prix,,,,,,6,69,,0.0,12,12,4,+6 Laps,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,18,1973-barcelona,Spanish Grand Prix,,,,,,15,66,,0.0,13,R,4,Halfshaft,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,23,1973-barcelona,Spanish Grand Prix,,,,,,21,63,,0.0,14,R,4,Out of fuel,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-barcelona,Spanish Grand Prix,,,,,,1,56,,0.0,15,R,4,Gearbox,,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,3,1973-barcelona,Spanish Grand Prix,,,,,,4,47,,0.0,16,R,4,Brakes,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,16,1973-barcelona,Spanish Grand Prix,,,,,,11,28,,0.0,17,R,4,Tyre,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,25,1973-barcelona,Spanish Grand Prix,,,,,,22,27,,0.0,18,R,4,Brakes,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,9,1973-barcelona,Spanish Grand Prix,,,,,,9,25,,0.0,19,R,4,Oil leak,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,19,1973-barcelona,Spanish Grand Prix,,,,,,13,23,,0.0,20,R,4,Engine,,1973
+Brabham,brabham,British,,adamich,Andrea de Adamich,Italian,21,1973-barcelona,Spanish Grand Prix,,,,,,17,17,,0.0,21,R,4,Wheel,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,10,1973-barcelona,Spanish Grand Prix,,,,,,16,13,,0.0,22,R,4,Halfshaft,,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-heusden-zolder,Belgian Grand Prix,,,,,,6,70,6133430,9.0,1,1,5,Finished,1:42:13.430,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-heusden-zolder,Belgian Grand Prix,,,,,,4,70,6165270,6.0,2,2,5,Finished,+31.840,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-heusden-zolder,Belgian Grand Prix,,,,,,9,70,6256220,4.0,3,3,5,Finished,+2:02.790,1973
+Brabham,brabham,British,,adamich,Andrea de Adamich,Italian,9,1973-heusden-zolder,Belgian Grand Prix,,,,,,18,69,,3.0,4,4,5,+1 Lap,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-heusden-zolder,Belgian Grand Prix,,,,,,14,69,,2.0,5,5,5,+1 Lap,,1973
+Tecno,tecno,Italian,,amon,Chris Amon,New Zealander,22,1973-heusden-zolder,Belgian Grand Prix,,,,,,15,67,,1.0,6,6,5,+3 Laps,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-heusden-zolder,Belgian Grand Prix,,,,,,2,67,,0.0,7,7,5,+3 Laps,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-heusden-zolder,Belgian Grand Prix,,,,,,8,66,,0.0,8,8,5,+4 Laps,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-heusden-zolder,Belgian Grand Prix,,,,,,23,65,,0.0,9,9,5,+5 Laps,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-heusden-zolder,Belgian Grand Prix,,,,,,12,63,,0.0,10,10,5,Accident,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-heusden-zolder,Belgian Grand Prix,,,,,,20,63,,0.0,11,11,5,Accident,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,14,1973-heusden-zolder,Belgian Grand Prix,,,,,,16,60,,0.0,12,R,5,Accident,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-heusden-zolder,Belgian Grand Prix,,,,,,5,56,,0.0,13,R,5,Not classified,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-heusden-zolder,Belgian Grand Prix,,,,,,19,46,,0.0,14,R,5,Engine,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-heusden-zolder,Belgian Grand Prix,,,,,,1,42,,0.0,15,R,5,Accident,,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-heusden-zolder,Belgian Grand Prix,,,,,,10,33,,0.0,16,R,5,Accident,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-heusden-zolder,Belgian Grand Prix,,,,,,21,16,,0.0,17,R,5,Accident,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-heusden-zolder,Belgian Grand Prix,,,,,,7,14,,0.0,18,R,5,Engine,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-heusden-zolder,Belgian Grand Prix,,,,,,11,13,,0.0,19,R,5,Throttle,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-heusden-zolder,Belgian Grand Prix,,,,,,22,11,,0.0,20,R,5,Accident,,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1973-heusden-zolder,Belgian Grand Prix,,,,,,3,6,,0.0,21,R,5,Oil pump,,1973
+Iso Marlboro,iso_marlboro,British,,galli,Nanni Galli,Italian,26,1973-heusden-zolder,Belgian Grand Prix,,,,,,17,6,,0.0,22,R,5,Engine,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-heusden-zolder,Belgian Grand Prix,,,,,,13,4,,0.0,23,R,5,Accident,,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-monte-carlo,Monaco Grand Prix,,,,,,1,78,7064300,9.0,1,1,6,Finished,1:57:44.300,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-monte-carlo,Monaco Grand Prix,,,,,,5,78,7065600,6.0,2,2,6,Finished,+1.300,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-monte-carlo,Monaco Grand Prix,,,,,,2,77,,4.0,3,3,6,+1 Lap,,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-monte-carlo,Monaco Grand Prix,,,,,,4,77,,3.0,4,4,6,+1 Lap,,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-monte-carlo,Monaco Grand Prix,,,,,,15,76,,2.0,5,5,6,+2 Laps,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-monte-carlo,Monaco Grand Prix,,,,,,3,76,,1.0,6,6,6,+2 Laps,,1973
+Brabham,brabham,British,,adamich,Andrea de Adamich,Italian,9,1973-monte-carlo,Monaco Grand Prix,,,,,,25,75,,0.0,7,7,6,+3 Laps,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-monte-carlo,Monaco Grand Prix,,,,,,13,75,,0.0,8,8,6,+3 Laps,,1973
+March,march,British,,hunt,James Hunt,British,27,1973-monte-carlo,Monaco Grand Prix,,,,,,18,73,,0.0,9,9,6,Engine,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-monte-carlo,Monaco Grand Prix,,,,,,22,72,,0.0,10,10,6,+6 Laps,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-monte-carlo,Monaco Grand Prix,,,,,,9,71,,0.0,11,11,6,Fuel system,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,14,1973-monte-carlo,Monaco Grand Prix,,,,,,14,67,,0.0,12,R,6,Gearbox,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-monte-carlo,Monaco Grand Prix,,,,,,24,62,,0.0,13,R,6,Suspension,,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,4,1973-monte-carlo,Monaco Grand Prix,,,,,,16,58,,0.0,14,R,6,Oil pressure,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-monte-carlo,Monaco Grand Prix,,,,,,19,46,,0.0,15,R,6,Gearbox,,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1973-monte-carlo,Monaco Grand Prix,,,,,,7,44,,0.0,16,R,6,Halfshaft,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-monte-carlo,Monaco Grand Prix,,,,,,10,41,,0.0,17,R,6,Halfshaft,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-monte-carlo,Monaco Grand Prix,,,,,,11,39,,0.0,18,R,6,Accident,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-monte-carlo,Monaco Grand Prix,,,,,,17,31,,0.0,19,R,6,Halfshaft,,1973
+March,march,British,,purley,David Purley,British,18,1973-monte-carlo,Monaco Grand Prix,,,,,,23,31,,0.0,20,R,6,Fuel leak,,1973
+Iso Marlboro,iso_marlboro,British,,galli,Nanni Galli,Italian,26,1973-monte-carlo,Monaco Grand Prix,,,,,,21,30,,0.0,21,R,6,Halfshaft,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-monte-carlo,Monaco Grand Prix,,,,,,6,24,,0.0,22,R,6,Gearbox,,1973
+Tecno,tecno,Italian,,amon,Chris Amon,New Zealander,22,1973-monte-carlo,Monaco Grand Prix,,,,,,12,22,,0.0,23,R,6,Overheating,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-monte-carlo,Monaco Grand Prix,,,,,,8,15,,0.0,24,R,6,Brakes,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-monte-carlo,Monaco Grand Prix,,,,,,20,3,,0.0,25,R,6,Engine,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-anderstorp,Swedish Grand Prix,,,,,,6,80,7006049,9.0,1,1,7,Finished,1:56:46.049,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-anderstorp,Swedish Grand Prix,,,,,,1,80,7010088,6.0,2,2,7,Finished,+4.039,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-anderstorp,Swedish Grand Prix,,,,,,2,80,7020716,4.0,3,3,7,Finished,+14.667,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-anderstorp,Swedish Grand Prix,,,,,,5,80,7024117,3.0,4,4,7,Finished,+18.068,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-anderstorp,Swedish Grand Prix,,,,,,3,80,7032047,2.0,5,5,7,Finished,+25.998,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1973-anderstorp,Swedish Grand Prix,,,,,,8,79,,1.0,6,6,7,+1 Lap,,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-anderstorp,Swedish Grand Prix,,,,,,7,79,,0.0,7,7,7,+1 Lap,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-anderstorp,Swedish Grand Prix,,,,,,21,78,,0.0,8,8,7,+2 Laps,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-anderstorp,Swedish Grand Prix,,,,,,12,77,,0.0,9,9,7,+3 Laps,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-anderstorp,Swedish Grand Prix,,,,,,16,77,,0.0,10,10,7,+3 Laps,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-anderstorp,Swedish Grand Prix,,,,,,11,77,,0.0,11,11,7,+3 Laps,,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-anderstorp,Swedish Grand Prix,,,,,,4,76,,0.0,12,12,7,Gearbox,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-anderstorp,Swedish Grand Prix,,,,,,15,75,,0.0,13,13,7,+5 Laps,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-anderstorp,Swedish Grand Prix,,,,,,19,74,,0.0,14,14,7,+6 Laps,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-anderstorp,Swedish Grand Prix,,,,,,9,57,,0.0,15,R,7,Engine,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-anderstorp,Swedish Grand Prix,,,,,,17,50,,0.0,16,R,7,Suspension,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-anderstorp,Swedish Grand Prix,,,,,,10,41,,0.0,17,R,7,Tyre,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,14,1973-anderstorp,Swedish Grand Prix,,,,,,20,38,,0.0,18,R,7,Throttle,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-anderstorp,Swedish Grand Prix,,,,,,18,16,,0.0,19,R,7,Ignition,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-anderstorp,Swedish Grand Prix,,,,,,12,0,,0.0,20,R,7,Accident,,1973
+March,march,British,,wisell,Reine Wisell,Swedish,27,1973-anderstorp,Swedish Grand Prix,,,,,,14,0,,0.0,21,R,7,Suspension,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-le-castellet,French Grand Prix,,,,,,5,54,6096520,9.0,1,1,8,Finished,1:41:36.520,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-le-castellet,French Grand Prix,,,,,,4,54,6137440,6.0,2,2,8,Finished,+40.920,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-le-castellet,French Grand Prix,,,,,,8,54,6143000,4.0,3,3,8,Finished,+46.480,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-le-castellet,French Grand Prix,,,,,,1,54,6143450,3.0,4,4,8,Finished,+46.930,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1973-le-castellet,French Grand Prix,,,,,,12,54,6145420,2.0,5,5,8,Finished,+48.900,1973
+March,march,British,,hunt,James Hunt,British,27,1973-le-castellet,French Grand Prix,,,,,,14,54,6179060,1.0,6,6,8,Finished,+1:22.540,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,4,1973-le-castellet,French Grand Prix,,,,,,10,54,6185710,0.0,7,7,8,Finished,+1:29.190,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-le-castellet,French Grand Prix,,,,,,6,54,6186050,0.0,8,8,8,Finished,+1:29.530,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-le-castellet,French Grand Prix,,,,,,17,54,6202280,0.0,9,9,8,Finished,+1:45.760,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-le-castellet,French Grand Prix,,,,,,16,53,,0.0,10,10,8,+1 Lap,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-le-castellet,French Grand Prix,,,,,,15,53,,0.0,11,11,8,+1 Lap,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-le-castellet,French Grand Prix,,,,,,9,53,,0.0,12,12,8,+1 Lap,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-le-castellet,French Grand Prix,,,,,,18,51,,0.0,13,13,8,+3 Laps,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-le-castellet,French Grand Prix,,,,,,24,51,,0.0,14,14,8,+3 Laps,,1973
+Ensign,ensign,British,,opel,Rikky von Opel,Liechtensteiner,29,1973-le-castellet,French Grand Prix,,,,,,25,51,,0.0,15,15,8,+3 Laps,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-le-castellet,French Grand Prix,,,,,,19,50,,0.0,16,16,8,+4 Laps,,1973
+McLaren,mclaren,British,,scheckter,Jody Scheckter,South African,8,1973-le-castellet,French Grand Prix,,,,,,2,43,,0.0,17,R,8,Accident,,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-le-castellet,French Grand Prix,,,,,,3,41,,0.0,18,R,8,Accident,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-le-castellet,French Grand Prix,,,,,,11,29,,0.0,19,R,8,Oil leak,,1973
+Brabham,brabham,British,,adamich,Andrea de Adamich,Italian,9,1973-le-castellet,French Grand Prix,,,,,,13,28,,0.0,20,R,8,Halfshaft,,1973
+March,march,British,,wisell,Reine Wisell,Swedish,15,1973-le-castellet,French Grand Prix,,,,,,22,20,,0.0,21,R,8,Overheating,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-le-castellet,French Grand Prix,,,,,,20,16,,0.0,22,R,8,Fuel system,,1973
+Iso Marlboro,iso_marlboro,British,,pescarolo,Henri Pescarolo,French,26,1973-le-castellet,French Grand Prix,,,,,,23,16,,0.0,23,R,8,Overheating,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,14,1973-le-castellet,French Grand Prix,,,,,,7,7,,0.0,24,R,8,Halfshaft,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-le-castellet,French Grand Prix,,,,,,21,0,,0.0,25,R,8,Clutch,,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-silverstone,British Grand Prix,,,,,,3,67,5358500,9.0,1,1,9,Finished,1:29:18.500,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-silverstone,British Grand Prix,,,,,,1,67,5361300,6.0,2,2,9,Finished,+2.800,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-silverstone,British Grand Prix,,,,,,2,67,5361500,4.0,3,3,9,Finished,+3.000,1973
+March,march,British,,hunt,James Hunt,British,27,1973-silverstone,British Grand Prix,,,,,,11,67,5361900,3.0,4,4,9,Finished,+3.400,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-silverstone,British Grand Prix,,,,,,7,67,5395100,2.0,5,5,9,Finished,+36.600,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-silverstone,British Grand Prix,,,,,,8,67,5403200,1.0,6,6,9,Finished,+44.700,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-silverstone,British Grand Prix,,,,,,10,67,5430200,0.0,7,7,9,Finished,+1:11.700,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1973-silverstone,British Grand Prix,,,,,,19,67,5435900,0.0,8,8,9,Finished,+1:17.400,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-silverstone,British Grand Prix,,,,,,18,66,,0.0,9,9,9,+1 Lap,,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-silverstone,British Grand Prix,,,,,,4,66,,0.0,10,10,9,+1 Lap,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-silverstone,British Grand Prix,,,,,,24,65,,0.0,11,11,9,+2 Laps,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-silverstone,British Grand Prix,,,,,,9,63,,0.0,12,12,9,+4 Laps,,1973
+Ensign,ensign,British,,opel,Rikky von Opel,Liechtensteiner,28,1973-silverstone,British Grand Prix,,,,,,21,61,,0.0,13,13,9,+6 Laps,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-silverstone,British Grand Prix,,,,,,13,44,,0.0,14,R,9,Oil leak,,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-silverstone,British Grand Prix,,,,,,5,36,,0.0,15,R,9,Transmission,,1973
+Brabham,brabham,British,,watson,John Watson,British,29,1973-silverstone,British Grand Prix,,,,,,23,36,,0.0,16,R,9,Fuel system,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-silverstone,British Grand Prix,,,,,,27,24,,0.0,17,R,9,Chassis,,1973
+Tecno,tecno,Italian,,amon,Chris Amon,New Zealander,22,1973-silverstone,British Grand Prix,,,,,,29,6,,0.0,18,R,9,Fuel system,,1973
+McLaren,mclaren,British,,scheckter,Jody Scheckter,South African,30,1973-silverstone,British Grand Prix,,,,,,6,0,,0.0,19,R,9,Collision,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-silverstone,British Grand Prix,,,,,,12,0,,0.0,20,R,9,Collision,,1973
+Surtees,surtees,British,,mass,Jochen Mass,German,31,1973-silverstone,British Grand Prix,,,,,,14,0,,0.0,21,R,9,Collision,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-silverstone,British Grand Prix,,,,,,15,0,,0.0,22,R,9,Collision,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-silverstone,British Grand Prix,,,,,,17,0,,0.0,23,R,9,Collision,,1973
+Brabham,brabham,British,,adamich,Andrea de Adamich,Italian,9,1973-silverstone,British Grand Prix,,,,,,20,0,,0.0,24,R,9,Collision,,1973
+March,march,British,,williamson,Roger Williamson,British,14,1973-silverstone,British Grand Prix,,,,,,22,0,,0.0,25,R,9,Collision,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-silverstone,British Grand Prix,,,,,,25,0,,0.0,26,R,9,Collision,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-silverstone,British Grand Prix,,,,,,26,0,,0.0,27,R,9,Collision,,1973
+Iso Marlboro,iso_marlboro,British,,mcrae,Graham McRae,New Zealander,26,1973-silverstone,British Grand Prix,,,,,,28,0,,0.0,28,R,9,Throttle,,1973
+March,march,British,,purley,David Purley,British,18,1973-silverstone,British Grand Prix,,,,,,16,0,,0.0,29,R,9,Spun off,,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-zandvoort,Dutch Grand Prix,,,,,,2,72,5952450,9.0,1,1,10,Finished,1:39:12.450,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-zandvoort,Dutch Grand Prix,,,,,,3,72,5968280,6.0,2,2,10,Finished,+15.830,1973
+March,march,British,,hunt,James Hunt,British,27,1973-zandvoort,Dutch Grand Prix,,,,,,7,72,6015460,4.0,3,3,10,Finished,+1:03.010,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-zandvoort,Dutch Grand Prix,,,,,,6,72,6021580,3.0,4,4,10,Finished,+1:09.130,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-zandvoort,Dutch Grand Prix,,,,,,9,72,6025820,2.0,5,5,10,Finished,+1:13.370,1973
+Iso Marlboro,iso_marlboro,British,,lennep,Gijs van Lennep,Dutch,26,1973-zandvoort,Dutch Grand Prix,,,,,,20,70,,1.0,6,6,10,+2 Laps,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-zandvoort,Dutch Grand Prix,,,,,,8,69,,0.0,7,7,10,+3 Laps,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-zandvoort,Dutch Grand Prix,,,,,,12,68,,0.0,8,8,10,+4 Laps,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-zandvoort,Dutch Grand Prix,,,,,,15,68,,0.0,9,9,10,+4 Laps,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-zandvoort,Dutch Grand Prix,,,,,,22,67,,0.0,10,10,10,+5 Laps,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-zandvoort,Dutch Grand Prix,,,,,,1,66,,0.0,11,11,10,Engine,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-zandvoort,Dutch Grand Prix,,,,,,17,56,,0.0,12,R,10,Not classified,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-zandvoort,Dutch Grand Prix,,,,,,11,52,,0.0,13,R,10,Fuel pump,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-zandvoort,Dutch Grand Prix,,,,,,24,52,,0.0,14,R,10,Electrical,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-zandvoort,Dutch Grand Prix,,,,,,4,31,,0.0,15,R,10,Engine,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-zandvoort,Dutch Grand Prix,,,,,,13,27,,0.0,16,R,10,Accident,,1973
+Tecno,tecno,Italian,,amon,Chris Amon,New Zealander,22,1973-zandvoort,Dutch Grand Prix,,,,,,19,22,,0.0,17,R,10,Fuel system,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-zandvoort,Dutch Grand Prix,,,,,,5,9,,0.0,18,R,10,Tyre,,1973
+March,march,British,,purley,David Purley,British,18,1973-zandvoort,Dutch Grand Prix,,,,,,21,8,,0.0,19,W,10,Withdrew,,1973
+March,march,British,,williamson,Roger Williamson,British,14,1973-zandvoort,Dutch Grand Prix,,,,,,18,7,,0.0,20,R,10,Accident,,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-zandvoort,Dutch Grand Prix,,,,,,16,2,,0.0,21,R,10,Physical,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-zandvoort,Dutch Grand Prix,,,,,,23,2,,0.0,22,R,10,Electrical,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-zandvoort,Dutch Grand Prix,,,,,,10,1,,0.0,23,R,10,Accident,,1973
+Ensign,ensign,British,,opel,Rikky von Opel,Liechtensteiner,28,1973-zandvoort,Dutch Grand Prix,,,,,,14,0,,0.0,24,W,10,Withdrew,,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-n-rburg,German Grand Prix,,,,,,1,14,6123000,9.0,1,1,11,Finished,1:42,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-n-rburg,German Grand Prix,,,,,,3,14,6124600,6.0,2,2,11,Finished,+1.600,1973
+McLaren,mclaren,British,,ickx,Jacky Ickx,Belgian,30,1973-n-rburg,German Grand Prix,,,,,,4,14,6164200,4.0,3,3,11,Finished,+41.200,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-n-rburg,German Grand Prix,,,,,,11,14,6176800,3.0,4,4,11,Finished,+53.800,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-n-rburg,German Grand Prix,,,,,,13,14,6202900,2.0,5,5,11,Finished,+1:19.900,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-n-rburg,German Grand Prix,,,,,,14,14,6207300,1.0,6,6,11,Finished,+1:24.300,1973
+Surtees,surtees,British,,mass,Jochen Mass,German,31,1973-n-rburg,German Grand Prix,,,,,,15,14,6208200,0.0,7,7,11,Finished,+1:25.200,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-n-rburg,German Grand Prix,,,,,,17,14,6208700,0.0,8,8,11,Finished,+1:25.700,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-n-rburg,German Grand Prix,,,,,,7,14,6254800,0.0,9,9,11,Finished,+2:11.800,1973
+Iso Marlboro,iso_marlboro,British,,pescarolo,Henri Pescarolo,French,26,1973-n-rburg,German Grand Prix,,,,,,12,14,6265500,0.0,10,10,11,Finished,+2:22.500,1973
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,9,1973-n-rburg,German Grand Prix,,,,,,16,14,6330300,0.0,11,11,11,Finished,+3:27.300,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-n-rburg,German Grand Prix,,,,,,8,14,6341700,0.0,12,12,11,Finished,+3:38.700,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-n-rburg,German Grand Prix,,,,,,20,14,6352000,0.0,13,13,11,Finished,+3:49.000,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-n-rburg,German Grand Prix,,,,,,18,13,,0.0,14,14,11,+1 Lap,,1973
+March,march,British,,purley,David Purley,British,18,1973-n-rburg,German Grand Prix,,,,,,22,13,,0.0,15,15,11,+1 Lap,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-n-rburg,German Grand Prix,,,,,,19,13,,0.0,16,16,11,+1 Lap,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-n-rburg,German Grand Prix,,,,,,6,7,,0.0,17,R,11,Engine,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-n-rburg,German Grand Prix,,,,,,10,7,,0.0,18,R,11,Engine,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-n-rburg,German Grand Prix,,,,,,21,5,,0.0,19,R,11,Accident,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-n-rburg,German Grand Prix,,,,,,9,4,,0.0,20,R,11,Gearbox,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-n-rburg,German Grand Prix,,,,,,5,1,,0.0,21,R,11,Accident,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-n-rburg,German Grand Prix,,,,,,2,0,,0.0,22,R,11,Ignition,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-spielberg,Austrian Grand Prix,,,,,,2,54,5328780,9.0,1,1,12,Finished,1:28:48.780,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-spielberg,Austrian Grand Prix,,,,,,7,54,5337790,6.0,2,2,12,Finished,+9.010,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-spielberg,Austrian Grand Prix,,,,,,8,54,5375420,4.0,3,3,12,Finished,+46.640,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-spielberg,Austrian Grand Prix,,,,,,5,54,5376690,3.0,4,4,12,Finished,+47.910,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-spielberg,Austrian Grand Prix,,,,,,13,54,5410080,2.0,5,5,12,Finished,+1:21.300,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-spielberg,Austrian Grand Prix,,,,,,14,54,5427180,1.0,6,6,12,Finished,+1:38.400,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,4,1973-spielberg,Austrian Grand Prix,,,,,,6,53,,0.0,7,7,12,+1 Lap,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-spielberg,Austrian Grand Prix,,,,,,3,53,,0.0,8,8,12,+1 Lap,,1973
+Iso Marlboro,iso_marlboro,British,,lennep,Gijs van Lennep,Dutch,26,1973-spielberg,Austrian Grand Prix,,,,,,23,52,,0.0,9,9,12,+2 Laps,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-spielberg,Austrian Grand Prix,,,,,,15,49,,0.0,10,10,12,+5 Laps,,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-spielberg,Austrian Grand Prix,,,,,,1,48,,0.0,11,R,12,Fuel system,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-spielberg,Austrian Grand Prix,,,,,,21,44,,0.0,12,R,12,Not classified,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,18,1973-spielberg,Austrian Grand Prix,,,,,,12,37,,0.0,13,R,12,Engine,,1973
+Ensign,ensign,British,,opel,Rikky von Opel,Liechtensteiner,28,1973-spielberg,Austrian Grand Prix,,,,,,19,34,,0.0,14,R,12,Fuel system,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-spielberg,Austrian Grand Prix,,,,,,16,31,,0.0,15,R,12,Fuel system,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-spielberg,Austrian Grand Prix,,,,,,22,28,,0.0,16,R,12,Suspension,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-spielberg,Austrian Grand Prix,,,,,,20,23,,0.0,17,R,12,Differential,,1973
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,9,1973-spielberg,Austrian Grand Prix,,,,,,17,21,,0.0,18,R,12,Wheel,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-spielberg,Austrian Grand Prix,,,,,,18,9,,0.0,19,R,12,Fuel system,,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-spielberg,Austrian Grand Prix,,,,,,10,6,,0.0,20,R,12,Suspension,,1973
+March,march,British,,hunt,James Hunt,British,27,1973-spielberg,Austrian Grand Prix,,,,,,9,3,,0.0,21,R,12,Injection,,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-spielberg,Austrian Grand Prix,,,,,,4,0,,0.0,22,R,12,Clutch,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-spielberg,Austrian Grand Prix,,,,,,11,0,,0.0,23,R,12,Collision,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-monza,Italian Grand Prix,,,,,,1,55,5357000,9.0,1,1,13,Finished,1:29,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-monza,Italian Grand Prix,,,,,,4,55,5357800,6.0,2,2,13,Finished,+0.800,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-monza,Italian Grand Prix,,,,,,2,55,5385800,4.0,3,3,13,Finished,+28.800,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-monza,Italian Grand Prix,,,,,,6,55,5390200,3.0,4,4,13,Finished,+33.200,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-monza,Italian Grand Prix,,,,,,11,55,5403200,2.0,5,5,13,Finished,+46.200,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-monza,Italian Grand Prix,,,,,,10,55,5416800,1.0,6,6,13,Finished,+59.800,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-monza,Italian Grand Prix,,,,,,8,55,5445700,0.0,7,7,13,Finished,+1:28.700,1973
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1973-monza,Italian Grand Prix,,,,,,14,54,,0.0,8,8,13,+1 Lap,,1973
+March,march,British,,purley,David Purley,British,29,1973-monza,Italian Grand Prix,,,,,,24,54,,0.0,9,9,13,+1 Lap,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-monza,Italian Grand Prix,,,,,,21,54,,0.0,10,10,13,+1 Lap,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-monza,Italian Grand Prix,,,,,,19,54,,0.0,11,11,13,+1 Lap,,1973
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,9,1973-monza,Italian Grand Prix,,,,,,9,54,,0.0,12,12,13,+1 Lap,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-monza,Italian Grand Prix,,,,,,13,54,,0.0,13,13,13,+1 Lap,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-monza,Italian Grand Prix,,,,,,22,54,,0.0,14,14,13,+1 Lap,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-monza,Italian Grand Prix,,,,,,3,53,,0.0,15,15,13,+2 Laps,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-monza,Italian Grand Prix,,,,,,20,44,,0.0,16,R,13,Not classified,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-monza,Italian Grand Prix,,,,,,12,34,,0.0,17,R,13,Gearbox,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-monza,Italian Grand Prix,,,,,,15,33,,0.0,18,R,13,Accident,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-monza,Italian Grand Prix,,,,,,18,30,,0.0,19,R,13,Ignition,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-monza,Italian Grand Prix,,,,,,5,17,,0.0,20,R,13,Tyre,,1973
+Iso Marlboro,iso_marlboro,British,,lennep,Gijs van Lennep,Dutch,26,1973-monza,Italian Grand Prix,,,,,,23,14,,0.0,21,R,13,Overheating,,1973
+Ensign,ensign,British,,opel,Rikky von Opel,Liechtensteiner,28,1973-monza,Italian Grand Prix,,,,,,17,10,,0.0,22,R,13,Overheating,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-monza,Italian Grand Prix,,,,,,16,6,,0.0,23,R,13,Brakes,,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,4,1973-monza,Italian Grand Prix,,,,,,7,2,,0.0,24,R,13,Suspension,,1973
+March,march,British,,hunt,James Hunt,British,27,1973-monza,Italian Grand Prix,,,,,,0,0,,0.0,25,W,13,Accident,,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-ontario,Canadian Grand Prix,,,,,,2,80,7144083,9.0,1,1,14,Finished,1:59:04.083,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-ontario,Canadian Grand Prix,,,,,,5,80,7176817,6.0,2,2,14,Finished,+32.734,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-ontario,Canadian Grand Prix,,,,,,14,80,7178588,4.0,3,3,14,Finished,+34.505,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-ontario,Canadian Grand Prix,,,,,,16,80,7180597,3.0,4,4,14,Finished,+36.514,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-ontario,Canadian Grand Prix,,,,,,9,79,,2.0,5,5,14,+1 Lap,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-ontario,Canadian Grand Prix,,,,,,22,79,,1.0,6,6,14,+1 Lap,,1973
+March,march,British,,hunt,James Hunt,British,27,1973-ontario,Canadian Grand Prix,,,,,,15,78,,0.0,7,7,14,+2 Laps,,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-ontario,Canadian Grand Prix,,,,,,4,78,,0.0,8,8,14,+2 Laps,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-ontario,Canadian Grand Prix,,,,,,12,78,,0.0,9,9,14,+2 Laps,,1973
+Tyrrell,tyrrell,British,,amon,Chris Amon,New Zealander,29,1973-ontario,Canadian Grand Prix,,,,,,11,77,,0.0,10,10,14,+3 Laps,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-ontario,Canadian Grand Prix,,,,,,10,77,,0.0,11,11,14,+3 Laps,,1973
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,9,1973-ontario,Canadian Grand Prix,,,,,,18,76,,0.0,12,12,14,+4 Laps,,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-ontario,Canadian Grand Prix,,,,,,7,75,,0.0,13,13,14,+5 Laps,,1973
+Iso Marlboro,iso_marlboro,British,,schenken,Tim Schenken,Australian,26,1973-ontario,Canadian Grand Prix,,,,,,24,75,,0.0,14,14,14,+5 Laps,,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,4,1973-ontario,Canadian Grand Prix,,,,,,20,75,,0.0,15,15,14,+5 Laps,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-ontario,Canadian Grand Prix,,,,,,17,73,,0.0,16,16,14,+7 Laps,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-ontario,Canadian Grand Prix,,,,,,13,73,,0.0,17,17,14,+7 Laps,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-ontario,Canadian Grand Prix,,,,,,19,72,,0.0,18,18,14,+8 Laps,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,18,1973-ontario,Canadian Grand Prix,,,,,,23,71,,0.0,19,R,14,Not classified,,1973
+Ensign,ensign,British,,opel,Rikky von Opel,Liechtensteiner,28,1973-ontario,Canadian Grand Prix,,,,,,26,68,,0.0,20,R,14,Not classified,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-ontario,Canadian Grand Prix,,,,,,8,62,,0.0,21,R,14,Transmission,,1973
+McLaren,mclaren,British,,scheckter,Jody Scheckter,South African,0,1973-ontario,Canadian Grand Prix,,,,,,3,32,,0.0,22,R,14,Accident,,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-ontario,Canadian Grand Prix,,,,,,6,32,,0.0,23,R,14,Accident,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-ontario,Canadian Grand Prix,,,,,,21,20,,0.0,24,R,14,Engine,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-ontario,Canadian Grand Prix,,,,,,1,16,,0.0,25,R,14,Suspension,,1973
+BRM,brm,British,,gethin,Peter Gethin,British,19,1973-ontario,Canadian Grand Prix,,,,,,25,5,,0.0,26,R,14,Oil pump,,1973
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,2,1973-new-york-state,United States Grand Prix,,,,,,1,59,6075779,9.0,1,1,15,Finished,1:41:15.779,1973
+March,march,British,,hunt,James Hunt,British,27,1973-new-york-state,United States Grand Prix,,,,,,4,59,6076447,6.0,2,2,15,Finished,+0.668,1973
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,10,1973-new-york-state,United States Grand Prix,,,,,,2,59,6098709,4.0,3,3,15,Finished,+22.930,1973
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1973-new-york-state,United States Grand Prix,,,,,,8,59,6126005,3.0,4,4,15,Finished,+50.226,1973
+McLaren,mclaren,British,,revson,Peter Revson,American,8,1973-new-york-state,United States Grand Prix,,,,,,7,59,6156146,2.0,5,5,15,Finished,+1:20.367,1973
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1973-new-york-state,United States Grand Prix,,,,,,3,59,6183724,1.0,6,6,15,Finished,+1:47.945,1973
+Iso Marlboro,iso_marlboro,British,,ickx,Jacky Ickx,Belgian,26,1973-new-york-state,United States Grand Prix,,,,,,23,58,,0.0,7,7,15,+1 Lap,,1973
+BRM,brm,British,,regazzoni,Clay Regazzoni,Swiss,19,1973-new-york-state,United States Grand Prix,,,,,,15,58,,0.0,8,8,15,+1 Lap,,1973
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,20,1973-new-york-state,United States Grand Prix,,,,,,14,58,,0.0,9,9,15,+1 Lap,,1973
+March,march,British,,beuttler,Mike Beuttler,British,15,1973-new-york-state,United States Grand Prix,,,,,,26,58,,0.0,10,10,15,+1 Lap,,1973
+March,march,British,,jarier,Jean-Pierre Jarier,French,18,1973-new-york-state,United States Grand Prix,,,,,,17,57,,0.0,11,11,15,Accident,,1973
+Iso Marlboro,iso_marlboro,British,,ganley,Howden Ganley,New Zealander,25,1973-new-york-state,United States Grand Prix,,,,,,19,57,,0.0,12,12,15,+2 Laps,,1973
+Shadow,shadow,British,,hill,Graham Hill,British,12,1973-new-york-state,United States Grand Prix,,,,,,18,57,,0.0,13,13,15,+2 Laps,,1973
+Shadow,shadow,British,,follmer,George Follmer,American,16,1973-new-york-state,United States Grand Prix,,,,,,20,57,,0.0,14,14,15,+2 Laps,,1973
+Shadow,shadow,British,,oliver,Jackie Oliver,British,17,1973-new-york-state,United States Grand Prix,,,,,,22,55,,0.0,15,15,15,+4 Laps,,1973
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,4,1973-new-york-state,United States Grand Prix,,,,,,11,55,,0.0,16,16,15,+4 Laps,,1973
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,11,1973-new-york-state,United States Grand Prix,,,,,,25,52,,0.0,17,R,15,Not classified,,1973
+McLaren,mclaren,British,,scheckter,Jody Scheckter,South African,0,1973-new-york-state,United States Grand Prix,,,,,,10,39,,0.0,18,R,15,Suspension,,1973
+Surtees,surtees,British,,mass,Jochen Mass,German,30,1973-new-york-state,United States Grand Prix,,,,,,16,35,,0.0,19,R,15,Engine,,1973
+BRM,brm,British,,lauda,Niki Lauda,Austrian,21,1973-new-york-state,United States Grand Prix,,,,,,21,35,,0.0,20,R,15,Fuel pump,,1973
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1973-new-york-state,United States Grand Prix,,,,,,6,34,,0.0,21,R,15,Suspension,,1973
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,24,1973-new-york-state,United States Grand Prix,,,,,,9,32,,0.0,22,R,15,Suspension,,1973
+Brabham,brabham,British,,watson,John Watson,British,9,1973-new-york-state,United States Grand Prix,,,,,,24,7,,0.0,23,R,15,Engine,,1973
+Shadow,shadow,British,,redman,Brian Redman,British,31,1973-new-york-state,United States Grand Prix,,,,,,13,5,,0.0,24,D,15,Disqualified,,1973
+Ensign,ensign,British,,opel,Rikky von Opel,Liechtensteiner,28,1973-new-york-state,United States Grand Prix,,,,,,27,0,,0.0,25,R,15,Throttle,,1973
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1973-new-york-state,United States Grand Prix,,,,,,5,0,,0.0,26,W,15,Withdrew,,1973
+Tyrrell,tyrrell,British,,amon,Chris Amon,New Zealander,29,1973-new-york-state,United States Grand Prix,,,,,,12,0,,0.0,27,W,15,Withdrew,,1973
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1973-new-york-state,United States Grand Prix,,,,,,0,0,,0.0,28,W,15,Accident,,1973

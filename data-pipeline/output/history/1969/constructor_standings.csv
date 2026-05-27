@@ -1,0 +1,12 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Matra-Ford,matra-ford,French,https://en.wikipedia.org/wiki/Matra,66.0,1,1,6,1969
+Brabham-Ford,brabham-ford,British,https://en.wikipedia.org/wiki/Brabham,51.0,2,2,2,1969
+Lotus-Ford,lotus-ford,British,https://en.wikipedia.org/wiki/Team_Lotus,47.0,3,3,2,1969
+McLaren-Ford,mclaren-ford,British,https://en.wikipedia.org/wiki/McLaren,38.0,4,4,1,1969
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,7.0,5,5,0,1969
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,7.0,6,6,0,1969
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1969
+Brabham-Repco,brabham-repco,British,https://en.wikipedia.org/wiki/Brabham,0.0,,-,0,1969
+BRM-Ford,brm-ford,British,https://en.wikipedia.org/wiki/British_Racing_Motors,0.0,,-,0,1969
+Eagle-Climax,eagle-climax,American,https://en.wikipedia.org/wiki/All_American_Racers,0.0,,-,0,1969
+Brabham-Climax,brabham-climax,British,https://en.wikipedia.org/wiki/Brabham,0.0,,-,0,1969

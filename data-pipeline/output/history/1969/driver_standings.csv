@@ -1,0 +1,32 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""matra-ford""]","[""Matra-Ford""]",,stewart,Jackie Stewart,British,,63.0,1,1,6,1969
+"[""brabham-ford""]","[""Brabham-Ford""]",,ickx,Jacky Ickx,Belgian,,37.0,2,2,2,1969
+"[""mclaren-ford""]","[""McLaren-Ford""]",,mclaren,Bruce McLaren,New Zealander,,26.0,3,3,0,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,rindt,Jochen Rindt,Austrian,,22.0,4,4,1,1969
+"[""matra-ford"", ""mclaren-ford""]","[""Matra-Ford"", ""McLaren-Ford""]",,beltoise,Jean-Pierre Beltoise,French,,21.0,5,5,0,1969
+"[""mclaren-ford""]","[""McLaren-Ford""]",,hulme,Denny Hulme,New Zealander,,20.0,6,6,1,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,hill,Graham Hill,British,,19.0,7,7,1,1969
+"[""brabham-ford""]","[""Brabham-Ford""]",,courage,Piers Courage,British,,16.0,8,8,0,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,siffert,Jo Siffert,Swiss,,15.0,9,9,0,1969
+"[""brabham-ford""]","[""Brabham-Ford""]",,jack_brabham,Jack Brabham,Australian,,14.0,10,10,0,1969
+"[""brm""]","[""BRM""]",,surtees,John Surtees,British,,6.0,11,11,0,1969
+"[""ferrari""]","[""Ferrari""]",,amon,Chris Amon,New Zealander,,4.0,12,12,0,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,attwood,Richard Attwood,British,,3.0,13,13,0,1969
+"[""cooper-maserati"", ""mclaren-ford""]","[""Cooper-Maserati"", ""McLaren-Ford""]",,elford,Vic Elford,British,,3.0,14,14,0,1969
+"[""brm"", ""ferrari""]","[""BRM"", ""Ferrari""]",,rodriguez,Pedro Rodríguez,Mexican,,3.0,15,15,0,1969
+"[""brabham-ford""]","[""Brabham-Ford""]",,moser,Silvio Moser,Swiss,,1.0,16,16,0,1969
+"[""brm"", ""brm-ford""]","[""BRM"", ""BRM-Ford""]",,oliver,Jackie Oliver,British,,1.0,17,17,0,1969
+"[""matra-ford""]","[""Matra-Ford""]",,gavin,Johnny Servoz-Gavin,French,,1.0,18,18,0,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,lovely,Pete Lovely,American,,0.0,,-,0,1969
+"[""brabham-repco""]","[""Brabham-Repco""]",,tingle,Sam Tingle,Rhodesian,,0.0,,-,0,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,miles,John Miles,British,,0.0,,-,0,1969
+"[""brm""]","[""BRM""]",,brack,Bill Brack,Canadian,,0.0,,-,0,1969
+"[""brabham-repco""]","[""Brabham-Repco""]",,klerk,Peter de Klerk,South African,,0.0,,-,0,1969
+"[""brm""]","[""BRM""]",,eaton,George Eaton,Canadian,,0.0,,-,0,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,bonnier,Jo Bonnier,Swedish,,0.0,,-,0,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,mario_andretti,Mario Andretti,American,,0.0,,-,0,1969
+"[""eagle-climax""]","[""Eagle-Climax""]",,pease,Al Pease,Canadian,,0.0,,-,0,1969
+"[""lotus-ford""]","[""Lotus-Ford""]",,love,John Love,Rhodesian,,0.0,,-,0,1969
+"[""mclaren-ford""]","[""McLaren-Ford""]",,bell,Derek Bell,British,,0.0,,-,0,1969
+"[""brabham-climax""]","[""Brabham-Climax""]",,cordts,John Cordts,Canadian,,0.0,,-,0,1969
+"[""mclaren-ford""]","[""McLaren-Ford""]",,rooyen,Basil van Rooyen,South African,,0.0,,-,0,1969

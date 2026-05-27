@@ -1,0 +1,216 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,16,1960-buenos-aires,Argentine Grand Prix,,,,,,13,80,8269500,8.0,1,1,1,Finished,2:17:49.500,1960
+Ferrari,ferrari,Italian,,allison,Cliff Allison,British,24,1960-buenos-aires,Argentine Grand Prix,,,,,,7,80,8295799,6.0,2,2,1,Finished,+26.300,1960
+Cooper-Climax,cooper-climax,British,,moss,Stirling Moss,British,38,1960-buenos-aires,Argentine Grand Prix,,,,,,8,80,8306400,0.0,3,3,1,Finished,+36.900,1960
+Cooper-Climax,cooper-climax,British,,trintignant,Maurice Trintignant,French,38,1960-buenos-aires,Argentine Grand Prix,,,,,,8,80,8306400,0.0,3,3,1,Finished,+36.900,1960
+Cooper-Maserati,cooper-maserati,British,,menditeguy,Carlos Menditeguy,Argentine,6,1960-buenos-aires,Argentine Grand Prix,,,,,,12,80,8322799,3.0,4,4,1,Finished,+53.300,1960
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,30,1960-buenos-aires,Argentine Grand Prix,,,,,,5,79,,2.0,5,5,1,+1 Lap,,1960
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,20,1960-buenos-aires,Argentine Grand Prix,,,,,,2,79,,1.0,6,6,1,+1 Lap,,1960
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,40,1960-buenos-aires,Argentine Grand Prix,,,,,,4,79,,0.0,7,7,1,+1 Lap,,1960
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,26,1960-buenos-aires,Argentine Grand Prix,,,,,,6,77,,0.0,8,8,1,+3 Laps,,1960
+Team Lotus,team_lotus,British,,larreta,Alberto Rodriguez Larreta,Argentine,46,1960-buenos-aires,Argentine Grand Prix,,,,,,15,77,,0.0,9,9,1,+3 Laps,,1960
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,32,1960-buenos-aires,Argentine Grand Prix,,,,,,11,77,,0.0,10,10,1,+3 Laps,,1960
+Cooper-Maserati,cooper-maserati,British,,bonomi,Roberto Bonomi,Argentine,4,1960-buenos-aires,Argentine Grand Prix,,,,,,17,76,,0.0,11,11,1,+4 Laps,,1960
+Behra-Porsche,behra-porsche,Italian,,gregory,Masten Gregory,American,2,1960-buenos-aires,Argentine Grand Prix,,,,,,16,76,,0.0,12,12,1,+4 Laps,,1960
+Maserati,maserati,Italian,,munaron,Gino Munaron,Italian,14,1960-buenos-aires,Argentine Grand Prix,,,,,,19,72,,0.0,13,13,1,+8 Laps,,1960
+Maserati,maserati,Italian,,estefano,Nasif Estéfano,Argentine,10,1960-buenos-aires,Argentine Grand Prix,,,,,,20,70,,0.0,14,14,1,+10 Laps,,1960
+Cooper-Climax,cooper-climax,British,,schell,Harry Schell,American,34,1960-buenos-aires,Argentine Grand Prix,,,,,,9,63,,0.0,15,R,1,Fuel pump,,1960
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,18,1960-buenos-aires,Argentine Grand Prix,,,,,,10,42,,0.0,16,R,1,Gearbox,,1960
+Cooper-Climax,cooper-climax,British,,moss,Stirling Moss,British,36,1960-buenos-aires,Argentine Grand Prix,,,,,,1,40,,0.0,17,R,1,Suspension,,1960
+BRM,brm,British,,hill,Graham Hill,British,42,1960-buenos-aires,Argentine Grand Prix,,,,,,3,37,,0.0,18,R,1,Overheating,,1960
+Team Lotus,team_lotus,British,,stacey,Alan Stacey,British,22,1960-buenos-aires,Argentine Grand Prix,,,,,,14,24,,0.0,19,R,1,Physical,,1960
+Maserati,maserati,Italian,,chimeri,Ettore Chimeri,Venezuelan,44,1960-buenos-aires,Argentine Grand Prix,,,,,,21,23,,0.0,20,R,1,Physical,,1960
+Maserati,maserati,Italian,,creus,Antonio Creus,Spanish,12,1960-buenos-aires,Argentine Grand Prix,,,,,,22,16,,0.0,21,R,1,Physical,,1960
+Maserati,maserati,Italian,,scarlatti,Giorgio Scarlatti,Italian,8,1960-buenos-aires,Argentine Grand Prix,,,,,,18,11,,0.0,22,R,1,Overheating,,1960
+Team Lotus,team_lotus,British,,moss,Stirling Moss,British,28,1960-monte-carlo,Monaco Grand Prix,,,,,,1,100,10425500,8.0,1,1,2,Finished,2:53:45.500,1960
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,10,1960-monte-carlo,Monaco Grand Prix,,,,,,11,100,10477600,6.0,2,2,2,Finished,+52.100,1960
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,36,1960-monte-carlo,Monaco Grand Prix,,,,,,10,100,10487400,4.0,3,3,2,Finished,+1:01.900,1960
+Cooper-Climax,cooper-climax,British,,brooks,Tony Brooks,British,18,1960-monte-carlo,Monaco Grand Prix,,,,,,3,99,,3.0,4,4,2,+1 Lap,,1960
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,2,1960-monte-carlo,Monaco Grand Prix,,,,,,5,83,,2.0,5,5,2,+17 Laps,,1960
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,34,1960-monte-carlo,Monaco Grand Prix,,,,,,9,70,,1.0,6,6,2,+30 Laps,,1960
+BRM,brm,British,,hill,Graham Hill,British,6,1960-monte-carlo,Monaco Grand Prix,,,,,,6,66,,0.0,7,7,2,Spun off,,1960
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,38,1960-monte-carlo,Monaco Grand Prix,,,,,,8,61,,0.0,8,8,2,Clutch,,1960
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,22,1960-monte-carlo,Monaco Grand Prix,,,,,,7,56,,0.0,9,9,2,+44 Laps,,1960
+BRM,brm,British,,gurney,Dan Gurney,American,4,1960-monte-carlo,Monaco Grand Prix,,,,,,14,44,,0.0,10,R,2,Suspension,,1960
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,8,1960-monte-carlo,Monaco Grand Prix,,,,,,2,40,,0.0,11,D,2,Disqualified,,1960
+Cooper-Climax,cooper-climax,British,,salvadori,Roy Salvadori,British,14,1960-monte-carlo,Monaco Grand Prix,,,,,,12,29,,0.0,12,R,2,Overheating,,1960
+Team Lotus,team_lotus,British,,stacey,Alan Stacey,British,24,1960-monte-carlo,Monaco Grand Prix,,,,,,13,23,,0.0,13,R,2,Chassis,,1960
+Cooper-Climax,cooper-climax,British,,bristow,Chris Bristow,British,16,1960-monte-carlo,Monaco Grand Prix,,,,,,4,17,,0.0,14,R,2,Gearbox,,1960
+Team Lotus,team_lotus,British,,surtees,John Surtees,British,26,1960-monte-carlo,Monaco Grand Prix,,,,,,15,17,,0.0,15,R,2,Transmission,,1960
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,44,1960-monte-carlo,Monaco Grand Prix,,,,,,16,4,,0.0,16,R,2,Gearbox,,1960
+Watson,watson,American,,rathmann,Jim Rathmann,American,4,1960-indianapolis,Indianapolis 500,,,,,,2,200,12971360,8.0,1,1,3,Finished,3:36:11.360,1960
+Watson,watson,American,,ward,Rodger Ward,American,1,1960-indianapolis,Indianapolis 500,,,,,,3,200,12984110,6.0,2,2,3,Finished,+12.750,1960
+Epperly,epperly,American,,goldsmith,Paul Goldsmith,American,99,1960-indianapolis,Indianapolis 500,,,,,,26,200,13158660,4.0,3,3,3,Finished,+3:07.300,1960
+Phillips,phillips,American,,branson,Don Branson,American,7,1960-indianapolis,Indianapolis 500,,,,,,8,200,13159340,3.0,4,4,3,Finished,+3:07.980,1960
+Lesovsky,lesovsky,American,,thomson,Johnny Thomson,American,3,1960-indianapolis,Indianapolis 500,,,,,,17,200,13162710,2.0,5,5,3,Finished,+3:11.350,1960
+Trevis,trevis,American,,johnson,Eddie Johnson,American,22,1960-indianapolis,Indianapolis 500,,,,,,7,200,13221970,1.0,6,6,3,Finished,+4:10.610,1960
+Watson,watson,American,,ruby,Lloyd Ruby,American,98,1960-indianapolis,Indianapolis 500,,,,,,12,200,13236950,0.0,7,7,3,Finished,+4:25.590,1960
+Meskowski,meskowski,American,,veith,Bob Veith,American,44,1960-indianapolis,Indianapolis 500,,,,,,25,200,13288840,0.0,8,8,3,Finished,+5:17.480,1960
+Trevis,trevis,American,,tingelstad,Bud Tingelstad,American,18,1960-indianapolis,Indianapolis 500,,,,,,28,200,13471270,0.0,9,9,3,Finished,+8:19.910,1960
+Kurtis Kraft,kurtis_kraft,American,,christie,Bob Christie,American,38,1960-indianapolis,Indianapolis 500,,,,,,14,200,13491640,0.0,10,10,3,Finished,+8:40.280,1960
+Epperly,epperly,American,,amick,Red Amick,American,27,1960-indianapolis,Indianapolis 500,,,,,,22,200,13641940,0.0,11,11,3,Finished,+11:10.580,1960
+Kuzma,kuzma,American,,darter,Duane Carter,American,17,1960-indianapolis,Indianapolis 500,,,,,,27,200,13648560,0.0,12,12,3,Finished,+11:17.200,1960
+Kuzma,kuzma,American,,homeier,Bill Homeier,American,39,1960-indianapolis,Indianapolis 500,,,,,,31,200,13702070,0.0,13,13,3,Finished,+12:10.710,1960
+Kurtis Kraft,kurtis_kraft,American,,hartley,Gene Hartley,American,48,1960-indianapolis,Indianapolis 500,,,,,,24,196,,0.0,14,14,3,+4 Laps,,1960
+Watson,watson,American,,stevenson,Chuck Stevenson,American,65,1960-indianapolis,Indianapolis 500,,,,,,9,196,,0.0,15,15,3,+4 Laps,,1960
+Meskowski,meskowski,American,,grim,Bobby Grim,American,14,1960-indianapolis,Indianapolis 500,,,,,,21,194,,0.0,16,16,3,+6 Laps,,1960
+Kurtis Kraft,kurtis_kraft,American,,templeman,Shorty Templeman,American,26,1960-indianapolis,Indianapolis 500,,,,,,19,191,,0.0,17,17,3,Clutch,,1960
+Christensen,vhristensen,American,,hurtubise,Jim Hurtubise,American,56,1960-indianapolis,Indianapolis 500,,,,,,23,185,,0.0,18,18,3,Engine,,1960
+Epperly,epperly,American,,bryan,Jimmy Bryan,American,10,1960-indianapolis,Indianapolis 500,,,,,,10,152,,0.0,19,19,3,Fuel system,,1960
+Watson,watson,American,,ruttman,Troy Ruttman,American,28,1960-indianapolis,Indianapolis 500,,,,,,6,134,,0.0,20,20,3,Axle,,1960
+Ewing,ewing,American,,sachs,Eddie Sachs,American,6,1960-indianapolis,Indianapolis 500,,,,,,1,132,,0.0,21,21,3,Magneto,,1960
+Kurtis Kraft,kurtis_kraft,American,,freeland,Don Freeland,American,73,1960-indianapolis,Indianapolis 500,,,,,,11,129,,0.0,22,22,3,Magneto,,1960
+Watson,watson,American,,bettenhausen,Tony Bettenhausen,American,2,1960-indianapolis,Indianapolis 500,,,,,,18,125,,0.0,23,23,3,Engine,,1960
+Epperly,epperly,American,,weiler,Wayne Weiler,American,32,1960-indianapolis,Indianapolis 500,,,,,,15,103,,0.0,24,24,3,Accident,,1960
+Kurtis Kraft,kurtis_kraft,American,,foyt,Anthony Foyt,American,5,1960-indianapolis,Indianapolis 500,,,,,,16,90,,0.0,25,25,3,Clutch,,1960
+Kurtis Kraft,kurtis_kraft,American,,russo,Eddie Russo,American,46,1960-indianapolis,Indianapolis 500,,,,,,29,90,,0.0,26,26,3,Accident,,1960
+Epperly,epperly,American,,boyd,Johnny Boyd,American,8,1960-indianapolis,Indianapolis 500,,,,,,13,77,,0.0,27,27,3,Engine,,1960
+Kurtis Kraft,kurtis_kraft,American,,force,Gene Force,American,37,1960-indianapolis,Indianapolis 500,,,,,,20,74,,0.0,28,28,3,Brakes,,1960
+Epperly,epperly,American,,mcwithey,Jim McWithey,American,16,1960-indianapolis,Indianapolis 500,,,,,,32,60,,0.0,29,29,3,Brakes,,1960
+Watson,watson,American,,sutton,Len Sutton,American,9,1960-indianapolis,Indianapolis 500,,,,,,5,47,,0.0,30,30,3,Engine,,1960
+Watson,watson,American,,dick_rathmann,Dick Rathmann,American,97,1960-indianapolis,Indianapolis 500,,,,,,4,42,,0.0,31,31,3,Brakes,,1960
+Ewing,ewing,American,,herman,Al Herman,American,76,1960-indianapolis,Indianapolis 500,,,,,,30,34,,0.0,32,32,3,Clutch,,1960
+Kurtis Kraft,kurtis_kraft,American,,dempsey_wilson,Dempsey Wilson,American,23,1960-indianapolis,Indianapolis 500,,,,,,33,11,,0.0,33,33,3,Magneto,,1960
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,11,1960-zandvoort,Dutch Grand Prix,,,,,,2,75,7307200,8.0,1,1,4,Finished,2:01:47.200,1960
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,4,1960-zandvoort,Dutch Grand Prix,,,,,,3,75,7331200,6.0,2,2,4,Finished,+24.000,1960
+BRM,brm,British,,hill,Graham Hill,British,16,1960-zandvoort,Dutch Grand Prix,,,,,,5,75,7363800,4.0,3,3,4,Finished,+56.600,1960
+Team Lotus,team_lotus,British,,moss,Stirling Moss,British,7,1960-zandvoort,Dutch Grand Prix,,,,,,1,75,7364900,3.0,4,4,4,Finished,+57.700,1960
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,2,1960-zandvoort,Dutch Grand Prix,,,,,,15,74,,2.0,5,5,4,+1 Lap,,1960
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,3,1960-zandvoort,Dutch Grand Prix,,,,,,12,74,,1.0,6,6,4,+1 Lap,,1960
+Cooper-Climax,cooper-climax,British,,henry_taylor,Henry Taylor,British,10,1960-zandvoort,Dutch Grand Prix,,,,,,14,78,,0.0,7,7,4,+5 Laps,,1960
+Cooper-Climax,cooper-climax,British,,beaufort,Carel Godin de Beaufort,Dutch,20,1960-zandvoort,Dutch Grand Prix,,,,,,18,69,,0.0,8,8,4,+6 Laps,,1960
+Team Lotus,team_lotus,British,,stacey,Alan Stacey,British,5,1960-zandvoort,Dutch Grand Prix,,,,,,8,57,,0.0,9,R,4,Transmission,,1960
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,14,1960-zandvoort,Dutch Grand Prix,,,,,,4,54,,0.0,10,R,4,Engine,,1960
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,1,1960-zandvoort,Dutch Grand Prix,,,,,,13,54,,0.0,11,R,4,Engine,,1960
+Team Lotus,team_lotus,British,,clark,Jim Clark,British,6,1960-zandvoort,Dutch Grand Prix,,,,,,11,42,,0.0,12,R,4,Transmission,,1960
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,18,1960-zandvoort,Dutch Grand Prix,,,,,,17,39,,0.0,13,R,4,Gearbox,,1960
+BRM,brm,British,,gurney,Dan Gurney,American,15,1960-zandvoort,Dutch Grand Prix,,,,,,6,11,,0.0,14,R,4,Accident,,1960
+Cooper-Climax,cooper-climax,British,,bristow,Chris Bristow,British,8,1960-zandvoort,Dutch Grand Prix,,,,,,7,9,,0.0,15,R,4,Engine,,1960
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,12,1960-zandvoort,Dutch Grand Prix,,,,,,9,8,,0.0,16,R,4,Transmission,,1960
+Cooper-Climax,cooper-climax,British,,brooks,Tony Brooks,British,9,1960-zandvoort,Dutch Grand Prix,,,,,,10,4,,0.0,17,R,4,Gearbox,,1960
+Aston Martin,aston_martin,British,,salvadori,Roy Salvadori,British,17,1960-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,18,W,4,Withdrew,,1960
+Cooper-Maserati,cooper-maserati,British,,gregory,Masten Gregory,American,19,1960-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,19,W,4,Withdrew,,1960
+Scarab,scarab,American,,reventlow,Lance Reventlow,American,21,1960-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,20,W,4,Withdrew,,1960
+Scarab,scarab,American,,daigh,Chuck Daigh,American,22,1960-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,21,W,4,Withdrew,,1960
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,2,1960-spa,Belgian Grand Prix,,,,,,1,36,8497300,8.0,1,1,5,Finished,2:21:37.300,1960
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,4,1960-spa,Belgian Grand Prix,,,,,,14,36,8560600,6.0,2,2,5,Finished,+1:03.300,1960
+Cooper-Climax,cooper-climax,British,,gendebien,Olivier Gendebien,Belgian,34,1960-spa,Belgian Grand Prix,,,,,,5,35,,4.0,3,3,5,+1 Lap,,1960
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,24,1960-spa,Belgian Grand Prix,,,,,,4,35,,3.0,4,4,5,+1 Lap,,1960
+Team Lotus,team_lotus,British,,clark,Jim Clark,British,18,1960-spa,Belgian Grand Prix,,,,,,10,34,,2.0,5,5,5,+2 Laps,,1960
+Cooper-Climax,cooper-climax,British,,bianchi,Lucien Bianchi,Belgian,32,1960-spa,Belgian Grand Prix,,,,,,15,28,,1.0,6,6,5,+8 Laps,,1960
+BRM,brm,British,,hill,Graham Hill,British,10,1960-spa,Belgian Grand Prix,,,,,,6,35,,0.0,7,R,5,Engine,,1960
+Team Lotus,team_lotus,British,,stacey,Alan Stacey,British,16,1960-spa,Belgian Grand Prix,,,,,,17,24,,0.0,8,R,5,Accident,,1960
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,22,1960-spa,Belgian Grand Prix,,,,,,13,23,,0.0,9,R,5,Transmission,,1960
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,26,1960-spa,Belgian Grand Prix,,,,,,11,22,,0.0,10,R,5,Transmission,,1960
+Cooper-Climax,cooper-climax,British,,bristow,Chris Bristow,British,36,1960-spa,Belgian Grand Prix,,,,,,9,19,,0.0,11,R,5,Accident,,1960
+Scarab,scarab,American,,daigh,Chuck Daigh,American,30,1960-spa,Belgian Grand Prix,,,,,,18,16,,0.0,12,R,5,Engine,,1960
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,6,1960-spa,Belgian Grand Prix,,,,,,7,14,,0.0,13,R,5,Engine,,1960
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,14,1960-spa,Belgian Grand Prix,,,,,,8,13,,0.0,14,R,5,Accident,,1960
+BRM,brm,British,,gurney,Dan Gurney,American,8,1960-spa,Belgian Grand Prix,,,,,,12,4,,0.0,15,R,5,Engine,,1960
+Cooper-Climax,cooper-climax,British,,brooks,Tony Brooks,British,38,1960-spa,Belgian Grand Prix,,,,,,2,2,,0.0,16,R,5,Gearbox,,1960
+Scarab,scarab,American,,reventlow,Lance Reventlow,American,28,1960-spa,Belgian Grand Prix,,,,,,16,1,,0.0,17,R,5,Engine,,1960
+Team Lotus,team_lotus,British,,moss,Stirling Moss,British,12,1960-spa,Belgian Grand Prix,,,,,,3,0,,0.0,18,W,5,Accident,,1960
+Team Lotus,team_lotus,British,,mike_taylor,Mike Taylor,British,20,1960-spa,Belgian Grand Prix,,,,,,19,0,,0.0,19,W,5,Accident,,1960
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,16,1960-reims,French Grand Prix,,,,,,1,50,7044900,8.0,1,1,6,Finished,1:57:24.900,1960
+Cooper-Climax,cooper-climax,British,,gendebien,Olivier Gendebien,Belgian,44,1960-reims,French Grand Prix,,,,,,9,50,7093200,6.0,2,2,6,Finished,+48.300,1960
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,18,1960-reims,French Grand Prix,,,,,,7,50,7096800,4.0,3,3,6,Finished,+51.900,1960
+Cooper-Climax,cooper-climax,British,,henry_taylor,Henry Taylor,British,46,1960-reims,French Grand Prix,,,,,,12,49,,3.0,4,4,6,+1 Lap,,1960
+Team Lotus,team_lotus,British,,clark,Jim Clark,British,24,1960-reims,French Grand Prix,,,,,,10,49,,2.0,5,5,6,+1 Lap,,1960
+Team Lotus,team_lotus,British,,flockhart,Ron Flockhart,British,22,1960-reims,French Grand Prix,,,,,,14,49,,1.0,6,6,6,+1 Lap,,1960
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,20,1960-reims,French Grand Prix,,,,,,4,43,,0.0,7,7,6,+7 Laps,,1960
+Cooper-Climax,cooper-climax,British,,halford,Bruce Halford,British,48,1960-reims,French Grand Prix,,,,,,15,40,,0.0,8,8,6,Engine,,1960
+Cooper-Maserati,cooper-maserati,British,,gregory,Masten Gregory,American,40,1960-reims,French Grand Prix,,,,,,17,37,,0.0,9,9,6,+13 Laps,,1960
+Cooper-Maserati,cooper-maserati,British,,burgess,Ian Burgess,British,42,1960-reims,French Grand Prix,,,,,,22,36,,0.0,10,10,6,+14 Laps,,1960
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,4,1960-reims,French Grand Prix,,,,,,5,30,,0.0,11,11,6,Transmission,,1960
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,2,1960-reims,French Grand Prix,,,,,,2,29,,0.0,12,12,6,Transmission,,1960
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,8,1960-reims,French Grand Prix,,,,,,8,22,,0.0,13,R,6,Engine,,1960
+Cooper-Climax,cooper-climax,British,,bianchi,Lucien Bianchi,Belgian,36,1960-reims,French Grand Prix,,,,,,15,18,,0.0,14,R,6,Transmission,,1960
+BRM,brm,British,,gurney,Dan Gurney,American,10,1960-reims,French Grand Prix,,,,,,6,17,,0.0,15,R,6,Engine,,1960
+Cooper-Castellotti,cooper-castellotti,British,,munaron,Gino Munaron,Italian,30,1960-reims,French Grand Prix,,,,,,19,16,,0.0,16,R,6,Transmission,,1960
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,6,1960-reims,French Grand Prix,,,,,,11,14,,0.0,17,R,6,Transmission,,1960
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,14,1960-reims,French Grand Prix,,,,,,13,7,,0.0,18,R,6,Vibrations,,1960
+BRM,brm,British,,hill,Graham Hill,British,12,1960-reims,French Grand Prix,,,,,,3,0,,0.0,19,R,6,Accident,,1960
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,38,1960-reims,French Grand Prix,,,,,,18,0,,0.0,20,R,6,Accident,,1960
+Scarab,scarab,American,,ginther,Richie Ginther,American,28,1960-reims,French Grand Prix,,,,,,20,0,,0.0,21,W,6,Engine,,1960
+Team Lotus,team_lotus,British,,piper,David Piper,British,34,1960-reims,French Grand Prix,,,,,,21,0,,0.0,22,W,6,Engine,,1960
+Scarab,scarab,American,,daigh,Chuck Daigh,American,26,1960-reims,French Grand Prix,,,,,,23,0,,0.0,23,W,6,Engine,,1960
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,1,1960-silverstone,British Grand Prix,,,,,,1,77,7464300,8.0,1,1,7,Finished,2:04:24.300,1960
+Team Lotus,team_lotus,British,,surtees,John Surtees,British,9,1960-silverstone,British Grand Prix,,,,,,11,77,7513900,6.0,2,2,7,Finished,+49.600,1960
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,7,1960-silverstone,British Grand Prix,,,,,,5,77,7553900,4.0,3,3,7,Finished,+1:29.600,1960
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,2,1960-silverstone,British Grand Prix,,,,,,3,76,,3.0,4,4,7,+1 Lap,,1960
+Cooper-Climax,cooper-climax,British,,brooks,Tony Brooks,British,12,1960-silverstone,British Grand Prix,,,,,,9,76,,2.0,5,5,7,+1 Lap,,1960
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,11,1960-silverstone,British Grand Prix,,,,,,7,75,,1.0,6,6,7,+2 Laps,,1960
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,10,1960-silverstone,British Grand Prix,,,,,,10,75,,0.0,7,7,7,+2 Laps,,1960
+Cooper-Climax,cooper-climax,British,,henry_taylor,Henry Taylor,British,15,1960-silverstone,British Grand Prix,,,,,,16,74,,0.0,8,8,7,+3 Laps,,1960
+Cooper-Climax,cooper-climax,British,,gendebien,Olivier Gendebien,Belgian,14,1960-silverstone,British Grand Prix,,,,,,12,74,,0.0,9,9,7,+3 Laps,,1960
+BRM,brm,British,,gurney,Dan Gurney,American,5,1960-silverstone,British Grand Prix,,,,,,6,74,,0.0,10,10,7,+3 Laps,,1960
+Aston Martin,aston_martin,British,,trintignant,Maurice Trintignant,French,19,1960-silverstone,British Grand Prix,,,,,,21,72,,0.0,11,11,7,+5 Laps,,1960
+Team Lotus,team_lotus,British,,piper,David Piper,British,26,1960-silverstone,British Grand Prix,,,,,,24,72,,0.0,12,12,7,+5 Laps,,1960
+JBW,jbw,British,,naylor,Brian Naylor,British,25,1960-silverstone,British Grand Prix,,,,,,18,72,,0.0,13,13,7,+5 Laps,,1960
+Cooper-Maserati,cooper-maserati,British,,gregory,Masten Gregory,American,16,1960-silverstone,British Grand Prix,,,,,,14,71,,0.0,14,14,7,+6 Laps,,1960
+Cooper-Castellotti,cooper-castellotti,British,,munaron,Gino Munaron,Italian,21,1960-silverstone,British Grand Prix,,,,,,25,70,,0.0,15,15,7,+7 Laps,,1960
+Team Lotus,team_lotus,British,,clark,Jim Clark,British,8,1960-silverstone,British Grand Prix,,,,,,8,70,,0.0,16,16,7,+7 Laps,,1960
+BRM,brm,British,,hill,Graham Hill,British,4,1960-silverstone,British Grand Prix,,,,,,2,71,,0.0,17,R,7,Spun off,,1960
+Cooper-Climax,cooper-climax,British,,bianchi,Lucien Bianchi,Belgian,24,1960-silverstone,British Grand Prix,,,,,,17,62,,0.0,18,R,7,Electrical,,1960
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,6,1960-silverstone,British Grand Prix,,,,,,4,59,,0.0,19,R,7,Suspension,,1960
+Cooper-Climax,cooper-climax,British,,daigh,Chuck Daigh,American,3,1960-silverstone,British Grand Prix,,,,,,19,58,,0.0,20,R,7,Overheating,,1960
+Cooper-Maserati,cooper-maserati,British,,burgess,Ian Burgess,British,17,1960-silverstone,British Grand Prix,,,,,,20,58,,0.0,21,R,7,Engine,,1960
+Aston Martin,aston_martin,British,,salvadori,Roy Salvadori,British,18,1960-silverstone,British Grand Prix,,,,,,13,46,,0.0,22,R,7,Steering,,1960
+Cooper-Climax,cooper-climax,British,,fairman,Jack Fairman,British,23,1960-silverstone,British Grand Prix,,,,,,15,46,,0.0,23,R,7,Fuel pump,,1960
+Cooper-Maserati,cooper-maserati,British,,greene,Keith Greene,British,22,1960-silverstone,British Grand Prix,,,,,,22,12,,0.0,24,R,7,Overheating,,1960
+Cooper-Climax,cooper-climax,British,,reventlow,Lance Reventlow,American,3,1960-silverstone,British Grand Prix,,,,,,0,0,,0.0,25,W,7,Withdrew,,1960
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,2,1960-oporto,Portuguese Grand Prix,,,,,,3,55,8340030,8.0,1,1,8,Finished,2:19:00.030,1960
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,4,1960-oporto,Portuguese Grand Prix,,,,,,6,55,8398000,6.0,2,2,8,Finished,+57.970,1960
+Team Lotus,team_lotus,British,,clark,Jim Clark,British,14,1960-oporto,Portuguese Grand Prix,,,,,,8,55,8453260,4.0,3,3,8,Finished,+1:53.230,1960
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,28,1960-oporto,Portuguese Grand Prix,,,,,,9,55,8458840,3.0,4,4,8,Finished,+1:58.810,1960
+Cooper-Climax,cooper-climax,British,,brooks,Tony Brooks,British,6,1960-oporto,Portuguese Grand Prix,,,,,,12,49,,2.0,5,5,8,+6 Laps,,1960
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,16,1960-oporto,Portuguese Grand Prix,,,,,,7,48,,1.0,6,6,8,+7 Laps,,1960
+Cooper-Climax,cooper-climax,British,,gendebien,Olivier Gendebien,Belgian,8,1960-oporto,Portuguese Grand Prix,,,,,,14,46,,0.0,7,7,8,+9 Laps,,1960
+Team Lotus,team_lotus,British,,moss,Stirling Moss,British,12,1960-oporto,Portuguese Grand Prix,,,,,,4,51,,0.0,8,D,8,Disqualified,,1960
+Cooper-Maserati,cooper-maserati,British,,cabral,Mário de Araújo Cabral,Portuguese,32,1960-oporto,Portuguese Grand Prix,,,,,,15,38,,0.0,9,R,8,Accident,,1960
+Team Lotus,team_lotus,British,,surtees,John Surtees,British,18,1960-oporto,Portuguese Grand Prix,,,,,,1,37,,0.0,10,R,8,Radiator,,1960
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,26,1960-oporto,Portuguese Grand Prix,,,,,,10,30,,0.0,11,R,8,Accident,,1960
+BRM,brm,British,,gurney,Dan Gurney,American,24,1960-oporto,Portuguese Grand Prix,,,,,,2,25,,0.0,12,R,8,Engine,,1960
+Cooper-Maserati,cooper-maserati,British,,gregory,Masten Gregory,American,30,1960-oporto,Portuguese Grand Prix,,,,,,11,21,,0.0,13,R,8,Gearbox,,1960
+BRM,brm,British,,hill,Graham Hill,British,22,1960-oporto,Portuguese Grand Prix,,,,,,5,9,,0.0,14,R,8,Gearbox,,1960
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,20,1960-oporto,Portuguese Grand Prix,,,,,,13,6,,0.0,15,R,8,Engine,,1960
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,20,1960-monza,Italian Grand Prix,,,,,,1,50,8469200,8.0,1,1,9,Finished,2:21:09.200,1960
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,18,1960-monza,Italian Grand Prix,,,,,,2,50,8616800,6.0,2,2,9,Finished,+2:27.600,1960
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,16,1960-monza,Italian Grand Prix,,,,,,3,49,,4.0,3,3,9,+1 Lap,,1960
+Cooper-Castellotti,cooper-castellotti,British,,cabianca,Giulio Cabianca,Italian,2,1960-monza,Italian Grand Prix,,,,,,4,48,,3.0,4,4,9,+2 Laps,,1960
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,22,1960-monza,Italian Grand Prix,,,,,,6,48,,2.0,5,5,9,+2 Laps,,1960
+Porsche,porsche,German,,herrmann,Hans Herrmann,German,26,1960-monza,Italian Grand Prix,,,,,,10,47,,1.0,6,6,9,+3 Laps,,1960
+Porsche,porsche,German,,barth,Edgar Barth,German,24,1960-monza,Italian Grand Prix,,,,,,12,47,,0.0,7,7,9,+3 Laps,,1960
+Cooper-Climax,cooper-climax,British,,drogo,Piero Drogo,Italian,12,1960-monza,Italian Grand Prix,,,,,,15,45,,0.0,8,8,9,+5 Laps,,1960
+Cooper-Climax,cooper-climax,British,,seidel,Wolfgang Seidel,German,10,1960-monza,Italian Grand Prix,,,,,,13,44,,0.0,9,9,9,+6 Laps,,1960
+Behra-Porsche,behra-porsche,Italian,,gamble,Fred Gamble,American,28,1960-monza,Italian Grand Prix,,,,,,14,41,,0.0,10,10,9,+9 Laps,,1960
+JBW,jbw,British,,naylor,Brian Naylor,British,6,1960-monza,Italian Grand Prix,,,,,,7,41,,0.0,11,R,9,Gearbox,,1960
+Cooper-Maserati,cooper-maserati,British,,thiele,Alfonso Thiele,Italian,34,1960-monza,Italian Grand Prix,,,,,,9,32,,0.0,12,R,9,Gearbox,,1960
+Cooper-Castellotti,cooper-castellotti,British,,munaron,Gino Munaron,Italian,4,1960-monza,Italian Grand Prix,,,,,,8,27,,0.0,13,R,9,Engine,,1960
+Cooper-Maserati,cooper-maserati,British,,scarlatti,Giorgio Scarlatti,Italian,36,1960-monza,Italian Grand Prix,,,,,,5,26,,0.0,14,R,9,Engine,,1960
+Cooper-Climax,cooper-climax,British,,vic_wilson,Vic Wilson,British,30,1960-monza,Italian Grand Prix,,,,,,16,23,,0.0,15,R,9,Engine,,1960
+Cooper-Climax,cooper-climax,British,,owen,Arthur Owen,British,8,1960-monza,Italian Grand Prix,,,,,,11,0,,0.0,16,R,9,Accident,,1960
+Maserati,maserati,Italian,,gould,Horace Gould,British,14,1960-monza,Italian Grand Prix,,,,,,0,0,,0.0,17,W,9,Fuel system,,1960
+Team Lotus,team_lotus,British,,moss,Stirling Moss,British,5,1960-california,United States Grand Prix,,,,,,1,75,8932200,8.0,1,1,10,Finished,2:28:52.200,1960
+Team Lotus,team_lotus,British,,ireland,Innes Ireland,British,10,1960-california,United States Grand Prix,,,,,,7,75,8970200,6.0,2,2,10,Finished,+38.000,1960
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,3,1960-california,United States Grand Prix,,,,,,10,75,8984200,4.0,3,3,10,Finished,+52.000,1960
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,2,1960-california,United States Grand Prix,,,,,,2,74,,3.0,4,4,10,+1 Lap,,1960
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,15,1960-california,United States Grand Prix,,,,,,4,74,,2.0,5,5,10,+1 Lap,,1960
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,9,1960-california,United States Grand Prix,,,,,,13,74,,1.0,6,6,10,+1 Lap,,1960
+Team Lotus,team_lotus,British,,hall,Jim Hall,American,24,1960-california,United States Grand Prix,,,,,,12,73,,0.0,7,7,10,+1 Lap,,1960
+Cooper-Climax,cooper-climax,British,,salvadori,Roy Salvadori,British,14,1960-california,United States Grand Prix,,,,,,15,73,,0.0,8,8,10,+2 Laps,,1960
+Cooper-Maserati,cooper-maserati,British,,trips,Wolfgang von Trips,German,26,1960-california,United States Grand Prix,,,,,,16,72,,0.0,9,9,10,+3 Laps,,1960
+Scarab,scarab,American,,daigh,Chuck Daigh,American,23,1960-california,United States Grand Prix,,,,,,18,70,,0.0,10,10,10,+5 Laps,,1960
+Cooper-Castellotti,cooper-castellotti,British,,lovely,Pete Lovely,American,25,1960-california,United States Grand Prix,,,,,,20,69,,0.0,11,11,10,+6 Laps,,1960
+Cooper-Climax,cooper-climax,British,,gendebien,Olivier Gendebien,Belgian,7,1960-california,United States Grand Prix,,,,,,8,69,,0.0,12,12,10,+6 Laps,,1960
+Maserati,maserati,Italian,,drake,Bob Drake,American,20,1960-california,United States Grand Prix,,,,,,22,68,,0.0,13,13,10,+7 Laps,,1960
+Cooper-Climax,cooper-climax,British,,henry_taylor,Henry Taylor,British,8,1960-california,United States Grand Prix,,,,,,14,68,,0.0,14,14,10,+7 Laps,,1960
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,18,1960-california,United States Grand Prix,,,,,,19,66,,0.0,15,15,10,+9 Laps,,1960
+Team Lotus,team_lotus,British,,clark,Jim Clark,British,12,1960-california,United States Grand Prix,,,,,,5,61,,0.0,16,16,10,+14 Laps,,1960
+BRM,brm,British,,hill,Graham Hill,British,17,1960-california,United States Grand Prix,,,,,,11,34,,0.0,17,R,10,Gearbox,,1960
+Cooper-Maserati,cooper-maserati,British,,burgess,Ian Burgess,British,19,1960-california,United States Grand Prix,,,,,,23,29,,0.0,18,R,10,Ignition,,1960
+Cooper-Maserati,cooper-maserati,British,,naylor,Brian Naylor,British,21,1960-california,United States Grand Prix,,,,,,17,20,,0.0,19,R,10,Engine,,1960
+BRM,brm,British,,gurney,Dan Gurney,American,16,1960-california,United States Grand Prix,,,,,,3,18,,0.0,20,R,10,Engine,,1960
+Cooper-Climax,cooper-climax,British,,flockhart,Ron Flockhart,British,4,1960-california,United States Grand Prix,,,,,,21,11,,0.0,21,R,10,Transmission,,1960
+Cooper-Climax,cooper-climax,British,,brooks,Tony Brooks,British,6,1960-california,United States Grand Prix,,,,,,9,6,,0.0,22,R,10,Spun off,,1960
+Team Lotus,team_lotus,British,,surtees,John Surtees,British,11,1960-california,United States Grand Prix,,,,,,6,3,,0.0,23,R,10,Accident,,1960

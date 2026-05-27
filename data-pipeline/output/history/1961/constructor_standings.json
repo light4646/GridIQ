@@ -1,0 +1,156 @@
+[
+  {
+    "year": 1961,
+    "position": 1,
+    "position_text": "1",
+    "points": 45.0,
+    "wins": 5,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1961,
+    "position": 2,
+    "position_text": "2",
+    "points": 35.0,
+    "wins": 3,
+    "constructor_id": "lotus-climax",
+    "constructor": "Lotus-Climax",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1961,
+    "position": 3,
+    "position_text": "3",
+    "points": 22.0,
+    "wins": 0,
+    "constructor_id": "porsche",
+    "constructor": "Porsche",
+    "constructor_nationality": "German",
+    "constructor_url": "https://en.wikipedia.org/wiki/Porsche_in_motorsport"
+  },
+  {
+    "year": 1961,
+    "position": 4,
+    "position_text": "4",
+    "points": 14.0,
+    "wins": 0,
+    "constructor_id": "cooper-climax",
+    "constructor": "Cooper-Climax",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1961,
+    "position": 5,
+    "position_text": "5",
+    "points": 7.0,
+    "wins": 0,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "cooper-maserati",
+    "constructor": "Cooper-Maserati",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "gilby",
+    "constructor": "Gilby",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Gilby"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "lotus-maserati",
+    "constructor": "Lotus-Maserati",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "ferguson",
+    "constructor": "Ferguson",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Ferguson_Research"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "de_tomaso-alfa_romeo",
+    "constructor": "De Tomaso-Alfa Romeo",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/De_Tomaso"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "de_tomaso-osca",
+    "constructor": "De Tomaso-Osca",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/De_Tomaso"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "jbw",
+    "constructor": "JBW",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/JBW"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "emeryson",
+    "constructor": "Emeryson",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Emeryson"
+  },
+  {
+    "year": 1961,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "mbm",
+    "constructor": "MBM",
+    "constructor_nationality": "Swiss",
+    "constructor_url": "https://en.wikipedia.org/wiki/Monteverdi_(automobile)"
+  }
+]

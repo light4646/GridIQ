@@ -1,0 +1,15 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,141.0,1,1,9,1986
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,96.0,2,2,4,1986
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,58.0,3,3,2,1986
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,37.0,4,4,0,1986
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,29.0,5,5,0,1986
+Benetton,benetton,Italian,https://en.wikipedia.org/wiki/Benetton_Formula,19.0,6,6,1,1986
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,11.0,7,7,0,1986
+Lola,lola,British,https://en.wikipedia.org/wiki/MasterCard_Lola,6.0,8,8,0,1986
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,2.0,9,9,0,1986
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,1.0,10,10,0,1986
+Zakspeed,zakspeed,German,https://en.wikipedia.org/wiki/Zakspeed,0.0,,-,0,1986
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,0.0,,-,0,1986
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,0.0,,-,0,1986
+AGS,ags,French,https://en.wikipedia.org/wiki/Automobiles_Gonfaronnaises_Sportives,0.0,,-,0,1986

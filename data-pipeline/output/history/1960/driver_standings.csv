@@ -1,0 +1,92 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""cooper-climax""]","[""Cooper-Climax""]",,jack_brabham,Jack Brabham,Australian,,43.0,1,1,5,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,mclaren,Bruce McLaren,New Zealander,,34.0,2,2,1,1960
+"[""cooper-climax"", ""team_lotus""]","[""Cooper-Climax"", ""Team Lotus""]",,moss,Stirling Moss,British,,19.0,3,3,2,1960
+"[""team_lotus""]","[""Team Lotus""]",,ireland,Innes Ireland,British,,18.0,4,4,0,1960
+"[""ferrari"", ""cooper-climax""]","[""Ferrari"", ""Cooper-Climax""]",,phil_hill,Phil Hill,American,,16.0,5,5,1,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,gendebien,Olivier Gendebien,Belgian,,10.0,6,6,0,1960
+"[""ferrari"", ""cooper-maserati""]","[""Ferrari"", ""Cooper-Maserati""]",,trips,Wolfgang von Trips,German,,10.0,7,7,0,1960
+"[""watson""]","[""Watson""]",,rathmann,Jim Rathmann,American,,8.0,8,8,1,1960
+"[""ferrari"", ""scarab""]","[""Ferrari"", ""Scarab""]",,ginther,Richie Ginther,American,,8.0,9,9,0,1960
+"[""team_lotus""]","[""Team Lotus""]",,clark,Jim Clark,British,,8.0,10,10,0,1960
+"[""cooper-climax"", ""vanwall""]","[""Cooper-Climax"", ""Vanwall""]",,brooks,Tony Brooks,British,,7.0,11,11,0,1960
+"[""team_lotus""]","[""Team Lotus""]",,surtees,John Surtees,British,,6.0,12,12,0,1960
+"[""ferrari""]","[""Ferrari""]",,allison,Cliff Allison,British,,6.0,13,13,0,1960
+"[""watson""]","[""Watson""]",,ward,Rodger Ward,American,,6.0,14,14,0,1960
+"[""brm""]","[""BRM""]",,hill,Graham Hill,British,,4.0,15,15,0,1960
+"[""ferrari""]","[""Ferrari""]",,mairesse,Willy Mairesse,Belgian,,4.0,16,16,0,1960
+"[""epperly""]","[""Epperly""]",,goldsmith,Paul Goldsmith,American,,4.0,17,17,0,1960
+"[""brm""]","[""BRM""]",,bonnier,Jo Bonnier,Swedish,,4.0,18,18,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,henry_taylor,Henry Taylor,British,,3.0,19,19,0,1960
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,menditeguy,Carlos Menditeguy,Argentine,,3.0,20,20,0,1960
+"[""phillips""]","[""Phillips""]",,branson,Don Branson,American,,3.0,21,21,0,1960
+"[""cooper-castellotti""]","[""Cooper-Castellotti""]",,cabianca,Giulio Cabianca,Italian,,3.0,22,22,0,1960
+"[""lesovsky""]","[""Lesovsky""]",,thomson,Johnny Thomson,American,,2.0,23,23,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,bianchi,Lucien Bianchi,Belgian,,1.0,24,24,0,1960
+"[""team_lotus"", ""cooper-climax""]","[""Team Lotus"", ""Cooper-Climax""]",,flockhart,Ron Flockhart,British,,1.0,25,25,0,1960
+"[""trevis""]","[""Trevis""]",,johnson,Eddie Johnson,American,,1.0,26,26,0,1960
+"[""porsche""]","[""Porsche""]",,herrmann,Hans Herrmann,German,,1.0,27,27,0,1960
+"[""cooper-climax"", ""cooper-maserati"", ""aston_martin""]","[""Cooper-Climax"", ""Cooper-Maserati"", ""Aston Martin""]",,trintignant,Maurice Trintignant,French,,0.0,,-,0,1960
+"[""watson""]","[""Watson""]",,ruby,Lloyd Ruby,American,,0.0,,-,0,1960
+"[""porsche""]","[""Porsche""]",,barth,Edgar Barth,German,,0.0,,-,0,1960
+"[""team_lotus""]","[""Team Lotus""]",,hall,Jim Hall,American,,0.0,,-,0,1960
+"[""cooper-climax"", ""aston_martin""]","[""Cooper-Climax"", ""Aston Martin""]",,salvadori,Roy Salvadori,British,,0.0,,-,0,1960
+"[""meskowski""]","[""Meskowski""]",,veith,Bob Veith,American,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,beaufort,Carel Godin de Beaufort,Dutch,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,halford,Bruce Halford,British,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,drogo,Piero Drogo,Italian,,0.0,,-,0,1960
+"[""behra-porsche"", ""cooper-maserati""]","[""Behra-Porsche"", ""Cooper-Maserati""]",,gregory,Masten Gregory,American,,0.0,,-,0,1960
+"[""team_lotus""]","[""Team Lotus""]",,larreta,Alberto Rodriguez Larreta,Argentine,,0.0,,-,0,1960
+"[""trevis""]","[""Trevis""]",,tingelstad,Bud Tingelstad,American,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,seidel,Wolfgang Seidel,German,,0.0,,-,0,1960
+"[""brm""]","[""BRM""]",,gurney,Dan Gurney,American,,0.0,,-,0,1960
+"[""scarab"", ""cooper-climax""]","[""Scarab"", ""Cooper-Climax""]",,daigh,Chuck Daigh,American,,0.0,,-,0,1960
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,burgess,Ian Burgess,British,,0.0,,-,0,1960
+"[""ferrari""]","[""Ferrari""]",,gonzalez,José Froilán González,Argentine,,0.0,,-,0,1960
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,christie,Bob Christie,American,,0.0,,-,0,1960
+"[""behra-porsche""]","[""Behra-Porsche""]",,gamble,Fred Gamble,American,,0.0,,-,0,1960
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,bonomi,Roberto Bonomi,Argentine,,0.0,,-,0,1960
+"[""epperly""]","[""Epperly""]",,amick,Red Amick,American,,0.0,,-,0,1960
+"[""cooper-castellotti""]","[""Cooper-Castellotti""]",,lovely,Pete Lovely,American,,0.0,,-,0,1960
+"[""team_lotus""]","[""Team Lotus""]",,piper,David Piper,British,,0.0,,-,0,1960
+"[""kuzma""]","[""Kuzma""]",,darter,Duane Carter,American,,0.0,,-,0,1960
+"[""maserati"", ""cooper-castellotti""]","[""Maserati"", ""Cooper-Castellotti""]",,munaron,Gino Munaron,Italian,,0.0,,-,0,1960
+"[""jbw"", ""cooper-maserati""]","[""JBW"", ""Cooper-Maserati""]",,naylor,Brian Naylor,British,,0.0,,-,0,1960
+"[""kuzma""]","[""Kuzma""]",,homeier,Bill Homeier,American,,0.0,,-,0,1960
+"[""maserati""]","[""Maserati""]",,drake,Bob Drake,American,,0.0,,-,0,1960
+"[""maserati""]","[""Maserati""]",,estefano,Nasif Estéfano,Argentine,,0.0,,-,0,1960
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hartley,Gene Hartley,American,,0.0,,-,0,1960
+"[""watson""]","[""Watson""]",,stevenson,Chuck Stevenson,American,,0.0,,-,0,1960
+"[""meskowski""]","[""Meskowski""]",,grim,Bobby Grim,American,,0.0,,-,0,1960
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,templeman,Shorty Templeman,American,,0.0,,-,0,1960
+"[""vhristensen""]","[""Christensen""]",,hurtubise,Jim Hurtubise,American,,0.0,,-,0,1960
+"[""epperly""]","[""Epperly""]",,bryan,Jimmy Bryan,American,,0.0,,-,0,1960
+"[""watson""]","[""Watson""]",,ruttman,Troy Ruttman,American,,0.0,,-,0,1960
+"[""ewing""]","[""Ewing""]",,sachs,Eddie Sachs,American,,0.0,,-,0,1960
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,freeland,Don Freeland,American,,0.0,,-,0,1960
+"[""watson""]","[""Watson""]",,bettenhausen,Tony Bettenhausen,American,,0.0,,-,0,1960
+"[""epperly""]","[""Epperly""]",,weiler,Wayne Weiler,American,,0.0,,-,0,1960
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,foyt,Anthony Foyt,American,,0.0,,-,0,1960
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,russo,Eddie Russo,American,,0.0,,-,0,1960
+"[""epperly""]","[""Epperly""]",,boyd,Johnny Boyd,American,,0.0,,-,0,1960
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,force,Gene Force,American,,0.0,,-,0,1960
+"[""epperly""]","[""Epperly""]",,mcwithey,Jim McWithey,American,,0.0,,-,0,1960
+"[""watson""]","[""Watson""]",,sutton,Len Sutton,American,,0.0,,-,0,1960
+"[""watson""]","[""Watson""]",,dick_rathmann,Dick Rathmann,American,,0.0,,-,0,1960
+"[""ewing""]","[""Ewing""]",,herman,Al Herman,American,,0.0,,-,0,1960
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,dempsey_wilson,Dempsey Wilson,American,,0.0,,-,0,1960
+"[""team_lotus""]","[""Team Lotus""]",,stacey,Alan Stacey,British,,0.0,,-,0,1960
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,cabral,Mário de Araújo Cabral,Portuguese,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,bristow,Chris Bristow,British,,0.0,,-,0,1960
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,thiele,Alfonso Thiele,Italian,,0.0,,-,0,1960
+"[""maserati"", ""cooper-castellotti"", ""cooper-maserati""]","[""Maserati"", ""Cooper-Castellotti"", ""Cooper-Maserati""]",,scarlatti,Giorgio Scarlatti,Italian,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,schell,Harry Schell,American,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,vic_wilson,Vic Wilson,British,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,owen,Arthur Owen,British,,0.0,,-,0,1960
+"[""scarab"", ""cooper-climax""]","[""Scarab"", ""Cooper-Climax""]",,reventlow,Lance Reventlow,American,,0.0,,-,0,1960
+"[""maserati""]","[""Maserati""]",,gould,Horace Gould,British,,0.0,,-,0,1960
+"[""team_lotus""]","[""Team Lotus""]",,mike_taylor,Mike Taylor,British,,0.0,,-,0,1960
+"[""maserati""]","[""Maserati""]",,chimeri,Ettore Chimeri,Venezuelan,,0.0,,-,0,1960
+"[""maserati""]","[""Maserati""]",,creus,Antonio Creus,Spanish,,0.0,,-,0,1960
+"[""cooper-climax""]","[""Cooper-Climax""]",,fairman,Jack Fairman,British,,0.0,,-,0,1960
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,greene,Keith Greene,British,,0.0,,-,0,1960

@@ -1,0 +1,52 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",,lauda,Niki Lauda,Austrian,,64.5,1,1,5,1975
+"[""mclaren""]","[""McLaren""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,45.0,2,2,2,1975
+"[""brabham""]","[""Brabham""]",,reutemann,Carlos Reutemann,Argentine,,37.0,3,3,1,1975
+"[""hesketh""]","[""Hesketh""]",,hunt,James Hunt,British,,33.0,4,4,1,1975
+"[""ferrari""]","[""Ferrari""]",,regazzoni,Clay Regazzoni,Swiss,,25.0,5,5,1,1975
+"[""brabham""]","[""Brabham""]",,pace,Carlos Pace,Brazilian,,24.0,6,6,1,1975
+"[""tyrrell""]","[""Tyrrell""]",,scheckter,Jody Scheckter,South African,,20.0,7,7,1,1975
+"[""mclaren""]","[""McLaren""]",,mass,Jochen Mass,German,,20.0,8,8,1,1975
+"[""tyrrell""]","[""Tyrrell""]",,depailler,Patrick Depailler,French,,12.0,9,9,0,1975
+"[""shadow-ford""]","[""Shadow-Ford""]",,pryce,Tom Pryce,British,,8.0,10,10,0,1975
+"[""march""]","[""March""]",,brambilla,Vittorio Brambilla,Italian,,6.5,11,11,1,1975
+"[""williams""]","[""Williams""]",,laffite,Jacques Laffite,French,,6.0,12,12,0,1975
+"[""team_lotus""]","[""Team Lotus""]",,peterson,Ronnie Peterson,Swedish,,6.0,13,13,0,1975
+"[""parnelli""]","[""Parnelli""]",,mario_andretti,Mario Andretti,American,,5.0,14,14,0,1975
+"[""penske"", ""march""]","[""Penske"", ""March""]",,donohue,Mark Donohue,American,,4.0,15,15,0,1975
+"[""team_lotus""]","[""Team Lotus""]",,ickx,Jacky Ickx,Belgian,,3.0,16,16,0,1975
+"[""hesketh"", ""hill""]","[""Hesketh"", ""Embassy Hill""]",,jones,Alan Jones,Australian,,2.0,17,17,0,1975
+"[""shadow-ford"", ""shadow-matra""]","[""Shadow-Ford"", ""Shadow-Matra""]",,jarier,Jean-Pierre Jarier,French,,1.5,18,18,0,1975
+"[""williams"", ""hill""]","[""Williams"", ""Embassy Hill""]",,brise,Tony Brise,British,,1.0,19,19,0,1975
+"[""ensign""]","[""Ensign""]",,lennep,Gijs van Lennep,Dutch,,1.0,20,20,0,1975
+"[""march"", ""williams""]","[""March"", ""Williams""]",,lombardi,Lella Lombardi,Italian,,0.5,21,21,0,1975
+"[""lola"", ""hill""]","[""Lola"", ""Embassy Hill""]",,stommelen,Rolf Stommelen,German,,0.0,,-,0,1975
+"[""surtees"", ""team_lotus"", ""penske""]","[""Surtees"", ""Team Lotus"", ""Penske""]",,watson,John Watson,British,,0.0,,-,0,1975
+"[""hesketh""]","[""Hesketh""]",,ertl,Harald Ertl,Austrian,,0.0,,-,0,1975
+"[""march""]","[""March""]",,stuck,Hans-Joachim Stuck,German,,0.0,,-,0,1975
+"[""brm""]","[""BRM""]",,evans,Bob Evans,British,,0.0,,-,0,1975
+"[""fittipaldi""]","[""Fittipaldi""]",,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,,0.0,,-,0,1975
+"[""lola"", ""hill""]","[""Lola"", ""Embassy Hill""]",,hill,Graham Hill,British,,0.0,,-,0,1975
+"[""hesketh""]","[""Hesketh""]",,lunger,Brett Lunger,American,,0.0,,-,0,1975
+"[""hesketh""]","[""Hesketh""]",,palm,Torsten Palm,Swedish,,0.0,,-,0,1975
+"[""williams"", ""fittipaldi""]","[""Williams"", ""Fittipaldi""]",,merzario,Arturo Merzario,Italian,,0.0,,-,0,1975
+"[""team_lotus""]","[""Team Lotus""]",,tunmer,Guy Tunmer,South African,,0.0,,-,0,1975
+"[""ensign""]","[""Ensign""]",,amon,Chris Amon,New Zealander,,0.0,,-,0,1975
+"[""tyrrell"", ""williams""]","[""Tyrrell"", ""Williams""]",,ian_scheckter,Ian Scheckter,South African,,0.0,,-,0,1975
+"[""tyrrell""]","[""Tyrrell""]",,jabouille,Jean-Pierre Jabouille,French,,0.0,,-,0,1975
+"[""team_lotus""]","[""Team Lotus""]",,crawford,Jim Crawford,British,,0.0,,-,0,1975
+"[""team_lotus""]","[""Team Lotus""]",,keizan,Eddie Keizan,South African,,0.0,,-,0,1975
+"[""mclaren""]","[""McLaren""]",,charlton,Dave Charlton,South African,,0.0,,-,0,1975
+"[""williams""]","[""Williams""]",,magee,Damien Magee,British,,0.0,,-,0,1975
+"[""williams""]","[""Williams""]",,zorzi,Renzo Zorzi,Italian,,0.0,,-,0,1975
+"[""team_lotus""]","[""Team Lotus""]",,henton,Brian Henton,British,,0.0,,-,0,1975
+"[""lyncar""]","[""Lyncar""]",,nicholson,John Nicholson,New Zealander,,0.0,,-,0,1975
+"[""surtees""]","[""Surtees""]",,morgan,Dave Morgan,British,,0.0,,-,0,1975
+"[""lola"", ""hill"", ""williams""]","[""Lola"", ""Embassy Hill"", ""Williams""]",,migault,François Migault,French,,0.0,,-,0,1975
+"[""ensign""]","[""Ensign""]",,wunderink,Roelof Wunderink,Dutch,,0.0,,-,0,1975
+"[""brm""]","[""BRM""]",,wilds,Mike Wilds,British,,0.0,,-,0,1975
+"[""hill""]","[""Embassy Hill""]",,schuppan,Vern Schuppan,Australian,,0.0,,-,0,1975
+"[""tyrrell""]","[""Tyrrell""]",,leclere,Michel Leclère,French,,0.0,,-,0,1975
+"[""williams""]","[""Williams""]",,vonlanthen,Jo Vonlanthen,Swiss,,0.0,,-,0,1975
+"[""maki""]","[""Maki""]",,fushida,Hiroshi Fushida,Japanese,,0.0,,-,0,1975
+"[""williams""]","[""Williams""]",,ashley,Ian Ashley,British,,0.0,,-,0,1975

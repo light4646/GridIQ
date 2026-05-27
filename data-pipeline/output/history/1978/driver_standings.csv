@@ -1,0 +1,39 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""team_lotus""]","[""Team Lotus""]",,mario_andretti,Mario Andretti,American,,64.0,1,1,6,1978
+"[""team_lotus""]","[""Team Lotus""]",,peterson,Ronnie Peterson,Swedish,,51.0,2,2,2,1978
+"[""ferrari""]","[""Ferrari""]",,reutemann,Carlos Reutemann,Argentine,,48.0,3,3,4,1978
+"[""brabham""]","[""Brabham""]",,lauda,Niki Lauda,Austrian,,44.0,4,4,2,1978
+"[""tyrrell""]","[""Tyrrell""]",,depailler,Patrick Depailler,French,,34.0,5,5,1,1978
+"[""brabham""]","[""Brabham""]",,watson,John Watson,British,,25.0,6,6,0,1978
+"[""wolf""]","[""Wolf""]",,scheckter,Jody Scheckter,South African,,24.0,7,7,0,1978
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,19.0,8,8,0,1978
+"[""ferrari""]","[""Ferrari""]",,gilles_villeneuve,Gilles Villeneuve,Canadian,,17.0,9,9,1,1978
+"[""fittipaldi""]","[""Fittipaldi""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,17.0,10,10,0,1978
+"[""williams""]","[""Williams""]",,jones,Alan Jones,Australian,,11.0,11,11,0,1978
+"[""arrows""]","[""Arrows""]",,patrese,Riccardo Patrese,Italian,,11.0,12,12,0,1978
+"[""mclaren""]","[""McLaren""]",,hunt,James Hunt,British,,8.0,13,13,0,1978
+"[""mclaren""]","[""McLaren""]",,tambay,Patrick Tambay,French,,8.0,14,14,0,1978
+"[""tyrrell""]","[""Tyrrell""]",,pironi,Didier Pironi,French,,7.0,15,15,0,1978
+"[""shadow""]","[""Shadow""]",,regazzoni,Clay Regazzoni,Swiss,,4.0,16,16,0,1978
+"[""renault""]","[""Renault""]",,jabouille,Jean-Pierre Jabouille,French,,3.0,17,17,0,1978
+"[""shadow""]","[""Shadow""]",,stuck,Hans-Joachim Stuck,German,,2.0,18,18,0,1978
+"[""surtees""]","[""Surtees""]",,brambilla,Vittorio Brambilla,Italian,,1.0,19,19,0,1978
+"[""hesketh"", ""ensign""]","[""Hesketh"", ""Ensign""]",,daly,Derek Daly,Irish,,1.0,20,20,0,1978
+"[""team_lotus""]","[""Team Lotus""]",,rebaque,Hector Rebaque,Mexican,,1.0,21,21,0,1978
+"[""mclaren"", ""ensign""]","[""McLaren"", ""Ensign""]",,lunger,Brett Lunger,American,,0.0,,-,0,1978
+"[""mclaren""]","[""McLaren""]",,giacomelli,Bruno Giacomelli,Italian,,0.0,,-,0,1978
+"[""ats""]","[""ATS""]",,mass,Jochen Mass,German,,0.0,,-,0,1978
+"[""ats"", ""team_lotus""]","[""ATS"", ""Team Lotus""]",,jarier,Jean-Pierre Jarier,French,,0.0,,-,0,1978
+"[""martini"", ""surtees""]","[""Martini"", ""Surtees""]",,arnoux,René Arnoux,French,,0.0,,-,0,1978
+"[""arrows""]","[""Arrows""]",,stommelen,Rolf Stommelen,German,,0.0,,-,0,1978
+"[""ensign"", ""mclaren"", ""brabham""]","[""Ensign"", ""McLaren"", ""Brabham""]",,piquet,Nelson Piquet,Brazilian,,0.0,,-,0,1978
+"[""theodore"", ""ats"", ""wolf""]","[""Theodore"", ""ATS"", ""Wolf""]",,keke_rosberg,Keke Rosberg,Finnish,,0.0,,-,0,1978
+"[""surtees""]","[""Surtees""]",,keegan,Rupert Keegan,British,,0.0,,-,0,1978
+"[""ensign"", ""ats""]","[""Ensign"", ""ATS""]",,ertl,Harald Ertl,Austrian,,0.0,,-,0,1978
+"[""ensign""]","[""Ensign""]",,ickx,Jacky Ickx,Belgian,,0.0,,-,0,1978
+"[""wolf""]","[""Wolf""]",,rahal,Bobby Rahal,American,,0.0,,-,0,1978
+"[""merzario""]","[""Merzario""]",,merzario,Arturo Merzario,Italian,,0.0,,-,0,1978
+"[""ats""]","[""ATS""]",,bleekemolen,Michael Bleekemolen,Dutch,,0.0,,-,0,1978
+"[""ensign"", ""shadow""]","[""Ensign"", ""Shadow""]",,ongais,Danny Ongais,American,,0.0,,-,0,1978
+"[""ensign""]","[""Ensign""]",,leoni,Lamberto Leoni,Italian,,0.0,,-,0,1978
+"[""theodore"", ""hesketh""]","[""Theodore"", ""Hesketh""]",,cheever,Eddie Cheever,American,,0.0,,-,0,1978

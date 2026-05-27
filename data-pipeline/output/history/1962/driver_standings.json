@@ -1,0 +1,1056 @@
+[
+  {
+    "year": 1962,
+    "position": 1,
+    "position_text": "1",
+    "points": 42.0,
+    "wins": 4,
+    "driver_id": "hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Graham Hill",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 2,
+    "position_text": "2",
+    "points": 30.0,
+    "wins": 3,
+    "driver_id": "clark",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jim Clark",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 3,
+    "position_text": "3",
+    "points": 27.0,
+    "wins": 1,
+    "driver_id": "mclaren",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bruce McLaren",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "Cooper-Climax"
+    ],
+    "constructor_ids": [
+      "cooper-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 4,
+    "position_text": "4",
+    "points": 19.0,
+    "wins": 0,
+    "driver_id": "surtees",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Surtees",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lola"
+    ],
+    "constructor_ids": [
+      "lola"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 5,
+    "position_text": "5",
+    "points": 15.0,
+    "wins": 1,
+    "driver_id": "gurney",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Dan Gurney",
+    "driver_nationality": "American",
+    "constructors": [
+      "Porsche",
+      "Lotus-BRM"
+    ],
+    "constructor_ids": [
+      "porsche",
+      "lotus-brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 6,
+    "position_text": "6",
+    "points": 14.0,
+    "wins": 0,
+    "driver_id": "phil_hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Phil Hill",
+    "driver_nationality": "American",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 7,
+    "position_text": "7",
+    "points": 13.0,
+    "wins": 0,
+    "driver_id": "maggs",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tony Maggs",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Cooper-Climax"
+    ],
+    "constructor_ids": [
+      "cooper-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 8,
+    "position_text": "8",
+    "points": 10.0,
+    "wins": 0,
+    "driver_id": "ginther",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Richie Ginther",
+    "driver_nationality": "American",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 9,
+    "position_text": "9",
+    "points": 9.0,
+    "wins": 0,
+    "driver_id": "jack_brabham",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jack Brabham",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Lotus-Climax",
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "lotus-climax",
+      "brabham"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 10,
+    "position_text": "10",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "trevor_taylor",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Trevor Taylor",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 11,
+    "position_text": "11",
+    "points": 5.0,
+    "wins": 0,
+    "driver_id": "baghetti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Giancarlo Baghetti",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 12,
+    "position_text": "12",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "bandini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Lorenzo Bandini",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 13,
+    "position_text": "13",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "ricardo_rodriguez",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ricardo Rodr\u00edguez",
+    "driver_nationality": "Mexican",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 14,
+    "position_text": "14",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "mairesse",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Willy Mairesse",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 15,
+    "position_text": "15",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "bonnier",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Bonnier",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "Porsche"
+    ],
+    "constructor_ids": [
+      "porsche"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 16,
+    "position_text": "16",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "ireland",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Innes Ireland",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 17,
+    "position_text": "17",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "beaufort",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Carel Godin de Beaufort",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Porsche"
+    ],
+    "constructor_ids": [
+      "porsche"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 18,
+    "position_text": "18",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "gregory",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Masten Gregory",
+    "driver_nationality": "American",
+    "constructors": [
+      "Lotus-Climax",
+      "Lotus-BRM"
+    ],
+    "constructor_ids": [
+      "lotus-climax",
+      "lotus-brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": 19,
+    "position_text": "19",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "lederle",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Neville Lederle",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "trintignant",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Maurice Trintignant",
+    "driver_nationality": "French",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "lewis",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jackie Lewis",
+    "driver_nationality": "British",
+    "constructors": [
+      "Cooper-Climax",
+      "BRM",
+      "Cooper"
+    ],
+    "constructor_ids": [
+      "cooper-climax",
+      "brm",
+      "cooper"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "love",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Love",
+    "driver_nationality": "Rhodesian",
+    "constructors": [
+      "Cooper-Climax"
+    ],
+    "constructor_ids": [
+      "cooper-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "vaccarella",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nino Vaccarella",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Lotus-Climax",
+      "Porsche"
+    ],
+    "constructor_ids": [
+      "lotus-climax",
+      "porsche"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bianchi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Lucien Bianchi",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Lotus-Climax",
+      "ENB"
+    ],
+    "constructor_ids": [
+      "lotus-climax",
+      "enb"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "penske",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Roger Penske",
+    "driver_nationality": "American",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "johnstone",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bruce Johnstone",
+    "driver_nationality": "South African",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "siffert",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Siffert",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Lotus-Climax",
+      "Lotus-BRM"
+    ],
+    "constructor_ids": [
+      "lotus-climax",
+      "lotus-brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "schroeder",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Rob Schroeder",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pieterse",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ernie Pieterse",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "burgess",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ian Burgess",
+    "driver_nationality": "British",
+    "constructors": [
+      "Cooper-Climax"
+    ],
+    "constructor_ids": [
+      "cooper-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "settember",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tony Settember",
+    "driver_nationality": "American",
+    "constructors": [
+      "Emeryson"
+    ],
+    "constructor_ids": [
+      "emeryson"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "campbell-jones",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Campbell-Jones",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Climax",
+      "Emeryson"
+    ],
+    "constructor_ids": [
+      "lotus-climax",
+      "emeryson"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "sharp",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Hap Sharp",
+    "driver_nationality": "American",
+    "constructors": [
+      "Cooper-Climax"
+    ],
+    "constructor_ids": [
+      "cooper-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "walter",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Heini Walter",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Porsche"
+    ],
+    "constructor_ids": [
+      "porsche"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "chamberlain",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jay Chamberlain",
+    "driver_nationality": "American",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "salvadori",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Roy Salvadori",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lola"
+    ],
+    "constructor_ids": [
+      "lola"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "serrurier",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Doug Serrurier",
+    "driver_nationality": "South African",
+    "constructors": [
+      "LDS"
+    ],
+    "constructor_ids": [
+      "lds"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "seidel",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Wolfgang Seidel",
+    "driver_nationality": "German",
+    "constructors": [
+      "Emeryson",
+      "Lotus-BRM"
+    ],
+    "constructor_ids": [
+      "emeryson",
+      "lotus-brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "harris",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mike Harris",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Cooper-Alfa Romeo"
+    ],
+    "constructor_ids": [
+      "cooper-alfa_romeo"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "mayer",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Timmy Mayer",
+    "driver_nationality": "American",
+    "constructors": [
+      "Cooper-Climax"
+    ],
+    "constructor_ids": [
+      "cooper-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "arundell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Peter Arundell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hocking",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gary Hocking",
+    "driver_nationality": "Rhodesian",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "marsh",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tony Marsh",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "vyver",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Syd van der Vyver",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "greene",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Keith Greene",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Climax",
+      "Gilby"
+    ],
+    "constructor_ids": [
+      "lotus-climax",
+      "gilby"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pon",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ben Pon",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Porsche"
+    ],
+    "constructor_ids": [
+      "porsche"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "davis",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Colin Davis",
+    "driver_nationality": "British",
+    "constructors": [
+      "Porsche"
+    ],
+    "constructor_ids": [
+      "porsche"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hall",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jim Hall",
+    "driver_nationality": "American",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "slotemaker",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Rob Slotemaker",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Porsche"
+    ],
+    "constructor_ids": [
+      "porsche"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "abate",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Carlo Abate",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "shelly",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tony Shelly",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "Lotus-Climax",
+      "Lotus-BRM"
+    ],
+    "constructor_ids": [
+      "lotus-climax",
+      "lotus-brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "tingle",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Sam Tingle",
+    "driver_nationality": "Rhodesian",
+    "constructors": [
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bussinello",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Roberto Bussinello",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "De Tomaso-Alfa Romeo"
+    ],
+    "constructor_ids": [
+      "de_tomaso-alfa_romeo"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ashmore",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gerry Ashmore",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM",
+      "Lotus-Climax"
+    ],
+    "constructor_ids": [
+      "brm",
+      "lotus-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "schiller",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Heinz Schiller",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Porsche",
+      "Lotus-BRM"
+    ],
+    "constructor_ids": [
+      "porsche",
+      "lotus-brm"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "collomb",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bernard Collomb",
+    "driver_nationality": "French",
+    "constructors": [
+      "Cooper-Climax"
+    ],
+    "constructor_ids": [
+      "cooper-climax"
+    ]
+  },
+  {
+    "year": 1962,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "kuhnke",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Kurt Kuhnke",
+    "driver_nationality": "German",
+    "constructors": [
+      "Lotus-Borgward"
+    ],
+    "constructor_ids": [
+      "lotus-borgward"
+    ]
+  }
+]

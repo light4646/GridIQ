@@ -1,0 +1,18 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Lotus-Ford,lotus-ford,British,https://en.wikipedia.org/wiki/Team_Lotus,62.0,1,1,5,1968
+McLaren-Ford,mclaren-ford,British,https://en.wikipedia.org/wiki/McLaren,49.0,2,2,3,1968
+Matra-Ford,matra-ford,French,https://en.wikipedia.org/wiki/Matra,45.0,3,3,3,1968
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,32.0,4,4,1,1968
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,28.0,5,5,0,1968
+Honda,honda,Japanese,https://en.wikipedia.org/wiki/Honda_in_Formula_One,14.0,6,6,0,1968
+Cooper-BRM,cooper-brm,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,14.0,7,7,0,1968
+Brabham-Repco,brabham-repco,British,https://en.wikipedia.org/wiki/Brabham,10.0,8,8,0,1968
+Matra,matra,French,https://en.wikipedia.org/wiki/Matra,8.0,9,9,0,1968
+McLaren-BRM,mclaren-brm,British,https://en.wikipedia.org/wiki/McLaren,3.0,10,10,0,1968
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1968
+Eagle-Weslake,eagle-weslake,American,https://en.wikipedia.org/wiki/All_American_Racers,0.0,,-,0,1968
+Lola,lola,British,https://en.wikipedia.org/wiki/MasterCard_Lola,0.0,,-,0,1968
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,0.0,,-,0,1968
+Brabham-Climax,brabham-climax,British,https://en.wikipedia.org/wiki/Brabham,0.0,,-,0,1968
+LDS,lds,South African,https://en.wikipedia.org/wiki/LDS_(automobile),0.0,,-,0,1968
+Cooper-Climax,cooper-climax,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1968

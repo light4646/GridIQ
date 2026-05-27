@@ -1,0 +1,1514 @@
+[
+  {
+    "year": 1955,
+    "position": 1,
+    "position_text": "1",
+    "points": 40.0,
+    "wins": 4,
+    "driver_id": "fangio",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Juan Fangio",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 2,
+    "position_text": "2",
+    "points": 23.0,
+    "wins": 1,
+    "driver_id": "moss",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Stirling Moss",
+    "driver_nationality": "British",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 3,
+    "position_text": "3",
+    "points": 12.0,
+    "wins": 0,
+    "driver_id": "castellotti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Eugenio Castellotti",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Lancia",
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "lancia",
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 4,
+    "position_text": "4",
+    "points": 10.0,
+    "wins": 1,
+    "driver_id": "trintignant",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Maurice Trintignant",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 5,
+    "position_text": "5",
+    "points": 9.0,
+    "wins": 0,
+    "driver_id": "farina",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nino Farina",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 6,
+    "position_text": "6",
+    "points": 9.0,
+    "wins": 0,
+    "driver_id": "taruffi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Piero Taruffi",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari",
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "ferrari",
+      "mercedes"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 7,
+    "position_text": "7",
+    "points": 8.0,
+    "wins": 1,
+    "driver_id": "sweikert",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bob Sweikert",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 8,
+    "position_text": "8",
+    "points": 7.0,
+    "wins": 0,
+    "driver_id": "mieres",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Roberto Mieres",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 9,
+    "position_text": "9",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "behra",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean Behra",
+    "driver_nationality": "French",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 10,
+    "position_text": "10",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "musso",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Luigi Musso",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 11,
+    "position_text": "11",
+    "points": 5.0,
+    "wins": 0,
+    "driver_id": "kling",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Karl Kling",
+    "driver_nationality": "German",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 12,
+    "position_text": "12",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "davies",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jimmy Davies",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 13,
+    "position_text": "13",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "bettenhausen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tony Bettenhausen",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 14,
+    "position_text": "14",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "paul_russo",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Paul Russo",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 15,
+    "position_text": "15",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "frere",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Paul Fr\u00e8re",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 16,
+    "position_text": "16",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "thomson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Johnny Thomson",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kuzma"
+    ],
+    "constructor_ids": [
+      "kuzma"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 17,
+    "position_text": "17",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "gonzalez",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 18,
+    "position_text": "18",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "perdisa",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Cesare Perdisa",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 19,
+    "position_text": "19",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "menditeguy",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Carlos Menditeguy",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 20,
+    "position_text": "20",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "villoresi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Luigi Villoresi",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Lancia",
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "lancia",
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 21,
+    "position_text": "21",
+    "points": 1.33,
+    "wins": 0,
+    "driver_id": "maglioli",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Umberto Maglioli",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 22,
+    "position_text": "22",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "herrmann",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Hans Herrmann",
+    "driver_nationality": "German",
+    "constructors": [
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "mercedes"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 23,
+    "position_text": "23",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "faulkner",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Walt Faulkner",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 24,
+    "position_text": "24",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "homeier",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bill Homeier",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": 25,
+    "position_text": "25",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "vukovich",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bill Vukovich",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hawthorn",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mike Hawthorn",
+    "driver_nationality": "British",
+    "constructors": [
+      "Vanwall",
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "vanwall",
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "schell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Harry Schell",
+    "driver_nationality": "American",
+    "constructors": [
+      "Maserati",
+      "Ferrari",
+      "Vanwall"
+    ],
+    "constructor_ids": [
+      "maserati",
+      "ferrari",
+      "vanwall"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "chiron",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Louis Chiron",
+    "driver_nationality": "Monegasque",
+    "constructors": [
+      "Lancia"
+    ],
+    "constructor_ids": [
+      "lancia"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "linden",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Andy Linden",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pollet",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jacques Pollet",
+    "driver_nationality": "French",
+    "constructors": [
+      "Gordini"
+    ],
+    "constructor_ids": [
+      "gordini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "mantovani",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Sergio Mantovani",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "herman",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Al Herman",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "sparken",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mike Sparken",
+    "driver_nationality": "French",
+    "constructors": [
+      "Gordini"
+    ],
+    "constructor_ids": [
+      "gordini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ramos",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Hernando da Silva Ramos",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Gordini"
+    ],
+    "constructor_ids": [
+      "gordini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "connor",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pat O'Connor",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "macklin",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Lance Macklin",
+    "driver_nationality": "British",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "rosier",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Louis Rosier",
+    "driver_nationality": "French",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "wharton",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ken Wharton",
+    "driver_nationality": "British",
+    "constructors": [
+      "Vanwall"
+    ],
+    "constructor_ids": [
+      "vanwall"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "daywalt",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jimmy Daywalt",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "fitch",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Fitch",
+    "driver_nationality": "American",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "flaherty",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pat Flaherty",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "claes",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Johnny Claes",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Maserati",
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "maserati",
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "darter",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Duane Carter",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kuzma"
+    ],
+    "constructor_ids": [
+      "kuzma"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "weyant",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Chuck Weyant",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "johnson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Eddie Johnson",
+    "driver_nationality": "American",
+    "constructors": [
+      "Trevis"
+    ],
+    "constructor_ids": [
+      "trevis"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "rathmann",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jim Rathmann",
+    "driver_nationality": "American",
+    "constructors": [
+      "Epperly"
+    ],
+    "constructor_ids": [
+      "epperly"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bucci",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Clemar Bucci",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "iglesias",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jes\u00fas Iglesias",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Gordini"
+    ],
+    "constructor_ids": [
+      "gordini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ascari",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alberto Ascari",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Lancia"
+    ],
+    "constructor_ids": [
+      "lancia"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "jack_brabham",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jack Brabham",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Cooper"
+    ],
+    "constructor_ids": [
+      "cooper"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "gould",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Horace Gould",
+    "driver_nationality": "British",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "manzon",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Robert Manzon",
+    "driver_nationality": "French",
+    "constructors": [
+      "Gordini"
+    ],
+    "constructor_ids": [
+      "gordini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "mcalpine",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Kenneth McAlpine",
+    "driver_nationality": "British",
+    "constructors": [
+      "Connaught"
+    ],
+    "constructor_ids": [
+      "connaught"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bayol",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "\u00c9lie Bayol",
+    "driver_nationality": "French",
+    "constructors": [
+      "Gordini"
+    ],
+    "constructor_ids": [
+      "gordini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "collins",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Peter Collins",
+    "driver_nationality": "British",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "uria",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alberto Uria",
+    "driver_nationality": "Uruguayan",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "freeland",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Don Freeland",
+    "driver_nationality": "American",
+    "constructors": [
+      "Phillips"
+    ],
+    "constructor_ids": [
+      "phillips"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "peter_walker",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Peter Walker",
+    "driver_nationality": "British",
+    "constructors": [
+      "Maserati",
+      "Connaught"
+    ],
+    "constructor_ids": [
+      "maserati",
+      "connaught"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "niday",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Cal Niday",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "salvadori",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Roy Salvadori",
+    "driver_nationality": "British",
+    "constructors": [
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "simon",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Andr\u00e9 Simon",
+    "driver_nationality": "French",
+    "constructors": [
+      "Mercedes",
+      "Maserati"
+    ],
+    "constructor_ids": [
+      "mercedes",
+      "maserati"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "cross",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Art Cross",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "templeman",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Shorty Templeman",
+    "driver_nationality": "American",
+    "constructors": [
+      "Trevis"
+    ],
+    "constructor_ids": [
+      "trevis"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hanks",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Sam Hanks",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "rolt",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tony Rolt",
+    "driver_nationality": "British",
+    "constructors": [
+      "Connaught"
+    ],
+    "constructor_ids": [
+      "connaught"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "lucas",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean Lucas",
+    "driver_nationality": "French",
+    "constructors": [
+      "Gordini"
+    ],
+    "constructor_ids": [
+      "gordini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "birger",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pablo Birger",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Gordini"
+    ],
+    "constructor_ids": [
+      "gordini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "andrews",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Keith Andrews",
+    "driver_nationality": "American",
+    "constructors": [
+      "Schroeder"
+    ],
+    "constructor_ids": [
+      "schroeder"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "marr",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Leslie Marr",
+    "driver_nationality": "British",
+    "constructors": [
+      "Connaught"
+    ],
+    "constructor_ids": [
+      "connaught"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "parsons",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Johnnie Parsons",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "russo",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Eddie Russo",
+    "driver_nationality": "American",
+    "constructors": [
+      "Pawl"
+    ],
+    "constructor_ids": [
+      "pawl"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ray_crawford",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ray Crawford",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "piotti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Luigi Piotti",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Arzani-Volpini"
+    ],
+    "constructor_ids": [
+      "arzani-volpini"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bryan",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jimmy Bryan",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kuzma"
+    ],
+    "constructor_ids": [
+      "kuzma"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "fairman",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jack Fairman",
+    "driver_nationality": "British",
+    "constructors": [
+      "Connaught"
+    ],
+    "constructor_ids": [
+      "connaught"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "mcgrath",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jack McGrath",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "keller",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Al Keller",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ward",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Rodger Ward",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kuzma"
+    ],
+    "constructor_ids": [
+      "kuzma"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "boyd",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Johnny Boyd",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "elisian",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ed Elisian",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hoyt",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jerry Hoyt",
+    "driver_nationality": "American",
+    "constructors": [
+      "Stevens"
+    ],
+    "constructor_ids": [
+      "stevens"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "agabashian",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Fred Agabashian",
+    "driver_nationality": "American",
+    "constructors": [
+      "Kurtis Kraft"
+    ],
+    "constructor_ids": [
+      "kurtis_kraft"
+    ]
+  },
+  {
+    "year": 1955,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "reece",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jimmy Reece",
+    "driver_nationality": "American",
+    "constructors": [
+      "Pankratz"
+    ],
+    "constructor_ids": [
+      "pankratz"
+    ]
+  }
+]

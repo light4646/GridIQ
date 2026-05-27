@@ -1,0 +1,123 @@
+[
+  {
+    "year": 1969,
+    "position": 1,
+    "position_text": "1",
+    "points": 66.0,
+    "wins": 6,
+    "constructor_id": "matra-ford",
+    "constructor": "Matra-Ford",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Matra"
+  },
+  {
+    "year": 1969,
+    "position": 2,
+    "position_text": "2",
+    "points": 51.0,
+    "wins": 2,
+    "constructor_id": "brabham-ford",
+    "constructor": "Brabham-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1969,
+    "position": 3,
+    "position_text": "3",
+    "points": 47.0,
+    "wins": 2,
+    "constructor_id": "lotus-ford",
+    "constructor": "Lotus-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1969,
+    "position": 4,
+    "position_text": "4",
+    "points": 38.0,
+    "wins": 1,
+    "constructor_id": "mclaren-ford",
+    "constructor": "McLaren-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1969,
+    "position": 5,
+    "position_text": "5",
+    "points": 7.0,
+    "wins": 0,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1969,
+    "position": 6,
+    "position_text": "6",
+    "points": 7.0,
+    "wins": 0,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "cooper-maserati",
+    "constructor": "Cooper-Maserati",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "brabham-repco",
+    "constructor": "Brabham-Repco",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "brm-ford",
+    "constructor": "BRM-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "eagle-climax",
+    "constructor": "Eagle-Climax",
+    "constructor_nationality": "American",
+    "constructor_url": "https://en.wikipedia.org/wiki/All_American_Racers"
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "brabham-climax",
+    "constructor": "Brabham-Climax",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  }
+]

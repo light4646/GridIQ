@@ -1,0 +1,24 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,hakkinen,Mika Häkkinen,Finnish,,100.0,1,1,8,1998
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,86.0,2,2,6,1998
+"[""mclaren""]","[""McLaren""]",COU,coulthard,David Coulthard,British,,56.0,3,3,1,1998
+"[""ferrari""]","[""Ferrari""]",,irvine,Eddie Irvine,British,,47.0,4,4,0,1998
+"[""williams""]","[""Williams""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,21.0,5,5,0,1998
+"[""jordan""]","[""Jordan""]",,damon_hill,Damon Hill,British,,20.0,6,6,1,1998
+"[""williams""]","[""Williams""]",,frentzen,Heinz-Harald Frentzen,German,,17.0,7,7,0,1998
+"[""benetton""]","[""Benetton""]",WUR,wurz,Alexander Wurz,Austrian,,17.0,8,8,0,1998
+"[""benetton""]","[""Benetton""]",FIS,fisichella,Giancarlo Fisichella,Italian,,16.0,9,9,0,1998
+"[""jordan""]","[""Jordan""]",SCH,ralf_schumacher,Ralf Schumacher,German,,14.0,10,10,0,1998
+"[""sauber""]","[""Sauber""]",,alesi,Jean Alesi,French,,9.0,11,11,0,1998
+"[""stewart""]","[""Stewart""]",BAR,barrichello,Rubens Barrichello,Brazilian,,4.0,12,12,0,1998
+"[""arrows""]","[""Arrows""]",,salo,Mika Salo,Finnish,,3.0,13,13,0,1998
+"[""arrows""]","[""Arrows""]",,diniz,Pedro Diniz,Brazilian,,3.0,14,14,0,1998
+"[""sauber""]","[""Sauber""]",,herbert,Johnny Herbert,British,,1.0,15,15,0,1998
+"[""prost""]","[""Prost""]",TRU,trulli,Jarno Trulli,Italian,,1.0,16,16,0,1998
+"[""stewart""]","[""Stewart""]",MAG,magnussen,Jan Magnussen,Danish,,1.0,17,17,0,1998
+"[""minardi""]","[""Minardi""]",,nakano,Shinji Nakano,Japanese,,0.0,,-,0,1998
+"[""minardi""]","[""Minardi""]",,tuero,Esteban Tuero,Argentine,,0.0,,-,0,1998
+"[""tyrrell""]","[""Tyrrell""]",,rosset,Ricardo Rosset,Brazilian,,0.0,,-,0,1998
+"[""tyrrell""]","[""Tyrrell""]",,takagi,Toranosuke Takagi,Japanese,,0.0,,-,0,1998
+"[""prost""]","[""Prost""]",,panis,Olivier Panis,French,,0.0,,-,0,1998
+"[""stewart""]","[""Stewart""]",,verstappen,Jos Verstappen,Dutch,,0.0,,-,0,1998

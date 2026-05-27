@@ -1,0 +1,40 @@
+{
+  "year": 1958,
+  "generated_at": "2026-05-27T06:00:44.748701+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 11,
+  "race_results": 226,
+  "qualifying_results": 0,
+  "drivers": 79,
+  "constructors": 8,
+  "driver_champion": {
+    "year": 1958,
+    "position": 1,
+    "position_text": "1",
+    "points": 42.0,
+    "wins": 1,
+    "driver_id": "hawthorn",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mike Hawthorn",
+    "driver_nationality": "British",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1958,
+    "position": 1,
+    "position_text": "1",
+    "points": 48.0,
+    "wins": 6,
+    "constructor_id": "vanwall",
+    "constructor": "Vanwall",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Vanwall"
+  }
+}

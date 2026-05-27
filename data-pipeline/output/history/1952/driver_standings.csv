@@ -1,0 +1,101 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",,ascari,Alberto Ascari,Italian,,36.0,1,1,6,1952
+"[""ferrari""]","[""Ferrari""]",,farina,Nino Farina,Italian,,24.0,2,2,0,1952
+"[""ferrari""]","[""Ferrari""]",,taruffi,Piero Taruffi,Italian,,22.0,3,3,1,1952
+"[""ferrari""]","[""Ferrari""]",,fischer,Rudi Fischer,Swiss,,10.0,4,4,0,1952
+"[""cooper""]","[""Cooper""]",,hawthorn,Mike Hawthorn,British,,10.0,5,5,0,1952
+"[""gordini""]","[""Gordini""]",,manzon,Robert Manzon,French,,9.0,6,6,0,1952
+"[""kuzma""]","[""Kuzma""]",,ruttman,Troy Ruttman,American,,8.0,7,7,1,1952
+"[""ferrari""]","[""Ferrari""]",,villoresi,Luigi Villoresi,Italian,,8.0,8,8,0,1952
+"[""maserati""]","[""Maserati""]",,gonzalez,José Froilán González,Argentine,,6.5,9,9,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,rathmann,Jim Rathmann,American,,6.0,10,10,0,1952
+"[""gordini""]","[""Gordini""]",,behra,Jean Behra,French,,6.0,11,11,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hanks,Sam Hanks,American,,4.0,12,12,0,1952
+"[""frazer_nash"", ""cooper""]","[""Frazer Nash"", ""Cooper""]",,wharton,Ken Wharton,British,,3.0,13,13,0,1952
+"[""connaught""]","[""Connaught""]",,poore,Dennis Poore,British,,3.0,14,14,0,1952
+"[""lesovsky""]","[""Lesovsky""]",,darter,Duane Carter,American,,3.0,15,15,0,1952
+"[""cooper""]","[""Cooper""]",,alan_brown,Alan Brown,British,,2.0,16,16,0,1952
+"[""simca"", ""gordini""]","[""Simca"", ""Gordini""]",,trintignant,Maurice Trintignant,French,,2.0,17,17,0,1952
+"[""hwm"", ""simca""]","[""HWM"", ""Simca""]",,frere,Paul Frère,Belgian,,2.0,18,18,0,1952
+"[""maserati""]","[""Maserati""]",,bonetto,Felice Bonetto,Italian,,2.0,19,19,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,cross,Art Cross,American,,2.0,20,20,0,1952
+"[""connaught""]","[""Connaught""]",,thompson,Eric Thompson,British,,2.0,21,21,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,vukovich,Bill Vukovich,American,,1.0,22,22,0,1952
+"[""hwm"", ""ferrari""]","[""HWM"", ""Ferrari""]",,laurent,Roger Laurent,Belgian,,0.0,,-,0,1952
+"[""maserati""]","[""Maserati""]",,graffenried,Toulo de Graffenried,Swiss,,0.0,,-,0,1952
+"[""ferrari""]","[""Ferrari""]",,simon,André Simon,French,,0.0,,-,0,1952
+"[""hwm""]","[""HWM""]",,collins,Peter Collins,British,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,bryan,Jimmy Bryan,American,,0.0,,-,0,1952
+"[""ferrari""]","[""Ferrari""]",,hirt,Peter Hirt,Swiss,,0.0,,-,0,1952
+"[""ferrari""]","[""Ferrari""]",,tornaco,Charles de Tornaco,Belgian,,0.0,,-,0,1952
+"[""hwm""]","[""HWM""]",,duncan_hamilton,Duncan Hamilton,British,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,reece,Jimmy Reece,American,,0.0,,-,0,1952
+"[""cooper""]","[""Cooper""]",,reg_parnell,Reg Parnell,British,,0.0,,-,0,1952
+"[""veritas""]","[""Veritas""]",,riess,Fritz Riess,German,,0.0,,-,0,1952
+"[""hwm""]","[""HWM""]",,macklin,Lance Macklin,British,,0.0,,-,0,1952
+"[""cooper""]","[""Cooper""]",,brandon,Eric Brandon,British,,0.0,,-,0,1952
+"[""maserati""]","[""Maserati""]",,landi,Chico Landi,Brazilian,,0.0,,-,0,1952
+"[""gordini"", ""simca"", ""hwm""]","[""Gordini"", ""Simca"", ""HWM""]",,claes,Johnny Claes,Belgian,,0.0,,-,0,1952
+"[""veritas""]","[""Veritas""]",,ulmen,Toni Ulmen,German,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,george_connor,George Connor,American,,0.0,,-,0,1952
+"[""maserati""]","[""Maserati""]",,etancelin,Philippe Étancelin,French,,0.0,,-,0,1952
+"[""ferrari""]","[""Ferrari""]",,salvadori,Roy Salvadori,British,,0.0,,-,0,1952
+"[""connaught""]","[""Connaught""]",,downing,Ken Downing,British,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,griffith,Cliff Griffith,American,,0.0,,-,0,1952
+"[""afm""]","[""AFM""]",,niedermayr,Helmut Niedermayr,German,,0.0,,-,0,1952
+"[""maserati""]","[""Maserati""]",,flinterman,Jan Flinterman,Dutch,,0.0,,-,0,1952
+"[""simca"", ""gordini""]","[""Simca"", ""Gordini""]",,bira,Prince Bira,Thai,,0.0,,-,0,1952
+"[""alta"", ""ferrari""]","[""Alta"", ""Ferrari""]",,whitehead,Peter Whitehead,British,,0.0,,-,0,1952
+"[""ferrari""]","[""Ferrari""]",,rosier,Louis Rosier,French,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,parsons,Johnnie Parsons,American,,0.0,,-,0,1952
+"[""hwm""]","[""HWM""]",,cabantous,Yves Cabantous,French,,0.0,,-,0,1952
+"[""maserati""]","[""Maserati""]",,cantoni,Eitel Cantoni,Uruguayan,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,mcgrath,Jack McGrath,American,,0.0,,-,0,1952
+"[""veritas""]","[""Veritas""]",,klenk,Hans Klenk,German,,0.0,,-,0,1952
+"[""watson""]","[""Watson""]",,rigsby,Jim Rigsby,American,,0.0,,-,0,1952
+"[""ferrari""]","[""Ferrari""]",,comotti,Franco Comotti,Italian,,0.0,,-,0,1952
+"[""alta""]","[""Alta""]",,graham_whitehead,Graham Whitehead,British,,0.0,,-,0,1952
+"[""bmw""]","[""BMW""]",,klodwig,Ernst Klodwig,East German,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,james,Joe James,American,,0.0,,-,0,1952
+"[""veritas""]","[""Veritas""]",,legat,Arthur Legat,Belgian,,0.0,,-,0,1952
+"[""stevens""]","[""Stevens""]",,schindler,Bill Schindler,American,,0.0,,-,0,1952
+"[""simca""]","[""Simca""]",,obrien,Robert O'Brien,American,,0.0,,-,0,1952
+"[""hwm""]","[""HWM""]",,gaze,Tony Gaze,Australian,,0.0,,-,0,1952
+"[""sherman""]","[""Sherman""]",,fonder,George Fonder,American,,0.0,,-,0,1952
+"[""connaught""]","[""Connaught""]",,mcalpine,Kenneth McAlpine,British,,0.0,,-,0,1952
+"[""trevis""]","[""Trevis""]",,johnson,Eddie Johnson,American,,0.0,,-,0,1952
+"[""maserati""]","[""Maserati""]",,schell,Harry Schell,American,,0.0,,-,0,1952
+"[""maserati""]","[""Maserati""]",,bianco,Gino Bianco,Brazilian,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,stevenson,Chuck Stevenson,American,,0.0,,-,0,1952
+"[""lesovsky""]","[""Lesovsky""]",,banks,Henry Banks,American,,0.0,,-,0,1952
+"[""lesovsky""]","[""Lesovsky""]",,ayulo,Manny Ayulo,American,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,mcdowell,Johnny McDowell,American,,0.0,,-,0,1952
+"[""frazer_nash""]","[""Frazer Nash""]",,crook,Tony Crook,British,,0.0,,-,0,1952
+"[""hwm"", ""era"", ""connaught""]","[""HWM"", ""ERA"", ""Connaught""]",,moss,Stirling Moss,British,,0.0,,-,0,1952
+"[""hwm""]","[""HWM""]",,lof,Dries van der Lof,Dutch,,0.0,,-,0,1952
+"[""afm""]","[""AFM""]",,heeks,Willi Heeks,German,,0.0,,-,0,1952
+"[""butterworth""]","[""Aston Butterworth""]",,charrington,Robin Montgomerie-Charrington,British,,0.0,,-,0,1952
+"[""veritas""]","[""Veritas""]",,brudes,Adolf Brudes,German,,0.0,,-,0,1952
+"[""hwm""]","[""HWM""]",,abecassis,George Abecassis,British,,0.0,,-,0,1952
+"[""bmw""]","[""BMW""]",,balsa,Marcel Balsa,French,,0.0,,-,0,1952
+"[""afm"", ""ferrari""]","[""AFM"", ""Ferrari""]",,hans_stuck,Hans von Stuck,German,,0.0,,-,0,1952
+"[""bmw""]","[""BMW""]",,bechem,Günther Bechem,German,,0.0,,-,0,1952
+"[""ferrari""]","[""Ferrari""]",,carini,Piero Carini,Italian,,0.0,,-,0,1952
+"[""bmw""]","[""BMW""]",,krause,Rudolf Krause,East German,,0.0,,-,0,1952
+"[""maserati""]","[""Maserati""]",,rol,Franco Rol,Italian,,0.0,,-,0,1952
+"[""simca""]","[""Simca""]",,terra,Max de Terra,Swiss,,0.0,,-,0,1952
+"[""ferrari""]","[""Ferrari""]",,schoeller,Rudolf Schoeller,Swiss,,0.0,,-,0,1952
+"[""butterworth""]","[""Aston Butterworth""]",,aston,Bill Aston,British,,0.0,,-,0,1952
+"[""bromme""]","[""Bromme""]",,webb,Travis Webb,American,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,ward,Rodger Ward,American,,0.0,,-,0,1952
+"[""deidt""]","[""Deidt""]",,bettenhausen,Tony Bettenhausen,American,,0.0,,-,0,1952
+"[""veritas""]","[""Veritas""]",,pietsch,Paul Pietsch,German,,0.0,,-,0,1952
+"[""osca""]","[""OSCA""]",,bayol,Élie Bayol,French,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,nalon,Duke Nalon,American,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,sweikert,Bob Sweikert,American,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,agabashian,Fred Agabashian,American,,0.0,,-,0,1952
+"[""veritas""]","[""Veritas""]",,helfrich,Theo Helfrich,German,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hartley,Gene Hartley,American,,0.0,,-,0,1952
+"[""cooper""]","[""Cooper""]",,murray,David Murray,British,,0.0,,-,0,1952
+"[""veritas""]","[""Veritas""]",,peters,Josef Peters,German,,0.0,,-,0,1952
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,bob_scott,Bob Scott,American,,0.0,,-,0,1952

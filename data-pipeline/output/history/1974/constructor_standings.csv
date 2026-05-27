@@ -1,0 +1,19 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,72.0,1,1,4,1974
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,65.0,2,2,3,1974
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,51.0,3,3,2,1974
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,42.0,4,4,3,1974
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,35.0,5,5,3,1974
+Hesketh,hesketh,British,https://en.wikipedia.org/wiki/Hesketh_Racing,15.0,6,6,0,1974
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,10.0,7,7,0,1974
+Shadow,shadow,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,7.0,8,8,0,1974
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,6.0,9,9,0,1974
+Iso Marlboro,iso_marlboro,British,https://en.wikipedia.org/wiki/Frank_Williams_Racing_Cars,4.0,10,10,0,1974
+Surtees,surtees,British,https://en.wikipedia.org/wiki/Surtees,3.0,11,11,0,1974
+Lola,lola,British,https://en.wikipedia.org/wiki/MasterCard_Lola,1.0,12,12,0,1974
+Parnelli,parnelli,American,https://en.wikipedia.org/wiki/Vel's_Parnelli_Jones_Racing,0.0,,-,0,1974
+Trojan,trojan,British,https://en.wikipedia.org/wiki/Trojan–Tauranac_Racing,0.0,,-,0,1974
+Penske,penske,American,https://en.wikipedia.org/wiki/Team_Penske,0.0,,-,0,1974
+Token,token,British,https://en.wikipedia.org/wiki/Token_Racing,0.0,,-,0,1974
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,0.0,,-,0,1974
+Amon,amon,New Zealander,https://en.wikipedia.org/wiki/Chris_Amon_Racing,0.0,,-,0,1974

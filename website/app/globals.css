@@ -297,3 +297,108 @@
   cursor: not-allowed;
   opacity: 0.55;
 }
+
+/* ─── Monetization ─────────────────────────────────────────── */
+.adUnit {
+  margin: 24px 0;
+  min-height: 90px;
+  overflow: hidden;
+}
+
+/* F1 TV compact pill */
+.f1tvCompact {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: #dce7ff;
+  border: 1px solid rgba(255, 75, 75, 0.35);
+  background: rgba(255, 75, 75, 0.09);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-size: 13px;
+  font-weight: 800;
+  transition: background 160ms ease, border-color 160ms ease;
+}
+.f1tvCompact:hover {
+  background: rgba(255, 75, 75, 0.16);
+  border-color: rgba(255, 75, 75, 0.6);
+}
+.f1tvFlag { font-size: 15px; }
+.f1tvArrow { color: #ff7a7a; }
+
+/* F1 TV full banner */
+.f1tvBanner {
+  margin: 24px 0;
+  border: 1px solid rgba(255, 75, 75, 0.28);
+  border-radius: 20px;
+  background: linear-gradient(135deg, rgba(255, 45, 45, 0.1), rgba(9, 16, 32, 0.88) 55%, rgba(122, 162, 255, 0.08));
+  overflow: hidden;
+}
+.f1tvBannerInner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 24px 28px;
+}
+.f1tvBannerEyebrow {
+  color: #ff8080;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 11px;
+  font-weight: 800;
+  margin-bottom: 6px;
+}
+.f1tvBannerTitle {
+  margin: 0 0 8px;
+  font-size: 18px;
+  font-weight: 900;
+  color: #eef3ff;
+}
+.f1tvBannerBody {
+  margin: 0;
+  color: #8ea0c9;
+  font-size: 14px;
+  line-height: 1.55;
+  max-width: 540px;
+}
+.f1tvBannerActions {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+.f1tvBannerCta {
+  display: inline-block;
+  text-decoration: none;
+  background: linear-gradient(135deg, #e02020, #c01515);
+  color: #fff;
+  font-weight: 900;
+  font-size: 15px;
+  padding: 12px 24px;
+  border-radius: 14px;
+  white-space: nowrap;
+  box-shadow: 0 8px 28px rgba(200, 20, 20, 0.35);
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+.f1tvBannerCta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 36px rgba(200, 20, 20, 0.48);
+}
+.f1tvBannerNote {
+  margin: 0;
+  color: #6a7a9a;
+  font-size: 11px;
+  text-align: center;
+}
+@media (max-width: 720px) {
+  .f1tvBannerInner {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+  .f1tvBannerActions { width: 100%; align-items: flex-start; }
+  .f1tvBannerCta { width: 100%; text-align: center; }
+}

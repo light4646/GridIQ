@@ -1,0 +1,20 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,141.0,1,1,10,1989
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,77.0,2,2,2,1989
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,59.0,3,3,3,1989
+Benetton,benetton,Italian,https://en.wikipedia.org/wiki/Benetton_Formula,39.0,4,4,1,1989
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,16.0,5,5,0,1989
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,15.0,6,6,0,1989
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,13.0,7,7,0,1989
+Dallara,dallara,Italian,https://en.wikipedia.org/wiki/Dallara,8.0,8,8,0,1989
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,8.0,9,9,0,1989
+Onyx,onyx,British,https://en.wikipedia.org/wiki/Onyx_Grand_Prix,6.0,10,10,0,1989
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,6.0,11,11,0,1989
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,4.0,12,12,0,1989
+Rial,rial,German,https://en.wikipedia.org/wiki/Rial_Racing,3.0,13,13,0,1989
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,3.0,14,14,0,1989
+AGS,ags,French,https://en.wikipedia.org/wiki/Automobiles_Gonfaronnaises_Sportives,1.0,15,15,0,1989
+Larrousse,larrousse,French,https://en.wikipedia.org/wiki/Larrousse,1.0,16,16,0,1989
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,0.0,,-,0,1989
+Coloni,coloni,Italian,https://en.wikipedia.org/wiki/Scuderia_Coloni,0.0,,-,0,1989
+Zakspeed,zakspeed,German,https://en.wikipedia.org/wiki/Zakspeed,0.0,,-,0,1989

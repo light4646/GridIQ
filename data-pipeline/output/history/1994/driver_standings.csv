@@ -1,0 +1,47 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""benetton""]","[""Benetton""]",MSC,michael_schumacher,Michael Schumacher,German,,92.0,1,1,8,1994
+"[""williams""]","[""Williams""]",,damon_hill,Damon Hill,British,,91.0,2,2,6,1994
+"[""ferrari""]","[""Ferrari""]",,berger,Gerhard Berger,Austrian,,41.0,3,3,1,1994
+"[""mclaren""]","[""McLaren""]",,hakkinen,Mika Häkkinen,Finnish,,26.0,4,4,0,1994
+"[""ferrari""]","[""Ferrari""]",,alesi,Jean Alesi,French,,24.0,5,5,0,1994
+"[""jordan""]","[""Jordan""]",BAR,barrichello,Rubens Barrichello,Brazilian,,19.0,6,6,0,1994
+"[""mclaren""]","[""McLaren""]",,brundle,Martin Brundle,British,,16.0,7,7,0,1994
+"[""williams""]","[""Williams""]",COU,coulthard,David Coulthard,British,,14.0,8,8,0,1994
+"[""williams""]","[""Williams""]",,mansell,Nigel Mansell,British,,13.0,9,9,1,1994
+"[""benetton""]","[""Benetton""]",,verstappen,Jos Verstappen,Dutch,,10.0,10,10,0,1994
+"[""ligier""]","[""Ligier""]",,panis,Olivier Panis,French,,9.0,11,11,0,1994
+"[""tyrrell""]","[""Tyrrell""]",,blundell,Mark Blundell,British,,8.0,12,12,0,1994
+"[""sauber""]","[""Sauber""]",,frentzen,Heinz-Harald Frentzen,German,,7.0,13,13,0,1994
+"[""ferrari""]","[""Ferrari""]",,larini,Nicola Larini,Italian,,6.0,14,14,0,1994
+"[""footwork""]","[""Footwork""]",,fittipaldi,Christian Fittipaldi,Brazilian,,6.0,15,15,0,1994
+"[""jordan""]","[""Jordan""]",,irvine,Eddie Irvine,British,,6.0,16,16,0,1994
+"[""tyrrell""]","[""Tyrrell""]",,katayama,Ukyo Katayama,Japanese,,5.0,17,17,0,1994
+"[""ligier"", ""team_lotus""]","[""Ligier"", ""Team Lotus""]",,bernard,Éric Bernard,French,,4.0,18,18,0,1994
+"[""sauber""]","[""Sauber""]",,wendlinger,Karl Wendlinger,Austrian,,4.0,19,19,0,1994
+"[""jordan"", ""sauber""]","[""Jordan"", ""Sauber""]",,cesaris,Andrea de Cesaris,Italian,,4.0,20,20,0,1994
+"[""minardi""]","[""Minardi""]",,martini,Pierluigi Martini,Italian,,4.0,21,21,0,1994
+"[""footwork""]","[""Footwork""]",,morbidelli,Gianni Morbidelli,Italian,,3.0,22,22,0,1994
+"[""larrousse""]","[""Larrousse""]",,comas,Érik Comas,French,,2.0,23,23,0,1994
+"[""benetton"", ""sauber""]","[""Benetton"", ""Sauber""]",,lehto,Jyrki Järvilehto,Finnish,,1.0,24,24,0,1994
+"[""minardi""]","[""Minardi""]",,alboreto,Michele Alboreto,Italian,,1.0,25,25,0,1994
+"[""team_lotus"", ""ligier"", ""benetton""]","[""Team Lotus"", ""Ligier"", ""Benetton""]",,herbert,Johnny Herbert,British,,0.0,,-,0,1994
+"[""larrousse""]","[""Larrousse""]",,beretta,Olivier Beretta,Monegasque,,0.0,,-,0,1994
+"[""team_lotus""]","[""Team Lotus""]",,lamy,Pedro Lamy,Portuguese,,0.0,,-,0,1994
+"[""simtek""]","[""Simtek""]",,gounon,Jean-Marc Gounon,French,,0.0,,-,0,1994
+"[""team_lotus""]","[""Team Lotus""]",,zanardi,Alessandro Zanardi,Italian,,0.0,,-,0,1994
+"[""simtek""]","[""Simtek""]",,brabham,David Brabham,Australian,,0.0,,-,0,1994
+"[""team_lotus""]","[""Team Lotus""]",,salo,Mika Salo,Finnish,,0.0,,-,0,1994
+"[""ligier""]","[""Ligier""]",,lagorce,Franck Lagorce,French,,0.0,,-,0,1994
+"[""simtek""]","[""Simtek""]",,ratzenberger,Roland Ratzenberger,Austrian,,0.0,,-,0,1994
+"[""larrousse""]","[""Larrousse""]",,dalmas,Yannick Dalmas,French,,0.0,,-,0,1994
+"[""team_lotus""]","[""Team Lotus""]",,adams,Philippe Adams,Belgian,,0.0,,-,0,1994
+"[""simtek""]","[""Simtek""]",,schiattarella,Domenico Schiattarella,Italian,,0.0,,-,0,1994
+"[""williams""]","[""Williams""]",,senna,Ayrton Senna,Brazilian,,0.0,,-,0,1994
+"[""pacific""]","[""Pacific""]",,belmondo,Paul Belmondo,French,,0.0,,-,0,1994
+"[""pacific""]","[""Pacific""]",,gachot,Bertrand Gachot,Belgian,,0.0,,-,0,1994
+"[""larrousse""]","[""Larrousse""]",,deletraz,Jean-Denis Délétraz,Swiss,,0.0,,-,0,1994
+"[""jordan""]","[""Jordan""]",,suzuki,Aguri Suzuki,Japanese,,0.0,,-,0,1994
+"[""mclaren"", ""larrousse""]","[""McLaren"", ""Larrousse""]",,alliot,Philippe Alliot,French,,0.0,,-,0,1994
+"[""larrousse""]","[""Larrousse""]",,noda,Hideki Noda,Japanese,,0.0,,-,0,1994
+"[""simtek""]","[""Simtek""]",,inoue,Taki Inoue,Japanese,,0.0,,-,0,1994
+"[""simtek""]","[""Simtek""]",,montermini,Andrea Montermini,Italian,,0.0,,-,0,1994

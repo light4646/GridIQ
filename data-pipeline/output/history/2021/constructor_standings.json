@@ -1,82 +1,112 @@
 [
   {
-    "constructor": "Mercedes",
-    "points": 604.5,
+    "year": 2021,
+    "position": 1,
+    "position_text": "1",
+    "points": 613.5,
     "wins": 9,
-    "podiums": 28,
-    "starts": 44,
-    "position": 1
+    "constructor_id": "mercedes",
+    "constructor": "Mercedes",
+    "constructor_nationality": "German",
+    "constructor_url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One"
   },
   {
-    "constructor": "Red Bull Racing",
-    "points": 578.5,
+    "year": 2021,
+    "position": 2,
+    "position_text": "2",
+    "points": 585.5,
     "wins": 11,
-    "podiums": 23,
-    "starts": 44,
-    "position": 2
+    "constructor_id": "red_bull",
+    "constructor": "Red Bull",
+    "constructor_nationality": "Austrian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Red_Bull_Racing"
   },
   {
-    "constructor": "Ferrari",
-    "points": 322.5,
+    "year": 2021,
+    "position": 3,
+    "position_text": "3",
+    "points": 323.5,
     "wins": 0,
-    "podiums": 5,
-    "starts": 44,
-    "position": 3
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
   },
   {
-    "constructor": "McLaren",
-    "points": 274.0,
+    "year": 2021,
+    "position": 4,
+    "position_text": "4",
+    "points": 275.0,
     "wins": 1,
-    "podiums": 5,
-    "starts": 44,
-    "position": 4
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
   },
   {
-    "constructor": "Alpine",
+    "year": 2021,
+    "position": 5,
+    "position_text": "5",
     "points": 155.0,
     "wins": 1,
-    "podiums": 2,
-    "starts": 44,
-    "position": 5
+    "constructor_id": "alpine",
+    "constructor": "Alpine F1 Team",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Alpine_F1_Team"
   },
   {
-    "constructor": "AlphaTauri",
+    "year": 2021,
+    "position": 6,
+    "position_text": "6",
     "points": 142.0,
     "wins": 0,
-    "podiums": 1,
-    "starts": 44,
-    "position": 6
+    "constructor_id": "alphatauri",
+    "constructor": "AlphaTauri",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_AlphaTauri"
   },
   {
-    "constructor": "Aston Martin",
+    "year": 2021,
+    "position": 7,
+    "position_text": "7",
     "points": 77.0,
     "wins": 0,
-    "podiums": 1,
-    "starts": 44,
-    "position": 7
+    "constructor_id": "aston_martin",
+    "constructor": "Aston Martin",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One"
   },
   {
-    "constructor": "Williams",
+    "year": 2021,
+    "position": 8,
+    "position_text": "8",
     "points": 23.0,
     "wins": 0,
-    "podiums": 1,
-    "starts": 44,
-    "position": 8
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
   },
   {
-    "constructor": "Alfa Romeo Racing",
+    "year": 2021,
+    "position": 9,
+    "position_text": "9",
     "points": 13.0,
     "wins": 0,
-    "podiums": 0,
-    "starts": 44,
-    "position": 9
+    "constructor_id": "alfa",
+    "constructor": "Alfa Romeo",
+    "constructor_nationality": "Swiss",
+    "constructor_url": "https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One"
   },
   {
-    "constructor": "Haas F1 Team",
+    "year": 2021,
+    "position": 10,
+    "position_text": "10",
     "points": 0.0,
     "wins": 0,
-    "podiums": 0,
-    "starts": 44,
-    "position": 10
+    "constructor_id": "haas",
+    "constructor": "Haas F1 Team",
+    "constructor_nationality": "American",
+    "constructor_url": "https://en.wikipedia.org/wiki/Haas_F1_Team"
   }
 ]

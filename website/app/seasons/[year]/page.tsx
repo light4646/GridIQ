@@ -9,6 +9,9 @@ import {
   getSeasonSchedule,
   getSeasonSummary,
 } from "@/lib/history";
+import F1TVBanner from "@/components/F1TVBanner";
+import AdUnit from "@/components/AdUnit";
+import { ADSENSE } from "@/lib/monetization";
 
 function getConstructorName(row: { constructor?: unknown; constructor_id?: unknown }) {
   if (
@@ -172,6 +175,8 @@ export default async function SeasonDetailPage({ params }: PageProps) {
           </div>
         </section>
 
+        <AdUnit slot={ADSENSE.slots.inContent} />
+
         <section className="grid analyticsGrid">
           <div className="panel">
             <div className="panelHeader">
@@ -233,6 +238,8 @@ export default async function SeasonDetailPage({ params }: PageProps) {
             </table>
           </div>
         </section>
+
+        <F1TVBanner />
 
         <div className="footer">
           Source: {summary.source}. Generated through {summary.through_date}.

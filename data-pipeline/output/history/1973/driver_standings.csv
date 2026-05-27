@@ -1,0 +1,44 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""tyrrell""]","[""Tyrrell""]",,stewart,Jackie Stewart,British,,71.0,1,1,5,1973
+"[""team_lotus""]","[""Team Lotus""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,55.0,2,2,3,1973
+"[""team_lotus""]","[""Team Lotus""]",,peterson,Ronnie Peterson,Swedish,,52.0,3,3,4,1973
+"[""tyrrell""]","[""Tyrrell""]",,cevert,François Cevert,French,,47.0,4,4,0,1973
+"[""mclaren""]","[""McLaren""]",,revson,Peter Revson,American,,38.0,5,5,2,1973
+"[""mclaren""]","[""McLaren""]",,hulme,Denny Hulme,New Zealander,,26.0,6,6,1,1973
+"[""brabham""]","[""Brabham""]",,reutemann,Carlos Reutemann,Argentine,,16.0,7,7,0,1973
+"[""march""]","[""March""]",,hunt,James Hunt,British,,14.0,8,8,0,1973
+"[""ferrari"", ""mclaren"", ""iso_marlboro""]","[""Ferrari"", ""McLaren"", ""Iso Marlboro""]",,ickx,Jacky Ickx,Belgian,,12.0,9,9,0,1973
+"[""brm""]","[""BRM""]",,beltoise,Jean-Pierre Beltoise,French,,9.0,10,10,0,1973
+"[""surtees""]","[""Surtees""]",,pace,Carlos Pace,Brazilian,,7.0,11,11,0,1973
+"[""ferrari""]","[""Ferrari""]",,merzario,Arturo Merzario,Italian,,6.0,12,12,0,1973
+"[""shadow""]","[""Shadow""]",,follmer,George Follmer,American,,5.0,13,13,0,1973
+"[""shadow""]","[""Shadow""]",,oliver,Jackie Oliver,British,,4.0,14,14,0,1973
+"[""surtees"", ""brabham""]","[""Surtees"", ""Brabham""]",,adamich,Andrea de Adamich,Italian,,3.0,15,15,0,1973
+"[""brabham""]","[""Brabham""]",,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,,3.0,16,16,0,1973
+"[""brm""]","[""BRM""]",,lauda,Niki Lauda,Austrian,,2.0,17,17,0,1973
+"[""brm""]","[""BRM""]",,regazzoni,Clay Regazzoni,Swiss,,2.0,18,18,0,1973
+"[""iso_marlboro""]","[""Iso Marlboro""]",,ganley,Howden Ganley,New Zealander,,1.0,19,19,0,1973
+"[""iso_marlboro""]","[""Iso Marlboro""]",,lennep,Gijs van Lennep,Dutch,,1.0,20,20,0,1973
+"[""tecno"", ""tyrrell""]","[""Tecno"", ""Tyrrell""]",,amon,Chris Amon,New Zealander,,1.0,21,21,0,1973
+"[""surtees""]","[""Surtees""]",,hailwood,Mike Hailwood,British,,0.0,,-,0,1973
+"[""march""]","[""March""]",,beuttler,Mike Beuttler,British,,0.0,,-,0,1973
+"[""surtees""]","[""Surtees""]",,mass,Jochen Mass,German,,0.0,,-,0,1973
+"[""march"", ""iso_marlboro""]","[""March"", ""Iso Marlboro""]",,pescarolo,Henri Pescarolo,French,,0.0,,-,0,1973
+"[""shadow""]","[""Shadow""]",,hill,Graham Hill,British,,0.0,,-,0,1973
+"[""iso_marlboro""]","[""Iso Marlboro""]",,galli,Nanni Galli,Italian,,0.0,,-,0,1973
+"[""march""]","[""March""]",,purley,David Purley,British,,0.0,,-,0,1973
+"[""mclaren""]","[""McLaren""]",,scheckter,Jody Scheckter,South African,,0.0,,-,0,1973
+"[""brabham""]","[""Brabham""]",,stommelen,Rolf Stommelen,German,,0.0,,-,0,1973
+"[""march""]","[""March""]",,jarier,Jean-Pierre Jarier,French,,0.0,,-,0,1973
+"[""surtees""]","[""Surtees""]",,bueno,Luiz Bueno,Brazilian,,0.0,,-,0,1973
+"[""ensign""]","[""Ensign""]",,opel,Rikky von Opel,Liechtensteiner,,0.0,,-,0,1973
+"[""iso_marlboro""]","[""Iso Marlboro""]",,schenken,Tim Schenken,Australian,,0.0,,-,0,1973
+"[""tyrrell""]","[""Tyrrell""]",,keizan,Eddie Keizan,South African,,0.0,,-,0,1973
+"[""brabham""]","[""Brabham""]",,watson,John Watson,British,,0.0,,-,0,1973
+"[""iso_marlboro""]","[""Iso Marlboro""]",,pretorius,Jackie Pretorius,South African,,0.0,,-,0,1973
+"[""march""]","[""March""]",,williamson,Roger Williamson,British,,0.0,,-,0,1973
+"[""march""]","[""March""]",,wisell,Reine Wisell,Swedish,,0.0,,-,0,1973
+"[""team_lotus""]","[""Team Lotus""]",,charlton,Dave Charlton,South African,,0.0,,-,0,1973
+"[""shadow""]","[""Shadow""]",,redman,Brian Redman,British,,0.0,,-,0,1973
+"[""brm""]","[""BRM""]",,gethin,Peter Gethin,British,,0.0,,-,0,1973
+"[""iso_marlboro""]","[""Iso Marlboro""]",,mcrae,Graham McRae,New Zealander,,0.0,,-,0,1973

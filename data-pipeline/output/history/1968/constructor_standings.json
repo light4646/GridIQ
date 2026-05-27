@@ -1,0 +1,189 @@
+[
+  {
+    "year": 1968,
+    "position": 1,
+    "position_text": "1",
+    "points": 62.0,
+    "wins": 5,
+    "constructor_id": "lotus-ford",
+    "constructor": "Lotus-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1968,
+    "position": 2,
+    "position_text": "2",
+    "points": 49.0,
+    "wins": 3,
+    "constructor_id": "mclaren-ford",
+    "constructor": "McLaren-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1968,
+    "position": 3,
+    "position_text": "3",
+    "points": 45.0,
+    "wins": 3,
+    "constructor_id": "matra-ford",
+    "constructor": "Matra-Ford",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Matra"
+  },
+  {
+    "year": 1968,
+    "position": 4,
+    "position_text": "4",
+    "points": 32.0,
+    "wins": 1,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1968,
+    "position": 5,
+    "position_text": "5",
+    "points": 28.0,
+    "wins": 0,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1968,
+    "position": 6,
+    "position_text": "6",
+    "points": 14.0,
+    "wins": 0,
+    "constructor_id": "honda",
+    "constructor": "Honda",
+    "constructor_nationality": "Japanese",
+    "constructor_url": "https://en.wikipedia.org/wiki/Honda_in_Formula_One"
+  },
+  {
+    "year": 1968,
+    "position": 7,
+    "position_text": "7",
+    "points": 14.0,
+    "wins": 0,
+    "constructor_id": "cooper-brm",
+    "constructor": "Cooper-BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1968,
+    "position": 8,
+    "position_text": "8",
+    "points": 10.0,
+    "wins": 0,
+    "constructor_id": "brabham-repco",
+    "constructor": "Brabham-Repco",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1968,
+    "position": 9,
+    "position_text": "9",
+    "points": 8.0,
+    "wins": 0,
+    "constructor_id": "matra",
+    "constructor": "Matra",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Matra"
+  },
+  {
+    "year": 1968,
+    "position": 10,
+    "position_text": "10",
+    "points": 3.0,
+    "wins": 0,
+    "constructor_id": "mclaren-brm",
+    "constructor": "McLaren-BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "cooper-maserati",
+    "constructor": "Cooper-Maserati",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "eagle-weslake",
+    "constructor": "Eagle-Weslake",
+    "constructor_nationality": "American",
+    "constructor_url": "https://en.wikipedia.org/wiki/All_American_Racers"
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "lola",
+    "constructor": "Lola",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/MasterCard_Lola"
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "brabham-climax",
+    "constructor": "Brabham-Climax",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "lds",
+    "constructor": "LDS",
+    "constructor_nationality": "South African",
+    "constructor_url": "https://en.wikipedia.org/wiki/LDS_(automobile)"
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "cooper-climax",
+    "constructor": "Cooper-Climax",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  }
+]

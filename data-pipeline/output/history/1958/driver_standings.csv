@@ -1,0 +1,80 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",,hawthorn,Mike Hawthorn,British,,42.0,1,1,1,1958
+"[""cooper"", ""vanwall""]","[""Cooper"", ""Vanwall""]",,moss,Stirling Moss,British,,41.0,2,2,4,1958
+"[""vanwall""]","[""Vanwall""]",,brooks,Tony Brooks,British,,24.0,3,3,3,1958
+"[""cooper""]","[""Cooper""]",,salvadori,Roy Salvadori,British,,15.0,4,4,0,1958
+"[""ferrari""]","[""Ferrari""]",,collins,Peter Collins,British,,14.0,5,5,1,1958
+"[""maserati"", ""brm""]","[""Maserati"", ""BRM""]",,schell,Harry Schell,American,,14.0,6,6,0,1958
+"[""cooper"", ""maserati"", ""brm""]","[""Cooper"", ""Maserati"", ""BRM""]",,trintignant,Maurice Trintignant,French,,12.0,7,7,1,1958
+"[""ferrari""]","[""Ferrari""]",,musso,Luigi Musso,Italian,,12.0,8,8,0,1958
+"[""vanwall""]","[""Vanwall""]",,lewis-evans,Stuart Lewis-Evans,British,,11.0,9,9,0,1958
+"[""maserati"", ""ferrari""]","[""Maserati"", ""Ferrari""]",,phil_hill,Phil Hill,American,,9.0,10,10,0,1958
+"[""ferrari""]","[""Ferrari""]",,trips,Wolfgang von Trips,German,,9.0,11,11,0,1958
+"[""maserati"", ""brm""]","[""Maserati"", ""BRM""]",,behra,Jean Behra,French,,9.0,12,12,0,1958
+"[""epperly""]","[""Epperly""]",,bryan,Jimmy Bryan,American,,8.0,13,13,1,1958
+"[""maserati""]","[""Maserati""]",,fangio,Juan Fangio,Argentine,,7.0,14,14,0,1958
+"[""epperly""]","[""Epperly""]",,george_amick,George Amick,American,,6.0,15,15,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,boyd,Johnny Boyd,American,,4.0,16,16,0,1958
+"[""epperly""]","[""Epperly""]",,bettenhausen,Tony Bettenhausen,American,,4.0,17,17,0,1958
+"[""cooper""]","[""Cooper""]",,jack_brabham,Jack Brabham,Australian,,3.0,18,18,0,1958
+"[""team_lotus"", ""maserati""]","[""Team Lotus"", ""Maserati""]",,allison,Cliff Allison,British,,3.0,19,19,0,1958
+"[""maserati"", ""brm""]","[""Maserati"", ""BRM""]",,bonnier,Jo Bonnier,Swedish,,3.0,20,20,0,1958
+"[""epperly""]","[""Epperly""]",,rathmann,Jim Rathmann,American,,2.0,21,21,0,1958
+"[""maserati""]","[""Maserati""]",,gregory,Masten Gregory,American,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,shelby,Carroll Shelby,American,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,mclaren,Bruce McLaren,New Zealander,,0.0,,-,0,1958
+"[""team_lotus""]","[""Team Lotus""]",,hill,Graham Hill,British,,0.0,,-,0,1958
+"[""ferrari""]","[""Ferrari""]",,gendebien,Olivier Gendebien,Belgian,,0.0,,-,0,1958
+"[""watson""]","[""Watson""]",,reece,Jimmy Reece,American,,0.0,,-,0,1958
+"[""porsche""]","[""Porsche""]",,barth,Edgar Barth,German,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,burgess,Ian Burgess,British,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,menditeguy,Carlos Menditeguy,Argentine,,0.0,,-,0,1958
+"[""phillips""]","[""Phillips""]",,freeland,Don Freeland,American,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,godia,Paco Godia,Spanish,,0.0,,-,0,1958
+"[""connaught"", ""cooper""]","[""Connaught"", ""Cooper""]",,fairman,Jack Fairman,British,,0.0,,-,0,1958
+"[""watson""]","[""Watson""]",,larson,Jud Larson,American,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,marsh,Tony Marsh,British,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,gerini,Gerino Gerini,Italian,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,herrmann,Hans Herrmann,German,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,gould,Horace Gould,British,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,johnson,Eddie Johnson,American,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,filippis,Maria de Filippis,Italian,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,ruttman,Troy Ruttman,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,cheesbourg,Bill Cheesbourg,American,,0.0,,-,0,1958
+"[""connaught"", ""team_lotus""]","[""Connaught"", ""Team Lotus""]",,bueb,Ivor Bueb,British,,0.0,,-,0,1958
+"[""porsche""]","[""Porsche""]",,beaufort,Carel Godin de Beaufort,Dutch,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,keller,Al Keller,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,parsons,Johnnie Parsons,American,,0.0,,-,0,1958
+"[""kuzma""]","[""Kuzma""]",,tolan,Johnnie Tolan,American,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,la_caze,Robert La Caze,French,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,guelfi,André Guelfi,French,,0.0,,-,0,1958
+"[""osca"", ""maserati""]","[""OSCA"", ""Maserati""]",,cabianca,Giulio Cabianca,Italian,,0.0,,-,0,1958
+"[""maserati""]","[""Maserati""]",,scarlatti,Giorgio Scarlatti,Italian,,0.0,,-,0,1958
+"[""maserati"", ""cooper""]","[""Maserati"", ""Cooper""]",,seidel,Wolfgang Seidel,German,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,christie,Bob Christie,American,,0.0,,-,0,1958
+"[""kuzma""]","[""Kuzma""]",,dempsey_wilson,Dempsey Wilson,American,,0.0,,-,0,1958
+"[""kuzma""]","[""Kuzma""]",,foyt,Anthony Foyt,American,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,goethals,Christian Goethals,Belgian,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,magill,Mike Magill,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,paul_russo,Paul Russo,American,,0.0,,-,0,1958
+"[""team_lotus""]","[""Team Lotus""]",,stacey,Alan Stacey,British,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,picard,François Picard,French,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,templeman,Shorty Templeman,American,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,bridger,Tom Bridger,British,,0.0,,-,0,1958
+"[""lesovsky""]","[""Lesovsky""]",,ward,Rodger Ward,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,garrett,Billy Garrett,American,,0.0,,-,0,1958
+"[""kuzma""]","[""Kuzma""]",,sachs,Eddie Sachs,American,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,gibson,Dick Gibson,British,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,thomson,Johnny Thomson,American,,0.0,,-,0,1958
+"[""cooper""]","[""Cooper""]",,naylor,Brian Naylor,British,,0.0,,-,0,1958
+"[""dunn""]","[""Dunn""]",,weyant,Chuck Weyant,American,,0.0,,-,0,1958
+"[""cooper"", ""brm""]","[""Cooper"", ""BRM""]",,flockhart,Ron Flockhart,British,,0.0,,-,0,1958
+"[""lesovsky""]","[""Lesovsky""]",,turner,Jack Turner,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,veith,Bob Veith,American,,0.0,,-,0,1958
+"[""watson""]","[""Watson""]",,dick_rathmann,Dick Rathmann,American,,0.0,,-,0,1958
+"[""watson""]","[""Watson""]",,elisian,Ed Elisian,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,connor,Pat O'Connor,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,goldsmith,Paul Goldsmith,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,jerry_unser,Jerry Unser,American,,0.0,,-,0,1958
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,sutton,Len Sutton,American,,0.0,,-,0,1958
+"[""kuzma""]","[""Kuzma""]",,bisch,Art Bisch,American,,0.0,,-,0,1958

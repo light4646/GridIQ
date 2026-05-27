@@ -1,0 +1,568 @@
+[
+  {
+    "year": 1969,
+    "position": 1,
+    "position_text": "1",
+    "points": 63.0,
+    "wins": 6,
+    "driver_id": "stewart",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jackie Stewart",
+    "driver_nationality": "British",
+    "constructors": [
+      "Matra-Ford"
+    ],
+    "constructor_ids": [
+      "matra-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 2,
+    "position_text": "2",
+    "points": 37.0,
+    "wins": 2,
+    "driver_id": "ickx",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jacky Ickx",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Brabham-Ford"
+    ],
+    "constructor_ids": [
+      "brabham-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 3,
+    "position_text": "3",
+    "points": 26.0,
+    "wins": 0,
+    "driver_id": "mclaren",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bruce McLaren",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 4,
+    "position_text": "4",
+    "points": 22.0,
+    "wins": 1,
+    "driver_id": "rindt",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jochen Rindt",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 5,
+    "position_text": "5",
+    "points": 21.0,
+    "wins": 0,
+    "driver_id": "beltoise",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean-Pierre Beltoise",
+    "driver_nationality": "French",
+    "constructors": [
+      "Matra-Ford",
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "matra-ford",
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 6,
+    "position_text": "6",
+    "points": 20.0,
+    "wins": 1,
+    "driver_id": "hulme",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Denny Hulme",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 7,
+    "position_text": "7",
+    "points": 19.0,
+    "wins": 1,
+    "driver_id": "hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Graham Hill",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 8,
+    "position_text": "8",
+    "points": 16.0,
+    "wins": 0,
+    "driver_id": "courage",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Piers Courage",
+    "driver_nationality": "British",
+    "constructors": [
+      "Brabham-Ford"
+    ],
+    "constructor_ids": [
+      "brabham-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 9,
+    "position_text": "9",
+    "points": 15.0,
+    "wins": 0,
+    "driver_id": "siffert",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Siffert",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 10,
+    "position_text": "10",
+    "points": 14.0,
+    "wins": 0,
+    "driver_id": "jack_brabham",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jack Brabham",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Brabham-Ford"
+    ],
+    "constructor_ids": [
+      "brabham-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 11,
+    "position_text": "11",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "surtees",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Surtees",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 12,
+    "position_text": "12",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "amon",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Chris Amon",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 13,
+    "position_text": "13",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "attwood",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Richard Attwood",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 14,
+    "position_text": "14",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "elford",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Vic Elford",
+    "driver_nationality": "British",
+    "constructors": [
+      "Cooper-Maserati",
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "cooper-maserati",
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 15,
+    "position_text": "15",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "rodriguez",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pedro Rodr\u00edguez",
+    "driver_nationality": "Mexican",
+    "constructors": [
+      "BRM",
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "brm",
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 16,
+    "position_text": "16",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "moser",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Silvio Moser",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Brabham-Ford"
+    ],
+    "constructor_ids": [
+      "brabham-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 17,
+    "position_text": "17",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "oliver",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jackie Oliver",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM",
+      "BRM-Ford"
+    ],
+    "constructor_ids": [
+      "brm",
+      "brm-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": 18,
+    "position_text": "18",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "gavin",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Johnny Servoz-Gavin",
+    "driver_nationality": "French",
+    "constructors": [
+      "Matra-Ford"
+    ],
+    "constructor_ids": [
+      "matra-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "lovely",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pete Lovely",
+    "driver_nationality": "American",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "tingle",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Sam Tingle",
+    "driver_nationality": "Rhodesian",
+    "constructors": [
+      "Brabham-Repco"
+    ],
+    "constructor_ids": [
+      "brabham-repco"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "miles",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Miles",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "brack",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bill Brack",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "klerk",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Peter de Klerk",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Brabham-Repco"
+    ],
+    "constructor_ids": [
+      "brabham-repco"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "eaton",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "George Eaton",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bonnier",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Bonnier",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "mario_andretti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mario Andretti",
+    "driver_nationality": "American",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pease",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Al Pease",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "Eagle-Climax"
+    ],
+    "constructor_ids": [
+      "eagle-climax"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "love",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Love",
+    "driver_nationality": "Rhodesian",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Derek Bell",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "cordts",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Cordts",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "Brabham-Climax"
+    ],
+    "constructor_ids": [
+      "brabham-climax"
+    ]
+  },
+  {
+    "year": 1969,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "rooyen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Basil van Rooyen",
+    "driver_nationality": "South African",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  }
+]

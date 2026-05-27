@@ -1,0 +1,40 @@
+{
+  "year": 1999,
+  "generated_at": "2026-05-27T06:15:21.373634+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 16,
+  "race_results": 351,
+  "qualifying_results": 65,
+  "drivers": 24,
+  "constructors": 11,
+  "driver_champion": {
+    "year": 1999,
+    "position": 1,
+    "position_text": "1",
+    "points": 76.0,
+    "wins": 5,
+    "driver_id": "hakkinen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mika H\u00e4kkinen",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1999,
+    "position": 1,
+    "position_text": "1",
+    "points": 128.0,
+    "wins": 6,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  }
+}

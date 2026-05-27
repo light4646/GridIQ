@@ -1,0 +1,39 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""team_lotus""]","[""Team Lotus""]",,rindt,Jochen Rindt,Austrian,,45.0,1,1,5,1970
+"[""ferrari""]","[""Ferrari""]",,ickx,Jacky Ickx,Belgian,,40.0,2,2,3,1970
+"[""ferrari""]","[""Ferrari""]",,regazzoni,Clay Regazzoni,Swiss,,33.0,3,3,1,1970
+"[""mclaren-ford""]","[""McLaren-Ford""]",,hulme,Denny Hulme,New Zealander,,27.0,4,4,0,1970
+"[""march"", ""tyrrell""]","[""March"", ""Tyrrell""]",,stewart,Jackie Stewart,British,,25.0,5,5,1,1970
+"[""brabham""]","[""Brabham""]",,jack_brabham,Jack Brabham,Australian,,25.0,6,6,1,1970
+"[""brm""]","[""BRM""]",,rodriguez,Pedro Rodríguez,Mexican,,23.0,7,7,1,1970
+"[""march""]","[""March""]",,amon,Chris Amon,New Zealander,,23.0,8,8,0,1970
+"[""matra""]","[""Matra""]",,beltoise,Jean-Pierre Beltoise,French,,16.0,9,9,0,1970
+"[""team_lotus""]","[""Team Lotus""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,12.0,10,10,1,1970
+"[""brabham""]","[""Brabham""]",,stommelen,Rolf Stommelen,German,,10.0,11,11,0,1970
+"[""matra""]","[""Matra""]",,pescarolo,Henri Pescarolo,French,,8.0,12,12,0,1970
+"[""team_lotus""]","[""Team Lotus""]",,hill,Graham Hill,British,,7.0,13,13,0,1970
+"[""mclaren-ford""]","[""McLaren-Ford""]",,mclaren,Bruce McLaren,New Zealander,,6.0,14,14,0,1970
+"[""team_lotus""]","[""Team Lotus""]",,wisell,Reine Wisell,Swedish,,4.0,15,15,0,1970
+"[""march""]","[""March""]",,mario_andretti,Mario Andretti,American,,4.0,16,16,0,1970
+"[""ferrari""]","[""Ferrari""]",,giunti,Ignazio Giunti,Italian,,3.0,17,17,0,1970
+"[""mclaren-ford"", ""surtees""]","[""McLaren-Ford"", ""Surtees""]",,surtees,John Surtees,British,,3.0,18,18,0,1970
+"[""team_lotus""]","[""Team Lotus""]",,miles,John Miles,British,,2.0,19,19,0,1970
+"[""brm""]","[""BRM""]",,oliver,Jackie Oliver,British,,2.0,20,20,0,1970
+"[""march""]","[""March""]",,gavin,Johnny Servoz-Gavin,French,,2.0,21,21,0,1970
+"[""march""]","[""March""]",,cevert,François Cevert,French,,1.0,22,22,0,1970
+"[""mclaren-ford""]","[""McLaren-Ford""]",,gethin,Peter Gethin,British,,1.0,23,23,0,1970
+"[""mclaren-ford""]","[""McLaren-Ford""]",,gurney,Dan Gurney,American,,1.0,24,24,0,1970
+"[""brabham"", ""surtees""]","[""Brabham"", ""Surtees""]",,bell,Derek Bell,British,,1.0,25,25,0,1970
+"[""march""]","[""March""]",,siffert,Jo Siffert,Swiss,,0.0,,-,0,1970
+"[""march""]","[""March""]",,peterson,Ronnie Peterson,Swedish,,0.0,,-,0,1970
+"[""mclaren-alfa_romeo""]","[""McLaren-Alfa Romeo""]",,adamich,Andrea de Adamich,Italian,,0.0,,-,0,1970
+"[""team_lotus""]","[""Team Lotus""]",,love,John Love,Rhodesian,,0.0,,-,0,1970
+"[""brm""]","[""BRM""]",,eaton,George Eaton,Canadian,,0.0,,-,0,1970
+"[""brabham""]","[""Brabham""]",,klerk,Peter de Klerk,South African,,0.0,,-,0,1970
+"[""team_lotus""]","[""Team Lotus""]",,charlton,Dave Charlton,South African,,0.0,,-,0,1970
+"[""tomaso""]","[""De Tomaso""]",,courage,Piers Courage,British,,0.0,,-,0,1970
+"[""team_lotus""]","[""Team Lotus""]",,lovely,Pete Lovely,American,,0.0,,-,0,1970
+"[""tomaso""]","[""De Tomaso""]",,schenken,Tim Schenken,Australian,,0.0,,-,0,1970
+"[""mclaren-ford""]","[""McLaren-Ford""]",,bonnier,Jo Bonnier,Swedish,,0.0,,-,0,1970
+"[""bellasi""]","[""Bellasi""]",,moser,Silvio Moser,Swiss,,0.0,,-,0,1970
+"[""brabham""]","[""Brabham""]",,hutchison,Gus Hutchison,American,,0.0,,-,0,1970

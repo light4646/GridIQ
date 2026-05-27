@@ -1,0 +1,780 @@
+[
+  {
+    "year": 1968,
+    "position": 1,
+    "position_text": "1",
+    "points": 48.0,
+    "wins": 3,
+    "driver_id": "hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Graham Hill",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 2,
+    "position_text": "2",
+    "points": 36.0,
+    "wins": 3,
+    "driver_id": "stewart",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jackie Stewart",
+    "driver_nationality": "British",
+    "constructors": [
+      "Matra-Ford"
+    ],
+    "constructor_ids": [
+      "matra-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 3,
+    "position_text": "3",
+    "points": 33.0,
+    "wins": 2,
+    "driver_id": "hulme",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Denny Hulme",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "McLaren-BRM",
+      "McLaren-Ford",
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren-brm",
+      "mclaren-ford",
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 4,
+    "position_text": "4",
+    "points": 27.0,
+    "wins": 1,
+    "driver_id": "ickx",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jacky Ickx",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 5,
+    "position_text": "5",
+    "points": 22.0,
+    "wins": 1,
+    "driver_id": "mclaren",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bruce McLaren",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "McLaren-Ford",
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren-ford",
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 6,
+    "position_text": "6",
+    "points": 18.0,
+    "wins": 0,
+    "driver_id": "rodriguez",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pedro Rodr\u00edguez",
+    "driver_nationality": "Mexican",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 7,
+    "position_text": "7",
+    "points": 12.0,
+    "wins": 1,
+    "driver_id": "siffert",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Siffert",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Cooper-Maserati",
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "cooper-maserati",
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 8,
+    "position_text": "8",
+    "points": 12.0,
+    "wins": 0,
+    "driver_id": "surtees",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Surtees",
+    "driver_nationality": "British",
+    "constructors": [
+      "Honda"
+    ],
+    "constructor_ids": [
+      "honda"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 9,
+    "position_text": "9",
+    "points": 11.0,
+    "wins": 0,
+    "driver_id": "beltoise",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean-Pierre Beltoise",
+    "driver_nationality": "French",
+    "constructors": [
+      "Matra-Ford",
+      "Matra"
+    ],
+    "constructor_ids": [
+      "matra-ford",
+      "matra"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 10,
+    "position_text": "10",
+    "points": 10.0,
+    "wins": 0,
+    "driver_id": "amon",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Chris Amon",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 11,
+    "position_text": "11",
+    "points": 9.0,
+    "wins": 1,
+    "driver_id": "clark",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jim Clark",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 12,
+    "position_text": "12",
+    "points": 8.0,
+    "wins": 0,
+    "driver_id": "rindt",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jochen Rindt",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Brabham-Repco"
+    ],
+    "constructor_ids": [
+      "brabham-repco"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 13,
+    "position_text": "13",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "attwood",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Richard Attwood",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 14,
+    "position_text": "14",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "gavin",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Johnny Servoz-Gavin",
+    "driver_nationality": "French",
+    "constructors": [
+      "Matra-Ford",
+      "Cooper-BRM"
+    ],
+    "constructor_ids": [
+      "matra-ford",
+      "cooper-brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 15,
+    "position_text": "15",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "oliver",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jackie Oliver",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 16,
+    "position_text": "16",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "scarfiotti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ludovico Scarfiotti",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Cooper-BRM"
+    ],
+    "constructor_ids": [
+      "cooper-brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 17,
+    "position_text": "17",
+    "points": 5.0,
+    "wins": 0,
+    "driver_id": "bianchi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Lucien Bianchi",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Cooper-BRM"
+    ],
+    "constructor_ids": [
+      "cooper-brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 18,
+    "position_text": "18",
+    "points": 5.0,
+    "wins": 0,
+    "driver_id": "elford",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Vic Elford",
+    "driver_nationality": "British",
+    "constructors": [
+      "Cooper-BRM"
+    ],
+    "constructor_ids": [
+      "cooper-brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 19,
+    "position_text": "19",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "redman",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Brian Redman",
+    "driver_nationality": "British",
+    "constructors": [
+      "Cooper-Maserati",
+      "Cooper-BRM"
+    ],
+    "constructor_ids": [
+      "cooper-maserati",
+      "cooper-brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 20,
+    "position_text": "20",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "courage",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Piers Courage",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 21,
+    "position_text": "21",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "gurney",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Dan Gurney",
+    "driver_nationality": "American",
+    "constructors": [
+      "Eagle-Weslake",
+      "Brabham-Repco",
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "eagle-weslake",
+      "brabham-repco",
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 22,
+    "position_text": "22",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "bonnier",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Bonnier",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "Cooper-Maserati",
+      "McLaren-BRM",
+      "Honda"
+    ],
+    "constructor_ids": [
+      "cooper-maserati",
+      "mclaren-brm",
+      "honda"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 23,
+    "position_text": "23",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "jack_brabham",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jack Brabham",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Brabham-Repco"
+    ],
+    "constructor_ids": [
+      "brabham-repco"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": 24,
+    "position_text": "24",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "moser",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Silvio Moser",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Brabham-Repco"
+    ],
+    "constructor_ids": [
+      "brabham-repco"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pescarolo",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Henri Pescarolo",
+    "driver_nationality": "French",
+    "constructors": [
+      "Matra"
+    ],
+    "constructor_ids": [
+      "matra"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "love",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Love",
+    "driver_nationality": "Rhodesian",
+    "constructors": [
+      "Brabham-Repco"
+    ],
+    "constructor_ids": [
+      "brabham-repco"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hahne",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Hubert Hahne",
+    "driver_nationality": "German",
+    "constructors": [
+      "Lola"
+    ],
+    "constructor_ids": [
+      "lola"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ahrens",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Kurt Ahrens",
+    "driver_nationality": "German",
+    "constructors": [
+      "Brabham-Repco"
+    ],
+    "constructor_ids": [
+      "brabham-repco"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pretorius",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jackie Pretorius",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Brabham-Climax"
+    ],
+    "constructor_ids": [
+      "brabham-climax"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hobbs",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "David Hobbs",
+    "driver_nationality": "British",
+    "constructors": [
+      "Honda"
+    ],
+    "constructor_ids": [
+      "honda"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "widdows",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Robin Widdows",
+    "driver_nationality": "British",
+    "constructors": [
+      "Cooper-BRM"
+    ],
+    "constructor_ids": [
+      "cooper-brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "tingle",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Sam Tingle",
+    "driver_nationality": "Rhodesian",
+    "constructors": [
+      "LDS"
+    ],
+    "constructor_ids": [
+      "lds"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "rooyen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Basil van Rooyen",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Cooper-Climax"
+    ],
+    "constructor_ids": [
+      "cooper-climax"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "jo_schlesser",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Schlesser",
+    "driver_nationality": "French",
+    "constructors": [
+      "Honda"
+    ],
+    "constructor_ids": [
+      "honda"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "unser",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bobby Unser",
+    "driver_nationality": "American",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "solana",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mois\u00e9s Solana",
+    "driver_nationality": "Mexican",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "brack",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bill Brack",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "mario_andretti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mario Andretti",
+    "driver_nationality": "American",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Derek Bell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "adamich",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Andrea de Adamich",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "spence",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mike Spence",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1968,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "charlton",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Dave Charlton",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Brabham-Repco"
+    ],
+    "constructor_ids": [
+      "brabham-repco"
+    ]
+  }
+]

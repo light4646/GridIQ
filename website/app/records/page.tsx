@@ -1,6 +1,9 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 
+import F1TVBanner from "@/components/F1TVBanner";
+import AdUnit from "@/components/AdUnit";
+import { ADSENSE } from "@/lib/monetization";
 import { aggregateRecords, formatNumber, getHistoryManifest } from "@/lib/history";
 
 export const metadata: Metadata = {
@@ -143,6 +146,8 @@ export default function RecordsPage() {
           />
         </section>
 
+        <AdUnit slot={ADSENSE.slots.inContent} />
+
         <section className="grid analyticsGrid">
           <RecordsTable
             title="Constructor wins"
@@ -159,6 +164,7 @@ export default function RecordsPage() {
             statLabel="Points"
           />
         </section>
+        <F1TVBanner />
       </div>
     </main>
   );

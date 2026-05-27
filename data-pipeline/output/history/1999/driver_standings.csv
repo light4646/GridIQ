@@ -1,0 +1,25 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,hakkinen,Mika Häkkinen,Finnish,,76.0,1,1,5,1999
+"[""ferrari""]","[""Ferrari""]",,irvine,Eddie Irvine,British,,74.0,2,2,4,1999
+"[""jordan""]","[""Jordan""]",,frentzen,Heinz-Harald Frentzen,German,,54.0,3,3,2,1999
+"[""mclaren""]","[""McLaren""]",COU,coulthard,David Coulthard,British,,48.0,4,4,2,1999
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,44.0,5,5,2,1999
+"[""williams""]","[""Williams""]",SCH,ralf_schumacher,Ralf Schumacher,German,,35.0,6,6,0,1999
+"[""stewart""]","[""Stewart""]",BAR,barrichello,Rubens Barrichello,Brazilian,,21.0,7,7,0,1999
+"[""stewart""]","[""Stewart""]",,herbert,Johnny Herbert,British,,15.0,8,8,1,1999
+"[""benetton""]","[""Benetton""]",FIS,fisichella,Giancarlo Fisichella,Italian,,13.0,9,9,0,1999
+"[""bar"", ""ferrari""]","[""BAR"", ""Ferrari""]",,salo,Mika Salo,Finnish,,10.0,10,10,0,1999
+"[""prost""]","[""Prost""]",TRU,trulli,Jarno Trulli,Italian,,7.0,11,11,0,1999
+"[""jordan""]","[""Jordan""]",,damon_hill,Damon Hill,British,,7.0,12,12,0,1999
+"[""benetton""]","[""Benetton""]",WUR,wurz,Alexander Wurz,Austrian,,3.0,13,13,0,1999
+"[""sauber""]","[""Sauber""]",,diniz,Pedro Diniz,Brazilian,,3.0,14,14,0,1999
+"[""sauber""]","[""Sauber""]",,alesi,Jean Alesi,French,,2.0,15,15,0,1999
+"[""prost""]","[""Prost""]",,panis,Olivier Panis,French,,2.0,16,16,0,1999
+"[""minardi""]","[""Minardi""]",,gene,Marc Gené,Spanish,,1.0,17,17,0,1999
+"[""arrows""]","[""Arrows""]",DLR,rosa,Pedro de la Rosa,Spanish,,1.0,18,18,0,1999
+"[""williams""]","[""Williams""]",,zanardi,Alessandro Zanardi,Italian,,0.0,,-,0,1999
+"[""arrows""]","[""Arrows""]",,takagi,Toranosuke Takagi,Japanese,,0.0,,-,0,1999
+"[""bar""]","[""BAR""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,0.0,,-,0,1999
+"[""bar""]","[""BAR""]",ZON,zonta,Ricardo Zonta,Brazilian,,0.0,,-,0,1999
+"[""minardi""]","[""Minardi""]",BAD,badoer,Luca Badoer,Italian,,0.0,,-,0,1999
+"[""minardi""]","[""Minardi""]",,sarrazin,Stéphane Sarrazin,French,,0.0,,-,0,1999

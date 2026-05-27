@@ -1,0 +1,21 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,79.0,1,1,6,1976
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,71.0,2,2,6,1976
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,67.0,3,3,1,1976
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,29.0,4,4,1,1976
+Penske,penske,American,https://en.wikipedia.org/wiki/Team_Penske,20.0,5,5,1,1976
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,20.0,6,6,0,1976
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,19.0,7,7,1,1976
+Shadow,shadow,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,10.0,8,8,0,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,https://en.wikipedia.org/wiki/Brabham,9.0,9,9,0,1976
+Surtees,surtees,British,https://en.wikipedia.org/wiki/Surtees,7.0,10,10,0,1976
+Fittipaldi,fittipaldi,Brazilian,https://en.wikipedia.org/wiki/Fittipaldi_Automotive,3.0,11,11,0,1976
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,2.0,12,12,0,1976
+Parnelli,parnelli,American,https://en.wikipedia.org/wiki/Vel's_Parnelli_Jones_Racing,1.0,13,13,0,1976
+Hesketh,hesketh,British,https://en.wikipedia.org/wiki/Hesketh_Racing,0.0,,-,0,1976
+Wolf,wolf,Canadian,https://en.wikipedia.org/wiki/Walter_Wolf_Racing,0.0,,-,0,1976
+Boro,boro,Dutch,https://en.wikipedia.org/wiki/Boro_(Formula_One),0.0,,-,0,1976
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,0.0,,-,0,1976
+Kojima,kojima,Japanese,https://en.wikipedia.org/wiki/Kojima_Engineering,0.0,,-,0,1976
+Brabham-Ford,brabham-ford,British,https://en.wikipedia.org/wiki/Brabham,0.0,,-,0,1976
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,0.0,,-,0,1976

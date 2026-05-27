@@ -1,0 +1,40 @@
+{
+  "year": 1987,
+  "generated_at": "2026-05-27T06:09:30.008286+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 16,
+  "race_results": 415,
+  "qualifying_results": 0,
+  "drivers": 32,
+  "constructors": 16,
+  "driver_champion": {
+    "year": 1987,
+    "position": 1,
+    "position_text": "1",
+    "points": 73.0,
+    "wins": 3,
+    "driver_id": "piquet",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nelson Piquet",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1987,
+    "position": 1,
+    "position_text": "1",
+    "points": 137.0,
+    "wins": 9,
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+  }
+}

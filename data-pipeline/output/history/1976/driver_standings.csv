@@ -1,0 +1,48 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,hunt,James Hunt,British,,66.0,1,1,6,1976
+"[""ferrari""]","[""Ferrari""]",,lauda,Niki Lauda,Austrian,,64.0,2,2,5,1976
+"[""tyrrell""]","[""Tyrrell""]",,scheckter,Jody Scheckter,South African,,48.0,3,3,1,1976
+"[""tyrrell""]","[""Tyrrell""]",,depailler,Patrick Depailler,French,,39.0,4,4,0,1976
+"[""ferrari""]","[""Ferrari""]",,regazzoni,Clay Regazzoni,Swiss,,31.0,5,5,1,1976
+"[""team_lotus"", ""parnelli""]","[""Team Lotus"", ""Parnelli""]",,mario_andretti,Mario Andretti,American,,22.0,6,6,1,1976
+"[""penske""]","[""Penske""]",,watson,John Watson,British,,20.0,7,7,1,1976
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,20.0,8,8,0,1976
+"[""mclaren""]","[""McLaren""]",,mass,Jochen Mass,German,,19.0,9,9,0,1976
+"[""team_lotus""]","[""Team Lotus""]",,nilsson,Gunnar Nilsson,Swedish,,11.0,10,10,0,1976
+"[""team_lotus"", ""march""]","[""Team Lotus"", ""March""]",,peterson,Ronnie Peterson,Swedish,,10.0,11,11,1,1976
+"[""shadow""]","[""Shadow""]",,pryce,Tom Pryce,British,,10.0,12,12,0,1976
+"[""march""]","[""March""]",,stuck,Hans-Joachim Stuck,German,,8.0,13,13,0,1976
+"[""brabham-alfa_romeo""]","[""Brabham-Alfa Romeo""]",,pace,Carlos Pace,Brazilian,,7.0,14,14,0,1976
+"[""surtees""]","[""Surtees""]",,jones,Alan Jones,Australian,,7.0,15,15,0,1976
+"[""brabham-alfa_romeo"", ""ferrari""]","[""Brabham-Alfa Romeo"", ""Ferrari""]",,reutemann,Carlos Reutemann,Argentine,,3.0,16,16,0,1976
+"[""fittipaldi""]","[""Fittipaldi""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,3.0,17,17,0,1976
+"[""ensign"", ""wolf""]","[""Ensign"", ""Wolf""]",,amon,Chris Amon,New Zealander,,2.0,18,18,0,1976
+"[""march""]","[""March""]",,brambilla,Vittorio Brambilla,Italian,,1.0,19,19,0,1976
+"[""brabham-alfa_romeo"", ""hesketh""]","[""Brabham-Alfa Romeo"", ""Hesketh""]",,stommelen,Rolf Stommelen,German,,1.0,20,20,0,1976
+"[""hesketh""]","[""Hesketh""]",,ertl,Harald Ertl,Austrian,,0.0,,-,0,1976
+"[""shadow""]","[""Shadow""]",,jarier,Jean-Pierre Jarier,French,,0.0,,-,0,1976
+"[""wolf"", ""ensign""]","[""Wolf"", ""Ensign""]",,ickx,Jacky Ickx,Belgian,,0.0,,-,0,1976
+"[""boro"", ""brabham-alfa_romeo""]","[""Boro"", ""Brabham-Alfa Romeo""]",,perkins,Larry Perkins,Australian,,0.0,,-,0,1976
+"[""surtees""]","[""Surtees""]",,pescarolo,Henri Pescarolo,French,,0.0,,-,0,1976
+"[""march"", ""wolf""]","[""March"", ""Wolf""]",,merzario,Arturo Merzario,Italian,,0.0,,-,0,1976
+"[""williams""]","[""Williams""]",,zorzi,Renzo Zorzi,Italian,,0.0,,-,0,1976
+"[""surtees""]","[""Surtees""]",,takahara,Noritake Takahara,Japanese,,0.0,,-,0,1976
+"[""wolf""]","[""Wolf""]",,leclere,Michel Leclère,French,,0.0,,-,0,1976
+"[""surtees""]","[""Surtees""]",,lunger,Brett Lunger,American,,0.0,,-,0,1976
+"[""team_lotus"", ""brabham-ford""]","[""Team Lotus"", ""Brabham-Ford""]",,evans,Bob Evans,British,,0.0,,-,0,1976
+"[""tyrrell""]","[""Tyrrell""]",,pesenti_rossi,Alessandro Pesenti-Rossi,Italian,,0.0,,-,0,1976
+"[""fittipaldi""]","[""Fittipaldi""]",,hoffmann,Ingo Hoffmann,Brazilian,,0.0,,-,0,1976
+"[""kojima""]","[""Kojima""]",,hasemi,Masahiro Hasemi,Japanese,,0.0,,-,0,1976
+"[""march"", ""brabham-ford""]","[""March"", ""Brabham-Ford""]",,lombardi,Lella Lombardi,Italian,,0.0,,-,0,1976
+"[""brabham-ford""]","[""Brabham-Ford""]",,kessel,Loris Kessel,Swiss,,0.0,,-,0,1976
+"[""hesketh""]","[""Hesketh""]",,ribeiro,Alex Ribeiro,Brazilian,,0.0,,-,0,1976
+"[""wolf""]","[""Wolf""]",,brown,Warwick Brown,Australian,,0.0,,-,0,1976
+"[""hesketh""]","[""Hesketh""]",,edwards,Guy Edwards,British,,0.0,,-,0,1976
+"[""brabham-ford"", ""ensign""]","[""Brabham-Ford"", ""Ensign""]",,neve,Patrick Nève,Belgian,,0.0,,-,0,1976
+"[""ensign"", ""wolf""]","[""Ensign"", ""Wolf""]",,binder,Hans Binder,Austrian,,0.0,,-,0,1976
+"[""penske""]","[""Penske""]",,hayje,Boy Lunger,Dutch,,0.0,,-,0,1976
+"[""tyrrell""]","[""Tyrrell""]",,hoshino,Kazuyoshi Hoshino,Japanese,,0.0,,-,0,1976
+"[""brm""]","[""BRM""]",,ashley,Ian Ashley,British,,0.0,,-,0,1976
+"[""tyrrell""]","[""Tyrrell""]",,ian_scheckter,Ian Scheckter,South African,,0.0,,-,0,1976
+"[""surtees""]","[""Surtees""]",,andersson,Conny Andersson,Swedish,,0.0,,-,0,1976
+"[""tyrrell""]","[""Tyrrell""]",,stuppacher,Otto Stuppacher,Austrian,,0.0,,-,0,1976

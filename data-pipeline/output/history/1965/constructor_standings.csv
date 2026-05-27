@@ -1,0 +1,14 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Lotus-Climax,lotus-climax,British,https://en.wikipedia.org/wiki/Team_Lotus,54.0,1,1,6,1965
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,45.0,2,2,3,1965
+Brabham-Climax,brabham-climax,British,https://en.wikipedia.org/wiki/Brabham,27.0,3,3,0,1965
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,26.0,4,4,0,1965
+Cooper-Climax,cooper-climax,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,14.0,5,5,0,1965
+Honda,honda,Japanese,https://en.wikipedia.org/wiki/Honda_in_Formula_One,11.0,6,6,1,1965
+Brabham-BRM,brabham-brm,British,https://en.wikipedia.org/wiki/Brabham,5.0,7,7,0,1965
+Lotus-BRM,lotus-brm,British,https://en.wikipedia.org/wiki/Team_Lotus,2.0,8,8,0,1965
+Brabham-Ford,brabham-ford,British,https://en.wikipedia.org/wiki/Brabham,0.0,,-,0,1965
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,0.0,,-,0,1965
+LDS-Alfa Romeo,lds-alfa_romeo,South African,https://en.wikipedia.org/wiki/LDS_(automobile),0.0,,-,0,1965
+RE,re,Rhodesian,https://en.wikipedia.org/wiki/Realpha,0.0,,-,0,1965
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1965

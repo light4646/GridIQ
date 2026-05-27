@@ -1,0 +1,9 @@
+circuit_id,circuit_name,circuit_url,country,date,event_id,event_name,event_slug,latitude,locality,longitude,round,season,time,url,year
+bremgarten,Circuit Bremgarten,https://en.wikipedia.org/wiki/Circuit_Bremgarten,Switzerland,1951-05-27,1951-bern,Swiss Grand Prix,bern,46.9589,Bern,7.40194,1,1951,,https://en.wikipedia.org/wiki/1951_Swiss_Grand_Prix,1951
+indianapolis,Indianapolis Motor Speedway,https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway,USA,1951-05-30,1951-indianapolis,Indianapolis 500,indianapolis,39.795,Indianapolis,-86.2347,2,1951,,https://en.wikipedia.org/wiki/1951_Indianapolis_500,1951
+spa,Circuit de Spa-Francorchamps,https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps,Belgium,1951-06-17,1951-spa,Belgian Grand Prix,spa,50.4372,Spa,5.97139,3,1951,,https://en.wikipedia.org/wiki/1951_Belgian_Grand_Prix,1951
+reims,Reims-Gueux,https://en.wikipedia.org/wiki/Reims-Gueux,France,1951-07-01,1951-reims,French Grand Prix,reims,49.2542,Reims,3.93083,4,1951,,https://en.wikipedia.org/wiki/1951_French_Grand_Prix,1951
+silverstone,Silverstone Circuit,https://en.wikipedia.org/wiki/Silverstone_Circuit,UK,1951-07-14,1951-silverstone,British Grand Prix,silverstone,52.0786,Silverstone,-1.01694,5,1951,,https://en.wikipedia.org/wiki/1951_British_Grand_Prix,1951
+nurburgring,Nürburgring,https://en.wikipedia.org/wiki/N%C3%BCrburgring,Germany,1951-07-29,1951-n-rburg,German Grand Prix,n-rburg,50.3356,Nürburg,6.9475,6,1951,,https://en.wikipedia.org/wiki/1951_German_Grand_Prix,1951
+monza,Autodromo Nazionale di Monza,https://en.wikipedia.org/wiki/Monza_Circuit,Italy,1951-09-16,1951-monza,Italian Grand Prix,monza,45.6156,Monza,9.28111,7,1951,,https://en.wikipedia.org/wiki/1951_Italian_Grand_Prix,1951
+pedralbes,Circuit de Pedralbes,https://en.wikipedia.org/wiki/Pedralbes_Circuit,Spain,1951-10-28,1951-barcelona,Spanish Grand Prix,barcelona,41.3903,Barcelona,2.11667,8,1951,,https://en.wikipedia.org/wiki/1951_Spanish_Grand_Prix,1951

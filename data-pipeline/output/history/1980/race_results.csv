@@ -1,0 +1,337 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-buenos-aires,Argentine Grand Prix,,,,,,1,53,6204380,9.0,1,1,1,Finished,1:43:24.380,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-buenos-aires,Argentine Grand Prix,,,,,,4,53,6228970,6.0,2,2,1,Finished,+24.590,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-buenos-aires,Argentine Grand Prix,,,,,,13,53,6283020,4.0,3,3,1,Finished,+1:18.640,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-buenos-aires,Argentine Grand Prix,,,,,,22,53,6287860,3.0,4,4,1,Finished,+1:23.480,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-buenos-aires,Argentine Grand Prix,,,,,,20,52,,2.0,5,5,1,+1 Lap,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-buenos-aires,Argentine Grand Prix,,,,,,12,52,,1.0,6,6,1,+1 Lap,,1980
+Brabham,brabham,British,,zunino,Ricardo Zunino,Argentine,6,1980-buenos-aires,Argentine Grand Prix,,,,,,16,51,,0.0,7,7,1,+2 Laps,,1980
+Alfa Romeo,alfa,Swiss,,depailler,Patrick Depailler,French,22,1980-buenos-aires,Argentine Grand Prix,,,,,,23,46,,0.0,8,R,1,Engine,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-buenos-aires,Argentine Grand Prix,,,,,,11,45,,0.0,9,R,1,Engine,,1980
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,14,1980-buenos-aires,Argentine Grand Prix,,,,,,15,44,,0.0,10,R,1,Not classified,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-buenos-aires,Argentine Grand Prix,,,,,,24,37,,0.0,11,R,1,Not classified,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-buenos-aires,Argentine Grand Prix,,,,,,8,36,,0.0,12,R,1,Accident,,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-buenos-aires,Argentine Grand Prix,,,,,,2,30,,0.0,13,R,1,Engine,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-buenos-aires,Argentine Grand Prix,,,,,,7,27,,0.0,14,R,1,Engine,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-buenos-aires,Argentine Grand Prix,,,,,,21,27,,0.0,15,R,1,Heat shield fire,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-buenos-aires,Argentine Grand Prix,,,,,,6,20,,0.0,16,R,1,Fuel system,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-buenos-aires,Argentine Grand Prix,,,,,,14,20,,0.0,17,R,1,Gearbox,,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-buenos-aires,Argentine Grand Prix,,,,,,10,12,,0.0,18,R,1,Engine,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-buenos-aires,Argentine Grand Prix,,,,,,5,7,,0.0,19,R,1,Suspension,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-buenos-aires,Argentine Grand Prix,,,,,,17,5,,0.0,20,R,1,Gearbox,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-buenos-aires,Argentine Grand Prix,,,,,,9,3,,0.0,21,R,1,Gearbox,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-buenos-aires,Argentine Grand Prix,,,,,,19,2,,0.0,22,R,1,Suspension,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-buenos-aires,Argentine Grand Prix,,,,,,3,1,,0.0,23,R,1,Engine,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-buenos-aires,Argentine Grand Prix,,,,,,18,1,,0.0,24,R,1,Collision,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-s-o-paulo,Brazilian Grand Prix,,,,,,6,40,6001330,9.0,1,1,2,Finished,1:40:01.330,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-s-o-paulo,Brazilian Grand Prix,,,,,,7,40,6023190,6.0,2,2,2,Finished,+21.860,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-s-o-paulo,Brazilian Grand Prix,,,,,,10,40,6067440,4.0,3,3,2,Finished,+1:06.110,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-s-o-paulo,Brazilian Grand Prix,,,,,,2,40,6101460,3.0,4,4,2,Finished,+1:40.130,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-s-o-paulo,Brazilian Grand Prix,,,,,,13,40,6106740,2.0,5,5,2,Finished,+1:45.410,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-s-o-paulo,Brazilian Grand Prix,,,,,,14,39,,1.0,6,6,2,+1 Lap,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-s-o-paulo,Brazilian Grand Prix,,,,,,20,39,,0.0,7,7,2,+1 Lap,,1980
+Brabham,brabham,British,,zunino,Ricardo Zunino,Argentine,6,1980-s-o-paulo,Brazilian Grand Prix,,,,,,18,39,,0.0,8,8,2,+1 Lap,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-s-o-paulo,Brazilian Grand Prix,,,,,,15,39,,0.0,9,9,2,+1 Lap,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-s-o-paulo,Brazilian Grand Prix,,,,,,16,39,,0.0,10,10,2,+1 Lap,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-s-o-paulo,Brazilian Grand Prix,,,,,,23,39,,0.0,11,11,2,+1 Lap,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-s-o-paulo,Brazilian Grand Prix,,,,,,22,39,,0.0,12,12,2,+1 Lap,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-s-o-paulo,Brazilian Grand Prix,,,,,,17,39,,0.0,13,13,2,+1 Lap,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-s-o-paulo,Brazilian Grand Prix,,,,,,24,38,,0.0,14,14,2,+2 Laps,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-s-o-paulo,Brazilian Grand Prix,,,,,,19,38,,0.0,15,15,2,+2 Laps,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-s-o-paulo,Brazilian Grand Prix,,,,,,3,36,,0.0,16,16,2,Throttle,,1980
+Alfa Romeo,alfa,Swiss,,depailler,Patrick Depailler,French,22,1980-s-o-paulo,Brazilian Grand Prix,,,,,,21,33,,0.0,17,R,2,Electrical,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-s-o-paulo,Brazilian Grand Prix,,,,,,1,25,,0.0,18,R,2,Turbo,,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-s-o-paulo,Brazilian Grand Prix,,,,,,9,14,,0.0,19,R,2,Suspension,,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-s-o-paulo,Brazilian Grand Prix,,,,,,5,13,,0.0,20,R,2,Electrical,,1980
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,14,1980-s-o-paulo,Brazilian Grand Prix,,,,,,12,13,,0.0,21,R,2,Engine,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-s-o-paulo,Brazilian Grand Prix,,,,,,8,10,,0.0,22,R,2,Engine,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-s-o-paulo,Brazilian Grand Prix,,,,,,11,1,,0.0,23,R,2,Spun off,,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-s-o-paulo,Brazilian Grand Prix,,,,,,4,1,,0.0,24,R,2,Halfshaft,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-midrand,South African Grand Prix,,,,,,2,78,5812540,9.0,1,1,3,Finished,1:36:52.540,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-midrand,South African Grand Prix,,,,,,4,78,5846610,6.0,2,2,3,Finished,+34.070,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-midrand,South African Grand Prix,,,,,,5,78,5865030,4.0,3,3,3,Finished,+52.490,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-midrand,South African Grand Prix,,,,,,3,78,5873560,3.0,4,4,3,Finished,+1:01.020,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-midrand,South African Grand Prix,,,,,,6,77,,2.0,5,5,3,+1 Lap,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-midrand,South African Grand Prix,,,,,,19,77,,1.0,6,6,3,+1 Lap,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-midrand,South African Grand Prix,,,,,,13,77,,0.0,7,7,3,+1 Lap,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-midrand,South African Grand Prix,,,,,,18,77,,0.0,8,8,3,+1 Lap,,1980
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,14,1980-midrand,South African Grand Prix,,,,,,20,77,,0.0,9,9,3,+1 Lap,,1980
+Brabham,brabham,British,,zunino,Ricardo Zunino,Argentine,6,1980-midrand,South African Grand Prix,,,,,,17,77,,0.0,10,10,3,+1 Lap,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-midrand,South African Grand Prix,,,,,,21,76,,0.0,11,11,3,+2 Laps,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-midrand,South African Grand Prix,,,,,,15,76,,0.0,12,12,3,+2 Laps,,1980
+Shadow,shadow,British,,lees,Geoff Lees,British,17,1980-midrand,South African Grand Prix,,,,,,24,70,,0.0,13,13,3,Suspension,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-midrand,South African Grand Prix,,,,,,12,69,,0.0,14,R,3,Engine,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-midrand,South African Grand Prix,,,,,,1,61,,0.0,15,R,3,Puncture,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-midrand,South African Grand Prix,,,,,,16,61,,0.0,16,R,3,Puncture,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-midrand,South African Grand Prix,,,,,,23,58,,0.0,17,R,3,Accident,,1980
+Alfa Romeo,alfa,Swiss,,depailler,Patrick Depailler,French,22,1980-midrand,South African Grand Prix,,,,,,7,53,,0.0,18,R,3,Not classified,,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-midrand,South African Grand Prix,,,,,,8,34,,0.0,19,R,3,Gearbox,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-midrand,South African Grand Prix,,,,,,10,31,,0.0,20,R,3,Transmission,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-midrand,South African Grand Prix,,,,,,9,14,,0.0,21,R,3,Engine,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-midrand,South African Grand Prix,,,,,,11,10,,0.0,22,R,3,Spun off,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-midrand,South African Grand Prix,,,,,,22,8,,0.0,23,R,3,Spun off,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-midrand,South African Grand Prix,,,,,,14,1,,0.0,24,R,3,Spun off,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-midrand,South African Grand Prix,,,,,,0,0,,0.0,25,W,3,Accident,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-midrand,South African Grand Prix,,,,,,0,0,,0.0,26,W,3,Accident,,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-california,United States Grand Prix West,,,,,,1,80,6619400,9.0,1,1,4,Finished,1:50:19.400,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-california,United States Grand Prix West,,,,,,8,80,6668612,6.0,2,2,4,Finished,+49.212,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-california,United States Grand Prix West,,,,,,24,80,6697963,4.0,3,3,4,Finished,+1:18.563,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-california,United States Grand Prix West,,,,,,21,79,,3.0,4,4,4,+1 Lap,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-california,United States Grand Prix West,,,,,,16,79,,2.0,5,5,4,+1 Lap,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-california,United States Grand Prix West,,,,,,9,79,,1.0,6,6,4,+1 Lap,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-california,United States Grand Prix West,,,,,,17,79,,0.0,7,7,4,+1 Lap,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-california,United States Grand Prix West,,,,,,14,79,,0.0,8,8,4,+1 Lap,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-california,United States Grand Prix West,,,,,,2,78,,0.0,9,9,4,+2 Laps,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-california,United States Grand Prix West,,,,,,11,71,,0.0,10,10,4,+9 Laps,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-california,United States Grand Prix West,,,,,,22,58,,0.0,11,R,4,Overheating,,1980
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,14,1980-california,United States Grand Prix West,,,,,,23,50,,0.0,12,R,4,Accident,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-california,United States Grand Prix West,,,,,,6,49,,0.0,13,R,4,Accident,,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-california,United States Grand Prix West,,,,,,5,47,,0.0,14,R,4,Accident,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-california,United States Grand Prix West,,,,,,10,46,,0.0,15,R,4,Transmission,,1980
+Alfa Romeo,alfa,Swiss,,depailler,Patrick Depailler,French,22,1980-california,United States Grand Prix West,,,,,,3,40,,0.0,16,R,4,Suspension,,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-california,United States Grand Prix West,,,,,,13,36,,0.0,17,R,4,Puncture,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-california,United States Grand Prix West,,,,,,19,11,,0.0,18,R,4,Transmission,,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-california,United States Grand Prix West,,,,,,7,3,,0.0,19,R,4,Transmission,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-california,United States Grand Prix West,,,,,,12,3,,0.0,20,R,4,Accident,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-california,United States Grand Prix West,,,,,,20,3,,0.0,21,R,4,Accident,,1980
+ATS,ats,Italian,,lammers,Jan Lammers,Dutch,9,1980-california,United States Grand Prix West,,,,,,4,0,,0.0,22,R,4,Transmission,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-california,United States Grand Prix West,,,,,,15,0,,0.0,23,R,4,Accident,,1980
+Brabham,brabham,British,,zunino,Ricardo Zunino,Argentine,6,1980-california,United States Grand Prix West,,,,,,18,0,,0.0,24,R,4,Accident,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-heusden-zolder,Belgian Grand Prix,,,,,,2,72,5927400,9.0,1,1,5,Finished,1:38:47.400,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-heusden-zolder,Belgian Grand Prix,,,,,,1,72,5974770,6.0,2,2,5,Finished,+47.370,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-heusden-zolder,Belgian Grand Prix,,,,,,4,72,6011520,4.0,3,3,5,Finished,+1:24.120,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-heusden-zolder,Belgian Grand Prix,,,,,,6,71,,3.0,4,4,5,+1 Lap,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-heusden-zolder,Belgian Grand Prix,,,,,,9,71,,2.0,5,5,5,+1 Lap,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-heusden-zolder,Belgian Grand Prix,,,,,,12,71,,1.0,6,6,5,+1 Lap,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-heusden-zolder,Belgian Grand Prix,,,,,,21,71,,0.0,7,7,5,+1 Lap,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-heusden-zolder,Belgian Grand Prix,,,,,,14,70,,0.0,8,8,5,+2 Laps,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-heusden-zolder,Belgian Grand Prix,,,,,,11,70,,0.0,9,9,5,+2 Laps,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-heusden-zolder,Belgian Grand Prix,,,,,,8,69,,0.0,10,10,5,Spun off,,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-heusden-zolder,Belgian Grand Prix,,,,,,3,68,,0.0,11,11,5,+4 Laps,,1980
+ATS,ats,Italian,,lammers,Jan Lammers,Dutch,9,1980-heusden-zolder,Belgian Grand Prix,,,,,,15,64,,0.0,12,12,5,Engine,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-heusden-zolder,Belgian Grand Prix,,,,,,20,61,,0.0,13,R,5,Not classified,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-heusden-zolder,Belgian Grand Prix,,,,,,16,58,,0.0,14,R,5,Spun off,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-heusden-zolder,Belgian Grand Prix,,,,,,17,41,,0.0,15,R,5,Gearbox,,1980
+Alfa Romeo,alfa,Swiss,,depailler,Patrick Depailler,French,22,1980-heusden-zolder,Belgian Grand Prix,,,,,,10,38,,0.0,16,R,5,Exhaust,,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-heusden-zolder,Belgian Grand Prix,,,,,,7,32,,0.0,17,R,5,Spun off,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-heusden-zolder,Belgian Grand Prix,,,,,,19,29,,0.0,18,R,5,Transmission,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-heusden-zolder,Belgian Grand Prix,,,,,,24,16,,0.0,19,R,5,Electrical,,1980
+Ensign,ensign,British,,needell,Tiff Needell,British,14,1980-heusden-zolder,Belgian Grand Prix,,,,,,23,12,,0.0,20,R,5,Engine,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-heusden-zolder,Belgian Grand Prix,,,,,,18,11,,0.0,21,R,5,Suspension,,1980
+Brabham,brabham,British,,zunino,Ricardo Zunino,Argentine,6,1980-heusden-zolder,Belgian Grand Prix,,,,,,22,5,,0.0,22,R,5,Gearbox,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-heusden-zolder,Belgian Grand Prix,,,,,,13,1,,0.0,23,R,5,Spun off,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-heusden-zolder,Belgian Grand Prix,,,,,,5,1,,0.0,24,R,5,Clutch,,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-monte-carlo,Monaco Grand Prix,,,,,,2,76,6934365,9.0,1,1,6,Finished,1:55:34.365,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-monte-carlo,Monaco Grand Prix,,,,,,5,76,7007994,6.0,2,2,6,Finished,+1:13.629,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-monte-carlo,Monaco Grand Prix,,,,,,4,76,7012091,4.0,3,3,6,Finished,+1:17.726,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-monte-carlo,Monaco Grand Prix,,,,,,15,75,,3.0,4,4,6,+1 Lap,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-monte-carlo,Monaco Grand Prix,,,,,,6,75,,2.0,5,5,6,+1 Lap,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-monte-carlo,Monaco Grand Prix,,,,,,18,74,,1.0,6,6,6,+2 Laps,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-monte-carlo,Monaco Grand Prix,,,,,,19,73,,0.0,7,7,6,+3 Laps,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-monte-carlo,Monaco Grand Prix,,,,,,11,73,,0.0,8,8,6,+3 Laps,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-monte-carlo,Monaco Grand Prix,,,,,,14,68,,0.0,9,9,6,Accident,,1980
+ATS,ats,Italian,,lammers,Jan Lammers,Dutch,9,1980-monte-carlo,Monaco Grand Prix,,,,,,13,64,,0.0,10,R,6,Not classified,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-monte-carlo,Monaco Grand Prix,,,,,,1,54,,0.0,11,R,6,Accident,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-monte-carlo,Monaco Grand Prix,,,,,,20,53,,0.0,12,R,6,Accident,,1980
+Alfa Romeo,alfa,Swiss,,depailler,Patrick Depailler,French,22,1980-monte-carlo,Monaco Grand Prix,,,,,,7,50,,0.0,13,R,6,Engine,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-monte-carlo,Monaco Grand Prix,,,,,,17,27,,0.0,14,R,6,Handling,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-monte-carlo,Monaco Grand Prix,,,,,,16,25,,0.0,15,R,6,Gearbox,,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-monte-carlo,Monaco Grand Prix,,,,,,3,24,,0.0,16,R,6,Differential,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-monte-carlo,Monaco Grand Prix,,,,,,8,0,,0.0,17,R,6,Accident,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-monte-carlo,Monaco Grand Prix,,,,,,9,0,,0.0,18,R,6,Accident,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-monte-carlo,Monaco Grand Prix,,,,,,10,0,,0.0,19,R,6,Accident,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-monte-carlo,Monaco Grand Prix,,,,,,12,0,,0.0,20,R,6,Accident,,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-le-castellet,French Grand Prix,,,,,,4,54,5563400,9.0,1,1,7,Finished,1:32:43.400,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-le-castellet,French Grand Prix,,,,,,3,54,5567920,6.0,2,2,7,Finished,+4.520,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-le-castellet,French Grand Prix,,,,,,1,54,5593660,4.0,3,3,7,Finished,+30.260,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-le-castellet,French Grand Prix,,,,,,8,54,5638280,3.0,4,4,7,Finished,+1:14.880,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-le-castellet,French Grand Prix,,,,,,2,54,5639550,2.0,5,5,7,Finished,+1:16.150,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-le-castellet,French Grand Prix,,,,,,5,54,5640140,1.0,6,6,7,Finished,+1:16.740,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-le-castellet,French Grand Prix,,,,,,13,53,,0.0,7,7,7,+1 Lap,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-le-castellet,French Grand Prix,,,,,,17,53,,0.0,8,8,7,+1 Lap,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-le-castellet,French Grand Prix,,,,,,18,53,,0.0,9,9,7,+1 Lap,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-le-castellet,French Grand Prix,,,,,,15,53,,0.0,10,10,7,+1 Lap,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-le-castellet,French Grand Prix,,,,,,20,52,,0.0,11,11,7,+2 Laps,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-le-castellet,French Grand Prix,,,,,,19,52,,0.0,12,12,7,+2 Laps,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-le-castellet,French Grand Prix,,,,,,24,50,,0.0,13,R,7,Engine,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-le-castellet,French Grand Prix,,,,,,16,50,,0.0,14,R,7,+4 Laps,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-le-castellet,French Grand Prix,,,,,,21,43,,0.0,15,R,7,Engine,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-le-castellet,French Grand Prix,,,,,,11,26,,0.0,16,R,7,Gearbox,,1980
+Alfa Romeo,alfa,Swiss,,depailler,Patrick Depailler,French,22,1980-le-castellet,French Grand Prix,,,,,,10,25,,0.0,17,R,7,Handling,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-le-castellet,French Grand Prix,,,,,,12,18,,0.0,18,R,7,Gearbox,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-le-castellet,French Grand Prix,,,,,,23,8,,0.0,19,R,7,Spun off,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-le-castellet,French Grand Prix,,,,,,9,8,,0.0,20,R,7,Handling,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-le-castellet,French Grand Prix,,,,,,7,6,,0.0,21,R,7,Transmission,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-le-castellet,French Grand Prix,,,,,,14,3,,0.0,22,R,7,Clutch,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-le-castellet,French Grand Prix,,,,,,6,0,,0.0,23,R,7,Transmission,,1980
+Brabham,brabham,British,,zunino,Ricardo Zunino,Argentine,6,1980-le-castellet,French Grand Prix,,,,,,22,0,,0.0,24,R,7,Clutch,,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-kent,British Grand Prix,,,,,,3,76,5689228,9.0,1,1,8,Finished,1:34:49.228,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-kent,British Grand Prix,,,,,,5,76,5700235,6.0,2,2,8,Finished,+11.007,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-kent,British Grand Prix,,,,,,4,76,5702513,4.0,3,3,8,Finished,+13.285,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-kent,British Grand Prix,,,,,,10,75,,3.0,4,4,8,+1 Lap,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-kent,British Grand Prix,,,,,,11,75,,2.0,5,5,8,+1 Lap,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-kent,British Grand Prix,,,,,,7,75,,1.0,6,6,8,+1 Lap,,1980
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1980-kent,British Grand Prix,,,,,,17,74,,0.0,7,7,8,+2 Laps,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-kent,British Grand Prix,,,,,,12,74,,0.0,8,8,8,Engine,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-kent,British Grand Prix,,,,,,21,73,,0.0,9,9,8,+3 Laps,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-kent,British Grand Prix,,,,,,23,73,,0.0,10,10,8,+3 Laps,,1980
+Williams,williams,British,,keegan,Rupert Keegan,British,50,1980-kent,British Grand Prix,,,,,,18,73,,0.0,11,11,8,+3 Laps,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-kent,British Grand Prix,,,,,,22,72,,0.0,12,12,8,+4 Laps,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-kent,British Grand Prix,,,,,,24,69,,0.0,13,13,8,+7 Laps,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-kent,British Grand Prix,,,,,,16,67,,0.0,14,R,8,Not classified,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-kent,British Grand Prix,,,,,,1,63,,0.0,15,R,8,Tyre,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-kent,British Grand Prix,,,,,,15,59,,0.0,16,R,8,Engine,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-kent,British Grand Prix,,,,,,9,57,,0.0,17,R,8,Gearbox,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-kent,British Grand Prix,,,,,,6,42,,0.0,18,R,8,Spun off,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-kent,British Grand Prix,,,,,,19,35,,0.0,19,R,8,Engine,,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-kent,British Grand Prix,,,,,,2,30,,0.0,20,R,8,Tyre,,1980
+Alfa Romeo,alfa,Swiss,,depailler,Patrick Depailler,French,22,1980-kent,British Grand Prix,,,,,,8,27,,0.0,21,R,8,Engine,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-kent,British Grand Prix,,,,,,20,17,,0.0,22,R,8,Suspension,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-kent,British Grand Prix,,,,,,14,16,,0.0,23,R,8,Suspension,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-kent,British Grand Prix,,,,,,13,4,,0.0,24,R,8,Engine,,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-hockenheim,German Grand Prix,,,,,,5,45,5039730,9.0,1,1,9,Finished,1:23:59.730,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-hockenheim,German Grand Prix,,,,,,4,45,5042920,6.0,2,2,9,Finished,+3.190,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-hockenheim,German Grand Prix,,,,,,1,45,5083260,4.0,3,3,9,Finished,+43.530,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-hockenheim,German Grand Prix,,,,,,6,45,5084210,3.0,4,4,9,Finished,+44.480,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-hockenheim,German Grand Prix,,,,,,19,45,5116220,2.0,5,5,9,Finished,+1:16.490,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-hockenheim,German Grand Prix,,,,,,16,45,5128450,1.0,6,6,9,Finished,+1:28.720,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-hockenheim,German Grand Prix,,,,,,9,45,5132740,0.0,7,7,9,Finished,+1:33.010,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-hockenheim,German Grand Prix,,,,,,17,45,5147480,0.0,8,8,9,Finished,+1:47.750,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-hockenheim,German Grand Prix,,,,,,10,44,,0.0,9,9,9,+1 Lap,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-hockenheim,German Grand Prix,,,,,,22,44,,0.0,10,10,9,+1 Lap,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-hockenheim,German Grand Prix,,,,,,14,44,,0.0,11,11,9,+1 Lap,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-hockenheim,German Grand Prix,,,,,,13,44,,0.0,12,12,9,+1 Lap,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-hockenheim,German Grand Prix,,,,,,21,44,,0.0,13,13,9,+1 Lap,,1980
+Ensign,ensign,British,,lammers,Jan Lammers,Dutch,14,1980-hockenheim,German Grand Prix,,,,,,24,44,,0.0,14,14,9,+1 Lap,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-hockenheim,German Grand Prix,,,,,,23,44,,0.0,15,15,9,+1 Lap,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-hockenheim,German Grand Prix,,,,,,11,43,,0.0,16,16,9,Wheel bearing,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-hockenheim,German Grand Prix,,,,,,20,39,,0.0,17,R,9,Engine,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-hockenheim,German Grand Prix,,,,,,2,27,,0.0,18,R,9,Engine,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-hockenheim,German Grand Prix,,,,,,3,26,,0.0,19,R,9,Engine,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-hockenheim,German Grand Prix,,,,,,18,23,,0.0,20,R,9,Gearbox,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-hockenheim,German Grand Prix,,,,,,7,18,,0.0,21,R,9,Transmission,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-hockenheim,German Grand Prix,,,,,,12,18,,0.0,22,R,9,Brakes,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-hockenheim,German Grand Prix,,,,,,8,8,,0.0,23,R,9,Wheel bearing,,1980
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1980-hockenheim,German Grand Prix,,,,,,15,4,,0.0,24,R,9,Gearbox,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-spielberg,Austrian Grand Prix,,,,,,2,54,5175730,9.0,1,1,10,Finished,1:26:15.730,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-spielberg,Austrian Grand Prix,,,,,,3,54,5176550,6.0,2,2,10,Finished,+0.820,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-spielberg,Austrian Grand Prix,,,,,,4,54,5195090,4.0,3,3,10,Finished,+19.360,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-spielberg,Austrian Grand Prix,,,,,,5,54,5217750,3.0,4,4,10,Finished,+42.020,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-spielberg,Austrian Grand Prix,,,,,,7,54,5238540,2.0,5,5,10,Finished,+1:02.810,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-spielberg,Austrian Grand Prix,,,,,,9,54,5238540,1.0,6,6,10,Finished,+1:02.810,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-spielberg,Austrian Grand Prix,,,,,,12,54,5269140,0.0,7,7,10,Finished,+1:33.410,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-spielberg,Austrian Grand Prix,,,,,,15,53,,0.0,8,8,10,+1 Lap,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-spielberg,Austrian Grand Prix,,,,,,1,53,,0.0,9,9,10,+1 Lap,,1980
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1980-spielberg,Austrian Grand Prix,,,,,,14,53,,0.0,10,10,10,+1 Lap,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-spielberg,Austrian Grand Prix,,,,,,23,53,,0.0,11,11,10,+1 Lap,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-spielberg,Austrian Grand Prix,,,,,,16,53,,0.0,12,12,10,+1 Lap,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-spielberg,Austrian Grand Prix,,,,,,22,53,,0.0,13,13,10,+1 Lap,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-spielberg,Austrian Grand Prix,,,,,,18,53,,0.0,14,14,10,+1 Lap,,1980
+Williams,williams,British,,keegan,Rupert Keegan,British,50,1980-spielberg,Austrian Grand Prix,,,,,,20,52,,0.0,15,15,10,+2 Laps,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-spielberg,Austrian Grand Prix,,,,,,11,52,,0.0,16,16,10,+2 Laps,,1980
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,43,1980-spielberg,Austrian Grand Prix,,,,,,24,40,,0.0,17,R,10,Engine,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-spielberg,Austrian Grand Prix,,,,,,21,34,,0.0,18,R,10,Engine,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-spielberg,Austrian Grand Prix,,,,,,8,28,,0.0,19,R,10,Wheel,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-spielberg,Austrian Grand Prix,,,,,,13,25,,0.0,20,R,10,Handling,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-spielberg,Austrian Grand Prix,,,,,,6,25,,0.0,21,R,10,Electrical,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-spielberg,Austrian Grand Prix,,,,,,19,23,,0.0,22,R,10,Wheel bearing,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-spielberg,Austrian Grand Prix,,,,,,10,12,,0.0,23,R,10,Brakes,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-spielberg,Austrian Grand Prix,,,,,,17,6,,0.0,24,R,10,Engine,,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-zandvoort,Dutch Grand Prix,,,,,,5,72,5893830,9.0,1,1,11,Finished,1:38:13.830,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-zandvoort,Dutch Grand Prix,,,,,,1,72,5906760,6.0,2,2,11,Finished,+12.930,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-zandvoort,Dutch Grand Prix,,,,,,6,72,5907260,4.0,3,3,11,Finished,+13.430,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-zandvoort,Dutch Grand Prix,,,,,,3,72,5909120,3.0,4,4,11,Finished,+15.290,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-zandvoort,Dutch Grand Prix,,,,,,17,72,5953850,2.0,5,5,11,Finished,+1:00.020,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-zandvoort,Dutch Grand Prix,,,,,,18,72,5976450,1.0,6,6,11,Finished,+1:22.620,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-zandvoort,Dutch Grand Prix,,,,,,7,71,,0.0,7,7,11,+1 Lap,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-zandvoort,Dutch Grand Prix,,,,,,10,70,,0.0,8,8,11,Out of fuel,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-zandvoort,Dutch Grand Prix,,,,,,12,70,,0.0,9,9,11,+2 Laps,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-zandvoort,Dutch Grand Prix,,,,,,20,69,,0.0,10,10,11,+3 Laps,,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-zandvoort,Dutch Grand Prix,,,,,,4,69,,0.0,11,11,11,+3 Laps,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-zandvoort,Dutch Grand Prix,,,,,,23,60,,0.0,12,R,11,Brakes,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-zandvoort,Dutch Grand Prix,,,,,,8,58,,0.0,13,R,11,Accident,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-zandvoort,Dutch Grand Prix,,,,,,19,38,,0.0,14,R,11,Engine,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-zandvoort,Dutch Grand Prix,,,,,,14,29,,0.0,15,R,11,Engine,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-zandvoort,Dutch Grand Prix,,,,,,2,23,,0.0,16,R,11,Handling,,1980
+Alfa Romeo,alfa,Swiss,,brambilla,Vittorio Brambilla,Italian,22,1980-zandvoort,Dutch Grand Prix,,,,,,22,21,,0.0,17,R,11,Accident,,1980
+Ensign,ensign,British,,lees,Geoff Lees,British,41,1980-zandvoort,Dutch Grand Prix,,,,,,24,21,,0.0,18,R,11,Accident,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-zandvoort,Dutch Grand Prix,,,,,,9,18,,0.0,19,R,11,Engine,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-zandvoort,Dutch Grand Prix,,,,,,21,16,,0.0,20,R,11,Brakes,,1980
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,43,1980-zandvoort,Dutch Grand Prix,,,,,,16,15,,0.0,21,R,11,Brakes,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-zandvoort,Dutch Grand Prix,,,,,,11,2,,0.0,22,R,11,Accident,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-zandvoort,Dutch Grand Prix,,,,,,15,2,,0.0,23,R,11,Accident,,1980
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1980-zandvoort,Dutch Grand Prix,,,,,,13,1,,0.0,24,R,11,Gearbox,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,29,W,11,Withdrew,,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-imola,Italian Grand Prix,,,,,,5,60,5887520,9.0,1,1,12,Finished,1:38:07.520,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-imola,Italian Grand Prix,,,,,,6,60,5916450,6.0,2,2,12,Finished,+28.930,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-imola,Italian Grand Prix,,,,,,3,60,5961190,4.0,3,3,12,Finished,+1:13.670,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-imola,Italian Grand Prix,,,,,,18,59,,3.0,4,4,12,+1 Lap,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-imola,Italian Grand Prix,,,,,,11,59,,2.0,5,5,12,+1 Lap,,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-imola,Italian Grand Prix,,,,,,13,59,,1.0,6,6,12,+1 Lap,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-imola,Italian Grand Prix,,,,,,24,59,,0.0,7,7,12,+1 Lap,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-imola,Italian Grand Prix,,,,,,16,59,,0.0,8,8,12,+1 Lap,,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-imola,Italian Grand Prix,,,,,,20,59,,0.0,9,9,12,+1 Lap,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-imola,Italian Grand Prix,,,,,,1,58,,0.0,10,10,12,+2 Laps,,1980
+Williams,williams,British,,keegan,Rupert Keegan,British,50,1980-imola,Italian Grand Prix,,,,,,21,58,,0.0,11,11,12,+2 Laps,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-imola,Italian Grand Prix,,,,,,17,57,,0.0,12,12,12,+3 Laps,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-imola,Italian Grand Prix,,,,,,12,54,,0.0,13,13,12,Brakes,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-imola,Italian Grand Prix,,,,,,2,53,,0.0,14,R,12,Gearbox,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-imola,Italian Grand Prix,,,,,,23,45,,0.0,15,R,12,Engine,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-imola,Italian Grand Prix,,,,,,10,40,,0.0,16,R,12,Engine,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-imola,Italian Grand Prix,,,,,,7,38,,0.0,17,R,12,Engine,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-imola,Italian Grand Prix,,,,,,22,33,,0.0,18,R,12,Accident,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-imola,Italian Grand Prix,,,,,,14,20,,0.0,19,R,12,Wheel bearing,,1980
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1980-imola,Italian Grand Prix,,,,,,9,18,,0.0,20,R,12,Suspension,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-imola,Italian Grand Prix,,,,,,15,17,,0.0,21,R,12,Accident,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-imola,Italian Grand Prix,,,,,,8,5,,0.0,22,R,12,Puncture,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-imola,Italian Grand Prix,,,,,,4,5,,0.0,23,R,12,Puncture,,1980
+Alfa Romeo,alfa,Swiss,,brambilla,Vittorio Brambilla,Italian,22,1980-imola,Italian Grand Prix,,,,,,19,4,,0.0,24,R,12,Spun off,,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-montreal,Canadian Grand Prix,,,,,,2,70,6405530,9.0,1,1,13,Finished,1:46:45.530,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-montreal,Canadian Grand Prix,,,,,,5,70,6421070,6.0,2,2,13,Finished,+15.540,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-montreal,Canadian Grand Prix,,,,,,3,70,6424600,4.0,3,3,13,Finished,+19.070,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-montreal,Canadian Grand Prix,,,,,,7,70,6436510,3.0,4,4,13,Finished,+30.980,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-montreal,Canadian Grand Prix,,,,,,22,70,6460760,2.0,5,5,13,Finished,+55.230,1980
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1980-montreal,Canadian Grand Prix,,,,,,10,69,,1.0,6,6,13,+1 Lap,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-montreal,Canadian Grand Prix,,,,,,15,69,,0.0,7,7,13,+1 Lap,,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-montreal,Canadian Grand Prix,,,,,,9,68,,0.0,8,8,13,Out of fuel,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-montreal,Canadian Grand Prix,,,,,,6,68,,0.0,9,9,13,+2 Laps,,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-montreal,Canadian Grand Prix,,,,,,17,68,,0.0,10,10,13,+2 Laps,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-montreal,Canadian Grand Prix,,,,,,21,67,,0.0,11,11,13,+3 Laps,,1980
+Ensign,ensign,British,,lammers,Jan Lammers,Dutch,14,1980-montreal,Canadian Grand Prix,,,,,,19,66,,0.0,12,12,13,+4 Laps,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-montreal,Canadian Grand Prix,,,,,,12,41,,0.0,13,R,13,Suspension,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-montreal,Canadian Grand Prix,,,,,,23,39,,0.0,14,R,13,Brakes,,1980
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1980-montreal,Canadian Grand Prix,,,,,,13,25,,0.0,15,R,13,Suspension,,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-montreal,Canadian Grand Prix,,,,,,1,23,,0.0,16,R,13,Engine,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-montreal,Canadian Grand Prix,,,,,,18,11,,0.0,17,R,13,Engine,,1980
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1980-montreal,Canadian Grand Prix,,,,,,8,8,,0.0,18,R,13,Engine,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-montreal,Canadian Grand Prix,,,,,,14,8,,0.0,19,R,13,Fuel system,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-montreal,Canadian Grand Prix,,,,,,16,8,,0.0,20,R,13,Gearbox,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-montreal,Canadian Grand Prix,,,,,,4,7,,0.0,21,R,13,Chassis,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-montreal,Canadian Grand Prix,,,,,,11,6,,0.0,22,R,13,Accident,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-montreal,Canadian Grand Prix,,,,,,20,0,,0.0,23,R,13,Accident,,1980
+Tyrrell,tyrrell,British,,thackwell,Mike Thackwell,New Zealander,43,1980-montreal,Canadian Grand Prix,,,,,,24,0,,0.0,24,R,13,Accident,,1980
+Williams,williams,British,,jones,Alan Jones,Australian,27,1980-new-york-state,United States Grand Prix,,,,,,5,59,5676050,9.0,1,1,14,Finished,1:34:36.050,1980
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,28,1980-new-york-state,United States Grand Prix,,,,,,3,59,5680260,6.0,2,2,14,Finished,+4.210,1980
+Ligier,ligier,French,,pironi,Didier Pironi,French,25,1980-new-york-state,United States Grand Prix,,,,,,7,59,5688620,4.0,3,3,14,Finished,+12.570,1980
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,12,1980-new-york-state,United States Grand Prix,,,,,,4,59,5705740,3.0,4,4,14,Finished,+29.690,1980
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1980-new-york-state,United States Grand Prix,,,,,,12,58,,2.0,5,5,14,+1 Lap,,1980
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,11,1980-new-york-state,United States Grand Prix,,,,,,11,58,,1.0,6,6,14,+1 Lap,,1980
+Renault,renault,French,,arnoux,René Arnoux,French,16,1980-new-york-state,United States Grand Prix,,,,,,6,58,,0.0,7,7,14,+1 Lap,,1980
+ATS,ats,Italian,,surer,Marc Surer,Swiss,9,1980-new-york-state,United States Grand Prix,,,,,,17,57,,0.0,8,8,14,+2 Laps,,1980
+Williams,williams,British,,keegan,Rupert Keegan,British,50,1980-new-york-state,United States Grand Prix,,,,,,15,57,,0.0,9,9,14,+2 Laps,,1980
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,21,1980-new-york-state,United States Grand Prix,,,,,,14,57,,0.0,10,10,14,+2 Laps,,1980
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,1,1980-new-york-state,United States Grand Prix,,,,,,23,56,,0.0,11,11,14,+3 Laps,,1980
+McLaren,mclaren,British,,watson,John Watson,British,7,1980-new-york-state,United States Grand Prix,,,,,,9,50,,0.0,12,R,14,+9 Laps,,1980
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,2,1980-new-york-state,United States Grand Prix,,,,,,18,49,,0.0,13,R,14,Accident,,1980
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,3,1980-new-york-state,United States Grand Prix,,,,,,22,40,,0.0,14,R,14,Not classified,,1980
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1980-new-york-state,United States Grand Prix,,,,,,24,36,,0.0,15,R,14,Transmission,,1980
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1980-new-york-state,United States Grand Prix,,,,,,1,31,,0.0,16,R,14,Electrical,,1980
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1980-new-york-state,United States Grand Prix,,,,,,2,25,,0.0,17,R,14,Spun off,,1980
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1980-new-york-state,United States Grand Prix,,,,,,8,20,,0.0,18,R,14,Engine,,1980
+Osella,osella,Italian,,cheever,Eddie Cheever,American,31,1980-new-york-state,United States Grand Prix,,,,,,16,20,,0.0,19,R,14,Suspension,,1980
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1980-new-york-state,United States Grand Prix,,,,,,20,16,,0.0,20,R,14,Spun off,,1980
+Ensign,ensign,British,,lammers,Jan Lammers,Dutch,14,1980-new-york-state,United States Grand Prix,,,,,,25,16,,0.0,21,R,14,Steering,,1980
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,20,1980-new-york-state,United States Grand Prix,,,,,,19,15,,0.0,22,R,14,Suspension,,1980
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1980-new-york-state,United States Grand Prix,,,,,,21,3,,0.0,23,R,14,Spun off,,1980
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1980-new-york-state,United States Grand Prix,,,,,,10,2,,0.0,24,R,14,Accident,,1980
+McLaren,mclaren,British,,prost,Alain Prost,French,8,1980-new-york-state,United States Grand Prix,,,,,,13,0,,0.0,25,W,14,Withdrew,,1980

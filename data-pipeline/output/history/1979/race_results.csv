@@ -1,0 +1,363 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-buenos-aires,Argentine Grand Prix,,,,,,1,53,5763210,9.0,1,1,1,Finished,1:36:03.210,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-buenos-aires,Argentine Grand Prix,,,,,,3,53,5778150,6.0,2,2,1,Finished,+14.940,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-buenos-aires,Argentine Grand Prix,,,,,,6,53,5852020,4.0,3,3,1,Finished,+1:28.810,1979
+Ligier,ligier,French,,depailler,Patrick Depailler,French,25,1979-buenos-aires,Argentine Grand Prix,,,,,,2,53,5864930,3.0,4,4,1,Finished,+1:41.720,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-buenos-aires,Argentine Grand Prix,,,,,,7,52,,2.0,5,5,1,+1 Lap,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-buenos-aires,Argentine Grand Prix,,,,,,11,52,,1.0,6,6,1,+1 Lap,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-buenos-aires,Argentine Grand Prix,,,,,,16,52,,0.0,7,7,1,+1 Lap,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-buenos-aires,Argentine Grand Prix,,,,,,14,51,,0.0,8,8,1,+2 Laps,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-buenos-aires,Argentine Grand Prix,,,,,,15,51,,0.0,9,9,1,+2 Laps,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-buenos-aires,Argentine Grand Prix,,,,,,17,51,,0.0,10,10,1,+2 Laps,,1979
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1979-buenos-aires,Argentine Grand Prix,,,,,,24,51,,0.0,11,11,1,+2 Laps,,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-buenos-aires,Argentine Grand Prix,,,,,,10,48,,0.0,12,R,1,Engine,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-buenos-aires,Argentine Grand Prix,,,,,,19,46,,0.0,13,R,1,Suspension,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-buenos-aires,Argentine Grand Prix,,,,,,21,42,,0.0,14,R,1,Transmission,,1979
+Wolf,wolf,Canadian,,hunt,James Hunt,British,20,1979-buenos-aires,Argentine Grand Prix,,,,,,18,41,,0.0,15,R,1,Electrical,,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-buenos-aires,Argentine Grand Prix,,,,,,4,15,,0.0,16,R,1,Engine,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-buenos-aires,Argentine Grand Prix,,,,,,12,15,,0.0,17,R,1,Engine,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-buenos-aires,Argentine Grand Prix,,,,,,23,8,,0.0,18,R,1,Fuel system,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-buenos-aires,Argentine Grand Prix,,,,,,25,6,,0.0,19,R,1,Engine,,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-buenos-aires,Argentine Grand Prix,,,,,,5,0,,0.0,20,R,1,Collision,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-buenos-aires,Argentine Grand Prix,,,,,,8,0,,0.0,21,R,1,Collision,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-buenos-aires,Argentine Grand Prix,,,,,,9,0,,0.0,22,R,1,Collision,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-buenos-aires,Argentine Grand Prix,,,,,,20,0,,0.0,23,R,1,Collision,,1979
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,24,1979-buenos-aires,Argentine Grand Prix,,,,,,22,0,,0.0,24,R,1,Collision,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-buenos-aires,Argentine Grand Prix,,,,,,13,0,,0.0,25,W,1,Accident,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-buenos-aires,Argentine Grand Prix,,,,,,0,0,,0.0,26,W,1,Withdrew,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-s-o-paulo,Brazilian Grand Prix,,,,,,1,40,6009640,9.0,1,1,2,Finished,1:40:09.640,1979
+Ligier,ligier,French,,depailler,Patrick Depailler,French,25,1979-s-o-paulo,Brazilian Grand Prix,,,,,,2,40,6014920,6.0,2,2,2,Finished,+5.280,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-s-o-paulo,Brazilian Grand Prix,,,,,,3,40,6053780,4.0,3,3,2,Finished,+44.140,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-s-o-paulo,Brazilian Grand Prix,,,,,,8,40,6095520,3.0,4,4,2,Finished,+1:25.880,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-s-o-paulo,Brazilian Grand Prix,,,,,,5,39,,2.0,5,5,2,+1 Lap,,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-s-o-paulo,Brazilian Grand Prix,,,,,,6,39,,1.0,6,6,2,+1 Lap,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-s-o-paulo,Brazilian Grand Prix,,,,,,19,39,,0.0,7,7,2,+1 Lap,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-s-o-paulo,Brazilian Grand Prix,,,,,,14,39,,0.0,8,8,2,+1 Lap,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-s-o-paulo,Brazilian Grand Prix,,,,,,16,39,,0.0,9,9,2,+1 Lap,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-s-o-paulo,Brazilian Grand Prix,,,,,,7,39,,0.0,10,10,2,+1 Lap,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-s-o-paulo,Brazilian Grand Prix,,,,,,9,39,,0.0,11,11,2,+1 Lap,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-s-o-paulo,Brazilian Grand Prix,,,,,,20,39,,0.0,12,12,2,+1 Lap,,1979
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1979-s-o-paulo,Brazilian Grand Prix,,,,,,23,39,,0.0,13,13,2,+1 Lap,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-s-o-paulo,Brazilian Grand Prix,,,,,,21,39,,0.0,14,14,2,+1 Lap,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-s-o-paulo,Brazilian Grand Prix,,,,,,17,38,,0.0,15,15,2,+2 Laps,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-s-o-paulo,Brazilian Grand Prix,,,,,,13,33,,0.0,16,R,2,Fuel system,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-s-o-paulo,Brazilian Grand Prix,,,,,,24,31,,0.0,17,R,2,Steering,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-s-o-paulo,Brazilian Grand Prix,,,,,,11,28,,0.0,18,R,2,Spun off,,1979
+Wolf,wolf,Canadian,,hunt,James Hunt,British,20,1979-s-o-paulo,Brazilian Grand Prix,,,,,,10,7,,0.0,19,R,2,Steering,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-s-o-paulo,Brazilian Grand Prix,,,,,,18,7,,0.0,20,R,2,Collision,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-s-o-paulo,Brazilian Grand Prix,,,,,,12,5,,0.0,21,R,2,Gearbox,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-s-o-paulo,Brazilian Grand Prix,,,,,,22,5,,0.0,22,R,2,Accident,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-s-o-paulo,Brazilian Grand Prix,,,,,,4,2,,0.0,23,R,2,Fuel leak,,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-s-o-paulo,Brazilian Grand Prix,,,,,,15,0,,0.0,24,R,2,Electrical,,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-midrand,South African Grand Prix,,,,,,3,78,6109960,9.0,1,1,3,Finished,1:41:49.960,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-midrand,South African Grand Prix,,,,,,2,78,6113380,6.0,2,2,3,Finished,+3.420,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-midrand,South African Grand Prix,,,,,,9,78,6132070,4.0,3,3,3,Finished,+22.110,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-midrand,South African Grand Prix,,,,,,8,78,6137840,3.0,4,4,3,Finished,+27.880,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-midrand,South African Grand Prix,,,,,,11,78,6176930,2.0,5,5,3,Finished,+1:06.970,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-midrand,South African Grand Prix,,,,,,4,77,,1.0,6,6,3,+1 Lap,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-midrand,South African Grand Prix,,,,,,12,77,,0.0,7,7,3,+1 Lap,,1979
+Wolf,wolf,Canadian,,hunt,James Hunt,British,20,1979-midrand,South African Grand Prix,,,,,,13,77,,0.0,8,8,3,+1 Lap,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-midrand,South African Grand Prix,,,,,,22,76,,0.0,9,9,3,+2 Laps,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-midrand,South African Grand Prix,,,,,,17,75,,0.0,10,10,3,+3 Laps,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-midrand,South African Grand Prix,,,,,,16,75,,0.0,11,11,3,+3 Laps,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-midrand,South African Grand Prix,,,,,,20,74,,0.0,12,12,3,+4 Laps,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-midrand,South African Grand Prix,,,,,,18,74,,0.0,13,13,3,+4 Laps,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-midrand,South African Grand Prix,,,,,,23,71,,0.0,14,R,3,Engine,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-midrand,South African Grand Prix,,,,,,10,67,,0.0,15,R,3,Tyre,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-midrand,South African Grand Prix,,,,,,19,63,,0.0,16,R,3,Suspension,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-midrand,South African Grand Prix,,,,,,14,61,,0.0,17,R,3,Ignition,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-midrand,South African Grand Prix,,,,,,24,57,,0.0,18,R,3,Accident,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-midrand,South African Grand Prix,,,,,,1,47,,0.0,19,R,3,Engine,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-midrand,South African Grand Prix,,,,,,6,45,,0.0,20,R,3,Accident,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-midrand,South African Grand Prix,,,,,,7,25,,0.0,21,R,3,Throttle,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-midrand,South African Grand Prix,,,,,,15,16,,0.0,22,R,3,Accident,,1979
+Ligier,ligier,French,,depailler,Patrick Depailler,French,25,1979-midrand,South African Grand Prix,,,,,,5,4,,0.0,23,R,3,Accident,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-midrand,South African Grand Prix,,,,,,21,2,,0.0,24,R,3,Accident,,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-california,United States Grand Prix West,,,,,,1,80,6625400,9.0,1,1,4,Finished,1:50:25.400,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-california,United States Grand Prix West,,,,,,3,80,6654780,6.0,2,2,4,Finished,+29.380,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-california,United States Grand Prix West,,,,,,10,80,6685090,4.0,3,3,4,Finished,+59.690,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-california,United States Grand Prix West,,,,,,6,80,6689730,3.0,4,4,4,Finished,+1:04.330,1979
+Ligier,ligier,French,,depailler,Patrick Depailler,French,25,1979-california,United States Grand Prix West,,,,,,4,80,6708920,2.0,5,5,4,Finished,+1:23.520,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-california,United States Grand Prix West,,,,,,7,79,,1.0,6,6,4,+1 Lap,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-california,United States Grand Prix West,,,,,,20,78,,0.0,7,7,4,+2 Laps,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-california,United States Grand Prix West,,,,,,12,78,,0.0,8,8,4,+2 Laps,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-california,United States Grand Prix West,,,,,,13,78,,0.0,9,9,4,+2 Laps,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-california,United States Grand Prix West,,,,,,17,72,,0.0,10,D,4,Disqualified,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-california,United States Grand Prix West,,,,,,23,71,,0.0,11,R,4,Accident,,1979
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1979-california,United States Grand Prix West,,,,,,24,69,,0.0,12,R,4,Accident,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-california,United States Grand Prix West,,,,,,18,62,,0.0,13,R,4,Injection,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-california,United States Grand Prix West,,,,,,21,49,,0.0,14,D,4,Disqualified,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-california,United States Grand Prix West,,,,,,15,48,,0.0,15,R,4,Engine,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-california,United States Grand Prix West,,,,,,14,47,,0.0,16,R,4,Suspension,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-california,United States Grand Prix West,,,,,,9,40,,0.0,17,R,4,Brakes,,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-california,United States Grand Prix West,,,,,,2,21,,0.0,18,R,4,Transmission,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-california,United States Grand Prix West,,,,,,16,19,,0.0,19,R,4,Transmission,,1979
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,24,1979-california,United States Grand Prix West,,,,,,22,13,,0.0,20,R,4,Engine,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-california,United States Grand Prix West,,,,,,5,8,,0.0,21,R,4,Brakes,,1979
+Wolf,wolf,Canadian,,hunt,James Hunt,British,20,1979-california,United States Grand Prix West,,,,,,8,0,,0.0,22,R,4,Transmission,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-california,United States Grand Prix West,,,,,,11,0,,0.0,23,R,4,Accident,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-california,United States Grand Prix West,,,,,,19,0,,0.0,24,R,4,Collision,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-california,United States Grand Prix West,,,,,,0,0,,0.0,25,W,4,Withdrew,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-california,United States Grand Prix West,,,,,,0,0,,0.0,26,W,4,Withdrew,,1979
+Ligier,ligier,French,,depailler,Patrick Depailler,French,25,1979-madrid,Spanish Grand Prix,,,,,,2,75,5951840,9.0,1,1,5,Finished,1:39:11.840,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-madrid,Spanish Grand Prix,,,,,,8,75,5972780,6.0,2,2,5,Finished,+20.940,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-madrid,Spanish Grand Prix,,,,,,4,75,5979150,4.0,3,3,5,Finished,+27.310,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-madrid,Spanish Grand Prix,,,,,,5,75,5980520,3.0,4,4,5,Finished,+28.680,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-madrid,Spanish Grand Prix,,,,,,12,75,5982230,2.0,5,5,5,Finished,+30.390,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-madrid,Spanish Grand Prix,,,,,,10,75,6000270,1.0,6,6,5,Finished,+48.430,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-madrid,Spanish Grand Prix,,,,,,3,75,6004150,0.0,7,7,5,Finished,+52.310,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-madrid,Spanish Grand Prix,,,,,,17,75,6026680,0.0,8,8,5,Finished,+1:14.840,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-madrid,Spanish Grand Prix,,,,,,11,74,,0.0,9,9,5,+1 Lap,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-madrid,Spanish Grand Prix,,,,,,16,74,,0.0,10,10,5,+1 Lap,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-madrid,Spanish Grand Prix,,,,,,19,74,,0.0,11,11,5,+1 Lap,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-madrid,Spanish Grand Prix,,,,,,24,73,,0.0,12,12,5,+2 Laps,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-madrid,Spanish Grand Prix,,,,,,20,72,,0.0,13,13,5,+3 Laps,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-madrid,Spanish Grand Prix,,,,,,21,69,,0.0,14,14,5,+6 Laps,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-madrid,Spanish Grand Prix,,,,,,6,63,,0.0,15,R,5,Water leak,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-madrid,Spanish Grand Prix,,,,,,23,58,,0.0,16,R,5,Engine,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-madrid,Spanish Grand Prix,,,,,,13,54,,0.0,17,R,5,Gearbox,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-madrid,Spanish Grand Prix,,,,,,22,52,,0.0,18,R,5,Engine,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-madrid,Spanish Grand Prix,,,,,,14,32,,0.0,19,R,5,Engine,,1979
+Wolf,wolf,Canadian,,hunt,James Hunt,British,20,1979-madrid,Spanish Grand Prix,,,,,,15,26,,0.0,20,R,5,Brakes,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-madrid,Spanish Grand Prix,,,,,,9,21,,0.0,21,R,5,Turbo,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-madrid,Spanish Grand Prix,,,,,,18,21,,0.0,22,R,5,Engine,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-madrid,Spanish Grand Prix,,,,,,1,15,,0.0,23,R,5,Engine,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-madrid,Spanish Grand Prix,,,,,,7,15,,0.0,24,R,5,Injection,,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-heusden-zolder,Belgian Grand Prix,,,,,,7,70,5999530,9.0,1,1,6,Finished,1:39:59.530,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-heusden-zolder,Belgian Grand Prix,,,,,,1,70,6014890,6.0,2,2,6,Finished,+15.360,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-heusden-zolder,Belgian Grand Prix,,,,,,12,70,6034700,4.0,3,3,6,Finished,+35.170,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-heusden-zolder,Belgian Grand Prix,,,,,,10,70,6046020,3.0,4,4,6,Finished,+46.490,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-heusden-zolder,Belgian Grand Prix,,,,,,16,70,6063840,2.0,5,5,6,Finished,+1:04.310,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-heusden-zolder,Belgian Grand Prix,,,,,,19,70,6065380,1.0,6,6,6,Finished,+1:05.850,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-heusden-zolder,Belgian Grand Prix,,,,,,6,69,,0.0,7,7,6,+1 Lap,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-heusden-zolder,Belgian Grand Prix,,,,,,20,69,,0.0,8,8,6,+1 Lap,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-heusden-zolder,Belgian Grand Prix,,,,,,23,68,,0.0,9,9,6,+2 Laps,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-heusden-zolder,Belgian Grand Prix,,,,,,21,68,,0.0,10,10,6,+2 Laps,,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-heusden-zolder,Belgian Grand Prix,,,,,,11,67,,0.0,11,11,6,+3 Laps,,1979
+Ligier,ligier,French,,depailler,Patrick Depailler,French,25,1979-heusden-zolder,Belgian Grand Prix,,,,,,2,46,,0.0,12,R,6,Accident,,1979
+Wolf,wolf,Canadian,,hunt,James Hunt,British,20,1979-heusden-zolder,Belgian Grand Prix,,,,,,9,40,,0.0,13,R,6,Accident,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-heusden-zolder,Belgian Grand Prix,,,,,,4,39,,0.0,14,R,6,Electrical,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-heusden-zolder,Belgian Grand Prix,,,,,,5,27,,0.0,15,R,6,Brakes,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-heusden-zolder,Belgian Grand Prix,,,,,,3,23,,0.0,16,R,6,Engine,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-heusden-zolder,Belgian Grand Prix,,,,,,13,23,,0.0,17,R,6,Engine,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-heusden-zolder,Belgian Grand Prix,,,,,,18,22,,0.0,18,R,6,Turbo,,1979
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,35,1979-heusden-zolder,Belgian Grand Prix,,,,,,14,21,,0.0,19,R,6,Accident,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-heusden-zolder,Belgian Grand Prix,,,,,,24,21,,0.0,20,R,6,Accident,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-heusden-zolder,Belgian Grand Prix,,,,,,22,17,,0.0,21,R,6,Spun off,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-heusden-zolder,Belgian Grand Prix,,,,,,15,13,,0.0,22,R,6,Transmission,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-heusden-zolder,Belgian Grand Prix,,,,,,17,13,,0.0,23,R,6,Turbo,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-heusden-zolder,Belgian Grand Prix,,,,,,8,1,,0.0,24,R,6,Accident,,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-monte-carlo,Monaco Grand Prix,,,,,,1,76,6922480,9.0,1,1,7,Finished,1:55:22.480,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-monte-carlo,Monaco Grand Prix,,,,,,16,76,6922920,6.0,2,2,7,Finished,+0.440,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-monte-carlo,Monaco Grand Prix,,,,,,11,76,6931050,4.0,3,3,7,Finished,+8.570,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-monte-carlo,Monaco Grand Prix,,,,,,14,76,6963790,3.0,4,4,7,Finished,+41.310,1979
+Ligier,ligier,French,,depailler,Patrick Depailler,French,25,1979-monte-carlo,Monaco Grand Prix,,,,,,3,75,,2.0,5,5,7,Engine,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-monte-carlo,Monaco Grand Prix,,,,,,8,69,,1.0,6,6,7,+7 Laps,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-monte-carlo,Monaco Grand Prix,,,,,,18,68,,0.0,7,R,7,Transmission,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-monte-carlo,Monaco Grand Prix,,,,,,20,68,,0.0,8,R,7,+8 Laps,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-monte-carlo,Monaco Grand Prix,,,,,,5,55,,0.0,9,R,7,Gearbox,,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-monte-carlo,Monaco Grand Prix,,,,,,2,54,,0.0,10,R,7,Transmission,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-monte-carlo,Monaco Grand Prix,,,,,,9,43,,0.0,11,R,7,Steering,,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-monte-carlo,Monaco Grand Prix,,,,,,6,34,,0.0,12,R,7,Suspension,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-monte-carlo,Monaco Grand Prix,,,,,,12,30,,0.0,13,R,7,Wheel,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-monte-carlo,Monaco Grand Prix,,,,,,4,21,,0.0,14,R,7,Accident,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-monte-carlo,Monaco Grand Prix,,,,,,7,21,,0.0,15,R,7,Accident,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-monte-carlo,Monaco Grand Prix,,,,,,13,21,,0.0,16,R,7,Suspension,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-monte-carlo,Monaco Grand Prix,,,,,,17,17,,0.0,17,R,7,Engine,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-monte-carlo,Monaco Grand Prix,,,,,,19,8,,0.0,18,R,7,Accident,,1979
+Wolf,wolf,Canadian,,hunt,James Hunt,British,20,1979-monte-carlo,Monaco Grand Prix,,,,,,10,4,,0.0,19,R,7,Transmission,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-monte-carlo,Monaco Grand Prix,,,,,,15,4,,0.0,20,R,7,Suspension,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-dijon,French Grand Prix,,,,,,1,80,5720420,9.0,1,1,8,Finished,1:35:20.420,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-dijon,French Grand Prix,,,,,,3,80,5735010,6.0,2,2,8,Finished,+14.590,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-dijon,French Grand Prix,,,,,,2,80,5735250,4.0,3,3,8,Finished,+14.830,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-dijon,French Grand Prix,,,,,,7,80,5757030,3.0,4,4,8,Finished,+36.610,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-dijon,French Grand Prix,,,,,,10,80,5784930,2.0,5,5,8,Finished,+1:04.510,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-dijon,French Grand Prix,,,,,,9,80,5785930,1.0,6,6,8,Finished,+1:05.510,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-dijon,French Grand Prix,,,,,,5,79,,0.0,7,7,8,+1 Lap,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-dijon,French Grand Prix,,,,,,8,79,,0.0,8,8,8,+1 Lap,,1979
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,20,1979-dijon,French Grand Prix,,,,,,16,79,,0.0,9,9,8,+1 Lap,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-dijon,French Grand Prix,,,,,,20,78,,0.0,10,10,8,+2 Laps,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-dijon,French Grand Prix,,,,,,15,78,,0.0,11,11,8,+2 Laps,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-dijon,French Grand Prix,,,,,,23,78,,0.0,12,12,8,+2 Laps,,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-dijon,French Grand Prix,,,,,,13,77,,0.0,13,13,8,+3 Laps,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-dijon,French Grand Prix,,,,,,19,77,,0.0,14,14,8,+3 Laps,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-dijon,French Grand Prix,,,,,,22,75,,0.0,15,15,8,+5 Laps,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-dijon,French Grand Prix,,,,,,24,75,,0.0,16,16,8,+5 Laps,,1979
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,35,1979-dijon,French Grand Prix,,,,,,17,75,,0.0,17,17,8,+5 Laps,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-dijon,French Grand Prix,,,,,,21,73,,0.0,18,18,8,+7 Laps,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-dijon,French Grand Prix,,,,,,11,71,,0.0,19,R,8,Suspension,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-dijon,French Grand Prix,,,,,,18,53,,0.0,20,R,8,Engine,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-dijon,French Grand Prix,,,,,,4,52,,0.0,21,R,8,Accident,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-dijon,French Grand Prix,,,,,,12,51,,0.0,22,R,8,Brakes,,1979
+Ligier,ligier,French,,ickx,Jacky Ickx,Belgian,25,1979-dijon,French Grand Prix,,,,,,14,45,,0.0,23,R,8,Engine,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-dijon,French Grand Prix,,,,,,6,23,,0.0,24,R,8,Spun off,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-dijon,French Grand Prix,,,,,,0,0,,0.0,25,W,8,Withdrew,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-silverstone,British Grand Prix,,,,,,4,68,5171170,9.0,1,1,9,Finished,1:26:11.170,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-silverstone,British Grand Prix,,,,,,5,68,5195450,6.0,2,2,9,Finished,+24.280,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-silverstone,British Grand Prix,,,,,,16,67,,4.0,3,3,9,+1 Lap,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-silverstone,British Grand Prix,,,,,,7,67,,3.0,4,4,9,+1 Lap,,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-silverstone,British Grand Prix,,,,,,11,67,,2.0,5,5,9,+1 Lap,,1979
+Ligier,ligier,French,,ickx,Jacky Ickx,Belgian,25,1979-silverstone,British Grand Prix,,,,,,17,67,,1.0,6,6,9,+1 Lap,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-silverstone,British Grand Prix,,,,,,18,66,,0.0,7,7,9,Out of fuel,,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-silverstone,British Grand Prix,,,,,,8,66,,0.0,8,8,9,+2 Laps,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-silverstone,British Grand Prix,,,,,,26,66,,0.0,9,9,9,+2 Laps,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-silverstone,British Grand Prix,,,,,,15,66,,0.0,10,10,9,+2 Laps,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-silverstone,British Grand Prix,,,,,,21,65,,0.0,11,11,9,+3 Laps,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-silverstone,British Grand Prix,,,,,,12,65,,0.0,12,12,9,+3 Laps,,1979
+Ensign,ensign,British,,gaillard,Patrick Gaillard,French,22,1979-silverstone,British Grand Prix,,,,,,23,65,,0.0,13,13,9,+3 Laps,,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-silverstone,British Grand Prix,,,,,,13,63,,0.0,14,14,9,Fuel system,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-silverstone,British Grand Prix,,,,,,19,45,,0.0,15,R,9,Gearbox,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-silverstone,British Grand Prix,,,,,,10,44,,0.0,16,R,9,Engine,,1979
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,20,1979-silverstone,British Grand Prix,,,,,,14,44,,0.0,17,R,9,Fuel system,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-silverstone,British Grand Prix,,,,,,1,38,,0.0,18,R,9,Water pump,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-silverstone,British Grand Prix,,,,,,20,37,,0.0,19,R,9,Gearbox,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-silverstone,British Grand Prix,,,,,,22,25,,0.0,20,R,9,Engine,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-silverstone,British Grand Prix,,,,,,2,21,,0.0,21,R,9,Turbo,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-silverstone,British Grand Prix,,,,,,6,12,,0.0,22,R,9,Brakes,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-silverstone,British Grand Prix,,,,,,9,3,,0.0,23,R,9,Wheel,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-silverstone,British Grand Prix,,,,,,3,1,,0.0,24,R,9,Spun off,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-hockenheim,German Grand Prix,,,,,,2,45,5088830,9.0,1,1,10,Finished,1:24:48.830,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-hockenheim,German Grand Prix,,,,,,6,45,5091740,6.0,2,2,10,Finished,+2.910,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-hockenheim,German Grand Prix,,,,,,3,45,5107220,4.0,3,3,10,Finished,+18.390,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-hockenheim,German Grand Prix,,,,,,5,45,5120030,3.0,4,4,10,Finished,+31.200,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-hockenheim,German Grand Prix,,,,,,12,45,5186630,2.0,5,5,10,Finished,+1:37.800,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-hockenheim,German Grand Prix,,,,,,18,44,,1.0,6,6,10,+1 Lap,,1979
+Tyrrell,tyrrell,British,,lees,Geoff Lees,British,4,1979-hockenheim,German Grand Prix,,,,,,16,44,,0.0,7,7,10,+1 Lap,,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-hockenheim,German Grand Prix,,,,,,9,44,,0.0,8,8,10,+1 Lap,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-hockenheim,German Grand Prix,,,,,,8,44,,0.0,9,9,10,+1 Lap,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-hockenheim,German Grand Prix,,,,,,20,44,,0.0,10,10,10,+1 Lap,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-hockenheim,German Grand Prix,,,,,,21,43,,0.0,11,11,10,+2 Laps,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-hockenheim,German Grand Prix,,,,,,4,42,,0.0,12,12,10,Engine,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-hockenheim,German Grand Prix,,,,,,19,34,,0.0,13,R,10,Tyre,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-hockenheim,German Grand Prix,,,,,,15,30,,0.0,14,R,10,Suspension,,1979
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,20,1979-hockenheim,German Grand Prix,,,,,,17,29,,0.0,15,R,10,Engine,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-hockenheim,German Grand Prix,,,,,,7,27,,0.0,16,R,10,Engine,,1979
+Ligier,ligier,French,,ickx,Jacky Ickx,Belgian,25,1979-hockenheim,German Grand Prix,,,,,,14,24,,0.0,17,R,10,Tyre,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-hockenheim,German Grand Prix,,,,,,24,22,,0.0,18,R,10,Handling,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-hockenheim,German Grand Prix,,,,,,11,16,,0.0,19,R,10,Transmission,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-hockenheim,German Grand Prix,,,,,,10,9,,0.0,20,R,10,Tyre,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-hockenheim,German Grand Prix,,,,,,1,7,,0.0,21,R,10,Spun off,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-hockenheim,German Grand Prix,,,,,,22,4,,0.0,22,R,10,Electrical,,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-hockenheim,German Grand Prix,,,,,,13,1,,0.0,23,R,10,Accident,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-hockenheim,German Grand Prix,,,,,,23,0,,0.0,24,R,10,Suspension,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-spielberg,Austrian Grand Prix,,,,,,2,54,5258010,9.0,1,1,11,Finished,1:27:38.010,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-spielberg,Austrian Grand Prix,,,,,,5,54,5294060,6.0,2,2,11,Finished,+36.050,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-spielberg,Austrian Grand Prix,,,,,,8,54,5304780,4.0,3,3,11,Finished,+46.770,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-spielberg,Austrian Grand Prix,,,,,,9,54,5305220,3.0,4,4,11,Finished,+47.210,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-spielberg,Austrian Grand Prix,,,,,,6,54,5306930,2.0,5,5,11,Finished,+48.920,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-spielberg,Austrian Grand Prix,,,,,,1,53,,1.0,6,6,11,+1 Lap,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-spielberg,Austrian Grand Prix,,,,,,10,53,,0.0,7,7,11,+1 Lap,,1979
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,4,1979-spielberg,Austrian Grand Prix,,,,,,11,53,,0.0,8,8,11,+1 Lap,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-spielberg,Austrian Grand Prix,,,,,,16,53,,0.0,9,9,11,+1 Lap,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-spielberg,Austrian Grand Prix,,,,,,14,53,,0.0,10,10,11,+1 Lap,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-spielberg,Austrian Grand Prix,,,,,,4,45,,0.0,11,R,11,Engine,,1979
+Ensign,ensign,British,,gaillard,Patrick Gaillard,French,22,1979-spielberg,Austrian Grand Prix,,,,,,24,42,,0.0,12,R,11,Suspension,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-spielberg,Austrian Grand Prix,,,,,,13,34,,0.0,13,R,11,Suspension,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-spielberg,Austrian Grand Prix,,,,,,22,34,,0.0,14,R,11,Engine,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-spielberg,Austrian Grand Prix,,,,,,7,32,,0.0,15,R,11,Engine,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-spielberg,Austrian Grand Prix,,,,,,18,28,,0.0,16,R,11,Engine,,1979
+Ligier,ligier,French,,ickx,Jacky Ickx,Belgian,25,1979-spielberg,Austrian Grand Prix,,,,,,21,26,,0.0,17,R,11,Engine,,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-spielberg,Austrian Grand Prix,,,,,,17,22,,0.0,18,R,11,Handling,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-spielberg,Austrian Grand Prix,,,,,,3,16,,0.0,19,R,11,Gearbox,,1979
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,20,1979-spielberg,Austrian Grand Prix,,,,,,19,15,,0.0,20,R,11,Electrical,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-spielberg,Austrian Grand Prix,,,,,,12,15,,0.0,21,R,11,Brakes,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-spielberg,Austrian Grand Prix,,,,,,23,3,,0.0,22,R,11,Accident,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-spielberg,Austrian Grand Prix,,,,,,20,1,,0.0,23,R,11,Engine,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-spielberg,Austrian Grand Prix,,,,,,15,0,,0.0,24,R,11,Clutch,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-zandvoort,Dutch Grand Prix,,,,,,2,75,6079775,9.0,1,1,12,Finished,1:41:19.775,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-zandvoort,Dutch Grand Prix,,,,,,5,75,6101558,6.0,2,2,12,Finished,+21.783,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-zandvoort,Dutch Grand Prix,,,,,,7,75,6143028,4.0,3,3,12,Finished,+1:03.253,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-zandvoort,Dutch Grand Prix,,,,,,11,74,,3.0,4,4,12,+1 Lap,,1979
+Ligier,ligier,French,,ickx,Jacky Ickx,Belgian,25,1979-zandvoort,Dutch Grand Prix,,,,,,20,74,,2.0,5,5,12,+1 Lap,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-zandvoort,Dutch Grand Prix,,,,,,18,73,,1.0,6,6,12,+2 Laps,,1979
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,31,1979-zandvoort,Dutch Grand Prix,,,,,,24,73,,0.0,7,7,12,+2 Laps,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-zandvoort,Dutch Grand Prix,,,,,,10,51,,0.0,8,R,12,Suspension,,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-zandvoort,Dutch Grand Prix,,,,,,6,49,,0.0,9,R,12,Tyre,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-zandvoort,Dutch Grand Prix,,,,,,22,40,,0.0,10,R,12,Transmission,,1979
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,20,1979-zandvoort,Dutch Grand Prix,,,,,,8,33,,0.0,11,R,12,Engine,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-zandvoort,Dutch Grand Prix,,,,,,4,26,,0.0,12,R,12,Clutch,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-zandvoort,Dutch Grand Prix,,,,,,12,22,,0.0,13,R,12,Engine,,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-zandvoort,Dutch Grand Prix,,,,,,16,20,,0.0,14,R,12,Spun off,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-zandvoort,Dutch Grand Prix,,,,,,15,19,,0.0,15,R,12,Transmission,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-zandvoort,Dutch Grand Prix,,,,,,23,12,,0.0,16,R,12,Gearbox,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-zandvoort,Dutch Grand Prix,,,,,,17,9,,0.0,17,R,12,Suspension,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-zandvoort,Dutch Grand Prix,,,,,,19,7,,0.0,18,R,12,Brakes,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-zandvoort,Dutch Grand Prix,,,,,,14,6,,0.0,19,R,12,Engine,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-zandvoort,Dutch Grand Prix,,,,,,9,4,,0.0,20,W,12,Withdrew,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-zandvoort,Dutch Grand Prix,,,,,,21,2,,0.0,21,R,12,Electrical,,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-zandvoort,Dutch Grand Prix,,,,,,13,1,,0.0,22,R,12,Suspension,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-zandvoort,Dutch Grand Prix,,,,,,1,1,,0.0,23,R,12,Suspension,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-zandvoort,Dutch Grand Prix,,,,,,3,0,,0.0,24,R,12,Accident,,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-monza,Italian Grand Prix,,,,,,3,50,4920220,9.0,1,1,13,Finished,1:22:00.220,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-monza,Italian Grand Prix,,,,,,5,50,4920680,6.0,2,2,13,Finished,+0.460,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-monza,Italian Grand Prix,,,,,,6,50,4925000,4.0,3,3,13,Finished,+4.780,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,lauda,Niki Lauda,Austrian,5,1979-monza,Italian Grand Prix,,,,,,9,50,4974620,3.0,4,4,13,Finished,+54.400,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-monza,Italian Grand Prix,,,,,,10,50,4979920,2.0,5,5,13,Finished,+59.700,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-monza,Italian Grand Prix,,,,,,16,50,4981770,1.0,6,6,13,Finished,+1:01.550,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-monza,Italian Grand Prix,,,,,,13,50,5004360,0.0,7,7,13,Finished,+1:24.140,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-monza,Italian Grand Prix,,,,,,20,49,,0.0,8,8,13,+1 Lap,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-monza,Italian Grand Prix,,,,,,4,49,,0.0,9,9,13,+1 Lap,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-monza,Italian Grand Prix,,,,,,12,49,,0.0,10,10,13,+1 Lap,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-monza,Italian Grand Prix,,,,,,15,49,,0.0,11,11,13,+1 Lap,,1979
+Alfa Romeo,alfa,Swiss,,brambilla,Vittorio Brambilla,Italian,36,1979-monza,Italian Grand Prix,,,,,,22,49,,0.0,12,12,13,+1 Lap,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-monza,Italian Grand Prix,,,,,,17,47,,0.0,13,13,13,+3 Laps,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-monza,Italian Grand Prix,,,,,,1,45,,0.0,14,14,13,Engine,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-monza,Italian Grand Prix,,,,,,7,41,,0.0,15,R,13,Engine,,1979
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,20,1979-monza,Italian Grand Prix,,,,,,23,41,,0.0,16,R,13,Engine,,1979
+Ligier,ligier,French,,ickx,Jacky Ickx,Belgian,25,1979-monza,Italian Grand Prix,,,,,,11,40,,0.0,17,R,13,Engine,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-monza,Italian Grand Prix,,,,,,24,33,,0.0,18,R,13,Clutch,,1979
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,35,1979-monza,Italian Grand Prix,,,,,,18,28,,0.0,19,R,13,Spun off,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-monza,Italian Grand Prix,,,,,,2,13,,0.0,20,R,13,Engine,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-monza,Italian Grand Prix,,,,,,19,13,,0.0,21,R,13,Accident,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-monza,Italian Grand Prix,,,,,,14,3,,0.0,22,R,13,Engine,,1979
+Arrows,arrows,British,,mass,Jochen Mass,German,30,1979-monza,Italian Grand Prix,,,,,,21,3,,0.0,23,R,13,Suspension,,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,piquet,Nelson Piquet,Brazilian,6,1979-monza,Italian Grand Prix,,,,,,8,1,,0.0,24,R,13,Accident,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-montreal,Canadian Grand Prix,,,,,,1,72,6726892,9.0,1,1,14,Finished,1:52:06.892,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-montreal,Canadian Grand Prix,,,,,,2,72,6727972,6.0,2,2,14,Finished,+1.080,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-montreal,Canadian Grand Prix,,,,,,3,72,6800548,4.0,3,3,14,Finished,+1:13.656,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-montreal,Canadian Grand Prix,,,,,,9,71,,3.0,4,4,14,+1 Lap,,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-montreal,Canadian Grand Prix,,,,,,6,71,,2.0,5,5,14,+1 Lap,,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-montreal,Canadian Grand Prix,,,,,,17,70,,1.0,6,6,14,+2 Laps,,1979
+Brabham-Ford,brabham-ford,British,,zunino,Ricardo Zunino,Argentine,5,1979-montreal,Canadian Grand Prix,,,,,,17,68,,0.0,7,7,14,+4 Laps,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-montreal,Canadian Grand Prix,,,,,,15,67,,0.0,8,8,14,+5 Laps,,1979
+Shadow,shadow,British,,lammers,Jan Lammers,Dutch,17,1979-montreal,Canadian Grand Prix,,,,,,21,67,,0.0,9,9,14,+5 Laps,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-montreal,Canadian Grand Prix,,,,,,10,66,,0.0,10,10,14,Out of fuel,,1979
+Brabham-Ford,brabham-ford,British,,piquet,Nelson Piquet,Brazilian,6,1979-montreal,Canadian Grand Prix,,,,,,4,61,,0.0,11,R,14,Gearbox,,1979
+Alfa Romeo,alfa,Swiss,,brambilla,Vittorio Brambilla,Italian,36,1979-montreal,Canadian Grand Prix,,,,,,18,52,,0.0,12,R,14,Fuel system,,1979
+Ligier,ligier,French,,ickx,Jacky Ickx,Belgian,25,1979-montreal,Canadian Grand Prix,,,,,,16,47,,0.0,13,R,14,Gearbox,,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-montreal,Canadian Grand Prix,,,,,,13,33,,0.0,14,R,14,Engine,,1979
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,33,1979-montreal,Canadian Grand Prix,,,,,,24,28,,0.0,15,R,14,Engine,,1979
+Rebaque,rebaque,Mexican,,rebaque,Hector Rebaque,Mexican,31,1979-montreal,Canadian Grand Prix,,,,,,22,26,,0.0,16,R,14,Chassis,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-montreal,Canadian Grand Prix,,,,,,7,24,,0.0,17,R,14,Brakes,,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-montreal,Canadian Grand Prix,,,,,,23,24,,0.0,18,R,14,Ignition,,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-montreal,Canadian Grand Prix,,,,,,11,23,,0.0,19,R,14,Suspension,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-montreal,Canadian Grand Prix,,,,,,14,20,,0.0,20,R,14,Spun off,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-montreal,Canadian Grand Prix,,,,,,20,19,,0.0,21,R,14,Engine,,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-montreal,Canadian Grand Prix,,,,,,8,14,,0.0,22,R,14,Accident,,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-montreal,Canadian Grand Prix,,,,,,12,14,,0.0,23,R,14,Accident,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-montreal,Canadian Grand Prix,,,,,,5,10,,0.0,24,R,14,Engine,,1979
+Brabham-Ford,brabham-ford,British,,lauda,Niki Lauda,Austrian,5,1979-montreal,Canadian Grand Prix,,,,,,0,0,,0.0,30,W,14,Withdrew,,1979
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1979-new-york-state,United States Grand Prix,,,,,,3,59,6737734,9.0,1,1,15,Finished,1:52:17.734,1979
+Renault,renault,French,,arnoux,René Arnoux,French,16,1979-new-york-state,United States Grand Prix,,,,,,7,59,6786521,6.0,2,2,15,Finished,+48.787,1979
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1979-new-york-state,United States Grand Prix,,,,,,10,59,6790933,4.0,3,3,15,Finished,+53.199,1979
+Shadow,shadow,British,,angelis,Elio de Angelis,Italian,18,1979-new-york-state,United States Grand Prix,,,,,,20,59,6828246,3.0,4,4,15,Finished,+1:30.512,1979
+ATS,ats,Italian,,stuck,Hans-Joachim Stuck,German,9,1979-new-york-state,United States Grand Prix,,,,,,14,59,6838993,2.0,5,5,15,Finished,+1:41.259,1979
+McLaren,mclaren,British,,watson,John Watson,British,7,1979-new-york-state,United States Grand Prix,,,,,,13,58,,1.0,6,6,15,+1 Lap,,1979
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1979-new-york-state,United States Grand Prix,,,,,,23,54,,0.0,7,7,15,+5 Laps,,1979
+Brabham-Ford,brabham-ford,British,,piquet,Nelson Piquet,Brazilian,6,1979-new-york-state,United States Grand Prix,,,,,,2,53,,0.0,8,R,15,Transmission,,1979
+Tyrrell,tyrrell,British,,daly,Derek Daly,Irish,33,1979-new-york-state,United States Grand Prix,,,,,,15,52,,0.0,9,R,15,Spun off,,1979
+Ferrari,ferrari,Italian,,scheckter,Jody Scheckter,South African,11,1979-new-york-state,United States Grand Prix,,,,,,16,48,,0.0,10,R,15,Tyre,,1979
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1979-new-york-state,United States Grand Prix,,,,,,19,44,,0.0,11,R,15,Suspension,,1979
+Williams,williams,British,,jones,Alan Jones,Australian,27,1979-new-york-state,United States Grand Prix,,,,,,1,36,,0.0,12,R,15,Wheel,,1979
+Ensign,ensign,British,,surer,Marc Surer,Swiss,22,1979-new-york-state,United States Grand Prix,,,,,,21,32,,0.0,13,R,15,Engine,,1979
+Williams,williams,British,,regazzoni,Clay Regazzoni,Swiss,28,1979-new-york-state,United States Grand Prix,,,,,,5,29,,0.0,14,R,15,Accident,,1979
+Brabham-Ford,brabham-ford,British,,zunino,Ricardo Zunino,Argentine,5,1979-new-york-state,United States Grand Prix,,,,,,9,25,,0.0,15,R,15,Spun off,,1979
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1979-new-york-state,United States Grand Prix,,,,,,8,24,,0.0,16,R,15,Engine,,1979
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,20,1979-new-york-state,United States Grand Prix,,,,,,12,20,,0.0,17,R,15,Accident,,1979
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1979-new-york-state,United States Grand Prix,,,,,,22,20,,0.0,18,R,15,Engine,,1979
+Tyrrell,tyrrell,British,,jarier,Jean-Pierre Jarier,French,4,1979-new-york-state,United States Grand Prix,,,,,,11,18,,0.0,19,R,15,Accident,,1979
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,1,1979-new-york-state,United States Grand Prix,,,,,,17,16,,0.0,20,R,15,Gearbox,,1979
+Team Lotus,team_lotus,British,,reutemann,Carlos Reutemann,Argentine,2,1979-new-york-state,United States Grand Prix,,,,,,6,6,,0.0,21,R,15,Spun off,,1979
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1979-new-york-state,United States Grand Prix,,,,,,4,3,,0.0,22,R,15,Spun off,,1979
+Ligier,ligier,French,,ickx,Jacky Ickx,Belgian,25,1979-new-york-state,United States Grand Prix,,,,,,24,2,,0.0,23,R,15,Spun off,,1979
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,35,1979-new-york-state,United States Grand Prix,,,,,,18,0,,0.0,24,R,15,Spun off,,1979

@@ -1,0 +1,82 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""alfa""]","[""Alfa Romeo""]",,farina,Nino Farina,Italian,,30.0,1,1,3,1950
+"[""alfa""]","[""Alfa Romeo""]",,fangio,Juan Fangio,Argentine,,27.0,2,2,3,1950
+"[""alfa""]","[""Alfa Romeo""]",,fagioli,Luigi Fagioli,Italian,,24.0,3,3,0,1950
+"[""lago""]","[""Talbot-Lago""]",,rosier,Louis Rosier,French,,13.0,4,4,0,1950
+"[""ferrari""]","[""Ferrari""]",,ascari,Alberto Ascari,Italian,,11.0,5,5,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,parsons,Johnnie Parsons,American,,9.0,6,6,1,1950
+"[""deidt""]","[""Deidt""]",,holland,Bill Holland,American,,6.0,7,7,0,1950
+"[""maserati""]","[""Maserati""]",,bira,Prince Bira,Thai,,5.0,8,8,0,1950
+"[""ferrari""]","[""Ferrari""]",,whitehead,Peter Whitehead,British,,4.0,9,9,0,1950
+"[""maserati""]","[""Maserati""]",,chiron,Louis Chiron,Monegasque,,4.0,10,10,0,1950
+"[""alfa"", ""maserati""]","[""Alfa Romeo"", ""Maserati""]",,reg_parnell,Reg Parnell,British,,4.0,11,11,0,1950
+"[""deidt""]","[""Deidt""]",,rose,Mauri Rose,American,,4.0,12,12,0,1950
+"[""ferrari""]","[""Ferrari""]",,serafini,Dorino Serafini,Italian,,3.0,13,13,0,1950
+"[""lago""]","[""Talbot-Lago""]",,cabantous,Yves Cabantous,French,,3.0,14,14,0,1950
+"[""ferrari"", ""lago""]","[""Ferrari"", ""Talbot-Lago""]",,sommer,Raymond Sommer,French,,3.0,15,15,0,1950
+"[""simca""]","[""Simca""]",,manzon,Robert Manzon,French,,3.0,16,16,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,green,Cecil Green,American,,3.0,17,17,0,1950
+"[""lago""]","[""Talbot-Lago""]",,etancelin,Philippe Étancelin,French,,3.0,18,18,0,1950
+"[""maserati"", ""milano""]","[""Maserati"", ""Milano""]",,bonetto,Felice Bonetto,Italian,,2.0,19,19,0,1950
+"[""lago""]","[""Talbot-Lago""]",,chaboud,Eugène Chaboud,French,,1.0,20,20,0,1950
+"[""kurtis_kraft"", ""deidt""]","[""Kurtis Kraft"", ""Deidt""]",,bettenhausen,Tony Bettenhausen,American,,1.0,21,21,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,chitwood,Joie Chitwood,American,,1.0,22,22,0,1950
+"[""maserati""]","[""Maserati""]",,graffenried,Toulo de Graffenried,Swiss,,0.0,,-,0,1950
+"[""era""]","[""ERA""]",,gerard,Bob Gerard,British,,0.0,,-,0,1950
+"[""ferrari""]","[""Ferrari""]",,villoresi,Luigi Villoresi,Italian,,0.0,,-,0,1950
+"[""moore""]","[""Moore""]",,wallard,Lee Wallard,American,,0.0,,-,0,1950
+"[""lago""]","[""Talbot-Lago""]",,pozzi,Charles Pozzi,French,,0.0,,-,0,1950
+"[""lago""]","[""Talbot-Lago""]",,claes,Johnny Claes,Belgian,,0.0,,-,0,1950
+"[""lago""]","[""Talbot-Lago""]",,levegh,Pierre Levegh,French,,0.0,,-,0,1950
+"[""era""]","[""ERA""]",,harrison,Cuth Harrison,British,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,faulkner,Walt Faulkner,American,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,pagani,Nello Pagani,Italian,,0.0,,-,0,1950
+"[""cooper"", ""lago""]","[""Cooper"", ""Talbot-Lago""]",,schell,Harry Schell,American,,0.0,,-,0,1950
+"[""lesovsky""]","[""Lesovsky""]",,george_connor,George Connor,American,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,hampshire,David Hampshire,British,,0.0,,-,0,1950
+"[""alta""]","[""Alta""]",,crossley,Geoff Crossley,British,,0.0,,-,0,1950
+"[""nichels""]","[""Nichels""]",,paul_russo,Paul Russo,American,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,branca,Toni Branca,Swiss,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,shawe_taylor,Brian Shawe Taylor,British,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,fry,Joe Fry,British,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,flaherty,Pat Flaherty,American,,0.0,,-,0,1950
+"[""marchese""]","[""Marchese""]",,fohr,Myron Fohr,American,,0.0,,-,0,1950
+"[""stevens""]","[""Stevens""]",,darter,Duane Carter,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hellings,Mack Hellings,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,mcgrath,Jack McGrath,American,,0.0,,-,0,1950
+"[""lesovsky""]","[""Lesovsky""]",,ruttman,Troy Ruttman,American,,0.0,,-,0,1950
+"[""langley""]","[""Langley""]",,hartley,Gene Hartley,American,,0.0,,-,0,1950
+"[""ewing""]","[""Ewing""]",,davies,Jimmy Davies,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,mcdowell,Johnny McDowell,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,walt_brown,Walt Brown,American,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,webb,Travis Webb,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hoyt,Jerry Hoyt,American,,0.0,,-,0,1950
+"[""rae""]","[""Rae""]",,ader,Walt Ader,American,,0.0,,-,0,1950
+"[""olson""]","[""Olson""]",,holmes,Jackie Holmes,American,,0.0,,-,0,1950
+"[""wetteroth""]","[""Wetteroth""]",,rathmann,Jim Rathmann,American,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,murray,David Murray,British,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,gonzalez,José Froilán González,Argentine,,0.0,,-,0,1950
+"[""lago""]","[""Talbot-Lago""]",,guy_mairesse,Guy Mairesse,French,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,rol,Franco Rol,Italian,,0.0,,-,0,1950
+"[""alta""]","[""Alta""]",,kelly,Joe Kelly,Irish,,0.0,,-,0,1950
+"[""alfa""]","[""Alfa Romeo""]",,taruffi,Piero Taruffi,Italian,,0.0,,-,0,1950
+"[""lago""]","[""Talbot-Lago""]",,martin,Eugène Martin,French,,0.0,,-,0,1950
+"[""simca""]","[""Simca""]",,trintignant,Maurice Trintignant,French,,0.0,,-,0,1950
+"[""ferrari""]","[""Ferrari""]",,biondetti,Clemente Biondetti,Italian,,0.0,,-,0,1950
+"[""lago""]","[""Talbot-Lago""]",,louveau,Henri Louveau,French,,0.0,,-,0,1950
+"[""era""]","[""ERA""]",,peter_walker,Peter Walker,British,,0.0,,-,0,1950
+"[""era""]","[""ERA""]",,rolt,Tony Rolt,British,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,comotti,Franco Comotti,Italian,,0.0,,-,0,1950
+"[""era""]","[""ERA""]",,leslie_johnson,Leslie Johnson,British,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,pian,Alfredo Pián,Argentine,,0.0,,-,0,1950
+"[""alfa""]","[""Alfa Romeo""]",,sanesi,Consalvo Sanesi,Italian,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,banks,Henry Banks,American,,0.0,,-,0,1950
+"[""snowberger""]","[""Snowberger""]",,schindler,Bill Schindler,American,,0.0,,-,0,1950
+"[""maserati""]","[""Maserati""]",,pietsch,Paul Pietsch,German,,0.0,,-,0,1950
+"[""adams""]","[""Adams""]",,levrett,Bayliss Levrett,American,,0.0,,-,0,1950
+"[""adams""]","[""Adams""]",,cantrell,Bill Cantrell,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,agabashian,Fred Agabashian,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,jackson,Jimmy Jackson,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hanks,Sam Hanks,American,,0.0,,-,0,1950
+"[""watson""]","[""Watson""]",,dick_rathmann,Dick Rathmann,American,,0.0,,-,0,1950
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,dinsmore,Duke Dinsmore,American,,0.0,,-,0,1950

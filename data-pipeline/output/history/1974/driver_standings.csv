@@ -1,0 +1,57 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,55.0,1,1,3,1974
+"[""ferrari""]","[""Ferrari""]",,regazzoni,Clay Regazzoni,Swiss,,52.0,2,2,1,1974
+"[""tyrrell""]","[""Tyrrell""]",,scheckter,Jody Scheckter,South African,,45.0,3,3,2,1974
+"[""ferrari""]","[""Ferrari""]",,lauda,Niki Lauda,Austrian,,38.0,4,4,2,1974
+"[""team_lotus""]","[""Team Lotus""]",,peterson,Ronnie Peterson,Swedish,,35.0,5,5,3,1974
+"[""brabham""]","[""Brabham""]",,reutemann,Carlos Reutemann,Argentine,,32.0,6,6,3,1974
+"[""mclaren""]","[""McLaren""]",,hulme,Denny Hulme,New Zealander,,20.0,7,7,1,1974
+"[""march"", ""hesketh""]","[""March"", ""Hesketh""]",,hunt,James Hunt,British,,15.0,8,8,0,1974
+"[""tyrrell""]","[""Tyrrell""]",,depailler,Patrick Depailler,French,,14.0,9,9,0,1974
+"[""team_lotus""]","[""Team Lotus""]",,ickx,Jacky Ickx,Belgian,,12.0,10,10,0,1974
+"[""mclaren""]","[""McLaren""]",,hailwood,Mike Hailwood,British,,12.0,11,11,0,1974
+"[""surtees"", ""brabham""]","[""Surtees"", ""Brabham""]",,pace,Carlos Pace,Brazilian,,11.0,12,12,0,1974
+"[""brm""]","[""BRM""]",,beltoise,Jean-Pierre Beltoise,French,,10.0,13,13,0,1974
+"[""shadow""]","[""Shadow""]",,jarier,Jean-Pierre Jarier,French,,6.0,14,14,0,1974
+"[""brabham""]","[""Brabham""]",,watson,John Watson,British,,6.0,15,15,0,1974
+"[""march""]","[""March""]",,stuck,Hans-Joachim Stuck,German,,5.0,16,16,0,1974
+"[""iso_marlboro""]","[""Iso Marlboro""]",,merzario,Arturo Merzario,Italian,,4.0,17,17,0,1974
+"[""lola""]","[""Lola""]",,hill,Graham Hill,British,,1.0,18,18,0,1974
+"[""token"", ""shadow""]","[""Token"", ""Shadow""]",,pryce,Tom Pryce,British,,1.0,19,19,0,1974
+"[""march""]","[""March""]",,brambilla,Vittorio Brambilla,Italian,,1.0,20,20,0,1974
+"[""lola""]","[""Lola""]",,edwards,Guy Edwards,British,,0.0,,-,0,1974
+"[""mclaren""]","[""McLaren""]",,hobbs,David Hobbs,British,,0.0,,-,0,1974
+"[""surtees"", ""mclaren""]","[""Surtees"", ""McLaren""]",,mass,Jochen Mass,German,,0.0,,-,0,1974
+"[""shadow""]","[""Shadow""]",,redman,Brian Redman,British,,0.0,,-,0,1974
+"[""parnelli""]","[""Parnelli""]",,mario_andretti,Mario Andretti,American,,0.0,,-,0,1974
+"[""march"", ""maki""]","[""March"", ""Maki""]",,ganley,Howden Ganley,New Zealander,,0.0,,-,0,1974
+"[""iso_marlboro""]","[""Iso Marlboro""]",,belso,Tom Belsø,Danish,,0.0,,-,0,1974
+"[""brabham""]","[""Brabham""]",,opel,Rikky von Opel,Liechtensteiner,,0.0,,-,0,1974
+"[""brm""]","[""BRM""]",,pescarolo,Henri Pescarolo,French,,0.0,,-,0,1974
+"[""amon"", ""brm""]","[""Amon"", ""BRM""]",,amon,Chris Amon,New Zealander,,0.0,,-,0,1974
+"[""surtees""]","[""Surtees""]",,quester,Dieter Quester,Austrian,,0.0,,-,0,1974
+"[""trojan"", ""team_lotus""]","[""Trojan"", ""Team Lotus""]",,schenken,Tim Schenken,Australian,,0.0,,-,0,1974
+"[""brabham"", ""surtees""]","[""Brabham"", ""Surtees""]",,koinigg,Helmuth Koinigg,Austrian,,0.0,,-,0,1974
+"[""lola""]","[""Lola""]",,stommelen,Rolf Stommelen,German,,0.0,,-,0,1974
+"[""surtees""]","[""Surtees""]",,bell,Derek Bell,British,,0.0,,-,0,1974
+"[""penske""]","[""Penske""]",,donohue,Mark Donohue,American,,0.0,,-,0,1974
+"[""team_lotus"", ""hesketh""]","[""Team Lotus"", ""Hesketh""]",,ian_scheckter,Ian Scheckter,South African,,0.0,,-,0,1974
+"[""brm""]","[""BRM""]",,migault,François Migault,French,,0.0,,-,0,1974
+"[""token"", ""brabham""]","[""Token"", ""Brabham""]",,ashley,Ian Ashley,British,,0.0,,-,0,1974
+"[""tyrrell""]","[""Tyrrell""]",,keizan,Eddie Keizan,South African,,0.0,,-,0,1974
+"[""iso_marlboro""]","[""Iso Marlboro""]",,lennep,Gijs van Lennep,Dutch,,0.0,,-,0,1974
+"[""brabham"", ""iso_marlboro""]","[""Brabham"", ""Iso Marlboro""]",,robarts,Richard Robarts,British,,0.0,,-,0,1974
+"[""ensign""]","[""Ensign""]",,schuppan,Vern Schuppan,Australian,,0.0,,-,0,1974
+"[""iso_marlboro""]","[""Iso Marlboro""]",,laffite,Jacques Laffite,French,,0.0,,-,0,1974
+"[""brabham""]","[""Brabham""]",,pilette,Teddy Pilette,Belgian,,0.0,,-,0,1974
+"[""mclaren""]","[""McLaren""]",,charlton,Dave Charlton,South African,,0.0,,-,0,1974
+"[""march""]","[""March""]",,wisell,Reine Wisell,Swedish,,0.0,,-,0,1974
+"[""march"", ""ensign""]","[""March"", ""Ensign""]",,wilds,Mike Wilds,British,,0.0,,-,0,1974
+"[""surtees""]","[""Surtees""]",,dolhem,José Dolhem,French,,0.0,,-,0,1974
+"[""shadow""]","[""Shadow""]",,revson,Peter Revson,American,,0.0,,-,0,1974
+"[""surtees""]","[""Surtees""]",,kinnunen,Leo Kinnunen,Finnish,,0.0,,-,0,1974
+"[""team_lotus""]","[""Team Lotus""]",,driver,Paddy Driver,South African,,0.0,,-,0,1974
+"[""brabham""]","[""Brabham""]",,larrousse,Gérard Larrousse,French,,0.0,,-,0,1974
+"[""shadow""]","[""Shadow""]",,roos,Bertil Roos,Swedish,,0.0,,-,0,1974
+"[""lola""]","[""Lola""]",,gethin,Peter Gethin,British,,0.0,,-,0,1974
+"[""brabham""]","[""Brabham""]",,wietzes,Eppie Wietzes,Canadian,,0.0,,-,0,1974

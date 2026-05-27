@@ -1,11 +1,11 @@
-constructor,points,wins,podiums,starts,position
-Mercedes,604.5,9,28,44,1
-Red Bull Racing,578.5,11,23,44,2
-Ferrari,322.5,0,5,44,3
-McLaren,274.0,1,5,44,4
-Alpine,155.0,1,2,44,5
-AlphaTauri,142.0,0,1,44,6
-Aston Martin,77.0,0,1,44,7
-Williams,23.0,0,1,44,8
-Alfa Romeo Racing,13.0,0,0,44,9
-Haas F1 Team,0.0,0,0,44,10
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Mercedes,mercedes,German,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,613.5,1,1,9,2021
+Red Bull,red_bull,Austrian,https://en.wikipedia.org/wiki/Red_Bull_Racing,585.5,2,2,11,2021
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,323.5,3,3,0,2021
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,275.0,4,4,1,2021
+Alpine F1 Team,alpine,French,https://en.wikipedia.org/wiki/Alpine_F1_Team,155.0,5,5,1,2021
+AlphaTauri,alphatauri,Italian,https://en.wikipedia.org/wiki/Scuderia_AlphaTauri,142.0,6,6,0,2021
+Aston Martin,aston_martin,British,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,77.0,7,7,0,2021
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,23.0,8,8,0,2021
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,13.0,9,9,0,2021
+Haas F1 Team,haas,American,https://en.wikipedia.org/wiki/Haas_F1_Team,0.0,10,10,0,2021

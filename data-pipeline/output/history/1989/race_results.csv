@@ -1,0 +1,419 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,6,61,5938744,9.0,1,1,1,Finished,1:38:58.744,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,5,61,5946553,6.0,2,2,1,Finished,+7.809,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,12,61,5948114,4.0,3,3,1,Finished,+9.370,1989
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,20,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,10,61,5949237,3.0,4,4,1,Finished,+10.493,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,8,61,5956610,2.0,5,5,1,Finished,+17.866,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,11,61,5956985,1.0,6,6,1,Finished,+18.241,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,18,60,,0.0,7,7,1,+1 Lap,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,21,60,,0.0,8,8,1,+1 Lap,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,22,60,,0.0,9,9,1,+1 Lap,,1989
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,20,59,,0.0,10,10,1,+2 Laps,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,1,59,,0.0,11,11,1,+2 Laps,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,26,58,,0.0,12,12,1,+3 Laps,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,15,57,,0.0,13,13,1,+4 Laps,,1989
+Rial,rial,German,,danner,Christian Danner,German,38,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,17,56,,0.0,14,14,1,+5 Laps,,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,2,51,,0.0,15,15,1,Alternator,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,24,37,,0.0,16,R,1,Collision,,1989
+Zakspeed,zakspeed,German,,schneider,Bernd Schneider,German,34,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,25,36,,0.0,17,R,1,Collision,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,13,27,,0.0,18,R,1,Halfshaft,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,7,22,,0.0,19,R,1,Suspension,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,9,10,,0.0,20,R,1,Fuel system,,1989
+Osella,osella,Italian,,larini,Nicola Larini,Italian,17,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,19,10,,0.0,21,D,1,Disqualified,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,14,9,,0.0,22,R,1,Halfshaft,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,4,3,,0.0,23,R,1,Engine,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,16,2,,0.0,24,R,1,Chassis,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,3,0,,0.0,25,R,1,Collision,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-rio-de-janeiro,Brazilian Grand Prix,,,,,,23,0,,0.0,26,R,1,Collision,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-imola,San Marino Grand Prix,,,,,,1,58,5211245,9.0,1,1,2,Finished,1:26:51.245,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-imola,San Marino Grand Prix,,,,,,2,58,5251470,6.0,2,2,2,Finished,+40.225,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-imola,San Marino Grand Prix,,,,,,7,57,,4.0,3,3,2,+1 Lap,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-imola,San Marino Grand Prix,,,,,,6,57,,3.0,4,4,2,+1 Lap,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-imola,San Marino Grand Prix,,,,,,12,57,,2.0,5,5,2,+1 Lap,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-imola,San Marino Grand Prix,,,,,,25,57,,1.0,6,6,2,+1 Lap,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-imola,San Marino Grand Prix,,,,,,9,57,,0.0,7,7,2,+1 Lap,,1989
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,40,1989-imola,San Marino Grand Prix,,,,,,18,57,,0.0,8,8,2,+1 Lap,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-imola,San Marino Grand Prix,,,,,,21,56,,0.0,9,9,2,+2 Laps,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-imola,San Marino Grand Prix,,,,,,16,56,,0.0,10,10,2,+2 Laps,,1989
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,20,1989-imola,San Marino Grand Prix,,,,,,23,56,,0.0,11,11,2,+2 Laps,,1989
+Osella,osella,Italian,,larini,Nicola Larini,Italian,17,1989-imola,San Marino Grand Prix,,,,,,14,52,,0.0,12,12,2,Spun off,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-imola,San Marino Grand Prix,,,,,,22,51,,0.0,13,R,2,Fuel system,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-imola,San Marino Grand Prix,,,,,,24,46,,0.0,14,R,2,Not classified,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-imola,San Marino Grand Prix,,,,,,15,43,,0.0,15,R,2,Spun off,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-imola,San Marino Grand Prix,,,,,,19,39,,0.0,16,R,2,Transmission,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-imola,San Marino Grand Prix,,,,,,8,29,,0.0,17,R,2,Engine,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-imola,San Marino Grand Prix,,,,,,3,23,,0.0,18,R,2,Gearbox,,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-imola,San Marino Grand Prix,,,,,,4,21,,0.0,19,R,2,Engine,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-imola,San Marino Grand Prix,,,,,,17,19,,0.0,20,R,2,Spun off,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-imola,San Marino Grand Prix,,,,,,11,6,,0.0,21,R,2,Gearbox,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-imola,San Marino Grand Prix,,,,,,10,4,,0.0,22,D,2,Disqualified,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-imola,San Marino Grand Prix,,,,,,5,3,,0.0,23,R,2,Accident,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-imola,San Marino Grand Prix,,,,,,13,1,,0.0,24,R,2,Spun off,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-imola,San Marino Grand Prix,,,,,,20,0,,0.0,25,R,2,Electrical,,1989
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1989-imola,San Marino Grand Prix,,,,,,26,0,,0.0,26,R,2,Electrical,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-monte-carlo,Monaco Grand Prix,,,,,,1,77,6813251,9.0,1,1,3,Finished,1:53:33.251,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-monte-carlo,Monaco Grand Prix,,,,,,2,77,6865780,6.0,2,2,3,Finished,+52.529,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-monte-carlo,Monaco Grand Prix,,,,,,8,76,,4.0,3,3,3,+1 Lap,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-monte-carlo,Monaco Grand Prix,,,,,,9,75,,3.0,4,4,3,+2 Laps,,1989
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1989-monte-carlo,Monaco Grand Prix,,,,,,12,75,,2.0,5,5,3,+2 Laps,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-monte-carlo,Monaco Grand Prix,,,,,,4,75,,1.0,6,6,3,+2 Laps,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-monte-carlo,Monaco Grand Prix,,,,,,20,75,,0.0,7,7,3,+2 Laps,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-monte-carlo,Monaco Grand Prix,,,,,,15,74,,0.0,8,8,3,+3 Laps,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-monte-carlo,Monaco Grand Prix,,,,,,23,74,,0.0,9,9,3,+3 Laps,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-monte-carlo,Monaco Grand Prix,,,,,,3,74,,0.0,10,10,3,+3 Laps,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-monte-carlo,Monaco Grand Prix,,,,,,22,73,,0.0,11,11,3,+4 Laps,,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-monte-carlo,Monaco Grand Prix,,,,,,21,73,,0.0,12,12,3,+4 Laps,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-monte-carlo,Monaco Grand Prix,,,,,,10,73,,0.0,13,13,3,+4 Laps,,1989
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,20,1989-monte-carlo,Monaco Grand Prix,,,,,,24,73,,0.0,14,14,3,+4 Laps,,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-monte-carlo,Monaco Grand Prix,,,,,,7,73,,0.0,15,15,3,+4 Laps,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-monte-carlo,Monaco Grand Prix,,,,,,26,48,,0.0,16,R,3,Overheating,,1989
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,40,1989-monte-carlo,Monaco Grand Prix,,,,,,13,46,,0.0,17,R,3,Electrical,,1989
+Coloni,coloni,Italian,,moreno,Roberto Moreno,Brazilian,31,1989-monte-carlo,Monaco Grand Prix,,,,,,25,44,,0.0,18,R,3,Gearbox,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-monte-carlo,Monaco Grand Prix,,,,,,17,38,,0.0,19,R,3,Engine,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-monte-carlo,Monaco Grand Prix,,,,,,14,36,,0.0,20,R,3,Engine,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-monte-carlo,Monaco Grand Prix,,,,,,19,32,,0.0,21,R,3,Collision,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-monte-carlo,Monaco Grand Prix,,,,,,5,30,,0.0,22,R,3,Gearbox,,1989
+Coloni,coloni,Italian,,raphanel,Pierre-Henri Raphanel,French,32,1989-monte-carlo,Monaco Grand Prix,,,,,,18,19,,0.0,23,R,3,Gearbox,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-monte-carlo,Monaco Grand Prix,,,,,,16,4,,0.0,24,R,3,Gearbox,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-monte-carlo,Monaco Grand Prix,,,,,,11,3,,0.0,25,R,3,Clutch,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-monte-carlo,Monaco Grand Prix,,,,,,6,2,,0.0,26,R,3,Electrical,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-mexico-city,Mexican Grand Prix,,,,,,1,69,5721431,9.0,1,1,4,Finished,1:35:21.431,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-mexico-city,Mexican Grand Prix,,,,,,5,69,5736991,6.0,2,2,4,Finished,+15.560,1989
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1989-mexico-city,Mexican Grand Prix,,,,,,7,69,5752685,4.0,3,3,4,Finished,+31.254,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-mexico-city,Mexican Grand Prix,,,,,,13,69,5766926,3.0,4,4,4,Finished,+45.495,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-mexico-city,Mexican Grand Prix,,,,,,2,69,5777544,2.0,5,5,4,Finished,+56.113,1989
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,40,1989-mexico-city,Mexican Grand Prix,,,,,,17,68,,1.0,6,6,4,+1 Lap,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-mexico-city,Mexican Grand Prix,,,,,,24,68,,0.0,7,7,4,+1 Lap,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-mexico-city,Mexican Grand Prix,,,,,,11,68,,0.0,8,8,4,+1 Lap,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-mexico-city,Mexican Grand Prix,,,,,,20,68,,0.0,9,9,4,+1 Lap,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-mexico-city,Mexican Grand Prix,,,,,,9,68,,0.0,10,10,4,+1 Lap,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-mexico-city,Mexican Grand Prix,,,,,,26,68,,0.0,11,11,4,+1 Lap,,1989
+Rial,rial,German,,danner,Christian Danner,German,38,1989-mexico-city,Mexican Grand Prix,,,,,,23,67,,0.0,12,12,4,+2 Laps,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-mexico-city,Mexican Grand Prix,,,,,,19,67,,0.0,13,13,4,+2 Laps,,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-mexico-city,Mexican Grand Prix,,,,,,25,66,,0.0,14,14,4,+3 Laps,,1989
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,20,1989-mexico-city,Mexican Grand Prix,,,,,,18,66,,0.0,15,15,4,+3 Laps,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-mexico-city,Mexican Grand Prix,,,,,,22,53,,0.0,16,R,4,Engine,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-mexico-city,Mexican Grand Prix,,,,,,3,43,,0.0,17,R,4,Gearbox,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-mexico-city,Mexican Grand Prix,,,,,,10,35,,0.0,18,R,4,Electrical,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-mexico-city,Mexican Grand Prix,,,,,,15,35,,0.0,19,R,4,Spun off,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-mexico-city,Mexican Grand Prix,,,,,,16,28,,0.0,20,R,4,Not classified,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-mexico-city,Mexican Grand Prix,,,,,,12,20,,0.0,21,R,4,Suspension,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-mexico-city,Mexican Grand Prix,,,,,,6,16,,0.0,22,R,4,Gearbox,,1989
+Onyx,onyx,British,,johansson,Stefan Johansson,Swedish,36,1989-mexico-city,Mexican Grand Prix,,,,,,21,16,,0.0,23,R,4,Transmission,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-mexico-city,Mexican Grand Prix,,,,,,8,15,,0.0,24,R,4,Electrical,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-mexico-city,Mexican Grand Prix,,,,,,14,9,,0.0,25,R,4,Throttle,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-mexico-city,Mexican Grand Prix,,,,,,4,1,,0.0,26,R,4,Transmission,,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-phoenix,United States Grand Prix,,,,,,2,75,7293133,9.0,1,1,5,Finished,2:01:33.133,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-phoenix,United States Grand Prix,,,,,,14,75,7332829,6.0,2,2,5,Finished,+39.696,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-phoenix,United States Grand Prix,,,,,,17,75,7336343,4.0,3,3,5,Finished,+43.210,1989
+Rial,rial,German,,danner,Christian Danner,German,38,1989-phoenix,United States Grand Prix,,,,,,26,74,,3.0,4,4,5,+1 Lap,,1989
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,20,1989-phoenix,United States Grand Prix,,,,,,25,74,,2.0,5,5,5,+1 Lap,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-phoenix,United States Grand Prix,,,,,,16,74,,1.0,6,6,5,+1 Lap,,1989
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,40,1989-phoenix,United States Grand Prix,,,,,,24,73,,0.0,7,7,5,Engine,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-phoenix,United States Grand Prix,,,,,,13,70,,0.0,8,8,5,+5 Laps,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-phoenix,United States Grand Prix,,,,,,21,69,,0.0,9,9,5,Fuel system,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-phoenix,United States Grand Prix,,,,,,8,61,,0.0,10,R,5,Alternator,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-phoenix,United States Grand Prix,,,,,,6,52,,0.0,11,R,5,Collision,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-phoenix,United States Grand Prix,,,,,,22,52,,0.0,12,R,5,Spun off,,1989
+Onyx,onyx,British,,johansson,Stefan Johansson,Swedish,36,1989-phoenix,United States Grand Prix,,,,,,19,50,,0.0,13,R,5,Suspension,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-phoenix,United States Grand Prix,,,,,,20,46,,0.0,14,R,5,Engine,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-phoenix,United States Grand Prix,,,,,,1,44,,0.0,15,R,5,Electrical,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-phoenix,United States Grand Prix,,,,,,5,43,,0.0,16,R,5,Brakes,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-phoenix,United States Grand Prix,,,,,,7,37,,0.0,17,R,5,Brakes,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-phoenix,United States Grand Prix,,,,,,4,31,,0.0,18,R,5,Alternator,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-phoenix,United States Grand Prix,,,,,,15,26,,0.0,19,R,5,Engine,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-phoenix,United States Grand Prix,,,,,,23,24,,0.0,20,R,5,Throttle,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-phoenix,United States Grand Prix,,,,,,11,22,,0.0,21,R,5,Transmission,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-phoenix,United States Grand Prix,,,,,,18,20,,0.0,22,R,5,Brakes,,1989
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1989-phoenix,United States Grand Prix,,,,,,9,17,,0.0,23,R,5,Gearbox,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-phoenix,United States Grand Prix,,,,,,3,10,,0.0,24,R,5,Physical,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-phoenix,United States Grand Prix,,,,,,10,7,,0.0,25,R,5,Collision,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-phoenix,United States Grand Prix,,,,,,12,3,,0.0,26,R,5,Spun off,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-montreal,Canadian Grand Prix,,,,,,6,69,7284073,9.0,1,1,6,Finished,2:01:24.073,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-montreal,Canadian Grand Prix,,,,,,3,69,7314080,6.0,2,2,6,Finished,+30.007,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-montreal,Canadian Grand Prix,,,,,,9,69,7380722,4.0,3,3,6,Finished,+1:36.649,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-montreal,Canadian Grand Prix,,,,,,19,69,7385557,3.0,4,4,6,Finished,+1:41.484,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-montreal,Canadian Grand Prix,,,,,,22,68,,2.0,5,5,6,+1 Lap,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-montreal,Canadian Grand Prix,,,,,,8,67,,1.0,6,6,6,+2 Laps,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-montreal,Canadian Grand Prix,,,,,,2,66,,0.0,7,7,6,Engine,,1989
+Rial,rial,German,,danner,Christian Danner,German,38,1989-montreal,Canadian Grand Prix,,,,,,23,66,,0.0,8,8,6,+3 Laps,,1989
+Coloni,coloni,Italian,,moreno,Roberto Moreno,Brazilian,31,1989-montreal,Canadian Grand Prix,,,,,,26,57,,0.0,9,R,6,Differential,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-montreal,Canadian Grand Prix,,,,,,12,40,,0.0,10,R,6,Engine,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-montreal,Canadian Grand Prix,,,,,,14,35,,0.0,11,R,6,Spun off,,1989
+Osella,osella,Italian,,larini,Nicola Larini,Italian,17,1989-montreal,Canadian Grand Prix,,,,,,15,33,,0.0,12,R,6,Electrical,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-montreal,Canadian Grand Prix,,,,,,21,28,,0.0,13,R,6,Spun off,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-montreal,Canadian Grand Prix,,,,,,10,26,,0.0,14,R,6,Spun off,,1989
+Onyx,onyx,British,,johansson,Stefan Johansson,Swedish,36,1989-montreal,Canadian Grand Prix,,,,,,18,13,,0.0,15,D,6,Disqualified,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-montreal,Canadian Grand Prix,,,,,,24,11,,0.0,16,R,6,Spun off,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-montreal,Canadian Grand Prix,,,,,,17,11,,0.0,17,R,6,Electrical,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-montreal,Canadian Grand Prix,,,,,,4,6,,0.0,18,R,6,Gearbox,,1989
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,40,1989-montreal,Canadian Grand Prix,,,,,,25,6,,0.0,19,R,6,Spun off,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-montreal,Canadian Grand Prix,,,,,,16,3,,0.0,20,R,6,Spun off,,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-montreal,Canadian Grand Prix,,,,,,1,2,,0.0,21,R,6,Suspension,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-montreal,Canadian Grand Prix,,,,,,5,0,,0.0,22,D,6,Disqualified,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-montreal,Canadian Grand Prix,,,,,,7,0,,0.0,23,R,6,Accident,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-montreal,Canadian Grand Prix,,,,,,11,0,,0.0,24,R,6,Accident,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-montreal,Canadian Grand Prix,,,,,,13,0,,0.0,25,D,6,Disqualified,,1989
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1989-montreal,Canadian Grand Prix,,,,,,20,0,,0.0,26,R,6,Electrical,,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-le-castellet,French Grand Prix,,,,,,1,80,5909411,9.0,1,1,7,Finished,1:38:29.411,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-le-castellet,French Grand Prix,,,,,,3,80,5953428,6.0,2,2,7,Finished,+44.017,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-le-castellet,French Grand Prix,,,,,,8,80,5976332,4.0,3,3,7,Finished,+1:06.921,1989
+Tyrrell,tyrrell,British,,alesi,Jean Alesi,French,4,1989-le-castellet,French Grand Prix,,,,,,16,80,5982643,3.0,4,4,7,Finished,+1:13.232,1989
+Onyx,onyx,British,,johansson,Stefan Johansson,Swedish,36,1989-le-castellet,French Grand Prix,,,,,,13,79,,2.0,5,5,7,+1 Lap,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-le-castellet,French Grand Prix,,,,,,17,79,,1.0,6,6,7,+1 Lap,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-le-castellet,French Grand Prix,,,,,,25,79,,0.0,7,7,7,+1 Lap,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-le-castellet,French Grand Prix,,,,,,20,78,,0.0,8,8,7,+2 Laps,,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-le-castellet,French Grand Prix,,,,,,24,78,,0.0,9,9,7,+2 Laps,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-le-castellet,French Grand Prix,,,,,,9,78,,0.0,10,10,7,+2 Laps,,1989
+Larrousse,larrousse,French,,bernard,Éric Bernard,French,29,1989-le-castellet,French Grand Prix,,,,,,15,77,,0.0,11,11,7,+3 Laps,,1989
+Arrows,arrows,British,,donnelly,Martin Donnelly,British,9,1989-le-castellet,French Grand Prix,,,,,,14,77,,0.0,12,12,7,+3 Laps,,1989
+Onyx,onyx,British,,gachot,Bertrand Gachot,Belgian,37,1989-le-castellet,French Grand Prix,,,,,,11,76,,0.0,13,13,7,Engine,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-le-castellet,French Grand Prix,,,,,,10,71,,0.0,14,R,7,Not classified,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-le-castellet,French Grand Prix,,,,,,22,67,,0.0,15,R,7,Engine,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-le-castellet,French Grand Prix,,,,,,5,50,,0.0,16,R,7,Gearbox,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-le-castellet,French Grand Prix,,,,,,19,49,,0.0,17,R,7,Engine,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-le-castellet,French Grand Prix,,,,,,12,43,,0.0,18,R,7,Engine,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-le-castellet,French Grand Prix,,,,,,4,40,,0.0,19,R,7,Suspension,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-le-castellet,French Grand Prix,,,,,,23,31,,0.0,20,R,7,Engine,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-le-castellet,French Grand Prix,,,,,,7,30,,0.0,21,R,7,Engine,,1989
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,40,1989-le-castellet,French Grand Prix,,,,,,21,30,,0.0,22,R,7,Engine,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-le-castellet,French Grand Prix,,,,,,6,29,,0.0,23,R,7,Clutch,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-le-castellet,French Grand Prix,,,,,,26,27,,0.0,24,R,7,Clutch,,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-le-castellet,French Grand Prix,,,,,,18,14,,0.0,25,R,7,Gearbox,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-le-castellet,French Grand Prix,,,,,,2,0,,0.0,26,R,7,Differential,,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-silverstone,British Grand Prix,,,,,,2,64,4762131,9.0,1,1,8,Finished,1:19:22.131,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-silverstone,British Grand Prix,,,,,,3,64,4781500,6.0,2,2,8,Finished,+19.369,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-silverstone,British Grand Prix,,,,,,9,64,4810150,4.0,3,3,8,Finished,+48.019,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-silverstone,British Grand Prix,,,,,,10,64,4828866,3.0,4,4,8,Finished,+1:06.735,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-silverstone,British Grand Prix,,,,,,11,63,,2.0,5,5,8,+1 Lap,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-silverstone,British Grand Prix,,,,,,15,63,,1.0,6,6,8,+1 Lap,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-silverstone,British Grand Prix,,,,,,24,63,,0.0,7,7,8,+1 Lap,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-silverstone,British Grand Prix,,,,,,16,63,,0.0,8,8,8,+1 Lap,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-silverstone,British Grand Prix,,,,,,19,62,,0.0,9,9,8,+2 Laps,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-silverstone,British Grand Prix,,,,,,7,62,,0.0,10,10,8,+2 Laps,,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-silverstone,British Grand Prix,,,,,,26,62,,0.0,11,11,8,+2 Laps,,1989
+Onyx,onyx,British,,gachot,Bertrand Gachot,Belgian,37,1989-silverstone,British Grand Prix,,,,,,21,62,,0.0,12,12,8,+2 Laps,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-silverstone,British Grand Prix,,,,,,6,54,,0.0,13,R,8,Gearbox,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-silverstone,British Grand Prix,,,,,,20,49,,0.0,14,R,8,Engine,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-silverstone,British Grand Prix,,,,,,4,49,,0.0,15,R,8,Fire,,1989
+Larrousse,larrousse,French,,bernard,Éric Bernard,French,29,1989-silverstone,British Grand Prix,,,,,,13,46,,0.0,16,R,8,Engine,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-silverstone,British Grand Prix,,,,,,12,39,,0.0,17,R,8,Engine,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-silverstone,British Grand Prix,,,,,,18,32,,0.0,18,R,8,Spun off,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-silverstone,British Grand Prix,,,,,,14,31,,0.0,19,R,8,Engine,,1989
+Tyrrell,tyrrell,British,,alesi,Jean Alesi,French,4,1989-silverstone,British Grand Prix,,,,,,22,28,,0.0,20,R,8,Spun off,,1989
+Osella,osella,Italian,,larini,Nicola Larini,Italian,17,1989-silverstone,British Grand Prix,,,,,,17,23,,0.0,21,R,8,Handling,,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-silverstone,British Grand Prix,,,,,,5,19,,0.0,22,R,8,Radiator,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-silverstone,British Grand Prix,,,,,,8,15,,0.0,23,R,8,Transmission,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-silverstone,British Grand Prix,,,,,,25,16,,0.0,24,R,8,Engine,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-silverstone,British Grand Prix,,,,,,1,11,,0.0,25,R,8,Spun off,,1989
+Coloni,coloni,Italian,,moreno,Roberto Moreno,Brazilian,31,1989-silverstone,British Grand Prix,,,,,,23,2,,0.0,26,R,8,Gearbox,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-hockenheim,German Grand Prix,,,,,,1,45,4903302,9.0,1,1,9,Finished,1:21:43.302,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-hockenheim,German Grand Prix,,,,,,2,45,4921453,6.0,2,2,9,Finished,+18.151,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-hockenheim,German Grand Prix,,,,,,3,45,4986556,4.0,3,3,9,Finished,+1:23.254,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-hockenheim,German Grand Prix,,,,,,5,44,,3.0,4,4,9,+1 Lap,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-hockenheim,German Grand Prix,,,,,,8,44,,2.0,5,5,9,+1 Lap,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-hockenheim,German Grand Prix,,,,,,17,44,,1.0,6,6,9,+1 Lap,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-hockenheim,German Grand Prix,,,,,,21,44,,0.0,7,7,9,+1 Lap,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-hockenheim,German Grand Prix,,,,,,12,44,,0.0,8,8,9,+1 Lap,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-hockenheim,German Grand Prix,,,,,,13,44,,0.0,9,9,9,+1 Lap,,1989
+Tyrrell,tyrrell,British,,alesi,Jean Alesi,French,4,1989-hockenheim,German Grand Prix,,,,,,10,43,,0.0,10,10,9,+2 Laps,,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-hockenheim,German Grand Prix,,,,,,23,42,,0.0,11,11,9,+3 Laps,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-hockenheim,German Grand Prix,,,,,,25,40,,0.0,12,12,9,Fuel system,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-hockenheim,German Grand Prix,,,,,,16,37,,0.0,13,R,9,Engine,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-hockenheim,German Grand Prix,,,,,,18,36,,0.0,14,R,9,Spun off,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-hockenheim,German Grand Prix,,,,,,22,32,,0.0,15,R,9,Electrical,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-hockenheim,German Grand Prix,,,,,,14,28,,0.0,16,R,9,Gearbox,,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-hockenheim,German Grand Prix,,,,,,9,26,,0.0,17,R,9,Spun off,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-hockenheim,German Grand Prix,,,,,,15,20,,0.0,18,R,9,Oil leak,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-hockenheim,German Grand Prix,,,,,,19,16,,0.0,19,R,9,Engine,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-hockenheim,German Grand Prix,,,,,,4,13,,0.0,20,R,9,Spun off,,1989
+Onyx,onyx,British,,johansson,Stefan Johansson,Swedish,36,1989-hockenheim,German Grand Prix,,,,,,24,8,,0.0,21,R,9,Overheating,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-hockenheim,German Grand Prix,,,,,,7,6,,0.0,22,R,9,Electrical,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-hockenheim,German Grand Prix,,,,,,6,4,,0.0,23,R,9,Collision,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-hockenheim,German Grand Prix,,,,,,20,2,,0.0,24,R,9,Engine,,1989
+Larrousse,larrousse,French,,alboreto,Michele Alboreto,Italian,29,1989-hockenheim,German Grand Prix,,,,,,26,1,,0.0,25,R,9,Electrical,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-hockenheim,German Grand Prix,,,,,,11,0,,0.0,26,R,9,Gearbox,,1989
+Rial,rial,German,,weidler,Volker Weidler,German,39,1989-hockenheim,German Grand Prix,,,,,,0,0,,0.0,30,D,9,Disqualified,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-budapest,Hungarian Grand Prix,,,,,,12,77,6578650,9.0,1,1,10,Finished,1:49:38.650,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-budapest,Hungarian Grand Prix,,,,,,2,77,6604617,6.0,2,2,10,Finished,+25.967,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-budapest,Hungarian Grand Prix,,,,,,4,77,6617004,4.0,3,3,10,Finished,+38.354,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-budapest,Hungarian Grand Prix,,,,,,5,77,6622827,3.0,4,4,10,Finished,+44.177,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-budapest,Hungarian Grand Prix,,,,,,16,77,6623756,2.0,5,5,10,Finished,+45.106,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-budapest,Hungarian Grand Prix,,,,,,17,77,6650689,1.0,6,6,10,Finished,+1:12.039,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-budapest,Hungarian Grand Prix,,,,,,3,77,6662875,0.0,7,7,10,Finished,+1:24.225,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-budapest,Hungarian Grand Prix,,,,,,25,76,,0.0,8,8,10,+1 Lap,,1989
+Tyrrell,tyrrell,British,,alesi,Jean Alesi,French,4,1989-budapest,Hungarian Grand Prix,,,,,,11,76,,0.0,9,9,10,+1 Lap,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-budapest,Hungarian Grand Prix,,,,,,9,76,,0.0,10,10,10,+1 Lap,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-budapest,Hungarian Grand Prix,,,,,,8,76,,0.0,11,11,10,+1 Lap,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-budapest,Hungarian Grand Prix,,,,,,15,75,,0.0,12,12,10,+2 Laps,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-budapest,Hungarian Grand Prix,,,,,,19,73,,0.0,13,13,10,+4 Laps,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-budapest,Hungarian Grand Prix,,,,,,23,57,,0.0,14,R,10,Collision,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-budapest,Hungarian Grand Prix,,,,,,6,56,,0.0,15,R,10,Gearbox,,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-budapest,Hungarian Grand Prix,,,,,,1,54,,0.0,16,R,10,Radiator,,1989
+Onyx,onyx,British,,johansson,Stefan Johansson,Swedish,36,1989-budapest,Hungarian Grand Prix,,,,,,24,48,,0.0,17,R,10,Gearbox,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-budapest,Hungarian Grand Prix,,,,,,7,46,,0.0,18,R,10,Gearbox,,1989
+Onyx,onyx,British,,gachot,Bertrand Gachot,Belgian,37,1989-budapest,Hungarian Grand Prix,,,,,,21,38,,0.0,19,R,10,Gearbox,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-budapest,Hungarian Grand Prix,,,,,,20,33,,0.0,20,R,10,Accident,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-budapest,Hungarian Grand Prix,,,,,,13,27,,0.0,21,R,10,Electrical,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-budapest,Hungarian Grand Prix,,,,,,14,26,,0.0,22,R,10,Wheel,,1989
+Larrousse,larrousse,French,,alboreto,Michele Alboreto,Italian,29,1989-budapest,Hungarian Grand Prix,,,,,,26,26,,0.0,23,R,10,Engine,,1989
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,18,1989-budapest,Hungarian Grand Prix,,,,,,22,20,,0.0,24,R,10,Electrical,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-budapest,Hungarian Grand Prix,,,,,,10,9,,0.0,25,R,10,Wheel,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-budapest,Hungarian Grand Prix,,,,,,18,0,,0.0,26,R,10,Clutch,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-spa,Belgian Grand Prix,,,,,,1,44,6054196,9.0,1,1,11,Finished,1:40:54.196,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-spa,Belgian Grand Prix,,,,,,2,44,6055500,6.0,2,2,11,Finished,+1.304,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-spa,Belgian Grand Prix,,,,,,6,44,6056020,4.0,3,3,11,Finished,+1.824,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-spa,Belgian Grand Prix,,,,,,4,44,6108604,3.0,4,4,11,Finished,+54.408,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-spa,Belgian Grand Prix,,,,,,7,44,6123001,2.0,5,5,11,Finished,+1:08.805,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-spa,Belgian Grand Prix,,,,,,10,44,6132512,1.0,6,6,11,Finished,+1:18.316,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-spa,Belgian Grand Prix,,,,,,9,43,,0.0,7,7,11,+1 Lap,,1989
+Onyx,onyx,British,,johansson,Stefan Johansson,Swedish,36,1989-spa,Belgian Grand Prix,,,,,,15,43,,0.0,8,8,11,+1 Lap,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-spa,Belgian Grand Prix,,,,,,14,43,,0.0,9,9,11,+1 Lap,,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-spa,Belgian Grand Prix,,,,,,13,43,,0.0,10,10,11,+1 Lap,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-spa,Belgian Grand Prix,,,,,,18,43,,0.0,11,11,11,+1 Lap,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-spa,Belgian Grand Prix,,,,,,19,43,,0.0,12,12,11,+1 Lap,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-spa,Belgian Grand Prix,,,,,,26,43,,0.0,13,13,11,+1 Lap,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-spa,Belgian Grand Prix,,,,,,21,42,,0.0,14,14,11,+2 Laps,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-spa,Belgian Grand Prix,,,,,,25,41,,0.0,15,15,11,+3 Laps,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-spa,Belgian Grand Prix,,,,,,11,39,,0.0,16,16,11,Engine,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-spa,Belgian Grand Prix,,,,,,24,38,,0.0,17,R,11,Wheel,,1989
+Onyx,onyx,British,,gachot,Bertrand Gachot,Belgian,37,1989-spa,Belgian Grand Prix,,,,,,23,21,,0.0,18,R,11,Spun off,,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-spa,Belgian Grand Prix,,,,,,5,20,,0.0,19,R,11,Collision,,1989
+Larrousse,larrousse,French,,alboreto,Michele Alboreto,Italian,29,1989-spa,Belgian Grand Prix,,,,,,22,19,,0.0,20,R,11,Collision,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-spa,Belgian Grand Prix,,,,,,12,13,,0.0,21,R,11,Spun off,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-spa,Belgian Grand Prix,,,,,,20,12,,0.0,22,R,11,Brakes,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-spa,Belgian Grand Prix,,,,,,3,9,,0.0,23,R,11,Spun off,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-spa,Belgian Grand Prix,,,,,,8,9,,0.0,24,R,11,Handling,,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-spa,Belgian Grand Prix,,,,,,17,4,,0.0,25,R,11,Collision,,1989
+Tyrrell,tyrrell,British,,herbert,Johnny Herbert,British,4,1989-spa,Belgian Grand Prix,,,,,,16,3,,0.0,26,R,11,Spun off,,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-monza,Italian Grand Prix,,,,,,4,53,4767550,9.0,1,1,12,Finished,1:19:27.550,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-monza,Italian Grand Prix,,,,,,2,53,4774876,6.0,2,2,12,Finished,+7.326,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-monza,Italian Grand Prix,,,,,,6,53,4782525,4.0,3,3,12,Finished,+14.975,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-monza,Italian Grand Prix,,,,,,5,53,4806272,3.0,4,4,12,Finished,+38.722,1989
+Tyrrell,tyrrell,British,,alesi,Jean Alesi,French,4,1989-monza,Italian Grand Prix,,,,,,10,52,,2.0,5,5,12,+1 Lap,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-monza,Italian Grand Prix,,,,,,12,52,,1.0,6,6,12,+1 Lap,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-monza,Italian Grand Prix,,,,,,15,52,,0.0,7,7,12,+1 Lap,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-monza,Italian Grand Prix,,,,,,26,51,,0.0,8,8,12,+2 Laps,,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-monza,Italian Grand Prix,,,,,,23,51,,0.0,9,9,12,+2 Laps,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-monza,Italian Grand Prix,,,,,,19,51,,0.0,10,10,12,Suspension,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-monza,Italian Grand Prix,,,,,,20,47,,0.0,11,11,12,Engine,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-monza,Italian Grand Prix,,,,,,17,45,,0.0,12,R,12,Engine,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-monza,Italian Grand Prix,,,,,,1,44,,0.0,13,R,12,Engine,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-monza,Italian Grand Prix,,,,,,3,41,,0.0,14,R,12,Gearbox,,1989
+Onyx,onyx,British,,gachot,Bertrand Gachot,Belgian,37,1989-monza,Italian Grand Prix,,,,,,22,38,,0.0,15,R,12,Radiator,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-monza,Italian Grand Prix,,,,,,8,33,,0.0,16,R,12,Brakes,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-monza,Italian Grand Prix,,,,,,18,30,,0.0,17,R,12,Engine,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-monza,Italian Grand Prix,,,,,,21,30,,0.0,18,R,12,Exhaust,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-monza,Italian Grand Prix,,,,,,11,23,,0.0,19,R,12,Spun off,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-monza,Italian Grand Prix,,,,,,14,18,,0.0,20,R,12,Engine,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-monza,Italian Grand Prix,,,,,,16,18,,0.0,21,R,12,Fuel system,,1989
+Osella,osella,Italian,,larini,Nicola Larini,Italian,17,1989-monza,Italian Grand Prix,,,,,,24,16,,0.0,22,R,12,Gearbox,,1989
+Larrousse,larrousse,French,,alboreto,Michele Alboreto,Italian,29,1989-monza,Italian Grand Prix,,,,,,13,14,,0.0,23,R,12,Electrical,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-monza,Italian Grand Prix,,,,,,25,14,,0.0,24,R,12,Throttle,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-monza,Italian Grand Prix,,,,,,7,1,,0.0,25,R,12,Spun off,,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-monza,Italian Grand Prix,,,,,,9,0,,0.0,26,R,12,Transmission,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-monza,Italian Grand Prix,,,,,,0,0,,0.0,27,D,12,Disqualified,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-estoril,Portuguese Grand Prix,,,,,,2,71,5808546,9.0,1,1,13,Finished,1:36:48.546,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-estoril,Portuguese Grand Prix,,,,,,4,71,5841183,6.0,2,2,13,Finished,+32.637,1989
+Onyx,onyx,British,,johansson,Stefan Johansson,Swedish,36,1989-estoril,Portuguese Grand Prix,,,,,,12,71,5863871,4.0,3,3,13,Finished,+55.325,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-estoril,Portuguese Grand Prix,,,,,,13,71,5890915,3.0,4,4,13,Finished,+1:22.369,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-estoril,Portuguese Grand Prix,,,,,,5,70,,2.0,5,5,13,+1 Lap,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-estoril,Portuguese Grand Prix,,,,,,18,70,,1.0,6,6,13,+1 Lap,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-estoril,Portuguese Grand Prix,,,,,,25,70,,0.0,7,7,13,+1 Lap,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-estoril,Portuguese Grand Prix,,,,,,10,70,,0.0,8,8,13,+1 Lap,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-estoril,Portuguese Grand Prix,,,,,,17,70,,0.0,9,9,13,+1 Lap,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-estoril,Portuguese Grand Prix,,,,,,14,69,,0.0,10,10,13,+2 Laps,,1989
+Larrousse,larrousse,French,,alboreto,Michele Alboreto,Italian,29,1989-estoril,Portuguese Grand Prix,,,,,,21,69,,0.0,11,11,13,+2 Laps,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-estoril,Portuguese Grand Prix,,,,,,9,69,,0.0,12,12,13,+2 Laps,,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-estoril,Portuguese Grand Prix,,,,,,23,69,,0.0,13,13,13,+2 Laps,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-estoril,Portuguese Grand Prix,,,,,,11,69,,0.0,14,14,13,+2 Laps,,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-estoril,Portuguese Grand Prix,,,,,,6,60,,0.0,15,R,13,Overheating,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-estoril,Portuguese Grand Prix,,,,,,8,60,,0.0,16,R,13,Overheating,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-estoril,Portuguese Grand Prix,,,,,,1,48,,0.0,17,R,13,Collision,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-estoril,Portuguese Grand Prix,,,,,,3,48,,0.0,18,D,13,Disqualified,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-estoril,Portuguese Grand Prix,,,,,,22,37,,0.0,19,R,13,Accident,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-estoril,Portuguese Grand Prix,,,,,,20,33,,0.0,20,R,13,Collision,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-estoril,Portuguese Grand Prix,,,,,,7,33,,0.0,21,R,13,Collision,,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-estoril,Portuguese Grand Prix,,,,,,16,29,,0.0,22,R,13,Suspension,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-estoril,Portuguese Grand Prix,,,,,,24,25,,0.0,23,R,13,Engine,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-estoril,Portuguese Grand Prix,,,,,,26,24,,0.0,24,R,13,Spun off,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-estoril,Portuguese Grand Prix,,,,,,19,17,,0.0,25,R,13,Electrical,,1989
+Coloni,coloni,Italian,,moreno,Roberto Moreno,Brazilian,31,1989-estoril,Portuguese Grand Prix,,,,,,15,11,,0.0,26,R,13,Electrical,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,1,73,6468264,9.0,1,1,14,Finished,1:47:48.264,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,2,73,6495315,6.0,2,2,14,Finished,+27.051,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,3,73,6522052,4.0,3,3,14,Finished,+53.788,1989
+Tyrrell,tyrrell,British,,alesi,Jean Alesi,French,4,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,9,72,,3.0,4,4,14,+1 Lap,,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,6,72,,2.0,5,5,14,+1 Lap,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,5,72,,1.0,6,6,14,+1 Lap,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,15,72,,0.0,7,7,14,+1 Lap,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,7,71,,0.0,8,8,14,+2 Laps,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,16,71,,0.0,9,9,14,+2 Laps,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,13,71,,0.0,10,10,14,+2 Laps,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,22,61,,0.0,11,R,14,Engine,,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,10,59,,0.0,12,R,14,Spun off,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,23,55,,0.0,13,R,14,Engine,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,8,51,,0.0,14,R,14,Spun off,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,26,47,,0.0,15,R,14,Collision,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,20,47,,0.0,16,R,14,Spun off,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,21,40,,0.0,17,R,14,Fuel pump,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,24,34,,0.0,18,R,14,Engine,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,4,27,,0.0,19,R,14,Spun off,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,19,23,,0.0,20,R,14,Transmission,,1989
+Onyx,onyx,British,,lehto,Jyrki Järvilehto,Finnish,37,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,17,20,,0.0,21,R,14,Gearbox,,1989
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,18,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,25,17,,0.0,22,R,14,Gearbox,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,14,14,,0.0,23,R,14,Spun off,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,12,11,,0.0,24,R,14,Electrical,,1989
+Osella,osella,Italian,,larini,Nicola Larini,Italian,17,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,11,6,,0.0,25,R,14,Suspension,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-jerez-de-la-frontera,Spanish Grand Prix,,,,,,18,0,,0.0,26,R,14,Collision,,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-suzuka,Japanese Grand Prix,,,,,,6,53,5706277,9.0,1,1,15,Finished,1:35:06.277,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-suzuka,Japanese Grand Prix,,,,,,5,53,5718181,6.0,2,2,15,Finished,+11.904,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-suzuka,Japanese Grand Prix,,,,,,7,53,5719723,4.0,3,3,15,Finished,+13.446,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-suzuka,Japanese Grand Prix,,,,,,11,53,5810502,3.0,4,4,15,Finished,+1:44.225,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-suzuka,Japanese Grand Prix,,,,,,13,52,,2.0,5,5,15,+1 Lap,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-suzuka,Japanese Grand Prix,,,,,,25,52,,1.0,6,6,15,+1 Lap,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-suzuka,Japanese Grand Prix,,,,,,20,52,,0.0,7,7,15,+1 Lap,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-suzuka,Japanese Grand Prix,,,,,,24,52,,0.0,8,8,15,+1 Lap,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-suzuka,Japanese Grand Prix,,,,,,15,52,,0.0,9,9,15,+1 Lap,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-suzuka,Japanese Grand Prix,,,,,,16,51,,0.0,10,10,15,+2 Laps,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-suzuka,Japanese Grand Prix,,,,,,1,53,,0.0,11,D,15,Disqualified,,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-suzuka,Japanese Grand Prix,,,,,,2,46,,0.0,12,R,15,Collision,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-suzuka,Japanese Grand Prix,,,,,,9,46,,0.0,13,R,15,Engine,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-suzuka,Japanese Grand Prix,,,,,,4,43,,0.0,14,R,15,Engine,,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-suzuka,Japanese Grand Prix,,,,,,12,41,,0.0,15,R,15,Engine,,1989
+Tyrrell,tyrrell,British,,alesi,Jean Alesi,French,4,1989-suzuka,Japanese Grand Prix,,,,,,18,37,,0.0,16,R,15,Gearbox,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-suzuka,Japanese Grand Prix,,,,,,8,36,,0.0,17,R,15,Engine,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-suzuka,Japanese Grand Prix,,,,,,3,34,,0.0,18,R,15,Gearbox,,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-suzuka,Japanese Grand Prix,,,,,,22,33,,0.0,19,R,15,Collision,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-suzuka,Japanese Grand Prix,,,,,,23,31,,0.0,20,R,15,Engine,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-suzuka,Japanese Grand Prix,,,,,,17,27,,0.0,21,R,15,Suspension,,1989
+Osella,osella,Italian,,larini,Nicola Larini,Italian,17,1989-suzuka,Japanese Grand Prix,,,,,,10,21,,0.0,22,R,15,Brakes,,1989
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1989-suzuka,Japanese Grand Prix,,,,,,26,20,,0.0,23,R,15,Fuel leak,,1989
+Zakspeed,zakspeed,German,,schneider,Bernd Schneider,German,34,1989-suzuka,Japanese Grand Prix,,,,,,21,1,,0.0,24,R,15,Gearbox,,1989
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1989-suzuka,Japanese Grand Prix,,,,,,14,0,,0.0,25,R,15,Collision,,1989
+Minardi,minardi,Italian,,barilla,Paolo Barilla,Italian,23,1989-suzuka,Japanese Grand Prix,,,,,,19,0,,0.0,26,R,15,Clutch,,1989
+Williams,williams,British,,boutsen,Thierry Boutsen,Belgian,5,1989-adelaide,Australian Grand Prix,,,,,,5,70,7217421,9.0,1,1,16,Finished,2:00:17.421,1989
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1989-adelaide,Australian Grand Prix,,,,,,4,70,7246079,6.0,2,2,16,Finished,+28.658,1989
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1989-adelaide,Australian Grand Prix,,,,,,6,70,7255104,4.0,3,3,16,Finished,+37.683,1989
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,12,1989-adelaide,Australian Grand Prix,,,,,,23,70,7259752,3.0,4,4,16,Finished,+42.331,1989
+Benetton,benetton,Italian,,pirro,Emanuele Pirro,Italian,20,1989-adelaide,Australian Grand Prix,,,,,,13,68,,2.0,5,5,16,+2 Laps,,1989
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1989-adelaide,Australian Grand Prix,,,,,,3,67,,1.0,6,6,16,+3 Laps,,1989
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1989-adelaide,Australian Grand Prix,,,,,,25,66,,0.0,7,7,16,+4 Laps,,1989
+Brabham,brabham,British,,modena,Stefano Modena,Italian,8,1989-adelaide,Australian Grand Prix,,,,,,8,64,,0.0,8,8,16,+6 Laps,,1989
+Arrows,arrows,British,,cheever,Eddie Cheever,American,10,1989-adelaide,Australian Grand Prix,,,,,,22,42,,0.0,9,R,16,Spun off,,1989
+Onyx,onyx,British,,lehto,Jyrki Järvilehto,Finnish,37,1989-adelaide,Australian Grand Prix,,,,,,17,27,,0.0,10,R,16,Electrical,,1989
+Ligier,ligier,French,,grouillard,Olivier Grouillard,French,26,1989-adelaide,Australian Grand Prix,,,,,,24,22,,0.0,11,R,16,Spun off,,1989
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,11,1989-adelaide,Australian Grand Prix,,,,,,18,19,,0.0,12,R,16,Collision,,1989
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,18,1989-adelaide,Australian Grand Prix,,,,,,21,18,,0.0,13,R,16,Collision,,1989
+Ferrari,ferrari,Italian,,mansell,Nigel Mansell,British,27,1989-adelaide,Australian Grand Prix,,,,,,7,17,,0.0,14,R,16,Spun off,,1989
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1989-adelaide,Australian Grand Prix,,,,,,1,13,,0.0,15,R,16,Collision,,1989
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,21,1989-adelaide,Australian Grand Prix,,,,,,10,13,,0.0,16,R,16,Spun off,,1989
+March,march,British,,capelli,Ivan Capelli,Italian,16,1989-adelaide,Australian Grand Prix,,,,,,16,13,,0.0,17,R,16,Radiator,,1989
+Dallara,dallara,Italian,,cesaris,Andrea de Cesaris,Italian,22,1989-adelaide,Australian Grand Prix,,,,,,9,12,,0.0,18,R,16,Spun off,,1989
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1989-adelaide,Australian Grand Prix,,,,,,12,12,,0.0,19,R,16,Collision,,1989
+Arrows,arrows,British,,warwick,Derek Warwick,British,9,1989-adelaide,Australian Grand Prix,,,,,,20,7,,0.0,20,R,16,Spun off,,1989
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1989-adelaide,Australian Grand Prix,,,,,,19,6,,0.0,21,R,16,Collision,,1989
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1989-adelaide,Australian Grand Prix,,,,,,14,6,,0.0,22,R,16,Collision,,1989
+Tyrrell,tyrrell,British,,alesi,Jean Alesi,French,4,1989-adelaide,Australian Grand Prix,,,,,,15,5,,0.0,23,R,16,Electrical,,1989
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1989-adelaide,Australian Grand Prix,,,,,,26,4,,0.0,24,R,16,Collision,,1989
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1989-adelaide,Australian Grand Prix,,,,,,2,0,,0.0,25,W,16,Withdrew,,1989
+Osella,osella,Italian,,larini,Nicola Larini,Italian,17,1989-adelaide,Australian Grand Prix,,,,,,11,0,,0.0,26,R,16,Electrical,,1989

@@ -1,0 +1,161 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,2,1950-silverstone,British Grand Prix,,,,,,1,70,8003600,9.0,1,1,1,Finished,2:13:23.600,1950
+Alfa Romeo,alfa,Swiss,,fagioli,Luigi Fagioli,Italian,3,1950-silverstone,British Grand Prix,,,,,,2,70,8006200,6.0,2,2,1,Finished,+2.600,1950
+Alfa Romeo,alfa,Swiss,,reg_parnell,Reg Parnell,British,4,1950-silverstone,British Grand Prix,,,,,,4,70,8055600,4.0,3,3,1,Finished,+52.000,1950
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,14,1950-silverstone,British Grand Prix,,,,,,6,68,,3.0,4,4,1,+2 Laps,,1950
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,15,1950-silverstone,British Grand Prix,,,,,,9,68,,2.0,5,5,1,+2 Laps,,1950
+ERA,era,British,,gerard,Bob Gerard,British,12,1950-silverstone,British Grand Prix,,,,,,13,67,,0.0,6,6,1,+3 Laps,,1950
+ERA,era,British,,harrison,Cuth Harrison,British,11,1950-silverstone,British Grand Prix,,,,,,15,67,,0.0,7,7,1,+3 Laps,,1950
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,16,1950-silverstone,British Grand Prix,,,,,,14,65,,0.0,8,8,1,+5 Laps,,1950
+Maserati,maserati,Italian,,hampshire,David Hampshire,British,6,1950-silverstone,British Grand Prix,,,,,,16,64,,0.0,9,9,1,+6 Laps,,1950
+Maserati,maserati,Italian,,fry,Joe Fry,British,10,1950-silverstone,British Grand Prix,,,,,,20,64,,0.0,10,10,1,+6 Laps,,1950
+Maserati,maserati,Italian,,shawe_taylor,Brian Shawe Taylor,British,10,1950-silverstone,British Grand Prix,,,,,,20,64,,0.0,10,10,1,+6 Laps,,1950
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,18,1950-silverstone,British Grand Prix,,,,,,21,64,,0.0,11,11,1,+6 Laps,,1950
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,1,1950-silverstone,British Grand Prix,,,,,,3,62,,0.0,12,R,1,Oil leak,,1950
+Alta,alta,British,,kelly,Joe Kelly,Irish,23,1950-silverstone,British Grand Prix,,,,,,19,57,,0.0,13,R,1,Not classified,,1950
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,21,1950-silverstone,British Grand Prix,,,,,,5,49,,0.0,14,R,1,Out of fuel,,1950
+Maserati,maserati,Italian,,murray,David Murray,British,5,1950-silverstone,British Grand Prix,,,,,,18,44,,0.0,15,R,1,Engine,,1950
+Alta,alta,British,,crossley,Geoff Crossley,British,24,1950-silverstone,British Grand Prix,,,,,,17,43,,0.0,16,R,1,Transmission,,1950
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,20,1950-silverstone,British Grand Prix,,,,,,8,36,,0.0,17,R,1,Engine,,1950
+Maserati,maserati,Italian,,chiron,Louis Chiron,Monegasque,19,1950-silverstone,British Grand Prix,,,,,,11,26,,0.0,18,R,1,Clutch,,1950
+Talbot-Lago,lago,French,,martin,Eugène Martin,French,17,1950-silverstone,British Grand Prix,,,,,,7,8,,0.0,19,R,1,Oil pressure,,1950
+ERA,era,British,,rolt,Tony Rolt,British,9,1950-silverstone,British Grand Prix,,,,,,10,5,,0.0,20,R,1,Gearbox,,1950
+ERA,era,British,,peter_walker,Peter Walker,British,9,1950-silverstone,British Grand Prix,,,,,,10,5,,0.0,20,R,1,Gearbox,,1950
+ERA,era,British,,leslie_johnson,Leslie Johnson,British,8,1950-silverstone,British Grand Prix,,,,,,12,2,,0.0,21,R,1,Supercharger,,1950
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,34,1950-monte-carlo,Monaco Grand Prix,,,,,,1,100,11598700,9.0,1,1,2,Finished,3:13:18.700,1950
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,40,1950-monte-carlo,Monaco Grand Prix,,,,,,7,99,,6.0,2,2,2,+1 Lap,,1950
+Maserati,maserati,Italian,,chiron,Louis Chiron,Monegasque,48,1950-monte-carlo,Monaco Grand Prix,,,,,,8,98,,4.0,3,3,2,+2 Laps,,1950
+Ferrari,ferrari,Italian,,sommer,Raymond Sommer,French,42,1950-monte-carlo,Monaco Grand Prix,,,,,,9,97,,3.0,4,4,2,+3 Laps,,1950
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,50,1950-monte-carlo,Monaco Grand Prix,,,,,,15,95,,2.0,5,5,2,+5 Laps,,1950
+ERA,era,British,,gerard,Bob Gerard,British,26,1950-monte-carlo,Monaco Grand Prix,,,,,,16,94,,0.0,6,6,2,+6 Laps,,1950
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,6,1950-monte-carlo,Monaco Grand Prix,,,,,,19,94,,0.0,7,7,2,+6 Laps,,1950
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,38,1950-monte-carlo,Monaco Grand Prix,,,,,,6,63,,0.0,8,R,2,Axle,,1950
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,14,1950-monte-carlo,Monaco Grand Prix,,,,,,4,38,,0.0,9,R,2,Oil leak,,1950
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,2,1950-monte-carlo,Monaco Grand Prix,,,,,,3,1,,0.0,10,R,2,Accident,,1950
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,32,1950-monte-carlo,Monaco Grand Prix,,,,,,2,0,,0.0,11,R,2,Accident,,1950
+Alfa Romeo,alfa,Swiss,,fagioli,Luigi Fagioli,Italian,36,1950-monte-carlo,Monaco Grand Prix,,,,,,5,0,,0.0,12,R,2,Accident,,1950
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,16,1950-monte-carlo,Monaco Grand Prix,,,,,,10,0,,0.0,13,R,2,Accident,,1950
+Simca,simca,French,,manzon,Robert Manzon,French,10,1950-monte-carlo,Monaco Grand Prix,,,,,,11,0,,0.0,14,R,2,Accident,,1950
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,52,1950-monte-carlo,Monaco Grand Prix,,,,,,12,0,,0.0,15,R,2,Accident,,1950
+Simca,simca,French,,trintignant,Maurice Trintignant,French,12,1950-monte-carlo,Monaco Grand Prix,,,,,,13,0,,0.0,16,R,2,Accident,,1950
+ERA,era,British,,harrison,Cuth Harrison,British,24,1950-monte-carlo,Monaco Grand Prix,,,,,,14,0,,0.0,17,R,2,Accident,,1950
+Maserati,maserati,Italian,,rol,Franco Rol,Italian,44,1950-monte-carlo,Monaco Grand Prix,,,,,,17,0,,0.0,18,R,2,Accident,,1950
+Cooper,cooper,British,,schell,Harry Schell,American,8,1950-monte-carlo,Monaco Grand Prix,,,,,,20,0,,0.0,19,R,2,Collision,,1950
+Ferrari,ferrari,Italian,,whitehead,Peter Whitehead,British,28,1950-monte-carlo,Monaco Grand Prix,,,,,,21,0,,0.0,20,W,2,Engine,,1950
+Maserati,maserati,Italian,,pian,Alfredo Pián,Argentine,4,1950-monte-carlo,Monaco Grand Prix,,,,,,18,0,,0.0,21,W,2,Accident,,1950
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,1,1950-indianapolis,Indianapolis 500,,,,,,5,138,10015970,9.0,1,1,3,Finished,2:46:55.970,1950
+Deidt,deidt,American,,holland,Bill Holland,American,3,1950-indianapolis,Indianapolis 500,,,,,,10,137,,6.0,2,2,3,+1 Lap,,1950
+Deidt,deidt,American,,rose,Mauri Rose,American,31,1950-indianapolis,Indianapolis 500,,,,,,3,137,,4.0,3,3,3,+1 Lap,,1950
+Kurtis Kraft,kurtis_kraft,American,,green,Cecil Green,American,54,1950-indianapolis,Indianapolis 500,,,,,,12,137,,3.0,4,4,3,+1 Lap,,1950
+Kurtis Kraft,kurtis_kraft,American,,bettenhausen,Tony Bettenhausen,American,17,1950-indianapolis,Indianapolis 500,,,,,,9,136,,1.0,5,5,3,+2 Laps,,1950
+Kurtis Kraft,kurtis_kraft,American,,chitwood,Joie Chitwood,American,17,1950-indianapolis,Indianapolis 500,,,,,,9,136,,1.0,5,5,3,+2 Laps,,1950
+Moore,moore,American,,wallard,Lee Wallard,American,8,1950-indianapolis,Indianapolis 500,,,,,,23,136,,0.0,6,6,3,+2 Laps,,1950
+Kurtis Kraft,kurtis_kraft,American,,faulkner,Walt Faulkner,American,98,1950-indianapolis,Indianapolis 500,,,,,,1,135,,0.0,7,7,3,+3 Laps,,1950
+Lesovsky,lesovsky,American,,george_connor,George Connor,American,5,1950-indianapolis,Indianapolis 500,,,,,,4,135,,0.0,8,8,3,+3 Laps,,1950
+Nichels,nichels,American,,paul_russo,Paul Russo,American,7,1950-indianapolis,Indianapolis 500,,,,,,19,135,,0.0,9,9,3,+3 Laps,,1950
+Kurtis Kraft,kurtis_kraft,American,,flaherty,Pat Flaherty,American,59,1950-indianapolis,Indianapolis 500,,,,,,11,135,,0.0,10,10,3,+3 Laps,,1950
+Marchese,marchese,American,,fohr,Myron Fohr,American,2,1950-indianapolis,Indianapolis 500,,,,,,16,133,,0.0,11,11,3,+5 Laps,,1950
+Stevens,stevens,American,,darter,Duane Carter,American,18,1950-indianapolis,Indianapolis 500,,,,,,13,133,,0.0,12,12,3,+5 Laps,,1950
+Kurtis Kraft,kurtis_kraft,American,,hellings,Mack Hellings,American,15,1950-indianapolis,Indianapolis 500,,,,,,26,132,,0.0,13,13,3,+6 Laps,,1950
+Kurtis Kraft,kurtis_kraft,American,,mcgrath,Jack McGrath,American,49,1950-indianapolis,Indianapolis 500,,,,,,6,131,,0.0,14,14,3,Spun off,,1950
+Lesovsky,lesovsky,American,,ruttman,Troy Ruttman,American,55,1950-indianapolis,Indianapolis 500,,,,,,24,130,,0.0,15,15,3,+8 Laps,,1950
+Langley,langley,American,,hartley,Gene Hartley,American,75,1950-indianapolis,Indianapolis 500,,,,,,31,128,,0.0,16,16,3,+10 Laps,,1950
+Ewing,ewing,American,,davies,Jimmy Davies,American,22,1950-indianapolis,Indianapolis 500,,,,,,27,128,,0.0,17,17,3,+10 Laps,,1950
+Kurtis Kraft,kurtis_kraft,American,,mcdowell,Johnny McDowell,American,62,1950-indianapolis,Indianapolis 500,,,,,,33,128,,0.0,18,18,3,+10 Laps,,1950
+Kurtis Kraft,kurtis_kraft,American,,walt_brown,Walt Brown,American,4,1950-indianapolis,Indianapolis 500,,,,,,20,127,,0.0,19,19,3,+11 Laps,,1950
+Maserati,maserati,Italian,,webb,Travis Webb,American,21,1950-indianapolis,Indianapolis 500,,,,,,14,126,,0.0,20,20,3,+12 Laps,,1950
+Kurtis Kraft,kurtis_kraft,American,,hoyt,Jerry Hoyt,American,81,1950-indianapolis,Indianapolis 500,,,,,,15,125,,0.0,21,21,3,+13 Laps,,1950
+Rae,rae,American,,ader,Walt Ader,American,27,1950-indianapolis,Indianapolis 500,,,,,,29,123,,0.0,22,22,3,+15 Laps,,1950
+Olson,olson,American,,holmes,Jackie Holmes,American,77,1950-indianapolis,Indianapolis 500,,,,,,30,123,,0.0,23,23,3,Spun off,,1950
+Wetteroth,wetteroth,American,,rathmann,Jim Rathmann,American,76,1950-indianapolis,Indianapolis 500,,,,,,28,122,,0.0,24,24,3,+16 Laps,,1950
+Maserati,maserati,Italian,,banks,Henry Banks,American,12,1950-indianapolis,Indianapolis 500,,,,,,21,112,,0.0,25,R,3,Oil line,,1950
+Snowberger,snowberger,American,,schindler,Bill Schindler,American,67,1950-indianapolis,Indianapolis 500,,,,,,22,111,,0.0,26,R,3,Transmission,,1950
+Adams,adams,American,,levrett,Bayliss Levrett,American,24,1950-indianapolis,Indianapolis 500,,,,,,17,108,,0.0,27,R,3,Oil pressure,,1950
+Adams,adams,American,,cantrell,Bill Cantrell,American,24,1950-indianapolis,Indianapolis 500,,,,,,17,108,,0.0,27,R,3,Oil pressure,,1950
+Kurtis Kraft,kurtis_kraft,American,,agabashian,Fred Agabashian,American,28,1950-indianapolis,Indianapolis 500,,,,,,2,64,,0.0,28,R,3,Oil leak,,1950
+Kurtis Kraft,kurtis_kraft,American,,jackson,Jimmy Jackson,American,61,1950-indianapolis,Indianapolis 500,,,,,,32,52,,0.0,29,R,3,Supercharger,,1950
+Kurtis Kraft,kurtis_kraft,American,,hanks,Sam Hanks,American,23,1950-indianapolis,Indianapolis 500,,,,,,25,42,,0.0,30,R,3,Oil pressure,,1950
+Deidt,deidt,American,,bettenhausen,Tony Bettenhausen,American,14,1950-indianapolis,Indianapolis 500,,,,,,8,30,,0.0,31,R,3,Wheel bearing,,1950
+Watson,watson,American,,dick_rathmann,Dick Rathmann,American,45,1950-indianapolis,Indianapolis 500,,,,,,18,25,,0.0,32,R,3,Stalled,,1950
+Kurtis Kraft,kurtis_kraft,American,,dinsmore,Duke Dinsmore,American,69,1950-indianapolis,Indianapolis 500,,,,,,7,10,,0.0,33,R,3,Oil leak,,1950
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,16,1950-bern,Swiss Grand Prix,,,,,,2,42,7373700,9.0,1,1,4,Finished,2:02:53.700,1950
+Alfa Romeo,alfa,Swiss,,fagioli,Luigi Fagioli,Italian,12,1950-bern,Swiss Grand Prix,,,,,,3,42,7374100,6.0,2,2,4,Finished,+0.400,1950
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,10,1950-bern,Swiss Grand Prix,,,,,,10,41,,4.0,3,3,4,+1 Lap,,1950
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,30,1950-bern,Swiss Grand Prix,,,,,,8,40,,3.0,4,4,4,+2 Laps,,1950
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,34,1950-bern,Swiss Grand Prix,,,,,,12,40,,2.0,5,5,4,+2 Laps,,1950
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,32,1950-bern,Swiss Grand Prix,,,,,,11,40,,0.0,6,6,4,+2 Laps,,1950
+Maserati,maserati,Italian,,pagani,Nello Pagani,Italian,2,1950-bern,Swiss Grand Prix,,,,,,15,39,,0.0,7,7,4,+3 Laps,,1950
+Talbot-Lago,lago,French,,schell,Harry Schell,American,44,1950-bern,Swiss Grand Prix,,,,,,18,39,,0.0,8,8,4,+3 Laps,,1950
+Maserati,maserati,Italian,,chiron,Louis Chiron,Monegasque,26,1950-bern,Swiss Grand Prix,,,,,,16,39,,0.0,9,9,4,+3 Laps,,1950
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,4,1950-bern,Swiss Grand Prix,,,,,,14,38,,0.0,10,10,4,+4 Laps,,1950
+Maserati,maserati,Italian,,branca,Toni Branca,Swiss,40,1950-bern,Swiss Grand Prix,,,,,,17,35,,0.0,11,11,4,+7 Laps,,1950
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,14,1950-bern,Swiss Grand Prix,,,,,,1,32,,0.0,12,R,4,Engine,,1950
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,42,1950-bern,Swiss Grand Prix,,,,,,6,25,,0.0,13,R,4,Gearbox,,1950
+Talbot-Lago,lago,French,,martin,Eugène Martin,French,8,1950-bern,Swiss Grand Prix,,,,,,9,19,,0.0,14,R,4,Accident,,1950
+Ferrari,ferrari,Italian,,sommer,Raymond Sommer,French,20,1950-bern,Swiss Grand Prix,,,,,,13,19,,0.0,15,R,4,Suspension,,1950
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,22,1950-bern,Swiss Grand Prix,,,,,,4,9,,0.0,16,R,4,Engine,,1950
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,18,1950-bern,Swiss Grand Prix,,,,,,5,4,,0.0,17,R,4,Oil pump,,1950
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,6,1950-bern,Swiss Grand Prix,,,,,,7,0,,0.0,18,R,4,Accident,,1950
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,10,1950-spa,Belgian Grand Prix,,,,,,2,35,10046000,8.0,1,1,5,Finished,2:47,1950
+Alfa Romeo,alfa,Swiss,,fagioli,Luigi Fagioli,Italian,12,1950-spa,Belgian Grand Prix,,,,,,3,35,10060000,6.0,2,2,5,Finished,+14.000,1950
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,14,1950-spa,Belgian Grand Prix,,,,,,8,35,10185000,4.0,3,3,5,Finished,+2:19.000,1950
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,8,1950-spa,Belgian Grand Prix,,,,,,1,35,10291000,4.0,4,4,5,Finished,+4:05.000,1950
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,4,1950-spa,Belgian Grand Prix,,,,,,7,34,,2.0,5,5,5,+1 Lap,,1950
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,2,1950-spa,Belgian Grand Prix,,,,,,4,33,,0.0,6,6,5,+2 Laps,,1950
+Talbot-Lago,lago,French,,levegh,Pierre Levegh,French,22,1950-spa,Belgian Grand Prix,,,,,,10,33,,0.0,7,7,5,+2 Laps,,1950
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,24,1950-spa,Belgian Grand Prix,,,,,,14,22,,0.0,8,8,5,+3 Laps,,1950
+Alta,alta,British,,crossley,Geoff Crossley,British,26,1950-spa,Belgian Grand Prix,,,,,,12,30,,0.0,9,9,5,+5 Laps,,1950
+Maserati,maserati,Italian,,branca,Toni Branca,Swiss,30,1950-spa,Belgian Grand Prix,,,,,,11,29,,0.0,10,10,5,+6 Laps,,1950
+Talbot-Lago,lago,French,,chaboud,Eugène Chaboud,French,20,1950-spa,Belgian Grand Prix,,,,,,13,22,,0.0,11,R,5,Oil pipe,,1950
+Talbot-Lago,lago,French,,sommer,Raymond Sommer,French,6,1950-spa,Belgian Grand Prix,,,,,,5,20,,0.0,12,R,5,Oil pressure,,1950
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,16,1950-spa,Belgian Grand Prix,,,,,,6,15,,0.0,13,R,5,Overheating,,1950
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,18,1950-spa,Belgian Grand Prix,,,,,,9,2,,0.0,14,R,5,Oil pipe,,1950
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,6,1950-reims,French Grand Prix,,,,,,1,64,10672800,9.0,1,1,6,Finished,2:57:52.800,1950
+Alfa Romeo,alfa,Swiss,,fagioli,Luigi Fagioli,Italian,4,1950-reims,French Grand Prix,,,,,,3,64,10698500,6.0,2,2,6,Finished,+25.700,1950
+Ferrari,ferrari,Italian,,whitehead,Peter Whitehead,British,14,1950-reims,French Grand Prix,,,,,,18,61,,4.0,3,3,6,+3 Laps,,1950
+Simca,simca,French,,manzon,Robert Manzon,French,44,1950-reims,French Grand Prix,,,,,,12,61,,3.0,4,4,6,+3 Laps,,1950
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,16,1950-reims,French Grand Prix,,,,,,4,59,,1.0,5,5,6,+5 Laps,,1950
+Talbot-Lago,lago,French,,chaboud,Eugène Chaboud,French,16,1950-reims,French Grand Prix,,,,,,4,59,,1.0,5,5,6,+5 Laps,,1950
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,26,1950-reims,French Grand Prix,,,,,,15,56,,0.0,6,6,6,+8 Laps,,1950
+Talbot-Lago,lago,French,,pozzi,Charles Pozzi,French,26,1950-reims,French Grand Prix,,,,,,15,56,,0.0,6,6,6,+8 Laps,,1950
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,2,1950-reims,French Grand Prix,,,,,,2,55,,0.0,7,7,6,Fuel pump,,1950
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,18,1950-reims,French Grand Prix,,,,,,5,52,,0.0,8,8,6,+12 Laps,,1950
+Talbot-Lago,lago,French,,levegh,Pierre Levegh,French,22,1950-reims,French Grand Prix,,,,,,9,36,,0.0,9,R,6,Engine,,1950
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,40,1950-reims,French Grand Prix,,,,,,10,14,,0.0,10,R,6,Engine,,1950
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,42,1950-reims,French Grand Prix,,,,,,14,11,,0.0,11,R,6,Overheating,,1950
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,20,1950-reims,French Grand Prix,,,,,,6,10,,0.0,12,R,6,Overheating,,1950
+Maserati,maserati,Italian,,reg_parnell,Reg Parnell,British,32,1950-reims,French Grand Prix,,,,,,11,9,,0.0,13,R,6,Engine,,1950
+Maserati,maserati,Italian,,rol,Franco Rol,Italian,28,1950-reims,French Grand Prix,,,,,,7,6,,0.0,14,R,6,Engine,,1950
+Maserati,maserati,Italian,,chiron,Louis Chiron,Monegasque,30,1950-reims,French Grand Prix,,,,,,13,6,,0.0,15,R,6,Engine,,1950
+Maserati,maserati,Italian,,hampshire,David Hampshire,British,34,1950-reims,French Grand Prix,,,,,,17,5,,0.0,16,R,6,Engine,,1950
+Talbot-Lago,lago,French,,sommer,Raymond Sommer,French,12,1950-reims,French Grand Prix,,,,,,16,4,,0.0,17,R,6,Overheating,,1950
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,36,1950-reims,French Grand Prix,,,,,,8,3,,0.0,18,R,6,Engine,,1950
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,10,1950-monza,Italian Grand Prix,,,,,,3,80,10277400,8.0,1,1,7,Finished,2:51:17.400,1950
+Ferrari,ferrari,Italian,,serafini,Dorino Serafini,Italian,48,1950-monza,Italian Grand Prix,,,,,,6,80,10356000,3.0,2,2,7,Finished,+1:18.600,1950
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,48,1950-monza,Italian Grand Prix,,,,,,6,80,,3.0,2,2,7,Finished,,1950
+Alfa Romeo,alfa,Swiss,,fagioli,Luigi Fagioli,Italian,36,1950-monza,Italian Grand Prix,,,,,,5,80,10373000,4.0,3,3,7,Finished,+1:35.600,1950
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,58,1950-monza,Italian Grand Prix,,,,,,13,75,,3.0,4,4,7,+5 Laps,,1950
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,24,1950-monza,Italian Grand Prix,,,,,,16,75,,2.0,5,5,7,+5 Laps,,1950
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,38,1950-monza,Italian Grand Prix,,,,,,17,72,,0.0,6,6,7,+8 Laps,,1950
+Ferrari,ferrari,Italian,,whitehead,Peter Whitehead,British,8,1950-monza,Italian Grand Prix,,,,,,18,72,,0.0,7,7,7,+8 Laps,,1950
+Maserati,maserati,Italian,,murray,David Murray,British,50,1950-monza,Italian Grand Prix,,,,,,24,56,,0.0,8,R,7,Gearbox,,1950
+ERA,era,British,,harrison,Cuth Harrison,British,32,1950-monza,Italian Grand Prix,,,,,,21,51,,0.0,9,R,7,Radiator,,1950
+Talbot-Lago,lago,French,,sommer,Raymond Sommer,French,12,1950-monza,Italian Grand Prix,,,,,,8,48,,0.0,10,R,7,Gearbox,,1950
+Talbot-Lago,lago,French,,guy_mairesse,Guy Mairesse,French,40,1950-monza,Italian Grand Prix,,,,,,11,42,,0.0,11,R,7,Oil pipe,,1950
+Maserati,maserati,Italian,,rol,Franco Rol,Italian,4,1950-monza,Italian Grand Prix,,,,,,9,39,,0.0,12,R,7,Retired,,1950
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,60,1950-monza,Italian Grand Prix,,,,,,7,34,,0.0,13,R,7,Engine,,1950
+Alfa Romeo,alfa,Swiss,,taruffi,Piero Taruffi,Italian,60,1950-monza,Italian Grand Prix,,,,,,7,34,,0.0,13,R,7,Engine,,1950
+Talbot-Lago,lago,French,,levegh,Pierre Levegh,French,56,1950-monza,Italian Grand Prix,,,,,,20,29,,0.0,14,R,7,Gearbox,,1950
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,18,1950-monza,Italian Grand Prix,,,,,,1,23,,1.0,15,R,7,Gearbox,,1950
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,2,1950-monza,Italian Grand Prix,,,,,,22,22,,0.0,16,R,7,Overheating,,1950
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,16,1950-monza,Italian Grand Prix,,,,,,2,21,,0.0,17,R,7,Engine,,1950
+Ferrari,ferrari,Italian,,biondetti,Clemente Biondetti,Italian,22,1950-monza,Italian Grand Prix,,,,,,25,17,,0.0,18,R,7,Engine,,1950
+Talbot-Lago,lago,French,,louveau,Henri Louveau,French,64,1950-monza,Italian Grand Prix,,,,,,16,16,,0.0,19,R,7,Brakes,,1950
+Maserati,maserati,Italian,,comotti,Franco Comotti,Italian,62,1950-monza,Italian Grand Prix,,,,,,26,15,,0.0,20,R,7,Retired,,1950
+Simca,simca,French,,trintignant,Maurice Trintignant,French,42,1950-monza,Italian Grand Prix,,,,,,12,13,,0.0,21,R,7,Water pipe,,1950
+Maserati,maserati,Italian,,chiron,Louis Chiron,Monegasque,6,1950-monza,Italian Grand Prix,,,,,,19,13,,0.0,22,R,7,Oil pressure,,1950
+Alfa Romeo,alfa,Swiss,,sanesi,Consalvo Sanesi,Italian,46,1950-monza,Italian Grand Prix,,,,,,4,11,,0.0,23,R,7,Engine,,1950
+Simca,simca,French,,manzon,Robert Manzon,French,44,1950-monza,Italian Grand Prix,,,,,,10,7,,0.0,24,R,7,Transmission,,1950
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,30,1950-monza,Italian Grand Prix,,,,,,15,1,,0.0,25,R,7,Engine,,1950
+Maserati,maserati,Italian,,pietsch,Paul Pietsch,German,28,1950-monza,Italian Grand Prix,,,,,,27,0,,0.0,26,R,7,Engine,,1950
+Milano,milano,Italian,,bonetto,Felice Bonetto,Italian,52,1950-monza,Italian Grand Prix,,,,,,23,0,,0.0,27,W,7,Withdrew,,1950

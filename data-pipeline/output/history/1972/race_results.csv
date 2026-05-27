@@ -1,0 +1,306 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,21,1972-buenos-aires,Argentine Grand Prix,,,,,,2,95,7079100,9.0,1,1,1,Finished,1:57:59.100,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,17,1972-buenos-aires,Argentine Grand Prix,,,,,,4,95,7105060,6.0,2,2,1,Finished,+25.960,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,8,1972-buenos-aires,Argentine Grand Prix,,,,,,8,95,7138490,4.0,3,3,1,Finished,+59.390,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,9,1972-buenos-aires,Argentine Grand Prix,,,,,,6,95,7145820,3.0,4,4,1,Finished,+1:06.720,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,19,1972-buenos-aires,Argentine Grand Prix,,,,,,11,95,7148210,2.0,5,5,1,Finished,+1:09.110,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,14,1972-buenos-aires,Argentine Grand Prix,,,,,,10,94,,1.0,6,6,1,+1 Lap,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,2,1972-buenos-aires,Argentine Grand Prix,,,,,,1,93,,0.0,7,7,1,+2 Laps,,1972
+March,march,British,,pescarolo,Henri Pescarolo,French,23,1972-buenos-aires,Argentine Grand Prix,,,,,,15,93,,0.0,8,8,1,+2 Laps,,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,3,1972-buenos-aires,Argentine Grand Prix,,,,,,13,93,,0.0,9,9,1,+2 Laps,,1972
+BRM,brm,British,,marko,Helmut Marko,Austrian,7,1972-buenos-aires,Argentine Grand Prix,,,,,,19,93,,0.0,10,10,1,+2 Laps,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,15,1972-buenos-aires,Argentine Grand Prix,,,,,,22,93,,0.0,11,11,1,+2 Laps,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,11,1972-buenos-aires,Argentine Grand Prix,,,,,,5,61,,0.0,12,R,1,Suspension,,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,22,1972-buenos-aires,Argentine Grand Prix,,,,,,17,59,,0.0,13,R,1,Gearbox,,1972
+BRM,brm,British,,wisell,Reine Wisell,Swedish,4,1972-buenos-aires,Argentine Grand Prix,,,,,,7,59,,0.0,14,R,1,Water leak,,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,18,1972-buenos-aires,Argentine Grand Prix,,,,,,3,49,,0.0,15,R,1,Engine,,1972
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,10,1972-buenos-aires,Argentine Grand Prix,,,,,,9,20,,0.0,16,R,1,Engine,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,20,1972-buenos-aires,Argentine Grand Prix,,,,,,14,11,,0.0,17,R,1,Fuel system,,1972
+Brabham,brabham,British,,hill,Graham Hill,British,1,1972-buenos-aires,Argentine Grand Prix,,,,,,16,11,,0.0,18,R,1,Fuel pump,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,12,1972-buenos-aires,Argentine Grand Prix,,,,,,20,8,,0.0,19,D,1,Disqualified,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,5,1972-buenos-aires,Argentine Grand Prix,,,,,,18,1,,0.0,20,R,1,Oil leak,,1972
+BRM,brm,British,,roig,Alex Soler-Roig,Spanish,6,1972-buenos-aires,Argentine Grand Prix,,,,,,21,1,,0.0,21,R,1,Accident,,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,16,1972-buenos-aires,Argentine Grand Prix,,,,,,12,0,,0.0,22,W,1,Withdrew,,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,12,1972-midrand,South African Grand Prix,,,,,,5,79,6349100,9.0,1,1,2,Finished,1:45:49.100,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,8,1972-midrand,South African Grand Prix,,,,,,3,79,6363200,6.0,2,2,2,Finished,+14.100,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,14,1972-midrand,South African Grand Prix,,,,,,12,79,6374900,4.0,3,3,2,Finished,+25.800,1972
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,7,1972-midrand,South African Grand Prix,,,,,,6,79,6387600,3.0,4,4,2,Finished,+38.500,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,3,1972-midrand,South African Grand Prix,,,,,,9,79,6398100,2.0,5,5,2,Finished,+49.000,1972
+Brabham,brabham,British,,hill,Graham Hill,British,19,1972-midrand,South African Grand Prix,,,,,,14,78,,1.0,6,6,2,+1 Lap,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,4,1972-midrand,South African Grand Prix,,,,,,21,78,,0.0,7,7,2,+1 Lap,,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,5,1972-midrand,South African Grand Prix,,,,,,7,78,,0.0,8,8,2,+1 Lap,,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,2,1972-midrand,South African Grand Prix,,,,,,8,78,,0.0,9,9,2,+1 Lap,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,9,1972-midrand,South African Grand Prix,,,,,,19,78,,0.0,10,10,2,+1 Lap,,1972
+March,march,British,,pescarolo,Henri Pescarolo,French,21,1972-midrand,South African Grand Prix,,,,,,22,78,,0.0,11,11,2,+1 Lap,,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,6,1972-midrand,South African Grand Prix,,,,,,2,77,,0.0,12,12,2,+2 Laps,,1972
+March,march,British,,stommelen,Rolf Stommelen,German,25,1972-midrand,South African Grand Prix,,,,,,25,77,,0.0,13,13,2,+2 Laps,,1972
+BRM,brm,British,,marko,Helmut Marko,Austrian,24,1972-midrand,South African Grand Prix,,,,,,23,76,,0.0,14,14,2,+3 Laps,,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,15,1972-midrand,South African Grand Prix,,,,,,13,76,,0.0,15,15,2,+3 Laps,,1972
+Surtees,surtees,British,,love,John Love,Rhodesian,27,1972-midrand,South African Grand Prix,,,,,,26,73,,0.0,16,16,2,Spun off,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,22,1972-midrand,South African Grand Prix,,,,,,24,73,,0.0,17,17,2,+6 Laps,,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,23,1972-midrand,South African Grand Prix,,,,,,16,70,,0.0,18,R,2,Not classified,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,18,1972-midrand,South African Grand Prix,,,,,,20,69,,0.0,19,R,2,Not classified,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,11,1972-midrand,South African Grand Prix,,,,,,18,65,,0.0,20,R,2,Not classified,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,10,1972-midrand,South African Grand Prix,,,,,,11,61,,0.0,21,R,2,Engine,,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-midrand,South African Grand Prix,,,,,,1,45,,0.0,22,R,2,Gearbox,,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,17,1972-midrand,South African Grand Prix,,,,,,4,28,,0.0,23,R,2,Suspension,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,20,1972-midrand,South African Grand Prix,,,,,,15,27,,0.0,24,R,2,Fuel system,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,16,1972-midrand,South African Grand Prix,,,,,,10,9,,0.0,25,R,2,Engine,,1972
+Team Lotus,team_lotus,British,,charlton,Dave Charlton,South African,26,1972-midrand,South African Grand Prix,,,,,,17,2,,0.0,26,R,2,Fuel pump,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1972-madrid,Spanish Grand Prix,,,,,,3,90,7421200,9.0,1,1,3,Finished,2:03:41.200,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1972-madrid,Spanish Grand Prix,,,,,,1,90,7440120,6.0,2,2,3,Finished,+18.920,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,6,1972-madrid,Spanish Grand Prix,,,,,,8,89,,4.0,3,3,3,+1 Lap,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,26,1972-madrid,Spanish Grand Prix,,,,,,13,89,,3.0,4,4,3,+1 Lap,,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,20,1972-madrid,Spanish Grand Prix,,,,,,11,89,,2.0,5,5,3,+1 Lap,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,29,1972-madrid,Spanish Grand Prix,,,,,,16,89,,1.0,6,6,3,+1 Lap,,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,22,1972-madrid,Spanish Grand Prix,,,,,,14,88,,0.0,7,7,3,+2 Laps,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,12,1972-madrid,Spanish Grand Prix,,,,,,18,88,,0.0,8,8,3,+2 Laps,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,21,1972-madrid,Spanish Grand Prix,,,,,,24,87,,0.0,9,9,3,+3 Laps,,1972
+Brabham,brabham,British,,hill,Graham Hill,British,18,1972-madrid,Spanish Grand Prix,,,,,,23,86,,0.0,10,10,3,+4 Laps,,1972
+March,march,British,,pescarolo,Henri Pescarolo,French,14,1972-madrid,Spanish Grand Prix,,,,,,19,86,,0.0,11,11,3,+4 Laps,,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-madrid,Spanish Grand Prix,,,,,,4,69,,0.0,12,R,3,Accident,,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,9,1972-madrid,Spanish Grand Prix,,,,,,6,66,,0.0,13,R,3,Gearbox,,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,3,1972-madrid,Spanish Grand Prix,,,,,,12,65,,0.0,14,R,3,Ignition,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,8,1972-madrid,Spanish Grand Prix,,,,,,21,65,,0.0,15,R,3,Engine,,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,11,1972-madrid,Spanish Grand Prix,,,,,,2,48,,0.0,16,R,3,Gearbox,,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,25,1972-madrid,Spanish Grand Prix,,,,,,20,38,,0.0,17,R,3,Engine,,1972
+BRM,brm,British,,wisell,Reine Wisell,Swedish,10,1972-madrid,Spanish Grand Prix,,,,,,10,24,,0.0,18,R,3,Accident,,1972
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,7,1972-madrid,Spanish Grand Prix,,,,,,5,23,,0.0,19,R,3,Oil pressure,,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,15,1972-madrid,Spanish Grand Prix,,,,,,15,20,,0.0,20,R,3,Electrical,,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,2,1972-madrid,Spanish Grand Prix,,,,,,9,16,,0.0,21,R,3,Fuel leak,,1972
+March,march,British,,stommelen,Rolf Stommelen,German,16,1972-madrid,Spanish Grand Prix,,,,,,17,15,,0.0,22,R,3,Accident,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,19,1972-madrid,Spanish Grand Prix,,,,,,7,9,,0.0,23,R,3,Gearbox,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,24,1972-madrid,Spanish Grand Prix,,,,,,25,7,,0.0,24,R,3,Differential,,1972
+BRM,brm,British,,roig,Alex Soler-Roig,Spanish,28,1972-madrid,Spanish Grand Prix,,,,,,22,6,,0.0,25,R,3,Accident,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,17,1972-monte-carlo,Monaco Grand Prix,,,,,,4,80,8815300,9.0,1,1,4,Finished,2:26:55.300,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,6,1972-monte-carlo,Monaco Grand Prix,,,,,,2,80,8853500,6.0,2,2,4,Finished,+38.200,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,8,1972-monte-carlo,Monaco Grand Prix,,,,,,1,79,,4.0,3,3,4,+1 Lap,,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-monte-carlo,Monaco Grand Prix,,,,,,8,78,,3.0,4,4,4,+2 Laps,,1972
+McLaren,mclaren,British,,redman,Brian Redman,British,15,1972-monte-carlo,Monaco Grand Prix,,,,,,10,77,,2.0,5,5,4,+3 Laps,,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,16,1972-monte-carlo,Monaco Grand Prix,,,,,,6,77,,1.0,6,6,4,+3 Laps,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,12,1972-monte-carlo,Monaco Grand Prix,,,,,,18,77,,0.0,7,7,4,+3 Laps,,1972
+BRM,brm,British,,marko,Helmut Marko,Austrian,26,1972-monte-carlo,Monaco Grand Prix,,,,,,17,77,,0.0,8,8,4,+3 Laps,,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,21,1972-monte-carlo,Monaco Grand Prix,,,,,,21,77,,0.0,9,9,4,+3 Laps,,1972
+March,march,British,,stommelen,Rolf Stommelen,German,27,1972-monte-carlo,Monaco Grand Prix,,,,,,25,77,,0.0,10,10,4,+3 Laps,,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,3,1972-monte-carlo,Monaco Grand Prix,,,,,,15,76,,0.0,11,11,4,+4 Laps,,1972
+Brabham,brabham,British,,hill,Graham Hill,British,20,1972-monte-carlo,Monaco Grand Prix,,,,,,20,76,,0.0,12,12,4,+4 Laps,,1972
+March,march,British,,beuttler,Mike Beuttler,British,5,1972-monte-carlo,Monaco Grand Prix,,,,,,23,76,,0.0,13,13,4,+4 Laps,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,9,1972-monte-carlo,Monaco Grand Prix,,,,,,14,75,,0.0,14,14,4,+5 Laps,,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,14,1972-monte-carlo,Monaco Grand Prix,,,,,,7,74,,0.0,15,15,4,+6 Laps,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,4,1972-monte-carlo,Monaco Grand Prix,,,,,,22,74,,0.0,16,16,4,+6 Laps,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,23,1972-monte-carlo,Monaco Grand Prix,,,,,,24,72,,0.0,17,17,4,+8 Laps,,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,2,1972-monte-carlo,Monaco Grand Prix,,,,,,12,70,,0.0,18,R,4,Not classified,,1972
+March,march,British,,pescarolo,Henri Pescarolo,French,22,1972-monte-carlo,Monaco Grand Prix,,,,,,9,58,,0.0,19,R,4,Accident,,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,7,1972-monte-carlo,Monaco Grand Prix,,,,,,3,51,,0.0,20,R,4,Accident,,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,11,1972-monte-carlo,Monaco Grand Prix,,,,,,11,48,,0.0,21,R,4,Accident,,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,19,1972-monte-carlo,Monaco Grand Prix,,,,,,20,47,,0.0,22,R,4,Accident,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,10,1972-monte-carlo,Monaco Grand Prix,,,,,,13,31,,0.0,23,R,4,Accident,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,18,1972-monte-carlo,Monaco Grand Prix,,,,,,5,27,,0.0,24,R,4,Accident,,1972
+BRM,brm,British,,wisell,Reine Wisell,Swedish,28,1972-monte-carlo,Monaco Grand Prix,,,,,,16,16,,0.0,25,R,4,Engine,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,32,1972-brussels,Belgian Grand Prix,,,,,,1,85,6247300,9.0,1,1,5,Finished,1:44:07.300,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,8,1972-brussels,Belgian Grand Prix,,,,,,5,85,6273900,6.0,2,2,5,Finished,+26.600,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,9,1972-brussels,Belgian Grand Prix,,,,,,3,85,6305400,4.0,3,3,5,Finished,+58.100,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,34,1972-brussels,Belgian Grand Prix,,,,,,8,85,6319300,3.0,4,4,5,Finished,+1:12.000,1972
+March,march,British,,pace,Carlos Pace,Brazilian,16,1972-brussels,Belgian Grand Prix,,,,,,11,84,,2.0,5,5,5,+1 Lap,,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,5,1972-brussels,Belgian Grand Prix,,,,,,13,84,,1.0,6,6,5,+1 Lap,,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,10,1972-brussels,Belgian Grand Prix,,,,,,7,83,,0.0,7,7,5,+2 Laps,,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,25,1972-brussels,Belgian Grand Prix,,,,,,15,83,,0.0,8,8,5,+2 Laps,,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,11,1972-brussels,Belgian Grand Prix,,,,,,14,83,,0.0,9,9,5,+2 Laps,,1972
+BRM,brm,British,,marko,Helmut Marko,Austrian,27,1972-brussels,Belgian Grand Prix,,,,,,23,83,,0.0,10,10,5,+2 Laps,,1972
+March,march,British,,stommelen,Rolf Stommelen,German,6,1972-brussels,Belgian Grand Prix,,,,,,20,83,,0.0,11,11,5,+2 Laps,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,12,1972-brussels,Belgian Grand Prix,,,,,,25,82,,0.0,12,12,5,+3 Laps,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,19,1972-brussels,Belgian Grand Prix,,,,,,9,81,,0.0,13,13,5,+4 Laps,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,33,1972-brussels,Belgian Grand Prix,,,,,,12,79,,0.0,14,14,5,+6 Laps,,1972
+Brabham,brabham,British,,hill,Graham Hill,British,17,1972-brussels,Belgian Grand Prix,,,,,,16,73,,0.0,15,R,5,Suspension,,1972
+March,march,British,,pescarolo,Henri Pescarolo,French,15,1972-brussels,Belgian Grand Prix,,,,,,19,59,,0.0,16,R,5,Not classified,,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,30,1972-brussels,Belgian Grand Prix,,,,,,2,57,,0.0,17,R,5,Accident,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,36,1972-brussels,Belgian Grand Prix,,,,,,10,55,,0.0,18,R,5,Engine,,1972
+Tecno,tecno,Italian,,galli,Nanni Galli,Italian,22,1972-brussels,Belgian Grand Prix,,,,,,24,54,,0.0,19,R,5,Accident,,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,29,1972-brussels,Belgian Grand Prix,,,,,,4,47,,0.0,20,R,5,Injection,,1972
+March,march,British,,beuttler,Mike Beuttler,British,14,1972-brussels,Belgian Grand Prix,,,,,,22,31,,0.0,21,R,5,Halfshaft,,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,18,1972-brussels,Belgian Grand Prix,,,,,,18,28,,0.0,22,R,5,Gearbox,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,24,1972-brussels,Belgian Grand Prix,,,,,,17,27,,0.0,23,R,5,Fuel pump,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,23,1972-brussels,Belgian Grand Prix,,,,,,6,15,,0.0,24,R,5,Overheating,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,35,1972-brussels,Belgian Grand Prix,,,,,,21,11,,0.0,25,R,5,Overheating,,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,4,1972-clermont-ferrand,French Grand Prix,,,,,,3,38,6742500,9.0,1,1,6,Finished,1:52:22.500,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1972-clermont-ferrand,French Grand Prix,,,,,,8,38,6770200,6.0,2,2,6,Finished,+27.700,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,9,1972-clermont-ferrand,French Grand Prix,,,,,,1,38,6774400,4.0,3,3,6,Finished,+31.900,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,7,1972-clermont-ferrand,French Grand Prix,,,,,,7,38,6791800,3.0,4,4,6,Finished,+49.300,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,12,1972-clermont-ferrand,French Grand Prix,,,,,,9,38,6799300,2.0,5,5,6,Finished,+56.800,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,26,1972-clermont-ferrand,French Grand Prix,,,,,,10,38,6838600,1.0,6,6,6,Finished,+1:36.100,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,2,1972-clermont-ferrand,French Grand Prix,,,,,,2,38,6850600,0.0,7,7,6,Finished,+1:48.100,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,19,1972-clermont-ferrand,French Grand Prix,,,,,,14,38,6887600,0.0,8,8,6,Finished,+2:25.100,1972
+McLaren,mclaren,British,,redman,Brian Redman,British,11,1972-clermont-ferrand,French Grand Prix,,,,,,13,38,6918000,0.0,9,9,6,Finished,+2:55.500,1972
+Brabham,brabham,British,,hill,Graham Hill,British,18,1972-clermont-ferrand,French Grand Prix,,,,,,20,38,6922000,0.0,10,10,6,Finished,+2:59.500,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1972-clermont-ferrand,French Grand Prix,,,,,,4,37,,0.0,11,11,6,+1 Lap,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,20,1972-clermont-ferrand,French Grand Prix,,,,,,17,37,,0.0,12,12,6,+1 Lap,,1972
+Ferrari,ferrari,Italian,,galli,Nanni Galli,Italian,30,1972-clermont-ferrand,French Grand Prix,,,,,,19,37,,0.0,13,13,6,+1 Lap,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,28,1972-clermont-ferrand,French Grand Prix,,,,,,12,37,,0.0,14,14,6,+1 Lap,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,5,1972-clermont-ferrand,French Grand Prix,,,,,,24,37,,0.0,15,15,6,+1 Lap,,1972
+March,march,British,,stommelen,Rolf Stommelen,German,10,1972-clermont-ferrand,French Grand Prix,,,,,,15,37,,0.0,16,16,6,+1 Lap,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,27,1972-clermont-ferrand,French Grand Prix,,,,,,5,36,,0.0,17,17,6,+2 Laps,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,6,1972-clermont-ferrand,French Grand Prix,,,,,,22,34,,0.0,18,18,6,Halfshaft,,1972
+March,march,British,,beuttler,Mike Beuttler,British,15,1972-clermont-ferrand,French Grand Prix,,,,,,23,33,,0.0,19,19,6,Out of fuel,,1972
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,8,1972-clermont-ferrand,French Grand Prix,,,,,,16,33,,0.0,20,R,6,Not classified,,1972
+BRM,brm,British,,wisell,Reine Wisell,Swedish,24,1972-clermont-ferrand,French Grand Prix,,,,,,18,25,,0.0,21,R,6,Gearbox,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,17,1972-clermont-ferrand,French Grand Prix,,,,,,11,18,,0.0,22,R,6,Engine,,1972
+BRM,brm,British,,marko,Helmut Marko,Austrian,25,1972-clermont-ferrand,French Grand Prix,,,,,,6,8,,0.0,23,R,6,Eye injury,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,14,1972-clermont-ferrand,French Grand Prix,,,,,,21,4,,0.0,24,R,6,Halfshaft,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,8,1972-kent,British Grand Prix,,,,,,2,76,6470200,9.0,1,1,7,Finished,1:47:50.200,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-kent,British Grand Prix,,,,,,4,76,6474300,6.0,2,2,7,Finished,+4.100,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,19,1972-kent,British Grand Prix,,,,,,3,76,6542700,4.0,3,3,7,Finished,+1:12.500,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,17,1972-kent,British Grand Prix,,,,,,17,75,,3.0,4,4,7,+1 Lap,,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,18,1972-kent,British Grand Prix,,,,,,11,75,,2.0,5,5,7,+1 Lap,,1972
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,6,1972-kent,British Grand Prix,,,,,,9,75,,1.0,6,6,7,+1 Lap,,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,3,1972-kent,British Grand Prix,,,,,,8,74,,0.0,7,7,7,Spun off,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,27,1972-kent,British Grand Prix,,,,,,10,73,,0.0,8,8,7,+3 Laps,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,4,1972-kent,British Grand Prix,,,,,,19,73,,0.0,9,9,7,+3 Laps,,1972
+March,march,British,,stommelen,Rolf Stommelen,German,33,1972-kent,British Grand Prix,,,,,,25,71,,0.0,10,10,7,+5 Laps,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,11,1972-kent,British Grand Prix,,,,,,6,70,,0.0,11,11,7,+6 Laps,,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,28,1972-kent,British Grand Prix,,,,,,22,69,,0.0,12,12,7,Suspension,,1972
+March,march,British,,beuttler,Mike Beuttler,British,31,1972-kent,British Grand Prix,,,,,,23,69,,0.0,13,13,7,+7 Laps,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,22,1972-kent,British Grand Prix,,,,,,5,64,,0.0,14,R,7,Suspension,,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,2,1972-kent,British Grand Prix,,,,,,12,60,,0.0,15,R,7,Spun off,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,9,1972-kent,British Grand Prix,,,,,,15,59,,0.0,16,R,7,Suspension,,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,5,1972-kent,British Grand Prix,,,,,,1,49,,0.0,17,R,7,Oil pressure,,1972
+Brabham,brabham,British,,hill,Graham Hill,British,26,1972-kent,British Grand Prix,,,,,,21,47,,0.0,18,R,7,Spun off,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,25,1972-kent,British Grand Prix,,,,,,13,39,,0.0,19,R,7,Differential,,1972
+BRM,brm,British,,oliver,Jackie Oliver,British,14,1972-kent,British Grand Prix,,,,,,14,36,,0.0,20,R,7,Suspension,,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,21,1972-kent,British Grand Prix,,,,,,7,31,,0.0,21,R,7,Gearbox,,1972
+Team Lotus,team_lotus,British,,charlton,Dave Charlton,South African,29,1972-kent,British Grand Prix,,,,,,24,21,,0.0,22,R,7,Gearbox,,1972
+Tecno,tecno,Italian,,galli,Nanni Galli,Italian,30,1972-kent,British Grand Prix,,,,,,18,9,,0.0,23,R,7,Spun off,,1972
+Politoys,politoys,British,,pescarolo,Henri Pescarolo,French,24,1972-kent,British Grand Prix,,,,,,26,7,,0.0,24,R,7,Accident,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,12,1972-kent,British Grand Prix,,,,,,16,5,,0.0,25,R,7,Engine,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,23,1972-kent,British Grand Prix,,,,,,20,3,,0.0,26,R,7,Accident,,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1972-n-rburg,German Grand Prix,,,,,,1,14,6132300,9.0,1,1,8,Finished,1:42:12.300,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,9,1972-n-rburg,German Grand Prix,,,,,,7,14,6180600,6.0,2,2,8,Finished,+48.300,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1972-n-rburg,German Grand Prix,,,,,,4,14,6199000,4.0,3,3,8,Finished,+1:06.700,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,17,1972-n-rburg,German Grand Prix,,,,,,18,14,6272500,3.0,4,4,8,Finished,+2:20.200,1972
+McLaren,mclaren,British,,redman,Brian Redman,British,5,1972-n-rburg,German Grand Prix,,,,,,19,14,6288000,2.0,5,5,8,Finished,+2:35.700,1972
+Brabham,brabham,British,,hill,Graham Hill,British,11,1972-n-rburg,German Grand Prix,,,,,,15,14,6311900,1.0,6,6,8,Finished,+2:59.600,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,26,1972-n-rburg,German Grand Prix,,,,,,21,14,6312400,0.0,7,7,8,Finished,+3:00.100,1972
+March,march,British,,beuttler,Mike Beuttler,British,28,1972-n-rburg,German Grand Prix,,,,,,27,14,6443000,0.0,8,8,8,Finished,+5:10.700,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,6,1972-n-rburg,German Grand Prix,,,,,,13,14,6452500,0.0,9,9,8,Finished,+5:20.200,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,7,1972-n-rburg,German Grand Prix,,,,,,5,14,6476000,0.0,10,10,8,Finished,+5:43.700,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-n-rburg,German Grand Prix,,,,,,2,13,,0.0,11,11,8,Collision,,1972
+Ferrari,ferrari,Italian,,merzario,Arturo Merzario,Italian,19,1972-n-rburg,German Grand Prix,,,,,,22,13,,0.0,12,12,8,+1 Lap,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,16,1972-n-rburg,German Grand Prix,,,,,,20,13,,0.0,13,13,8,+1 Lap,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,15,1972-n-rburg,German Grand Prix,,,,,,12,13,,0.0,14,14,8,+1 Lap,,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,8,1972-n-rburg,German Grand Prix,,,,,,8,13,,0.0,15,15,8,+1 Lap,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,21,1972-n-rburg,German Grand Prix,,,,,,11,11,,0.0,16,R,8,Not classified,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,2,1972-n-rburg,German Grand Prix,,,,,,3,10,,0.0,17,R,8,Gearbox,,1972
+March,march,British,,pescarolo,Henri Pescarolo,French,20,1972-n-rburg,German Grand Prix,,,,,,9,10,,0.0,18,R,8,Accident,,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,3,1972-n-rburg,German Grand Prix,,,,,,10,8,,0.0,19,R,8,Engine,,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,14,1972-n-rburg,German Grand Prix,,,,,,16,8,,0.0,20,R,8,Suspension,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,12,1972-n-rburg,German Grand Prix,,,,,,6,6,,0.0,21,R,8,Differential,,1972
+March,march,British,,stommelen,Rolf Stommelen,German,22,1972-n-rburg,German Grand Prix,,,,,,14,6,,0.0,22,R,8,Electrical,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,25,1972-n-rburg,German Grand Prix,,,,,,23,6,,0.0,23,R,8,Oil leak,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,23,1972-n-rburg,German Grand Prix,,,,,,24,4,,0.0,24,R,8,Oil leak,,1972
+Tecno,tecno,Italian,,bell,Derek Bell,British,27,1972-n-rburg,German Grand Prix,,,,,,25,4,,0.0,25,R,8,Engine,,1972
+Team Lotus,team_lotus,British,,charlton,Dave Charlton,South African,29,1972-n-rburg,German Grand Prix,,,,,,26,4,,0.0,26,R,8,Physical,,1972
+BRM,brm,British,,wisell,Reine Wisell,Swedish,18,1972-n-rburg,German Grand Prix,,,,,,17,3,,0.0,27,R,8,Engine,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,31,1972-spielberg,Austrian Grand Prix,,,,,,1,54,5356660,9.0,1,1,9,Finished,1:29:16.660,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,12,1972-spielberg,Austrian Grand Prix,,,,,,7,54,5357840,6.0,2,2,9,Finished,+1.180,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,14,1972-spielberg,Austrian Grand Prix,,,,,,4,54,5393190,4.0,3,3,9,Finished,+36.530,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,25,1972-spielberg,Austrian Grand Prix,,,,,,12,54,5401420,3.0,4,4,9,Finished,+44.760,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,10,1972-spielberg,Austrian Grand Prix,,,,,,6,54,5402300,2.0,5,5,9,Finished,+45.640,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,9,1972-spielberg,Austrian Grand Prix,,,,,,10,54,5417850,1.0,6,6,9,Finished,+1:01.190,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-spielberg,Austrian Grand Prix,,,,,,3,54,5425750,0.0,7,7,9,Finished,+1:09.090,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,7,1972-spielberg,Austrian Grand Prix,,,,,,21,54,5438110,0.0,8,8,9,Finished,+1:21.450,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,2,1972-spielberg,Austrian Grand Prix,,,,,,20,53,,0.0,9,9,9,+1 Lap,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,4,1972-spielberg,Austrian Grand Prix,,,,,,22,53,,0.0,10,10,9,+1 Lap,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,24,1972-spielberg,Austrian Grand Prix,,,,,,8,52,,0.0,11,11,9,+2 Laps,,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,5,1972-spielberg,Austrian Grand Prix,,,,,,11,52,,0.0,12,12,9,+2 Laps,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,6,1972-spielberg,Austrian Grand Prix,,,,,,16,51,,0.0,13,13,9,+3 Laps,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,11,1972-spielberg,Austrian Grand Prix,,,,,,13,51,,0.0,14,14,9,+3 Laps,,1972
+March,march,British,,stommelen,Rolf Stommelen,German,27,1972-spielberg,Austrian Grand Prix,,,,,,17,48,,0.0,15,R,9,Engine,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,23,1972-spielberg,Austrian Grand Prix,,,,,,18,46,,0.0,16,R,9,Not classified,,1972
+Tecno,tecno,Italian,,galli,Nanni Galli,Italian,15,1972-spielberg,Austrian Grand Prix,,,,,,23,45,,0.0,17,R,9,Oil leak,,1972
+Brabham,brabham,British,,hill,Graham Hill,British,16,1972-spielberg,Austrian Grand Prix,,,,,,14,36,,0.0,18,R,9,Injection,,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,28,1972-spielberg,Austrian Grand Prix,,,,,,15,31,,0.0,19,R,9,Brakes,,1972
+March,march,British,,beuttler,Mike Beuttler,British,3,1972-spielberg,Austrian Grand Prix,,,,,,24,24,,0.0,20,R,9,Fuel system,,1972
+Connew,connew,British,,migault,François Migault,French,29,1972-spielberg,Austrian Grand Prix,,,,,,25,22,,0.0,21,R,9,Suspension,,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,18,1972-spielberg,Austrian Grand Prix,,,,,,9,20,,0.0,22,R,9,Fuel system,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,17,1972-spielberg,Austrian Grand Prix,,,,,,5,14,,0.0,23,R,9,Injection,,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,19,1972-spielberg,Austrian Grand Prix,,,,,,2,13,,0.0,24,R,9,Fuel system,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,21,1972-spielberg,Austrian Grand Prix,,,,,,19,6,,0.0,25,R,9,Engine,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,6,1972-monza,Italian Grand Prix,,,,,,4,55,5398400,9.0,1,1,10,Finished,1:29:58.400,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,10,1972-monza,Italian Grand Prix,,,,,,9,55,5412900,6.0,2,2,10,Finished,+14.500,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,14,1972-monza,Italian Grand Prix,,,,,,5,55,5422200,4.0,3,3,10,Finished,+23.800,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,15,1972-monza,Italian Grand Prix,,,,,,8,55,5434100,3.0,4,4,10,Finished,+35.700,1972
+Brabham,brabham,British,,hill,Graham Hill,British,28,1972-monza,Italian Grand Prix,,,,,,13,55,5464000,2.0,5,5,10,Finished,+1:05.600,1972
+BRM,brm,British,,gethin,Peter Gethin,British,23,1972-monza,Italian Grand Prix,,,,,,12,55,5480300,1.0,6,6,10,Finished,+1:21.900,1972
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,3,1972-monza,Italian Grand Prix,,,,,,7,54,,0.0,7,7,10,+1 Lap,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,21,1972-monza,Italian Grand Prix,,,,,,16,54,,0.0,8,8,10,+1 Lap,,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,19,1972-monza,Italian Grand Prix,,,,,,24,54,,0.0,9,9,10,+1 Lap,,1972
+March,march,British,,beuttler,Mike Beuttler,British,16,1972-monza,Italian Grand Prix,,,,,,25,54,,0.0,10,10,10,+1 Lap,,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,22,1972-monza,Italian Grand Prix,,,,,,17,52,,0.0,11,11,10,+3 Laps,,1972
+BRM,brm,British,,wisell,Reine Wisell,Swedish,24,1972-monza,Italian Grand Prix,,,,,,10,51,,0.0,12,12,10,+4 Laps,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,18,1972-monza,Italian Grand Prix,,,,,,20,50,,0.0,13,13,10,+5 Laps,,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1972-monza,Italian Grand Prix,,,,,,1,46,,0.0,14,R,10,Electrical,,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,20,1972-monza,Italian Grand Prix,,,,,,2,38,,0.0,15,R,10,Brakes,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,9,1972-monza,Italian Grand Prix,,,,,,21,33,,0.0,16,R,10,Brakes,,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,29,1972-monza,Italian Grand Prix,,,,,,19,20,,0.0,17,R,10,Suspension,,1972
+Surtees,surtees,British,,surtees,John Surtees,British,7,1972-monza,Italian Grand Prix,,,,,,22,20,,0.0,18,R,10,Fuel system,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,8,1972-monza,Italian Grand Prix,,,,,,15,20,,0.0,19,R,10,Spun off,,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1972-monza,Italian Grand Prix,,,,,,4,16,,0.0,20,R,10,Collision,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,26,1972-monza,Italian Grand Prix,,,,,,18,15,,0.0,21,R,10,Collision,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,30,1972-monza,Italian Grand Prix,,,,,,11,14,,0.0,22,R,10,Suspension,,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,2,1972-monza,Italian Grand Prix,,,,,,14,14,,0.0,23,R,10,Engine,,1972
+Tecno,tecno,Italian,,galli,Nanni Galli,Italian,11,1972-monza,Italian Grand Prix,,,,,,23,6,,0.0,24,R,10,Engine,,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-monza,Italian Grand Prix,,,,,,3,0,,0.0,25,R,10,Clutch,,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-ontario,Canadian Grand Prix,,,,,,5,80,6197100,9.0,1,1,11,Finished,1:43:17.100,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,19,1972-ontario,Canadian Grand Prix,,,,,,1,80,6245300,6.0,2,2,11,Finished,+48.200,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,18,1972-ontario,Canadian Grand Prix,,,,,,2,80,6251700,4.0,3,3,11,Finished,+54.600,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,8,1972-ontario,Canadian Grand Prix,,,,,,9,80,6257800,3.0,4,4,11,Finished,+1:00.700,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1972-ontario,Canadian Grand Prix,,,,,,7,80,6264100,2.0,5,5,11,Finished,+1:07.000,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,4,1972-ontario,Canadian Grand Prix,,,,,,10,79,,1.0,6,6,11,+1 Lap,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,22,1972-ontario,Canadian Grand Prix,,,,,,13,79,,0.0,7,7,11,+1 Lap,,1972
+Brabham,brabham,British,,hill,Graham Hill,British,7,1972-ontario,Canadian Grand Prix,,,,,,17,79,,0.0,8,8,11,+1 Lap,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,29,1972-ontario,Canadian Grand Prix,,,,,,18,78,,0.0,9,9,11,Out of fuel,,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,15,1972-ontario,Canadian Grand Prix,,,,,,14,78,,0.0,10,10,11,+2 Laps,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1972-ontario,Canadian Grand Prix,,,,,,4,78,,0.0,11,11,11,+2 Laps,,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,10,1972-ontario,Canadian Grand Prix,,,,,,8,76,,0.0,12,12,11,+4 Laps,,1972
+March,march,British,,pescarolo,Henri Pescarolo,French,28,1972-ontario,Canadian Grand Prix,,,,,,21,73,,0.0,13,13,11,+7 Laps,,1972
+Team Lotus,team_lotus,British,,wisell,Reine Wisell,Swedish,6,1972-ontario,Canadian Grand Prix,,,,,,16,65,,0.0,14,R,11,Engine,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,26,1972-ontario,Canadian Grand Prix,,,,,,19,64,,0.0,15,D,11,Disqualified,,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,25,1972-ontario,Canadian Grand Prix,,,,,,3,61,,0.0,16,R,11,Collision,,1972
+March,march,British,,beuttler,Mike Beuttler,British,27,1972-ontario,Canadian Grand Prix,,,,,,24,59,,0.0,17,R,11,Not classified,,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,2,1972-ontario,Canadian Grand Prix,,,,,,6,51,,0.0,18,R,11,Gearbox,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,16,1972-ontario,Canadian Grand Prix,,,,,,12,25,,0.0,19,R,11,Suspension,,1972
+March,march,British,,barber,Skip Barber,American,33,1972-ontario,Canadian Grand Prix,,,,,,22,24,,0.0,20,R,11,Not classified,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1972-ontario,Canadian Grand Prix,,,,,,20,21,,0.0,21,R,11,Oil leak,,1972
+BRM,brm,British,,brack,Bill Brack,Canadian,17,1972-ontario,Canadian Grand Prix,,,,,,23,20,,0.0,22,R,11,Spun off,,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,9,1972-ontario,Canadian Grand Prix,,,,,,11,5,,0.0,23,R,11,Gearbox,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,23,1972-ontario,Canadian Grand Prix,,,,,,15,2,,0.0,24,R,11,Gearbox,,1972
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1972-new-york-state,United States Grand Prix,,,,,,1,59,6105354,9.0,1,1,12,Finished,1:41:45.354,1972
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,2,1972-new-york-state,United States Grand Prix,,,,,,4,59,6137622,6.0,2,2,12,Finished,+32.268,1972
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,19,1972-new-york-state,United States Grand Prix,,,,,,3,59,6142882,4.0,3,3,12,Finished,+37.528,1972
+March,march,British,,peterson,Ronnie Peterson,Swedish,4,1972-new-york-state,United States Grand Prix,,,,,,26,59,6187870,3.0,4,4,12,Finished,+1:22.516,1972
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,7,1972-new-york-state,United States Grand Prix,,,,,,12,59,6188473,2.0,5,5,12,Finished,+1:23.119,1972
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,9,1972-new-york-state,United States Grand Prix,,,,,,10,58,,1.0,6,6,12,+1 Lap,,1972
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,3,1972-new-york-state,United States Grand Prix,,,,,,11,58,,0.0,7,7,12,+1 Lap,,1972
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,8,1972-new-york-state,United States Grand Prix,,,,,,6,58,,0.0,8,8,12,+1 Lap,,1972
+McLaren,mclaren,British,,scheckter,Jody Scheckter,South African,21,1972-new-york-state,United States Grand Prix,,,,,,8,58,,0.0,9,9,12,+1 Lap,,1972
+Team Lotus,team_lotus,British,,wisell,Reine Wisell,Swedish,12,1972-new-york-state,United States Grand Prix,,,,,,16,57,,0.0,10,10,12,+2 Laps,,1972
+Brabham,brabham,British,,hill,Graham Hill,British,28,1972-new-york-state,United States Grand Prix,,,,,,27,57,,0.0,11,11,12,+2 Laps,,1972
+Surtees,surtees,British,,posey,Sam Posey,American,34,1972-new-york-state,United States Grand Prix,,,,,,22,57,,0.0,12,12,12,+2 Laps,,1972
+March,march,British,,beuttler,Mike Beuttler,British,6,1972-new-york-state,United States Grand Prix,,,,,,20,57,,0.0,13,13,12,+2 Laps,,1972
+March,march,British,,pescarolo,Henri Pescarolo,French,26,1972-new-york-state,United States Grand Prix,,,,,,21,57,,0.0,14,14,12,+2 Laps,,1972
+Matra,matra,French,,amon,Chris Amon,New Zealander,18,1972-new-york-state,United States Grand Prix,,,,,,7,57,,0.0,15,15,12,+2 Laps,,1972
+March,march,British,,barber,Skip Barber,American,33,1972-new-york-state,United States Grand Prix,,,,,,20,57,,0.0,16,16,12,+2 Laps,,1972
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,23,1972-new-york-state,United States Grand Prix,,,,,,14,56,,0.0,17,17,12,Collision,,1972
+McLaren,mclaren,British,,revson,Peter Revson,American,20,1972-new-york-state,United States Grand Prix,,,,,,2,54,,0.0,18,18,12,Electrical,,1972
+March,march,British,,lauda,Niki Lauda,Austrian,5,1972-new-york-state,United States Grand Prix,,,,,,25,49,,0.0,19,19,12,Not classified,,1972
+March,march,British,,pace,Carlos Pace,Brazilian,27,1972-new-york-state,United States Grand Prix,,,,,,15,48,,0.0,20,R,12,Fuel system,,1972
+BRM,brm,British,,gethin,Peter Gethin,British,14,1972-new-york-state,United States Grand Prix,,,,,,28,47,,0.0,21,R,12,Engine,,1972
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,16,1972-new-york-state,United States Grand Prix,,,,,,17,44,,0.0,22,R,12,Engine,,1972
+Team Lotus,team_lotus,British,,walker,David Walker,Australian,11,1972-new-york-state,United States Grand Prix,,,,,,30,44,,0.0,23,R,12,Engine,,1972
+Brabham,brabham,British,,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,30,1972-new-york-state,United States Grand Prix,,,,,,13,43,,0.0,24,R,12,Engine,,1972
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,17,1972-new-york-state,United States Grand Prix,,,,,,18,40,,0.0,25,R,12,Ignition,,1972
+BRM,brm,British,,redman,Brian Redman,British,15,1972-new-york-state,United States Grand Prix,,,,,,24,34,,0.0,26,R,12,Engine,,1972
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,29,1972-new-york-state,United States Grand Prix,,,,,,5,31,,0.0,27,R,12,Engine,,1972
+Surtees,surtees,British,,adamich,Andrea de Adamich,Italian,25,1972-new-york-state,United States Grand Prix,,,,,,19,25,,0.0,28,R,12,Collision,,1972
+Surtees,surtees,British,,schenken,Tim Schenken,Australian,24,1972-new-york-state,United States Grand Prix,,,,,,31,22,,0.0,29,R,12,Suspension,,1972
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,10,1972-new-york-state,United States Grand Prix,,,,,,9,17,,0.0,30,R,12,Suspension,,1972
+Tecno,tecno,Italian,,bell,Derek Bell,British,31,1972-new-york-state,United States Grand Prix,,,,,,29,8,,0.0,31,R,12,Engine,,1972

@@ -1,0 +1,33 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,prost,Alain Prost,French,,72.0,1,1,4,1986
+"[""williams""]","[""Williams""]",,mansell,Nigel Mansell,British,,70.0,2,2,5,1986
+"[""williams""]","[""Williams""]",,piquet,Nelson Piquet,Brazilian,,69.0,3,3,4,1986
+"[""team_lotus""]","[""Team Lotus""]",,senna,Ayrton Senna,Brazilian,,55.0,4,4,2,1986
+"[""ferrari""]","[""Ferrari""]",,johansson,Stefan Johansson,Swedish,,23.0,5,5,0,1986
+"[""mclaren""]","[""McLaren""]",,keke_rosberg,Keke Rosberg,Finnish,,22.0,6,6,0,1986
+"[""benetton""]","[""Benetton""]",,berger,Gerhard Berger,Austrian,,17.0,7,7,1,1986
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,14.0,8,8,0,1986
+"[""ferrari""]","[""Ferrari""]",,alboreto,Michele Alboreto,Italian,,14.0,9,9,0,1986
+"[""ligier""]","[""Ligier""]",,arnoux,René Arnoux,French,,14.0,10,10,0,1986
+"[""tyrrell""]","[""Tyrrell""]",,brundle,Martin Brundle,British,,8.0,11,11,0,1986
+"[""lola""]","[""Lola""]",,jones,Alan Jones,Australian,,4.0,12,12,0,1986
+"[""team_lotus""]","[""Team Lotus""]",,dumfries,Johnny Dumfries,British,,3.0,13,13,0,1986
+"[""tyrrell""]","[""Tyrrell""]",,streiff,Philippe Streiff,French,,3.0,14,14,0,1986
+"[""lola""]","[""Lola""]",,tambay,Patrick Tambay,French,,2.0,15,15,0,1986
+"[""benetton""]","[""Benetton""]",,fabi,Teo Fabi,Italian,,2.0,16,16,0,1986
+"[""brabham""]","[""Brabham""]",,patrese,Riccardo Patrese,Italian,,2.0,17,17,0,1986
+"[""osella"", ""arrows""]","[""Osella"", ""Arrows""]",,danner,Christian Danner,German,,1.0,18,18,0,1986
+"[""ligier""]","[""Ligier""]",,alliot,Philippe Alliot,French,,1.0,19,19,0,1986
+"[""arrows""]","[""Arrows""]",,boutsen,Thierry Boutsen,Belgian,,0.0,,-,0,1986
+"[""brabham""]","[""Brabham""]",,warwick,Derek Warwick,British,,0.0,,-,0,1986
+"[""zakspeed""]","[""Zakspeed""]",,palmer,Jonathan Palmer,British,,0.0,,-,0,1986
+"[""zakspeed""]","[""Zakspeed""]",,rothengatter,Huub Rothengatter,Dutch,,0.0,,-,0,1986
+"[""minardi""]","[""Minardi""]",,cesaris,Andrea de Cesaris,Italian,,0.0,,-,0,1986
+"[""brabham""]","[""Brabham""]",,angelis,Elio de Angelis,Italian,,0.0,,-,0,1986
+"[""arrows""]","[""Arrows""]",,surer,Marc Surer,Swiss,,0.0,,-,0,1986
+"[""osella""]","[""Osella""]",,ghinzani,Piercarlo Ghinzani,Italian,,0.0,,-,0,1986
+"[""osella""]","[""Osella""]",,berg,Allen Berg,Canadian,,0.0,,-,0,1986
+"[""minardi""]","[""Minardi""]",,nannini,Alessandro Nannini,Italian,,0.0,,-,0,1986
+"[""osella""]","[""Osella""]",,caffi,Alex Caffi,Italian,,0.0,,-,0,1986
+"[""ags""]","[""AGS""]",,capelli,Ivan Capelli,Italian,,0.0,,-,0,1986
+"[""lola""]","[""Lola""]",,cheever,Eddie Cheever,American,,0.0,,-,0,1986

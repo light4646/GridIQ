@@ -1,8 +1,11 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 
+import F1TVBanner from "@/components/F1TVBanner";
 import { getHistoryManifest, formatNumber } from "@/lib/history";
 import { EVENT_OPTIONS } from "@/lib/static-data";
+import { ADSENSE } from "@/lib/monetization";
+import AdUnit from "@/components/AdUnit";
 
 export const metadata: Metadata = {
   title: "GridIQ | F1 Statistics, Records & Race Analytics 1950–2026",
@@ -110,6 +113,8 @@ export default function HomePage() {
           </div>
         </section>
 
+        <AdUnit slot={ADSENSE.slots.heroLeaderboard} />
+
         <section className="grid analyticsGrid">
           <div className="panel">
             <div className="panelHeader">
@@ -183,6 +188,10 @@ export default function HomePage() {
             </table>
           </div>
         </section>
+
+        <F1TVBanner />
+
+        <AdUnit slot={ADSENSE.slots.inContent} />
 
         <section className="panel widePanel">
           <div className="panelHeader">

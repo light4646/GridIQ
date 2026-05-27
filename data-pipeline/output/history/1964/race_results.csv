@@ -1,0 +1,199 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+BRM,brm,British,,hill,Graham Hill,British,8,1964-monte-carlo,Monaco Grand Prix,,,,,,3,100,9679500,9.0,1,1,1,Finished,2:41:19.500,1964
+BRM,brm,British,,ginther,Richie Ginther,American,7,1964-monte-carlo,Monaco Grand Prix,,,,,,8,99,,6.0,2,2,1,+1 Lap,,1964
+Lotus-Climax,lotus-climax,British,,arundell,Peter Arundell,British,11,1964-monte-carlo,Monaco Grand Prix,,,,,,6,97,,4.0,3,3,1,+3 Laps,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,12,1964-monte-carlo,Monaco Grand Prix,,,,,,1,96,,3.0,4,4,1,Engine,,1964
+Cooper-Climax,cooper-climax,British,,bonnier,Jo Bonnier,Swedish,19,1964-monte-carlo,Monaco Grand Prix,,,,,,11,96,,2.0,5,5,1,+4 Laps,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,18,1964-monte-carlo,Monaco Grand Prix,,,,,,15,96,,1.0,6,6,1,+4 Laps,,1964
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,16,1964-monte-carlo,Monaco Grand Prix,,,,,,12,86,,0.0,7,7,1,Gearbox,,1964
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,24,1964-monte-carlo,Monaco Grand Prix,,,,,,16,78,,0.0,8,8,1,+22 Laps,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,9,1964-monte-carlo,Monaco Grand Prix,,,,,,9,70,,0.0,9,9,1,Suspension,,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,20,1964-monte-carlo,Monaco Grand Prix,,,,,,7,68,,0.0,10,10,1,Gearbox,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,6,1964-monte-carlo,Monaco Grand Prix,,,,,,5,62,,0.0,11,R,1,Gearbox,,1964
+BRM,brm,British,,trintignant,Maurice Trintignant,French,4,1964-monte-carlo,Monaco Grand Prix,,,,,,13,53,,0.0,12,R,1,Overheating,,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,5,1964-monte-carlo,Monaco Grand Prix,,,,,,2,29,,0.0,13,R,1,Injection,,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,10,1964-monte-carlo,Monaco Grand Prix,,,,,,10,17,,0.0,14,R,1,Wheel bearing,,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,21,1964-monte-carlo,Monaco Grand Prix,,,,,,4,15,,0.0,15,R,1,Gearbox,,1964
+BRP,brp,British,,trevor_taylor,Trevor Taylor,British,15,1964-monte-carlo,Monaco Grand Prix,,,,,,14,8,,0.0,16,R,1,Fuel leak,,1964
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,14,1964-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,20,W,1,Withdrew,,1964
+Scirocco,scirocco,British,,andre_pilette,André Pilette,Belgian,1,1964-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,21,W,1,Withdrew,,1964
+BRM,brm,British,,baghetti,Giancarlo Baghetti,Italian,22,1964-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,22,W,1,Withdrew,,1964
+BRM,brm,British,,maggs,Tony Maggs,South African,23,1964-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,23,W,1,Withdrew,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,18,1964-zandvoort,Dutch Grand Prix,,,,,,2,80,7655400,9.0,1,1,2,Finished,2:07:35.400,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,2,1964-zandvoort,Dutch Grand Prix,,,,,,4,80,7709000,6.0,2,2,2,Finished,+53.600,1964
+Lotus-Climax,lotus-climax,British,,arundell,Peter Arundell,British,20,1964-zandvoort,Dutch Grand Prix,,,,,,6,79,,4.0,3,3,2,+1 Lap,,1964
+BRM,brm,British,,hill,Graham Hill,British,6,1964-zandvoort,Dutch Grand Prix,,,,,,3,79,,3.0,4,4,2,+1 Lap,,1964
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,10,1964-zandvoort,Dutch Grand Prix,,,,,,13,79,,2.0,5,5,2,+1 Lap,,1964
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,34,1964-zandvoort,Dutch Grand Prix,,,,,,11,78,,1.0,6,6,2,+2 Laps,,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,24,1964-zandvoort,Dutch Grand Prix,,,,,,5,78,,0.0,7,7,2,+2 Laps,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,22,1964-zandvoort,Dutch Grand Prix,,,,,,9,76,,0.0,8,8,2,+4 Laps,,1964
+Brabham-BRM,brabham-brm,British,,bonnier,Jo Bonnier,Swedish,26,1964-zandvoort,Dutch Grand Prix,,,,,,12,76,,0.0,9,9,2,+4 Laps,,1964
+BRM,brm,British,,baghetti,Giancarlo Baghetti,Italian,32,1964-zandvoort,Dutch Grand Prix,,,,,,16,74,,0.0,10,10,2,+6 Laps,,1964
+BRM,brm,British,,ginther,Richie Ginther,American,8,1964-zandvoort,Dutch Grand Prix,,,,,,8,64,,0.0,11,11,2,+16 Laps,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,12,1964-zandvoort,Dutch Grand Prix,,,,,,14,57,,0.0,12,12,2,Differential,,1964
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,36,1964-zandvoort,Dutch Grand Prix,,,,,,18,55,,0.0,13,13,2,+25 Laps,,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,14,1964-zandvoort,Dutch Grand Prix,,,,,,7,44,,0.0,14,R,2,Ignition,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,16,1964-zandvoort,Dutch Grand Prix,,,,,,1,23,,0.0,15,R,2,Steering,,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,4,1964-zandvoort,Dutch Grand Prix,,,,,,10,20,,0.0,16,R,2,Ignition,,1964
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,28,1964-zandvoort,Dutch Grand Prix,,,,,,17,8,,0.0,17,R,2,Engine,,1964
+BRM,brm,British,,maggs,Tony Maggs,South African,30,1964-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,18,W,2,Accident,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,23,1964-spa,Belgian Grand Prix,,,,,,6,32,7600500,9.0,1,1,3,Finished,2:06:40.500,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,20,1964-spa,Belgian Grand Prix,,,,,,7,32,7603900,6.0,2,2,3,Finished,+3.400,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,14,1964-spa,Belgian Grand Prix,,,,,,3,32,7648600,4.0,3,3,3,Finished,+48.100,1964
+BRM,brm,British,,ginther,Richie Ginther,American,2,1964-spa,Belgian Grand Prix,,,,,,8,32,7719100,3.0,4,4,3,Finished,+1:58.600,1964
+BRM,brm,British,,hill,Graham Hill,British,1,1964-spa,Belgian Grand Prix,,,,,,2,31,,2.0,5,5,3,Fuel pump,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,15,1964-spa,Belgian Grand Prix,,,,,,1,31,,1.0,6,6,3,Out of fuel,,1964
+BRP,brp,British,,trevor_taylor,Trevor Taylor,British,4,1964-spa,Belgian Grand Prix,,,,,,12,31,,0.0,7,7,3,+1 Lap,,1964
+BRM,brm,British,,baghetti,Giancarlo Baghetti,Italian,6,1964-spa,Belgian Grand Prix,,,,,,17,31,,0.0,8,8,3,+1 Lap,,1964
+Lotus-Climax,lotus-climax,British,,arundell,Peter Arundell,British,24,1964-spa,Belgian Grand Prix,,,,,,4,28,,0.0,9,9,3,Overheating,,1964
+BRP,brp,British,,ireland,Innes Ireland,British,3,1964-spa,Belgian Grand Prix,,,,,,16,28,,0.0,10,10,3,+4 Laps,,1964
+Lotus-Climax,lotus-climax,British,,revson,Peter Revson,American,29,1964-spa,Belgian Grand Prix,,,,,,10,28,,0.0,11,D,3,Disqualified,,1964
+Brabham-Climax,brabham-climax,British,,siffert,Jo Siffert,Swiss,17,1964-spa,Belgian Grand Prix,,,,,,13,14,,0.0,12,R,3,Engine,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,21,1964-spa,Belgian Grand Prix,,,,,,15,13,,0.0,13,R,3,Engine,,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,11,1964-spa,Belgian Grand Prix,,,,,,9,12,,0.0,14,R,3,Engine,,1964
+Scirocco,scirocco,British,,andre_pilette,André Pilette,Belgian,28,1964-spa,Belgian Grand Prix,,,,,,20,11,,0.0,15,R,3,Engine,,1964
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,16,1964-spa,Belgian Grand Prix,,,,,,14,8,,0.0,16,R,3,Driver unwell,,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,10,1964-spa,Belgian Grand Prix,,,,,,5,4,,0.0,17,R,3,Engine,,1964
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,27,1964-spa,Belgian Grand Prix,,,,,,11,3,,0.0,18,R,3,Engine,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,22,1964-rouen,French Grand Prix,,,,,,2,57,7669100,9.0,1,1,4,Finished,2:07:49.100,1964
+BRM,brm,British,,hill,Graham Hill,British,8,1964-rouen,French Grand Prix,,,,,,6,57,7693200,6.0,2,2,4,Finished,+24.100,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,20,1964-rouen,French Grand Prix,,,,,,5,57,7694000,4.0,3,3,4,Finished,+24.900,1964
+Lotus-Climax,lotus-climax,British,,arundell,Peter Arundell,British,4,1964-rouen,French Grand Prix,,,,,,4,57,7739700,3.0,4,4,4,Finished,+1:10.600,1964
+BRM,brm,British,,ginther,Richie Ginther,American,10,1964-rouen,French Grand Prix,,,,,,9,57,7801200,2.0,5,5,4,Finished,+2:12.100,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,12,1964-rouen,French Grand Prix,,,,,,7,56,,1.0,6,6,4,+1 Lap,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,14,1964-rouen,French Grand Prix,,,,,,10,56,,0.0,7,7,4,+1 Lap,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,36,1964-rouen,French Grand Prix,,,,,,13,56,,0.0,8,8,4,+1 Lap,,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,26,1964-rouen,French Grand Prix,,,,,,8,55,,0.0,9,9,4,+2 Laps,,1964
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,34,1964-rouen,French Grand Prix,,,,,,14,53,,0.0,10,10,4,+4 Laps,,1964
+BRM,brm,British,,trintignant,Maurice Trintignant,French,28,1964-rouen,French Grand Prix,,,,,,16,52,,0.0,11,11,4,+5 Laps,,1964
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,32,1964-rouen,French Grand Prix,,,,,,15,50,,0.0,12,12,4,+7 Laps,,1964
+BRP,brp,British,,ireland,Innes Ireland,British,16,1964-rouen,French Grand Prix,,,,,,11,32,,0.0,13,R,4,Accident,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,2,1964-rouen,French Grand Prix,,,,,,1,31,,0.0,14,R,4,Engine,,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,24,1964-rouen,French Grand Prix,,,,,,3,6,,0.0,15,R,4,Engine,,1964
+BRP,brp,British,,trevor_taylor,Trevor Taylor,British,18,1964-rouen,French Grand Prix,,,,,,12,6,,0.0,16,R,4,Accident,,1964
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,30,1964-rouen,French Grand Prix,,,,,,17,4,,0.0,17,R,4,Clutch,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1964-kent,British Grand Prix,,,,,,1,80,8107000,9.0,1,1,5,Finished,2:15,1964
+BRM,brm,British,,hill,Graham Hill,British,3,1964-kent,British Grand Prix,,,,,,2,80,8109800,6.0,2,2,5,Finished,+2.800,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,7,1964-kent,British Grand Prix,,,,,,5,80,8187600,4.0,3,3,5,Finished,+1:20.600,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,5,1964-kent,British Grand Prix,,,,,,4,79,,3.0,4,4,5,+1 Lap,,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,8,1964-kent,British Grand Prix,,,,,,8,78,,2.0,5,5,5,+2 Laps,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,10,1964-kent,British Grand Prix,,,,,,15,78,,1.0,6,6,5,+2 Laps,,1964
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,19,1964-kent,British Grand Prix,,,,,,7,78,,0.0,7,7,5,+2 Laps,,1964
+BRM,brm,British,,ginther,Richie Ginther,American,4,1964-kent,British Grand Prix,,,,,,14,77,,0.0,8,8,5,+3 Laps,,1964
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,2,1964-kent,British Grand Prix,,,,,,13,77,,0.0,9,9,5,+3 Laps,,1964
+BRP,brp,British,,ireland,Innes Ireland,British,11,1964-kent,British Grand Prix,,,,,,10,77,,0.0,10,10,5,+3 Laps,,1964
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,20,1964-kent,British Grand Prix,,,,,,16,76,,0.0,11,11,5,+4 Laps,,1964
+BRM,brm,British,,baghetti,Giancarlo Baghetti,Italian,18,1964-kent,British Grand Prix,,,,,,21,76,,0.0,12,12,5,+4 Laps,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,6,1964-kent,British Grand Prix,,,,,,3,75,,0.0,13,13,5,+5 Laps,,1964
+Cooper-Climax,cooper-climax,British,,taylor,John Taylor,British,22,1964-kent,British Grand Prix,,,,,,20,56,,0.0,14,14,5,+24 Laps,,1964
+Brabham-BRM,brabham-brm,British,,bonnier,Jo Bonnier,Swedish,16,1964-kent,British Grand Prix,,,,,,9,45,,0.0,15,R,5,Brakes,,1964
+Lotus-BRM,lotus-brm,British,,revson,Peter Revson,American,24,1964-kent,British Grand Prix,,,,,,22,43,,0.0,16,R,5,Differential,,1964
+BRM,brm,British,,maggs,Tony Maggs,South African,17,1964-kent,British Grand Prix,,,,,,17,38,,0.0,17,R,5,Gearbox,,1964
+Brabham-BRM,brabham-brm,British,,raby,Ian Raby,British,23,1964-kent,British Grand Prix,,,,,,23,37,,0.0,18,R,5,Accident,,1964
+Lotus-BRM,lotus-brm,British,,trevor_taylor,Trevor Taylor,British,12,1964-kent,British Grand Prix,,,,,,18,23,,0.0,19,R,5,Driver unwell,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,14,1964-kent,British Grand Prix,,,,,,12,17,,0.0,20,R,5,Oil pipe,,1964
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,15,1964-kent,British Grand Prix,,,,,,11,9,,0.0,21,R,5,Clutch,,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1964-kent,British Grand Prix,,,,,,6,7,,0.0,22,R,5,Gearbox,,1964
+Brabham-Ford,brabham-ford,British,,gardner,Frank Gardner,Australian,26,1964-kent,British Grand Prix,,,,,,19,0,,0.0,23,R,5,Accident,,1964
+BRM,brm,British,,attwood,Richard Attwood,British,21,1964-kent,British Grand Prix,,,,,,24,0,,0.0,25,W,5,Withdrew,,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,7,1964-n-rburg,German Grand Prix,,,,,,1,15,7924800,9.0,1,1,6,Finished,2:12:04.800,1964
+BRM,brm,British,,hill,Graham Hill,British,3,1964-n-rburg,German Grand Prix,,,,,,5,15,8000400,6.0,2,2,6,Finished,+1:15.600,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,8,1964-n-rburg,German Grand Prix,,,,,,4,15,8217600,4.0,3,3,6,Finished,+4:52.800,1964
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,19,1964-n-rburg,German Grand Prix,,,,,,10,15,8247900,3.0,4,4,6,Finished,+5:23.100,1964
+BRM,brm,British,,trintignant,Maurice Trintignant,French,22,1964-n-rburg,German Grand Prix,,,,,,14,14,,2.0,5,5,6,Battery,,1964
+BRM,brm,British,,maggs,Tony Maggs,South African,26,1964-n-rburg,German Grand Prix,,,,,,16,14,,1.0,6,6,6,+1 Lap,,1964
+BRM,brm,British,,ginther,Richie Ginther,American,4,1964-n-rburg,German Grand Prix,,,,,,11,14,,0.0,7,7,6,+1 Lap,,1964
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,2,1964-n-rburg,German Grand Prix,,,,,,17,14,,0.0,8,8,6,+1 Lap,,1964
+Lotus-Climax,lotus-climax,British,,mitter,Gerhard Mitter,German,23,1964-n-rburg,German Grand Prix,,,,,,19,14,,0.0,9,9,6,+1 Lap,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,5,1964-n-rburg,German Grand Prix,,,,,,3,14,,0.0,10,10,6,+1 Lap,,1964
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,14,1964-n-rburg,German Grand Prix,,,,,,9,12,,0.0,11,11,6,Suspension,,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,6,1964-n-rburg,German Grand Prix,,,,,,6,11,,0.0,12,12,6,Differential,,1964
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,20,1964-n-rburg,German Grand Prix,,,,,,22,11,,0.0,13,13,6,Accident,,1964
+Lotus-BRM,lotus-brm,British,,revson,Peter Revson,American,27,1964-n-rburg,German Grand Prix,,,,,,18,10,,0.0,14,14,6,Accident,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1964-n-rburg,German Grand Prix,,,,,,2,7,,0.0,15,R,6,Engine,,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1964-n-rburg,German Grand Prix,,,,,,7,4,,0.0,16,R,6,Engine,,1964
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,16,1964-n-rburg,German Grand Prix,,,,,,15,4,,0.0,17,R,6,Suspension,,1964
+Cooper-Climax,cooper-climax,British,,barth,Edgar Barth,German,12,1964-n-rburg,German Grand Prix,,,,,,20,3,,0.0,18,R,6,Clutch,,1964
+BRM,brm,British,,baghetti,Giancarlo Baghetti,Italian,18,1964-n-rburg,German Grand Prix,,,,,,21,2,,0.0,19,R,6,Throttle,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,10,1964-n-rburg,German Grand Prix,,,,,,8,1,,0.0,20,R,6,Engine,,1964
+Brabham-BRM,brabham-brm,British,,bonnier,Jo Bonnier,Swedish,11,1964-n-rburg,German Grand Prix,,,,,,12,0,,0.0,21,R,6,Electrical,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,15,1964-n-rburg,German Grand Prix,,,,,,13,0,,0.0,22,R,6,Engine,,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,8,1964-styria,Austrian Grand Prix,,,,,,7,105,7578230,9.0,1,1,7,Finished,2:06:18.230,1964
+BRM,brm,British,,ginther,Richie Ginther,American,4,1964-styria,Austrian Grand Prix,,,,,,5,105,7584410,6.0,2,2,7,Finished,+6.180,1964
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,22,1964-styria,Austrian Grand Prix,,,,,,14,102,,4.0,3,3,7,+3 Laps,,1964
+BRM,brm,British,,maggs,Tony Maggs,South African,19,1964-styria,Austrian Grand Prix,,,,,,19,102,,3.0,4,4,7,+3 Laps,,1964
+BRP,brp,British,,ireland,Innes Ireland,British,14,1964-styria,Austrian Grand Prix,,,,,,11,102,,2.0,5,5,7,+3 Laps,,1964
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,11,1964-styria,Austrian Grand Prix,,,,,,10,101,,1.0,6,6,7,+4 Laps,,1964
+BRM,brm,British,,baghetti,Giancarlo Baghetti,Italian,18,1964-styria,Austrian Grand Prix,,,,,,15,96,,0.0,7,7,7,+9 Laps,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,17,1964-styria,Austrian Grand Prix,,,,,,18,95,,0.0,8,8,7,+10 Laps,,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,6,1964-styria,Austrian Grand Prix,,,,,,6,76,,0.0,9,9,7,+29 Laps,,1964
+Brabham-BRM,brabham-brm,British,,rindt,Jochen Rindt,Austrian,12,1964-styria,Austrian Grand Prix,,,,,,13,58,,0.0,10,R,7,Steering,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,10,1964-styria,Austrian Grand Prix,,,,,,20,58,,0.0,11,R,7,Accident,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,5,1964-styria,Austrian Grand Prix,,,,,,4,47,,0.0,12,R,7,Suspension,,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1964-styria,Austrian Grand Prix,,,,,,9,43,,0.0,13,R,7,Engine,,1964
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,2,1964-styria,Austrian Grand Prix,,,,,,8,41,,0.0,14,R,7,Halfshaft,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1964-styria,Austrian Grand Prix,,,,,,3,40,,0.0,15,R,7,Halfshaft,,1964
+BRP,brp,British,,trevor_taylor,Trevor Taylor,British,15,1964-styria,Austrian Grand Prix,,,,,,16,21,,0.0,16,R,7,Suspension,,1964
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,20,1964-styria,Austrian Grand Prix,,,,,,12,18,,0.0,17,R,7,Accident,,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,7,1964-styria,Austrian Grand Prix,,,,,,2,9,,0.0,18,R,7,Suspension,,1964
+Lotus-Climax,lotus-climax,British,,amon,Chris Amon,New Zealander,16,1964-styria,Austrian Grand Prix,,,,,,17,7,,0.0,19,R,7,Engine,,1964
+BRM,brm,British,,hill,Graham Hill,British,3,1964-styria,Austrian Grand Prix,,,,,,1,5,,0.0,20,R,7,Distributor,,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,2,1964-monza,Italian Grand Prix,,,,,,1,78,7851800,9.0,1,1,8,Finished,2:10:51.800,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,26,1964-monza,Italian Grand Prix,,,,,,5,78,7917800,6.0,2,2,8,Finished,+1:06.000,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,4,1964-monza,Italian Grand Prix,,,,,,7,77,,4.0,3,3,8,+1 Lap,,1964
+BRM,brm,British,,ginther,Richie Ginther,American,20,1964-monza,Italian Grand Prix,,,,,,9,77,,3.0,4,4,8,+1 Lap,,1964
+BRP,brp,British,,ireland,Innes Ireland,British,46,1964-monza,Italian Grand Prix,,,,,,13,77,,2.0,5,5,8,+1 Lap,,1964
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,10,1964-monza,Italian Grand Prix,,,,,,8,77,,1.0,6,6,8,+1 Lap,,1964
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,12,1964-monza,Italian Grand Prix,,,,,,6,77,,0.0,7,7,8,+1 Lap,,1964
+BRM,brm,British,,baghetti,Giancarlo Baghetti,Italian,30,1964-monza,Italian Grand Prix,,,,,,15,77,,0.0,8,8,8,+1 Lap,,1964
+Ferrari,ferrari,Italian,,scarfiotti,Ludovico Scarfiotti,Italian,6,1964-monza,Italian Grand Prix,,,,,,16,77,,0.0,9,9,8,+1 Lap,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,16,1964-monza,Italian Grand Prix,,,,,,2,75,,0.0,10,10,8,+3 Laps,,1964
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,22,1964-monza,Italian Grand Prix,,,,,,14,75,,0.0,11,11,8,+3 Laps,,1964
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,34,1964-monza,Italian Grand Prix,,,,,,12,74,,0.0,12,12,8,+4 Laps,,1964
+Lotus-BRM,lotus-brm,British,,revson,Peter Revson,American,38,1964-monza,Italian Grand Prix,,,,,,18,72,,0.0,13,13,8,+6 Laps,,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,14,1964-monza,Italian Grand Prix,,,,,,11,59,,0.0,14,14,8,Engine,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,8,1964-monza,Italian Grand Prix,,,,,,4,28,,0.0,15,15,8,Engine,,1964
+Derrington,derrington,British,,cabral,Mário de Araújo Cabral,Portuguese,50,1964-monza,Italian Grand Prix,,,,,,19,25,,0.0,16,R,8,Ignition,,1964
+BRM,brm,British,,trintignant,Maurice Trintignant,French,48,1964-monza,Italian Grand Prix,,,,,,21,22,,0.0,17,R,8,Injection,,1964
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,28,1964-monza,Italian Grand Prix,,,,,,10,13,,0.0,18,R,8,Brakes,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,40,1964-monza,Italian Grand Prix,,,,,,17,5,,0.0,19,R,8,Engine,,1964
+BRM,brm,British,,hill,Graham Hill,British,18,1964-monza,Italian Grand Prix,,,,,,3,0,,0.0,20,R,8,Clutch,,1964
+BRM,brm,British,,hill,Graham Hill,British,3,1964-new-york-state,United States Grand Prix,,,,,,4,110,8198000,9.0,1,1,9,Finished,2:16,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,7,1964-new-york-state,United States Grand Prix,,,,,,2,110,8228500,6.0,2,2,9,Finished,+30.500,1964
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,22,1964-new-york-state,United States Grand Prix,,,,,,12,109,,4.0,3,3,9,+1 Lap,,1964
+BRM,brm,British,,ginther,Richie Ginther,American,4,1964-new-york-state,United States Grand Prix,,,,,,13,107,,3.0,4,4,9,+3 Laps,,1964
+Lotus-Climax,lotus-climax,British,,hansgen,Walt Hansgen,American,17,1964-new-york-state,United States Grand Prix,,,,,,17,107,,2.0,5,5,9,+3 Laps,,1964
+BRP,brp,British,,trevor_taylor,Trevor Taylor,British,12,1964-new-york-state,United States Grand Prix,,,,,,15,106,,1.0,6,6,9,+4 Laps,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1964-new-york-state,United States Grand Prix,,,,,,1,102,,0.0,7,7,9,Out of fuel,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,14,1964-new-york-state,United States Grand Prix,,,,,,15,101,,0.0,8,8,9,Oil pipe,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,6,1964-new-york-state,United States Grand Prix,,,,,,3,69,,0.0,9,R,9,Oil pressure,,1964
+Brabham-BRM,brabham-brm,British,,sharp,Hap Sharp,American,23,1964-new-york-state,United States Grand Prix,,,,,,18,65,,0.0,10,R,9,Not classified,,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,8,1964-new-york-state,United States Grand Prix,,,,,,8,58,,0.0,11,R,9,Engine,,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,2,1964-new-york-state,United States Grand Prix,,,,,,1,54,,0.0,12,R,9,Injection,,1964
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,2,1964-new-york-state,United States Grand Prix,,,,,,1,54,,0.0,12,R,9,Injection,,1964
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,25,1964-new-york-state,United States Grand Prix,,,,,,14,50,,0.0,13,R,9,Overheating,,1964
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,15,1964-new-york-state,United States Grand Prix,,,,,,11,47,,0.0,14,R,9,Engine,,1964
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,16,1964-new-york-state,United States Grand Prix,,,,,,9,37,,0.0,15,R,9,Wheel,,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1964-new-york-state,United States Grand Prix,,,,,,5,27,,0.0,16,R,9,Engine,,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,5,1964-new-york-state,United States Grand Prix,,,,,,7,14,,0.0,17,R,9,Engine,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,10,1964-new-york-state,United States Grand Prix,,,,,,19,4,,0.0,18,R,9,Ignition,,1964
+BRP,brp,British,,ireland,Innes Ireland,British,11,1964-new-york-state,United States Grand Prix,,,,,,10,2,,0.0,19,R,9,Gearbox,,1964
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,6,1964-mexico-city,Mexican Grand Prix,,,,,,2,65,7790320,9.0,1,1,10,Finished,2:09:50.320,1964
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,7,1964-mexico-city,Mexican Grand Prix,,,,,,4,65,7859260,6.0,2,2,10,Finished,+1:08.940,1964
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,8,1964-mexico-city,Mexican Grand Prix,,,,,,3,65,7859950,4.0,3,3,10,Finished,+1:09.630,1964
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,2,1964-mexico-city,Mexican Grand Prix,,,,,,5,65,7872180,3.0,4,4,10,Finished,+1:21.860,1964
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1964-mexico-city,Mexican Grand Prix,,,,,,1,64,,2.0,5,5,10,Engine,,1964
+Ferrari,ferrari,Italian,,rodriguez,Pedro Rodríguez,Mexican,18,1964-mexico-city,Mexican Grand Prix,,,,,,9,64,,1.0,6,6,10,+1 Lap,,1964
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1964-mexico-city,Mexican Grand Prix,,,,,,10,64,,0.0,7,7,10,+1 Lap,,1964
+BRM,brm,British,,ginther,Richie Ginther,American,4,1964-mexico-city,Mexican Grand Prix,,,,,,11,64,,0.0,8,8,10,+1 Lap,,1964
+Cooper-Climax,cooper-climax,British,,phil_hill,Phil Hill,American,10,1964-mexico-city,Mexican Grand Prix,,,,,,15,63,,0.0,9,9,10,Engine,,1964
+Lotus-Climax,lotus-climax,British,,solana,Moisés Solana,Mexican,17,1964-mexico-city,Mexican Grand Prix,,,,,,14,63,,0.0,10,10,10,+2 Laps,,1964
+BRM,brm,British,,hill,Graham Hill,British,3,1964-mexico-city,Mexican Grand Prix,,,,,,6,63,,0.0,11,11,10,+2 Laps,,1964
+BRP,brp,British,,ireland,Innes Ireland,British,11,1964-mexico-city,Mexican Grand Prix,,,,,,16,61,,0.0,12,12,10,+4 Laps,,1964
+Brabham-BRM,brabham-brm,British,,sharp,Hap Sharp,American,23,1964-mexico-city,Mexican Grand Prix,,,,,,19,60,,0.0,13,13,10,+5 Laps,,1964
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,15,1964-mexico-city,Mexican Grand Prix,,,,,,12,46,,0.0,14,R,10,Gearbox,,1964
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,5,1964-mexico-city,Mexican Grand Prix,,,,,,7,44,,0.0,15,R,10,Electrical,,1964
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,14,1964-mexico-city,Mexican Grand Prix,,,,,,17,12,,0.0,16,R,10,Overheating,,1964
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,22,1964-mexico-city,Mexican Grand Prix,,,,,,13,11,,0.0,17,R,10,Fuel pump,,1964
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,16,1964-mexico-city,Mexican Grand Prix,,,,,,8,9,,0.0,18,R,10,Suspension,,1964
+BRP,brp,British,,trevor_taylor,Trevor Taylor,British,12,1964-mexico-city,Mexican Grand Prix,,,,,,18,6,,0.0,19,R,10,Overheating,,1964

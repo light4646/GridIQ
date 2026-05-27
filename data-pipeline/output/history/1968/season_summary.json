@@ -1,0 +1,40 @@
+{
+  "year": 1968,
+  "generated_at": "2026-05-27T06:02:30.026724+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 12,
+  "race_results": 229,
+  "qualifying_results": 0,
+  "drivers": 42,
+  "constructors": 17,
+  "driver_champion": {
+    "year": 1968,
+    "position": 1,
+    "position_text": "1",
+    "points": 48.0,
+    "wins": 3,
+    "driver_id": "hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Graham Hill",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lotus-Ford"
+    ],
+    "constructor_ids": [
+      "lotus-ford"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1968,
+    "position": 1,
+    "position_text": "1",
+    "points": 62.0,
+    "wins": 5,
+    "constructor_id": "lotus-ford",
+    "constructor": "Lotus-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  }
+}

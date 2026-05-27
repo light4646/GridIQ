@@ -1,0 +1,40 @@
+{
+  "year": 1970,
+  "generated_at": "2026-05-27T06:03:11.775203+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 13,
+  "race_results": 267,
+  "qualifying_results": 0,
+  "drivers": 38,
+  "constructors": 12,
+  "driver_champion": {
+    "year": 1970,
+    "position": 1,
+    "position_text": "1",
+    "points": 45.0,
+    "wins": 5,
+    "driver_id": "rindt",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jochen Rindt",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1970,
+    "position": 1,
+    "position_text": "1",
+    "points": 59.0,
+    "wins": 6,
+    "constructor_id": "team_lotus",
+    "constructor": "Team Lotus",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  }
+}

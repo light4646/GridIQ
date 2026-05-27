@@ -1,0 +1,16 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Brabham-Repco,brabham-repco,British,https://en.wikipedia.org/wiki/Brabham,42.0,1,1,4,1966
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,31.0,2,2,2,1966
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,30.0,3,3,1,1966
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,22.0,4,4,1,1966
+Lotus-BRM,lotus-brm,British,https://en.wikipedia.org/wiki/Team_Lotus,13.0,5,5,1,1966
+Lotus-Climax,lotus-climax,British,https://en.wikipedia.org/wiki/Team_Lotus,8.0,6,6,0,1966
+Eagle-Climax,eagle-climax,American,https://en.wikipedia.org/wiki/All_American_Racers,4.0,7,7,0,1966
+Honda,honda,Japanese,https://en.wikipedia.org/wiki/Honda_in_Formula_One,3.0,8,8,0,1966
+McLaren-Ford,mclaren-ford,British,https://en.wikipedia.org/wiki/McLaren,2.0,9,9,0,1966
+Brabham-Climax,brabham-climax,British,https://en.wikipedia.org/wiki/Brabham,1.0,10,10,0,1966
+Brabham-BRM,brabham-brm,British,https://en.wikipedia.org/wiki/Brabham,1.0,11,11,0,1966
+McLaren-Serenissima,mclaren-seren,British,https://en.wikipedia.org/wiki/McLaren,1.0,12,12,0,1966
+Cooper-Ferrari,cooper-ferrari,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1966
+Eagle-Weslake,eagle-weslake,American,https://en.wikipedia.org/wiki/All_American_Racers,0.0,,-,0,1966
+Shannon,shannon,British,https://en.wikipedia.org/wiki/Shannon_Racing_Cars,0.0,,-,0,1966

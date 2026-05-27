@@ -1,0 +1,388 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-buenos-aires,Argentine Grand Prix,,,,,,10,53,6062010,9.0,1,1,1,Finished,1:41:02.010,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-buenos-aires,Argentine Grand Prix,,,,,,8,53,6071280,6.0,2,2,1,Finished,+9.270,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-buenos-aires,Argentine Grand Prix,,,,,,2,53,6082420,4.0,3,3,1,Finished,+20.410,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-buenos-aires,Argentine Grand Prix,,,,,,9,53,6093800,3.0,4,4,1,Finished,+31.790,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-buenos-aires,Argentine Grand Prix,,,,,,14,53,6113850,2.0,5,5,1,Finished,+51.840,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-buenos-aires,Argentine Grand Prix,,,,,,15,53,6174490,1.0,6,6,1,Finished,+1:52.480,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-buenos-aires,Argentine Grand Prix,,,,,,6,52,,0.0,7,7,1,Out of fuel,,1974
+March,march,British,,ganley,Howden Ganley,New Zealander,10,1974-buenos-aires,Argentine Grand Prix,,,,,,19,52,,0.0,8,8,1,Out of fuel,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-buenos-aires,Argentine Grand Prix,,,,,,21,52,,0.0,9,9,1,+1 Lap,,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-buenos-aires,Argentine Grand Prix,,,,,,3,52,,0.0,10,10,1,+1 Lap,,1974
+Lola,lola,British,,edwards,Guy Edwards,British,27,1974-buenos-aires,Argentine Grand Prix,,,,,,25,51,,0.0,11,11,1,+2 Laps,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-buenos-aires,Argentine Grand Prix,,,,,,20,49,,0.0,12,12,1,+4 Laps,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-buenos-aires,Argentine Grand Prix,,,,,,1,48,,0.0,13,13,1,+5 Laps,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-buenos-aires,Argentine Grand Prix,,,,,,17,45,,0.0,14,R,1,Engine,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-buenos-aires,Argentine Grand Prix,,,,,,7,36,,0.0,15,R,1,Clutch,,1974
+Brabham,brabham,British,,robarts,Richard Robarts,British,8,1974-buenos-aires,Argentine Grand Prix,,,,,,22,36,,0.0,16,R,1,Gearbox,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-buenos-aires,Argentine Grand Prix,,,,,,23,31,,0.0,17,R,1,Clutch,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-buenos-aires,Argentine Grand Prix,,,,,,24,31,,0.0,18,R,1,Water leak,,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-buenos-aires,Argentine Grand Prix,,,,,,12,25,,0.0,19,R,1,Engine,,1974
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,18,1974-buenos-aires,Argentine Grand Prix,,,,,,11,21,,0.0,20,R,1,Suspension,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-buenos-aires,Argentine Grand Prix,,,,,,13,19,,0.0,21,R,1,Overheating,,1974
+March,march,British,,hunt,James Hunt,British,24,1974-buenos-aires,Argentine Grand Prix,,,,,,5,11,,0.0,22,R,1,Overheating,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-buenos-aires,Argentine Grand Prix,,,,,,18,10,,0.0,23,R,1,Engine,,1974
+Shadow,shadow,British,,revson,Peter Revson,American,16,1974-buenos-aires,Argentine Grand Prix,,,,,,4,1,,0.0,24,R,1,Accident,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-buenos-aires,Argentine Grand Prix,,,,,,16,0,,0.0,25,R,1,Accident,,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-s-o-paulo,Brazilian Grand Prix,,,,,,1,32,5077060,9.0,1,1,2,Finished,1:24:37.060,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-s-o-paulo,Brazilian Grand Prix,,,,,,8,32,5090630,6.0,2,2,2,Finished,+13.570,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-s-o-paulo,Brazilian Grand Prix,,,,,,5,31,,4.0,3,3,2,+1 Lap,,1974
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,18,1974-s-o-paulo,Brazilian Grand Prix,,,,,,12,31,,3.0,4,4,2,+1 Lap,,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-s-o-paulo,Brazilian Grand Prix,,,,,,7,31,,2.0,5,5,2,+1 Lap,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-s-o-paulo,Brazilian Grand Prix,,,,,,4,31,,1.0,6,6,2,+1 Lap,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-s-o-paulo,Brazilian Grand Prix,,,,,,2,31,,0.0,7,7,2,+1 Lap,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-s-o-paulo,Brazilian Grand Prix,,,,,,16,31,,0.0,8,8,2,+1 Lap,,1974
+March,march,British,,hunt,James Hunt,British,24,1974-s-o-paulo,Brazilian Grand Prix,,,,,,18,31,,0.0,9,9,2,+1 Lap,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-s-o-paulo,Brazilian Grand Prix,,,,,,17,31,,0.0,10,10,2,+1 Lap,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-s-o-paulo,Brazilian Grand Prix,,,,,,21,31,,0.0,11,11,2,+1 Lap,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-s-o-paulo,Brazilian Grand Prix,,,,,,11,31,,0.0,12,12,2,+1 Lap,,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-s-o-paulo,Brazilian Grand Prix,,,,,,14,31,,0.0,13,13,2,+1 Lap,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-s-o-paulo,Brazilian Grand Prix,,,,,,22,30,,0.0,14,14,2,+2 Laps,,1974
+Brabham,brabham,British,,robarts,Richard Robarts,British,8,1974-s-o-paulo,Brazilian Grand Prix,,,,,,24,30,,0.0,15,15,2,+2 Laps,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-s-o-paulo,Brazilian Grand Prix,,,,,,23,30,,0.0,16,16,2,+2 Laps,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-s-o-paulo,Brazilian Grand Prix,,,,,,10,30,,0.0,17,17,2,+2 Laps,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-s-o-paulo,Brazilian Grand Prix,,,,,,15,27,,0.0,18,R,2,Clutch,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-s-o-paulo,Brazilian Grand Prix,,,,,,13,24,,0.0,19,R,2,Transmission,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-s-o-paulo,Brazilian Grand Prix,,,,,,19,21,,0.0,20,R,2,Brakes,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-s-o-paulo,Brazilian Grand Prix,,,,,,9,20,,0.0,21,R,2,Throttle,,1974
+Shadow,shadow,British,,revson,Peter Revson,American,16,1974-s-o-paulo,Brazilian Grand Prix,,,,,,6,10,,0.0,22,R,2,Overheating,,1974
+March,march,British,,ganley,Howden Ganley,New Zealander,10,1974-s-o-paulo,Brazilian Grand Prix,,,,,,20,8,,0.0,23,R,2,Ignition,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-s-o-paulo,Brazilian Grand Prix,,,,,,25,2,,0.0,24,R,2,Engine,,1974
+Lola,lola,British,,edwards,Guy Edwards,British,27,1974-s-o-paulo,Brazilian Grand Prix,,,,,,3,2,,0.0,25,R,2,Chassis,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-midrand,South African Grand Prix,,,,,,4,78,6160960,9.0,1,1,3,Finished,1:42:40.960,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-midrand,South African Grand Prix,,,,,,11,78,6194900,6.0,2,2,3,Finished,+33.940,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-midrand,South African Grand Prix,,,,,,12,78,6203120,4.0,3,3,3,Finished,+42.160,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-midrand,South African Grand Prix,,,,,,15,78,6205150,3.0,4,4,3,Finished,+44.190,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-midrand,South African Grand Prix,,,,,,7,78,6207190,2.0,5,5,3,Finished,+46.230,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-midrand,South African Grand Prix,,,,,,3,78,6217000,1.0,6,6,3,Finished,+56.040,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-midrand,South African Grand Prix,,,,,,5,78,6229350,0.0,7,7,3,Finished,+1:08.390,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-midrand,South African Grand Prix,,,,,,8,78,6231500,0.0,8,8,3,Finished,+1:10.540,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-midrand,South African Grand Prix,,,,,,9,77,,0.0,9,9,3,+1 Lap,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-midrand,South African Grand Prix,,,,,,19,77,,0.0,10,10,3,+1 Lap,,1974
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,18,1974-midrand,South African Grand Prix,,,,,,2,77,,0.0,11,11,3,+1 Lap,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-midrand,South African Grand Prix,,,,,,18,77,,0.0,12,12,3,+1 Lap,,1974
+Team Lotus,team_lotus,British,,ian_scheckter,Ian Scheckter,South African,29,1974-midrand,South African Grand Prix,,,,,,22,76,,0.0,13,13,3,+2 Laps,,1974
+Tyrrell,tyrrell,British,,keizan,Eddie Keizan,South African,32,1974-midrand,South African Grand Prix,,,,,,24,76,,0.0,14,14,3,+2 Laps,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-midrand,South African Grand Prix,,,,,,25,75,,0.0,15,15,3,+3 Laps,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-midrand,South African Grand Prix,,,,,,1,74,,0.0,16,16,3,Ignition,,1974
+Brabham,brabham,British,,robarts,Richard Robarts,British,8,1974-midrand,South African Grand Prix,,,,,,23,74,,0.0,17,17,3,+4 Laps,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-midrand,South African Grand Prix,,,,,,21,72,,0.0,18,18,3,+6 Laps,,1974
+McLaren,mclaren,British,,charlton,Dave Charlton,South African,23,1974-midrand,South African Grand Prix,,,,,,20,71,,0.0,19,19,3,+7 Laps,,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-midrand,South African Grand Prix,,,,,,6,65,,0.0,20,R,3,Oil pressure,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-midrand,South African Grand Prix,,,,,,13,54,,0.0,21,R,3,Fuel system,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-midrand,South African Grand Prix,,,,,,10,31,,0.0,22,R,3,Brakes,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-midrand,South African Grand Prix,,,,,,14,13,,0.0,23,R,3,Transmission,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-midrand,South African Grand Prix,,,,,,17,11,,0.0,24,R,3,Suspension,,1974
+Team Lotus,team_lotus,British,,driver,Paddy Driver,South African,30,1974-midrand,South African Grand Prix,,,,,,26,6,,0.0,25,R,3,Clutch,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-midrand,South African Grand Prix,,,,,,16,2,,0.0,26,R,3,Collision,,1974
+Iso Marlboro,iso_marlboro,British,,belso,Tom Belsø,Danish,21,1974-midrand,South African Grand Prix,,,,,,27,0,,0.0,27,R,3,Clutch,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-madrid,Spanish Grand Prix,,,,,,1,84,7229560,9.0,1,1,4,Finished,2:00:29.560,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-madrid,Spanish Grand Prix,,,,,,3,84,7265170,6.0,2,2,4,Finished,+35.610,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-madrid,Spanish Grand Prix,,,,,,4,83,,4.0,3,3,4,+1 Lap,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-madrid,Spanish Grand Prix,,,,,,13,82,,3.0,4,4,4,+2 Laps,,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-madrid,Spanish Grand Prix,,,,,,9,82,,2.0,5,5,4,+2 Laps,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-madrid,Spanish Grand Prix,,,,,,8,82,,1.0,6,6,4,+2 Laps,,1974
+Shadow,shadow,British,,redman,Brian Redman,British,16,1974-madrid,Spanish Grand Prix,,,,,,21,81,,0.0,7,7,4,+3 Laps,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-madrid,Spanish Grand Prix,,,,,,16,81,,0.0,8,8,4,+3 Laps,,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-madrid,Spanish Grand Prix,,,,,,17,81,,0.0,9,9,4,+3 Laps,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-madrid,Spanish Grand Prix,,,,,,10,81,,0.0,10,10,4,+3 Laps,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-madrid,Spanish Grand Prix,,,,,,15,80,,0.0,11,11,4,+4 Laps,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-madrid,Spanish Grand Prix,,,,,,20,80,,0.0,12,12,4,+4 Laps,,1974
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,18,1974-madrid,Spanish Grand Prix,,,,,,14,78,,0.0,13,13,4,+6 Laps,,1974
+Trojan,trojan,British,,schenken,Tim Schenken,Australian,23,1974-madrid,Spanish Grand Prix,,,,,,25,76,,0.0,14,14,4,Spun off,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-madrid,Spanish Grand Prix,,,,,,12,73,,0.0,15,R,4,Not classified,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-madrid,Spanish Grand Prix,,,,,,19,43,,0.0,16,R,4,Engine,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-madrid,Spanish Grand Prix,,,,,,7,37,,0.0,17,R,4,Accident,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-madrid,Spanish Grand Prix,,,,,,18,35,,0.0,18,R,4,Gearbox,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-madrid,Spanish Grand Prix,,,,,,22,27,,0.0,19,R,4,Engine,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-madrid,Spanish Grand Prix,,,,,,5,26,,0.0,20,R,4,Brakes,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-madrid,Spanish Grand Prix,,,,,,2,23,,0.0,21,R,4,Engine,,1974
+Amon,amon,New Zealander,,amon,Chris Amon,New Zealander,30,1974-madrid,Spanish Grand Prix,,,,,,23,22,,0.0,22,R,4,Brakes,,1974
+Brabham,brabham,British,,opel,Rikky von Opel,Liechtensteiner,8,1974-madrid,Spanish Grand Prix,,,,,,24,14,,0.0,23,R,4,Oil leak,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-madrid,Spanish Grand Prix,,,,,,6,12,,0.0,24,R,4,Spun off,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-madrid,Spanish Grand Prix,,,,,,11,2,,0.0,25,R,4,Engine,,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-brussels,Belgian Grand Prix,,,,,,4,85,6260570,9.0,1,1,5,Finished,1:44:20.570,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-brussels,Belgian Grand Prix,,,,,,3,85,6260920,6.0,2,2,5,Finished,+0.350,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-brussels,Belgian Grand Prix,,,,,,2,85,6306180,4.0,3,3,5,Finished,+45.610,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-brussels,Belgian Grand Prix,,,,,,1,85,6312590,3.0,4,4,5,Finished,+52.020,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-brussels,Belgian Grand Prix,,,,,,7,85,6328620,2.0,5,5,5,Finished,+1:08.050,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-brussels,Belgian Grand Prix,,,,,,12,85,6331110,1.0,6,6,5,Finished,+1:10.540,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-brussels,Belgian Grand Prix,,,,,,13,84,,0.0,7,7,5,+1 Lap,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-brussels,Belgian Grand Prix,,,,,,29,83,,0.0,8,8,5,+2 Laps,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-brussels,Belgian Grand Prix,,,,,,31,83,,0.0,9,9,5,+2 Laps,,1974
+Trojan,trojan,British,,schenken,Tim Schenken,Australian,41,1974-brussels,Belgian Grand Prix,,,,,,23,83,,0.0,10,10,5,+2 Laps,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-brussels,Belgian Grand Prix,,,,,,19,83,,0.0,11,11,5,+2 Laps,,1974
+Lola,lola,British,,edwards,Guy Edwards,British,27,1974-brussels,Belgian Grand Prix,,,,,,21,82,,0.0,12,12,5,+3 Laps,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-brussels,Belgian Grand Prix,,,,,,17,82,,0.0,13,13,5,+3 Laps,,1974
+Iso Marlboro,iso_marlboro,British,,lennep,Gijs van Lennep,Dutch,21,1974-brussels,Belgian Grand Prix,,,,,,30,82,,0.0,14,14,5,+3 Laps,,1974
+Ensign,ensign,British,,schuppan,Vern Schuppan,Australian,22,1974-brussels,Belgian Grand Prix,,,,,,14,82,,0.0,15,15,5,+3 Laps,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-brussels,Belgian Grand Prix,,,,,,25,82,,0.0,16,16,5,+3 Laps,,1974
+Brabham,brabham,British,,pilette,Teddy Pilette,Belgian,34,1974-brussels,Belgian Grand Prix,,,,,,27,81,,0.0,17,17,5,+4 Laps,,1974
+Shadow,shadow,British,,redman,Brian Redman,British,16,1974-brussels,Belgian Grand Prix,,,,,,18,80,,0.0,18,18,5,Engine,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-brussels,Belgian Grand Prix,,,,,,16,72,,0.0,19,R,5,Overheating,,1974
+Token,token,British,,pryce,Tom Pryce,British,42,1974-brussels,Belgian Grand Prix,,,,,,20,66,,0.0,20,R,5,Collision,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-brussels,Belgian Grand Prix,,,,,,24,62,,0.0,21,R,5,Engine,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-brussels,Belgian Grand Prix,,,,,,5,56,,0.0,22,R,5,Fuel leak,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-brussels,Belgian Grand Prix,,,,,,28,53,,0.0,23,R,5,Brakes,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-brussels,Belgian Grand Prix,,,,,,26,53,,0.0,24,R,5,Suspension,,1974
+Brabham,brabham,British,,larrousse,Gérard Larrousse,French,43,1974-brussels,Belgian Grand Prix,,,,,,11,53,,0.0,25,R,5,Tyre,,1974
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,18,1974-brussels,Belgian Grand Prix,,,,,,8,50,,0.0,26,R,5,Handling,,1974
+Brabham,brabham,British,,opel,Rikky von Opel,Liechtensteiner,8,1974-brussels,Belgian Grand Prix,,,,,,22,49,,0.0,27,R,5,Engine,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-brussels,Belgian Grand Prix,,,,,,9,45,,0.0,28,R,5,Accident,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-brussels,Belgian Grand Prix,,,,,,6,29,,0.0,29,R,5,Transmission,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-brussels,Belgian Grand Prix,,,,,,15,12,,0.0,30,R,5,Collision,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-brussels,Belgian Grand Prix,,,,,,10,6,,0.0,31,R,5,Clutch,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-monte-carlo,Monaco Grand Prix,,,,,,3,78,7083700,9.0,1,1,6,Finished,1:58:03.700,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-monte-carlo,Monaco Grand Prix,,,,,,5,78,7112500,6.0,2,2,6,Finished,+28.800,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-monte-carlo,Monaco Grand Prix,,,,,,6,78,7132600,4.0,3,3,6,Finished,+48.900,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-monte-carlo,Monaco Grand Prix,,,,,,2,78,7146800,3.0,4,4,6,Finished,+1:03.100,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-monte-carlo,Monaco Grand Prix,,,,,,13,77,,2.0,5,5,6,+1 Lap,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-monte-carlo,Monaco Grand Prix,,,,,,23,77,,1.0,6,6,6,+1 Lap,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-monte-carlo,Monaco Grand Prix,,,,,,21,76,,0.0,7,7,6,+2 Laps,,1974
+Lola,lola,British,,edwards,Guy Edwards,British,27,1974-monte-carlo,Monaco Grand Prix,,,,,,26,75,,0.0,8,8,6,+3 Laps,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-monte-carlo,Monaco Grand Prix,,,,,,4,74,,0.0,9,9,6,+4 Laps,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-monte-carlo,Monaco Grand Prix,,,,,,27,62,,0.0,10,R,6,Gearbox,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-monte-carlo,Monaco Grand Prix,,,,,,19,34,,0.0,11,R,6,Engine,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-monte-carlo,Monaco Grand Prix,,,,,,1,32,,0.0,12,R,6,Ignition,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-monte-carlo,Monaco Grand Prix,,,,,,7,27,,0.0,13,R,6,Halfshaft,,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-monte-carlo,Monaco Grand Prix,,,,,,10,11,,0.0,14,R,6,Accident,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-monte-carlo,Monaco Grand Prix,,,,,,8,5,,0.0,15,R,6,Suspension,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-monte-carlo,Monaco Grand Prix,,,,,,22,4,,0.0,16,R,6,Accident,,1974
+Ensign,ensign,British,,schuppan,Vern Schuppan,Australian,22,1974-monte-carlo,Monaco Grand Prix,,,,,,25,4,,0.0,17,R,6,Accident,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-monte-carlo,Monaco Grand Prix,,,,,,9,3,,0.0,18,R,6,Collision,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-monte-carlo,Monaco Grand Prix,,,,,,11,0,,0.0,19,R,6,Collision,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-monte-carlo,Monaco Grand Prix,,,,,,12,0,,0.0,20,R,6,Collision,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-monte-carlo,Monaco Grand Prix,,,,,,14,0,,0.0,21,R,6,Collision,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-monte-carlo,Monaco Grand Prix,,,,,,15,0,,0.0,22,R,6,Collision,,1974
+Shadow,shadow,British,,redman,Brian Redman,British,16,1974-monte-carlo,Monaco Grand Prix,,,,,,16,0,,0.0,23,R,6,Collision,,1974
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,18,1974-monte-carlo,Monaco Grand Prix,,,,,,18,0,,0.0,24,R,6,Collision,,1974
+Trojan,trojan,British,,schenken,Tim Schenken,Australian,23,1974-monte-carlo,Monaco Grand Prix,,,,,,24,0,,0.0,25,R,6,Collision,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-monte-carlo,Monaco Grand Prix,,,,,,17,0,,0.0,26,W,6,Withdrew,,1974
+Amon,amon,New Zealander,,amon,Chris Amon,New Zealander,30,1974-monte-carlo,Monaco Grand Prix,,,,,,20,0,,0.0,27,W,6,Withdrew,,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-anderstorp,Swedish Grand Prix,,,,,,2,80,7111391,9.0,1,1,7,Finished,1:58:31.391,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-anderstorp,Swedish Grand Prix,,,,,,1,80,7111771,6.0,2,2,7,Finished,+0.380,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-anderstorp,Swedish Grand Prix,,,,,,6,80,7114716,4.0,3,3,7,Finished,+3.325,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-anderstorp,Swedish Grand Prix,,,,,,9,80,7164898,3.0,4,4,7,Finished,+53.507,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-anderstorp,Swedish Grand Prix,,,,,,8,80,7187794,2.0,5,5,7,Finished,+1:16.403,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-anderstorp,Swedish Grand Prix,,,,,,15,79,,1.0,6,6,7,+1 Lap,,1974
+Lola,lola,British,,edwards,Guy Edwards,British,27,1974-anderstorp,Swedish Grand Prix,,,,,,18,79,,0.0,7,7,7,+1 Lap,,1974
+Iso Marlboro,iso_marlboro,British,,belso,Tom Belsø,Danish,21,1974-anderstorp,Swedish Grand Prix,,,,,,21,79,,0.0,8,8,7,+1 Lap,,1974
+Brabham,brabham,British,,opel,Rikky von Opel,Liechtensteiner,8,1974-anderstorp,Swedish Grand Prix,,,,,,20,79,,0.0,9,9,7,+1 Lap,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-anderstorp,Swedish Grand Prix,,,,,,17,78,,0.0,10,10,7,Engine,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-anderstorp,Swedish Grand Prix,,,,,,14,77,,0.0,11,11,7,+3 Laps,,1974
+Ensign,ensign,British,,schuppan,Vern Schuppan,Australian,22,1974-anderstorp,Swedish Grand Prix,,,,,,26,77,,0.0,12,D,7,Disqualified,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-anderstorp,Swedish Grand Prix,,,,,,3,70,,0.0,13,R,7,Gearbox,,1974
+March,march,British,,wisell,Reine Wisell,Swedish,9,1974-anderstorp,Swedish Grand Prix,,,,,,16,59,,0.0,14,R,7,Suspension,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-anderstorp,Swedish Grand Prix,,,,,,12,56,,0.0,15,R,7,Suspension,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-anderstorp,Swedish Grand Prix,,,,,,22,53,,0.0,16,R,7,Suspension,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-anderstorp,Swedish Grand Prix,,,,,,10,30,,0.0,17,R,7,Oil leak,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-anderstorp,Swedish Grand Prix,,,,,,7,27,,0.0,18,R,7,Engine,,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-anderstorp,Swedish Grand Prix,,,,,,4,24,,0.0,19,R,7,Gearbox,,1974
+Surtees,surtees,British,,pace,Carlos Pace,Brazilian,18,1974-anderstorp,Swedish Grand Prix,,,,,,24,15,,0.0,20,R,7,Handling,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-anderstorp,Swedish Grand Prix,,,,,,5,8,,0.0,21,R,7,Halfshaft,,1974
+Surtees,surtees,British,,kinnunen,Leo Kinnunen,Finnish,23,1974-anderstorp,Swedish Grand Prix,,,,,,25,8,,0.0,22,R,7,Engine,,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-anderstorp,Swedish Grand Prix,,,,,,11,5,,0.0,23,R,7,Fuel leak,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-anderstorp,Swedish Grand Prix,,,,,,13,3,,0.0,24,R,7,Engine,,1974
+Shadow,shadow,British,,roos,Bertil Roos,Swedish,16,1974-anderstorp,Swedish Grand Prix,,,,,,23,2,,0.0,25,R,7,Gearbox,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-anderstorp,Swedish Grand Prix,,,,,,19,0,,0.0,26,R,7,Heat shield fire,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-zandvoort,Dutch Grand Prix,,,,,,1,75,6180350,9.0,1,1,8,Finished,1:43:00.350,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-zandvoort,Dutch Grand Prix,,,,,,2,75,6188600,6.0,2,2,8,Finished,+8.250,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-zandvoort,Dutch Grand Prix,,,,,,3,75,6210620,4.0,3,3,8,Finished,+30.270,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-zandvoort,Dutch Grand Prix,,,,,,4,75,6211640,3.0,4,4,8,Finished,+31.290,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-zandvoort,Dutch Grand Prix,,,,,,5,75,6214630,2.0,5,5,8,Finished,+34.280,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-zandvoort,Dutch Grand Prix,,,,,,8,75,6231870,1.0,6,6,8,Finished,+51.520,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-zandvoort,Dutch Grand Prix,,,,,,13,75,6254300,0.0,7,7,8,Finished,+1:13.950,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-zandvoort,Dutch Grand Prix,,,,,,10,73,,0.0,8,8,8,+2 Laps,,1974
+Brabham,brabham,British,,opel,Rikky von Opel,Liechtensteiner,8,1974-zandvoort,Dutch Grand Prix,,,,,,23,73,,0.0,9,9,8,+2 Laps,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-zandvoort,Dutch Grand Prix,,,,,,15,72,,0.0,10,10,8,+3 Laps,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-zandvoort,Dutch Grand Prix,,,,,,18,71,,0.0,11,11,8,+4 Laps,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-zandvoort,Dutch Grand Prix,,,,,,12,71,,0.0,12,12,8,+4 Laps,,1974
+Ensign,ensign,British,,schuppan,Vern Schuppan,Australian,22,1974-zandvoort,Dutch Grand Prix,,,,,,17,69,,0.0,13,D,8,Disqualified,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-zandvoort,Dutch Grand Prix,,,,,,9,65,,0.0,14,R,8,Ignition,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-zandvoort,Dutch Grand Prix,,,,,,25,60,,0.0,15,R,8,Gearbox,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-zandvoort,Dutch Grand Prix,,,,,,21,54,,0.0,16,R,8,Gearbox,,1974
+Lola,lola,British,,edwards,Guy Edwards,British,27,1974-zandvoort,Dutch Grand Prix,,,,,,14,36,,0.0,17,R,8,Fuel system,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-zandvoort,Dutch Grand Prix,,,,,,7,28,,0.0,18,R,8,Clutch,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-zandvoort,Dutch Grand Prix,,,,,,16,18,,0.0,19,R,8,Gearbox,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-zandvoort,Dutch Grand Prix,,,,,,19,16,,0.0,20,R,8,Gearbox,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-zandvoort,Dutch Grand Prix,,,,,,24,15,,0.0,21,R,8,Handling,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-zandvoort,Dutch Grand Prix,,,,,,20,8,,0.0,22,R,8,Transmission,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-zandvoort,Dutch Grand Prix,,,,,,6,2,,0.0,23,R,8,Collision,,1974
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1974-zandvoort,Dutch Grand Prix,,,,,,11,0,,0.0,24,R,8,Collision,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-zandvoort,Dutch Grand Prix,,,,,,22,0,,0.0,25,R,8,Accident,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-dijon,French Grand Prix,,,,,,2,80,4915020,9.0,1,1,9,Finished,1:21:55.020,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-dijon,French Grand Prix,,,,,,1,80,4935380,6.0,2,2,9,Finished,+20.360,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-dijon,French Grand Prix,,,,,,4,80,4942860,4.0,3,3,9,Finished,+27.840,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-dijon,French Grand Prix,,,,,,7,80,4943130,3.0,4,4,9,Finished,+28.110,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-dijon,French Grand Prix,,,,,,13,80,4952560,2.0,5,5,9,Finished,+37.540,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-dijon,French Grand Prix,,,,,,11,80,4953160,1.0,6,6,9,Finished,+38.140,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-dijon,French Grand Prix,,,,,,6,79,,0.0,7,7,9,+1 Lap,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-dijon,French Grand Prix,,,,,,9,79,,0.0,8,8,9,+1 Lap,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-dijon,French Grand Prix,,,,,,15,79,,0.0,9,9,9,+1 Lap,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-dijon,French Grand Prix,,,,,,17,79,,0.0,10,10,9,+1 Lap,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-dijon,French Grand Prix,,,,,,16,79,,0.0,11,11,9,+1 Lap,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-dijon,French Grand Prix,,,,,,12,79,,0.0,12,12,9,+1 Lap,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-dijon,French Grand Prix,,,,,,21,78,,0.0,13,13,9,+2 Laps,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-dijon,French Grand Prix,,,,,,22,78,,0.0,14,14,9,+2 Laps,,1974
+Lola,lola,British,,edwards,Guy Edwards,British,27,1974-dijon,French Grand Prix,,,,,,20,77,,0.0,15,15,9,+3 Laps,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-dijon,French Grand Prix,,,,,,14,76,,0.0,16,16,9,+4 Laps,,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-dijon,French Grand Prix,,,,,,5,27,,0.0,17,R,9,Engine,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-dijon,French Grand Prix,,,,,,8,24,,0.0,18,R,9,Handling,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-dijon,French Grand Prix,,,,,,18,4,,0.0,19,R,9,Clutch,,1974
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1974-dijon,French Grand Prix,,,,,,3,1,,0.0,20,R,9,Collision,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-dijon,French Grand Prix,,,,,,19,1,,0.0,21,R,9,Clutch,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-dijon,French Grand Prix,,,,,,10,0,,0.0,22,R,9,Collision,,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-kent,British Grand Prix,,,,,,3,75,6182200,9.0,1,1,10,Finished,1:43:02.200,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-kent,British Grand Prix,,,,,,8,75,6197500,6.0,2,2,10,Finished,+15.300,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-kent,British Grand Prix,,,,,,12,75,6243700,4.0,3,3,10,Finished,+1:01.500,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-kent,British Grand Prix,,,,,,7,75,6249400,3.0,4,4,10,Finished,+1:07.200,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-kent,British Grand Prix,,,,,,1,74,,2.0,5,5,10,+1 Lap,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-kent,British Grand Prix,,,,,,4,74,,1.0,6,6,10,+1 Lap,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-kent,British Grand Prix,,,,,,19,74,,0.0,7,7,10,+1 Lap,,1974
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1974-kent,British Grand Prix,,,,,,5,74,,0.0,8,8,10,+1 Lap,,1974
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1974-kent,British Grand Prix,,,,,,20,74,,0.0,9,9,10,+1 Lap,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-kent,British Grand Prix,,,,,,2,73,,0.0,10,10,10,+2 Laps,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-kent,British Grand Prix,,,,,,13,73,,0.0,11,11,10,+2 Laps,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-kent,British Grand Prix,,,,,,23,72,,0.0,12,12,10,+3 Laps,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-kent,British Grand Prix,,,,,,22,69,,0.0,13,13,10,+6 Laps,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-kent,British Grand Prix,,,,,,17,68,,0.0,14,14,10,+7 Laps,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-kent,British Grand Prix,,,,,,24,64,,0.0,15,R,10,Engine,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-kent,British Grand Prix,,,,,,14,62,,0.0,16,R,10,Not classified,,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-kent,British Grand Prix,,,,,,11,57,,0.0,17,R,10,Spun off,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-kent,British Grand Prix,,,,,,16,45,,0.0,18,R,10,Suspension,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-kent,British Grand Prix,,,,,,9,36,,0.0,19,R,10,Accident,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-kent,British Grand Prix,,,,,,10,35,,0.0,20,R,10,Engine,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-kent,British Grand Prix,,,,,,15,25,,0.0,21,R,10,Engine,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-kent,British Grand Prix,,,,,,16,17,,0.0,22,R,10,Fuel system,,1974
+Trojan,trojan,British,,schenken,Tim Schenken,Australian,23,1974-kent,British Grand Prix,,,,,,25,6,,0.0,23,R,10,Suspension,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-kent,British Grand Prix,,,,,,6,2,,0.0,24,R,10,Suspension,,1974
+Lola,lola,British,,gethin,Peter Gethin,British,27,1974-kent,British Grand Prix,,,,,,21,0,,0.0,25,R,10,Physical,,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-n-rburg,German Grand Prix,,,,,,2,14,6095000,9.0,1,1,11,Finished,1:41,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-n-rburg,German Grand Prix,,,,,,4,14,6145700,6.0,2,2,11,Finished,+50.700,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-n-rburg,German Grand Prix,,,,,,6,14,6178300,4.0,3,3,11,Finished,+1:23.300,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-n-rburg,German Grand Prix,,,,,,8,14,6179200,3.0,4,4,11,Finished,+1:24.200,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-n-rburg,German Grand Prix,,,,,,9,14,6180000,2.0,5,5,11,Finished,+1:25.000,1974
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1974-n-rburg,German Grand Prix,,,,,,11,14,6233100,1.0,6,6,11,Finished,+2:18.100,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-n-rburg,German Grand Prix,,,,,,20,14,6273700,0.0,7,7,11,Finished,+2:58.700,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-n-rburg,German Grand Prix,,,,,,18,14,6300900,0.0,8,8,11,Finished,+3:25.900,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-n-rburg,German Grand Prix,,,,,,19,14,6301400,0.0,9,9,11,Finished,+3:26.400,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-n-rburg,German Grand Prix,,,,,,24,14,6352700,0.0,10,10,11,Finished,+4:17.700,1974
+Surtees,surtees,British,,bell,Derek Bell,British,18,1974-n-rburg,German Grand Prix,,,,,,25,14,6412700,0.0,11,11,11,Finished,+5:17.700,1974
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1974-n-rburg,German Grand Prix,,,,,,17,14,6481300,0.0,12,12,11,Finished,+6:26.300,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-n-rburg,German Grand Prix,,,,,,23,14,6618100,0.0,13,13,11,Finished,+8:43.100,1974
+Token,token,British,,ashley,Ian Ashley,British,32,1974-n-rburg,German Grand Prix,,,,,,20,13,,0.0,14,14,11,+1 Lap,,1974
+McLaren,mclaren,British,,hailwood,Mike Hailwood,British,33,1974-n-rburg,German Grand Prix,,,,,,12,12,,0.0,15,15,11,Accident,,1974
+Surtees,surtees,British,,mass,Jochen Mass,German,19,1974-n-rburg,German Grand Prix,,,,,,13,10,,0.0,16,R,11,Engine,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-n-rburg,German Grand Prix,,,,,,10,10,,0.0,17,R,11,Gearbox,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-n-rburg,German Grand Prix,,,,,,5,5,,0.0,18,R,11,Accident,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-n-rburg,German Grand Prix,,,,,,16,5,,0.0,19,R,11,Throttle,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-n-rburg,German Grand Prix,,,,,,15,4,,0.0,20,R,11,Fuel system,,1974
+Ensign,ensign,British,,schuppan,Vern Schuppan,Australian,22,1974-n-rburg,German Grand Prix,,,,,,22,4,,0.0,21,R,11,Gearbox,,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-n-rburg,German Grand Prix,,,,,,3,2,,0.0,22,R,11,Suspension,,1974
+Iso Marlboro,iso_marlboro,British,,laffite,Jacques Laffite,French,21,1974-n-rburg,German Grand Prix,,,,,,21,2,,0.0,23,R,11,Suspension,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-n-rburg,German Grand Prix,,,,,,14,1,,0.0,24,R,11,Suspension,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-n-rburg,German Grand Prix,,,,,,1,0,,0.0,25,R,11,Accident,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-n-rburg,German Grand Prix,,,,,,7,0,,0.0,26,R,11,Accident,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-spielberg,Austrian Grand Prix,,,,,,2,54,5324720,9.0,1,1,12,Finished,1:28:44.720,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-spielberg,Austrian Grand Prix,,,,,,10,54,5367640,6.0,2,2,12,Finished,+42.920,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-spielberg,Austrian Grand Prix,,,,,,7,54,5386260,4.0,3,3,12,Finished,+1:01.540,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-spielberg,Austrian Grand Prix,,,,,,11,54,5394110,3.0,4,4,12,Finished,+1:09.390,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-spielberg,Austrian Grand Prix,,,,,,8,54,5397800,2.0,5,5,12,Finished,+1:13.080,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-spielberg,Austrian Grand Prix,,,,,,20,54,5398540,1.0,6,6,12,Finished,+1:13.820,1974
+McLaren,mclaren,British,,hobbs,David Hobbs,British,33,1974-spielberg,Austrian Grand Prix,,,,,,17,53,,0.0,7,7,12,+1 Lap,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-spielberg,Austrian Grand Prix,,,,,,23,52,,0.0,8,8,12,+2 Laps,,1974
+Surtees,surtees,British,,quester,Dieter Quester,Austrian,30,1974-spielberg,Austrian Grand Prix,,,,,,25,51,,0.0,9,9,12,+3 Laps,,1974
+Trojan,trojan,British,,schenken,Tim Schenken,Australian,23,1974-spielberg,Austrian Grand Prix,,,,,,19,50,,0.0,10,10,12,+4 Laps,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-spielberg,Austrian Grand Prix,,,,,,15,48,,0.0,11,11,12,Suspension,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-spielberg,Austrian Grand Prix,,,,,,21,48,,0.0,12,12,12,+6 Laps,,1974
+Token,token,British,,ashley,Ian Ashley,British,35,1974-spielberg,Austrian Grand Prix,,,,,,24,46,,0.0,13,R,12,Not classified,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-spielberg,Austrian Grand Prix,,,,,,6,45,,0.0,14,R,12,Halfshaft,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-spielberg,Austrian Grand Prix,,,,,,22,43,,0.0,15,R,12,Collision,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-spielberg,Austrian Grand Prix,,,,,,14,42,,0.0,16,R,12,Collision,,1974
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1974-spielberg,Austrian Grand Prix,,,,,,4,41,,0.0,17,R,12,Fuel leak,,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-spielberg,Austrian Grand Prix,,,,,,3,37,,0.0,18,R,12,Engine,,1974
+Iso Marlboro,iso_marlboro,British,,laffite,Jacques Laffite,French,21,1974-spielberg,Austrian Grand Prix,,,,,,12,37,,0.0,19,R,12,Not classified,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-spielberg,Austrian Grand Prix,,,,,,9,24,,0.0,20,R,12,Fuel system,,1974
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1974-spielberg,Austrian Grand Prix,,,,,,16,22,,0.0,21,R,12,Spun off,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-spielberg,Austrian Grand Prix,,,,,,18,22,,0.0,22,R,12,Engine,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-spielberg,Austrian Grand Prix,,,,,,1,17,,0.0,23,R,12,Engine,,1974
+Lola,lola,British,,stommelen,Rolf Stommelen,German,27,1974-spielberg,Austrian Grand Prix,,,,,,13,14,,0.0,24,R,12,Accident,,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-spielberg,Austrian Grand Prix,,,,,,5,8,,0.0,25,R,12,Engine,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-monza,Italian Grand Prix,,,,,,7,52,4976600,9.0,1,1,13,Finished,1:22:56.600,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-monza,Italian Grand Prix,,,,,,6,52,4977400,6.0,2,2,13,Finished,+0.800,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-monza,Italian Grand Prix,,,,,,12,52,5001300,4.0,3,3,13,Finished,+24.700,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-monza,Italian Grand Prix,,,,,,15,52,5064300,3.0,4,4,13,Finished,+1:27.700,1974
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1974-monza,Italian Grand Prix,,,,,,3,51,,2.0,5,5,13,+1 Lap,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-monza,Italian Grand Prix,,,,,,19,51,,1.0,6,6,13,+1 Lap,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-monza,Italian Grand Prix,,,,,,4,51,,0.0,7,7,13,+1 Lap,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-monza,Italian Grand Prix,,,,,,21,51,,0.0,8,8,13,+1 Lap,,1974
+McLaren,mclaren,British,,hobbs,David Hobbs,British,33,1974-monza,Italian Grand Prix,,,,,,23,51,,0.0,9,9,13,+1 Lap,,1974
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1974-monza,Italian Grand Prix,,,,,,22,50,,0.0,10,10,13,+2 Laps,,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-monza,Italian Grand Prix,,,,,,10,50,,0.0,11,11,13,+2 Laps,,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-monza,Italian Grand Prix,,,,,,5,40,,0.0,12,R,13,Engine,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-monza,Italian Grand Prix,,,,,,1,32,,0.0,13,R,13,Engine,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-monza,Italian Grand Prix,,,,,,16,30,,0.0,14,R,13,Throttle,,1974
+Lola,lola,British,,stommelen,Rolf Stommelen,German,27,1974-monza,Italian Grand Prix,,,,,,14,25,,0.0,15,R,13,Suspension,,1974
+Iso Marlboro,iso_marlboro,British,,laffite,Jacques Laffite,French,21,1974-monza,Italian Grand Prix,,,,,,17,22,,0.0,16,R,13,Engine,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-monza,Italian Grand Prix,,,,,,9,19,,0.0,17,R,13,Engine,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-monza,Italian Grand Prix,,,,,,13,16,,0.0,18,R,13,Accident,,1974
+Trojan,trojan,British,,schenken,Tim Schenken,Australian,29,1974-monza,Italian Grand Prix,,,,,,20,15,,0.0,19,R,13,Gearbox,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-monza,Italian Grand Prix,,,,,,2,12,,0.0,20,R,13,Gearbox,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-monza,Italian Grand Prix,,,,,,18,11,,0.0,21,R,13,Chassis,,1974
+BRM,brm,British,,pescarolo,Henri Pescarolo,French,15,1974-monza,Italian Grand Prix,,,,,,25,3,,0.0,22,R,13,Engine,,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-monza,Italian Grand Prix,,,,,,8,2,,0.0,23,R,13,Engine,,1974
+BRM,brm,British,,migault,François Migault,French,37,1974-monza,Italian Grand Prix,,,,,,24,1,,0.0,24,R,13,Gearbox,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-monza,Italian Grand Prix,,,,,,11,0,,0.0,25,R,13,Electrical,,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-ontario,Canadian Grand Prix,,,,,,1,80,6026136,9.0,1,1,14,Finished,1:40:26.136,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-ontario,Canadian Grand Prix,,,,,,6,80,6039170,6.0,2,2,14,Finished,+13.034,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-ontario,Canadian Grand Prix,,,,,,10,80,6040630,4.0,3,3,14,Finished,+14.494,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-ontario,Canadian Grand Prix,,,,,,8,80,6041805,3.0,4,4,14,Finished,+15.669,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-ontario,Canadian Grand Prix,,,,,,7,80,6081458,2.0,5,5,14,Finished,+55.322,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-ontario,Canadian Grand Prix,,,,,,14,79,,1.0,6,6,14,+1 Lap,,1974
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,55,1974-ontario,Canadian Grand Prix,,,,,,16,79,,0.0,7,7,14,+1 Lap,,1974
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1974-ontario,Canadian Grand Prix,,,,,,9,79,,0.0,8,8,14,+1 Lap,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-ontario,Canadian Grand Prix,,,,,,4,79,,0.0,9,9,14,+1 Lap,,1974
+Surtees,surtees,British,,koinigg,Helmuth Koinigg,Austrian,19,1974-ontario,Canadian Grand Prix,,,,,,22,78,,0.0,10,10,14,+2 Laps,,1974
+Lola,lola,British,,stommelen,Rolf Stommelen,German,27,1974-ontario,Canadian Grand Prix,,,,,,11,78,,0.0,11,11,14,+2 Laps,,1974
+Penske,penske,American,,donohue,Mark Donohue,American,66,1974-ontario,Canadian Grand Prix,,,,,,24,78,,0.0,12,12,14,+2 Laps,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-ontario,Canadian Grand Prix,,,,,,21,78,,0.0,13,13,14,+2 Laps,,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-ontario,Canadian Grand Prix,,,,,,20,77,,0.0,14,14,14,+3 Laps,,1974
+Iso Marlboro,iso_marlboro,British,,laffite,Jacques Laffite,French,21,1974-ontario,Canadian Grand Prix,,,,,,18,74,,0.0,15,15,14,Puncture,,1974
+McLaren,mclaren,British,,mass,Jochen Mass,German,33,1974-ontario,Canadian Grand Prix,,,,,,12,72,,0.0,16,16,14,+8 Laps,,1974
+BRM,brm,British,,amon,Chris Amon,New Zealander,15,1974-ontario,Canadian Grand Prix,,,,,,25,70,,0.0,17,R,14,Not classified,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-ontario,Canadian Grand Prix,,,,,,2,67,,0.0,18,R,14,Accident,,1974
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1974-ontario,Canadian Grand Prix,,,,,,13,65,,0.0,19,R,14,Engine,,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-ontario,Canadian Grand Prix,,,,,,15,61,,0.0,20,R,14,Suspension,,1974
+BRM,brm,British,,beltoise,Jean-Pierre Beltoise,French,14,1974-ontario,Canadian Grand Prix,,,,,,17,60,,0.0,21,R,14,Not classified,,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-ontario,Canadian Grand Prix,,,,,,3,48,,0.0,22,R,14,Brakes,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-ontario,Canadian Grand Prix,,,,,,5,46,,0.0,23,R,14,Halfshaft,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-ontario,Canadian Grand Prix,,,,,,19,40,,0.0,24,R,14,Handling,,1974
+Brabham,brabham,British,,wietzes,Eppie Wietzes,Canadian,50,1974-ontario,Canadian Grand Prix,,,,,,26,33,,0.0,25,R,14,Engine,,1974
+March,march,British,,stuck,Hans-Joachim Stuck,German,9,1974-ontario,Canadian Grand Prix,,,,,,23,12,,0.0,26,R,14,Fuel system,,1974
+Brabham,brabham,British,,reutemann,Carlos Reutemann,Argentine,7,1974-new-york-state,United States Grand Prix,,,,,,1,59,6021439,9.0,1,1,15,Finished,1:40:21.439,1974
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1974-new-york-state,United States Grand Prix,,,,,,4,59,6032174,6.0,2,2,15,Finished,+10.735,1974
+Hesketh,hesketh,British,,hunt,James Hunt,British,24,1974-new-york-state,United States Grand Prix,,,,,,2,59,6091823,4.0,3,3,15,Finished,+1:10.384,1974
+McLaren,mclaren,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1974-new-york-state,United States Grand Prix,,,,,,8,59,6099192,3.0,4,4,15,Finished,+1:17.753,1974
+Brabham,brabham,British,,watson,John Watson,British,28,1974-new-york-state,United States Grand Prix,,,,,,7,59,6107243,2.0,5,5,15,Finished,+1:25.804,1974
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1974-new-york-state,United States Grand Prix,,,,,,13,59,6108945,1.0,6,6,15,Finished,+1:27.506,1974
+McLaren,mclaren,British,,mass,Jochen Mass,German,33,1974-new-york-state,United States Grand Prix,,,,,,20,59,6111451,0.0,7,7,15,Finished,+1:30.012,1974
+Lola,lola,British,,hill,Graham Hill,British,26,1974-new-york-state,United States Grand Prix,,,,,,24,58,,0.0,8,8,15,+1 Lap,,1974
+BRM,brm,British,,amon,Chris Amon,New Zealander,15,1974-new-york-state,United States Grand Prix,,,,,,12,57,,0.0,9,9,15,+2 Laps,,1974
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1974-new-york-state,United States Grand Prix,,,,,,10,57,,0.0,10,10,15,+2 Laps,,1974
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,11,1974-new-york-state,United States Grand Prix,,,,,,9,55,,0.0,11,11,15,+4 Laps,,1974
+Lola,lola,British,,stommelen,Rolf Stommelen,German,27,1974-new-york-state,United States Grand Prix,,,,,,21,54,,0.0,12,12,15,+5 Laps,,1974
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,1,1974-new-york-state,United States Grand Prix,,,,,,19,52,,0.0,13,R,15,Fuel system,,1974
+Ensign,ensign,British,,wilds,Mike Wilds,British,22,1974-new-york-state,United States Grand Prix,,,,,,22,50,,0.0,14,R,15,Not classified,,1974
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1974-new-york-state,United States Grand Prix,,,,,,18,47,,0.0,15,R,15,Not classified,,1974
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1974-new-york-state,United States Grand Prix,,,,,,6,44,,0.0,16,R,15,Fuel system,,1974
+Iso Marlboro,iso_marlboro,British,,merzario,Arturo Merzario,Italian,20,1974-new-york-state,United States Grand Prix,,,,,,15,43,,0.0,17,R,15,Electrical,,1974
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,12,1974-new-york-state,United States Grand Prix,,,,,,5,38,,0.0,18,R,15,Suspension,,1974
+Iso Marlboro,iso_marlboro,British,,laffite,Jacques Laffite,French,21,1974-new-york-state,United States Grand Prix,,,,,,11,31,,0.0,19,R,15,Engine,,1974
+Penske,penske,American,,donohue,Mark Donohue,American,66,1974-new-york-state,United States Grand Prix,,,,,,14,27,,0.0,20,R,15,Suspension,,1974
+Surtees,surtees,British,,dolhem,José Dolhem,French,18,1974-new-york-state,United States Grand Prix,,,,,,26,25,,0.0,21,W,15,Withdrew,,1974
+March,march,British,,brambilla,Vittorio Brambilla,Italian,10,1974-new-york-state,United States Grand Prix,,,,,,25,21,,0.0,22,R,15,Fuel system,,1974
+Surtees,surtees,British,,koinigg,Helmuth Koinigg,Austrian,19,1974-new-york-state,United States Grand Prix,,,,,,23,9,,0.0,23,R,15,Fatal accident,,1974
+Team Lotus,team_lotus,British,,ickx,Jacky Ickx,Belgian,2,1974-new-york-state,United States Grand Prix,,,,,,16,7,,0.0,24,R,15,Suspension,,1974
+Team Lotus,team_lotus,British,,schenken,Tim Schenken,Australian,31,1974-new-york-state,United States Grand Prix,,,,,,27,6,,0.0,25,D,15,Disqualified,,1974
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,55,1974-new-york-state,United States Grand Prix,,,,,,3,4,,0.0,26,D,15,Disqualified,,1974
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,6,1974-new-york-state,United States Grand Prix,,,,,,17,4,,0.0,27,R,15,Engine,,1974

@@ -1,0 +1,40 @@
+{
+  "year": 1978,
+  "generated_at": "2026-05-27T06:05:46.672548+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 16,
+  "race_results": 391,
+  "qualifying_results": 0,
+  "drivers": 38,
+  "constructors": 19,
+  "driver_champion": {
+    "year": 1978,
+    "position": 1,
+    "position_text": "1",
+    "points": 64.0,
+    "wins": 6,
+    "driver_id": "mario_andretti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mario Andretti",
+    "driver_nationality": "American",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1978,
+    "position": 1,
+    "position_text": "1",
+    "points": 86.0,
+    "wins": 8,
+    "constructor_id": "team_lotus",
+    "constructor": "Team Lotus",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  }
+}

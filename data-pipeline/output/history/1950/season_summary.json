@@ -1,0 +1,30 @@
+{
+  "year": 1950,
+  "generated_at": "2026-05-27T05:59:17.099912+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 7,
+  "race_results": 160,
+  "qualifying_results": 0,
+  "drivers": 81,
+  "constructors": 0,
+  "driver_champion": {
+    "year": 1950,
+    "position": 1,
+    "position_text": "1",
+    "points": 30.0,
+    "wins": 3,
+    "driver_id": "farina",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nino Farina",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Alfa Romeo"
+    ],
+    "constructor_ids": [
+      "alfa"
+    ]
+  },
+  "constructor_champion": null
+}

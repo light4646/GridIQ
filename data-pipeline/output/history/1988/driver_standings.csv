@@ -1,0 +1,36 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,senna,Ayrton Senna,Brazilian,,90.0,1,1,8,1988
+"[""mclaren""]","[""McLaren""]",,prost,Alain Prost,French,,87.0,2,2,7,1988
+"[""ferrari""]","[""Ferrari""]",,berger,Gerhard Berger,Austrian,,41.0,3,3,1,1988
+"[""benetton""]","[""Benetton""]",,boutsen,Thierry Boutsen,Belgian,,27.0,4,4,0,1988
+"[""ferrari""]","[""Ferrari""]",,alboreto,Michele Alboreto,Italian,,24.0,5,5,0,1988
+"[""team_lotus""]","[""Team Lotus""]",,piquet,Nelson Piquet,Brazilian,,22.0,6,6,0,1988
+"[""march""]","[""March""]",,capelli,Ivan Capelli,Italian,,17.0,7,7,0,1988
+"[""arrows""]","[""Arrows""]",,warwick,Derek Warwick,British,,17.0,8,8,0,1988
+"[""williams""]","[""Williams""]",,mansell,Nigel Mansell,British,,12.0,9,9,0,1988
+"[""benetton""]","[""Benetton""]",,nannini,Alessandro Nannini,Italian,,12.0,10,10,0,1988
+"[""williams""]","[""Williams""]",,patrese,Riccardo Patrese,Italian,,8.0,11,11,0,1988
+"[""arrows""]","[""Arrows""]",,cheever,Eddie Cheever,American,,6.0,12,12,0,1988
+"[""march""]","[""March""]",,gugelmin,Maurício Gugelmin,Brazilian,,5.0,13,13,0,1988
+"[""tyrrell""]","[""Tyrrell""]",,palmer,Jonathan Palmer,British,,5.0,14,14,0,1988
+"[""rial""]","[""Rial""]",,cesaris,Andrea de Cesaris,Italian,,3.0,15,15,0,1988
+"[""team_lotus""]","[""Team Lotus""]",,satoru_nakajima,Satoru Nakajima,Japanese,,1.0,16,16,0,1988
+"[""minardi""]","[""Minardi""]",,martini,Pierluigi Martini,Italian,,1.0,17,17,0,1988
+"[""larrousse""]","[""Larrousse""]",,dalmas,Yannick Dalmas,French,,0.0,,-,0,1988
+"[""dallara""]","[""Dallara""]",,caffi,Alex Caffi,Italian,,0.0,,-,0,1988
+"[""williams""]","[""Williams""]",,brundle,Martin Brundle,British,,0.0,,-,0,1988
+"[""ags""]","[""AGS""]",,streiff,Philippe Streiff,French,,0.0,,-,0,1988
+"[""minardi""]","[""Minardi""]",,sala,Luis Pérez-Sala,Spanish,,0.0,,-,0,1988
+"[""coloni""]","[""Coloni""]",,tarquini,Gabriele Tarquini,Italian,,0.0,,-,0,1988
+"[""larrousse""]","[""Larrousse""]",,alliot,Philippe Alliot,French,,0.0,,-,0,1988
+"[""ligier""]","[""Ligier""]",,johansson,Stefan Johansson,Swedish,,0.0,,-,0,1988
+"[""tyrrell""]","[""Tyrrell""]",,bailey,Julian Bailey,British,,0.0,,-,0,1988
+"[""osella""]","[""Osella""]",,larini,Nicola Larini,Italian,,0.0,,-,0,1988
+"[""ligier""]","[""Ligier""]",,arnoux,René Arnoux,French,,0.0,,-,0,1988
+"[""eurobrun""]","[""Euro Brun""]",,modena,Stefano Modena,Italian,,0.0,,-,0,1988
+"[""williams""]","[""Williams""]",,schlesser,Jean-Louis Schlesser,French,,0.0,,-,0,1988
+"[""zakspeed""]","[""Zakspeed""]",,schneider,Bernd Schneider,German,,0.0,,-,0,1988
+"[""eurobrun""]","[""Euro Brun""]",,larrauri,Oscar Larrauri,Argentine,,0.0,,-,0,1988
+"[""zakspeed""]","[""Zakspeed""]",,ghinzani,Piercarlo Ghinzani,Italian,,0.0,,-,0,1988
+"[""minardi""]","[""Minardi""]",,campos,Adrián Campos,Spanish,,0.0,,-,0,1988
+"[""larrousse""]","[""Larrousse""]",,suzuki,Aguri Suzuki,Japanese,,0.0,,-,0,1988

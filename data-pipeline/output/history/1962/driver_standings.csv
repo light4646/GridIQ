@@ -1,0 +1,58 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""brm""]","[""BRM""]",,hill,Graham Hill,British,,42.0,1,1,4,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,clark,Jim Clark,British,,30.0,2,2,3,1962
+"[""cooper-climax""]","[""Cooper-Climax""]",,mclaren,Bruce McLaren,New Zealander,,27.0,3,3,1,1962
+"[""lola""]","[""Lola""]",,surtees,John Surtees,British,,19.0,4,4,0,1962
+"[""porsche"", ""lotus-brm""]","[""Porsche"", ""Lotus-BRM""]",,gurney,Dan Gurney,American,,15.0,5,5,1,1962
+"[""ferrari""]","[""Ferrari""]",,phil_hill,Phil Hill,American,,14.0,6,6,0,1962
+"[""cooper-climax""]","[""Cooper-Climax""]",,maggs,Tony Maggs,South African,,13.0,7,7,0,1962
+"[""brm""]","[""BRM""]",,ginther,Richie Ginther,American,,10.0,8,8,0,1962
+"[""lotus-climax"", ""brabham""]","[""Lotus-Climax"", ""Brabham""]",,jack_brabham,Jack Brabham,Australian,,9.0,9,9,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,trevor_taylor,Trevor Taylor,British,,6.0,10,10,0,1962
+"[""ferrari""]","[""Ferrari""]",,baghetti,Giancarlo Baghetti,Italian,,5.0,11,11,0,1962
+"[""ferrari""]","[""Ferrari""]",,bandini,Lorenzo Bandini,Italian,,4.0,12,12,0,1962
+"[""ferrari""]","[""Ferrari""]",,ricardo_rodriguez,Ricardo Rodríguez,Mexican,,4.0,13,13,0,1962
+"[""ferrari""]","[""Ferrari""]",,mairesse,Willy Mairesse,Belgian,,3.0,14,14,0,1962
+"[""porsche""]","[""Porsche""]",,bonnier,Jo Bonnier,Swedish,,3.0,15,15,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,ireland,Innes Ireland,British,,2.0,16,16,0,1962
+"[""porsche""]","[""Porsche""]",,beaufort,Carel Godin de Beaufort,Dutch,,2.0,17,17,0,1962
+"[""lotus-climax"", ""lotus-brm""]","[""Lotus-Climax"", ""Lotus-BRM""]",,gregory,Masten Gregory,American,,1.0,18,18,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,lederle,Neville Lederle,South African,,1.0,19,19,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,trintignant,Maurice Trintignant,French,,0.0,,-,0,1962
+"[""cooper-climax"", ""brm"", ""cooper""]","[""Cooper-Climax"", ""BRM"", ""Cooper""]",,lewis,Jackie Lewis,British,,0.0,,-,0,1962
+"[""cooper-climax""]","[""Cooper-Climax""]",,love,John Love,Rhodesian,,0.0,,-,0,1962
+"[""lotus-climax"", ""porsche""]","[""Lotus-Climax"", ""Porsche""]",,vaccarella,Nino Vaccarella,Italian,,0.0,,-,0,1962
+"[""lotus-climax"", ""enb""]","[""Lotus-Climax"", ""ENB""]",,bianchi,Lucien Bianchi,Belgian,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,penske,Roger Penske,American,,0.0,,-,0,1962
+"[""brm""]","[""BRM""]",,johnstone,Bruce Johnstone,South African,,0.0,,-,0,1962
+"[""lotus-climax"", ""lotus-brm""]","[""Lotus-Climax"", ""Lotus-BRM""]",,siffert,Jo Siffert,Swiss,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,schroeder,Rob Schroeder,British,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,pieterse,Ernie Pieterse,South African,,0.0,,-,0,1962
+"[""cooper-climax""]","[""Cooper-Climax""]",,burgess,Ian Burgess,British,,0.0,,-,0,1962
+"[""emeryson""]","[""Emeryson""]",,settember,Tony Settember,American,,0.0,,-,0,1962
+"[""lotus-climax"", ""emeryson""]","[""Lotus-Climax"", ""Emeryson""]",,campbell-jones,John Campbell-Jones,British,,0.0,,-,0,1962
+"[""cooper-climax""]","[""Cooper-Climax""]",,sharp,Hap Sharp,American,,0.0,,-,0,1962
+"[""porsche""]","[""Porsche""]",,walter,Heini Walter,Swiss,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,chamberlain,Jay Chamberlain,American,,0.0,,-,0,1962
+"[""lola""]","[""Lola""]",,salvadori,Roy Salvadori,British,,0.0,,-,0,1962
+"[""lds""]","[""LDS""]",,serrurier,Doug Serrurier,South African,,0.0,,-,0,1962
+"[""emeryson"", ""lotus-brm""]","[""Emeryson"", ""Lotus-BRM""]",,seidel,Wolfgang Seidel,German,,0.0,,-,0,1962
+"[""cooper-alfa_romeo""]","[""Cooper-Alfa Romeo""]",,harris,Mike Harris,South African,,0.0,,-,0,1962
+"[""cooper-climax""]","[""Cooper-Climax""]",,mayer,Timmy Mayer,American,,0.0,,-,0,1962
+"[""team_lotus""]","[""Team Lotus""]",,arundell,Peter Arundell,British,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,hocking,Gary Hocking,Rhodesian,,0.0,,-,0,1962
+"[""brm""]","[""BRM""]",,marsh,Tony Marsh,British,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,vyver,Syd van der Vyver,South African,,0.0,,-,0,1962
+"[""lotus-climax"", ""gilby""]","[""Lotus-Climax"", ""Gilby""]",,greene,Keith Greene,British,,0.0,,-,0,1962
+"[""porsche""]","[""Porsche""]",,pon,Ben Pon,Dutch,,0.0,,-,0,1962
+"[""porsche""]","[""Porsche""]",,davis,Colin Davis,British,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,hall,Jim Hall,American,,0.0,,-,0,1962
+"[""porsche""]","[""Porsche""]",,slotemaker,Rob Slotemaker,Dutch,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,abate,Carlo Abate,Italian,,0.0,,-,0,1962
+"[""lotus-climax"", ""lotus-brm""]","[""Lotus-Climax"", ""Lotus-BRM""]",,shelly,Tony Shelly,New Zealander,,0.0,,-,0,1962
+"[""lotus-climax""]","[""Lotus-Climax""]",,tingle,Sam Tingle,Rhodesian,,0.0,,-,0,1962
+"[""de_tomaso-alfa_romeo""]","[""De Tomaso-Alfa Romeo""]",,bussinello,Roberto Bussinello,Italian,,0.0,,-,0,1962
+"[""brm"", ""lotus-climax""]","[""BRM"", ""Lotus-Climax""]",,ashmore,Gerry Ashmore,British,,0.0,,-,0,1962
+"[""porsche"", ""lotus-brm""]","[""Porsche"", ""Lotus-BRM""]",,schiller,Heinz Schiller,Swiss,,0.0,,-,0,1962
+"[""cooper-climax""]","[""Cooper-Climax""]",,collomb,Bernard Collomb,French,,0.0,,-,0,1962
+"[""lotus-borgward""]","[""Lotus-Borgward""]",,kuhnke,Kurt Kuhnke,German,,0.0,,-,0,1962

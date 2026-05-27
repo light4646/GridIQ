@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 
 import { EventExplorer } from "@/components/EventExplorer";
+import F1TVBanner from "@/components/F1TVBanner";
 import { formatGap, formatLap } from "@/lib/f1-utils";
 import type { DriverLapTrace, EventOption, PitStopSummary, QualifyingRaceComparison, RacePaceRow, RaceSummary, StintSummary, TyreUsageSummary } from "@/lib/types";
 import type { FinalClassification } from "@/lib/static-data";
@@ -564,6 +565,8 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
             </div>
           </div>
         </section>
+
+        <F1TVBanner />
 
         <div className="footer">
           Generated from FastF1 event data and connected to the GridIQ historical database. Final classification is shown separately from clean-lap pace ranking because the fastest average race pace sample does not always equal the race winner.

@@ -1,0 +1,202 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Cooper-Maserati,cooper-maserati,British,,rodriguez,Pedro Rodríguez,Mexican,4,1967-midrand,South African Grand Prix,,,,,,4,80,7545900,9.0,1,1,1,Finished,2:05:45.900,1967
+Cooper-Climax,cooper-climax,British,,love,John Love,Rhodesian,17,1967-midrand,South African Grand Prix,,,,,,5,80,7572300,6.0,2,2,1,Finished,+26.400,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,11,1967-midrand,South African Grand Prix,,,,,,6,79,,4.0,3,3,1,+1 Lap,,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,2,1967-midrand,South African Grand Prix,,,,,,2,78,,3.0,4,4,1,+2 Laps,,1967
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,14,1967-midrand,South African Grand Prix,,,,,,10,78,,2.0,5,5,1,+2 Laps,,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,1,1967-midrand,South African Grand Prix,,,,,,1,76,,1.0,6,6,1,+4 Laps,,1967
+Brabham-Climax,brabham-climax,British,,charlton,Dave Charlton,South African,19,1967-midrand,South African Grand Prix,,,,,,8,63,,0.0,7,R,1,Not classified,,1967
+Brabham-Climax,brabham-climax,British,,botha,Luki Botha,South African,20,1967-midrand,South African Grand Prix,,,,,,17,60,,0.0,8,R,1,Not classified,,1967
+LDS-Climax,lds-climax,South African,,tingle,Sam Tingle,Rhodesian,18,1967-midrand,South African Grand Prix,,,,,,14,56,,0.0,9,R,1,Accident,,1967
+Lotus-BRM,lotus-brm,British,,courage,Piers Courage,British,16,1967-midrand,South African Grand Prix,,,,,,18,51,,0.0,10,R,1,Fuel system,,1967
+Eagle-Climax,eagle-climax,American,,gurney,Dan Gurney,American,9,1967-midrand,South African Grand Prix,,,,,,11,44,,0.0,11,R,1,Suspension,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,12,1967-midrand,South African Grand Prix,,,,,,16,41,,0.0,12,R,1,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,3,1967-midrand,South African Grand Prix,,,,,,7,38,,0.0,13,R,1,Engine,,1967
+BRM,brm,British,,spence,Mike Spence,British,6,1967-midrand,South African Grand Prix,,,,,,13,31,,0.0,14,R,1,Oil leak,,1967
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,15,1967-midrand,South African Grand Prix,,,,,,12,30,,0.0,15,R,1,Engine,,1967
+Lotus-BRM,lotus-brm,British,,clark,Jim Clark,British,7,1967-midrand,South African Grand Prix,,,,,,3,22,,0.0,16,R,1,Engine,,1967
+Lotus-BRM,lotus-brm,British,,hill,Graham Hill,British,8,1967-midrand,South African Grand Prix,,,,,,15,6,,0.0,17,R,1,Accident,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,5,1967-midrand,South African Grand Prix,,,,,,9,2,,0.0,18,R,1,Engine,,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,9,1967-monte-carlo,Monaco Grand Prix,,,,,,4,100,9274300,9.0,1,1,2,Finished,2:34:34.300,1967
+Lotus-BRM,lotus-brm,British,,hill,Graham Hill,British,14,1967-monte-carlo,Monaco Grand Prix,,,,,,8,99,,6.0,2,2,2,+1 Lap,,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,20,1967-monte-carlo,Monaco Grand Prix,,,,,,14,98,,4.0,3,3,2,+2 Laps,,1967
+McLaren-BRM,mclaren-brm,British,,mclaren,Bruce McLaren,New Zealander,16,1967-monte-carlo,Monaco Grand Prix,,,,,,10,98,,3.0,4,4,2,+3 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,rodriguez,Pedro Rodríguez,Mexican,11,1967-monte-carlo,Monaco Grand Prix,,,,,,16,96,,2.0,5,5,2,+4 Laps,,1967
+BRM,brm,British,,spence,Mike Spence,British,5,1967-monte-carlo,Monaco Grand Prix,,,,,,12,96,,1.0,6,6,2,+4 Laps,,1967
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,18,1967-monte-carlo,Monaco Grand Prix,,,,,,2,81,,0.0,7,R,2,Accident,,1967
+BRM,brm,British,,courage,Piers Courage,British,6,1967-monte-carlo,Monaco Grand Prix,,,,,,13,64,,0.0,8,R,2,Spun off,,1967
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,12,1967-monte-carlo,Monaco Grand Prix,,,,,,5,42,,0.0,9,R,2,Suspension,,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1967-monte-carlo,Monaco Grand Prix,,,,,,3,32,,0.0,10,R,2,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,17,1967-monte-carlo,Monaco Grand Prix,,,,,,9,31,,0.0,11,R,2,Oil pressure,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,4,1967-monte-carlo,Monaco Grand Prix,,,,,,6,14,,0.0,12,R,2,Differential,,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,10,1967-monte-carlo,Monaco Grand Prix,,,,,,15,14,,0.0,13,R,2,Gearbox,,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,23,1967-monte-carlo,Monaco Grand Prix,,,,,,7,4,,0.0,14,R,2,Fuel pump,,1967
+Matra,matra,French,,gavin,Johnny Servoz-Gavin,French,2,1967-monte-carlo,Monaco Grand Prix,,,,,,11,4,,0.0,15,R,2,Injection,,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,8,1967-monte-carlo,Monaco Grand Prix,,,,,,1,0,,0.0,16,R,2,Engine,,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,5,1967-zandvoort,Dutch Grand Prix,,,,,,8,90,8085100,9.0,1,1,3,Finished,2:14:45.100,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,1,1967-zandvoort,Dutch Grand Prix,,,,,,3,90,8108700,6.0,2,2,3,Finished,+23.600,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,2,1967-zandvoort,Dutch Grand Prix,,,,,,7,90,8110800,4.0,3,3,3,Finished,+25.700,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,3,1967-zandvoort,Dutch Grand Prix,,,,,,9,90,8112400,3.0,4,4,3,Finished,+27.300,1967
+Ferrari,ferrari,Italian,,parkes,Mike Parkes,British,4,1967-zandvoort,Dutch Grand Prix,,,,,,10,89,,2.0,5,5,3,+1 Lap,,1967
+Ferrari,ferrari,Italian,,scarfiotti,Ludovico Scarfiotti,Italian,22,1967-zandvoort,Dutch Grand Prix,,,,,,15,89,,1.0,6,6,3,+1 Lap,,1967
+Lotus-BRM,lotus-brm,British,,irwin,Chris Irwin,British,18,1967-zandvoort,Dutch Grand Prix,,,,,,13,88,,0.0,7,7,3,+2 Laps,,1967
+BRM,brm,British,,spence,Mike Spence,British,10,1967-zandvoort,Dutch Grand Prix,,,,,,12,87,,0.0,8,8,3,+3 Laps,,1967
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,21,1967-zandvoort,Dutch Grand Prix,,,,,,17,86,,0.0,9,9,3,+4 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,20,1967-zandvoort,Dutch Grand Prix,,,,,,16,83,,0.0,10,10,3,+7 Laps,,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1967-zandvoort,Dutch Grand Prix,,,,,,6,73,,0.0,11,R,3,Throttle,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,9,1967-zandvoort,Dutch Grand Prix,,,,,,11,51,,0.0,12,R,3,Brakes,,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,12,1967-zandvoort,Dutch Grand Prix,,,,,,4,41,,0.0,13,R,3,Suspension,,1967
+Cooper-Maserati,cooper-maserati,British,,rodriguez,Pedro Rodríguez,Mexican,14,1967-zandvoort,Dutch Grand Prix,,,,,,5,39,,0.0,14,R,3,Gearbox,,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,6,1967-zandvoort,Dutch Grand Prix,,,,,,1,11,,0.0,15,R,3,Engine,,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,15,1967-zandvoort,Dutch Grand Prix,,,,,,2,8,,0.0,16,R,3,Injection,,1967
+McLaren-BRM,mclaren-brm,British,,mclaren,Bruce McLaren,New Zealander,17,1967-zandvoort,Dutch Grand Prix,,,,,,14,1,,0.0,17,R,3,Accident,,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,36,1967-spa,Belgian Grand Prix,,,,,,2,28,6049400,9.0,1,1,4,Finished,1:40:49.400,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,14,1967-spa,Belgian Grand Prix,,,,,,6,28,6112400,6.0,2,2,4,Finished,+1:03.000,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,1,1967-spa,Belgian Grand Prix,,,,,,5,28,6149400,4.0,3,3,4,Finished,+1:40.000,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,29,1967-spa,Belgian Grand Prix,,,,,,4,28,6183300,3.0,4,4,4,Finished,+2:13.900,1967
+BRM,brm,British,,spence,Mike Spence,British,12,1967-spa,Belgian Grand Prix,,,,,,11,27,,2.0,5,5,4,+1 Lap,,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,21,1967-spa,Belgian Grand Prix,,,,,,1,27,,1.0,6,6,4,+1 Lap,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,34,1967-spa,Belgian Grand Prix,,,,,,16,27,,0.0,7,7,4,+1 Lap,,1967
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,19,1967-spa,Belgian Grand Prix,,,,,,17,26,,0.0,8,8,4,+2 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,rodriguez,Pedro Rodríguez,Mexican,30,1967-spa,Belgian Grand Prix,,,,,,13,25,,0.0,9,9,4,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,ligier,Guy Ligier,French,32,1967-spa,Belgian Grand Prix,,,,,,18,25,,0.0,10,10,4,+3 Laps,,1967
+Ferrari,ferrari,Italian,,scarfiotti,Ludovico Scarfiotti,Italian,2,1967-spa,Belgian Grand Prix,,,,,,9,24,,0.0,11,R,4,Not classified,,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,25,1967-spa,Belgian Grand Prix,,,,,,7,15,,0.0,12,R,4,Engine,,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,26,1967-spa,Belgian Grand Prix,,,,,,14,14,,0.0,13,R,4,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,39,1967-spa,Belgian Grand Prix,,,,,,12,10,,0.0,14,R,4,Engine,,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,22,1967-spa,Belgian Grand Prix,,,,,,3,3,,0.0,15,R,4,Clutch,,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1967-spa,Belgian Grand Prix,,,,,,10,1,,0.0,16,R,4,Engine,,1967
+BRM,brm,British,,irwin,Chris Irwin,British,17,1967-spa,Belgian Grand Prix,,,,,,15,1,,0.0,17,R,4,Engine,,1967
+Ferrari,ferrari,Italian,,parkes,Mike Parkes,British,3,1967-spa,Belgian Grand Prix,,,,,,8,0,,0.0,18,R,4,Accident,,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,3,1967-le-mans,French Grand Prix,,,,,,2,80,8001300,9.0,1,1,5,Finished,2:13:21.300,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,4,1967-le-mans,French Grand Prix,,,,,,6,80,8050800,6.0,2,2,5,Finished,+49.500,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,10,1967-le-mans,French Grand Prix,,,,,,10,79,,4.0,3,3,5,+1 Lap,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,18,1967-le-mans,French Grand Prix,,,,,,11,77,,3.0,4,4,5,+3 Laps,,1967
+BRM,brm,British,,irwin,Chris Irwin,British,15,1967-le-mans,French Grand Prix,,,,,,9,76,,2.0,5,5,5,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,rodriguez,Pedro Rodríguez,Mexican,14,1967-le-mans,French Grand Prix,,,,,,13,76,,1.0,6,6,5,+4 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,ligier,Guy Ligier,French,16,1967-le-mans,French Grand Prix,,,,,,15,68,,0.0,7,R,5,Not classified,,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,2,1967-le-mans,French Grand Prix,,,,,,7,47,,0.0,8,R,5,Throttle,,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,9,1967-le-mans,French Grand Prix,,,,,,3,40,,0.0,9,R,5,Fuel leak,,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,12,1967-le-mans,French Grand Prix,,,,,,8,33,,0.0,10,R,5,Engine,,1967
+Eagle-Weslake,eagle-weslake,American,,mclaren,Bruce McLaren,New Zealander,8,1967-le-mans,French Grand Prix,,,,,,5,26,,0.0,11,R,5,Ignition,,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,6,1967-le-mans,French Grand Prix,,,,,,4,23,,0.0,12,R,5,Differential,,1967
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,17,1967-le-mans,French Grand Prix,,,,,,14,16,,0.0,13,R,5,Ignition,,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,7,1967-le-mans,French Grand Prix,,,,,,1,13,,0.0,14,R,5,Differential,,1967
+BRM,brm,British,,spence,Mike Spence,British,11,1967-le-mans,French Grand Prix,,,,,,12,9,,0.0,15,R,5,Halfshaft,,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,5,1967-silverstone,British Grand Prix,,,,,,1,80,7165600,9.0,1,1,6,Finished,1:59:25.600,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,2,1967-silverstone,British Grand Prix,,,,,,4,80,7178400,6.0,2,2,6,Finished,+12.800,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,8,1967-silverstone,British Grand Prix,,,,,,6,80,7182200,4.0,3,3,6,Finished,+16.600,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,1,1967-silverstone,British Grand Prix,,,,,,3,80,7187400,3.0,4,4,6,Finished,+21.800,1967
+Cooper-Maserati,cooper-maserati,British,,rodriguez,Pedro Rodríguez,Mexican,12,1967-silverstone,British Grand Prix,,,,,,9,79,,2.0,5,5,6,+1 Lap,,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1967-silverstone,British Grand Prix,,,,,,7,78,,1.0,6,6,6,+2 Laps,,1967
+BRM,brm,British,,irwin,Chris Irwin,British,15,1967-silverstone,British Grand Prix,,,,,,13,77,,0.0,7,7,6,+3 Laps,,1967
+BRM,brm,British,,hobbs,David Hobbs,British,20,1967-silverstone,British Grand Prix,,,,,,14,77,,0.0,8,8,6,+3 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,rees,Alan Rees,British,14,1967-silverstone,British Grand Prix,,,,,,15,76,,0.0,9,9,6,+4 Laps,,1967
+Brabham-Repco,brabham-repco,British,,ligier,Guy Ligier,French,18,1967-silverstone,British Grand Prix,,,,,,21,76,,0.0,10,10,6,+4 Laps,,1967
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,19,1967-silverstone,British Grand Prix,,,,,,17,67,,0.0,11,R,6,Engine,,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,6,1967-silverstone,British Grand Prix,,,,,,2,64,,0.0,12,R,6,Engine,,1967
+BRM,brm,British,,spence,Mike Spence,British,4,1967-silverstone,British Grand Prix,,,,,,11,44,,0.0,13,R,6,Ignition,,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,9,1967-silverstone,British Grand Prix,,,,,,5,34,,0.0,14,R,6,Clutch,,1967
+Cooper-ATS,cooper-ats,British,,moser,Silvio Moser,Swiss,22,1967-silverstone,British Grand Prix,,,,,,20,29,,0.0,15,R,6,Oil pressure,,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,11,1967-silverstone,British Grand Prix,,,,,,8,26,,0.0,16,R,6,Engine,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,3,1967-silverstone,British Grand Prix,,,,,,12,20,,0.0,17,R,6,Transmission,,1967
+Eagle-Weslake,eagle-weslake,American,,mclaren,Bruce McLaren,New Zealander,10,1967-silverstone,British Grand Prix,,,,,,10,14,,0.0,18,R,6,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,17,1967-silverstone,British Grand Prix,,,,,,18,10,,0.0,19,R,6,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,23,1967-silverstone,British Grand Prix,,,,,,9,0,,0.0,20,R,6,Engine,,1967
+BRM,brm,British,,courage,Piers Courage,British,16,1967-silverstone,British Grand Prix,,,,,,0,0,,0.0,21,W,6,Withdrew,,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,2,1967-n-rburg,German Grand Prix,,,,,,2,15,7555700,9.0,1,1,7,Finished,2:05:55.700,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,1,1967-n-rburg,German Grand Prix,,,,,,7,15,7594200,6.0,2,2,7,Finished,+38.500,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,8,1967-n-rburg,German Grand Prix,,,,,,8,15,7594700,4.0,3,3,7,Finished,+39.000,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1967-n-rburg,German Grand Prix,,,,,,6,15,7701400,3.0,4,4,7,Finished,+2:25.700,1967
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,24,1967-n-rburg,German Grand Prix,,,,,,19,15,7886400,0.0,5,5,7,Finished,+5:30.700,1967
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,16,1967-n-rburg,German Grand Prix,,,,,,16,15,8077800,2.0,6,6,7,Finished,+8:42.100,1967
+Brabham-Ford,brabham-ford,British,,rees,Alan Rees,British,22,1967-n-rburg,German Grand Prix,,,,,,20,15,8083600,0.0,7,7,7,Finished,+8:47.900,1967
+Brabham-Repco,brabham-repco,British,,ligier,Guy Ligier,French,15,1967-n-rburg,German Grand Prix,,,,,,17,14,,1.0,8,8,7,+1 Lap,,1967
+BRM,brm,British,,irwin,Chris Irwin,British,18,1967-n-rburg,German Grand Prix,,,,,,15,13,,0.0,9,9,7,+2 Laps,,1967
+Lola,lola,British,,hobbs,David Hobbs,British,27,1967-n-rburg,German Grand Prix,,,,,,22,13,,0.0,10,10,7,+2 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,rodriguez,Pedro Rodríguez,Mexican,6,1967-n-rburg,German Grand Prix,,,,,,10,13,,0.0,11,11,7,+2 Laps,,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,9,1967-n-rburg,German Grand Prix,,,,,,4,12,,0.0,12,R,7,Halfshaft,,1967
+Matra,matra,French,,ickx,Jacky Ickx,Belgian,29,1967-n-rburg,German Grand Prix,,,,,,18,12,,0.0,13,R,7,Suspension,,1967
+Protos,protos,British,,hart,Brian Hart,British,25,1967-n-rburg,German Grand Prix,,,,,,25,12,,0.0,14,R,7,+3 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,14,1967-n-rburg,German Grand Prix,,,,,,12,12,,0.0,15,R,7,Fuel pump,,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,4,1967-n-rburg,German Grand Prix,,,,,,13,8,,0.0,16,R,7,Suspension,,1967
+Lola,lola,British,,hahne,Hubert Hahne,German,17,1967-n-rburg,German Grand Prix,,,,,,14,6,,0.0,17,R,7,Suspension,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,11,1967-n-rburg,German Grand Prix,,,,,,3,5,,0.0,18,R,7,Differential,,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,3,1967-n-rburg,German Grand Prix,,,,,,1,4,,0.0,19,R,7,Suspension,,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,5,1967-n-rburg,German Grand Prix,,,,,,9,4,,0.0,20,R,7,Radiator,,1967
+Protos,protos,British,,ahrens,Kurt Ahrens,German,26,1967-n-rburg,German Grand Prix,,,,,,23,4,,0.0,21,R,7,Radiator,,1967
+Eagle-Weslake,eagle-weslake,American,,mclaren,Bruce McLaren,New Zealander,10,1967-n-rburg,German Grand Prix,,,,,,5,3,,0.0,22,R,7,Oil leak,,1967
+BRM,brm,British,,spence,Mike Spence,British,12,1967-n-rburg,German Grand Prix,,,,,,11,3,,0.0,23,R,7,Differential,,1967
+Matra,matra,French,,jo_schlesser,Jo Schlesser,French,23,1967-n-rburg,German Grand Prix,,,,,,21,2,,0.0,24,R,7,Engine,,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,1,1967-ontario,Canadian Grand Prix,,,,,,7,90,9640000,9.0,1,1,8,Finished,2:40,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,2,1967-ontario,Canadian Grand Prix,,,,,,3,90,9701900,6.0,2,2,8,Finished,+1:01.900,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,10,1967-ontario,Canadian Grand Prix,,,,,,5,89,,4.0,3,3,8,+1 Lap,,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,4,1967-ontario,Canadian Grand Prix,,,,,,2,88,,3.0,4,4,8,+2 Laps,,1967
+BRM,brm,British,,spence,Mike Spence,British,16,1967-ontario,Canadian Grand Prix,,,,,,10,87,,2.0,5,5,8,+3 Laps,,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,20,1967-ontario,Canadian Grand Prix,,,,,,4,87,,1.0,6,6,8,+3 Laps,,1967
+McLaren-BRM,mclaren-brm,British,,mclaren,Bruce McLaren,New Zealander,19,1967-ontario,Canadian Grand Prix,,,,,,6,86,,0.0,7,7,8,+4 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,9,1967-ontario,Canadian Grand Prix,,,,,,14,85,,0.0,8,8,8,+5 Laps,,1967
+BRM,brm,British,,hobbs,David Hobbs,British,12,1967-ontario,Canadian Grand Prix,,,,,,12,85,,0.0,9,9,8,+5 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,attwood,Richard Attwood,British,8,1967-ontario,Canadian Grand Prix,,,,,,13,84,,0.0,10,10,8,+6 Laps,,1967
+Lotus-BRM,lotus-brm,British,,fisher,Mike Fisher,American,6,1967-ontario,Canadian Grand Prix,,,,,,17,81,,0.0,11,11,8,+9 Laps,,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,3,1967-ontario,Canadian Grand Prix,,,,,,1,69,,0.0,12,R,8,Ignition,,1967
+Lotus-Ford,lotus-ford,British,,wietzes,Eppie Wietzes,Canadian,5,1967-ontario,Canadian Grand Prix,,,,,,16,69,,0.0,13,D,8,Disqualified,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,15,1967-ontario,Canadian Grand Prix,,,,,,9,65,,0.0,14,R,8,Throttle,,1967
+Eagle-Climax,eagle-climax,American,,pease,Al Pease,Canadian,11,1967-ontario,Canadian Grand Prix,,,,,,15,47,,0.0,15,R,8,Not classified,,1967
+BRM,brm,British,,irwin,Chris Irwin,British,17,1967-ontario,Canadian Grand Prix,,,,,,11,18,,0.0,16,R,8,Spun off,,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,71,1967-ontario,Canadian Grand Prix,,,,,,8,4,,0.0,17,R,8,Ignition,,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,14,1967-monza,Italian Grand Prix,,,,,,9,68,6225000,9.0,1,1,9,Finished,1:43,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,16,1967-monza,Italian Grand Prix,,,,,,2,68,6225200,6.0,2,2,9,Finished,+0.200,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,20,1967-monza,Italian Grand Prix,,,,,,1,68,6248100,4.0,3,3,9,Finished,+23.100,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,30,1967-monza,Italian Grand Prix,,,,,,11,68,6281600,3.0,4,4,9,Finished,+56.600,1967
+BRM,brm,British,,spence,Mike Spence,British,36,1967-monza,Italian Grand Prix,,,,,,12,67,,2.0,5,5,9,+1 Lap,,1967
+Cooper-Maserati,cooper-maserati,British,,ickx,Jacky Ickx,Belgian,32,1967-monza,Italian Grand Prix,,,,,,15,66,,1.0,6,6,9,+2 Laps,,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,2,1967-monza,Italian Grand Prix,,,,,,4,64,,0.0,7,7,9,+4 Laps,,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,22,1967-monza,Italian Grand Prix,,,,,,8,58,,0.0,8,R,9,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,6,1967-monza,Italian Grand Prix,,,,,,13,50,,0.0,9,R,9,Accident,,1967
+Lotus-Ford,lotus-ford,British,,baghetti,Giancarlo Baghetti,Italian,24,1967-monza,Italian Grand Prix,,,,,,17,50,,0.0,10,R,9,Engine,,1967
+McLaren-BRM,mclaren-brm,British,,mclaren,Bruce McLaren,New Zealander,4,1967-monza,Italian Grand Prix,,,,,,3,46,,0.0,11,R,9,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,26,1967-monza,Italian Grand Prix,,,,,,14,46,,0.0,12,R,9,Overheating,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,34,1967-monza,Italian Grand Prix,,,,,,7,45,,0.0,13,R,9,Engine,,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,18,1967-monza,Italian Grand Prix,,,,,,6,30,,0.0,14,R,9,Overheating,,1967
+Brabham-Repco,brabham-repco,British,,ligier,Guy Ligier,French,12,1967-monza,Italian Grand Prix,,,,,,18,26,,0.0,15,R,9,Engine,,1967
+BRM,brm,British,,irwin,Chris Irwin,British,38,1967-monza,Italian Grand Prix,,,,,,16,16,,0.0,16,R,9,Injection,,1967
+Eagle-Weslake,eagle-weslake,American,,scarfiotti,Ludovico Scarfiotti,Italian,10,1967-monza,Italian Grand Prix,,,,,,10,5,,0.0,17,R,9,Engine,,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,8,1967-monza,Italian Grand Prix,,,,,,5,4,,0.0,18,R,9,Engine,,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,5,1967-new-york-state,United States Grand Prix,,,,,,2,108,7393200,9.0,1,1,10,Finished,2:03:13.200,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,6,1967-new-york-state,United States Grand Prix,,,,,,1,108,7399500,6.0,2,2,10,Finished,+6.300,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,2,1967-new-york-state,United States Grand Prix,,,,,,6,107,,4.0,3,3,10,+1 Lap,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,15,1967-new-york-state,United States Grand Prix,,,,,,12,106,,3.0,4,4,10,+2 Laps,,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,1,1967-new-york-state,United States Grand Prix,,,,,,5,104,,2.0,5,5,10,+4 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,16,1967-new-york-state,United States Grand Prix,,,,,,15,101,,1.0,6,6,10,+7 Laps,,1967
+McLaren-Ford,mclaren-ford,British,,beltoise,Jean-Pierre Beltoise,French,22,1967-new-york-state,United States Grand Prix,,,,,,18,101,,0.0,7,7,10,+7 Laps,,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,3,1967-new-york-state,United States Grand Prix,,,,,,11,96,,0.0,8,R,10,Alternator,,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,9,1967-new-york-state,United States Grand Prix,,,,,,4,95,,0.0,9,R,10,Engine,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,7,1967-new-york-state,United States Grand Prix,,,,,,10,72,,0.0,10,R,10,Injection,,1967
+Cooper-Maserati,cooper-maserati,British,,ickx,Jacky Ickx,Belgian,21,1967-new-york-state,United States Grand Prix,,,,,,16,45,,0.0,11,R,10,Overheating,,1967
+Brabham-Repco,brabham-repco,British,,ligier,Guy Ligier,French,19,1967-new-york-state,United States Grand Prix,,,,,,17,43,,0.0,12,R,10,Engine,,1967
+BRM,brm,British,,irwin,Chris Irwin,British,17,1967-new-york-state,United States Grand Prix,,,,,,14,41,,0.0,13,R,10,Engine,,1967
+BRM,brm,British,,spence,Mike Spence,British,8,1967-new-york-state,United States Grand Prix,,,,,,13,35,,0.0,14,R,10,Engine,,1967
+Cooper-Maserati,cooper-maserati,British,,rindt,Jochen Rindt,Austrian,4,1967-new-york-state,United States Grand Prix,,,,,,8,33,,0.0,15,R,10,Engine,,1967
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,11,1967-new-york-state,United States Grand Prix,,,,,,3,24,,0.0,16,R,10,Suspension,,1967
+McLaren-BRM,mclaren-brm,British,,mclaren,Bruce McLaren,New Zealander,14,1967-new-york-state,United States Grand Prix,,,,,,9,16,,0.0,17,R,10,Water leak,,1967
+Lotus-Ford,lotus-ford,British,,solana,Moisés Solana,Mexican,18,1967-new-york-state,United States Grand Prix,,,,,,7,7,,0.0,18,R,10,Ignition,,1967
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,5,1967-mexico-city,Mexican Grand Prix,,,,,,1,65,7168700,9.0,1,1,11,Finished,1:59:28.700,1967
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,1,1967-mexico-city,Mexican Grand Prix,,,,,,5,65,7254060,6.0,2,2,11,Finished,+1:25.360,1967
+Brabham-Repco,brabham-repco,British,,hulme,Denny Hulme,New Zealander,2,1967-mexico-city,Mexican Grand Prix,,,,,,6,64,,4.0,3,3,11,+1 Lap,,1967
+Honda,honda,Japanese,,surtees,John Surtees,British,3,1967-mexico-city,Mexican Grand Prix,,,,,,7,64,,3.0,4,4,11,+1 Lap,,1967
+BRM,brm,British,,spence,Mike Spence,British,8,1967-mexico-city,Mexican Grand Prix,,,,,,11,63,,2.0,5,5,11,+2 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,rodriguez,Pedro Rodríguez,Mexican,21,1967-mexico-city,Mexican Grand Prix,,,,,,13,63,,1.0,6,6,11,+2 Laps,,1967
+McLaren-Ford,mclaren-ford,British,,beltoise,Jean-Pierre Beltoise,French,22,1967-mexico-city,Mexican Grand Prix,,,,,,14,63,,0.0,7,7,11,+2 Laps,,1967
+Ferrari,ferrari,Italian,,williams,Jonathan Williams,British,12,1967-mexico-city,Mexican Grand Prix,,,,,,16,63,,0.0,8,8,11,+2 Laps,,1967
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,9,1967-mexico-city,Mexican Grand Prix,,,,,,2,62,,0.0,9,9,11,Out of fuel,,1967
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,16,1967-mexico-city,Mexican Grand Prix,,,,,,17,61,,0.0,10,10,11,+4 Laps,,1967
+Brabham-Repco,brabham-repco,British,,ligier,Guy Ligier,French,19,1967-mexico-city,Mexican Grand Prix,,,,,,19,41,,0.0,11,11,11,+4 Laps,,1967
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,15,1967-mexico-city,Mexican Grand Prix,,,,,,10,59,,0.0,12,12,11,Overheating,,1967
+McLaren-BRM,mclaren-brm,British,,mclaren,Bruce McLaren,New Zealander,14,1967-mexico-city,Mexican Grand Prix,,,,,,8,45,,0.0,13,R,11,Oil pressure,,1967
+BRM,brm,British,,irwin,Chris Irwin,British,17,1967-mexico-city,Mexican Grand Prix,,,,,,15,33,,0.0,14,R,11,Oil leak,,1967
+BRM,brm,British,,stewart,Jackie Stewart,British,7,1967-mexico-city,Mexican Grand Prix,,,,,,12,24,,0.0,15,R,11,Engine,,1967
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,6,1967-mexico-city,Mexican Grand Prix,,,,,,4,18,,0.0,16,R,11,Halfshaft,,1967
+Lotus-BRM,lotus-brm,British,,solana,Moisés Solana,Mexican,18,1967-mexico-city,Mexican Grand Prix,,,,,,9,12,,0.0,17,R,11,Suspension,,1967
+Eagle-Climax,eagle-climax,American,,gurney,Dan Gurney,American,11,1967-mexico-city,Mexican Grand Prix,,,,,,3,4,,0.0,18,R,11,Radiator,,1967
+Lotus-BRM,lotus-brm,British,,fisher,Mike Fisher,American,10,1967-mexico-city,Mexican Grand Prix,,,,,,10,0,,0.0,19,R,11,Fuel system,,1967

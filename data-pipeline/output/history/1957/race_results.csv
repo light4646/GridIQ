@@ -1,0 +1,167 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,2,1957-buenos-aires,Argentine Grand Prix,,,,,,2,100,10855900,8.0,1,1,1,Finished,3:00:55.900,1957
+Maserati,maserati,Italian,,behra,Jean Behra,French,6,1957-buenos-aires,Argentine Grand Prix,,,,,,3,100,10874200,6.0,2,2,1,Finished,+18.300,1957
+Maserati,maserati,Italian,,menditeguy,Carlos Menditeguy,Argentine,8,1957-buenos-aires,Argentine Grand Prix,,,,,,8,99,,4.0,3,3,1,+1 Lap,,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,22,1957-buenos-aires,Argentine Grand Prix,,,,,,9,98,,3.0,4,4,1,+2 Laps,,1957
+Ferrari,ferrari,Italian,,portago,Alfonso de Portago,Spanish,20,1957-buenos-aires,Argentine Grand Prix,,,,,,10,98,,1.0,5,5,1,+2 Laps,,1957
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,20,1957-buenos-aires,Argentine Grand Prix,,,,,,10,98,,1.0,5,5,1,+2 Laps,,1957
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,18,1957-buenos-aires,Argentine Grand Prix,,,,,,11,98,,0.0,6,6,1,+2 Laps,,1957
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,18,1957-buenos-aires,Argentine Grand Prix,,,,,,11,98,,0.0,6,6,1,+2 Laps,,1957
+Ferrari,ferrari,Italian,,perdisa,Cesare Perdisa,Italian,18,1957-buenos-aires,Argentine Grand Prix,,,,,,11,98,,0.0,6,6,1,+2 Laps,,1957
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,24,1957-buenos-aires,Argentine Grand Prix,,,,,,13,95,,0.0,7,7,1,+5 Laps,,1957
+Maserati,maserati,Italian,,moss,Stirling Moss,British,4,1957-buenos-aires,Argentine Grand Prix,,,,,,1,93,,1.0,8,8,1,+7 Laps,,1957
+Ferrari,ferrari,Italian,,tomaso,Alessandro de Tomaso,Argentine,26,1957-buenos-aires,Argentine Grand Prix,,,,,,12,91,,0.0,9,9,1,+9 Laps,,1957
+Maserati,maserati,Italian,,piotti,Luigi Piotti,Italian,28,1957-buenos-aires,Argentine Grand Prix,,,,,,14,90,,0.0,10,10,1,+10 Laps,,1957
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,14,1957-buenos-aires,Argentine Grand Prix,,,,,,4,75,,0.0,11,R,1,Wheel,,1957
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,16,1957-buenos-aires,Argentine Grand Prix,,,,,,7,35,,0.0,12,R,1,Clutch,,1957
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,12,1957-buenos-aires,Argentine Grand Prix,,,,,,6,31,,0.0,13,R,1,Clutch,,1957
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,10,1957-buenos-aires,Argentine Grand Prix,,,,,,5,26,,0.0,14,R,1,Clutch,,1957
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,32,1957-monte-carlo,Monaco Grand Prix,,,,,,1,105,11412800,9.0,1,1,2,Finished,3:10:12.800,1957
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,20,1957-monte-carlo,Monaco Grand Prix,,,,,,4,105,11438000,6.0,2,2,2,Finished,+25.200,1957
+Maserati,maserati,Italian,,gregory,Masten Gregory,American,2,1957-monte-carlo,Monaco Grand Prix,,,,,,10,103,,4.0,3,3,2,+2 Laps,,1957
+Connaught,connaught,British,,lewis-evans,Stuart Lewis-Evans,British,10,1957-monte-carlo,Monaco Grand Prix,,,,,,13,102,,3.0,4,4,2,+3 Laps,,1957
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,30,1957-monte-carlo,Monaco Grand Prix,,,,,,6,100,,2.0,5,5,2,+5 Laps,,1957
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,14,1957-monte-carlo,Monaco Grand Prix,,,,,,15,100,,0.0,6,6,2,+5 Laps,,1957
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,24,1957-monte-carlo,Monaco Grand Prix,,,,,,9,95,,0.0,7,R,2,Engine,,1957
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,24,1957-monte-carlo,Monaco Grand Prix,,,,,,9,95,,0.0,7,R,2,Engine,,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,34,1957-monte-carlo,Monaco Grand Prix,,,,,,14,64,,0.0,8,R,2,Oil leak,,1957
+Maserati,maserati,Italian,,scarlatti,Giorgio Scarlatti,Italian,34,1957-monte-carlo,Monaco Grand Prix,,,,,,14,64,,0.0,8,R,2,Oil leak,,1957
+BRM,brm,British,,flockhart,Ron Flockhart,British,6,1957-monte-carlo,Monaco Grand Prix,,,,,,11,60,,0.0,9,R,2,Engine,,1957
+Maserati,maserati,Italian,,menditeguy,Carlos Menditeguy,Argentine,36,1957-monte-carlo,Monaco Grand Prix,,,,,,7,51,,0.0,10,R,2,Spun off,,1957
+Connaught,connaught,British,,bueb,Ivor Bueb,British,12,1957-monte-carlo,Monaco Grand Prix,,,,,,16,47,,0.0,11,R,2,Fuel leak,,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,38,1957-monte-carlo,Monaco Grand Prix,,,,,,8,23,,0.0,12,R,2,Suspension,,1957
+Maserati,maserati,Italian,,gould,Horace Gould,British,22,1957-monte-carlo,Monaco Grand Prix,,,,,,12,10,,0.0,13,R,2,Accident,,1957
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,26,1957-monte-carlo,Monaco Grand Prix,,,,,,2,4,,0.0,14,R,2,Accident,,1957
+Vanwall,vanwall,British,,moss,Stirling Moss,British,18,1957-monte-carlo,Monaco Grand Prix,,,,,,3,4,,0.0,15,R,2,Accident,,1957
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,28,1957-monte-carlo,Monaco Grand Prix,,,,,,5,4,,0.0,16,R,2,Accident,,1957
+Epperly,epperly,American,,hanks,Sam Hanks,American,9,1957-indianapolis,Indianapolis 500,,,,,,13,200,13274250,8.0,1,1,3,Finished,3:41:14.250,1957
+Epperly,epperly,American,,rathmann,Jim Rathmann,American,26,1957-indianapolis,Indianapolis 500,,,,,,32,200,13295710,7.0,2,2,3,Finished,+21.460,1957
+Kuzma,kuzma,American,,bryan,Jimmy Bryan,American,1,1957-indianapolis,Indianapolis 500,,,,,,15,200,13408220,4.0,3,3,3,Finished,+2:13.970,1957
+Kurtis Kraft,kurtis_kraft,American,,paul_russo,Paul Russo,American,54,1957-indianapolis,Indianapolis 500,,,,,,10,200,13451110,3.0,4,4,3,Finished,+2:56.860,1957
+Kurtis Kraft,kurtis_kraft,American,,linden,Andy Linden,American,73,1957-indianapolis,Indianapolis 500,,,,,,12,200,13468520,2.0,5,5,3,Finished,+3:14.270,1957
+Kurtis Kraft,kurtis_kraft,American,,boyd,Johnny Boyd,American,6,1957-indianapolis,Indianapolis 500,,,,,,5,200,13549520,0.0,6,6,3,Finished,+4:35.270,1957
+Kurtis Kraft,kurtis_kraft,American,,teague,Marshall Teague,American,48,1957-indianapolis,Indianapolis 500,,,,,,28,200,13559830,0.0,7,7,3,Finished,+4:45.580,1957
+Kurtis Kraft,kurtis_kraft,American,,connor,Pat O'Connor,American,12,1957-indianapolis,Indianapolis 500,,,,,,1,200,13607400,0.0,8,8,3,Finished,+5:33.150,1957
+Phillips,phillips,American,,veith,Bob Veith,American,7,1957-indianapolis,Indianapolis 500,,,,,,16,200,13651360,0.0,9,9,3,Finished,+6:17.110,1957
+Lesovsky,lesovsky,American,,hartley,Gene Hartley,American,22,1957-indianapolis,Indianapolis 500,,,,,,14,200,13704370,0.0,10,10,3,Finished,+7:10.120,1957
+Kurtis Kraft,kurtis_kraft,American,,turner,Jack Turner,American,19,1957-indianapolis,Indianapolis 500,,,,,,19,200,13750320,0.0,11,11,3,Finished,+7:56.070,1957
+Kuzma,kuzma,American,,thomson,Johnny Thomson,American,10,1957-indianapolis,Indianapolis 500,,,,,,11,199,,0.0,12,12,3,+1 Lap,,1957
+Kurtis Kraft,kurtis_kraft,American,,christie,Bob Christie,American,95,1957-indianapolis,Indianapolis 500,,,,,,33,197,,0.0,13,13,3,+3 Laps,,1957
+Kuzma,kuzma,American,,weyant,Chuck Weyant,American,82,1957-indianapolis,Indianapolis 500,,,,,,25,196,,0.0,14,14,3,+4 Laps,,1957
+Kurtis Kraft,kurtis_kraft,American,,bettenhausen,Tony Bettenhausen,American,27,1957-indianapolis,Indianapolis 500,,,,,,22,195,,0.0,15,15,3,+5 Laps,,1957
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,18,1957-indianapolis,Indianapolis 500,,,,,,17,195,,0.0,16,16,3,+5 Laps,,1957
+Kurtis Kraft,kurtis_kraft,American,,freeland,Don Freeland,American,3,1957-indianapolis,Indianapolis 500,,,,,,21,192,,0.0,17,17,3,+8 Laps,,1957
+Kurtis Kraft,kurtis_kraft,American,,reece,Jimmy Reece,American,5,1957-indianapolis,Indianapolis 500,,,,,,6,182,,0.0,18,R,3,Throttle,,1957
+Kurtis Kraft,kurtis_kraft,American,,edmunds,Don Edmunds,American,92,1957-indianapolis,Indianapolis 500,,,,,,27,170,,0.0,19,R,3,Spun off,,1957
+Kurtis Kraft,kurtis_kraft,American,,tolan,Johnnie Tolan,American,28,1957-indianapolis,Indianapolis 500,,,,,,31,138,,0.0,20,R,3,Clutch,,1957
+Dunn,dunn,American,,herman,Al Herman,American,89,1957-indianapolis,Indianapolis 500,,,,,,30,111,,0.0,21,R,3,Accident,,1957
+Kurtis Kraft,kurtis_kraft,American,,agabashian,Fred Agabashian,American,14,1957-indianapolis,Indianapolis 500,,,,,,4,107,,0.0,22,R,3,Fuel leak,,1957
+Kuzma,kuzma,American,,sachs,Eddie Sachs,American,88,1957-indianapolis,Indianapolis 500,,,,,,2,105,,0.0,23,R,3,Fuel leak,,1957
+Kurtis Kraft,kurtis_kraft,American,,magill,Mike Magill,American,77,1957-indianapolis,Indianapolis 500,,,,,,18,101,,0.0,24,R,3,Accident,,1957
+Kurtis Kraft,kurtis_kraft,American,,johnson,Eddie Johnson,American,43,1957-indianapolis,Indianapolis 500,,,,,,20,93,,0.0,25,R,3,Wheel bearing,,1957
+Kurtis Kraft,kurtis_kraft,American,,cheesbourg,Bill Cheesbourg,American,31,1957-indianapolis,Indianapolis 500,,,,,,23,81,,0.0,26,R,3,Fuel leak,,1957
+Kurtis Kraft,kurtis_kraft,American,,keller,Al Keller,American,16,1957-indianapolis,Indianapolis 500,,,,,,8,75,,0.0,27,R,3,Accident,,1957
+Kurtis Kraft,kurtis_kraft,American,,daywalt,Jimmy Daywalt,American,57,1957-indianapolis,Indianapolis 500,,,,,,29,53,,0.0,28,R,3,Accident,,1957
+Kurtis Kraft,kurtis_kraft,American,,elisian,Ed Elisian,American,83,1957-indianapolis,Indianapolis 500,,,,,,7,51,,0.0,29,R,3,Retired,,1957
+Lesovsky,lesovsky,American,,ward,Rodger Ward,American,8,1957-indianapolis,Indianapolis 500,,,,,,24,27,,0.0,30,R,3,Turbo,,1957
+Watson,watson,American,,ruttman,Troy Ruttman,American,52,1957-indianapolis,Indianapolis 500,,,,,,3,13,,0.0,31,R,3,Engine,,1957
+Kurtis Kraft,kurtis_kraft,American,,russo,Eddie Russo,American,55,1957-indianapolis,Indianapolis 500,,,,,,26,0,,0.0,32,R,3,Accident,,1957
+Kurtis Kraft,kurtis_kraft,American,,george,Elmer George,American,23,1957-indianapolis,Indianapolis 500,,,,,,9,0,,0.0,33,R,3,Accident,,1957
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,2,1957-rouen,French Grand Prix,,,,,,1,77,11266400,8.0,1,1,4,Finished,3:07:46.400,1957
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,10,1957-rouen,French Grand Prix,,,,,,3,77,11317200,7.0,2,2,4,Finished,+50.800,1957
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,12,1957-rouen,French Grand Prix,,,,,,5,77,11392400,4.0,3,3,4,Finished,+2:06.000,1957
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,14,1957-rouen,French Grand Prix,,,,,,7,76,,3.0,4,4,4,+1 Lap,,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,6,1957-rouen,French Grand Prix,,,,,,4,70,,2.0,5,5,4,+7 Laps,,1957
+Maserati,maserati,Italian,,behra,Jean Behra,French,4,1957-rouen,French Grand Prix,,,,,,2,69,,0.0,6,6,4,+8 Laps,,1957
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,24,1957-rouen,French Grand Prix,,,,,,15,68,,0.0,7,7,4,+9 Laps,,1957
+Cooper,cooper,British,,macdowel,Mike MacDowel,British,24,1957-rouen,French Grand Prix,,,,,,15,68,,0.0,7,7,4,+9 Laps,,1957
+Maserati,maserati,Italian,,menditeguy,Carlos Menditeguy,Argentine,8,1957-rouen,French Grand Prix,,,,,,9,30,,0.0,8,R,4,Engine,,1957
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,18,1957-rouen,French Grand Prix,,,,,,10,30,,0.0,9,R,4,Steering,,1957
+Vanwall,vanwall,British,,salvadori,Roy Salvadori,British,20,1957-rouen,French Grand Prix,,,,,,6,25,,0.0,10,R,4,Engine,,1957
+BRM,brm,British,,mackay-fraser,Herbert MacKay-Fraser,American,28,1957-rouen,French Grand Prix,,,,,,12,24,,0.0,11,R,4,Transmission,,1957
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,16,1957-rouen,French Grand Prix,,,,,,8,23,,0.0,12,R,4,Electrical,,1957
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,22,1957-rouen,French Grand Prix,,,,,,13,4,,0.0,13,R,4,Accident,,1957
+Maserati,maserati,Italian,,gould,Horace Gould,British,30,1957-rouen,French Grand Prix,,,,,,14,4,,0.0,14,R,4,Halfshaft,,1957
+BRM,brm,British,,flockhart,Ron Flockhart,British,26,1957-rouen,French Grand Prix,,,,,,11,2,,0.0,15,R,4,Accident,,1957
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,20,1957-liverpool,British Grand Prix,,,,,,3,90,11197800,4.0,1,1,5,Finished,3:06:37.800,1957
+Vanwall,vanwall,British,,moss,Stirling Moss,British,20,1957-liverpool,British Grand Prix,,,,,,3,90,11197800,5.0,1,1,5,Finished,3:06:37.800,1957
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,14,1957-liverpool,British Grand Prix,,,,,,10,90,11223400,6.0,2,2,5,Finished,+25.600,1957
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,10,1957-liverpool,British Grand Prix,,,,,,5,90,11240600,4.0,3,3,5,Finished,+42.800,1957
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,16,1957-liverpool,British Grand Prix,,,,,,9,88,,0.0,4,4,5,+2 Laps,,1957
+Ferrari,ferrari,Italian,,trintignant,Maurice Trintignant,French,16,1957-liverpool,British Grand Prix,,,,,,9,88,,3.0,4,4,5,+2 Laps,,1957
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,36,1957-liverpool,British Grand Prix,,,,,,15,85,,2.0,5,5,5,+5 Laps,,1957
+Cooper,cooper,British,,gerard,Bob Gerard,British,38,1957-liverpool,British Grand Prix,,,,,,18,82,,0.0,6,6,5,+8 Laps,,1957
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,22,1957-liverpool,British Grand Prix,,,,,,6,82,,0.0,7,7,5,+8 Laps,,1957
+Maserati,maserati,Italian,,bueb,Ivor Bueb,British,32,1957-liverpool,British Grand Prix,,,,,,19,71,,0.0,8,8,5,+19 Laps,,1957
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,34,1957-liverpool,British Grand Prix,,,,,,13,74,,0.0,9,R,5,Clutch,,1957
+Maserati,maserati,Italian,,behra,Jean Behra,French,4,1957-liverpool,British Grand Prix,,,,,,2,69,,0.0,10,R,5,Clutch,,1957
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,12,1957-liverpool,British Grand Prix,,,,,,8,53,,0.0,11,R,5,Water leak,,1957
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,18,1957-liverpool,British Grand Prix,,,,,,1,51,,0.0,12,R,5,Engine,,1957
+Vanwall,vanwall,British,,moss,Stirling Moss,British,18,1957-liverpool,British Grand Prix,,,,,,1,51,,0.0,12,R,5,Engine,,1957
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,2,1957-liverpool,British Grand Prix,,,,,,4,49,,0.0,13,R,5,Engine,,1957
+BRM,brm,British,,fairman,Jack Fairman,British,24,1957-liverpool,British Grand Prix,,,,,,16,46,,0.0,14,R,5,Engine,,1957
+BRM,brm,British,,leston,Les Leston,British,26,1957-liverpool,British Grand Prix,,,,,,12,44,,0.0,15,R,5,Engine,,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,6,1957-liverpool,British Grand Prix,,,,,,7,39,,0.0,16,R,5,Water pump,,1957
+Maserati,maserati,Italian,,menditeguy,Carlos Menditeguy,Argentine,8,1957-liverpool,British Grand Prix,,,,,,11,35,,0.0,17,R,5,Transmission,,1957
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,28,1957-liverpool,British Grand Prix,,,,,,17,18,,0.0,18,R,5,Gearbox,,1957
+Maserati,maserati,Italian,,gould,Horace Gould,British,30,1957-liverpool,British Grand Prix,,,,,,14,0,,0.0,19,W,5,Accident,,1957
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,1,1957-n-rburg,German Grand Prix,,,,,,1,22,12638300,9.0,1,1,6,Finished,3:30:38.300,1957
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,8,1957-n-rburg,German Grand Prix,,,,,,2,22,12641900,6.0,2,2,6,Finished,+3.600,1957
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,7,1957-n-rburg,German Grand Prix,,,,,,4,22,12673900,4.0,3,3,6,Finished,+35.600,1957
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,6,1957-n-rburg,German Grand Prix,,,,,,8,22,12855900,3.0,4,4,6,Finished,+3:37.600,1957
+Vanwall,vanwall,British,,moss,Stirling Moss,British,10,1957-n-rburg,German Grand Prix,,,,,,7,22,12915500,2.0,5,5,6,Finished,+4:37.200,1957
+Maserati,maserati,Italian,,behra,Jean Behra,French,2,1957-n-rburg,German Grand Prix,,,,,,3,22,12916800,0.0,6,6,6,Finished,+4:38.500,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,3,1957-n-rburg,German Grand Prix,,,,,,6,22,13045800,0.0,7,7,6,Finished,+6:47.500,1957
+Maserati,maserati,Italian,,gregory,Masten Gregory,American,16,1957-n-rburg,German Grand Prix,,,,,,10,21,,0.0,8,8,6,+1 Lap,,1957
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,11,1957-n-rburg,German Grand Prix,,,,,,5,21,,0.0,9,9,6,+1 Lap,,1957
+Maserati,maserati,Italian,,scarlatti,Giorgio Scarlatti,Italian,4,1957-n-rburg,German Grand Prix,,,,,,13,21,,0.0,10,10,6,+1 Lap,,1957
+Maserati,maserati,Italian,,halford,Bruce Halford,British,15,1957-n-rburg,German Grand Prix,,,,,,16,21,,0.0,11,11,6,+1 Lap,,1957
+Porsche,porsche,German,,barth,Edgar Barth,German,21,1957-n-rburg,German Grand Prix,,,,,,12,21,,0.0,12,12,6,+1 Lap,,1957
+Cooper,cooper,British,,naylor,Brian Naylor,British,28,1957-n-rburg,German Grand Prix,,,,,,17,20,,0.0,13,13,6,+2 Laps,,1957
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,27,1957-n-rburg,German Grand Prix,,,,,,20,20,,0.0,14,14,6,+2 Laps,,1957
+Cooper,cooper,British,,marsh,Tony Marsh,British,25,1957-n-rburg,German Grand Prix,,,,,,22,17,,0.0,15,15,6,+5 Laps,,1957
+Maserati,maserati,Italian,,herrmann,Hans Herrmann,German,17,1957-n-rburg,German Grand Prix,,,,,,11,14,,0.0,16,R,6,Chassis,,1957
+Porsche,porsche,German,,maglioli,Umberto Maglioli,Italian,20,1957-n-rburg,German Grand Prix,,,,,,15,13,,0.0,17,R,6,Engine,,1957
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,23,1957-n-rburg,German Grand Prix,,,,,,14,11,,0.0,18,R,6,Suspension,,1957
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,18,1957-n-rburg,German Grand Prix,,,,,,21,11,,0.0,19,R,6,Steering,,1957
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,12,1957-n-rburg,German Grand Prix,,,,,,9,10,,0.0,20,R,6,Gearbox,,1957
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,24,1957-n-rburg,German Grand Prix,,,,,,18,6,,0.0,21,R,6,Transmission,,1957
+Cooper,cooper,British,,england,Paul England,Australian,26,1957-n-rburg,German Grand Prix,,,,,,23,4,,0.0,22,R,6,Distributor,,1957
+Cooper,cooper,British,,gibson,Dick Gibson,British,29,1957-n-rburg,German Grand Prix,,,,,,24,3,,0.0,23,R,6,Steering,,1957
+Maserati,maserati,Italian,,gould,Horace Gould,British,19,1957-n-rburg,German Grand Prix,,,,,,19,2,,0.0,24,R,6,Axle,,1957
+Vanwall,vanwall,British,,moss,Stirling Moss,British,26,1957-pescara,Pescara Grand Prix,,,,,,2,18,10762700,9.0,1,1,7,Finished,2:59:22.700,1957
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,2,1957-pescara,Pescara Grand Prix,,,,,,1,18,10956600,6.0,2,2,7,Finished,+3:13.900,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,6,1957-pescara,Pescara Grand Prix,,,,,,5,18,11169500,4.0,3,3,7,Finished,+6:46.800,1957
+Maserati,maserati,Italian,,gregory,Masten Gregory,American,14,1957-pescara,Pescara Grand Prix,,,,,,7,18,11259200,3.0,4,4,7,Finished,+8:16.500,1957
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,30,1957-pescara,Pescara Grand Prix,,,,,,8,17,,2.0,5,5,7,+1 Lap,,1957
+Maserati,maserati,Italian,,scarlatti,Giorgio Scarlatti,Italian,8,1957-pescara,Pescara Grand Prix,,,,,,10,17,,0.0,6,6,7,+1 Lap,,1957
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,24,1957-pescara,Pescara Grand Prix,,,,,,16,15,,0.0,7,7,7,+3 Laps,,1957
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,34,1957-pescara,Pescara Grand Prix,,,,,,3,9,,0.0,8,R,7,Oil leak,,1957
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,10,1957-pescara,Pescara Grand Prix,,,,,,12,9,,0.0,9,R,7,Engine,,1957
+Maserati,maserati,Italian,,halford,Bruce Halford,British,20,1957-pescara,Pescara Grand Prix,,,,,,14,9,,0.0,10,R,7,Transmission,,1957
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,16,1957-pescara,Pescara Grand Prix,,,,,,9,7,,0.0,11,R,7,Overheating,,1957
+Maserati,maserati,Italian,,behra,Jean Behra,French,4,1957-pescara,Pescara Grand Prix,,,,,,4,3,,0.0,12,R,7,Oil leak,,1957
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,22,1957-pescara,Pescara Grand Prix,,,,,,15,3,,0.0,13,R,7,Accident,,1957
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,28,1957-pescara,Pescara Grand Prix,,,,,,6,1,,0.0,14,R,7,Engine,,1957
+Maserati,maserati,Italian,,gould,Horace Gould,British,18,1957-pescara,Pescara Grand Prix,,,,,,11,0,,0.0,15,R,7,Accident,,1957
+Maserati,maserati,Italian,,piotti,Luigi Piotti,Italian,12,1957-pescara,Pescara Grand Prix,,,,,,13,0,,0.0,16,R,7,Engine,,1957
+Vanwall,vanwall,British,,moss,Stirling Moss,British,18,1957-monza,Italian Grand Prix,,,,,,2,87,9303900,8.0,1,1,8,Finished,2:35:03.900,1957
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,2,1957-monza,Italian Grand Prix,,,,,,4,87,9345100,6.0,2,2,8,Finished,+41.200,1957
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,36,1957-monza,Italian Grand Prix,,,,,,8,85,,4.0,3,3,8,+2 Laps,,1957
+Maserati,maserati,Italian,,gregory,Masten Gregory,American,26,1957-monza,Italian Grand Prix,,,,,,11,84,,3.0,4,4,8,+3 Laps,,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,8,1957-monza,Italian Grand Prix,,,,,,12,84,,1.0,5,5,8,+3 Laps,,1957
+Maserati,maserati,Italian,,scarlatti,Giorgio Scarlatti,Italian,8,1957-monza,Italian Grand Prix,,,,,,12,84,,1.0,5,5,8,+3 Laps,,1957
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,34,1957-monza,Italian Grand Prix,,,,,,10,83,,0.0,6,6,8,+4 Laps,,1957
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,22,1957-monza,Italian Grand Prix,,,,,,3,82,,1.0,7,7,8,+5 Laps,,1957
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,32,1957-monza,Italian Grand Prix,,,,,,9,82,,0.0,8,8,8,+5 Laps,,1957
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,10,1957-monza,Italian Grand Prix,,,,,,15,81,,0.0,9,9,8,+6 Laps,,1957
+Maserati,maserati,Italian,,gould,Horace Gould,British,14,1957-monza,Italian Grand Prix,,,,,,18,78,,0.0,10,10,8,+9 Laps,,1957
+Maserati,maserati,Italian,,volonterio,Ottorino Volonterio,Swiss,28,1957-monza,Italian Grand Prix,,,,,,16,72,,0.0,11,11,8,+15 Laps,,1957
+Maserati,maserati,Italian,,simon,André Simon,French,28,1957-monza,Italian Grand Prix,,,,,,16,72,,0.0,11,11,8,+15 Laps,,1957
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,30,1957-monza,Italian Grand Prix,,,,,,7,62,,0.0,12,R,8,Engine,,1957
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,20,1957-monza,Italian Grand Prix,,,,,,1,49,,0.0,13,R,8,Engine,,1957
+Maserati,maserati,Italian,,behra,Jean Behra,French,6,1957-monza,Italian Grand Prix,,,,,,5,49,,0.0,14,R,8,Overheating,,1957
+Maserati,maserati,Italian,,halford,Bruce Halford,British,16,1957-monza,Italian Grand Prix,,,,,,14,47,,0.0,15,R,8,Engine,,1957
+Maserati,maserati,Italian,,schell,Harry Schell,American,4,1957-monza,Italian Grand Prix,,,,,,6,34,,0.0,16,R,8,Oil leak,,1957
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,24,1957-monza,Italian Grand Prix,,,,,,13,31,,0.0,17,R,8,Overheating,,1957
+Maserati,maserati,Italian,,piotti,Luigi Piotti,Italian,12,1957-monza,Italian Grand Prix,,,,,,17,3,,0.0,18,R,8,Engine,,1957

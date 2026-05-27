@@ -1,0 +1,34 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""brabham""]","[""Brabham""]",,piquet,Nelson Piquet,Brazilian,,59.0,1,1,3,1983
+"[""renault""]","[""Renault""]",,prost,Alain Prost,French,,57.0,2,2,4,1983
+"[""ferrari""]","[""Ferrari""]",,arnoux,René Arnoux,French,,49.0,3,3,3,1983
+"[""ferrari""]","[""Ferrari""]",,tambay,Patrick Tambay,French,,40.0,4,4,1,1983
+"[""williams""]","[""Williams""]",,keke_rosberg,Keke Rosberg,Finnish,,27.0,5,5,1,1983
+"[""mclaren""]","[""McLaren""]",,watson,John Watson,British,,22.0,6,6,1,1983
+"[""renault""]","[""Renault""]",,cheever,Eddie Cheever,American,,22.0,7,7,0,1983
+"[""alfa""]","[""Alfa Romeo""]",,cesaris,Andrea de Cesaris,Italian,,15.0,8,8,0,1983
+"[""brabham""]","[""Brabham""]",,patrese,Riccardo Patrese,Italian,,13.0,9,9,1,1983
+"[""mclaren""]","[""McLaren""]",,lauda,Niki Lauda,Austrian,,12.0,10,10,0,1983
+"[""williams""]","[""Williams""]",,laffite,Jacques Laffite,French,,11.0,11,11,0,1983
+"[""tyrrell""]","[""Tyrrell""]",,alboreto,Michele Alboreto,Italian,,10.0,12,12,1,1983
+"[""team_lotus""]","[""Team Lotus""]",,mansell,Nigel Mansell,British,,10.0,13,13,0,1983
+"[""toleman""]","[""Toleman""]",,warwick,Derek Warwick,British,,9.0,14,14,0,1983
+"[""arrows""]","[""Arrows""]",,surer,Marc Surer,Swiss,,4.0,15,15,0,1983
+"[""alfa""]","[""Alfa Romeo""]",,baldi,Mauro Baldi,Italian,,3.0,16,16,0,1983
+"[""tyrrell""]","[""Tyrrell""]",,sullivan,Danny Sullivan,American,,2.0,17,17,0,1983
+"[""team_lotus""]","[""Team Lotus""]",,angelis,Elio de Angelis,Italian,,2.0,18,18,0,1983
+"[""toleman""]","[""Toleman""]",,giacomelli,Bruno Giacomelli,Italian,,1.0,19,19,0,1983
+"[""theodore""]","[""Theodore""]",,cecotto,Johnny Cecotto,Venezuelan,,1.0,20,20,0,1983
+"[""arrows""]","[""Arrows""]",,boutsen,Thierry Boutsen,Belgian,,0.0,,-,0,1983
+"[""arrows""]","[""Arrows""]",,serra,Chico Serra,Brazilian,,0.0,,-,0,1983
+"[""ligier""]","[""Ligier""]",,jarier,Jean-Pierre Jarier,French,,0.0,,-,0,1983
+"[""ligier""]","[""Ligier""]",,boesel,Raul Boesel,Brazilian,,0.0,,-,0,1983
+"[""spirit""]","[""Spirit""]",,johansson,Stefan Johansson,Swedish,,0.0,,-,0,1983
+"[""ats""]","[""ATS""]",,manfred_winkelhock,Manfred Winkelhock,German,,0.0,,-,0,1983
+"[""osella""]","[""Osella""]",,corrado_fabi,Corrado Fabi,Italian,,0.0,,-,0,1983
+"[""osella""]","[""Osella""]",,ghinzani,Piercarlo Ghinzani,Italian,,0.0,,-,0,1983
+"[""theodore""]","[""Theodore""]",,guerrero,Roberto Guerrero,Colombian,,0.0,,-,0,1983
+"[""ram""]","[""RAM""]",,acheson,Kenny Acheson,British,,0.0,,-,0,1983
+"[""ram""]","[""RAM""]",,salazar,Eliseo Salazar,Chilean,,0.0,,-,0,1983
+"[""williams""]","[""Williams""]",,palmer,Jonathan Palmer,British,,0.0,,-,0,1983
+"[""arrows""]","[""Arrows""]",,jones,Alan Jones,Australian,,0.0,,-,0,1983

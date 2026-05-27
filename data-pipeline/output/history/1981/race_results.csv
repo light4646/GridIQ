@@ -1,0 +1,362 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-california,United States Grand Prix West,,,,,,2,80,6641330,9.0,1,1,1,Finished,1:50:41.330,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-california,United States Grand Prix West,,,,,,3,80,6650520,6.0,2,2,1,Finished,+9.190,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-california,United States Grand Prix West,,,,,,4,80,6676250,4.0,3,3,1,Finished,+34.920,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-california,United States Grand Prix West,,,,,,6,80,6690640,3.0,4,4,1,Finished,+49.310,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-california,United States Grand Prix West,,,,,,8,80,6708030,2.0,5,5,1,Finished,+1:06.700,1981
+Theodore,theodore,Hong Kong,,tambay,Patrick Tambay,French,33,1981-california,United States Grand Prix West,,,,,,17,79,,1.0,6,6,1,+1 Lap,,1981
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,21,1981-california,United States Grand Prix West,,,,,,18,78,,0.0,7,7,1,+2 Laps,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-california,United States Grand Prix West,,,,,,20,77,,0.0,8,8,1,+3 Laps,,1981
+Ensign,ensign,British,,surer,Marc Surer,Swiss,14,1981-california,United States Grand Prix West,,,,,,19,70,,0.0,9,R,1,Fuel system,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-california,United States Grand Prix West,,,,,,11,67,,0.0,10,R,1,Fuel system,,1981
+Ligier,ligier,French,,jarier,Jean-Pierre Jarier,French,25,1981-california,United States Grand Prix West,,,,,,10,64,,0.0,11,R,1,Fuel pump,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-california,United States Grand Prix West,,,,,,15,49,,0.0,12,R,1,Accident,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-california,United States Grand Prix West,,,,,,9,41,,0.0,13,R,1,Collision,,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-california,United States Grand Prix West,,,,,,12,41,,0.0,14,R,1,Collision,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-california,United States Grand Prix West,,,,,,16,41,,0.0,15,R,1,Engine,,1981
+ATS,ats,Italian,,lammers,Jan Lammers,Dutch,9,1981-california,United States Grand Prix West,,,,,,21,41,,0.0,16,R,1,Collision,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-california,United States Grand Prix West,,,,,,1,33,,0.0,17,R,1,Fuel system,,1981
+Osella,osella,Italian,,gabbiani,Beppe Gabbiani,Italian,32,1981-california,United States Grand Prix West,,,,,,24,26,,0.0,18,R,1,Accident,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-california,United States Grand Prix West,,,,,,7,25,,0.0,19,R,1,Accident,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-california,United States Grand Prix West,,,,,,5,17,,0.0,20,R,1,Halfshaft,,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-california,United States Grand Prix West,,,,,,23,16,,0.0,21,R,1,Brakes,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-california,United States Grand Prix West,,,,,,13,13,,0.0,22,R,1,Accident,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-california,United States Grand Prix West,,,,,,14,0,,0.0,23,R,1,Collision,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-california,United States Grand Prix West,,,,,,22,0,,0.0,24,R,1,Collision,,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,2,62,7223660,9.0,1,1,2,Finished,2:00:23.660,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,3,62,7228100,6.0,2,2,2,Finished,+4.440,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,4,62,7286740,4.0,3,3,2,Finished,+1:03.080,1981
+Ensign,ensign,British,,surer,Marc Surer,Swiss,14,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,18,62,7300690,3.0,4,4,2,Finished,+1:17.030,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,10,62,7310080,2.0,5,5,2,Finished,+1:26.420,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,16,62,7310490,1.0,6,6,2,Finished,+1:26.830,1981
+Ligier,ligier,French,,jarier,Jean-Pierre Jarier,French,25,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,23,62,7313910,0.0,7,7,2,Finished,+1:30.250,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,15,61,,0.0,8,8,2,+1 Lap,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,12,61,,0.0,9,9,2,+1 Lap,,1981
+Theodore,theodore,Hong Kong,,tambay,Patrick Tambay,French,33,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,19,61,,0.0,10,10,2,+1 Lap,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,13,61,,0.0,11,11,2,+1 Lap,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,1,60,,0.0,12,12,2,+2 Laps,,1981
+Tyrrell,tyrrell,British,,zunino,Ricardo Zunino,Argentine,4,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,24,57,,0.0,13,13,2,+5 Laps,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,14,49,,0.0,14,R,2,Not classified,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,6,40,,0.0,15,R,2,Not classified,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,7,25,,0.0,16,R,2,Turbo,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,11,22,,0.0,17,R,2,Spun off,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,5,20,,0.0,18,R,2,Collision,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,21,20,,0.0,19,R,2,Accident,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,17,19,,0.0,20,R,2,Collision,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,20,9,,0.0,21,R,2,Engine,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,8,0,,0.0,22,R,2,Collision,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,9,0,,0.0,23,R,2,Collision,,1981
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,21,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,22,0,,0.0,24,R,2,Collision,,1981
+Ensign,ensign,British,,londono,Ricardo Londoño,Colombian,14,1981-rio-de-janeiro,Brazilian Grand Prix,,,,,,0,0,,0.0,30,W,2,Withdrew,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-buenos-aires,Argentine Grand Prix,,,,,,1,53,5672740,9.0,1,1,3,Finished,1:34:32.740,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-buenos-aires,Argentine Grand Prix,,,,,,4,53,5699350,6.0,2,2,3,Finished,+26.610,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-buenos-aires,Argentine Grand Prix,,,,,,2,53,5722720,4.0,3,3,3,Finished,+49.980,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-buenos-aires,Argentine Grand Prix,,,,,,3,53,5740620,3.0,4,4,3,Finished,+1:07.880,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-buenos-aires,Argentine Grand Prix,,,,,,5,53,5764590,2.0,5,5,3,Finished,+1:31.850,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-buenos-aires,Argentine Grand Prix,,,,,,10,52,,1.0,6,6,3,+1 Lap,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-buenos-aires,Argentine Grand Prix,,,,,,9,52,,0.0,7,7,3,+1 Lap,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-buenos-aires,Argentine Grand Prix,,,,,,17,52,,0.0,8,8,3,+1 Lap,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-buenos-aires,Argentine Grand Prix,,,,,,19,52,,0.0,9,9,3,+1 Lap,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-buenos-aires,Argentine Grand Prix,,,,,,22,51,,0.0,10,10,3,Out of fuel,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-buenos-aires,Argentine Grand Prix,,,,,,18,51,,0.0,11,11,3,+2 Laps,,1981
+ATS,ats,Italian,,lammers,Jan Lammers,Dutch,9,1981-buenos-aires,Argentine Grand Prix,,,,,,23,51,,0.0,12,12,3,+2 Laps,,1981
+Tyrrell,tyrrell,British,,zunino,Ricardo Zunino,Argentine,4,1981-buenos-aires,Argentine Grand Prix,,,,,,24,51,,0.0,13,13,3,+2 Laps,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-buenos-aires,Argentine Grand Prix,,,,,,7,40,,0.0,14,R,3,Transmission,,1981
+Theodore,theodore,Hong Kong,,tambay,Patrick Tambay,French,33,1981-buenos-aires,Argentine Grand Prix,,,,,,14,36,,0.0,15,R,3,Oil leak,,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-buenos-aires,Argentine Grand Prix,,,,,,11,36,,0.0,16,R,3,Transmission,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-buenos-aires,Argentine Grand Prix,,,,,,6,32,,0.0,17,R,3,Electrical,,1981
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,21,1981-buenos-aires,Argentine Grand Prix,,,,,,20,28,,0.0,18,R,3,Gearbox,,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-buenos-aires,Argentine Grand Prix,,,,,,21,19,,0.0,19,R,3,Handling,,1981
+Ensign,ensign,British,,surer,Marc Surer,Swiss,14,1981-buenos-aires,Argentine Grand Prix,,,,,,16,14,,0.0,20,R,3,Engine,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-buenos-aires,Argentine Grand Prix,,,,,,8,4,,0.0,21,R,3,Fuel system,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-buenos-aires,Argentine Grand Prix,,,,,,15,3,,0.0,22,R,3,Engine,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-buenos-aires,Argentine Grand Prix,,,,,,12,3,,0.0,23,R,3,Engine,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-buenos-aires,Argentine Grand Prix,,,,,,13,1,,0.0,24,R,3,Clutch,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-imola,San Marino Grand Prix,,,,,,5,60,6683970,9.0,1,1,4,Finished,1:51:23.970,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-imola,San Marino Grand Prix,,,,,,9,60,6688550,6.0,2,2,4,Finished,+4.580,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-imola,San Marino Grand Prix,,,,,,2,60,6690310,4.0,3,3,4,Finished,+6.340,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-imola,San Marino Grand Prix,,,,,,13,60,6706860,3.0,4,4,4,Finished,+22.890,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-imola,San Marino Grand Prix,,,,,,6,60,6709840,2.0,5,5,4,Finished,+25.870,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-imola,San Marino Grand Prix,,,,,,14,60,6750580,1.0,6,6,4,Finished,+1:06.610,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-imola,San Marino Grand Prix,,,,,,1,60,6785940,0.0,7,7,4,Finished,+1:41.970,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-imola,San Marino Grand Prix,,,,,,3,59,,0.0,8,8,4,+1 Lap,,1981
+Ensign,ensign,British,,surer,Marc Surer,Swiss,14,1981-imola,San Marino Grand Prix,,,,,,21,59,,0.0,9,9,4,+1 Lap,,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-imola,San Marino Grand Prix,,,,,,7,58,,0.0,10,10,4,+2 Laps,,1981
+Theodore,theodore,Hong Kong,,tambay,Patrick Tambay,French,33,1981-imola,San Marino Grand Prix,,,,,,16,58,,0.0,11,11,4,+2 Laps,,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-imola,San Marino Grand Prix,,,,,,8,58,,0.0,12,12,4,+2 Laps,,1981
+ATS,ats,Italian,,borgudd,Slim Borgudd,Swedish,10,1981-imola,San Marino Grand Prix,,,,,,24,57,,0.0,13,13,4,+3 Laps,,1981
+Ligier,ligier,French,,jabouille,Jean-Pierre Jabouille,French,25,1981-imola,San Marino Grand Prix,,,,,,18,45,,0.0,14,R,4,Not classified,,1981
+March,march,British,,salazar,Eliseo Salazar,Chilean,17,1981-imola,San Marino Grand Prix,,,,,,23,38,,0.0,15,R,4,Spun off,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-imola,San Marino Grand Prix,,,,,,17,31,,0.0,16,R,4,Collision,,1981
+Osella,osella,Italian,,gabbiani,Beppe Gabbiani,Italian,32,1981-imola,San Marino Grand Prix,,,,,,20,31,,0.0,17,R,4,Collision,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-imola,San Marino Grand Prix,,,,,,11,28,,0.0,18,R,4,Collision,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-imola,San Marino Grand Prix,,,,,,19,28,,0.0,19,R,4,Collision,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-imola,San Marino Grand Prix,,,,,,12,26,,0.0,20,R,4,Gearbox,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-imola,San Marino Grand Prix,,,,,,15,14,,0.0,21,R,4,Engine,,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-imola,San Marino Grand Prix,,,,,,10,7,,0.0,22,R,4,Suspension,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-imola,San Marino Grand Prix,,,,,,4,3,,0.0,23,R,4,Gearbox,,1981
+Osella,osella,Italian,,guerra,Miguel Ángel Guerra,Argentine,31,1981-imola,San Marino Grand Prix,,,,,,22,0,,0.0,24,R,4,Accident,,1981
+ATS,ats,Italian,,lammers,Jan Lammers,Dutch,9,1981-imola,San Marino Grand Prix,,,,,,0,0,,0.0,27,R,4,Retired,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-imola,San Marino Grand Prix,,,,,,0,0,,0.0,31,W,4,Withdrew,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-imola,San Marino Grand Prix,,,,,,0,0,,0.0,32,W,4,Withdrew,,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-heusden-zolder,Belgian Grand Prix,,,,,,1,54,4591610,9.0,1,1,5,Finished,1:16:31.610,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-heusden-zolder,Belgian Grand Prix,,,,,,9,54,4627670,6.0,2,2,5,Finished,+36.060,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-heusden-zolder,Belgian Grand Prix,,,,,,10,54,4635300,4.0,3,3,5,Finished,+43.690,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-heusden-zolder,Belgian Grand Prix,,,,,,7,54,4639250,3.0,4,4,5,Finished,+47.640,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-heusden-zolder,Belgian Grand Prix,,,,,,14,54,4640810,2.0,5,5,5,Finished,+49.200,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-heusden-zolder,Belgian Grand Prix,,,,,,8,54,4644120,1.0,6,6,5,Finished,+52.510,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-heusden-zolder,Belgian Grand Prix,,,,,,5,54,4653270,0.0,7,7,5,Finished,+1:01.660,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-heusden-zolder,Belgian Grand Prix,,,,,,3,54,4683650,0.0,8,8,5,Finished,+1:32.040,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-heusden-zolder,Belgian Grand Prix,,,,,,17,54,4687190,0.0,9,9,5,Finished,+1:35.580,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-heusden-zolder,Belgian Grand Prix,,,,,,18,53,,0.0,10,10,5,+1 Lap,,1981
+Ensign,ensign,British,,surer,Marc Surer,Swiss,14,1981-heusden-zolder,Belgian Grand Prix,,,,,,15,52,,0.0,11,11,5,+2 Laps,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-heusden-zolder,Belgian Grand Prix,,,,,,19,52,,0.0,12,12,5,+2 Laps,,1981
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,31,1981-heusden-zolder,Belgian Grand Prix,,,,,,24,50,,0.0,13,13,5,+4 Laps,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-heusden-zolder,Belgian Grand Prix,,,,,,21,39,,0.0,14,R,5,Accident,,1981
+Ligier,ligier,French,,jabouille,Jean-Pierre Jabouille,French,25,1981-heusden-zolder,Belgian Grand Prix,,,,,,16,35,,0.0,15,R,5,Transmission,,1981
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,21,1981-heusden-zolder,Belgian Grand Prix,,,,,,20,29,,0.0,16,R,5,Engine,,1981
+Osella,osella,Italian,,gabbiani,Beppe Gabbiani,Italian,32,1981-heusden-zolder,Belgian Grand Prix,,,,,,22,22,,0.0,17,R,5,Engine,,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-heusden-zolder,Belgian Grand Prix,,,,,,6,19,,0.0,18,R,5,Accident,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-heusden-zolder,Belgian Grand Prix,,,,,,23,11,,0.0,19,R,5,Gearbox,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-heusden-zolder,Belgian Grand Prix,,,,,,2,10,,0.0,20,R,5,Accident,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-heusden-zolder,Belgian Grand Prix,,,,,,11,10,,0.0,21,R,5,Gearbox,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-heusden-zolder,Belgian Grand Prix,,,,,,12,2,,0.0,22,R,5,Clutch,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-heusden-zolder,Belgian Grand Prix,,,,,,4,0,,0.0,23,R,5,Collision,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-heusden-zolder,Belgian Grand Prix,,,,,,13,0,,0.0,24,R,5,Collision,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-monte-carlo,Monaco Grand Prix,,,,,,2,76,6863380,9.0,1,1,6,Finished,1:54:23.380,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-monte-carlo,Monaco Grand Prix,,,,,,7,76,6903290,6.0,2,2,6,Finished,+39.910,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-monte-carlo,Monaco Grand Prix,,,,,,8,76,6952620,4.0,3,3,6,Finished,+1:29.240,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-monte-carlo,Monaco Grand Prix,,,,,,17,75,,3.0,4,4,6,+1 Lap,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-monte-carlo,Monaco Grand Prix,,,,,,15,74,,2.0,5,5,6,+2 Laps,,1981
+Ensign,ensign,British,,surer,Marc Surer,Swiss,14,1981-monte-carlo,Monaco Grand Prix,,,,,,19,74,,1.0,6,6,6,+2 Laps,,1981
+Theodore,theodore,Hong Kong,,tambay,Patrick Tambay,French,33,1981-monte-carlo,Monaco Grand Prix,,,,,,16,72,,0.0,7,7,6,+4 Laps,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-monte-carlo,Monaco Grand Prix,,,,,,1,53,,0.0,8,R,6,Spun off,,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-monte-carlo,Monaco Grand Prix,,,,,,10,52,,0.0,9,R,6,Engine,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-monte-carlo,Monaco Grand Prix,,,,,,20,50,,0.0,10,R,6,Collision,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-monte-carlo,Monaco Grand Prix,,,,,,18,50,,0.0,11,R,6,Collision,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-monte-carlo,Monaco Grand Prix,,,,,,9,45,,0.0,12,R,6,Engine,,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-monte-carlo,Monaco Grand Prix,,,,,,4,33,,0.0,13,R,6,Gearbox,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-monte-carlo,Monaco Grand Prix,,,,,,6,32,,0.0,14,R,6,Engine,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-monte-carlo,Monaco Grand Prix,,,,,,13,32,,0.0,15,R,6,Spun off,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-monte-carlo,Monaco Grand Prix,,,,,,5,29,,0.0,16,R,6,Gearbox,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-monte-carlo,Monaco Grand Prix,,,,,,3,15,,0.0,17,R,6,Suspension,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-monte-carlo,Monaco Grand Prix,,,,,,14,14,,0.0,18,R,6,Fuel system,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-monte-carlo,Monaco Grand Prix,,,,,,11,0,,0.0,19,R,6,Collision,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-monte-carlo,Monaco Grand Prix,,,,,,12,0,,0.0,20,R,6,Collision,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-madrid,Spanish Grand Prix,,,,,,7,80,6395010,9.0,1,1,7,Finished,1:46:35.010,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-madrid,Spanish Grand Prix,,,,,,1,80,6395230,6.0,2,2,7,Finished,+0.220,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-madrid,Spanish Grand Prix,,,,,,4,80,6395590,4.0,3,3,7,Finished,+0.580,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-madrid,Spanish Grand Prix,,,,,,3,80,6396020,3.0,4,4,7,Finished,+1.010,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-madrid,Spanish Grand Prix,,,,,,10,80,6396250,2.0,5,5,7,Finished,+1.240,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-madrid,Spanish Grand Prix,,,,,,11,80,6423590,1.0,6,6,7,Finished,+28.580,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-madrid,Spanish Grand Prix,,,,,,2,80,6451590,0.0,7,7,7,Finished,+56.580,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-madrid,Spanish Grand Prix,,,,,,8,80,6455810,0.0,8,8,7,Finished,+1:00.800,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-madrid,Spanish Grand Prix,,,,,,17,80,6462090,0.0,9,9,7,Finished,+1:07.080,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-madrid,Spanish Grand Prix,,,,,,6,80,6468660,0.0,10,10,7,Finished,+1:13.650,1981
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,21,1981-madrid,Spanish Grand Prix,,,,,,21,79,,0.0,11,11,7,+1 Lap,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-madrid,Spanish Grand Prix,,,,,,15,78,,0.0,12,12,7,+2 Laps,,1981
+Theodore,theodore,Hong Kong,,tambay,Patrick Tambay,French,33,1981-madrid,Spanish Grand Prix,,,,,,16,78,,0.0,13,13,7,+2 Laps,,1981
+Ensign,ensign,British,,salazar,Eliseo Salazar,Chilean,14,1981-madrid,Spanish Grand Prix,,,,,,24,77,,0.0,14,14,7,+3 Laps,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-madrid,Spanish Grand Prix,,,,,,13,76,,0.0,15,15,7,+4 Laps,,1981
+March,march,British,,daly,Derek Daly,Irish,17,1981-madrid,Spanish Grand Prix,,,,,,22,75,,0.0,16,16,7,+5 Laps,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-madrid,Spanish Grand Prix,,,,,,20,62,,0.0,17,R,7,Not classified,,1981
+Ligier,ligier,French,,jabouille,Jean-Pierre Jabouille,French,25,1981-madrid,Spanish Grand Prix,,,,,,19,51,,0.0,18,R,7,Brakes,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-madrid,Spanish Grand Prix,,,,,,18,46,,0.0,19,R,7,Gearbox,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-madrid,Spanish Grand Prix,,,,,,23,43,,0.0,20,R,7,Ignition,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-madrid,Spanish Grand Prix,,,,,,9,43,,0.0,21,R,7,Accident,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-madrid,Spanish Grand Prix,,,,,,5,28,,0.0,22,R,7,Spun off,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-madrid,Spanish Grand Prix,,,,,,12,21,,0.0,23,R,7,Brakes,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-madrid,Spanish Grand Prix,,,,,,14,9,,0.0,24,R,7,Accident,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-dijon,French Grand Prix,,,,,,3,80,5748130,9.0,1,1,8,Finished,1:35:48.130,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-dijon,French Grand Prix,,,,,,2,80,5750420,6.0,2,2,8,Finished,+2.290,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-dijon,French Grand Prix,,,,,,4,80,5772350,4.0,3,3,8,Finished,+24.220,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-dijon,French Grand Prix,,,,,,1,80,5790430,3.0,4,4,8,Finished,+42.300,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-dijon,French Grand Prix,,,,,,14,79,,2.0,5,5,8,+1 Lap,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-dijon,French Grand Prix,,,,,,8,79,,1.0,6,6,8,+1 Lap,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-dijon,French Grand Prix,,,,,,13,79,,0.0,7,7,8,+1 Lap,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-dijon,French Grand Prix,,,,,,10,79,,0.0,8,8,8,+1 Lap,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-dijon,French Grand Prix,,,,,,15,78,,0.0,9,9,8,+2 Laps,,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-dijon,French Grand Prix,,,,,,7,78,,0.0,10,10,8,+2 Laps,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-dijon,French Grand Prix,,,,,,5,78,,0.0,11,11,8,+2 Laps,,1981
+Theodore,theodore,Hong Kong,,surer,Marc Surer,Swiss,33,1981-dijon,French Grand Prix,,,,,,21,78,,0.0,12,12,8,+2 Laps,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-dijon,French Grand Prix,,,,,,19,77,,0.0,13,13,8,+3 Laps,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-dijon,French Grand Prix,,,,,,18,77,,0.0,14,14,8,+3 Laps,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-dijon,French Grand Prix,,,,,,12,77,,0.0,15,15,8,+3 Laps,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-dijon,French Grand Prix,,,,,,23,77,,0.0,16,16,8,+3 Laps,,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-dijon,French Grand Prix,,,,,,9,76,,0.0,17,17,8,Collision,,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-dijon,French Grand Prix,,,,,,6,57,,0.0,18,R,8,Suspension,,1981
+March,march,British,,daly,Derek Daly,Irish,17,1981-dijon,French Grand Prix,,,,,,20,55,,0.0,19,R,8,Engine,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-dijon,French Grand Prix,,,,,,11,41,,0.0,20,R,8,Electrical,,1981
+Ligier,ligier,French,,tambay,Patrick Tambay,French,25,1981-dijon,French Grand Prix,,,,,,16,30,,0.0,21,R,8,Wheel bearing,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-dijon,French Grand Prix,,,,,,17,11,,0.0,22,R,8,Suspension,,1981
+Ensign,ensign,British,,salazar,Eliseo Salazar,Chilean,14,1981-dijon,French Grand Prix,,,,,,22,6,,0.0,23,R,8,Suspension,,1981
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,21,1981-dijon,French Grand Prix,,,,,,24,0,,0.0,24,W,8,Withdrew,,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-silverstone,British Grand Prix,,,,,,5,68,5214800,9.0,1,1,9,Finished,1:26:54.800,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-silverstone,British Grand Prix,,,,,,9,68,5255450,6.0,2,2,9,Finished,+40.650,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-silverstone,British Grand Prix,,,,,,14,67,,4.0,3,3,9,+1 Lap,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-silverstone,British Grand Prix,,,,,,23,67,,3.0,4,4,9,+1 Lap,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-silverstone,British Grand Prix,,,,,,13,67,,2.0,5,5,9,+1 Lap,,1981
+ATS,ats,Italian,,borgudd,Slim Borgudd,Swedish,9,1981-silverstone,British Grand Prix,,,,,,21,67,,1.0,6,6,9,+1 Lap,,1981
+March,march,British,,daly,Derek Daly,Irish,17,1981-silverstone,British Grand Prix,,,,,,17,66,,0.0,7,7,9,+2 Laps,,1981
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,32,1981-silverstone,British Grand Prix,,,,,,20,65,,0.0,8,8,9,+3 Laps,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-silverstone,British Grand Prix,,,,,,1,64,,0.0,9,9,9,Distributor,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-silverstone,British Grand Prix,,,,,,10,64,,0.0,10,10,9,Engine,,1981
+Theodore,theodore,Hong Kong,,surer,Marc Surer,Swiss,33,1981-silverstone,British Grand Prix,,,,,,24,61,,0.0,11,11,9,Out of fuel,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-silverstone,British Grand Prix,,,,,,11,59,,0.0,12,R,9,Throttle,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-silverstone,British Grand Prix,,,,,,14,56,,0.0,13,R,9,Suspension,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-silverstone,British Grand Prix,,,,,,22,25,,0.0,14,D,9,Disqualified,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-silverstone,British Grand Prix,,,,,,2,17,,0.0,15,R,9,Distributor,,1981
+Ligier,ligier,French,,tambay,Patrick Tambay,French,25,1981-silverstone,British Grand Prix,,,,,,15,15,,0.0,16,R,9,Clutch,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-silverstone,British Grand Prix,,,,,,4,13,,0.0,17,R,9,Turbo,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-silverstone,British Grand Prix,,,,,,3,11,,0.0,18,R,9,Tyre,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-silverstone,British Grand Prix,,,,,,12,5,,0.0,19,R,9,Transmission,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-silverstone,British Grand Prix,,,,,,8,4,,0.0,20,R,9,Spun off,,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-silverstone,British Grand Prix,,,,,,7,3,,0.0,21,R,9,Collision,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-silverstone,British Grand Prix,,,,,,6,3,,0.0,22,R,9,Spun off,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-silverstone,British Grand Prix,,,,,,19,1,,0.0,23,R,9,Clutch,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-silverstone,British Grand Prix,,,,,,18,8,,0.0,24,R,9,Spun off,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-hockenheim,German Grand Prix,,,,,,6,45,5155600,9.0,1,1,10,Finished,1:25:55.600,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-hockenheim,German Grand Prix,,,,,,1,45,5167120,6.0,2,2,10,Finished,+11.520,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-hockenheim,German Grand Prix,,,,,,7,45,5220200,4.0,3,3,10,Finished,+1:04.600,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-hockenheim,German Grand Prix,,,,,,16,45,5255290,3.0,4,4,10,Finished,+1:39.690,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-hockenheim,German Grand Prix,,,,,,18,45,5266120,2.0,5,5,10,Finished,+1:50.520,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-hockenheim,German Grand Prix,,,,,,9,44,,1.0,6,6,10,+1 Lap,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-hockenheim,German Grand Prix,,,,,,14,44,,0.0,7,7,10,+1 Lap,,1981
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,32,1981-hockenheim,German Grand Prix,,,,,,17,44,,0.0,8,8,10,+1 Lap,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-hockenheim,German Grand Prix,,,,,,12,44,,0.0,9,9,10,+1 Lap,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-hockenheim,German Grand Prix,,,,,,8,44,,0.0,10,10,10,+1 Lap,,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-hockenheim,German Grand Prix,,,,,,4,44,,0.0,11,11,10,+1 Lap,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-hockenheim,German Grand Prix,,,,,,26,44,,0.0,12,12,10,+1 Lap,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-hockenheim,German Grand Prix,,,,,,2,44,,0.0,13,13,10,+1 Lap,,1981
+Theodore,theodore,Hong Kong,,surer,Marc Surer,Swiss,33,1981-hockenheim,German Grand Prix,,,,,,22,43,,0.0,14,14,10,Suspension,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-hockenheim,German Grand Prix,,,,,,17,43,,0.0,15,15,10,+2 Laps,,1981
+Ensign,ensign,British,,salazar,Eliseo Salazar,Chilean,14,1981-hockenheim,German Grand Prix,,,,,,23,39,,0.0,16,R,10,Not classified,,1981
+ATS,ats,Italian,,borgudd,Slim Borgudd,Swedish,9,1981-hockenheim,German Grand Prix,,,,,,28,35,,0.0,17,R,10,Engine,,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-hockenheim,German Grand Prix,,,,,,3,27,,0.0,18,R,10,Engine,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-hockenheim,German Grand Prix,,,,,,13,27,,0.0,19,R,10,Engine,,1981
+Ligier,ligier,French,,tambay,Patrick Tambay,French,25,1981-hockenheim,German Grand Prix,,,,,,11,27,,0.0,20,R,10,Transmission,,1981
+March,march,British,,daly,Derek Daly,Irish,17,1981-hockenheim,German Grand Prix,,,,,,21,15,,0.0,21,R,10,Suspension,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-hockenheim,German Grand Prix,,,,,,15,12,,0.0,22,R,10,Fuel leak,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-hockenheim,German Grand Prix,,,,,,10,4,,0.0,23,R,10,Collision,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-hockenheim,German Grand Prix,,,,,,5,1,,0.0,24,R,10,Electrical,,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-spielberg,Austrian Grand Prix,,,,,,4,53,5256470,9.0,1,1,11,Finished,1:27:36.470,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-spielberg,Austrian Grand Prix,,,,,,1,53,5261640,6.0,2,2,11,Finished,+5.170,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-spielberg,Austrian Grand Prix,,,,,,7,53,5263810,4.0,3,3,11,Finished,+7.340,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-spielberg,Austrian Grand Prix,,,,,,6,53,5268510,3.0,4,4,11,Finished,+12.040,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-spielberg,Austrian Grand Prix,,,,,,5,53,5288320,2.0,5,5,11,Finished,+31.850,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-spielberg,Austrian Grand Prix,,,,,,12,53,5347610,1.0,6,6,11,Finished,+1:31.140,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-spielberg,Austrian Grand Prix,,,,,,9,52,,0.0,7,7,11,+1 Lap,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-spielberg,Austrian Grand Prix,,,,,,18,52,,0.0,8,8,11,+1 Lap,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-spielberg,Austrian Grand Prix,,,,,,8,52,,0.0,9,9,11,+1 Lap,,1981
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,32,1981-spielberg,Austrian Grand Prix,,,,,,14,51,,0.0,10,10,11,+2 Laps,,1981
+March,march,British,,daly,Derek Daly,Irish,17,1981-spielberg,Austrian Grand Prix,,,,,,19,47,,0.0,11,11,11,+6 Laps,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-spielberg,Austrian Grand Prix,,,,,,13,46,,0.0,12,R,11,Engine,,1981
+ATS,ats,Italian,,borgudd,Slim Borgudd,Swedish,9,1981-spielberg,Austrian Grand Prix,,,,,,21,44,,0.0,13,R,11,Brakes,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-spielberg,Austrian Grand Prix,,,,,,10,43,,0.0,14,R,11,Engine,,1981
+Ensign,ensign,British,,salazar,Eliseo Salazar,Chilean,14,1981-spielberg,Austrian Grand Prix,,,,,,20,43,,0.0,15,R,11,Oil pressure,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-spielberg,Austrian Grand Prix,,,,,,22,40,,0.0,16,R,11,Gearbox,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-spielberg,Austrian Grand Prix,,,,,,16,35,,0.0,17,R,11,Heat shield fire,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-spielberg,Austrian Grand Prix,,,,,,15,32,,0.0,18,R,11,Clutch,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-spielberg,Austrian Grand Prix,,,,,,24,27,,0.0,19,R,11,Overheating,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-spielberg,Austrian Grand Prix,,,,,,2,26,,0.0,20,R,11,Suspension,,1981
+Ligier,ligier,French,,tambay,Patrick Tambay,French,25,1981-spielberg,Austrian Grand Prix,,,,,,17,26,,0.0,21,R,11,Engine,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-spielberg,Austrian Grand Prix,,,,,,11,23,,0.0,22,R,11,Engine,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-spielberg,Austrian Grand Prix,,,,,,3,11,,0.0,23,R,11,Accident,,1981
+Theodore,theodore,Hong Kong,,surer,Marc Surer,Swiss,33,1981-spielberg,Austrian Grand Prix,,,,,,23,0,,0.0,24,R,11,Distributor,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-zandvoort,Dutch Grand Prix,,,,,,1,72,6022430,9.0,1,1,12,Finished,1:40:22.430,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-zandvoort,Dutch Grand Prix,,,,,,3,72,6030670,6.0,2,2,12,Finished,+8.240,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-zandvoort,Dutch Grand Prix,,,,,,4,72,6057930,4.0,3,3,12,Finished,+35.500,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-zandvoort,Dutch Grand Prix,,,,,,15,71,,3.0,4,4,12,+1 Lap,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-zandvoort,Dutch Grand Prix,,,,,,9,71,,2.0,5,5,12,+1 Lap,,1981
+Ensign,ensign,British,,salazar,Eliseo Salazar,Chilean,14,1981-zandvoort,Dutch Grand Prix,,,,,,24,70,,1.0,6,6,12,+2 Laps,,1981
+Arrows,arrows,British,,stohr,Siegfried Stohr,Italian,30,1981-zandvoort,Dutch Grand Prix,,,,,,21,69,,0.0,7,7,12,+3 Laps,,1981
+Theodore,theodore,Hong Kong,,surer,Marc Surer,Swiss,33,1981-zandvoort,Dutch Grand Prix,,,,,,20,69,,0.0,8,8,12,+3 Laps,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-zandvoort,Dutch Grand Prix,,,,,,25,68,,0.0,9,9,12,Engine,,1981
+ATS,ats,Italian,,borgudd,Slim Borgudd,Swedish,9,1981-zandvoort,Dutch Grand Prix,,,,,,23,68,,0.0,10,10,12,+4 Laps,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-zandvoort,Dutch Grand Prix,,,,,,7,62,,0.0,11,R,12,Accident,,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-zandvoort,Dutch Grand Prix,,,,,,8,50,,0.0,12,R,12,Ignition,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-zandvoort,Dutch Grand Prix,,,,,,22,46,,0.0,13,R,12,Suspension,,1981
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,32,1981-zandvoort,Dutch Grand Prix,,,,,,18,29,,0.0,14,R,12,Transmission,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-zandvoort,Dutch Grand Prix,,,,,,2,21,,0.0,15,R,12,Engine,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-zandvoort,Dutch Grand Prix,,,,,,14,19,,0.0,16,R,12,Tyre,,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-zandvoort,Dutch Grand Prix,,,,,,6,18,,0.0,17,R,12,Collision,,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-zandvoort,Dutch Grand Prix,,,,,,5,18,,0.0,18,R,12,Collision,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-zandvoort,Dutch Grand Prix,,,,,,10,16,,0.0,19,R,12,Suspension,,1981
+March,march,British,,daly,Derek Daly,Irish,17,1981-zandvoort,Dutch Grand Prix,,,,,,19,5,,0.0,20,R,12,Suspension,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-zandvoort,Dutch Grand Prix,,,,,,12,4,,0.0,21,R,12,Collision,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-zandvoort,Dutch Grand Prix,,,,,,17,1,,0.0,22,R,12,Engine,,1981
+Ligier,ligier,French,,tambay,Patrick Tambay,French,25,1981-zandvoort,Dutch Grand Prix,,,,,,11,1,,0.0,23,R,12,Collision,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-zandvoort,Dutch Grand Prix,,,,,,16,0,,0.0,24,R,12,Collision,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,25,W,12,Withdrew,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-monza,Italian Grand Prix,,,,,,3,52,5196897,9.0,1,1,13,Finished,1:26:36.897,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-monza,Italian Grand Prix,,,,,,5,52,5219072,6.0,2,2,13,Finished,+22.175,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-monza,Italian Grand Prix,,,,,,2,52,5247484,4.0,3,3,13,Finished,+50.587,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-monza,Italian Grand Prix,,,,,,11,52,5289799,3.0,4,4,13,Finished,+1:32.902,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-monza,Italian Grand Prix,,,,,,8,52,5291419,2.0,5,5,13,Finished,+1:34.522,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-monza,Italian Grand Prix,,,,,,6,51,,1.0,6,6,13,Engine,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-monza,Italian Grand Prix,,,,,,16,51,,0.0,7,7,13,Puncture,,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-monza,Italian Grand Prix,,,,,,10,50,,0.0,8,8,13,+2 Laps,,1981
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,32,1981-monza,Italian Grand Prix,,,,,,18,50,,0.0,9,9,13,+2 Laps,,1981
+Toleman,toleman,British,,henton,Brian Henton,British,35,1981-monza,Italian Grand Prix,,,,,,23,49,,0.0,10,10,13,+3 Laps,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-monza,Italian Grand Prix,,,,,,13,40,,0.0,11,R,13,Engine,,1981
+March,march,British,,daly,Derek Daly,Irish,17,1981-monza,Italian Grand Prix,,,,,,19,36,,0.0,12,R,13,Gearbox,,1981
+Ligier,ligier,French,,tambay,Patrick Tambay,French,25,1981-monza,Italian Grand Prix,,,,,,15,22,,0.0,13,R,13,Puncture,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-monza,Italian Grand Prix,,,,,,12,21,,0.0,14,R,13,Suspension,,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-monza,Italian Grand Prix,,,,,,7,19,,0.0,15,R,13,Accident,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-monza,Italian Grand Prix,,,,,,20,18,,0.0,16,R,13,Gearbox,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-monza,Italian Grand Prix,,,,,,22,17,,0.0,17,R,13,Accident,,1981
+Ensign,ensign,British,,salazar,Eliseo Salazar,Chilean,14,1981-monza,Italian Grand Prix,,,,,,24,13,,0.0,18,R,13,Spun off,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-monza,Italian Grand Prix,,,,,,1,12,,0.0,19,R,13,Spun off,,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-monza,Italian Grand Prix,,,,,,4,11,,0.0,20,R,13,Puncture,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-monza,Italian Grand Prix,,,,,,17,11,,0.0,21,R,13,Spun off,,1981
+ATS,ats,Italian,,borgudd,Slim Borgudd,Swedish,9,1981-monza,Italian Grand Prix,,,,,,21,10,,0.0,22,R,13,Spun off,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-monza,Italian Grand Prix,,,,,,9,5,,0.0,23,R,13,Engine,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-monza,Italian Grand Prix,,,,,,14,1,,0.0,24,R,13,Electrical,,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-montreal,Canadian Grand Prix,,,,,,10,63,7285200,9.0,1,1,14,Finished,2:01:25.200,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-montreal,Canadian Grand Prix,,,,,,9,63,7291430,6.0,2,2,14,Finished,+6.230,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-montreal,Canadian Grand Prix,,,,,,11,63,7395470,4.0,3,3,14,Finished,+1:50.270,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-montreal,Canadian Grand Prix,,,,,,15,62,,3.0,4,4,14,+1 Lap,,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-montreal,Canadian Grand Prix,,,,,,1,62,,2.0,5,5,14,+1 Lap,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-montreal,Canadian Grand Prix,,,,,,7,62,,1.0,6,6,14,+1 Lap,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-montreal,Canadian Grand Prix,,,,,,16,62,,0.0,7,7,14,+1 Lap,,1981
+March,march,British,,daly,Derek Daly,Irish,17,1981-montreal,Canadian Grand Prix,,,,,,20,61,,0.0,8,8,14,+2 Laps,,1981
+Theodore,theodore,Hong Kong,,surer,Marc Surer,Swiss,33,1981-montreal,Canadian Grand Prix,,,,,,19,61,,0.0,9,9,14,+2 Laps,,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-montreal,Canadian Grand Prix,,,,,,2,60,,0.0,10,10,14,+3 Laps,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-montreal,Canadian Grand Prix,,,,,,22,59,,0.0,11,11,14,+4 Laps,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-montreal,Canadian Grand Prix,,,,,,14,56,,0.0,12,12,14,Engine,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-montreal,Canadian Grand Prix,,,,,,13,51,,0.0,13,R,14,Spun off,,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-montreal,Canadian Grand Prix,,,,,,4,48,,0.0,14,R,14,Collision,,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-montreal,Canadian Grand Prix,,,,,,5,45,,0.0,15,R,14,Collision,,1981
+ATS,ats,Italian,,borgudd,Slim Borgudd,Swedish,9,1981-montreal,Canadian Grand Prix,,,,,,21,40,,0.0,16,R,14,Spun off,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-montreal,Canadian Grand Prix,,,,,,6,35,,0.0,17,R,14,Spun off,,1981
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,32,1981-montreal,Canadian Grand Prix,,,,,,23,26,,0.0,18,R,14,Collision,,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-montreal,Canadian Grand Prix,,,,,,3,24,,0.0,19,R,14,Handling,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-montreal,Canadian Grand Prix,,,,,,12,24,,0.0,20,R,14,Ignition,,1981
+Ensign,ensign,British,,salazar,Eliseo Salazar,Chilean,14,1981-montreal,Canadian Grand Prix,,,,,,24,8,,0.0,21,R,14,Spun off,,1981
+Ligier,ligier,French,,tambay,Patrick Tambay,French,25,1981-montreal,Canadian Grand Prix,,,,,,17,6,,0.0,22,R,14,Spun off,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-montreal,Canadian Grand Prix,,,,,,18,6,,0.0,23,R,14,Spun off,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-montreal,Canadian Grand Prix,,,,,,8,0,,0.0,24,R,14,Collision,,1981
+Williams,williams,British,,jones,Alan Jones,Australian,1,1981-nevada,Caesars Palace Grand Prix,,,,,,2,75,6249077,9.0,1,1,15,Finished,1:44:09.077,1981
+Renault,renault,French,,prost,Alain Prost,French,15,1981-nevada,Caesars Palace Grand Prix,,,,,,5,75,6269125,6.0,2,2,15,Finished,+20.048,1981
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1981-nevada,Caesars Palace Grand Prix,,,,,,8,75,6269505,4.0,3,3,15,Finished,+20.428,1981
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1981-nevada,Caesars Palace Grand Prix,,,,,,9,75,6296550,3.0,4,4,15,Finished,+47.473,1981
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,5,1981-nevada,Caesars Palace Grand Prix,,,,,,4,75,6325515,2.0,5,5,15,Finished,+1:16.438,1981
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1981-nevada,Caesars Palace Grand Prix,,,,,,12,75,6327252,1.0,6,6,15,Finished,+1:18.175,1981
+McLaren,mclaren,British,,watson,John Watson,British,7,1981-nevada,Caesars Palace Grand Prix,,,,,,6,75,6327574,0.0,7,7,15,Finished,+1:18.497,1981
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,2,1981-nevada,Caesars Palace Grand Prix,,,,,,1,74,,0.0,8,8,15,+1 Lap,,1981
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1981-nevada,Caesars Palace Grand Prix,,,,,,18,73,,0.0,9,9,15,+2 Laps,,1981
+Fittipaldi,fittipaldi,Brazilian,,keke_rosberg,Keke Rosberg,Finnish,20,1981-nevada,Caesars Palace Grand Prix,,,,,,20,73,,0.0,10,10,15,+2 Laps,,1981
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,29,1981-nevada,Caesars Palace Grand Prix,,,,,,11,71,,0.0,11,11,15,+4 Laps,,1981
+McLaren,mclaren,British,,cesaris,Andrea de Cesaris,Italian,8,1981-nevada,Caesars Palace Grand Prix,,,,,,14,69,,0.0,12,12,15,+6 Laps,,1981
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,4,1981-nevada,Caesars Palace Grand Prix,,,,,,17,67,,0.0,13,13,15,Engine,,1981
+Ensign,ensign,British,,salazar,Eliseo Salazar,Chilean,14,1981-nevada,Caesars Palace Grand Prix,,,,,,24,61,,0.0,14,R,15,Not classified,,1981
+Toleman,toleman,British,,warwick,Derek Warwick,British,36,1981-nevada,Caesars Palace Grand Prix,,,,,,22,43,,0.0,15,R,15,Gearbox,,1981
+Alfa Romeo,alfa,Swiss,,mario_andretti,Mario Andretti,American,22,1981-nevada,Caesars Palace Grand Prix,,,,,,10,29,,0.0,16,R,15,Suspension,,1981
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1981-nevada,Caesars Palace Grand Prix,,,,,,3,22,,0.0,17,D,15,Disqualified,,1981
+Brabham,brabham,British,,rebaque,Hector Rebaque,Mexican,6,1981-nevada,Caesars Palace Grand Prix,,,,,,16,20,,0.0,18,R,15,Throttle,,1981
+Theodore,theodore,Hong Kong,,surer,Marc Surer,Swiss,33,1981-nevada,Caesars Palace Grand Prix,,,,,,23,19,,0.0,19,R,15,Suspension,,1981
+Tyrrell,tyrrell,British,,cheever,Eddie Cheever,American,3,1981-nevada,Caesars Palace Grand Prix,,,,,,19,10,,0.0,20,R,15,Engine,,1981
+Renault,renault,French,,arnoux,René Arnoux,French,16,1981-nevada,Caesars Palace Grand Prix,,,,,,13,10,,0.0,21,R,15,Electrical,,1981
+Ligier,ligier,French,,tambay,Patrick Tambay,French,25,1981-nevada,Caesars Palace Grand Prix,,,,,,7,2,,0.0,22,R,15,Accident,,1981
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1981-nevada,Caesars Palace Grand Prix,,,,,,15,2,,0.0,23,R,15,Water leak,,1981
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,32,1981-nevada,Caesars Palace Grand Prix,,,,,,21,0,,0.0,24,R,15,Transmission,,1981

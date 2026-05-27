@@ -1,0 +1,15 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,45.0,1,1,5,1961
+Lotus-Climax,lotus-climax,British,https://en.wikipedia.org/wiki/Team_Lotus,35.0,2,2,3,1961
+Porsche,porsche,German,https://en.wikipedia.org/wiki/Porsche_in_motorsport,22.0,3,3,0,1961
+Cooper-Climax,cooper-climax,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,14.0,4,4,0,1961
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,7.0,5,5,0,1961
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1961
+Gilby,gilby,British,https://en.wikipedia.org/wiki/Gilby,0.0,,-,0,1961
+Lotus-Maserati,lotus-maserati,British,https://en.wikipedia.org/wiki/Team_Lotus,0.0,,-,0,1961
+Ferguson,ferguson,British,https://en.wikipedia.org/wiki/Ferguson_Research,0.0,,-,0,1961
+De Tomaso-Alfa Romeo,de_tomaso-alfa_romeo,Italian,https://en.wikipedia.org/wiki/De_Tomaso,0.0,,-,0,1961
+De Tomaso-Osca,de_tomaso-osca,Italian,https://en.wikipedia.org/wiki/De_Tomaso,0.0,,-,0,1961
+JBW,jbw,British,https://en.wikipedia.org/wiki/JBW,0.0,,-,0,1961
+Emeryson,emeryson,British,https://en.wikipedia.org/wiki/Emeryson,0.0,,-,0,1961
+MBM,mbm,Swiss,https://en.wikipedia.org/wiki/Monteverdi_(automobile),0.0,,-,0,1961

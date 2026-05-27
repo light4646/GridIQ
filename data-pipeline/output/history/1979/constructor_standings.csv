@@ -1,0 +1,19 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,113.0,1,1,6,1979
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,75.0,2,2,5,1979
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,61.0,3,3,3,1979
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,39.0,4,4,0,1979
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,28.0,5,5,0,1979
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,26.0,6,6,1,1979
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,15.0,7,7,0,1979
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,https://en.wikipedia.org/wiki/Brabham,7.0,8,8,0,1979
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,5.0,9,9,0,1979
+Shadow,shadow,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,3.0,10,10,0,1979
+ATS,ats,Italian,https://en.wikipedia.org/wiki/ATS_Wheels,2.0,11,11,0,1979
+Fittipaldi,fittipaldi,Brazilian,https://en.wikipedia.org/wiki/Fittipaldi_Automotive,1.0,12,12,0,1979
+Brabham-Ford,brabham-ford,British,https://en.wikipedia.org/wiki/Brabham,0.0,,-,0,1979
+Wolf,wolf,Canadian,https://en.wikipedia.org/wiki/Walter_Wolf_Racing,0.0,,-,0,1979
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,0.0,,-,0,1979
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,0.0,,-,0,1979
+Rebaque,rebaque,Mexican,https://en.wikipedia.org/wiki/Rebaque,0.0,,-,0,1979
+Merzario,merzario,Italian,https://en.wikipedia.org/wiki/Merzario,0.0,,-,0,1979

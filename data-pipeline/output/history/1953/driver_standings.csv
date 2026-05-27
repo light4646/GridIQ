@@ -1,0 +1,101 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",,ascari,Alberto Ascari,Italian,,34.5,1,1,5,1953
+"[""maserati""]","[""Maserati""]",,fangio,Juan Fangio,Argentine,,28.0,2,2,1,1953
+"[""ferrari""]","[""Ferrari""]",,farina,Nino Farina,Italian,,26.0,3,3,1,1953
+"[""ferrari""]","[""Ferrari""]",,hawthorn,Mike Hawthorn,British,,19.0,4,4,1,1953
+"[""ferrari""]","[""Ferrari""]",,villoresi,Luigi Villoresi,Italian,,17.0,5,5,0,1953
+"[""maserati""]","[""Maserati""]",,gonzalez,José Froilán González,Argentine,,13.5,6,6,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,vukovich,Bill Vukovich,American,,9.0,7,7,1,1953
+"[""maserati""]","[""Maserati""]",,graffenried,Toulo de Graffenried,Swiss,,7.0,8,8,0,1953
+"[""maserati""]","[""Maserati""]",,bonetto,Felice Bonetto,Italian,,6.5,9,9,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,cross,Art Cross,American,,6.0,10,10,0,1953
+"[""maserati""]","[""Maserati""]",,marimon,Onofre Marimón,Argentine,,4.0,11,11,0,1953
+"[""gordini""]","[""Gordini""]",,trintignant,Maurice Trintignant,French,,4.0,12,12,0,1953
+"[""kurtis_kraft"", ""lesovsky""]","[""Kurtis Kraft"", ""Lesovsky""]",,darter,Duane Carter,American,,2.0,13,13,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hanks,Sam Hanks,American,,2.0,14,14,0,1953
+"[""maserati""]","[""Maserati""]",,galvez,Oscar Gálvez,Argentine,,2.0,15,15,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,mcgrath,Jack McGrath,American,,2.0,16,16,0,1953
+"[""maserati""]","[""Maserati""]",,lang,Hermann Lang,German,,2.0,17,17,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,paul_russo,Paul Russo,American,,1.5,18,18,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,agabashian,Fred Agabashian,American,,1.5,19,19,0,1953
+"[""connaught"", ""cooper""]","[""Connaught"", ""Cooper""]",,moss,Stirling Moss,British,,0.0,,-,0,1953
+"[""gordini""]","[""Gordini""]",,behra,Jean Behra,French,,0.0,,-,0,1953
+"[""gordini""]","[""Gordini""]",,mieres,Roberto Mieres,Argentine,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,daywalt,Jimmy Daywalt,American,,0.0,,-,0,1953
+"[""gordini""]","[""Gordini""]",,schell,Harry Schell,American,,0.0,,-,0,1953
+"[""ferrari""]","[""Ferrari""]",,rosier,Louis Rosier,French,,0.0,,-,0,1953
+"[""cooper""]","[""Cooper""]",,wharton,Ken Wharton,British,,0.0,,-,0,1953
+"[""connaught"", ""maserati""]","[""Connaught"", ""Maserati""]",,bira,Prince Bira,Thai,,0.0,,-,0,1953
+"[""ferrari""]","[""Ferrari""]",,swaters,Jacques Swaters,American,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,johnson,Eddie Johnson,American,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,rathmann,Jim Rathmann,American,,0.0,,-,0,1953
+"[""maserati""]","[""Maserati""]",,musso,Luigi Musso,Italian,,0.0,,-,0,1953
+"[""maserati""]","[""Maserati""]",,mantovani,Sergio Mantovani,Italian,,0.0,,-,0,1953
+"[""hwm""]","[""HWM""]",,collins,Peter Collins,British,,0.0,,-,0,1953
+"[""cooper""]","[""Cooper""]",,john_barber,John Barber,British,,0.0,,-,0,1953
+"[""stevens""]","[""Stevens""]",,mccoy,Ernie McCoy,American,,0.0,,-,0,1953
+"[""ferrari""]","[""Ferrari""]",,terra,Max de Terra,Swiss,,0.0,,-,0,1953
+"[""ferrari""]","[""Ferrari""]",,maglioli,Umberto Maglioli,Italian,,0.0,,-,0,1953
+"[""cooper""]","[""Cooper""]",,alan_brown,Alan Brown,British,,0.0,,-,0,1953
+"[""kuzma""]","[""Kuzma""]",,bettenhausen,Tony Bettenhausen,American,,0.0,,-,0,1953
+"[""kurtis_kraft"", ""kuzma""]","[""Kurtis Kraft"", ""Kuzma""]",,hartley,Gene Hartley,American,,0.0,,-,0,1953
+"[""kurtis_kraft"", ""kuzma""]","[""Kurtis Kraft"", ""Kuzma""]",,stevenson,Chuck Stevenson,American,,0.0,,-,0,1953
+"[""gordini""]","[""Gordini""]",,wacker,Fred Wacker,American,,0.0,,-,0,1953
+"[""cooper""]","[""Cooper""]",,whitehead,Peter Whitehead,British,,0.0,,-,0,1953
+"[""veritas""]","[""Veritas""]",,herrmann,Hans Herrmann,German,,0.0,,-,0,1953
+"[""hwm""]","[""HWM""]",,scherrer,Albert Scherrer,Swiss,,0.0,,-,0,1953
+"[""osca""]","[""OSCA""]",,chiron,Louis Chiron,Monegasque,,0.0,,-,0,1953
+"[""hwm""]","[""HWM""]",,frere,Paul Frère,Belgian,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,davies,Jimmy Davies,American,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,nalon,Duke Nalon,American,,0.0,,-,0,1953
+"[""connaught""]","[""Connaught""]",,andre_pilette,André Pilette,Belgian,,0.0,,-,0,1953
+"[""cooper""]","[""Cooper""]",,gerard,Bob Gerard,British,,0.0,,-,0,1953
+"[""cooper""]","[""Cooper""]",,nuckey,Rodney Nuckey,British,,0.0,,-,0,1953
+"[""connaught"", ""maserati""]","[""Connaught"", ""Maserati""]",,claes,Johnny Claes,Belgian,,0.0,,-,0,1953
+"[""kurtis_kraft"", ""bromme""]","[""Kurtis Kraft"", ""Bromme""]",,bob_scott,Bob Scott,American,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,scarborough,Carl Scarborough,American,,0.0,,-,0,1953
+"[""veritas""]","[""Veritas""]",,helfrich,Theo Helfrich,German,,0.0,,-,0,1953
+"[""connaught""]","[""Connaught""]",,mcalpine,Kenneth McAlpine,British,,0.0,,-,0,1953
+"[""kuzma""]","[""Kuzma""]",,ayulo,Manny Ayulo,American,,0.0,,-,0,1953
+"[""hwm""]","[""HWM""]",,cabantous,Yves Cabantous,French,,0.0,,-,0,1953
+"[""afm""]","[""AFM""]",,hans_stuck,Hans von Stuck,German,,0.0,,-,0,1953
+"[""schroeder""]","[""Schroeder""]",,bryan,Jimmy Bryan,American,,0.0,,-,0,1953
+"[""bmw""]","[""BMW""]",,krause,Rudolf Krause,East German,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,holland,Bill Holland,American,,0.0,,-,0,1953
+"[""bmw""]","[""BMW""]",,klodwig,Ernst Klodwig,East German,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,dinsmore,Duke Dinsmore,American,,0.0,,-,0,1953
+"[""kurtis_kraft"", ""stevens""]","[""Kurtis Kraft"", ""Stevens""]",,linden,Andy Linden,American,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,ward,Rodger Ward,American,,0.0,,-,0,1953
+"[""veritas""]","[""Veritas""]",,seidel,Wolfgang Seidel,German,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,faulkner,Walt Faulkner,American,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,mantz,Johnny Mantz,American,,0.0,,-,0,1953
+"[""maserati""]","[""Maserati""]",,landi,Chico Landi,Brazilian,,0.0,,-,0,1953
+"[""gordini""]","[""Gordini""]",,manzon,Robert Manzon,French,,0.0,,-,0,1953
+"[""cooper""]","[""Cooper""]",,jimmy_stewart,Jimmy Stewart,British,,0.0,,-,0,1953
+"[""connaught""]","[""Connaught""]",,rolt,Tony Rolt,British,,0.0,,-,0,1953
+"[""hwm""]","[""HWM""]",,macklin,Lance Macklin,British,,0.0,,-,0,1953
+"[""gordini""]","[""Gordini""]",,menditeguy,Carlos Menditeguy,Argentine,,0.0,,-,0,1953
+"[""simca""]","[""Simca""]",,birger,Pablo Birger,Argentine,,0.0,,-,0,1953
+"[""cooper""]","[""Cooper""]",,cruz,Adolfo Cruz,Argentine,,0.0,,-,0,1953
+"[""hwm"", ""connaught""]","[""HWM"", ""Connaught""]",,fairman,Jack Fairman,British,,0.0,,-,0,1953
+"[""ferrari""]","[""Ferrari""]",,hirt,Peter Hirt,Swiss,,0.0,,-,0,1953
+"[""connaught""]","[""Connaught""]",,salvadori,Roy Salvadori,British,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,teague,Marshall Teague,American,,0.0,,-,0,1953
+"[""osca""]","[""OSCA""]",,bayol,Élie Bayol,French,,0.0,,-,0,1953
+"[""kurtis_kraft"", ""del_roy""]","[""Kurtis Kraft"", ""Del Roy""]",,thomson,Johnny Thomson,American,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,webb,Travis Webb,American,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,holmes,Jackie Holmes,American,,0.0,,-,0,1953
+"[""simca""]","[""Simca""]",,georges_berger,Georges Berger,Belgian,,0.0,,-,0,1953
+"[""kuzma""]","[""Kuzma""]",,sweikert,Bob Sweikert,American,,0.0,,-,0,1953
+"[""veritas""]","[""Veritas""]",,legat,Arthur Legat,Belgian,,0.0,,-,0,1953
+"[""emw""]","[""EMW""]",,barth,Edgar Barth,German,,0.0,,-,0,1953
+"[""turner""]","[""Turner""]",,nazaruk,Mike Nazaruk,American,,0.0,,-,0,1953
+"[""kuzma""]","[""Kuzma""]",,flaherty,Pat Flaherty,American,,0.0,,-,0,1953
+"[""connaught""]","[""Connaught""]",,ian_stewart,Ian Stewart,British,,0.0,,-,0,1953
+"[""veritas""]","[""Veritas""]",,karch,Oswald Karch,German,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hoyt,Jerry Hoyt,American,,0.0,,-,0,1953
+"[""veritas""]","[""Veritas""]",,heeks,Willi Heeks,German,,0.0,,-,0,1953
+"[""hwm""]","[""HWM""]",,duncan_hamilton,Duncan Hamilton,British,,0.0,,-,0,1953
+"[""ferrari""]","[""Ferrari""]",,carini,Piero Carini,Italian,,0.0,,-,0,1953
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,parsons,Johnnie Parsons,American,,0.0,,-,0,1953
+"[""watson""]","[""Watson""]",,freeland,Don Freeland,American,,0.0,,-,0,1953

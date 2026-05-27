@@ -1,0 +1,420 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-midrand,South African Grand Prix,,,,,,1,72,5805320,10.0,1,1,1,Finished,1:36:45.320,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-midrand,South African Grand Prix,,,,,,4,72,5829680,6.0,2,2,1,Finished,+24.360,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-midrand,South African Grand Prix,,,,,,2,72,5839995,4.0,3,3,1,Finished,+34.675,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-midrand,South African Grand Prix,,,,,,6,72,5853183,3.0,4,4,1,Finished,+47.863,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-midrand,South African Grand Prix,,,,,,3,72,5878954,2.0,5,5,1,Finished,+1:13.634,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-midrand,South African Grand Prix,,,,,,11,71,,1.0,6,6,1,+1 Lap,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-midrand,South African Grand Prix,,,,,,13,71,,0.0,7,7,1,+1 Lap,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-midrand,South African Grand Prix,,,,,,16,70,,0.0,8,8,1,+2 Laps,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-midrand,South African Grand Prix,,,,,,21,70,,0.0,9,9,1,+2 Laps,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-midrand,South African Grand Prix,,,,,,17,70,,0.0,10,10,1,+2 Laps,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-midrand,South African Grand Prix,,,,,,23,70,,0.0,11,11,1,+2 Laps,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-midrand,South African Grand Prix,,,,,,18,68,,0.0,12,12,1,+4 Laps,,1992
+Brabham,brabham,British,,poele,Eric van de Poele,Belgian,7,1992-midrand,South African Grand Prix,,,,,,26,68,,0.0,13,13,1,+4 Laps,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-midrand,South African Grand Prix,,,,,,12,62,,0.0,14,R,1,Engine,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-midrand,South African Grand Prix,,,,,,14,60,,0.0,15,R,1,Fuel system,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-midrand,South African Grand Prix,,,,,,25,56,,0.0,16,R,1,Clutch,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-midrand,South African Grand Prix,,,,,,19,55,,0.0,17,R,1,Engine,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-midrand,South African Grand Prix,,,,,,24,44,,0.0,18,R,1,Gearbox,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-midrand,South African Grand Prix,,,,,,20,43,,0.0,19,R,1,Alternator,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-midrand,South African Grand Prix,,,,,,10,41,,0.0,20,R,1,Engine,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-midrand,South African Grand Prix,,,,,,5,40,,0.0,21,R,1,Engine,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-midrand,South African Grand Prix,,,,,,9,28,,0.0,22,R,1,Engine,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-midrand,South African Grand Prix,,,,,,15,23,,0.0,23,R,1,Engine,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-midrand,South African Grand Prix,,,,,,7,13,,0.0,24,R,1,Overheating,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-midrand,South African Grand Prix,,,,,,22,8,,0.0,25,R,1,Steering,,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-midrand,South African Grand Prix,,,,,,8,1,,0.0,26,R,1,Clutch,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-mexico-city,Mexican Grand Prix,,,,,,1,69,5513587,10.0,1,1,2,Finished,1:31:53.587,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-mexico-city,Mexican Grand Prix,,,,,,2,69,5526558,6.0,2,2,2,Finished,+12.971,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-mexico-city,Mexican Grand Prix,,,,,,3,69,5535016,4.0,3,3,2,Finished,+21.429,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-mexico-city,Mexican Grand Prix,,,,,,5,69,5546934,3.0,4,4,2,Finished,+33.347,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-mexico-city,Mexican Grand Prix,,,,,,11,68,,2.0,5,5,2,+1 Lap,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-mexico-city,Mexican Grand Prix,,,,,,18,68,,1.0,6,6,2,+1 Lap,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-mexico-city,Mexican Grand Prix,,,,,,12,68,,0.0,7,7,2,+1 Lap,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-mexico-city,Mexican Grand Prix,,,,,,7,68,,0.0,8,8,2,+1 Lap,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-mexico-city,Mexican Grand Prix,,,,,,26,67,,0.0,9,9,2,+2 Laps,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-mexico-city,Mexican Grand Prix,,,,,,22,67,,0.0,10,10,2,+2 Laps,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-mexico-city,Mexican Grand Prix,,,,,,13,66,,0.0,11,11,2,+3 Laps,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-mexico-city,Mexican Grand Prix,,,,,,24,66,,0.0,12,12,2,+3 Laps,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-mexico-city,Mexican Grand Prix,,,,,,25,65,,0.0,13,13,2,+4 Laps,,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-mexico-city,Mexican Grand Prix,,,,,,4,47,,0.0,14,R,2,Engine,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-mexico-city,Mexican Grand Prix,,,,,,14,45,,0.0,15,R,2,Clutch,,1992
+Fondmetal,fondmetal,Italian,,chiesa,Andrea Chiesa,Swiss,14,1992-mexico-city,Mexican Grand Prix,,,,,,23,37,,0.0,16,R,2,Spun off,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-mexico-city,Mexican Grand Prix,,,,,,9,36,,0.0,17,R,2,Handling,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-mexico-city,Mexican Grand Prix,,,,,,10,31,,0.0,18,R,2,Engine,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-mexico-city,Mexican Grand Prix,,,,,,21,29,,0.0,19,R,2,Spun off,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-mexico-city,Mexican Grand Prix,,,,,,15,17,,0.0,20,R,2,Gearbox,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-mexico-city,Mexican Grand Prix,,,,,,16,12,,0.0,21,R,2,Engine,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-mexico-city,Mexican Grand Prix,,,,,,6,11,,0.0,22,R,2,Transmission,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-mexico-city,Mexican Grand Prix,,,,,,17,2,,0.0,23,R,2,Spun off,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-mexico-city,Mexican Grand Prix,,,,,,8,0,,0.0,24,R,2,Engine,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-mexico-city,Mexican Grand Prix,,,,,,19,0,,0.0,25,R,2,Collision,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-mexico-city,Mexican Grand Prix,,,,,,20,0,,0.0,26,R,2,Collision,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-s-o-paulo,Brazilian Grand Prix,,,,,,1,71,5811856,10.0,1,1,3,Finished,1:36:51.856,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-s-o-paulo,Brazilian Grand Prix,,,,,,2,71,5841186,6.0,2,2,3,Finished,+29.330,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-s-o-paulo,Brazilian Grand Prix,,,,,,5,70,,4.0,3,3,3,+1 Lap,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-s-o-paulo,Brazilian Grand Prix,,,,,,6,70,,3.0,4,4,3,+1 Lap,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-s-o-paulo,Brazilian Grand Prix,,,,,,11,70,,2.0,5,5,3,+1 Lap,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-s-o-paulo,Brazilian Grand Prix,,,,,,14,70,,1.0,6,6,3,+1 Lap,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-s-o-paulo,Brazilian Grand Prix,,,,,,23,69,,0.0,7,7,3,+2 Laps,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-s-o-paulo,Brazilian Grand Prix,,,,,,16,69,,0.0,8,8,3,+2 Laps,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-s-o-paulo,Brazilian Grand Prix,,,,,,25,68,,0.0,9,9,3,+3 Laps,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-s-o-paulo,Brazilian Grand Prix,,,,,,24,67,,0.0,10,10,3,+4 Laps,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-s-o-paulo,Brazilian Grand Prix,,,,,,19,62,,0.0,11,R,3,Engine,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-s-o-paulo,Brazilian Grand Prix,,,,,,9,55,,0.0,12,R,3,Clutch,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-s-o-paulo,Brazilian Grand Prix,,,,,,20,54,,0.0,13,R,3,Gearbox,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-s-o-paulo,Brazilian Grand Prix,,,,,,17,52,,0.0,14,R,3,Engine,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-s-o-paulo,Brazilian Grand Prix,,,,,,15,42,,0.0,15,R,3,Gearbox,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-s-o-paulo,Brazilian Grand Prix,,,,,,26,36,,0.0,16,R,3,Spun off,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-s-o-paulo,Brazilian Grand Prix,,,,,,10,36,,0.0,17,R,3,Collision,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-s-o-paulo,Brazilian Grand Prix,,,,,,21,36,,0.0,18,R,3,Gearbox,,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-s-o-paulo,Brazilian Grand Prix,,,,,,7,30,,0.0,19,R,3,Collision,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-s-o-paulo,Brazilian Grand Prix,,,,,,8,24,,0.0,20,R,3,Clutch,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-s-o-paulo,Brazilian Grand Prix,,,,,,18,23,,0.0,21,R,3,Suspension,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-s-o-paulo,Brazilian Grand Prix,,,,,,13,21,,0.0,22,R,3,Engine,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-s-o-paulo,Brazilian Grand Prix,,,,,,3,17,,0.0,23,R,3,Engine,,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-s-o-paulo,Brazilian Grand Prix,,,,,,4,4,,0.0,24,R,3,Electrical,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-s-o-paulo,Brazilian Grand Prix,,,,,,22,2,,0.0,25,R,3,Engine,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-s-o-paulo,Brazilian Grand Prix,,,,,,12,1,,0.0,26,R,3,Gearbox,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-barcelona,Spanish Grand Prix,,,,,,1,65,6970674,10.0,1,1,4,Finished,1:56:10.674,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-barcelona,Spanish Grand Prix,,,,,,2,65,6994588,6.0,2,2,4,Finished,+23.914,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-barcelona,Spanish Grand Prix,,,,,,8,65,6997136,4.0,3,3,4,Finished,+26.462,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-barcelona,Spanish Grand Prix,,,,,,7,65,7051321,3.0,4,4,4,Finished,+1:20.647,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-barcelona,Spanish Grand Prix,,,,,,16,64,,2.0,5,5,4,+1 Lap,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-barcelona,Spanish Grand Prix,,,,,,13,63,,1.0,6,6,4,+2 Laps,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-barcelona,Spanish Grand Prix,,,,,,19,63,,0.0,7,7,4,+2 Laps,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-barcelona,Spanish Grand Prix,,,,,,9,63,,0.0,8,8,4,+2 Laps,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-barcelona,Spanish Grand Prix,,,,,,3,62,,0.0,9,9,4,Spun off,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-barcelona,Spanish Grand Prix,,,,,,5,62,,0.0,10,10,4,Spun off,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-barcelona,Spanish Grand Prix,,,,,,22,61,,0.0,11,11,4,+4 Laps,,1992
+March,march,British,,belmondo,Paul Belmondo,French,17,1992-barcelona,Spanish Grand Prix,,,,,,23,61,,0.0,12,12,4,+4 Laps,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-barcelona,Spanish Grand Prix,,,,,,12,56,,0.0,13,R,4,Spun off,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-barcelona,Spanish Grand Prix,,,,,,18,56,,0.0,14,R,4,Spun off,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-barcelona,Spanish Grand Prix,,,,,,21,56,,0.0,15,R,4,Spun off,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-barcelona,Spanish Grand Prix,,,,,,10,55,,0.0,16,R,4,Spun off,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-barcelona,Spanish Grand Prix,,,,,,24,35,,0.0,17,R,4,Engine,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-barcelona,Spanish Grand Prix,,,,,,15,30,,0.0,18,R,4,Spun off,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-barcelona,Spanish Grand Prix,,,,,,25,26,,0.0,19,R,4,Handling,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-barcelona,Spanish Grand Prix,,,,,,17,24,,0.0,20,R,4,Spun off,,1992
+Fondmetal,fondmetal,Italian,,chiesa,Andrea Chiesa,Swiss,14,1992-barcelona,Spanish Grand Prix,,,,,,20,22,,0.0,21,R,4,Spun off,,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-barcelona,Spanish Grand Prix,,,,,,4,19,,0.0,22,R,4,Spun off,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-barcelona,Spanish Grand Prix,,,,,,26,13,,0.0,23,R,4,Spun off,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-barcelona,Spanish Grand Prix,,,,,,14,11,,0.0,24,R,4,Engine,,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-barcelona,Spanish Grand Prix,,,,,,6,4,,0.0,25,R,4,Spun off,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-barcelona,Spanish Grand Prix,,,,,,11,2,,0.0,26,R,4,Engine,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-imola,San Marino Grand Prix,,,,,,1,60,5320927,10.0,1,1,5,Finished,1:28:40.927,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-imola,San Marino Grand Prix,,,,,,2,60,5330378,6.0,2,2,5,Finished,+9.451,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-imola,San Marino Grand Prix,,,,,,3,60,5369911,4.0,3,3,5,Finished,+48.984,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-imola,San Marino Grand Prix,,,,,,6,60,5373934,3.0,4,4,5,Finished,+53.007,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-imola,San Marino Grand Prix,,,,,,9,59,,2.0,5,5,5,+1 Lap,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-imola,San Marino Grand Prix,,,,,,15,59,,1.0,6,6,5,+1 Lap,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-imola,San Marino Grand Prix,,,,,,16,58,,0.0,7,7,5,+2 Laps,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-imola,San Marino Grand Prix,,,,,,20,58,,0.0,8,8,5,+2 Laps,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-imola,San Marino Grand Prix,,,,,,13,58,,0.0,9,9,5,+2 Laps,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-imola,San Marino Grand Prix,,,,,,11,58,,0.0,10,10,5,+2 Laps,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-imola,San Marino Grand Prix,,,,,,16,57,,0.0,11,11,5,Engine,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-imola,San Marino Grand Prix,,,,,,12,57,,0.0,12,12,5,+3 Laps,,1992
+March,march,British,,belmondo,Paul Belmondo,French,17,1992-imola,San Marino Grand Prix,,,,,,24,57,,0.0,13,13,5,+3 Laps,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-imola,San Marino Grand Prix,,,,,,14,55,,0.0,14,14,5,Fuel system,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-imola,San Marino Grand Prix,,,,,,17,40,,0.0,15,R,5,Spun off,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-imola,San Marino Grand Prix,,,,,,7,39,,0.0,16,R,5,Collision,,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-imola,San Marino Grand Prix,,,,,,4,39,,0.0,17,R,5,Collision,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-imola,San Marino Grand Prix,,,,,,19,32,,0.0,18,R,5,Spun off,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-imola,San Marino Grand Prix,,,,,,10,29,,0.0,19,R,5,Engine,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-imola,San Marino Grand Prix,,,,,,23,25,,0.0,20,R,5,Gearbox,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-imola,San Marino Grand Prix,,,,,,21,24,,0.0,21,R,5,Engine,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-imola,San Marino Grand Prix,,,,,,22,24,,0.0,22,R,5,Engine,,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-imola,San Marino Grand Prix,,,,,,5,20,,0.0,23,R,5,Spun off,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-imola,San Marino Grand Prix,,,,,,8,11,,0.0,24,R,5,Spun off,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-imola,San Marino Grand Prix,,,,,,25,8,,0.0,25,R,5,Gearbox,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-imola,San Marino Grand Prix,,,,,,26,8,,0.0,26,R,5,Gearbox,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-monte-carlo,Monaco Grand Prix,,,,,,3,78,6659372,10.0,1,1,6,Finished,1:50:59.372,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-monte-carlo,Monaco Grand Prix,,,,,,1,78,6659587,6.0,2,2,6,Finished,+0.215,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-monte-carlo,Monaco Grand Prix,,,,,,2,78,6691215,4.0,3,3,6,Finished,+31.843,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-monte-carlo,Monaco Grand Prix,,,,,,6,78,6698666,3.0,4,4,6,Finished,+39.294,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-monte-carlo,Monaco Grand Prix,,,,,,7,78,6740719,2.0,5,5,6,Finished,+1:21.347,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-monte-carlo,Monaco Grand Prix,,,,,,15,77,,1.0,6,6,6,+1 Lap,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-monte-carlo,Monaco Grand Prix,,,,,,11,77,,0.0,7,7,6,+1 Lap,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-monte-carlo,Monaco Grand Prix,,,,,,17,77,,0.0,8,8,6,+1 Lap,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-monte-carlo,Monaco Grand Prix,,,,,,20,76,,0.0,9,9,6,+2 Laps,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-monte-carlo,Monaco Grand Prix,,,,,,23,76,,0.0,10,10,6,+2 Laps,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-monte-carlo,Monaco Grand Prix,,,,,,19,76,,0.0,11,11,6,+2 Laps,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-monte-carlo,Monaco Grand Prix,,,,,,22,75,,0.0,12,12,6,+3 Laps,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-monte-carlo,Monaco Grand Prix,,,,,,8,60,,0.0,13,R,6,Spun off,,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-monte-carlo,Monaco Grand Prix,,,,,,5,32,,0.0,14,R,6,Gearbox,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-monte-carlo,Monaco Grand Prix,,,,,,14,30,,0.0,15,R,6,Gearbox,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-monte-carlo,Monaco Grand Prix,,,,,,4,28,,0.0,16,R,6,Gearbox,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-monte-carlo,Monaco Grand Prix,,,,,,13,18,,0.0,17,R,6,Gearbox,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-monte-carlo,Monaco Grand Prix,,,,,,9,17,,0.0,18,R,6,Spun off,,1992
+Andrea Moda,moda,Italian,,moreno,Roberto Moreno,Brazilian,34,1992-monte-carlo,Monaco Grand Prix,,,,,,26,11,,0.0,19,R,6,Engine,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-monte-carlo,Monaco Grand Prix,,,,,,10,9,,0.0,20,R,6,Gearbox,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-monte-carlo,Monaco Grand Prix,,,,,,25,9,,0.0,21,R,6,Engine,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-monte-carlo,Monaco Grand Prix,,,,,,21,6,,0.0,22,R,6,Spun off,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-monte-carlo,Monaco Grand Prix,,,,,,24,4,,0.0,23,R,6,Transmission,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-monte-carlo,Monaco Grand Prix,,,,,,16,1,,0.0,24,R,6,Gearbox,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-monte-carlo,Monaco Grand Prix,,,,,,12,1,,0.0,25,R,6,Gearbox,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-monte-carlo,Monaco Grand Prix,,,,,,18,0,,0.0,26,R,6,Spun off,,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-montreal,Canadian Grand Prix,,,,,,4,69,5828299,10.0,1,1,7,Finished,1:37:08.299,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-montreal,Canadian Grand Prix,,,,,,5,69,5840700,6.0,2,2,7,Finished,+12.401,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-montreal,Canadian Grand Prix,,,,,,8,69,5895626,4.0,3,3,7,Finished,+1:07.327,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-montreal,Canadian Grand Prix,,,,,,12,68,,3.0,4,4,7,+1 Lap,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-montreal,Canadian Grand Prix,,,,,,14,68,,2.0,5,5,7,+1 Lap,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-montreal,Canadian Grand Prix,,,,,,22,68,,1.0,6,6,7,+1 Lap,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-montreal,Canadian Grand Prix,,,,,,16,68,,0.0,7,7,7,+1 Lap,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-montreal,Canadian Grand Prix,,,,,,15,68,,0.0,8,8,7,+1 Lap,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-montreal,Canadian Grand Prix,,,,,,23,68,,0.0,9,9,7,+1 Lap,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-montreal,Canadian Grand Prix,,,,,,21,67,,0.0,10,10,7,+2 Laps,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-montreal,Canadian Grand Prix,,,,,,13,67,,0.0,11,11,7,+2 Laps,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-montreal,Canadian Grand Prix,,,,,,26,67,,0.0,12,12,7,+2 Laps,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-montreal,Canadian Grand Prix,,,,,,25,65,,0.0,13,13,7,+4 Laps,,1992
+March,march,British,,belmondo,Paul Belmondo,French,17,1992-montreal,Canadian Grand Prix,,,,,,20,64,,0.0,14,14,7,+5 Laps,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-montreal,Canadian Grand Prix,,,,,,11,61,,0.0,15,R,7,Engine,,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-montreal,Canadian Grand Prix,,,,,,7,45,,0.0,16,R,7,Transmission,,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-montreal,Canadian Grand Prix,,,,,,2,43,,0.0,17,R,7,Gearbox,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-montreal,Canadian Grand Prix,,,,,,1,37,,0.0,18,R,7,Electrical,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-montreal,Canadian Grand Prix,,,,,,17,36,,0.0,19,R,7,Transmission,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-montreal,Canadian Grand Prix,,,,,,10,35,,0.0,20,R,7,Gearbox,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-montreal,Canadian Grand Prix,,,,,,6,34,,0.0,21,R,7,Clutch,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-montreal,Canadian Grand Prix,,,,,,9,18,,0.0,22,R,7,Spun off,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-montreal,Canadian Grand Prix,,,,,,3,14,,0.0,23,R,7,Spun off,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-montreal,Canadian Grand Prix,,,,,,24,14,,0.0,24,R,7,Transmission,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-montreal,Canadian Grand Prix,,,,,,19,14,,0.0,25,D,7,Disqualified,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-montreal,Canadian Grand Prix,,,,,,18,0,,0.0,26,R,7,Transmission,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-magny-cours,French Grand Prix,,,,,,1,69,5888459,10.0,1,1,8,Finished,1:38:08.459,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-magny-cours,French Grand Prix,,,,,,2,69,5934906,6.0,2,2,8,Finished,+46.447,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-magny-cours,French Grand Prix,,,,,,7,69,5961038,4.0,3,3,8,Finished,+1:12.579,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-magny-cours,French Grand Prix,,,,,,11,68,,3.0,4,4,8,+1 Lap,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-magny-cours,French Grand Prix,,,,,,10,68,,2.0,5,5,8,+1 Lap,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-magny-cours,French Grand Prix,,,,,,12,68,,1.0,6,6,8,+1 Lap,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-magny-cours,French Grand Prix,,,,,,14,68,,0.0,7,7,8,+1 Lap,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-magny-cours,French Grand Prix,,,,,,16,68,,0.0,8,8,8,+1 Lap,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-magny-cours,French Grand Prix,,,,,,17,67,,0.0,9,9,8,+2 Laps,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-magny-cours,French Grand Prix,,,,,,25,67,,0.0,10,10,8,+2 Laps,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-magny-cours,French Grand Prix,,,,,,22,66,,0.0,11,11,8,+3 Laps,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-magny-cours,French Grand Prix,,,,,,6,61,,0.0,12,R,8,Engine,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-magny-cours,French Grand Prix,,,,,,19,51,,0.0,13,R,8,Spun off,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-magny-cours,French Grand Prix,,,,,,18,41,,0.0,14,R,8,Engine,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-magny-cours,French Grand Prix,,,,,,9,46,,0.0,15,R,8,Spun off,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-magny-cours,French Grand Prix,,,,,,8,38,,0.0,16,R,8,Engine,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-magny-cours,French Grand Prix,,,,,,21,33,,0.0,17,R,8,Gearbox,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-magny-cours,French Grand Prix,,,,,,20,25,,0.0,18,R,8,Engine,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-magny-cours,French Grand Prix,,,,,,15,20,,0.0,19,R,8,Spun off,,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-magny-cours,French Grand Prix,,,,,,5,17,,0.0,20,R,8,Accident,,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-magny-cours,French Grand Prix,,,,,,4,10,,0.0,21,R,8,Engine,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-magny-cours,French Grand Prix,,,,,,23,6,,0.0,22,R,8,Throttle,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-magny-cours,French Grand Prix,,,,,,3,0,,0.0,23,R,8,Accident,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-magny-cours,French Grand Prix,,,,,,13,0,,0.0,24,R,8,Accident,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-magny-cours,French Grand Prix,,,,,,24,0,,0.0,25,R,8,Accident,,1992
+Fondmetal,fondmetal,Italian,,chiesa,Andrea Chiesa,Swiss,14,1992-magny-cours,French Grand Prix,,,,,,26,0,,0.0,26,R,8,Accident,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-silverstone,British Grand Prix,,,,,,1,59,5142991,10.0,1,1,9,Finished,1:25:42.991,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-silverstone,British Grand Prix,,,,,,2,59,5182085,6.0,2,2,9,Finished,+39.094,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-silverstone,British Grand Prix,,,,,,6,59,5191386,4.0,3,3,9,Finished,+48.395,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-silverstone,British Grand Prix,,,,,,4,59,5196258,3.0,4,4,9,Finished,+53.267,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-silverstone,British Grand Prix,,,,,,5,59,5198786,2.0,5,5,9,Finished,+55.795,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-silverstone,British Grand Prix,,,,,,9,59,5223129,1.0,6,6,9,Finished,+1:20.138,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-silverstone,British Grand Prix,,,,,,12,58,,0.0,7,7,9,+1 Lap,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-silverstone,British Grand Prix,,,,,,10,58,,0.0,8,8,9,+1 Lap,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-silverstone,British Grand Prix,,,,,,14,58,,0.0,9,9,9,+1 Lap,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-silverstone,British Grand Prix,,,,,,13,57,,0.0,10,10,9,+2 Laps,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-silverstone,British Grand Prix,,,,,,20,57,,0.0,11,11,9,+2 Laps,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-silverstone,British Grand Prix,,,,,,17,57,,0.0,12,12,9,+2 Laps,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-silverstone,British Grand Prix,,,,,,19,57,,0.0,13,13,9,+2 Laps,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-silverstone,British Grand Prix,,,,,,15,57,,0.0,14,14,9,+2 Laps,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-silverstone,British Grand Prix,,,,,,22,56,,0.0,15,15,9,+3 Laps,,1992
+Brabham,brabham,British,,damon_hill,Damon Hill,British,8,1992-silverstone,British Grand Prix,,,,,,26,55,,0.0,16,16,9,+4 Laps,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-silverstone,British Grand Prix,,,,,,25,53,,0.0,17,17,9,Engine,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-silverstone,British Grand Prix,,,,,,3,52,,0.0,18,R,9,Transmission,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-silverstone,British Grand Prix,,,,,,18,46,,0.0,19,R,9,Spun off,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-silverstone,British Grand Prix,,,,,,8,43,,0.0,20,R,9,Mechanical,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-silverstone,British Grand Prix,,,,,,23,43,,0.0,21,R,9,Engine,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-silverstone,British Grand Prix,,,,,,24,37,,0.0,22,R,9,Engine,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-silverstone,British Grand Prix,,,,,,11,32,,0.0,23,R,9,Wheel,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-silverstone,British Grand Prix,,,,,,7,31,,0.0,24,R,9,Transmission,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-silverstone,British Grand Prix,,,,,,21,27,,0.0,25,R,9,Gearbox,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-silverstone,British Grand Prix,,,,,,16,27,,0.0,26,R,9,Transmission,,1992
+Brabham,brabham,British,,poele,Eric van de Poele,Belgian,7,1992-silverstone,British Grand Prix,,,,,,0,0,,0.0,30,W,9,Withdrew,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-hockenheim,German Grand Prix,,,,,,1,45,4702032,10.0,1,1,10,Finished,1:18:22.032,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-hockenheim,German Grand Prix,,,,,,3,45,4706532,6.0,2,2,10,Finished,+4.500,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-hockenheim,German Grand Prix,,,,,,6,45,4736494,4.0,3,3,10,Finished,+34.462,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-hockenheim,German Grand Prix,,,,,,9,45,4738991,3.0,4,4,10,Finished,+36.959,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-hockenheim,German Grand Prix,,,,,,5,45,4774639,2.0,5,5,10,Finished,+1:12.607,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-hockenheim,German Grand Prix,,,,,,7,45,4798530,1.0,6,6,10,Finished,+1:36.498,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-hockenheim,German Grand Prix,,,,,,8,45,4799212,0.0,7,7,10,Finished,+1:37.180,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-hockenheim,German Grand Prix,,,,,,2,44,,0.0,8,8,10,Spun off,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-hockenheim,German Grand Prix,,,,,,17,44,,0.0,9,9,10,+1 Lap,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-hockenheim,German Grand Prix,,,,,,21,44,,0.0,10,10,10,+1 Lap,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-hockenheim,German Grand Prix,,,,,,18,44,,0.0,11,11,10,+1 Lap,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-hockenheim,German Grand Prix,,,,,,26,44,,0.0,12,12,10,+1 Lap,,1992
+March,march,British,,belmondo,Paul Belmondo,French,17,1992-hockenheim,German Grand Prix,,,,,,22,44,,0.0,13,13,10,+1 Lap,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-hockenheim,German Grand Prix,,,,,,25,44,,0.0,14,14,10,+1 Lap,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-hockenheim,German Grand Prix,,,,,,23,43,,0.0,15,15,10,+2 Laps,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-hockenheim,German Grand Prix,,,,,,10,42,,0.0,16,16,10,+3 Laps,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-hockenheim,German Grand Prix,,,,,,19,33,,0.0,17,R,10,Engine,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-hockenheim,German Grand Prix,,,,,,20,25,,0.0,18,R,10,Engine,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-hockenheim,German Grand Prix,,,,,,11,23,,0.0,19,R,10,Engine,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-hockenheim,German Grand Prix,,,,,,12,21,,0.0,20,R,10,Engine,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-hockenheim,German Grand Prix,,,,,,13,21,,0.0,21,R,10,Engine,,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-hockenheim,German Grand Prix,,,,,,4,16,,0.0,22,R,10,Electrical,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-hockenheim,German Grand Prix,,,,,,14,8,,0.0,23,R,10,Engine,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-hockenheim,German Grand Prix,,,,,,16,8,,0.0,24,R,10,Spun off,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-hockenheim,German Grand Prix,,,,,,15,1,,0.0,25,R,10,Spun off,,1992
+Minardi,minardi,Italian,,zanardi,Alessandro Zanardi,Italian,23,1992-hockenheim,German Grand Prix,,,,,,24,1,,0.0,26,R,10,Gearbox,,1992
+Andrea Moda,moda,Italian,,mccarthy,Perry McCarthy,British,35,1992-hockenheim,German Grand Prix,,,,,,0,0,,0.0,32,D,10,Excluded,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-budapest,Hungarian Grand Prix,,,,,,3,77,6379216,10.0,1,1,11,Finished,1:46:19.216,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-budapest,Hungarian Grand Prix,,,,,,2,77,6419355,6.0,2,2,11,Finished,+40.139,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-budapest,Hungarian Grand Prix,,,,,,5,77,6429998,4.0,3,3,11,Finished,+50.782,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-budapest,Hungarian Grand Prix,,,,,,16,77,6433529,3.0,4,4,11,Finished,+54.313,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-budapest,Hungarian Grand Prix,,,,,,6,77,6436714,2.0,5,5,11,Finished,+57.498,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-budapest,Hungarian Grand Prix,,,,,,10,76,,1.0,6,6,11,+1 Lap,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-budapest,Hungarian Grand Prix,,,,,,7,75,,0.0,7,7,11,+2 Laps,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-budapest,Hungarian Grand Prix,,,,,,19,75,,0.0,8,8,11,+2 Laps,,1992
+March,march,British,,belmondo,Paul Belmondo,French,17,1992-budapest,Hungarian Grand Prix,,,,,,17,74,,0.0,9,9,11,+3 Laps,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-budapest,Hungarian Grand Prix,,,,,,21,73,,0.0,10,10,11,+4 Laps,,1992
+Brabham,brabham,British,,damon_hill,Damon Hill,British,8,1992-budapest,Hungarian Grand Prix,,,,,,25,73,,0.0,11,11,11,+4 Laps,,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-budapest,Hungarian Grand Prix,,,,,,4,63,,0.0,12,R,11,Broken wing,,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-budapest,Hungarian Grand Prix,,,,,,1,55,,0.0,13,R,11,Engine,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-budapest,Hungarian Grand Prix,,,,,,26,40,,0.0,14,R,11,Gearbox,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-budapest,Hungarian Grand Prix,,,,,,20,35,,0.0,15,R,11,Engine,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-budapest,Hungarian Grand Prix,,,,,,9,14,,0.0,16,R,11,Spun off,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-budapest,Hungarian Grand Prix,,,,,,15,13,,0.0,17,R,11,Collision,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-budapest,Hungarian Grand Prix,,,,,,14,13,,0.0,18,R,11,Collision,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-budapest,Hungarian Grand Prix,,,,,,22,13,,0.0,19,R,11,Collision,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-budapest,Hungarian Grand Prix,,,,,,23,13,,0.0,20,R,11,Collision,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-budapest,Hungarian Grand Prix,,,,,,24,13,,0.0,21,R,11,Collision,,1992
+Fondmetal,fondmetal,Italian,,poele,Eric van de Poele,Belgian,14,1992-budapest,Hungarian Grand Prix,,,,,,18,2,,0.0,22,R,11,Spun off,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-budapest,Hungarian Grand Prix,,,,,,8,0,,0.0,23,R,11,Collision,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-budapest,Hungarian Grand Prix,,,,,,11,0,,0.0,24,R,11,Collision,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-budapest,Hungarian Grand Prix,,,,,,12,0,,0.0,25,R,11,Collision,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-budapest,Hungarian Grand Prix,,,,,,13,0,,0.0,26,R,11,Collision,,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-spa,Belgian Grand Prix,,,,,,3,44,5770721,10.0,1,1,12,Finished,1:36:10.721,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-spa,Belgian Grand Prix,,,,,,1,44,5807316,6.0,2,2,12,Finished,+36.595,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-spa,Belgian Grand Prix,,,,,,4,44,5814618,4.0,3,3,12,Finished,+43.897,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-spa,Belgian Grand Prix,,,,,,9,44,5816780,3.0,4,4,12,Finished,+46.059,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-spa,Belgian Grand Prix,,,,,,2,44,5839090,2.0,5,5,12,Finished,+1:08.369,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-spa,Belgian Grand Prix,,,,,,8,44,5840751,1.0,6,6,12,Finished,+1:10.030,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-spa,Belgian Grand Prix,,,,,,16,44,5868958,0.0,7,7,12,Finished,+1:38.237,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-spa,Belgian Grand Prix,,,,,,13,43,,0.0,8,8,12,+1 Lap,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-spa,Belgian Grand Prix,,,,,,25,43,,0.0,9,9,12,+1 Lap,,1992
+Fondmetal,fondmetal,Italian,,poele,Eric van de Poele,Belgian,14,1992-spa,Belgian Grand Prix,,,,,,15,43,,0.0,10,10,12,+1 Lap,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-spa,Belgian Grand Prix,,,,,,18,43,,0.0,11,11,12,+1 Lap,,1992
+March,march,British,,naspetti,Emanuele Naspetti,Italian,17,1992-spa,Belgian Grand Prix,,,,,,21,43,,0.0,12,12,12,+1 Lap,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-spa,Belgian Grand Prix,,,,,,10,43,,0.0,13,13,12,Engine,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-spa,Belgian Grand Prix,,,,,,24,42,,0.0,14,14,12,+2 Laps,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-spa,Belgian Grand Prix,,,,,,17,42,,0.0,15,15,12,+2 Laps,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-spa,Belgian Grand Prix,,,,,,23,42,,0.0,16,16,12,+2 Laps,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-spa,Belgian Grand Prix,,,,,,26,42,,0.0,17,17,12,+2 Laps,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-spa,Belgian Grand Prix,,,,,,20,40,,0.0,18,18,12,Spun off,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-spa,Belgian Grand Prix,,,,,,7,27,,0.0,19,R,12,Spun off,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-spa,Belgian Grand Prix,,,,,,12,25,,0.0,20,R,12,Engine,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-spa,Belgian Grand Prix,,,,,,11,25,,0.0,21,R,12,Engine,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-spa,Belgian Grand Prix,,,,,,14,20,,0.0,22,R,12,Gearbox,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-spa,Belgian Grand Prix,,,,,,5,7,,0.0,23,R,12,Puncture,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-spa,Belgian Grand Prix,,,,,,22,1,,0.0,24,R,12,Accident,,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-spa,Belgian Grand Prix,,,,,,6,0,,0.0,25,R,12,Transmission,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-spa,Belgian Grand Prix,,,,,,19,0,,0.0,26,R,12,Spun off,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-spa,Belgian Grand Prix,,,,,,0,0,,0.0,30,W,12,Withdrew,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-monza,Italian Grand Prix,,,,,,2,53,4695349,10.0,1,1,13,Finished,1:18:15.349,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-monza,Italian Grand Prix,,,,,,9,53,4712399,6.0,2,2,13,Finished,+17.050,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-monza,Italian Grand Prix,,,,,,6,53,4719722,4.0,3,3,13,Finished,+24.373,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-monza,Italian Grand Prix,,,,,,5,53,4780839,3.0,4,4,13,Finished,+1:25.490,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-monza,Italian Grand Prix,,,,,,4,53,4788507,2.0,5,5,13,Finished,+1:33.158,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-monza,Italian Grand Prix,,,,,,21,52,,1.0,6,6,13,+1 Lap,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-monza,Italian Grand Prix,,,,,,16,52,,0.0,7,7,13,+1 Lap,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-monza,Italian Grand Prix,,,,,,22,52,,0.0,8,8,13,+1 Lap,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-monza,Italian Grand Prix,,,,,,23,50,,0.0,9,9,13,Transmission,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-monza,Italian Grand Prix,,,,,,17,50,,0.0,10,10,13,+3 Laps,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-monza,Italian Grand Prix,,,,,,14,47,,0.0,11,11,13,Engine,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-monza,Italian Grand Prix,,,,,,26,46,,0.0,12,R,13,Transmission,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-monza,Italian Grand Prix,,,,,,1,41,,0.0,13,R,13,Electrical,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-monza,Italian Grand Prix,,,,,,8,41,,0.0,14,R,13,Throttle,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-monza,Italian Grand Prix,,,,,,15,35,,0.0,15,R,13,Spun off,,1992
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,15,1992-monza,Italian Grand Prix,,,,,,20,30,,0.0,16,R,13,Gearbox,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-monza,Italian Grand Prix,,,,,,18,26,,0.0,17,R,13,Engine,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-monza,Italian Grand Prix,,,,,,13,18,,0.0,18,R,13,Engine,,1992
+March,march,British,,naspetti,Emanuele Naspetti,Italian,17,1992-monza,Italian Grand Prix,,,,,,24,17,,0.0,19,R,13,Engine,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-monza,Italian Grand Prix,,,,,,3,12,,0.0,20,R,13,Fuel system,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-monza,Italian Grand Prix,,,,,,7,12,,0.0,21,R,13,Electrical,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-monza,Italian Grand Prix,,,,,,12,12,,0.0,22,R,13,Engine,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-monza,Italian Grand Prix,,,,,,10,11,,0.0,23,R,13,Engine,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-monza,Italian Grand Prix,,,,,,11,5,,0.0,24,R,13,Engine,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-monza,Italian Grand Prix,,,,,,19,2,,0.0,25,R,13,Suspension,,1992
+Fondmetal,fondmetal,Italian,,poele,Eric van de Poele,Belgian,14,1992-monza,Italian Grand Prix,,,,,,25,0,,0.0,26,R,13,Clutch,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-estoril,Portuguese Grand Prix,,,,,,1,71,5686659,10.0,1,1,14,Finished,1:34:46.659,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-estoril,Portuguese Grand Prix,,,,,,4,71,5724192,6.0,2,2,14,Finished,+37.533,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-estoril,Portuguese Grand Prix,,,,,,3,70,,4.0,3,3,14,+1 Lap,,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-estoril,Portuguese Grand Prix,,,,,,6,70,,3.0,4,4,14,+1 Lap,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-estoril,Portuguese Grand Prix,,,,,,7,70,,2.0,5,5,14,+1 Lap,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-estoril,Portuguese Grand Prix,,,,,,8,70,,1.0,6,6,14,+1 Lap,,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-estoril,Portuguese Grand Prix,,,,,,5,69,,0.0,7,7,14,+2 Laps,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-estoril,Portuguese Grand Prix,,,,,,11,69,,0.0,8,8,14,+2 Laps,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-estoril,Portuguese Grand Prix,,,,,,12,69,,0.0,9,9,14,+2 Laps,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-estoril,Portuguese Grand Prix,,,,,,17,68,,0.0,10,10,14,+3 Laps,,1992
+March,march,British,,naspetti,Emanuele Naspetti,Italian,17,1992-estoril,Portuguese Grand Prix,,,,,,23,68,,0.0,11,11,14,+3 Laps,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-estoril,Portuguese Grand Prix,,,,,,26,68,,0.0,12,12,14,+3 Laps,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-estoril,Portuguese Grand Prix,,,,,,24,68,,0.0,13,13,14,+3 Laps,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-estoril,Portuguese Grand Prix,,,,,,18,68,,0.0,14,14,14,+3 Laps,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-estoril,Portuguese Grand Prix,,,,,,19,51,,0.0,15,R,14,Physical,,1992
+March,march,British,,wendlinger,Karl Wendlinger,Austrian,16,1992-estoril,Portuguese Grand Prix,,,,,,22,48,,0.0,16,R,14,Gearbox,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-estoril,Portuguese Grand Prix,,,,,,14,47,,0.0,17,R,14,Engine,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-estoril,Portuguese Grand Prix,,,,,,25,46,,0.0,18,R,14,Spun off,,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-estoril,Portuguese Grand Prix,,,,,,2,43,,0.0,19,R,14,Collision,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-estoril,Portuguese Grand Prix,,,,,,21,43,,0.0,20,R,14,Puncture,,1992
+Ferrari,ferrari,Italian,,capelli,Ivan Capelli,Italian,28,1992-estoril,Portuguese Grand Prix,,,,,,16,34,,0.0,21,R,14,Engine,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-estoril,Portuguese Grand Prix,,,,,,15,27,,0.0,22,R,14,Gearbox,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-estoril,Portuguese Grand Prix,,,,,,13,25,,0.0,23,R,14,Engine,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-estoril,Portuguese Grand Prix,,,,,,20,19,,0.0,24,R,14,Electrical,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-estoril,Portuguese Grand Prix,,,,,,10,12,,0.0,25,R,14,Spun off,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-estoril,Portuguese Grand Prix,,,,,,9,2,,0.0,26,R,14,Accident,,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-suzuka,Japanese Grand Prix,,,,,,2,53,5589533,10.0,1,1,15,Finished,1:33:09.533,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-suzuka,Japanese Grand Prix,,,,,,4,53,5603262,6.0,2,2,15,Finished,+13.729,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-suzuka,Japanese Grand Prix,,,,,,13,53,5665036,4.0,3,3,15,Finished,+1:15.503,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-suzuka,Japanese Grand Prix,,,,,,9,52,,3.0,4,4,15,+1 Lap,,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-suzuka,Japanese Grand Prix,,,,,,15,52,,2.0,5,5,15,+1 Lap,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-suzuka,Japanese Grand Prix,,,,,,12,52,,1.0,6,6,15,+1 Lap,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-suzuka,Japanese Grand Prix,,,,,,17,52,,0.0,7,7,15,+1 Lap,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-suzuka,Japanese Grand Prix,,,,,,16,52,,0.0,8,8,15,+1 Lap,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-suzuka,Japanese Grand Prix,,,,,,22,52,,0.0,9,9,15,+1 Lap,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-suzuka,Japanese Grand Prix,,,,,,19,52,,0.0,10,10,15,+1 Lap,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-suzuka,Japanese Grand Prix,,,,,,20,52,,0.0,11,11,15,+1 Lap,,1992
+Ferrari,ferrari,Italian,,larini,Nicola Larini,Italian,28,1992-suzuka,Japanese Grand Prix,,,,,,11,52,,0.0,12,12,15,+1 Lap,,1992
+March,march,British,,naspetti,Emanuele Naspetti,Italian,17,1992-suzuka,Japanese Grand Prix,,,,,,26,51,,0.0,13,13,15,+2 Laps,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-suzuka,Japanese Grand Prix,,,,,,14,51,,0.0,14,14,15,+2 Laps,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-suzuka,Japanese Grand Prix,,,,,,24,51,,0.0,15,15,15,+2 Laps,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-suzuka,Japanese Grand Prix,,,,,,1,44,,0.0,16,R,15,Engine,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-suzuka,Japanese Grand Prix,,,,,,7,44,,0.0,17,R,15,Engine,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-suzuka,Japanese Grand Prix,,,,,,18,39,,0.0,18,R,15,Collision,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-suzuka,Japanese Grand Prix,,,,,,8,36,,0.0,19,R,15,Engine,,1992
+March,march,British,,lammers,Jan Lammers,Dutch,16,1992-suzuka,Japanese Grand Prix,,,,,,23,27,,0.0,20,R,15,Clutch,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-suzuka,Japanese Grand Prix,,,,,,25,22,,0.0,21,R,15,Spun off,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-suzuka,Japanese Grand Prix,,,,,,6,15,,0.0,22,R,15,Gearbox,,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-suzuka,Japanese Grand Prix,,,,,,5,13,,0.0,23,R,15,Gearbox,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-suzuka,Japanese Grand Prix,,,,,,21,6,,0.0,24,R,15,Spun off,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-suzuka,Japanese Grand Prix,,,,,,10,3,,0.0,25,R,15,Gearbox,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-suzuka,Japanese Grand Prix,,,,,,3,2,,0.0,26,R,15,Engine,,1992
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1992-adelaide,Australian Grand Prix,,,,,,4,81,6414786,10.0,1,1,16,Finished,1:46:54.786,1992
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1992-adelaide,Australian Grand Prix,,,,,,5,81,6415527,6.0,2,2,16,Finished,+0.741,1992
+Benetton,benetton,Italian,,brundle,Martin Brundle,British,20,1992-adelaide,Australian Grand Prix,,,,,,8,81,6468942,4.0,3,3,16,Finished,+54.156,1992
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1992-adelaide,Australian Grand Prix,,,,,,6,80,,3.0,4,4,16,+1 Lap,,1992
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1992-adelaide,Australian Grand Prix,,,,,,22,80,,2.0,5,5,16,+1 Lap,,1992
+Jordan,jordan,Irish,,modena,Stefano Modena,Italian,32,1992-adelaide,Australian Grand Prix,,,,,,15,80,,1.0,6,6,16,+1 Lap,,1992
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1992-adelaide,Australian Grand Prix,,,,,,10,80,,0.0,7,7,16,+1 Lap,,1992
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1992-adelaide,Australian Grand Prix,,,,,,18,79,,0.0,8,8,16,+2 Laps,,1992
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1992-adelaide,Australian Grand Prix,,,,,,17,79,,0.0,9,9,16,+2 Laps,,1992
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1992-adelaide,Australian Grand Prix,,,,,,16,79,,0.0,10,10,16,+2 Laps,,1992
+Ferrari,ferrari,Italian,,larini,Nicola Larini,Italian,28,1992-adelaide,Australian Grand Prix,,,,,,19,79,,0.0,11,11,16,+2 Laps,,1992
+March,march,British,,lammers,Jan Lammers,Dutch,16,1992-adelaide,Australian Grand Prix,,,,,,25,78,,0.0,12,12,16,+3 Laps,,1992
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1992-adelaide,Australian Grand Prix,,,,,,12,77,,0.0,13,13,16,+4 Laps,,1992
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,21,1992-adelaide,Australian Grand Prix,,,,,,24,70,,0.0,14,R,16,Gearbox,,1992
+March,march,British,,naspetti,Emanuele Naspetti,Italian,17,1992-adelaide,Australian Grand Prix,,,,,,23,55,,0.0,15,R,16,Gearbox,,1992
+Larrousse,larrousse,French,,gachot,Bertrand Gachot,Belgian,29,1992-adelaide,Australian Grand Prix,,,,,,21,51,,0.0,16,R,16,Fuel system,,1992
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1992-adelaide,Australian Grand Prix,,,,,,3,50,,0.0,17,R,16,Engine,,1992
+Larrousse,larrousse,French,,katayama,Ukyo Katayama,Japanese,30,1992-adelaide,Australian Grand Prix,,,,,,26,35,,0.0,18,R,16,Differential,,1992
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1992-adelaide,Australian Grand Prix,,,,,,7,29,,0.0,19,R,16,Engine,,1992
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1992-adelaide,Australian Grand Prix,,,,,,1,18,,0.0,20,R,16,Collision,,1992
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1992-adelaide,Australian Grand Prix,,,,,,2,18,,0.0,21,R,16,Collision,,1992
+Jordan,jordan,Irish,,gugelmin,Maurício Gugelmin,Brazilian,33,1992-adelaide,Australian Grand Prix,,,,,,20,7,,0.0,22,R,16,Spun off,,1992
+Ligier,ligier,French,,comas,Érik Comas,French,26,1992-adelaide,Australian Grand Prix,,,,,,9,4,,0.0,23,R,16,Engine,,1992
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1992-adelaide,Australian Grand Prix,,,,,,11,0,,0.0,24,R,16,Engine,,1992
+Dallara,dallara,Italian,,martini,Pierluigi Martini,Italian,22,1992-adelaide,Australian Grand Prix,,,,,,14,0,,0.0,25,R,16,Accident,,1992
+Tyrrell,tyrrell,British,,grouillard,Olivier Grouillard,French,3,1992-adelaide,Australian Grand Prix,,,,,,13,0,,0.0,26,R,16,Accident,,1992

@@ -1,0 +1,40 @@
+{
+  "year": 1992,
+  "generated_at": "2026-05-27T06:11:49.824411+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 16,
+  "race_results": 419,
+  "qualifying_results": 0,
+  "drivers": 36,
+  "constructors": 16,
+  "driver_champion": {
+    "year": 1992,
+    "position": 1,
+    "position_text": "1",
+    "points": 108.0,
+    "wins": 9,
+    "driver_id": "mansell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nigel Mansell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1992,
+    "position": 1,
+    "position_text": "1",
+    "points": 164.0,
+    "wins": 10,
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+  }
+}

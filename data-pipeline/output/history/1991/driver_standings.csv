@@ -1,0 +1,38 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,senna,Ayrton Senna,Brazilian,,96.0,1,1,7,1991
+"[""williams""]","[""Williams""]",,mansell,Nigel Mansell,British,,72.0,2,2,5,1991
+"[""williams""]","[""Williams""]",,patrese,Riccardo Patrese,Italian,,53.0,3,3,2,1991
+"[""mclaren""]","[""McLaren""]",,berger,Gerhard Berger,Austrian,,43.0,4,4,1,1991
+"[""ferrari""]","[""Ferrari""]",,prost,Alain Prost,French,,34.0,5,5,0,1991
+"[""benetton""]","[""Benetton""]",,piquet,Nelson Piquet,Brazilian,,26.5,6,6,1,1991
+"[""ferrari""]","[""Ferrari""]",,alesi,Jean Alesi,French,,21.0,7,7,0,1991
+"[""tyrrell""]","[""Tyrrell""]",,modena,Stefano Modena,Italian,,10.0,8,8,0,1991
+"[""jordan""]","[""Jordan""]",,cesaris,Andrea de Cesaris,Italian,,9.0,9,9,0,1991
+"[""benetton"", ""jordan"", ""minardi""]","[""Benetton"", ""Jordan"", ""Minardi""]",,moreno,Roberto Moreno,Brazilian,,8.0,10,10,0,1991
+"[""minardi""]","[""Minardi""]",,martini,Pierluigi Martini,Italian,,6.0,11,11,0,1991
+"[""dallara""]","[""Dallara""]",,lehto,Jyrki Järvilehto,Finnish,,4.0,12,12,0,1991
+"[""jordan"", ""larrousse""]","[""Jordan"", ""Larrousse""]",,gachot,Bertrand Gachot,Belgian,,4.0,13,13,0,1991
+"[""jordan"", ""benetton""]","[""Jordan"", ""Benetton""]",MSC,michael_schumacher,Michael Schumacher,German,,4.0,14,14,0,1991
+"[""tyrrell""]","[""Tyrrell""]",,satoru_nakajima,Satoru Nakajima,Japanese,,2.0,15,15,0,1991
+"[""team_lotus""]","[""Team Lotus""]",,hakkinen,Mika Häkkinen,Finnish,,2.0,16,16,0,1991
+"[""brabham""]","[""Brabham""]",,brundle,Martin Brundle,British,,2.0,17,17,0,1991
+"[""dallara""]","[""Dallara""]",,pirro,Emanuele Pirro,Italian,,1.0,18,18,0,1991
+"[""brabham""]","[""Brabham""]",,blundell,Mark Blundell,British,,1.0,19,19,0,1991
+"[""leyton""]","[""Leyton House""]",,capelli,Ivan Capelli,Italian,,1.0,20,20,0,1991
+"[""larrousse"", ""lola""]","[""Larrousse"", ""Lola""]",,bernard,Éric Bernard,French,,1.0,21,21,0,1991
+"[""larrousse"", ""lola""]","[""Larrousse"", ""Lola""]",,suzuki,Aguri Suzuki,Japanese,,1.0,22,22,0,1991
+"[""team_lotus""]","[""Team Lotus""]",,bailey,Julian Bailey,British,,1.0,23,23,0,1991
+"[""minardi"", ""ferrari""]","[""Minardi"", ""Ferrari""]",,morbidelli,Gianni Morbidelli,Italian,,0.5,24,24,0,1991
+"[""leyton""]","[""Leyton House""]",,gugelmin,Maurício Gugelmin,Brazilian,,0.0,,-,0,1991
+"[""ligier""]","[""Ligier""]",,boutsen,Thierry Boutsen,Belgian,,0.0,,-,0,1991
+"[""team_lotus""]","[""Team Lotus""]",,herbert,Johnny Herbert,British,,0.0,,-,0,1991
+"[""lambo""]","[""Lambo""]",,larini,Nicola Larini,Italian,,0.0,,-,0,1991
+"[""ligier""]","[""Ligier""]",,comas,Érik Comas,French,,0.0,,-,0,1991
+"[""ags"", ""fondmetal""]","[""AGS"", ""Fondmetal""]",,tarquini,Gabriele Tarquini,Italian,,0.0,,-,0,1991
+"[""jordan""]","[""Jordan""]",,zanardi,Alessandro Zanardi,Italian,,0.0,,-,0,1991
+"[""lambo""]","[""Lambo""]",,poele,Eric van de Poele,Belgian,,0.0,,-,0,1991
+"[""footwork""]","[""Footwork""]",,caffi,Alex Caffi,Italian,,0.0,,-,0,1991
+"[""fondmetal"", ""ags""]","[""Fondmetal"", ""AGS""]",,grouillard,Olivier Grouillard,French,,0.0,,-,0,1991
+"[""footwork""]","[""Footwork""]",,alboreto,Michele Alboreto,Italian,,0.0,,-,0,1991
+"[""leyton""]","[""Leyton House""]",,wendlinger,Karl Wendlinger,Austrian,,0.0,,-,0,1991
+"[""ags"", ""footwork""]","[""AGS"", ""Footwork""]",,johansson,Stefan Johansson,Swedish,,0.0,,-,0,1991

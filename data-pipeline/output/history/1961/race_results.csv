@@ -1,0 +1,216 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Lotus-Climax,lotus-climax,British,,moss,Stirling Moss,British,20,1961-monte-carlo,Monaco Grand Prix,,,,,,1,100,9950100,9.0,1,1,1,Finished,2:45:50.100,1961
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,36,1961-monte-carlo,Monaco Grand Prix,,,,,,2,100,9953700,6.0,2,2,1,Finished,+3.600,1961
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,38,1961-monte-carlo,Monaco Grand Prix,,,,,,5,100,9991400,4.0,3,3,1,Finished,+41.300,1961
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,40,1961-monte-carlo,Monaco Grand Prix,,,,,,6,98,,3.0,4,4,1,Accident,,1961
+Porsche,porsche,German,,gurney,Dan Gurney,American,4,1961-monte-carlo,Monaco Grand Prix,,,,,,11,98,,2.0,5,5,1,+2 Laps,,1961
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,26,1961-monte-carlo,Monaco Grand Prix,,,,,,7,95,,1.0,6,6,1,+5 Laps,,1961
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,42,1961-monte-carlo,Monaco Grand Prix,,,,,,16,95,,0.0,7,7,1,+5 Laps,,1961
+Lotus-Climax,lotus-climax,British,,allison,Cliff Allison,British,32,1961-monte-carlo,Monaco Grand Prix,,,,,,15,93,,0.0,8,8,1,+7 Laps,,1961
+Porsche,porsche,German,,herrmann,Hans Herrmann,German,6,1961-monte-carlo,Monaco Grand Prix,,,,,,13,91,,0.0,9,9,1,+9 Laps,,1961
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,28,1961-monte-carlo,Monaco Grand Prix,,,,,,3,89,,0.0,10,10,1,+11 Laps,,1961
+Cooper-Climax,cooper-climax,British,,surtees,John Surtees,British,22,1961-monte-carlo,Monaco Grand Prix,,,,,,12,68,,0.0,11,11,1,Engine,,1961
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,2,1961-monte-carlo,Monaco Grand Prix,,,,,,9,59,,0.0,12,12,1,Injection,,1961
+BRM,brm,British,,brooks,Tony Brooks,British,16,1961-monte-carlo,Monaco Grand Prix,,,,,,8,54,,0.0,13,13,1,Engine,,1961
+Lotus-Climax,lotus-climax,British,,may,Michael May,Swiss,8,1961-monte-carlo,Monaco Grand Prix,,,,,,14,42,,0.0,14,R,1,Oil pipe,,1961
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,24,1961-monte-carlo,Monaco Grand Prix,,,,,,21,38,,0.0,15,R,1,Ignition,,1961
+BRM,brm,British,,hill,Graham Hill,British,18,1961-monte-carlo,Monaco Grand Prix,,,,,,4,11,,0.0,16,R,1,Fuel pump,,1961
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,30,1961-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,17,W,1,Withdrew,,1961
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,3,1961-zandvoort,Dutch Grand Prix,,,,,,2,75,7312100,9.0,1,1,2,Finished,2:01:52.100,1961
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,1,1961-zandvoort,Dutch Grand Prix,,,,,,1,75,7313000,6.0,2,2,2,Finished,+0.900,1961
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,15,1961-zandvoort,Dutch Grand Prix,,,,,,11,75,7325200,4.0,3,3,2,Finished,+13.100,1961
+Lotus-Climax,lotus-climax,British,,moss,Stirling Moss,British,14,1961-zandvoort,Dutch Grand Prix,,,,,,4,75,7334300,3.0,4,4,2,Finished,+22.200,1961
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,2,1961-zandvoort,Dutch Grand Prix,,,,,,3,75,7334400,2.0,5,5,2,Finished,+22.300,1961
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,10,1961-zandvoort,Dutch Grand Prix,,,,,,7,75,7392200,1.0,6,6,2,Finished,+1:20.100,1961
+Cooper-Climax,cooper-climax,British,,surtees,John Surtees,British,12,1961-zandvoort,Dutch Grand Prix,,,,,,9,75,7398800,0.0,7,7,2,Finished,+1:26.700,1961
+BRM,brm,British,,hill,Graham Hill,British,4,1961-zandvoort,Dutch Grand Prix,,,,,,5,75,7401900,0.0,8,8,2,Finished,+1:29.800,1961
+BRM,brm,British,,brooks,Tony Brooks,British,5,1961-zandvoort,Dutch Grand Prix,,,,,,8,74,,0.0,9,9,2,+1 Lap,,1961
+Porsche,porsche,German,,gurney,Dan Gurney,American,7,1961-zandvoort,Dutch Grand Prix,,,,,,6,74,,0.0,10,10,2,+1 Lap,,1961
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,6,1961-zandvoort,Dutch Grand Prix,,,,,,12,73,,0.0,11,11,2,+2 Laps,,1961
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,11,1961-zandvoort,Dutch Grand Prix,,,,,,14,73,,0.0,12,12,2,+2 Laps,,1961
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,16,1961-zandvoort,Dutch Grand Prix,,,,,,16,73,,0.0,13,13,2,+2 Laps,,1961
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,8,1961-zandvoort,Dutch Grand Prix,,,,,,17,72,,0.0,14,14,2,+3 Laps,,1961
+Porsche,porsche,German,,herrmann,Hans Herrmann,German,9,1961-zandvoort,Dutch Grand Prix,,,,,,13,72,,0.0,15,15,2,+3 Laps,,1961
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,17,1961-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,16,W,2,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,burgess,Ian Burgess,British,18,1961-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,17,W,2,Withdrew,,1961
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,4,1961-spa,Belgian Grand Prix,,,,,,1,30,7383800,9.0,1,1,3,Finished,2:03:03.800,1961
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,2,1961-spa,Belgian Grand Prix,,,,,,2,30,7384500,6.0,2,2,3,Finished,+0.700,1961
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,6,1961-spa,Belgian Grand Prix,,,,,,5,30,7403300,4.0,3,3,3,Finished,+19.500,1961
+Ferrari,ferrari,Italian,,gendebien,Olivier Gendebien,Belgian,8,1961-spa,Belgian Grand Prix,,,,,,3,30,7429400,3.0,4,4,3,Finished,+45.600,1961
+Cooper-Climax,cooper-climax,British,,surtees,John Surtees,British,24,1961-spa,Belgian Grand Prix,,,,,,4,30,7470600,2.0,5,5,3,Finished,+1:26.800,1961
+Porsche,porsche,German,,gurney,Dan Gurney,American,20,1961-spa,Belgian Grand Prix,,,,,,10,30,7474800,1.0,6,6,3,Finished,+1:31.000,1961
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,18,1961-spa,Belgian Grand Prix,,,,,,9,30,7550900,0.0,7,7,3,Finished,+2:47.100,1961
+Lotus-Climax,lotus-climax,British,,moss,Stirling Moss,British,14,1961-spa,Belgian Grand Prix,,,,,,8,30,7619400,0.0,8,8,3,Finished,+3:55.600,1961
+Cooper-Climax,cooper-climax,British,,lewis,Jackie Lewis,British,40,1961-spa,Belgian Grand Prix,,,,,,13,29,,0.0,9,9,3,+1 Lap,,1961
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,44,1961-spa,Belgian Grand Prix,,,,,,12,29,,0.0,10,10,3,+1 Lap,,1961
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,22,1961-spa,Belgian Grand Prix,,,,,,14,28,,0.0,11,11,3,+2 Laps,,1961
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,34,1961-spa,Belgian Grand Prix,,,,,,16,24,,0.0,12,12,3,+6 Laps,,1961
+BRM,brm,British,,brooks,Tony Brooks,British,38,1961-spa,Belgian Grand Prix,,,,,,7,24,,0.0,13,13,3,+6 Laps,,1961
+BRM,brm,British,,hill,Graham Hill,British,36,1961-spa,Belgian Grand Prix,,,,,,6,24,,0.0,14,R,3,Ignition,,1961
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,26,1961-spa,Belgian Grand Prix,,,,,,20,23,,0.0,15,R,3,Gearbox,,1961
+Cooper-Maserati,cooper-maserati,British,,bandini,Lorenzo Bandini,Italian,46,1961-spa,Belgian Grand Prix,,,,,,17,20,,0.0,16,R,3,Wheel bearing,,1961
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,28,1961-spa,Belgian Grand Prix,,,,,,11,12,,0.0,17,R,3,Engine,,1961
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,30,1961-spa,Belgian Grand Prix,,,,,,15,9,,0.0,18,R,3,Ignition,,1961
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,32,1961-spa,Belgian Grand Prix,,,,,,18,9,,0.0,19,R,3,Engine,,1961
+Lotus-Climax,lotus-climax,British,,bianchi,Lucien Bianchi,Belgian,12,1961-spa,Belgian Grand Prix,,,,,,23,9,,0.0,20,R,3,Oil leak,,1961
+Lotus-Climax,lotus-climax,British,,mairesse,Willy Mairesse,Belgian,10,1961-spa,Belgian Grand Prix,,,,,,19,7,,0.0,21,R,3,Ignition,,1961
+Lotus-Climax,lotus-climax,British,,marsh,Tony Marsh,British,42,1961-spa,Belgian Grand Prix,,,,,,0,0,,0.0,22,W,3,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,seidel,Wolfgang Seidel,German,48,1961-spa,Belgian Grand Prix,,,,,,0,0,,0.0,23,W,3,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,burgess,Ian Burgess,British,50,1961-spa,Belgian Grand Prix,,,,,,0,0,,0.0,24,W,3,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,allison,Cliff Allison,British,16,1961-spa,Belgian Grand Prix,,,,,,0,0,,0.0,25,W,3,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,henry_taylor,Henry Taylor,British,16,1961-spa,Belgian Grand Prix,,,,,,0,0,,0.0,26,W,3,Withdrew,,1961
+Ferrari,ferrari,Italian,,baghetti,Giancarlo Baghetti,Italian,50,1961-reims,French Grand Prix,,,,,,12,52,8057500,9.0,1,1,4,Finished,2:14:17.500,1961
+Porsche,porsche,German,,gurney,Dan Gurney,American,12,1961-reims,French Grand Prix,,,,,,5,52,8057600,6.0,2,2,4,Finished,+0.100,1961
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,8,1961-reims,French Grand Prix,,,,,,9,52,8118500,4.0,3,3,4,Finished,+1:01.000,1961
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,6,1961-reims,French Grand Prix,,,,,,10,52,8127800,3.0,4,4,4,Finished,+1:10.300,1961
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,4,1961-reims,French Grand Prix,,,,,,8,52,8159300,2.0,5,5,4,Finished,+1:41.800,1961
+BRM,brm,British,,hill,Graham Hill,British,22,1961-reims,French Grand Prix,,,,,,6,52,8159400,1.0,6,6,4,Finished,+1:41.900,1961
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,10,1961-reims,French Grand Prix,,,,,,13,52,8252900,0.0,7,7,4,Finished,+3:15.400,1961
+Cooper-Climax,cooper-climax,British,,salvadori,Roy Salvadori,British,42,1961-reims,French Grand Prix,,,,,,15,51,,0.0,8,8,4,+1 Lap,,1961
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,16,1961-reims,French Grand Prix,,,,,,1,50,,0.0,9,9,4,+2 Laps,,1961
+Lotus-Climax,lotus-climax,British,,henry_taylor,Henry Taylor,British,30,1961-reims,French Grand Prix,,,,,,25,49,,0.0,10,10,4,+3 Laps,,1961
+Lotus-Climax,lotus-climax,British,,may,Michael May,Swiss,46,1961-reims,French Grand Prix,,,,,,22,48,,0.0,11,11,4,+4 Laps,,1961
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,36,1961-reims,French Grand Prix,,,,,,16,43,,0.0,12,12,4,+9 Laps,,1961
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,32,1961-reims,French Grand Prix,,,,,,23,42,,0.0,13,13,4,+10 Laps,,1961
+Lotus-Climax,lotus-climax,British,,burgess,Ian Burgess,British,38,1961-reims,French Grand Prix,,,,,,24,42,,0.0,14,14,4,+10 Laps,,1961
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,18,1961-reims,French Grand Prix,,,,,,3,40,,0.0,15,15,4,Oil pressure,,1961
+Lotus-Climax,lotus-climax,British,,moss,Stirling Moss,British,26,1961-reims,French Grand Prix,,,,,,4,31,,0.0,16,R,4,Brakes,,1961
+Lotus-Climax,lotus-climax,British,,mairesse,Willy Mairesse,Belgian,48,1961-reims,French Grand Prix,,,,,,20,27,,0.0,17,R,4,Engine,,1961
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,14,1961-reims,French Grand Prix,,,,,,17,23,,0.0,18,R,4,Overheating,,1961
+Lotus-Climax,lotus-climax,British,,bianchi,Lucien Bianchi,Belgian,28,1961-reims,French Grand Prix,,,,,,19,21,,0.0,19,R,4,Overheating,,1961
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,20,1961-reims,French Grand Prix,,,,,,2,18,,0.0,20,R,4,Engine,,1961
+De Tomaso-Osca,de_tomaso-osca,Italian,,scarlatti,Giorgio Scarlatti,Italian,34,1961-reims,French Grand Prix,,,,,,26,15,,0.0,21,R,4,Engine,,1961
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,2,1961-reims,French Grand Prix,,,,,,14,14,,0.0,22,R,4,Oil pressure,,1961
+Cooper-Climax,cooper-climax,British,,collomb,Bernard Collomb,French,52,1961-reims,French Grand Prix,,,,,,21,6,,0.0,23,R,4,Engine,,1961
+Cooper-Climax,cooper-climax,British,,surtees,John Surtees,British,40,1961-reims,French Grand Prix,,,,,,7,4,,0.0,24,R,4,Accident,,1961
+BRM,brm,British,,brooks,Tony Brooks,British,24,1961-reims,French Grand Prix,,,,,,11,4,,0.0,25,R,4,Overheating,,1961
+Cooper-Climax,cooper-climax,British,,lewis,Jackie Lewis,British,44,1961-reims,French Grand Prix,,,,,,18,4,,0.0,26,R,4,Overheating,,1961
+Lotus-Climax,lotus-climax,British,,seidel,Wolfgang Seidel,German,46,1961-reims,French Grand Prix,,,,,,0,0,,0.0,27,W,4,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,bordeu,Juan Manuel Bordeu,Argentine,None,1961-reims,French Grand Prix,,,,,,0,0,,0.0,28,W,4,Withdrew,,1961
+Porsche,porsche,German,,herrmann,Hans Herrmann,German,14,1961-reims,French Grand Prix,,,,,,0,0,,0.0,29,W,4,Withdrew,,1961
+Emeryson,emeryson,British,,gendebien,Olivier Gendebien,Belgian,46,1961-reims,French Grand Prix,,,,,,0,0,,0.0,30,W,4,Withdrew,,1961
+JBW,jbw,British,,naylor,Brian Naylor,British,54,1961-reims,French Grand Prix,,,,,,0,0,,0.0,31,W,4,Withdrew,,1961
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,4,1961-liverpool,British Grand Prix,,,,,,4,75,9653600,9.0,1,1,5,Finished,2:40:53.600,1961
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,2,1961-liverpool,British Grand Prix,,,,,,1,75,9699600,6.0,2,2,5,Finished,+46.000,1961
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,6,1961-liverpool,British Grand Prix,,,,,,2,75,9700400,4.0,3,3,5,Finished,+46.800,1961
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,12,1961-liverpool,British Grand Prix,,,,,,9,75,9722200,3.0,4,4,5,Finished,+1:08.600,1961
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,8,1961-liverpool,British Grand Prix,,,,,,3,75,9729800,2.0,5,5,5,Finished,+1:16.200,1961
+Cooper-Climax,cooper-climax,British,,salvadori,Roy Salvadori,British,36,1961-liverpool,British Grand Prix,,,,,,13,75,9739800,1.0,6,6,5,Finished,+1:26.200,1961
+Porsche,porsche,German,,gurney,Dan Gurney,American,10,1961-liverpool,British Grand Prix,,,,,,12,74,,0.0,7,7,5,+1 Lap,,1961
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,14,1961-liverpool,British Grand Prix,,,,,,14,74,,0.0,8,8,5,+1 Lap,,1961
+BRM,brm,British,,brooks,Tony Brooks,British,22,1961-liverpool,British Grand Prix,,,,,,6,73,,0.0,9,9,5,+2 Laps,,1961
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,16,1961-liverpool,British Grand Prix,,,,,,7,72,,0.0,10,10,5,+3 Laps,,1961
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,42,1961-liverpool,British Grand Prix,,,,,,16,71,,0.0,11,11,5,+4 Laps,,1961
+Cooper-Maserati,cooper-maserati,British,,bandini,Lorenzo Bandini,Italian,60,1961-liverpool,British Grand Prix,,,,,,21,71,,0.0,12,12,5,+4 Laps,,1961
+Lotus-Climax,lotus-climax,British,,maggs,Tony Maggs,South African,50,1961-liverpool,British Grand Prix,,,,,,24,69,,0.0,13,13,5,+6 Laps,,1961
+Lotus-Climax,lotus-climax,British,,burgess,Ian Burgess,British,44,1961-liverpool,British Grand Prix,,,,,,25,69,,0.0,14,14,5,+6 Laps,,1961
+Gilby,gilby,British,,greene,Keith Greene,British,54,1961-liverpool,British Grand Prix,,,,,,26,69,,0.0,15,15,5,+6 Laps,,1961
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,56,1961-liverpool,British Grand Prix,,,,,,18,69,,0.0,16,16,5,+6 Laps,,1961
+Lotus-Climax,lotus-climax,British,,seidel,Wolfgang Seidel,German,52,1961-liverpool,British Grand Prix,,,,,,22,58,,0.0,17,17,5,+17 Laps,,1961
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,18,1961-liverpool,British Grand Prix,,,,,,8,62,,0.0,18,R,5,Oil leak,,1961
+Ferguson,ferguson,British,,moss,Stirling Moss,British,26,1961-liverpool,British Grand Prix,,,,,,20,56,,0.0,19,D,5,Disqualified,,1961
+Ferguson,ferguson,British,,fairman,Jack Fairman,British,26,1961-liverpool,British Grand Prix,,,,,,20,56,,0.0,19,D,5,Disqualified,,1961
+Lotus-Climax,lotus-climax,British,,bianchi,Lucien Bianchi,Belgian,32,1961-liverpool,British Grand Prix,,,,,,30,45,,0.0,20,R,5,Gearbox,,1961
+Lotus-Climax,lotus-climax,British,,moss,Stirling Moss,British,28,1961-liverpool,British Grand Prix,,,,,,5,44,,0.0,21,R,5,Brakes,,1961
+BRM,brm,British,,hill,Graham Hill,British,20,1961-liverpool,British Grand Prix,,,,,,11,43,,0.0,22,R,5,Engine,,1961
+Ferrari,ferrari,Italian,,baghetti,Giancarlo Baghetti,Italian,58,1961-liverpool,British Grand Prix,,,,,,19,27,,0.0,23,R,5,Accident,,1961
+Lotus-Climax,lotus-climax,British,,marsh,Tony Marsh,British,48,1961-liverpool,British Grand Prix,,,,,,27,25,,0.0,24,R,5,Ignition,,1961
+Cooper-Climax,cooper-climax,British,,surtees,John Surtees,British,34,1961-liverpool,British Grand Prix,,,,,,10,23,,0.0,25,R,5,Differential,,1961
+Lotus-Climax,lotus-climax,British,,parnell,Tim Parnell,British,38,1961-liverpool,British Grand Prix,,,,,,29,12,,0.0,26,R,5,Clutch,,1961
+Cooper-Climax,cooper-climax,British,,lewis,Jackie Lewis,British,46,1961-liverpool,British Grand Prix,,,,,,15,7,,0.0,27,R,5,Handling,,1961
+Lotus-Climax,lotus-climax,British,,ashmore,Gerry Ashmore,British,40,1961-liverpool,British Grand Prix,,,,,,26,7,,0.0,28,R,5,Ignition,,1961
+Lotus-Climax,lotus-climax,British,,henry_taylor,Henry Taylor,British,30,1961-liverpool,British Grand Prix,,,,,,17,5,,0.0,29,R,5,Accident,,1961
+Cooper-Maserati,cooper-maserati,British,,natili,Massimo Natili,Italian,62,1961-liverpool,British Grand Prix,,,,,,28,0,,0.0,30,R,5,Gearbox,,1961
+Emeryson,emeryson,British,,gendebien,Olivier Gendebien,Belgian,24,1961-liverpool,British Grand Prix,,,,,,0,0,,0.0,31,W,5,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,moss,Stirling Moss,British,7,1961-n-rburg,German Grand Prix,,,,,,3,15,8292400,9.0,1,1,6,Finished,2:18:12.400,1961
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,3,1961-n-rburg,German Grand Prix,,,,,,5,15,8313799,6.0,2,2,6,Finished,+21.400,1961
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,4,1961-n-rburg,German Grand Prix,,,,,,1,15,8314900,4.0,3,3,6,Finished,+22.500,1961
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,14,1961-n-rburg,German Grand Prix,,,,,,8,15,8369500,3.0,4,4,6,Finished,+1:17.100,1961
+Cooper-Climax,cooper-climax,British,,surtees,John Surtees,British,18,1961-n-rburg,German Grand Prix,,,,,,10,15,8405500,2.0,5,5,6,Finished,+1:53.100,1961
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,2,1961-n-rburg,German Grand Prix,,,,,,12,15,8453800,1.0,6,6,6,Finished,+2:41.400,1961
+Porsche,porsche,German,,gurney,Dan Gurney,American,9,1961-n-rburg,German Grand Prix,,,,,,7,15,8495500,0.0,7,7,6,Finished,+3:23.100,1961
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,5,1961-n-rburg,German Grand Prix,,,,,,14,15,8615500,0.0,8,8,6,Finished,+5:23.100,1961
+Cooper-Climax,cooper-climax,British,,lewis,Jackie Lewis,British,28,1961-n-rburg,German Grand Prix,,,,,,18,15,8616100,0.0,9,9,6,Finished,+5:23.700,1961
+Cooper-Climax,cooper-climax,British,,salvadori,Roy Salvadori,British,19,1961-n-rburg,German Grand Prix,,,,,,15,15,9023900,0.0,10,10,6,Finished,+12:11.500,1961
+Lotus-Climax,lotus-climax,British,,maggs,Tony Maggs,South African,33,1961-n-rburg,German Grand Prix,,,,,,22,14,,0.0,11,11,6,+1 Lap,,1961
+Cooper-Climax,cooper-climax,British,,burgess,Ian Burgess,British,30,1961-n-rburg,German Grand Prix,,,,,,24,14,,0.0,12,12,6,+1 Lap,,1961
+Porsche,porsche,German,,herrmann,Hans Herrmann,German,11,1961-n-rburg,German Grand Prix,,,,,,11,14,,0.0,13,13,6,+1 Lap,,1961
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,31,1961-n-rburg,German Grand Prix,,,,,,17,14,,0.0,14,14,6,+1 Lap,,1961
+Lotus-Climax,lotus-climax,British,,marsh,Tony Marsh,British,37,1961-n-rburg,German Grand Prix,,,,,,20,13,,0.0,15,15,6,+2 Laps,,1961
+Lotus-Climax,lotus-climax,British,,ashmore,Gerry Ashmore,British,27,1961-n-rburg,German Grand Prix,,,,,,25,13,,0.0,16,16,6,+2 Laps,,1961
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,6,1961-n-rburg,German Grand Prix,,,,,,13,13,,0.0,17,R,6,Accident,,1961
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,20,1961-n-rburg,German Grand Prix,,,,,,21,12,,0.0,18,R,6,Engine,,1961
+Cooper-Climax,cooper-climax,British,,collomb,Bernard Collomb,French,38,1961-n-rburg,German Grand Prix,,,,,,26,11,,0.0,19,R,6,Not classified,,1961
+Cooper-Maserati,cooper-maserati,British,,bandini,Lorenzo Bandini,Italian,32,1961-n-rburg,German Grand Prix,,,,,,19,10,,0.0,20,R,6,Engine,,1961
+BRM,brm,British,,brooks,Tony Brooks,British,16,1961-n-rburg,German Grand Prix,,,,,,9,6,,0.0,21,R,6,Engine,,1961
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,8,1961-n-rburg,German Grand Prix,,,,,,4,5,,0.0,22,R,6,Engine,,1961
+Lotus-Climax,lotus-climax,British,,seidel,Wolfgang Seidel,German,26,1961-n-rburg,German Grand Prix,,,,,,23,3,,0.0,23,R,6,Handling,,1961
+BRM,brm,British,,hill,Graham Hill,British,17,1961-n-rburg,German Grand Prix,,,,,,16,1,,0.0,24,R,6,Accident,,1961
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,15,1961-n-rburg,German Grand Prix,,,,,,6,1,,0.0,25,R,6,Heat shield fire,,1961
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,1,1961-n-rburg,German Grand Prix,,,,,,2,0,,0.0,26,R,6,Accident,,1961
+Porsche,porsche,German,,barth,Edgar Barth,German,10,1961-n-rburg,German Grand Prix,,,,,,0,0,,0.0,27,W,6,Withdrew,,1961
+Cooper-Climax,cooper-climax,British,,gregory,Masten Gregory,American,12,1961-n-rburg,German Grand Prix,,,,,,0,0,,0.0,28,W,6,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,may,Michael May,Swiss,25,1961-n-rburg,German Grand Prix,,,,,,0,0,,0.0,29,W,6,Withdrew,,1961
+MBM,mbm,Swiss,,monteverdi,Peter Monteverdi,Swiss,29,1961-n-rburg,German Grand Prix,,,,,,0,0,,0.0,30,W,6,Withdrew,,1961
+Cooper-Climax,cooper-climax,British,,pirocchi,Renato Pirocchi,Italian,34,1961-n-rburg,German Grand Prix,,,,,,0,0,,0.0,31,W,6,Withdrew,,1961
+Cooper-Climax,cooper-climax,British,,duke,Geoff Duke,British,35,1961-n-rburg,German Grand Prix,,,,,,0,0,,0.0,32,W,6,Withdrew,,1961
+Cooper-Climax,cooper-climax,British,,campbell-jones,John Campbell-Jones,British,39,1961-n-rburg,German Grand Prix,,,,,,0,0,,0.0,33,W,6,Withdrew,,1961
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,2,1961-monza,Italian Grand Prix,,,,,,4,43,7393000,9.0,1,1,7,Finished,2:03,1961
+Porsche,porsche,German,,gurney,Dan Gurney,American,46,1961-monza,Italian Grand Prix,,,,,,12,43,7424200,6.0,2,2,7,Finished,+31.200,1961
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,12,1961-monza,Italian Grand Prix,,,,,,14,43,7541400,4.0,3,3,7,Finished,+2:28.400,1961
+Cooper-Climax,cooper-climax,British,,lewis,Jackie Lewis,British,60,1961-monza,Italian Grand Prix,,,,,,16,43,7553400,3.0,4,4,7,Finished,+2:40.400,1961
+BRM,brm,British,,brooks,Tony Brooks,British,26,1961-monza,Italian Grand Prix,,,,,,13,43,7553500,2.0,5,5,7,Finished,+2:40.500,1961
+Cooper-Climax,cooper-climax,British,,salvadori,Roy Salvadori,British,40,1961-monza,Italian Grand Prix,,,,,,18,42,,1.0,6,6,7,+1 Lap,,1961
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,74,1961-monza,Italian Grand Prix,,,,,,15,41,,0.0,7,7,7,+2 Laps,,1961
+Cooper-Maserati,cooper-maserati,British,,bandini,Lorenzo Bandini,Italian,62,1961-monza,Italian Grand Prix,,,,,,21,41,,0.0,8,8,7,+2 Laps,,1961
+Cooper-Maserati,cooper-maserati,British,,trintignant,Maurice Trintignant,French,48,1961-monza,Italian Grand Prix,,,,,,22,41,,0.0,9,9,7,+2 Laps,,1961
+Lotus-Climax,lotus-climax,British,,parnell,Tim Parnell,British,16,1961-monza,Italian Grand Prix,,,,,,27,40,,0.0,10,10,7,+3 Laps,,1961
+Lotus-Climax,lotus-climax,British,,henry_taylor,Henry Taylor,British,20,1961-monza,Italian Grand Prix,,,,,,23,39,,0.0,11,11,7,+4 Laps,,1961
+Cooper-Maserati,cooper-maserati,British,,pirocchi,Renato Pirocchi,Italian,58,1961-monza,Italian Grand Prix,,,,,,29,38,,0.0,12,12,7,+5 Laps,,1961
+Lotus-Climax,lotus-climax,British,,moss,Stirling Moss,British,28,1961-monza,Italian Grand Prix,,,,,,11,36,,0.0,13,R,7,Wheel bearing,,1961
+Ferrari,ferrari,Italian,,ginther,Richie Ginther,American,6,1961-monza,Italian Grand Prix,,,,,,3,23,,0.0,14,R,7,Engine,,1961
+Lotus-Maserati,lotus-maserati,British,,starrabba,Gaetano Starrabba,Italian,72,1961-monza,Italian Grand Prix,,,,,,30,19,,0.0,15,R,7,Engine,,1961
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,44,1961-monza,Italian Grand Prix,,,,,,8,14,,0.0,16,R,7,Suspension,,1961
+Ferrari,ferrari,Italian,,ricardo_rodriguez,Ricardo Rodríguez,Mexican,8,1961-monza,Italian Grand Prix,,,,,,2,13,,0.0,17,R,7,Fuel system,,1961
+Ferrari,ferrari,Italian,,baghetti,Giancarlo Baghetti,Italian,32,1961-monza,Italian Grand Prix,,,,,,6,13,,0.0,18,R,7,Engine,,1961
+De Tomaso-Alfa Romeo,de_tomaso-alfa_romeo,Italian,,vaccarella,Nino Vaccarella,Italian,50,1961-monza,Italian Grand Prix,,,,,,20,13,,0.0,19,R,7,Engine,,1961
+Lotus-Climax,lotus-climax,British,,gregory,Masten Gregory,American,22,1961-monza,Italian Grand Prix,,,,,,17,11,,0.0,20,R,7,Suspension,,1961
+BRM,brm,British,,hill,Graham Hill,British,24,1961-monza,Italian Grand Prix,,,,,,5,10,,0.0,21,R,7,Engine,,1961
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,10,1961-monza,Italian Grand Prix,,,,,,10,8,,0.0,22,R,7,Overheating,,1961
+JBW,jbw,British,,naylor,Brian Naylor,British,14,1961-monza,Italian Grand Prix,,,,,,31,6,,0.0,23,R,7,Engine,,1961
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,38,1961-monza,Italian Grand Prix,,,,,,9,5,,0.0,24,R,7,Chassis,,1961
+Cooper-Climax,cooper-climax,British,,fairman,Jack Fairman,British,30,1961-monza,Italian Grand Prix,,,,,,26,5,,0.0,25,R,7,Engine,,1961
+Cooper-Climax,cooper-climax,British,,surtees,John Surtees,British,42,1961-monza,Italian Grand Prix,,,,,,19,2,,0.0,26,R,7,Accident,,1961
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,4,1961-monza,Italian Grand Prix,,,,,,1,1,,0.0,27,R,7,Accident,,1961
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,36,1961-monza,Italian Grand Prix,,,,,,7,1,,0.0,28,R,7,Accident,,1961
+De Tomaso-Alfa Romeo,de_tomaso-alfa_romeo,Italian,,bussinello,Roberto Bussinello,Italian,54,1961-monza,Italian Grand Prix,,,,,,24,1,,0.0,29,R,7,Engine,,1961
+Lotus-Climax,lotus-climax,British,,seidel,Wolfgang Seidel,German,56,1961-monza,Italian Grand Prix,,,,,,28,1,,0.0,30,R,7,Engine,,1961
+De Tomaso-Osca,de_tomaso-osca,Italian,,lippi,Roberto Lippi,Italian,52,1961-monza,Italian Grand Prix,,,,,,32,1,,0.0,31,R,7,Engine,,1961
+Lotus-Climax,lotus-climax,British,,ashmore,Gerry Ashmore,British,18,1961-monza,Italian Grand Prix,,,,,,25,0,,0.0,32,R,7,Accident,,1961
+Porsche,porsche,German,,barth,Edgar Barth,German,46,1961-monza,Italian Grand Prix,,,,,,0,0,,0.0,34,W,7,Withdrew,,1961
+Cooper-Maserati,cooper-maserati,British,,natili,Massimo Natili,Italian,58,1961-monza,Italian Grand Prix,,,,,,0,0,,0.0,35,W,7,Withdrew,,1961
+Cooper-Climax,cooper-climax,British,,thiele,Alfonso Thiele,Italian,34,1961-monza,Italian Grand Prix,,,,,,0,0,,0.0,36,W,7,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,prinoth,Ernesto Prinoth,Italian,64,1961-monza,Italian Grand Prix,,,,,,0,0,,0.0,37,W,7,Withdrew,,1961
+Cooper-Climax,cooper-climax,British,,boffa,Menato Boffa,Italian,66,1961-monza,Italian Grand Prix,,,,,,0,0,,0.0,38,W,7,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,may,Michael May,Swiss,70,1961-monza,Italian Grand Prix,,,,,,0,0,,0.0,39,W,7,Withdrew,,1961
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,15,1961-new-york-state,United States Grand Prix,,,,,,8,100,8025800,9.0,1,1,8,Finished,2:13:45.800,1961
+Porsche,porsche,German,,gurney,Dan Gurney,American,12,1961-new-york-state,United States Grand Prix,,,,,,7,100,8030100,6.0,2,2,8,Finished,+4.300,1961
+BRM,brm,British,,brooks,Tony Brooks,British,5,1961-new-york-state,United States Grand Prix,,,,,,5,100,8074800,4.0,3,3,8,Finished,+49.000,1961
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,2,1961-new-york-state,United States Grand Prix,,,,,,4,100,8083800,3.0,4,4,8,Finished,+58.000,1961
+BRM,brm,British,,hill,Graham Hill,British,4,1961-new-york-state,United States Grand Prix,,,,,,2,99,,2.0,5,5,8,+1 Lap,,1961
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,11,1961-new-york-state,United States Grand Prix,,,,,,10,98,,1.0,6,6,8,+2 Laps,,1961
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,14,1961-new-york-state,United States Grand Prix,,,,,,6,96,,0.0,7,7,8,+4 Laps,,1961
+Cooper-Climax,cooper-climax,British,,penske,Roger Penske,American,6,1961-new-york-state,United States Grand Prix,,,,,,16,96,,0.0,8,8,8,+4 Laps,,1961
+Lotus-Climax,lotus-climax,British,,ryan,Peter Ryan,Canadian,16,1961-new-york-state,United States Grand Prix,,,,,,13,96,,0.0,9,9,8,+4 Laps,,1961
+Cooper-Climax,cooper-climax,British,,sharp,Hap Sharp,American,3,1961-new-york-state,United States Grand Prix,,,,,,17,93,,0.0,10,10,8,+7 Laps,,1961
+Lotus-Climax,lotus-climax,British,,gregory,Masten Gregory,American,21,1961-new-york-state,United States Grand Prix,,,,,,15,92,,0.0,11,11,8,+8 Laps,,1961
+Lotus-Climax,lotus-climax,British,,gendebien,Olivier Gendebien,Belgian,21,1961-new-york-state,United States Grand Prix,,,,,,15,92,,0.0,11,11,8,+8 Laps,,1961
+Cooper-Climax,cooper-climax,British,,salvadori,Roy Salvadori,British,19,1961-new-york-state,United States Grand Prix,,,,,,12,96,,0.0,12,R,8,Engine,,1961
+Lotus-Climax,lotus-climax,British,,hall,Jim Hall,American,17,1961-new-york-state,United States Grand Prix,,,,,,18,76,,0.0,13,R,8,Fuel leak,,1961
+Lotus-Climax,lotus-climax,British,,ruby,Lloyd Ruby,American,26,1961-new-york-state,United States Grand Prix,,,,,,19,76,,0.0,14,R,8,Magneto,,1961
+Lotus-Climax,lotus-climax,British,,moss,Stirling Moss,British,7,1961-new-york-state,United States Grand Prix,,,,,,3,58,,0.0,15,R,8,Engine,,1961
+Cooper-Climax,cooper-climax,British,,jack_brabham,Jack Brabham,Australian,1,1961-new-york-state,United States Grand Prix,,,,,,1,57,,0.0,16,R,8,Overheating,,1961
+Lotus-Climax,lotus-climax,British,,gregory,Masten Gregory,American,22,1961-new-york-state,United States Grand Prix,,,,,,11,23,,0.0,17,R,8,Gearbox,,1961
+Cooper-Climax,cooper-climax,British,,hansgen,Walt Hansgen,American,60,1961-new-york-state,United States Grand Prix,,,,,,14,14,,0.0,18,R,8,Accident,,1961
+Cooper-Climax,cooper-climax,British,,surtees,John Surtees,British,18,1961-new-york-state,United States Grand Prix,,,,,,9,0,,0.0,19,R,8,Engine,,1961
+Lotus-Climax,lotus-climax,British,,ken_miles,Ken Miles,British,23,1961-new-york-state,United States Grand Prix,,,,,,0,0,,0.0,20,W,8,Withdrew,,1961

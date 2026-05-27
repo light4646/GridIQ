@@ -1,0 +1,77 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""maserati""]","[""Maserati""]",,fangio,Juan Fangio,Argentine,,40.0,1,1,4,1957
+"[""maserati"", ""vanwall""]","[""Maserati"", ""Vanwall""]",,moss,Stirling Moss,British,,25.0,2,2,3,1957
+"[""ferrari""]","[""Ferrari""]",,musso,Luigi Musso,Italian,,16.0,3,3,0,1957
+"[""ferrari""]","[""Ferrari""]",,hawthorn,Mike Hawthorn,British,,13.0,4,4,0,1957
+"[""vanwall""]","[""Vanwall""]",,brooks,Tony Brooks,British,,11.0,5,5,1,1957
+"[""maserati""]","[""Maserati""]",,gregory,Masten Gregory,American,,10.0,6,6,0,1957
+"[""maserati""]","[""Maserati""]",,schell,Harry Schell,American,,10.0,7,7,0,1957
+"[""epperly""]","[""Epperly""]",,hanks,Sam Hanks,American,,8.0,8,8,1,1957
+"[""ferrari""]","[""Ferrari""]",,collins,Peter Collins,British,,8.0,9,9,0,1957
+"[""epperly""]","[""Epperly""]",,rathmann,Jim Rathmann,American,,7.0,10,10,0,1957
+"[""maserati""]","[""Maserati""]",,behra,Jean Behra,French,,6.0,11,11,0,1957
+"[""connaught"", ""vanwall""]","[""Connaught"", ""Vanwall""]",,lewis-evans,Stuart Lewis-Evans,British,,5.0,12,12,0,1957
+"[""ferrari""]","[""Ferrari""]",,trintignant,Maurice Trintignant,French,,5.0,13,13,0,1957
+"[""ferrari""]","[""Ferrari""]",,trips,Wolfgang von Trips,German,,4.0,14,14,0,1957
+"[""maserati""]","[""Maserati""]",,menditeguy,Carlos Menditeguy,Argentine,,4.0,15,15,0,1957
+"[""kuzma""]","[""Kuzma""]",,bryan,Jimmy Bryan,American,,4.0,16,16,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,paul_russo,Paul Russo,American,,3.0,17,17,0,1957
+"[""brm"", ""vanwall"", ""cooper""]","[""BRM"", ""Vanwall"", ""Cooper""]",,salvadori,Roy Salvadori,British,,2.0,18,18,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,linden,Andy Linden,American,,2.0,19,19,0,1957
+"[""maserati""]","[""Maserati""]",,scarlatti,Giorgio Scarlatti,Italian,,1.0,20,20,0,1957
+"[""ferrari""]","[""Ferrari""]",,gonzalez,José Froilán González,Argentine,,1.0,21,21,0,1957
+"[""ferrari""]","[""Ferrari""]",,portago,Alfonso de Portago,Spanish,,1.0,22,22,0,1957
+"[""cooper""]","[""Cooper""]",,jack_brabham,Jack Brabham,Australian,,0.0,,-,0,1957
+"[""ferrari""]","[""Ferrari""]",,perdisa,Cesare Perdisa,Italian,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,boyd,Johnny Boyd,American,,0.0,,-,0,1957
+"[""cooper""]","[""Cooper""]",,gerard,Bob Gerard,British,,0.0,,-,0,1957
+"[""maserati""]","[""Maserati""]",,bonnier,Jo Bonnier,Swedish,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,teague,Marshall Teague,American,,0.0,,-,0,1957
+"[""cooper""]","[""Cooper""]",,macdowel,Mike MacDowel,British,,0.0,,-,0,1957
+"[""connaught"", ""maserati""]","[""Connaught"", ""Maserati""]",,bueb,Ivor Bueb,British,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,connor,Pat O'Connor,American,,0.0,,-,0,1957
+"[""maserati""]","[""Maserati""]",,godia,Paco Godia,Spanish,,0.0,,-,0,1957
+"[""ferrari""]","[""Ferrari""]",,tomaso,Alessandro de Tomaso,Argentine,,0.0,,-,0,1957
+"[""phillips""]","[""Phillips""]",,veith,Bob Veith,American,,0.0,,-,0,1957
+"[""maserati""]","[""Maserati""]",,gould,Horace Gould,British,,0.0,,-,0,1957
+"[""maserati""]","[""Maserati""]",,piotti,Luigi Piotti,Italian,,0.0,,-,0,1957
+"[""lesovsky""]","[""Lesovsky""]",,hartley,Gene Hartley,American,,0.0,,-,0,1957
+"[""maserati""]","[""Maserati""]",,halford,Bruce Halford,British,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,turner,Jack Turner,American,,0.0,,-,0,1957
+"[""maserati""]","[""Maserati""]",,simon,André Simon,French,,0.0,,-,0,1957
+"[""maserati""]","[""Maserati""]",,volonterio,Ottorino Volonterio,Swiss,,0.0,,-,0,1957
+"[""kuzma""]","[""Kuzma""]",,thomson,Johnny Thomson,American,,0.0,,-,0,1957
+"[""porsche""]","[""Porsche""]",,barth,Edgar Barth,German,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,christie,Bob Christie,American,,0.0,,-,0,1957
+"[""cooper""]","[""Cooper""]",,naylor,Brian Naylor,British,,0.0,,-,0,1957
+"[""kuzma""]","[""Kuzma""]",,weyant,Chuck Weyant,American,,0.0,,-,0,1957
+"[""porsche""]","[""Porsche""]",,beaufort,Carel Godin de Beaufort,Dutch,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,bettenhausen,Tony Bettenhausen,American,,0.0,,-,0,1957
+"[""cooper""]","[""Cooper""]",,marsh,Tony Marsh,British,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,parsons,Johnnie Parsons,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,freeland,Don Freeland,American,,0.0,,-,0,1957
+"[""brm""]","[""BRM""]",,flockhart,Ron Flockhart,British,,0.0,,-,0,1957
+"[""ferrari""]","[""Ferrari""]",,castellotti,Eugenio Castellotti,Italian,,0.0,,-,0,1957
+"[""brm""]","[""BRM""]",,mackay-fraser,Herbert MacKay-Fraser,American,,0.0,,-,0,1957
+"[""brm""]","[""BRM""]",,fairman,Jack Fairman,British,,0.0,,-,0,1957
+"[""cooper"", ""brm""]","[""Cooper"", ""BRM""]",,leston,Les Leston,British,,0.0,,-,0,1957
+"[""maserati""]","[""Maserati""]",,herrmann,Hans Herrmann,German,,0.0,,-,0,1957
+"[""porsche""]","[""Porsche""]",,maglioli,Umberto Maglioli,Italian,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,reece,Jimmy Reece,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,edmunds,Don Edmunds,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,tolan,Johnnie Tolan,American,,0.0,,-,0,1957
+"[""dunn""]","[""Dunn""]",,herman,Al Herman,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,agabashian,Fred Agabashian,American,,0.0,,-,0,1957
+"[""cooper""]","[""Cooper""]",,england,Paul England,Australian,,0.0,,-,0,1957
+"[""kuzma""]","[""Kuzma""]",,sachs,Eddie Sachs,American,,0.0,,-,0,1957
+"[""cooper""]","[""Cooper""]",,gibson,Dick Gibson,British,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,magill,Mike Magill,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,johnson,Eddie Johnson,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,cheesbourg,Bill Cheesbourg,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,keller,Al Keller,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,daywalt,Jimmy Daywalt,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,elisian,Ed Elisian,American,,0.0,,-,0,1957
+"[""lesovsky""]","[""Lesovsky""]",,ward,Rodger Ward,American,,0.0,,-,0,1957
+"[""watson""]","[""Watson""]",,ruttman,Troy Ruttman,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,russo,Eddie Russo,American,,0.0,,-,0,1957
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,george,Elmer George,American,,0.0,,-,0,1957
