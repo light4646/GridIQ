@@ -238,7 +238,7 @@ export default function DriversPage() {
         <section className="hero compactHero">
           <div>
             <div className="eyebrow">GridIQ historical driver database</div>
-            <h1>F1 drivers from 2000 to 2026.</h1>
+            <h1>F1 drivers from 1950 to 2026.</h1>
             <p>
               Browse driver wins, podiums, points, poles, starts, active seasons,
               teams, and best championship finishes from the loaded historical database.
@@ -278,7 +278,7 @@ export default function DriversPage() {
                 the full historical profile.
               </p>
             </div>
-            <div className="pill">2000–2026</div>
+            <div className="pill">1950–2026</div>
           </div>
 
           <table>
@@ -323,7 +323,7 @@ export default function DriversPage() {
 
         <div className="footer">
           Historical driver data is calculated from GridIQ race results, qualifying
-          results, and season standings from 2000 through 2026. Select a driver name
+          results, and season standings from 1950 through 2026. Select a driver name
           to open the full historical profile.
         </div>
       </div>

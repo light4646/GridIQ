@@ -166,7 +166,7 @@ export default function ConstructorsPage() {
         <section className="hero compactHero">
           <div>
             <div className="eyebrow">GridIQ historical constructor database</div>
-            <h1>F1 constructors from 2000 to 2026.</h1>
+            <h1>F1 constructors from 1950 to 2026.</h1>
             <p>
               Browse constructor championships, wins, podiums, points, starts, active
               seasons, drivers, and best championship finishes from the historical database.
@@ -203,10 +203,10 @@ export default function ConstructorsPage() {
               <h2>Constructor index</h2>
               <p>
                 Sorted by championships, then wins, podiums, and points from the loaded
-                2000–2026 historical results.
+                1950–2026 historical results.
               </p>
             </div>
-            <div className="pill">2000–2026</div>
+            <div className="pill">1950–2026</div>
           </div>
 
           <table>
@@ -245,7 +245,7 @@ export default function ConstructorsPage() {
 
         <div className="footer">
           Historical constructor data is calculated from GridIQ race results and
-          constructor standings from 2000 through 2026.
+          constructor standings from 1950 through 2026.
         </div>
       </div>
     </main>

@@ -327,7 +327,7 @@ export default async function ComparePage({ searchParams }: Props) {
             <h1>Compare F1 driver careers.</h1>
             <p>
               Pick two drivers and compare wins, podiums, poles, points, starts,
-              seasons active, best championship finish, and teams from 2000 to 2026.
+              seasons active, best championship finish, and teams from 1950 to 2026.
             </p>
           </div>
           <div className="heroActions">
@@ -342,7 +342,7 @@ export default async function ComparePage({ searchParams }: Props) {
               <h2>Choose drivers</h2>
               <p>Change the dropdowns and submit to generate a new historical comparison.</p>
             </div>
-            <div className="pill">2000–2026</div>
+            <div className="pill">1950–2026</div>
           </div>
 
           <form className="comparePicker" action="/compare">
@@ -479,7 +479,7 @@ export default async function ComparePage({ searchParams }: Props) {
 
         <div className="footer">
           Historical driver comparisons are calculated from GridIQ race results,
-          qualifying results, and season standings from 2000 through 2026.
+          qualifying results, and season standings from 1950 through 2026.
         </div>
       </div>
     </main>

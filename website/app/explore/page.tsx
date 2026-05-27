@@ -18,12 +18,12 @@ const researchLinks = [
   {
     href: "/seasons",
     title: "Season database",
-    description: "Browse every loaded F1 season from 2000 to 2026 with calendars, winners, and standings.",
+    description: "Browse every loaded F1 season from 1950 to 2026 with calendars, winners, and standings.",
   },
   {
     href: "/records",
     title: "Records hub",
-    description: "Compare driver wins, podiums, points, poles, and constructor totals across the modern database.",
+    description: "Compare driver wins, podiums, points, poles, and constructor totals across all seasons from 1950 to 2026.",
   },
   {
     href: "/drivers",
@@ -33,7 +33,7 @@ const researchLinks = [
   {
     href: "/constructors",
     title: "Constructor database",
-    description: "Review constructor titles, wins, podiums, points, seasons, and drivers from 2000 to 2026.",
+    description: "Review constructor titles, wins, podiums, points, seasons, and drivers from 1950 to 2026.",
   },
   {
     href: "/compare?driverA=lewis-hamilton&driverB=max-verstappen",
@@ -207,9 +207,9 @@ export default function ExplorePage() {
                 <td>Shows driver champion, constructor champion, calendar, winners, and standings.</td>
               </tr>
               <tr>
-                <td>Which driver has the most wins since 2000?</td>
+                <td>Which driver has the most F1 wins?</td>
                 <td><Link className="tableLink" href="/records">Records</Link></td>
-                <td>Aggregates wins, podiums, poles, and points across loaded seasons.</td>
+                <td>Aggregates wins, podiums, poles, and points across all 77 loaded seasons.</td>
               </tr>
               <tr>
                 <td>How does one driver compare to another?</td>
@@ -222,9 +222,9 @@ export default function ExplorePage() {
                 <td>Driver profiles show teams, active years, season rows, and race wins.</td>
               </tr>
               <tr>
-                <td>Which constructor was strongest since 2000?</td>
+                <td>Which constructor has the most F1 titles?</td>
                 <td><Link className="tableLink" href="/constructors">Constructors</Link></td>
-                <td>Ranks teams by titles, wins, podiums, starts, points, and active seasons.</td>
+                <td>Ranks teams by titles, wins, podiums, starts, points, and active seasons from 1950.</td>
               </tr>
               <tr>
                 <td>What happened inside a specific race?</td>

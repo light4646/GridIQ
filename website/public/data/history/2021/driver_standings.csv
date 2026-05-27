@@ -1,22 +1,22 @@
-driver,driver_name,teams,points,wins,podiums,starts,dnfs,position
-VER,Max Verstappen,['Red Bull Racing'],388.5,10,18,22,3,1
-HAM,Lewis Hamilton,['Mercedes'],385.5,8,17,22,1,2
-BOT,Valtteri Bottas,['Mercedes'],219.0,1,11,22,4,3
-PER,Sergio Perez,['Red Bull Racing'],190.0,1,5,22,3,4
-SAI,Carlos Sainz,['Ferrari'],163.5,0,4,22,0,5
-NOR,Lando Norris,['McLaren'],160.0,0,4,22,1,6
-LEC,Charles Leclerc,['Ferrari'],159.0,0,1,22,2,7
-RIC,Daniel Ricciardo,['McLaren'],114.0,1,1,22,1,8
-GAS,Pierre Gasly,['AlphaTauri'],110.0,0,1,22,4,9
-ALO,Fernando Alonso,['Alpine'],81.0,0,1,22,2,10
-OCO,Esteban Ocon,['Alpine'],74.0,1,1,22,3,11
-VET,Sebastian Vettel,['Aston Martin'],43.0,0,1,22,5,12
-STR,Lance Stroll,['Aston Martin'],34.0,0,0,22,3,13
-TSU,Yuki Tsunoda,['AlphaTauri'],32.0,0,0,22,4,14
-RUS,George Russell,['Williams'],16.0,0,1,22,6,15
-RAI,Kimi Räikkönen,['Alfa Romeo Racing'],10.0,0,0,20,2,16
-LAT,Nicholas Latifi,['Williams'],7.0,0,0,22,5,17
-GIO,Antonio Giovinazzi,['Alfa Romeo Racing'],3.0,0,0,22,1,18
-KUB,Robert Kubica,['Alfa Romeo Racing'],0.0,0,0,2,0,19
-MAZ,Nikita Mazepin,['Haas F1 Team'],0.0,0,0,22,6,20
-MSC,Mick Schumacher,['Haas F1 Team'],0.0,0,0,22,3,21
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""red_bull""]","[""Red Bull""]",VER,max_verstappen,Max Verstappen,Dutch,3,395.5,1,1,10,2021
+"[""mercedes""]","[""Mercedes""]",HAM,hamilton,Lewis Hamilton,British,44,387.5,2,2,8,2021
+"[""mercedes""]","[""Mercedes""]",BOT,bottas,Valtteri Bottas,Finnish,77,226.0,3,3,1,2021
+"[""red_bull""]","[""Red Bull""]",PER,perez,Sergio Pérez,Mexican,11,190.0,4,4,1,2021
+"[""ferrari""]","[""Ferrari""]",SAI,sainz,Carlos Sainz,Spanish,55,164.5,5,5,0,2021
+"[""mclaren""]","[""McLaren""]",NOR,norris,Lando Norris,British,1,160.0,6,6,0,2021
+"[""ferrari""]","[""Ferrari""]",LEC,leclerc,Charles Leclerc,Monegasque,16,159.0,7,7,0,2021
+"[""mclaren""]","[""McLaren""]",RIC,ricciardo,Daniel Ricciardo,Australian,3,115.0,8,8,1,2021
+"[""alphatauri""]","[""AlphaTauri""]",GAS,gasly,Pierre Gasly,French,10,110.0,9,9,0,2021
+"[""alpine""]","[""Alpine F1 Team""]",ALO,alonso,Fernando Alonso,Spanish,14,81.0,10,10,0,2021
+"[""alpine""]","[""Alpine F1 Team""]",OCO,ocon,Esteban Ocon,French,31,74.0,11,11,1,2021
+"[""aston_martin""]","[""Aston Martin""]",VET,vettel,Sebastian Vettel,German,5,43.0,12,12,0,2021
+"[""aston_martin""]","[""Aston Martin""]",STR,stroll,Lance Stroll,Canadian,18,34.0,13,13,0,2021
+"[""alphatauri""]","[""AlphaTauri""]",TSU,tsunoda,Yuki Tsunoda,Japanese,22,32.0,14,14,0,2021
+"[""williams""]","[""Williams""]",RUS,russell,George Russell,British,63,16.0,15,15,0,2021
+"[""alfa""]","[""Alfa Romeo""]",RAI,raikkonen,Kimi Räikkönen,Finnish,7,10.0,16,16,0,2021
+"[""williams""]","[""Williams""]",LAT,latifi,Nicholas Latifi,Canadian,6,7.0,17,17,0,2021
+"[""alfa""]","[""Alfa Romeo""]",GIO,giovinazzi,Antonio Giovinazzi,Italian,99,3.0,18,18,0,2021
+"[""haas""]","[""Haas F1 Team""]",MSC,mick_schumacher,Mick Schumacher,German,47,0.0,19,19,0,2021
+"[""alfa""]","[""Alfa Romeo""]",KUB,kubica,Robert Kubica,Polish,88,0.0,20,20,0,2021
+"[""haas""]","[""Haas F1 Team""]",MAZ,mazepin,Nikita Mazepin,Russian,9,0.0,21,21,0,2021

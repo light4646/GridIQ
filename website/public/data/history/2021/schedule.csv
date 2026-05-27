@@ -1,23 +1,23 @@
-year,round,event_name,official_event_name,country,location,circuit_key,circuit_short_name,event_format,event_date,event_slug,event_id
-2021,1,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Bahrain,Sakhir,,,conventional,2021-03-28T00:00:00,sakhir,2021-sakhir
-2021,2,Emilia Romagna Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA 2021,Italy,Imola,,,conventional,2021-04-18T00:00:00,imola,2021-imola
-2021,3,Portuguese Grand Prix,FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021,Portugal,Portimão,,,conventional,2021-05-02T00:00:00,portim-o,2021-portim-o
-2021,4,Spanish Grand Prix,FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021,Spain,Barcelona,,,conventional,2021-05-09T00:00:00,barcelona,2021-barcelona
-2021,5,Monaco Grand Prix,FORMULA 1 GRAND PRIX DE MONACO 2021,Monaco,Monte Carlo,,,conventional,2021-05-23T00:00:00,monte-carlo,2021-monte-carlo
-2021,6,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Azerbaijan,Baku,,,conventional,2021-06-06T00:00:00,baku,2021-baku
-2021,7,French Grand Prix,FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021,France,Le Castellet,,,conventional,2021-06-20T00:00:00,le-castellet,2021-le-castellet
-2021,8,Styrian Grand Prix,FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021,Austria,Spielberg,,,conventional,2021-06-27T00:00:00,spielberg,2021-spielberg
-2021,9,Austrian Grand Prix,FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021,Austria,Spielberg,,,conventional,2021-07-04T00:00:00,spielberg,2021-spielberg
-2021,10,British Grand Prix,FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021,Great Britain,Silverstone,,,sprint,2021-07-18T00:00:00,silverstone,2021-silverstone
-2021,11,Hungarian Grand Prix,FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021,Hungary,Budapest,,,conventional,2021-08-01T00:00:00,budapest,2021-budapest
-2021,12,Belgian Grand Prix,FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021,Belgium,Spa-Francorchamps,,,conventional,2021-08-29T00:00:00,spa-francorchamps,2021-spa-francorchamps
-2021,13,Dutch Grand Prix,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021,Netherlands,Zandvoort,,,conventional,2021-09-05T00:00:00,zandvoort,2021-zandvoort
-2021,14,Italian Grand Prix,FORMULA 1 HEINEKEN GRAN PREMIO D’ITALIA 2021,Italy,Monza,,,sprint,2021-09-12T00:00:00,monza,2021-monza
-2021,15,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Russia,Sochi,,,conventional,2021-09-26T00:00:00,sochi,2021-sochi
-2021,16,Turkish Grand Prix,FORMULA 1 ROLEX TURKISH GRAND PRIX 2021,Turkey,Istanbul,,,conventional,2021-10-10T00:00:00,istanbul,2021-istanbul
-2021,17,United States Grand Prix,FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021,United States,Austin,,,conventional,2021-10-24T00:00:00,austin,2021-austin
-2021,18,Mexico City Grand Prix,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021,Mexico,Mexico City,,,conventional,2021-11-07T00:00:00,mexico-city,2021-mexico-city
-2021,19,São Paulo Grand Prix,FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO 2021,Brazil,São Paulo,,,sprint,2021-11-14T00:00:00,s-o-paulo,2021-s-o-paulo
-2021,20,Qatar Grand Prix,FORMULA 1 OOREDOO QATAR GRAND PRIX 2021,Qatar,Lusail,,,conventional,2021-11-21T00:00:00,lusail,2021-lusail
-2021,21,Saudi Arabian Grand Prix,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021,Saudi Arabia,Jeddah,,,conventional,2021-12-05T00:00:00,jeddah,2021-jeddah
-2021,22,Abu Dhabi Grand Prix,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021,Abu Dhabi,Yas Island,,,conventional,2021-12-12T00:00:00,yas-island,2021-yas-island
+circuit_id,circuit_name,circuit_url,country,date,event_id,event_name,event_slug,latitude,locality,longitude,round,season,time,url,year
+bahrain,Bahrain International Circuit,https://en.wikipedia.org/wiki/Bahrain_International_Circuit,Bahrain,2021-03-28,2021-sakhir,Bahrain Grand Prix,sakhir,26.0325,Sakhir,50.5106,1,2021,15:00:00Z,https://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021
+imola,Autodromo Enzo e Dino Ferrari,https://en.wikipedia.org/wiki/Imola_Circuit,Italy,2021-04-18,2021-imola,Emilia Romagna Grand Prix,imola,44.3439,Imola,11.7167,2,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021
+portimao,Autódromo Internacional do Algarve,https://en.wikipedia.org/wiki/Algarve_International_Circuit,Portugal,2021-05-02,2021-portim-o,Portuguese Grand Prix,portim-o,37.227,Portimão,-8.6267,3,2021,14:00:00Z,https://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021
+catalunya,Circuit de Barcelona-Catalunya,https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya,Spain,2021-05-09,2021-barcelona,Spanish Grand Prix,barcelona,41.57,Barcelona,2.26111,4,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021
+monaco,Circuit de Monaco,https://en.wikipedia.org/wiki/Circuit_de_Monaco,Monaco,2021-05-23,2021-monte-carlo,Monaco Grand Prix,monte-carlo,43.7347,Monte Carlo,7.42056,5,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021
+baku,Baku City Circuit,https://en.wikipedia.org/wiki/Baku_City_Circuit,Azerbaijan,2021-06-06,2021-baku,Azerbaijan Grand Prix,baku,40.3725,Baku,49.8533,6,2021,12:00:00Z,https://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021
+ricard,Circuit Paul Ricard,https://en.wikipedia.org/wiki/Circuit_Paul_Ricard,France,2021-06-20,2021-le-castellet,French Grand Prix,le-castellet,43.2506,Le Castellet,5.79167,7,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021
+red_bull_ring,Red Bull Ring,https://en.wikipedia.org/wiki/Red_Bull_Ring,Austria,2021-06-27,2021-spielberg,Styrian Grand Prix,spielberg,47.2197,Spielberg,14.7647,8,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021
+red_bull_ring,Red Bull Ring,https://en.wikipedia.org/wiki/Red_Bull_Ring,Austria,2021-07-04,2021-spielberg,Austrian Grand Prix,spielberg,47.2197,Spielberg,14.7647,9,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021
+silverstone,Silverstone Circuit,https://en.wikipedia.org/wiki/Silverstone_Circuit,UK,2021-07-18,2021-silverstone,British Grand Prix,silverstone,52.0786,Silverstone,-1.01694,10,2021,14:00:00Z,https://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021
+hungaroring,Hungaroring,https://en.wikipedia.org/wiki/Hungaroring,Hungary,2021-08-01,2021-budapest,Hungarian Grand Prix,budapest,47.5789,Budapest,19.2486,11,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021
+spa,Circuit de Spa-Francorchamps,https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps,Belgium,2021-08-29,2021-spa,Belgian Grand Prix,spa,50.4372,Spa,5.97139,12,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021
+zandvoort,Circuit Park Zandvoort,https://en.wikipedia.org/wiki/Circuit_Zandvoort,Netherlands,2021-09-05,2021-zandvoort,Dutch Grand Prix,zandvoort,52.3888,Zandvoort,4.54092,13,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021
+monza,Autodromo Nazionale di Monza,https://en.wikipedia.org/wiki/Monza_Circuit,Italy,2021-09-12,2021-monza,Italian Grand Prix,monza,45.6156,Monza,9.28111,14,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021
+sochi,Sochi Autodrom,https://en.wikipedia.org/wiki/Sochi_Autodrom,Russia,2021-09-26,2021-sochi,Russian Grand Prix,sochi,43.4057,Sochi,39.9578,15,2021,12:00:00Z,https://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021
+istanbul,Istanbul Park,https://en.wikipedia.org/wiki/Istanbul_Park,Turkey,2021-10-10,2021-istanbul,Turkish Grand Prix,istanbul,40.9517,Istanbul,29.405,16,2021,12:00:00Z,https://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021
+americas,Circuit of the Americas,https://en.wikipedia.org/wiki/Circuit_of_the_Americas,USA,2021-10-24,2021-austin,United States Grand Prix,austin,30.1328,Austin,-97.6411,17,2021,19:00:00Z,https://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021
+rodriguez,Autódromo Hermanos Rodríguez,https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez,Mexico,2021-11-07,2021-mexico-city,Mexico City Grand Prix,mexico-city,19.4042,Mexico City,-99.0907,18,2021,19:00:00Z,https://en.wikipedia.org/wiki/2021_Mexico_City_Grand_Prix,2021
+interlagos,Autódromo José Carlos Pace,https://en.wikipedia.org/wiki/Interlagos_Circuit,Brazil,2021-11-14,2021-s-o-paulo,São Paulo Grand Prix,s-o-paulo,-23.7036,São Paulo,-46.6997,19,2021,17:00:00Z,https://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021
+losail,Losail International Circuit,https://en.wikipedia.org/wiki/Lusail_International_Circuit,Qatar,2021-11-21,2021-lusail,Qatar Grand Prix,lusail,25.49,Lusail,51.4542,20,2021,14:00:00Z,https://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021
+jeddah,Jeddah Corniche Circuit,https://en.wikipedia.org/wiki/Jeddah_Corniche_Circuit,Saudi Arabia,2021-12-05,2021-jeddah,Saudi Arabian Grand Prix,jeddah,21.6319,Jeddah,39.1044,21,2021,17:30:00Z,https://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021
+yas_marina,Yas Marina Circuit,https://en.wikipedia.org/wiki/Yas_Marina_Circuit,UAE,2021-12-12,2021-abu-dhabi,Abu Dhabi Grand Prix,abu-dhabi,24.4672,Abu Dhabi,54.6031,22,2021,13:00:00Z,https://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021
