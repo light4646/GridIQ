@@ -1,0 +1,35 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",,scheckter,Jody Scheckter,South African,,51.0,1,1,3,1979
+"[""ferrari""]","[""Ferrari""]",,gilles_villeneuve,Gilles Villeneuve,Canadian,,47.0,2,2,3,1979
+"[""williams""]","[""Williams""]",,jones,Alan Jones,Australian,,40.0,3,3,4,1979
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,36.0,4,4,2,1979
+"[""williams""]","[""Williams""]",,regazzoni,Clay Regazzoni,Swiss,,29.0,5,5,1,1979
+"[""ligier""]","[""Ligier""]",,depailler,Patrick Depailler,French,,20.0,6,6,1,1979
+"[""team_lotus""]","[""Team Lotus""]",,reutemann,Carlos Reutemann,Argentine,,20.0,7,7,0,1979
+"[""renault""]","[""Renault""]",,arnoux,René Arnoux,French,,17.0,8,8,0,1979
+"[""mclaren""]","[""McLaren""]",,watson,John Watson,British,,15.0,9,9,0,1979
+"[""tyrrell""]","[""Tyrrell""]",,pironi,Didier Pironi,French,,14.0,10,10,0,1979
+"[""tyrrell""]","[""Tyrrell""]",,jarier,Jean-Pierre Jarier,French,,14.0,11,11,0,1979
+"[""team_lotus""]","[""Team Lotus""]",,mario_andretti,Mario Andretti,American,,14.0,12,12,0,1979
+"[""renault""]","[""Renault""]",,jabouille,Jean-Pierre Jabouille,French,,9.0,13,13,1,1979
+"[""brabham-alfa_romeo"", ""brabham-ford""]","[""Brabham-Alfa Romeo"", ""Brabham-Ford""]",,lauda,Niki Lauda,Austrian,,4.0,14,14,0,1979
+"[""shadow""]","[""Shadow""]",,angelis,Elio de Angelis,Italian,,3.0,15,15,0,1979
+"[""brabham-alfa_romeo"", ""brabham-ford""]","[""Brabham-Alfa Romeo"", ""Brabham-Ford""]",,piquet,Nelson Piquet,Brazilian,,3.0,16,16,0,1979
+"[""ligier""]","[""Ligier""]",,ickx,Jacky Ickx,Belgian,,3.0,17,17,0,1979
+"[""arrows""]","[""Arrows""]",,mass,Jochen Mass,German,,3.0,18,18,0,1979
+"[""ats""]","[""ATS""]",,stuck,Hans-Joachim Stuck,German,,2.0,19,19,0,1979
+"[""arrows""]","[""Arrows""]",,patrese,Riccardo Patrese,Italian,,2.0,20,20,0,1979
+"[""fittipaldi""]","[""Fittipaldi""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,1.0,21,21,0,1979
+"[""team_lotus"", ""rebaque""]","[""Team Lotus"", ""Rebaque""]",,rebaque,Hector Rebaque,Mexican,,0.0,,-,0,1979
+"[""mclaren""]","[""McLaren""]",,tambay,Patrick Tambay,French,,0.0,,-,0,1979
+"[""brabham-ford""]","[""Brabham-Ford""]",,zunino,Ricardo Zunino,Argentine,,0.0,,-,0,1979
+"[""tyrrell""]","[""Tyrrell""]",,lees,Geoff Lees,British,,0.0,,-,0,1979
+"[""ensign"", ""tyrrell""]","[""Ensign"", ""Tyrrell""]",,daly,Derek Daly,Irish,,0.0,,-,0,1979
+"[""wolf""]","[""Wolf""]",,hunt,James Hunt,British,,0.0,,-,0,1979
+"[""shadow""]","[""Shadow""]",,lammers,Jan Lammers,Dutch,,0.0,,-,0,1979
+"[""wolf""]","[""Wolf""]",,keke_rosberg,Keke Rosberg,Finnish,,0.0,,-,0,1979
+"[""alfa""]","[""Alfa Romeo""]",,brambilla,Vittorio Brambilla,Italian,,0.0,,-,0,1979
+"[""ensign""]","[""Ensign""]",,gaillard,Patrick Gaillard,French,,0.0,,-,0,1979
+"[""alfa""]","[""Alfa Romeo""]",,giacomelli,Bruno Giacomelli,Italian,,0.0,,-,0,1979
+"[""ensign""]","[""Ensign""]",,surer,Marc Surer,Swiss,,0.0,,-,0,1979
+"[""merzario""]","[""Merzario""]",,merzario,Arturo Merzario,Italian,,0.0,,-,0,1979

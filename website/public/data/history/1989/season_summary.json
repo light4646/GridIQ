@@ -1,0 +1,40 @@
+{
+  "year": 1989,
+  "generated_at": "2026-05-27T06:10:32.749148+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 16,
+  "race_results": 418,
+  "qualifying_results": 0,
+  "drivers": 42,
+  "constructors": 19,
+  "driver_champion": {
+    "year": 1989,
+    "position": 1,
+    "position_text": "1",
+    "points": 76.0,
+    "wins": 4,
+    "driver_id": "prost",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alain Prost",
+    "driver_nationality": "French",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1989,
+    "position": 1,
+    "position_text": "1",
+    "points": 141.0,
+    "wins": 10,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  }
+}

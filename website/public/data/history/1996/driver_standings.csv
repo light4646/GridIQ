@@ -1,0 +1,25 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""williams""]","[""Williams""]",,damon_hill,Damon Hill,British,,97.0,1,1,8,1996
+"[""williams""]","[""Williams""]",VIL,villeneuve,Jacques Villeneuve,Canadian,,78.0,2,2,4,1996
+"[""ferrari""]","[""Ferrari""]",MSC,michael_schumacher,Michael Schumacher,German,,59.0,3,3,3,1996
+"[""benetton""]","[""Benetton""]",,alesi,Jean Alesi,French,,47.0,4,4,0,1996
+"[""mclaren""]","[""McLaren""]",,hakkinen,Mika Häkkinen,Finnish,,31.0,5,5,0,1996
+"[""benetton""]","[""Benetton""]",,berger,Gerhard Berger,Austrian,,21.0,6,6,0,1996
+"[""mclaren""]","[""McLaren""]",COU,coulthard,David Coulthard,British,,18.0,7,7,0,1996
+"[""jordan""]","[""Jordan""]",BAR,barrichello,Rubens Barrichello,Brazilian,,14.0,8,8,0,1996
+"[""ligier""]","[""Ligier""]",,panis,Olivier Panis,French,,13.0,9,9,1,1996
+"[""ferrari""]","[""Ferrari""]",,irvine,Eddie Irvine,British,,11.0,10,10,0,1996
+"[""jordan""]","[""Jordan""]",,brundle,Martin Brundle,British,,8.0,11,11,0,1996
+"[""sauber""]","[""Sauber""]",,frentzen,Heinz-Harald Frentzen,German,,7.0,12,12,0,1996
+"[""tyrrell""]","[""Tyrrell""]",,salo,Mika Salo,Finnish,,5.0,13,13,0,1996
+"[""sauber""]","[""Sauber""]",,herbert,Johnny Herbert,British,,4.0,14,14,0,1996
+"[""ligier""]","[""Ligier""]",,diniz,Pedro Diniz,Brazilian,,2.0,15,15,0,1996
+"[""footwork""]","[""Footwork""]",,verstappen,Jos Verstappen,Dutch,,1.0,16,16,0,1996
+"[""tyrrell""]","[""Tyrrell""]",,katayama,Ukyo Katayama,Japanese,,0.0,,-,0,1996
+"[""footwork""]","[""Footwork""]",,rosset,Ricardo Rosset,Brazilian,,0.0,,-,0,1996
+"[""minardi""]","[""Minardi""]",FIS,fisichella,Giancarlo Fisichella,Italian,,0.0,,-,0,1996
+"[""minardi""]","[""Minardi""]",,lamy,Pedro Lamy,Portuguese,,0.0,,-,0,1996
+"[""forti""]","[""Forti""]",BAD,badoer,Luca Badoer,Italian,,0.0,,-,0,1996
+"[""minardi""]","[""Minardi""]",,lavaggi,Giovanni Lavaggi,Italian,,0.0,,-,0,1996
+"[""forti""]","[""Forti""]",,montermini,Andrea Montermini,Italian,,0.0,,-,0,1996
+"[""minardi""]","[""Minardi""]",,marques,Tarso Marques,Brazilian,,0.0,,-,0,1996

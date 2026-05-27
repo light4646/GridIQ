@@ -1,0 +1,405 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Williams,williams,British,,prost,Alain Prost,French,2,1993-midrand,South African Grand Prix,,,,,,1,72,5925082,10.0,1,1,1,Finished,1:38:45.082,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-midrand,South African Grand Prix,,,,,,2,72,6004906,6.0,2,2,1,Finished,+1:19.824,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-midrand,South African Grand Prix,,,,,,8,71,,4.0,3,3,1,+1 Lap,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-midrand,South African Grand Prix,,,,,,13,71,,3.0,4,4,1,+1 Lap,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-midrand,South African Grand Prix,,,,,,6,70,,2.0,5,5,1,+2 Laps,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-midrand,South African Grand Prix,,,,,,15,69,,1.0,6,6,1,Engine,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-midrand,South African Grand Prix,,,,,,22,69,,0.0,7,7,1,Spun off,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-midrand,South African Grand Prix,,,,,,12,57,,0.0,8,R,1,Spun off,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-midrand,South African Grand Prix,,,,,,21,55,,0.0,9,R,1,Overheating,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-midrand,South African Grand Prix,,,,,,19,51,,0.0,10,R,1,Engine,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-midrand,South African Grand Prix,,,,,,7,46,,0.0,11,R,1,Spun off,,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-midrand,South African Grand Prix,,,,,,3,39,,0.0,12,R,1,Spun off,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-midrand,South African Grand Prix,,,,,,17,38,,0.0,13,R,1,Fuel system,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-midrand,South African Grand Prix,,,,,,10,33,,0.0,14,R,1,Engine,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-midrand,South African Grand Prix,,,,,,14,31,,0.0,15,R,1,Gearbox,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-midrand,South African Grand Prix,,,,,,5,30,,0.0,16,R,1,Suspension,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-midrand,South African Grand Prix,,,,,,11,27,,0.0,17,R,1,Spun off,,1993
+Minardi,minardi,Italian,,barbazza,Fabrizio Barbazza,Italian,24,1993-midrand,South African Grand Prix,,,,,,24,21,,0.0,18,R,1,Collision,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-midrand,South African Grand Prix,,,,,,20,21,,0.0,19,R,1,Collision,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-midrand,South African Grand Prix,,,,,,26,20,,0.0,20,R,1,Gearbox,,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-midrand,South African Grand Prix,,,,,,4,16,,0.0,21,R,1,Collision,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-midrand,South African Grand Prix,,,,,,16,16,,0.0,22,R,1,Collision,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-midrand,South African Grand Prix,,,,,,9,4,,0.0,23,R,1,Collision,,1993
+Jordan,jordan,Irish,,capelli,Ivan Capelli,Italian,15,1993-midrand,South African Grand Prix,,,,,,18,2,,0.0,24,R,1,Spun off,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-midrand,South African Grand Prix,,,,,,21,1,,0.0,25,R,1,Transmission,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-midrand,South African Grand Prix,,,,,,23,0,,0.0,26,R,1,Transmission,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-s-o-paulo,Brazilian Grand Prix,,,,,,3,71,6675485,10.0,1,1,2,Finished,1:51:15.485,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-s-o-paulo,Brazilian Grand Prix,,,,,,2,71,6692110,6.0,2,2,2,Finished,+16.625,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-s-o-paulo,Brazilian Grand Prix,,,,,,4,71,6720921,4.0,3,3,2,Finished,+45.436,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-s-o-paulo,Brazilian Grand Prix,,,,,,12,71,6722042,3.0,4,4,2,Finished,+46.557,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-s-o-paulo,Brazilian Grand Prix,,,,,,10,71,6727612,2.0,5,5,2,Finished,+52.127,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-s-o-paulo,Brazilian Grand Prix,,,,,,15,70,,1.0,6,6,2,+1 Lap,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-s-o-paulo,Brazilian Grand Prix,,,,,,11,70,,0.0,7,7,2,+1 Lap,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-s-o-paulo,Brazilian Grand Prix,,,,,,9,70,,0.0,8,8,2,+1 Lap,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-s-o-paulo,Brazilian Grand Prix,,,,,,18,69,,0.0,9,9,2,+2 Laps,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-s-o-paulo,Brazilian Grand Prix,,,,,,17,69,,0.0,10,10,2,+2 Laps,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-s-o-paulo,Brazilian Grand Prix,,,,,,25,68,,0.0,11,11,2,+3 Laps,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-s-o-paulo,Brazilian Grand Prix,,,,,,21,68,,0.0,12,12,2,+3 Laps,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-s-o-paulo,Brazilian Grand Prix,,,,,,8,61,,0.0,13,R,2,Engine,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-s-o-paulo,Brazilian Grand Prix,,,,,,7,52,,0.0,14,R,2,Electrical,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-s-o-paulo,Brazilian Grand Prix,,,,,,23,48,,0.0,15,R,2,Fuel system,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-s-o-paulo,Brazilian Grand Prix,,,,,,1,29,,0.0,16,R,2,Collision,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-s-o-paulo,Brazilian Grand Prix,,,,,,20,28,,0.0,17,R,2,Collision,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-s-o-paulo,Brazilian Grand Prix,,,,,,19,27,,0.0,18,R,2,Spun off,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-s-o-paulo,Brazilian Grand Prix,,,,,,22,26,,0.0,19,R,2,Spun off,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-s-o-paulo,Brazilian Grand Prix,,,,,,14,13,,0.0,20,R,2,Gearbox,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-s-o-paulo,Brazilian Grand Prix,,,,,,6,3,,0.0,21,R,2,Suspension,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-s-o-paulo,Brazilian Grand Prix,,,,,,5,0,,0.0,22,R,2,Collision,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-s-o-paulo,Brazilian Grand Prix,,,,,,13,0,,0.0,23,R,2,Collision,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-s-o-paulo,Brazilian Grand Prix,,,,,,16,0,,0.0,24,R,2,Collision,,1993
+Minardi,minardi,Italian,,barbazza,Fabrizio Barbazza,Italian,24,1993-s-o-paulo,Brazilian Grand Prix,,,,,,24,0,,0.0,25,R,2,Collision,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-castle-donington,European Grand Prix,,,,,,4,76,6646570,10.0,1,1,3,Finished,1:50:46.570,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-castle-donington,European Grand Prix,,,,,,2,76,6729769,6.0,2,2,3,Finished,+1:23.199,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-castle-donington,European Grand Prix,,,,,,1,75,,4.0,3,3,3,+1 Lap,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-castle-donington,European Grand Prix,,,,,,11,75,,3.0,4,4,3,+1 Lap,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-castle-donington,European Grand Prix,,,,,,10,74,,2.0,5,5,3,+2 Laps,,1993
+Minardi,minardi,Italian,,barbazza,Fabrizio Barbazza,Italian,24,1993-castle-donington,European Grand Prix,,,,,,20,74,,1.0,6,6,3,+2 Laps,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-castle-donington,European Grand Prix,,,,,,16,73,,0.0,7,7,3,+3 Laps,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-castle-donington,European Grand Prix,,,,,,13,72,,0.0,8,8,3,+4 Laps,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-castle-donington,European Grand Prix,,,,,,17,72,,0.0,9,9,3,+4 Laps,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-castle-donington,European Grand Prix,,,,,,12,70,,0.0,10,10,3,Fuel system,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-castle-donington,European Grand Prix,,,,,,24,70,,0.0,11,11,3,+6 Laps,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-castle-donington,European Grand Prix,,,,,,14,66,,0.0,12,R,3,Gearbox,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-castle-donington,European Grand Prix,,,,,,19,61,,0.0,13,R,3,Throttle,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-castle-donington,European Grand Prix,,,,,,25,55,,0.0,14,R,3,Gearbox,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-castle-donington,European Grand Prix,,,,,,9,36,,0.0,15,R,3,Gearbox,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-castle-donington,European Grand Prix,,,,,,23,29,,0.0,16,R,3,Gearbox,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-castle-donington,European Grand Prix,,,,,,15,27,,0.0,17,R,3,Collision,,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-castle-donington,European Grand Prix,,,,,,3,22,,0.0,18,R,3,Spun off,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-castle-donington,European Grand Prix,,,,,,21,20,,0.0,19,R,3,Spun off,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-castle-donington,European Grand Prix,,,,,,8,19,,0.0,20,R,3,Suspension,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-castle-donington,European Grand Prix,,,,,,7,13,,0.0,21,R,3,Handling,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-castle-donington,European Grand Prix,,,,,,18,11,,0.0,22,R,3,Clutch,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-castle-donington,European Grand Prix,,,,,,22,7,,0.0,23,R,3,Spun off,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-castle-donington,European Grand Prix,,,,,,5,0,,0.0,24,R,3,Collision,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-castle-donington,European Grand Prix,,,,,,6,0,,0.0,25,R,3,Collision,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-imola,San Marino Grand Prix,,,,,,1,61,5600413,10.0,1,1,4,Finished,1:33:20.413,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-imola,San Marino Grand Prix,,,,,,3,61,5632823,6.0,2,2,4,Finished,+32.410,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-imola,San Marino Grand Prix,,,,,,10,60,,4.0,3,3,4,+1 Lap,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-imola,San Marino Grand Prix,,,,,,16,59,,3.0,4,4,4,Engine,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-imola,San Marino Grand Prix,,,,,,14,59,,2.0,5,5,4,+2 Laps,,1993
+Minardi,minardi,Italian,,barbazza,Fabrizio Barbazza,Italian,24,1993-imola,San Marino Grand Prix,,,,,,25,59,,1.0,6,6,4,+2 Laps,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-imola,San Marino Grand Prix,,,,,,24,58,,0.0,7,7,4,+3 Laps,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-imola,San Marino Grand Prix,,,,,,12,57,,0.0,8,8,4,Engine,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-imola,San Marino Grand Prix,,,,,,21,54,,0.0,9,9,4,+7 Laps,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-imola,San Marino Grand Prix,,,,,,20,53,,0.0,10,R,4,Spun off,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-imola,San Marino Grand Prix,,,,,,5,48,,0.0,11,R,4,Engine,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-imola,San Marino Grand Prix,,,,,,4,42,,0.0,12,R,4,Hydraulics,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-imola,San Marino Grand Prix,,,,,,9,40,,0.0,13,R,4,Clutch,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-imola,San Marino Grand Prix,,,,,,23,36,,0.0,14,R,4,Steering,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-imola,San Marino Grand Prix,,,,,,6,32,,0.0,15,R,4,Spun off,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-imola,San Marino Grand Prix,,,,,,15,29,,0.0,16,R,4,Spun off,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-imola,San Marino Grand Prix,,,,,,22,22,,0.0,17,R,4,Engine,,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-imola,San Marino Grand Prix,,,,,,2,20,,0.0,18,R,4,Brakes,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-imola,San Marino Grand Prix,,,,,,17,18,,0.0,19,R,4,Engine,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-imola,San Marino Grand Prix,,,,,,18,18,,0.0,20,R,4,Gearbox,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-imola,San Marino Grand Prix,,,,,,13,17,,0.0,21,R,4,Spun off,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-imola,San Marino Grand Prix,,,,,,8,8,,0.0,22,R,4,Gearbox,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-imola,San Marino Grand Prix,,,,,,19,1,,0.0,23,R,4,Gearbox,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-imola,San Marino Grand Prix,,,,,,7,0,,0.0,24,R,4,Spun off,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-imola,San Marino Grand Prix,,,,,,11,0,,0.0,25,R,4,Spun off,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-barcelona,Spanish Grand Prix,,,,,,1,65,5547685,10.0,1,1,5,Finished,1:32:27.685,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-barcelona,Spanish Grand Prix,,,,,,3,65,5564558,6.0,2,2,5,Finished,+16.873,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-barcelona,Spanish Grand Prix,,,,,,4,65,5574810,4.0,3,3,5,Finished,+27.125,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-barcelona,Spanish Grand Prix,,,,,,5,64,,3.0,4,4,5,+1 Lap,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-barcelona,Spanish Grand Prix,,,,,,7,64,,2.0,5,5,5,+1 Lap,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-barcelona,Spanish Grand Prix,,,,,,11,63,,1.0,6,6,5,+2 Laps,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-barcelona,Spanish Grand Prix,,,,,,12,63,,0.0,7,7,5,+2 Laps,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-barcelona,Spanish Grand Prix,,,,,,20,63,,0.0,8,8,5,+2 Laps,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-barcelona,Spanish Grand Prix,,,,,,14,63,,0.0,9,9,5,+2 Laps,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-barcelona,Spanish Grand Prix,,,,,,19,63,,0.0,10,10,5,+2 Laps,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-barcelona,Spanish Grand Prix,,,,,,21,62,,0.0,11,11,5,+3 Laps,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-barcelona,Spanish Grand Prix,,,,,,17,62,,0.0,12,12,5,+3 Laps,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-barcelona,Spanish Grand Prix,,,,,,16,62,,0.0,13,13,5,+3 Laps,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-barcelona,Spanish Grand Prix,,,,,,15,60,,0.0,14,14,5,Engine,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-barcelona,Spanish Grand Prix,,,,,,9,53,,0.0,15,R,5,Engine,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-barcelona,Spanish Grand Prix,,,,,,22,43,,0.0,16,R,5,Overheating,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-barcelona,Spanish Grand Prix,,,,,,6,42,,0.0,17,R,5,Fuel system,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-barcelona,Spanish Grand Prix,,,,,,24,42,,0.0,18,D,5,Disqualified,,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-barcelona,Spanish Grand Prix,,,,,,2,41,,0.0,19,R,5,Engine,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-barcelona,Spanish Grand Prix,,,,,,8,40,,0.0,20,R,5,Engine,,1993
+Minardi,minardi,Italian,,barbazza,Fabrizio Barbazza,Italian,24,1993-barcelona,Spanish Grand Prix,,,,,,25,37,,0.0,21,R,5,Spun off,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-barcelona,Spanish Grand Prix,,,,,,13,26,,0.0,22,R,5,Transmission,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-barcelona,Spanish Grand Prix,,,,,,18,11,,0.0,23,R,5,Tyre,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-barcelona,Spanish Grand Prix,,,,,,23,11,,0.0,24,R,5,Spun off,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-barcelona,Spanish Grand Prix,,,,,,10,2,,0.0,25,R,5,Suspension,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-monte-carlo,Monaco Grand Prix,,,,,,3,78,6730947,10.0,1,1,6,Finished,1:52:10.947,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-monte-carlo,Monaco Grand Prix,,,,,,4,78,6783065,6.0,2,2,6,Finished,+52.118,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-monte-carlo,Monaco Grand Prix,,,,,,5,78,6794309,4.0,3,3,6,Finished,+1:03.362,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-monte-carlo,Monaco Grand Prix,,,,,,1,77,,3.0,4,4,6,+1 Lap,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-monte-carlo,Monaco Grand Prix,,,,,,17,76,,2.0,5,5,6,+2 Laps,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-monte-carlo,Monaco Grand Prix,,,,,,13,76,,1.0,6,6,6,+2 Laps,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-monte-carlo,Monaco Grand Prix,,,,,,20,76,,0.0,7,7,6,+2 Laps,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-monte-carlo,Monaco Grand Prix,,,,,,9,76,,0.0,8,8,6,+2 Laps,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-monte-carlo,Monaco Grand Prix,,,,,,16,76,,0.0,9,9,6,+2 Laps,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-monte-carlo,Monaco Grand Prix,,,,,,19,76,,0.0,10,10,6,+2 Laps,,1993
+Minardi,minardi,Italian,,barbazza,Fabrizio Barbazza,Italian,24,1993-monte-carlo,Monaco Grand Prix,,,,,,25,75,,0.0,11,11,6,+3 Laps,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-monte-carlo,Monaco Grand Prix,,,,,,15,75,,0.0,12,12,6,+3 Laps,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-monte-carlo,Monaco Grand Prix,,,,,,8,74,,0.0,13,13,6,+4 Laps,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-monte-carlo,Monaco Grand Prix,,,,,,7,70,,0.0,14,14,6,Collision,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-monte-carlo,Monaco Grand Prix,,,,,,14,61,,0.0,15,R,6,Gearbox,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-monte-carlo,Monaco Grand Prix,,,,,,6,53,,0.0,16,R,6,Engine,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-monte-carlo,Monaco Grand Prix,,,,,,10,51,,0.0,17,R,6,Engine,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-monte-carlo,Monaco Grand Prix,,,,,,18,46,,0.0,18,R,6,Spun off,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-monte-carlo,Monaco Grand Prix,,,,,,12,43,,0.0,19,R,6,Throttle,,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-monte-carlo,Monaco Grand Prix,,,,,,2,32,,0.0,20,R,6,Hydraulics,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-monte-carlo,Monaco Grand Prix,,,,,,22,31,,0.0,21,R,6,Engine,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-monte-carlo,Monaco Grand Prix,,,,,,24,28,,0.0,22,R,6,Gearbox,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-monte-carlo,Monaco Grand Prix,,,,,,11,23,,0.0,23,R,6,Accident,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-monte-carlo,Monaco Grand Prix,,,,,,23,12,,0.0,24,R,6,Suspension,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-monte-carlo,Monaco Grand Prix,,,,,,21,3,,0.0,25,R,6,Spun off,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-montreal,Canadian Grand Prix,,,,,,1,69,5801822,10.0,1,1,7,Finished,1:36:41.822,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-montreal,Canadian Grand Prix,,,,,,3,69,5816349,6.0,2,2,7,Finished,+14.527,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-montreal,Canadian Grand Prix,,,,,,2,69,5854507,4.0,3,3,7,Finished,+52.685,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-montreal,Canadian Grand Prix,,,,,,5,68,,3.0,4,4,7,+1 Lap,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-montreal,Canadian Grand Prix,,,,,,7,68,,2.0,5,5,7,+1 Lap,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-montreal,Canadian Grand Prix,,,,,,9,68,,1.0,6,6,7,+1 Lap,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-montreal,Canadian Grand Prix,,,,,,11,68,,0.0,7,7,7,+1 Lap,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-montreal,Canadian Grand Prix,,,,,,13,68,,0.0,8,8,7,+1 Lap,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-montreal,Canadian Grand Prix,,,,,,17,67,,0.0,9,9,7,+2 Laps,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-montreal,Canadian Grand Prix,,,,,,20,67,,0.0,10,10,7,+2 Laps,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-montreal,Canadian Grand Prix,,,,,,21,67,,0.0,11,11,7,+2 Laps,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-montreal,Canadian Grand Prix,,,,,,24,67,,0.0,12,12,7,+2 Laps,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-montreal,Canadian Grand Prix,,,,,,16,66,,0.0,13,13,7,+3 Laps,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-montreal,Canadian Grand Prix,,,,,,12,66,,0.0,14,14,7,+3 Laps,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-montreal,Canadian Grand Prix,,,,,,25,65,,0.0,15,15,7,+4 Laps,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-montreal,Canadian Grand Prix,,,,,,18,65,,0.0,16,16,7,+4 Laps,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-montreal,Canadian Grand Prix,,,,,,22,64,,0.0,17,17,7,+5 Laps,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-montreal,Canadian Grand Prix,,,,,,8,62,,0.0,18,18,7,Electrical,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-montreal,Canadian Grand Prix,,,,,,4,52,,0.0,19,R,7,Physical,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-montreal,Canadian Grand Prix,,,,,,19,45,,0.0,20,R,7,Spun off,,1993
+Minardi,minardi,Italian,,barbazza,Fabrizio Barbazza,Italian,24,1993-montreal,Canadian Grand Prix,,,,,,23,33,,0.0,21,R,7,Gearbox,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-montreal,Canadian Grand Prix,,,,,,6,33,,0.0,22,R,7,Engine,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-montreal,Canadian Grand Prix,,,,,,10,13,,0.0,23,R,7,Spun off,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-montreal,Canadian Grand Prix,,,,,,14,10,,0.0,24,R,7,Electrical,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-montreal,Canadian Grand Prix,,,,,,15,8,,0.0,25,R,7,Engine,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-magny-cours,French Grand Prix,,,,,,2,72,5915241,10.0,1,1,8,Finished,1:38:35.241,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-magny-cours,French Grand Prix,,,,,,1,72,5915583,6.0,2,2,8,Finished,+0.342,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-magny-cours,French Grand Prix,,,,,,7,72,5936450,4.0,3,3,8,Finished,+21.209,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-magny-cours,French Grand Prix,,,,,,5,72,5947646,3.0,4,4,8,Finished,+32.405,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-magny-cours,French Grand Prix,,,,,,3,72,5949036,2.0,5,5,8,Finished,+33.795,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-magny-cours,French Grand Prix,,,,,,16,71,,1.0,6,6,8,+1 Lap,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-magny-cours,French Grand Prix,,,,,,8,71,,0.0,7,7,8,+1 Lap,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-magny-cours,French Grand Prix,,,,,,23,71,,0.0,8,8,8,+1 Lap,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-magny-cours,French Grand Prix,,,,,,10,70,,0.0,9,9,8,+2 Laps,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-magny-cours,French Grand Prix,,,,,,12,70,,0.0,10,10,8,+2 Laps,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-magny-cours,French Grand Prix,,,,,,20,70,,0.0,11,11,8,+2 Laps,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-magny-cours,French Grand Prix,,,,,,13,70,,0.0,12,12,8,+2 Laps,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-magny-cours,French Grand Prix,,,,,,15,70,,0.0,13,13,8,+2 Laps,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-magny-cours,French Grand Prix,,,,,,14,70,,0.0,14,14,8,+2 Laps,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-magny-cours,French Grand Prix,,,,,,25,68,,0.0,15,15,8,+4 Laps,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-magny-cours,French Grand Prix,,,,,,9,66,,0.0,16,16,8,Gearbox,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-magny-cours,French Grand Prix,,,,,,6,47,,0.0,17,R,8,Engine,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-magny-cours,French Grand Prix,,,,,,22,28,,0.0,18,R,8,Suspension,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-magny-cours,French Grand Prix,,,,,,11,25,,0.0,19,R,8,Gearbox,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-magny-cours,French Grand Prix,,,,,,18,22,,0.0,20,R,8,Gearbox,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-magny-cours,French Grand Prix,,,,,,4,20,,0.0,21,R,8,Spun off,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-magny-cours,French Grand Prix,,,,,,19,16,,0.0,22,R,8,Spun off,,1993
+Minardi,minardi,Italian,,barbazza,Fabrizio Barbazza,Italian,24,1993-magny-cours,French Grand Prix,,,,,,24,16,,0.0,23,R,8,Gearbox,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-magny-cours,French Grand Prix,,,,,,24,16,,0.0,24,R,8,Gearbox,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-magny-cours,French Grand Prix,,,,,,17,9,,0.0,25,R,8,Suspension,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-silverstone,British Grand Prix,,,,,,1,59,5138189,10.0,1,1,9,Finished,1:25:38.189,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-silverstone,British Grand Prix,,,,,,3,59,5145849,6.0,2,2,9,Finished,+7.660,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-silverstone,British Grand Prix,,,,,,5,59,5215671,4.0,3,3,9,Finished,+1:17.482,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-silverstone,British Grand Prix,,,,,,7,59,5216596,3.0,4,4,9,Finished,+1:18.407,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-silverstone,British Grand Prix,,,,,,4,58,,2.0,5,5,9,Out of fuel,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-silverstone,British Grand Prix,,,,,,8,58,,1.0,6,6,9,+1 Lap,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-silverstone,British Grand Prix,,,,,,9,58,,0.0,7,7,9,+1 Lap,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-silverstone,British Grand Prix,,,,,,16,58,,0.0,8,8,9,+1 Lap,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-silverstone,British Grand Prix,,,,,,12,58,,0.0,9,9,9,+1 Lap,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-silverstone,British Grand Prix,,,,,,15,58,,0.0,10,10,9,+1 Lap,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-silverstone,British Grand Prix,,,,,,24,57,,0.0,11,11,9,+2 Laps,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-silverstone,British Grand Prix,,,,,,19,56,,0.0,12,12,9,Gearbox,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-silverstone,British Grand Prix,,,,,,22,55,,0.0,13,13,9,+4 Laps,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-silverstone,British Grand Prix,,,,,,6,53,,0.0,14,14,9,Gearbox,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-silverstone,British Grand Prix,,,,,,21,43,,0.0,15,R,9,Not classified,,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-silverstone,British Grand Prix,,,,,,2,41,,0.0,16,R,9,Engine,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-silverstone,British Grand Prix,,,,,,14,41,,0.0,17,R,9,Suspension,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-silverstone,British Grand Prix,,,,,,23,41,,0.0,18,R,9,Wheel bearing,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-silverstone,British Grand Prix,,,,,,25,32,,0.0,19,R,9,Electrical,,1993
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,24,1993-silverstone,British Grand Prix,,,,,,20,31,,0.0,20,R,9,Physical,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-silverstone,British Grand Prix,,,,,,18,24,,0.0,21,R,9,Spun off,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-silverstone,British Grand Prix,,,,,,13,10,,0.0,22,R,9,Suspension,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-silverstone,British Grand Prix,,,,,,10,8,,0.0,23,R,9,Spun off,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-silverstone,British Grand Prix,,,,,,11,0,,0.0,24,R,9,Spun off,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-silverstone,British Grand Prix,,,,,,17,0,,0.0,25,R,9,Halfshaft,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-hockenheim,German Grand Prix,,,,,,1,45,4720885,10.0,1,1,10,Finished,1:18:40.885,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-hockenheim,German Grand Prix,,,,,,3,45,4737549,6.0,2,2,10,Finished,+16.664,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-hockenheim,German Grand Prix,,,,,,5,45,4780234,4.0,3,3,10,Finished,+59.349,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-hockenheim,German Grand Prix,,,,,,4,45,4789114,3.0,4,4,10,Finished,+1:08.229,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-hockenheim,German Grand Prix,,,,,,7,45,4812401,2.0,5,5,10,Finished,+1:31.516,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-hockenheim,German Grand Prix,,,,,,9,45,4815639,1.0,6,6,10,Finished,+1:34.754,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-hockenheim,German Grand Prix,,,,,,10,45,4816726,0.0,7,7,10,Finished,+1:35.841,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-hockenheim,German Grand Prix,,,,,,6,44,,0.0,8,8,10,+1 Lap,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-hockenheim,German Grand Prix,,,,,,14,44,,0.0,9,9,10,+1 Lap,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-hockenheim,German Grand Prix,,,,,,13,44,,0.0,10,10,10,+1 Lap,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-hockenheim,German Grand Prix,,,,,,20,44,,0.0,11,11,10,+1 Lap,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-hockenheim,German Grand Prix,,,,,,23,44,,0.0,12,12,10,+1 Lap,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-hockenheim,German Grand Prix,,,,,,24,44,,0.0,13,13,10,+1 Lap,,1993
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,24,1993-hockenheim,German Grand Prix,,,,,,22,44,,0.0,14,14,10,+1 Lap,,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-hockenheim,German Grand Prix,,,,,,2,43,,0.0,15,15,10,Tyre,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-hockenheim,German Grand Prix,,,,,,26,43,,0.0,16,16,10,+2 Laps,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-hockenheim,German Grand Prix,,,,,,11,42,,0.0,17,17,10,+3 Laps,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-hockenheim,German Grand Prix,,,,,,17,34,,0.0,18,R,10,Wheel bearing,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-hockenheim,German Grand Prix,,,,,,21,28,,0.0,19,R,10,Halfshaft,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-hockenheim,German Grand Prix,,,,,,18,22,,0.0,20,R,10,Spun off,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-hockenheim,German Grand Prix,,,,,,15,19,,0.0,21,R,10,Spun off,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-hockenheim,German Grand Prix,,,,,,8,9,,0.0,22,R,10,Collision,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-hockenheim,German Grand Prix,,,,,,12,4,,0.0,23,R,10,Collision,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-hockenheim,German Grand Prix,,,,,,25,4,,0.0,24,R,10,Suspension,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-hockenheim,German Grand Prix,,,,,,19,1,,0.0,25,R,10,Gearbox,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-hockenheim,German Grand Prix,,,,,,16,0,,0.0,26,R,10,Gearbox,,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-budapest,Hungarian Grand Prix,,,,,,2,77,6459098,10.0,1,1,11,Finished,1:47:39.098,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-budapest,Hungarian Grand Prix,,,,,,5,77,6531013,6.0,2,2,11,Finished,+1:11.915,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-budapest,Hungarian Grand Prix,,,,,,6,77,6537140,4.0,3,3,11,Finished,+1:18.042,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-budapest,Hungarian Grand Prix,,,,,,9,76,,3.0,4,4,11,+1 Lap,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-budapest,Hungarian Grand Prix,,,,,,13,76,,2.0,5,5,11,+1 Lap,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-budapest,Hungarian Grand Prix,,,,,,17,76,,1.0,6,6,11,+1 Lap,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-budapest,Hungarian Grand Prix,,,,,,12,76,,0.0,7,7,11,+1 Lap,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-budapest,Hungarian Grand Prix,,,,,,19,75,,0.0,8,8,11,+2 Laps,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-budapest,Hungarian Grand Prix,,,,,,24,75,,0.0,9,9,11,+2 Laps,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-budapest,Hungarian Grand Prix,,,,,,23,73,,0.0,10,10,11,+4 Laps,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-budapest,Hungarian Grand Prix,,,,,,22,72,,0.0,11,11,11,+5 Laps,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-budapest,Hungarian Grand Prix,,,,,,1,70,,0.0,12,12,11,+7 Laps,,1993
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,24,1993-budapest,Hungarian Grand Prix,,,,,,7,59,,0.0,13,R,11,Accident,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-budapest,Hungarian Grand Prix,,,,,,18,54,,0.0,14,R,11,Engine,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-budapest,Hungarian Grand Prix,,,,,,21,45,,0.0,15,R,11,Gearbox,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-budapest,Hungarian Grand Prix,,,,,,10,41,,0.0,16,R,11,Spun off,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-budapest,Hungarian Grand Prix,,,,,,25,39,,0.0,17,R,11,Overheating,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-budapest,Hungarian Grand Prix,,,,,,20,38,,0.0,18,R,11,Spun off,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-budapest,Hungarian Grand Prix,,,,,,26,37,,0.0,19,R,11,Spun off,,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-budapest,Hungarian Grand Prix,,,,,,3,26,,0.0,20,R,11,Fuel pump,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-budapest,Hungarian Grand Prix,,,,,,14,22,,0.0,21,R,11,Suspension,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-budapest,Hungarian Grand Prix,,,,,,8,22,,0.0,22,R,11,Spun off,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-budapest,Hungarian Grand Prix,,,,,,15,18,,0.0,23,R,11,Engine,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-budapest,Hungarian Grand Prix,,,,,,4,17,,0.0,24,R,11,Throttle,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-budapest,Hungarian Grand Prix,,,,,,11,15,,0.0,25,R,11,Throttle,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-budapest,Hungarian Grand Prix,,,,,,16,0,,0.0,26,R,11,Accident,,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-spa,Belgian Grand Prix,,,,,,2,44,5072124,10.0,1,1,12,Finished,1:24:32.124,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-spa,Belgian Grand Prix,,,,,,3,44,5075792,6.0,2,2,12,Finished,+3.668,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-spa,Belgian Grand Prix,,,,,,1,44,5087112,4.0,3,3,12,Finished,+14.988,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-spa,Belgian Grand Prix,,,,,,5,44,5171887,3.0,4,4,12,Finished,+1:39.763,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-spa,Belgian Grand Prix,,,,,,10,43,,2.0,5,5,12,+1 Lap,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-spa,Belgian Grand Prix,,,,,,8,43,,1.0,6,6,12,+1 Lap,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-spa,Belgian Grand Prix,,,,,,11,43,,0.0,7,7,12,+1 Lap,,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-spa,Belgian Grand Prix,,,,,,14,43,,0.0,8,8,12,+1 Lap,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-spa,Belgian Grand Prix,,,,,,9,43,,0.0,9,9,12,+1 Lap,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-spa,Belgian Grand Prix,,,,,,16,42,,0.0,10,10,12,Collision,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-spa,Belgian Grand Prix,,,,,,15,42,,0.0,11,11,12,Collision,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-spa,Belgian Grand Prix,,,,,,18,42,,0.0,12,12,12,+2 Laps,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-spa,Belgian Grand Prix,,,,,,24,42,,0.0,13,13,12,+2 Laps,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-spa,Belgian Grand Prix,,,,,,25,41,,0.0,14,14,12,+3 Laps,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-spa,Belgian Grand Prix,,,,,,23,40,,0.0,15,15,12,+4 Laps,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-spa,Belgian Grand Prix,,,,,,19,37,,0.0,16,R,12,Fuel pump,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-spa,Belgian Grand Prix,,,,,,7,28,,0.0,17,R,12,Engine,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-spa,Belgian Grand Prix,,,,,,12,27,,0.0,18,R,12,Engine,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-spa,Belgian Grand Prix,,,,,,17,24,,0.0,19,R,12,Engine,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-spa,Belgian Grand Prix,,,,,,22,15,,0.0,20,R,12,Spun off,,1993
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,24,1993-spa,Belgian Grand Prix,,,,,,21,15,,0.0,21,R,12,Spun off,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-spa,Belgian Grand Prix,,,,,,6,14,,0.0,22,R,12,Gearbox,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-spa,Belgian Grand Prix,,,,,,12,11,,0.0,23,R,12,Wheel bearing,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-spa,Belgian Grand Prix,,,,,,4,4,,0.0,24,R,12,Suspension,,1993
+Jordan,jordan,Irish,,boutsen,Thierry Boutsen,Belgian,15,1993-spa,Belgian Grand Prix,,,,,,20,0,,0.0,25,R,12,Gearbox,,1993
+Team Lotus,team_lotus,British,,zanardi,Alessandro Zanardi,Italian,11,1993-spa,Belgian Grand Prix,,,,,,26,0,,0.0,26,W,12,Injury,,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-monza,Italian Grand Prix,,,,,,2,53,4627509,10.0,1,1,13,Finished,1:17:07.509,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-monza,Italian Grand Prix,,,,,,3,53,4667521,6.0,2,2,13,Finished,+40.012,1993
+McLaren,mclaren,British,,andretti,Michael Andretti,American,7,1993-monza,Italian Grand Prix,,,,,,9,52,,4.0,3,3,13,+1 Lap,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-monza,Italian Grand Prix,,,,,,15,52,,3.0,4,4,13,+1 Lap,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-monza,Italian Grand Prix,,,,,,10,52,,2.0,5,5,13,+1 Lap,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-monza,Italian Grand Prix,,,,,,20,52,,1.0,6,6,13,+1 Lap,,1993
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,24,1993-monza,Italian Grand Prix,,,,,,22,51,,0.0,7,7,13,+2 Laps,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-monza,Italian Grand Prix,,,,,,24,51,,0.0,8,8,13,+2 Laps,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-monza,Italian Grand Prix,,,,,,16,51,,0.0,9,9,13,+2 Laps,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-monza,Italian Grand Prix,,,,,,25,51,,0.0,10,10,13,+2 Laps,,1993
+Team Lotus,team_lotus,British,,lamy,Pedro Lamy,Portuguese,11,1993-monza,Italian Grand Prix,,,,,,26,49,,0.0,11,11,13,Electrical,,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-monza,Italian Grand Prix,,,,,,1,48,,0.0,12,12,13,Engine,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-monza,Italian Grand Prix,,,,,,18,47,,0.0,13,13,13,Oil pressure,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-monza,Italian Grand Prix,,,,,,17,47,,0.0,14,14,13,+6 Laps,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-monza,Italian Grand Prix,,,,,,21,23,,0.0,15,R,13,Suspension,,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-monza,Italian Grand Prix,,,,,,5,21,,0.0,16,R,13,Engine,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-monza,Italian Grand Prix,,,,,,14,20,,0.0,17,R,13,Spun off,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-monza,Italian Grand Prix,,,,,,6,15,,0.0,18,R,13,Suspension,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-monza,Italian Grand Prix,,,,,,7,14,,0.0,19,R,13,Spun off,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-monza,Italian Grand Prix,,,,,,12,8,,0.0,20,R,13,Collision,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-monza,Italian Grand Prix,,,,,,4,8,,0.0,21,R,13,Collision,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-monza,Italian Grand Prix,,,,,,8,0,,0.0,22,R,13,Collision,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-monza,Italian Grand Prix,,,,,,11,0,,0.0,23,R,13,Collision,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-monza,Italian Grand Prix,,,,,,13,0,,0.0,24,R,13,Collision,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-monza,Italian Grand Prix,,,,,,19,0,,0.0,25,R,13,Collision,,1993
+Jordan,jordan,Irish,,apicella,Marco Apicella,Italian,15,1993-monza,Italian Grand Prix,,,,,,23,0,,0.0,26,R,13,Collision,,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-estoril,Portuguese Grand Prix,,,,,,6,71,5566309,10.0,1,1,14,Finished,1:32:46.309,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-estoril,Portuguese Grand Prix,,,,,,2,71,5567291,6.0,2,2,14,Finished,+0.982,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-estoril,Portuguese Grand Prix,,,,,,1,71,5574515,4.0,3,3,14,Finished,+8.206,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-estoril,Portuguese Grand Prix,,,,,,5,71,5633914,3.0,4,4,14,Finished,+1:07.605,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-estoril,Portuguese Grand Prix,,,,,,13,70,,2.0,5,5,14,+1 Lap,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-estoril,Portuguese Grand Prix,,,,,,11,70,,1.0,6,6,14,+1 Lap,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-estoril,Portuguese Grand Prix,,,,,,12,69,,0.0,7,7,14,+2 Laps,,1993
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,24,1993-estoril,Portuguese Grand Prix,,,,,,19,69,,0.0,8,8,14,+2 Laps,,1993
+Minardi,minardi,Italian,,fittipaldi,Christian Fittipaldi,Brazilian,23,1993-estoril,Portuguese Grand Prix,,,,,,24,69,,0.0,9,9,14,+2 Laps,,1993
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,19,1993-estoril,Portuguese Grand Prix,,,,,,20,69,,0.0,10,10,14,+2 Laps,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-estoril,Portuguese Grand Prix,,,,,,22,68,,0.0,11,11,14,+3 Laps,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-estoril,Portuguese Grand Prix,,,,,,17,68,,0.0,12,12,14,+3 Laps,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-estoril,Portuguese Grand Prix,,,,,,15,68,,0.0,13,13,14,+3 Laps,,1993
+Lola,lola,British,BAD,badoer,Luca Badoer,Italian,22,1993-estoril,Portuguese Grand Prix,,,,,,26,68,,0.0,14,14,14,+3 Laps,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-estoril,Portuguese Grand Prix,,,,,,9,63,,0.0,15,15,14,Accident,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-estoril,Portuguese Grand Prix,,,,,,7,63,,0.0,16,16,14,Accident,,1993
+Team Lotus,team_lotus,British,,lamy,Pedro Lamy,Portuguese,11,1993-estoril,Portuguese Grand Prix,,,,,,18,61,,0.0,17,R,14,Spun off,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-estoril,Portuguese Grand Prix,,,,,,14,60,,0.0,18,R,14,Spun off,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-estoril,Portuguese Grand Prix,,,,,,10,51,,0.0,19,R,14,Accident,,1993
+Lola,lola,British,,alboreto,Michele Alboreto,Italian,21,1993-estoril,Portuguese Grand Prix,,,,,,25,38,,0.0,20,R,14,Gearbox,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-estoril,Portuguese Grand Prix,,,,,,8,35,,0.0,21,R,14,Accident,,1993
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1993-estoril,Portuguese Grand Prix,,,,,,3,32,,0.0,22,R,14,Spun off,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-estoril,Portuguese Grand Prix,,,,,,16,27,,0.0,23,R,14,Gearbox,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-estoril,Portuguese Grand Prix,,,,,,4,19,,0.0,24,R,14,Engine,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-estoril,Portuguese Grand Prix,,,,,,21,12,,0.0,25,R,14,Spun off,,1993
+Jordan,jordan,Irish,,naspetti,Emanuele Naspetti,Italian,15,1993-estoril,Portuguese Grand Prix,,,,,,23,8,,0.0,26,R,14,Engine,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-suzuka,Japanese Grand Prix,,,,,,2,53,6027912,10.0,1,1,15,Finished,1:40:27.912,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-suzuka,Japanese Grand Prix,,,,,,1,53,6039347,6.0,2,2,15,Finished,+11.435,1993
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1993-suzuka,Japanese Grand Prix,,,,,,3,53,6054041,4.0,3,3,15,Finished,+26.129,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-suzuka,Japanese Grand Prix,,,,,,6,53,6111450,3.0,4,4,15,Finished,+1:23.538,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-suzuka,Japanese Grand Prix,,,,,,12,53,6123013,2.0,5,5,15,Finished,+1:35.101,1993
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1993-suzuka,Japanese Grand Prix,,,,,,8,53,6134333,1.0,6,6,15,Finished,+1:46.421,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-suzuka,Japanese Grand Prix,,,,,,17,52,,0.0,7,7,15,+1 Lap,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-suzuka,Japanese Grand Prix,,,,,,11,52,,0.0,8,8,15,+1 Lap,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-suzuka,Japanese Grand Prix,,,,,,15,51,,0.0,9,9,15,Collision,,1993
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,24,1993-suzuka,Japanese Grand Prix,,,,,,22,51,,0.0,10,10,15,+2 Laps,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-suzuka,Japanese Grand Prix,,,,,,19,51,,0.0,11,11,15,+2 Laps,,1993
+Larrousse,larrousse,French,,toshio_suzuki,Toshio Suzuki,Japanese,19,1993-suzuka,Japanese Grand Prix,,,,,,23,51,,0.0,12,12,15,+2 Laps,,1993
+Team Lotus,team_lotus,British,,lamy,Pedro Lamy,Portuguese,11,1993-suzuka,Japanese Grand Prix,,,,,,20,49,,0.0,13,13,15,Spun off,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-suzuka,Japanese Grand Prix,,,,,,7,48,,0.0,14,14,15,Collision,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-suzuka,Japanese Grand Prix,,,,,,10,45,,0.0,15,R,15,Spun off,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-suzuka,Japanese Grand Prix,,,,,,5,40,,0.0,16,R,15,Engine,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-suzuka,Japanese Grand Prix,,,,,,9,28,,0.0,17,R,15,Spun off,,1993
+Minardi,minardi,Italian,,gounon,Jean-Marc Gounon,French,23,1993-suzuka,Japanese Grand Prix,,,,,,13,26,,0.0,18,W,15,Withdrew,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-suzuka,Japanese Grand Prix,,,,,,24,26,,0.0,19,R,15,Engine,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-suzuka,Japanese Grand Prix,,,,,,16,25,,0.0,20,R,15,Engine,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-suzuka,Japanese Grand Prix,,,,,,21,17,,0.0,21,R,15,Engine,,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-suzuka,Japanese Grand Prix,,,,,,4,10,,0.0,22,R,15,Collision,,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-suzuka,Japanese Grand Prix,,,,,,14,7,,0.0,23,R,15,Engine,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-suzuka,Japanese Grand Prix,,,,,,18,0,,0.0,24,R,15,Collision,,1993
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,8,1993-adelaide,Australian Grand Prix,,,,,,1,79,6207476,10.0,1,1,16,Finished,1:43:27.476,1993
+Williams,williams,British,,prost,Alain Prost,French,2,1993-adelaide,Australian Grand Prix,,,,,,2,79,6216735,6.0,2,2,16,Finished,+9.259,1993
+Williams,williams,British,,damon_hill,Damon Hill,British,0,1993-adelaide,Australian Grand Prix,,,,,,3,79,6241378,4.0,3,3,16,Finished,+33.902,1993
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1993-adelaide,Australian Grand Prix,,,,,,7,78,,3.0,4,4,16,+1 Lap,,1993
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1993-adelaide,Australian Grand Prix,,,,,,6,78,,2.0,5,5,16,+1 Lap,,1993
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1993-adelaide,Australian Grand Prix,,,,,,8,78,,1.0,6,6,16,+1 Lap,,1993
+Footwork,footwork,British,,suzuki,Aguri Suzuki,Japanese,10,1993-adelaide,Australian Grand Prix,,,,,,10,78,,0.0,7,7,16,+1 Lap,,1993
+Benetton,benetton,Italian,,patrese,Riccardo Patrese,Italian,6,1993-adelaide,Australian Grand Prix,,,,,,9,77,,0.0,8,8,16,Fuel system,,1993
+Ligier,ligier,French,,blundell,Mark Blundell,British,26,1993-adelaide,Australian Grand Prix,,,,,,14,77,,0.0,9,9,16,+2 Laps,,1993
+Footwork,footwork,British,,warwick,Derek Warwick,British,9,1993-adelaide,Australian Grand Prix,,,,,,17,77,,0.0,10,10,16,+2 Laps,,1993
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1993-adelaide,Australian Grand Prix,,,,,,13,76,,0.0,11,11,16,+3 Laps,,1993
+Larrousse,larrousse,French,,comas,Érik Comas,French,20,1993-adelaide,Australian Grand Prix,,,,,,21,76,,0.0,12,12,16,+3 Laps,,1993
+Tyrrell,tyrrell,British,,cesaris,Andrea de Cesaris,Italian,4,1993-adelaide,Australian Grand Prix,,,,,,15,75,,0.0,13,13,16,+4 Laps,,1993
+Larrousse,larrousse,French,,toshio_suzuki,Toshio Suzuki,Japanese,19,1993-adelaide,Australian Grand Prix,,,,,,24,74,,0.0,14,14,16,+5 Laps,,1993
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1993-adelaide,Australian Grand Prix,,,,,,11,73,,0.0,15,15,16,Brakes,,1993
+Sauber,sauber,Swiss,,lehto,Jyrki Järvilehto,Finnish,30,1993-adelaide,Australian Grand Prix,,,,,,12,56,,0.0,16,R,16,Accident,,1993
+Minardi,minardi,Italian,,gounon,Jean-Marc Gounon,French,23,1993-adelaide,Australian Grand Prix,,,,,,22,34,,0.0,17,R,16,Spun off,,1993
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1993-adelaide,Australian Grand Prix,,,,,,5,28,,0.0,18,R,16,Brakes,,1993
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1993-adelaide,Australian Grand Prix,,,,,,4,19,,0.0,19,R,16,Engine,,1993
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1993-adelaide,Australian Grand Prix,,,,,,18,11,,0.0,20,R,16,Spun off,,1993
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1993-adelaide,Australian Grand Prix,,,,,,19,10,,0.0,21,R,16,Accident,,1993
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1993-adelaide,Australian Grand Prix,,,,,,20,9,,0.0,22,R,16,Suspension,,1993
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,24,1993-adelaide,Australian Grand Prix,,,,,,16,5,,0.0,23,R,16,Gearbox,,1993
+Team Lotus,team_lotus,British,,lamy,Pedro Lamy,Portuguese,11,1993-adelaide,Australian Grand Prix,,,,,,23,0,,0.0,24,R,16,Accident,,1993

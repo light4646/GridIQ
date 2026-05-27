@@ -1,0 +1,375 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-melbourne,Australian Grand Prix,,,,,,4,58,5428718,10.0,1,1,1,Finished,1:30:28.718,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-melbourne,Australian Grand Prix,,,,,,3,58,5448764,6.0,2,2,1,Finished,+20.046,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-melbourne,Australian Grand Prix,,,,,,6,58,5450895,4.0,3,3,1,Finished,+22.177,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-melbourne,Australian Grand Prix,,,,,,10,58,5451559,3.0,4,4,1,Finished,+22.841,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-melbourne,Australian Grand Prix,,,,,,9,58,5489026,2.0,5,5,1,Finished,+1:00.308,1997
+Sauber,sauber,Swiss,,larini,Nicola Larini,Italian,17,1997-melbourne,Australian Grand Prix,,,,,,13,58,5524758,1.0,6,6,1,Finished,+1:36.040,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-melbourne,Australian Grand Prix,,,,,,16,56,,0.0,7,7,1,+2 Laps,,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-melbourne,Australian Grand Prix,,,,,,2,55,,0.0,8,8,1,Brakes,,1997
+Minardi,minardi,Italian,TRU,trulli,Jarno Trulli,Italian,21,1997-melbourne,Australian Grand Prix,,,,,,17,55,,0.0,9,9,1,+3 Laps,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-melbourne,Australian Grand Prix,,,,,,22,54,,0.0,10,10,1,+4 Laps,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-melbourne,Australian Grand Prix,,,,,,11,49,,0.0,11,R,1,Engine,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-melbourne,Australian Grand Prix,,,,,,18,42,,0.0,12,R,1,Engine,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-melbourne,Australian Grand Prix,,,,,,19,36,,0.0,13,R,1,Suspension,,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-melbourne,Australian Grand Prix,,,,,,8,34,,0.0,14,R,1,Fuel,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-melbourne,Australian Grand Prix,,,,,,15,32,,0.0,15,R,1,Electrical,,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-melbourne,Australian Grand Prix,,,,,,14,14,,0.0,16,R,1,Spun off,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-melbourne,Australian Grand Prix,,,,,,21,2,,0.0,17,R,1,Spun off,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-melbourne,Australian Grand Prix,,,,,,12,1,,0.0,18,R,1,Gearbox,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-melbourne,Australian Grand Prix,,,,,,1,0,,0.0,19,R,1,Collision,,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-melbourne,Australian Grand Prix,,,,,,5,0,,0.0,20,R,1,Collision,,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-melbourne,Australian Grand Prix,,,,,,7,0,,0.0,21,R,1,Collision,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-melbourne,Australian Grand Prix,,,,,,20,0,,0.0,22,W,1,Throttle,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-s-o-paulo,Brazilian Grand Prix,,,,,,1,72,5766990,10.0,1,1,2,Finished,1:36:06.990,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-s-o-paulo,Brazilian Grand Prix,,,,,,3,72,5771180,6.0,2,2,2,Finished,+4.190,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-s-o-paulo,Brazilian Grand Prix,,,,,,5,72,5782860,4.0,3,3,2,Finished,+15.870,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-s-o-paulo,Brazilian Grand Prix,,,,,,4,72,5800023,3.0,4,4,2,Finished,+33.033,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-s-o-paulo,Brazilian Grand Prix,,,,,,2,72,5800721,2.0,5,5,2,Finished,+33.731,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-s-o-paulo,Brazilian Grand Prix,,,,,,6,72,5801010,1.0,6,6,2,Finished,+34.020,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-s-o-paulo,Brazilian Grand Prix,,,,,,13,72,5817902,0.0,7,7,2,Finished,+50.912,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-s-o-paulo,Brazilian Grand Prix,,,,,,7,72,5827629,0.0,8,8,2,Finished,+1:00.639,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-s-o-paulo,Brazilian Grand Prix,,,,,,8,72,5842392,0.0,9,9,2,Finished,+1:15.402,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-s-o-paulo,Brazilian Grand Prix,,,,,,12,71,,0.0,10,10,2,+1 Lap,,1997
+Sauber,sauber,Swiss,,larini,Nicola Larini,Italian,17,1997-s-o-paulo,Brazilian Grand Prix,,,,,,19,71,,0.0,11,11,2,+1 Lap,,1997
+Minardi,minardi,Italian,TRU,trulli,Jarno Trulli,Italian,21,1997-s-o-paulo,Brazilian Grand Prix,,,,,,17,71,,0.0,12,12,2,+1 Lap,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-s-o-paulo,Brazilian Grand Prix,,,,,,22,71,,0.0,13,13,2,+1 Lap,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-s-o-paulo,Brazilian Grand Prix,,,,,,15,71,,0.0,14,14,2,+1 Lap,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-s-o-paulo,Brazilian Grand Prix,,,,,,21,70,,0.0,15,15,2,+2 Laps,,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-s-o-paulo,Brazilian Grand Prix,,,,,,14,70,,0.0,16,16,2,+2 Laps,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-s-o-paulo,Brazilian Grand Prix,,,,,,9,68,,0.0,17,17,2,Engine,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-s-o-paulo,Brazilian Grand Prix,,,,,,18,67,,0.0,18,18,2,+5 Laps,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-s-o-paulo,Brazilian Grand Prix,,,,,,10,52,,0.0,19,R,2,Electrical,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-s-o-paulo,Brazilian Grand Prix,,,,,,11,16,,0.0,20,R,2,Suspension,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-s-o-paulo,Brazilian Grand Prix,,,,,,16,15,,0.0,21,R,2,Suspension,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-s-o-paulo,Brazilian Grand Prix,,,,,,20,0,,0.0,22,R,2,Accident,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-buenos-aires,Argentine Grand Prix,,,,,,1,72,6721715,10.0,1,1,3,Finished,1:52:01.715,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-buenos-aires,Argentine Grand Prix,,,,,,7,72,6722694,6.0,2,2,3,Finished,+0.979,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-buenos-aires,Argentine Grand Prix,,,,,,6,72,6733804,4.0,3,3,3,Finished,+12.089,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-buenos-aires,Argentine Grand Prix,,,,,,8,72,6751634,3.0,4,4,3,Finished,+29.919,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-buenos-aires,Argentine Grand Prix,,,,,,17,72,6752066,2.0,5,5,3,Finished,+30.351,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-buenos-aires,Argentine Grand Prix,,,,,,12,72,6753108,1.0,6,6,3,Finished,+31.393,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-buenos-aires,Argentine Grand Prix,,,,,,11,72,6768074,0.0,7,7,3,Finished,+46.359,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-buenos-aires,Argentine Grand Prix,,,,,,19,71,,0.0,8,8,3,+1 Lap,,1997
+Minardi,minardi,Italian,TRU,trulli,Jarno Trulli,Italian,21,1997-buenos-aires,Argentine Grand Prix,,,,,,18,71,,0.0,9,9,3,+1 Lap,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-buenos-aires,Argentine Grand Prix,,,,,,15,66,,0.0,10,10,3,Engine,,1997
+Sauber,sauber,Swiss,,larini,Nicola Larini,Italian,17,1997-buenos-aires,Argentine Grand Prix,,,,,,14,63,,0.0,11,R,3,Spun off,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-buenos-aires,Argentine Grand Prix,,,,,,22,50,,0.0,12,R,3,Engine,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-buenos-aires,Argentine Grand Prix,,,,,,20,49,,0.0,13,R,3,Engine,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-buenos-aires,Argentine Grand Prix,,,,,,16,43,,0.0,14,R,3,Engine,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-buenos-aires,Argentine Grand Prix,,,,,,21,37,,0.0,15,R,3,Spun off,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-buenos-aires,Argentine Grand Prix,,,,,,13,33,,0.0,16,R,3,Engine,,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-buenos-aires,Argentine Grand Prix,,,,,,9,24,,0.0,17,R,3,Collision,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-buenos-aires,Argentine Grand Prix,,,,,,5,24,,0.0,18,R,3,Hydraulics,,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-buenos-aires,Argentine Grand Prix,,,,,,3,18,,0.0,19,R,3,Electrical,,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-buenos-aires,Argentine Grand Prix,,,,,,2,5,,0.0,20,R,3,Clutch,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-buenos-aires,Argentine Grand Prix,,,,,,4,0,,0.0,21,R,3,Collision,,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-buenos-aires,Argentine Grand Prix,,,,,,10,0,,0.0,22,R,3,Collision,,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-imola,San Marino Grand Prix,,,,,,2,62,5460673,10.0,1,1,4,Finished,1:31:00.673,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-imola,San Marino Grand Prix,,,,,,3,62,5461910,6.0,2,2,4,Finished,+1.237,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-imola,San Marino Grand Prix,,,,,,9,62,5539016,4.0,3,3,4,Finished,+1:18.343,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-imola,San Marino Grand Prix,,,,,,6,62,5544061,3.0,4,4,4,Finished,+1:23.388,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-imola,San Marino Grand Prix,,,,,,14,61,,2.0,5,5,4,+1 Lap,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-imola,San Marino Grand Prix,,,,,,8,61,,1.0,6,6,4,+1 Lap,,1997
+Sauber,sauber,Swiss,,larini,Nicola Larini,Italian,17,1997-imola,San Marino Grand Prix,,,,,,12,61,,0.0,7,7,4,+1 Lap,,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-imola,San Marino Grand Prix,,,,,,4,61,,0.0,8,8,4,+1 Lap,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-imola,San Marino Grand Prix,,,,,,19,60,,0.0,9,9,4,+2 Laps,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-imola,San Marino Grand Prix,,,,,,21,60,,0.0,10,10,4,+2 Laps,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-imola,San Marino Grand Prix,,,,,,22,59,,0.0,11,11,4,+3 Laps,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-imola,San Marino Grand Prix,,,,,,17,53,,0.0,12,R,4,Gearbox,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-imola,San Marino Grand Prix,,,,,,1,40,,0.0,13,R,4,Gearbox,,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-imola,San Marino Grand Prix,,,,,,10,38,,0.0,14,R,4,Engine,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-imola,San Marino Grand Prix,,,,,,13,32,,0.0,15,R,4,Engine,,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-imola,San Marino Grand Prix,,,,,,7,18,,0.0,16,R,4,Electrical,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-imola,San Marino Grand Prix,,,,,,5,17,,0.0,17,R,4,Transmission,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-imola,San Marino Grand Prix,,,,,,18,11,,0.0,18,R,4,Collision,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-imola,San Marino Grand Prix,,,,,,15,11,,0.0,19,R,4,Collision,,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-imola,San Marino Grand Prix,,,,,,11,4,,0.0,20,R,4,Spun off,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-imola,San Marino Grand Prix,,,,,,16,2,,0.0,21,R,4,Spun off,,1997
+Minardi,minardi,Italian,TRU,trulli,Jarno Trulli,Italian,21,1997-imola,San Marino Grand Prix,,,,,,20,0,,0.0,22,W,4,Gearbox,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-monte-carlo,Monaco Grand Prix,,,,,,2,62,7205654,10.0,1,1,5,Finished,2:00:05.654,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-monte-carlo,Monaco Grand Prix,,,,,,10,62,7258960,6.0,2,2,5,Finished,+53.306,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-monte-carlo,Monaco Grand Prix,,,,,,15,62,7287762,4.0,3,3,5,Finished,+1:22.108,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-monte-carlo,Monaco Grand Prix,,,,,,12,62,7310056,3.0,4,4,5,Finished,+1:44.402,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-monte-carlo,Monaco Grand Prix,,,,,,14,61,,2.0,5,5,5,+1 Lap,,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-monte-carlo,Monaco Grand Prix,,,,,,4,61,,1.0,6,6,5,+1 Lap,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-monte-carlo,Monaco Grand Prix,,,,,,19,61,,0.0,7,7,5,+1 Lap,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-monte-carlo,Monaco Grand Prix,,,,,,22,60,,0.0,8,8,5,+2 Laps,,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-monte-carlo,Monaco Grand Prix,,,,,,17,60,,0.0,9,9,5,+2 Laps,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-monte-carlo,Monaco Grand Prix,,,,,,20,60,,0.0,10,10,5,+2 Laps,,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-monte-carlo,Monaco Grand Prix,,,,,,1,39,,0.0,11,R,5,Spun off,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-monte-carlo,Monaco Grand Prix,,,,,,21,36,,0.0,12,R,5,Spun off,,1997
+Sauber,sauber,Swiss,,larini,Nicola Larini,Italian,17,1997-monte-carlo,Monaco Grand Prix,,,,,,11,24,,0.0,13,R,5,Spun off,,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-monte-carlo,Monaco Grand Prix,,,,,,9,16,,0.0,14,R,5,Spun off,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-monte-carlo,Monaco Grand Prix,,,,,,3,16,,0.0,15,R,5,Spun off,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-monte-carlo,Monaco Grand Prix,,,,,,6,10,,0.0,16,R,5,Spun off,,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-monte-carlo,Monaco Grand Prix,,,,,,7,9,,0.0,17,R,5,Spun off,,1997
+Minardi,minardi,Italian,TRU,trulli,Jarno Trulli,Italian,21,1997-monte-carlo,Monaco Grand Prix,,,,,,18,7,,0.0,18,R,5,Spun off,,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-monte-carlo,Monaco Grand Prix,,,,,,5,1,,0.0,19,R,5,Spun off,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-monte-carlo,Monaco Grand Prix,,,,,,8,1,,0.0,20,R,5,Collision,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-monte-carlo,Monaco Grand Prix,,,,,,13,1,,0.0,21,R,5,Collision,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-monte-carlo,Monaco Grand Prix,,,,,,16,0,,0.0,22,R,5,Spun off,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-barcelona,Spanish Grand Prix,,,,,,1,64,5435896,10.0,1,1,6,Finished,1:30:35.896,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-barcelona,Spanish Grand Prix,,,,,,12,64,5441700,6.0,2,2,6,Finished,+5.804,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-barcelona,Spanish Grand Prix,,,,,,4,64,5448430,4.0,3,3,6,Finished,+12.534,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-barcelona,Spanish Grand Prix,,,,,,7,64,5453875,3.0,4,4,6,Finished,+17.979,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-barcelona,Spanish Grand Prix,,,,,,10,64,5463882,2.0,5,5,6,Finished,+27.986,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-barcelona,Spanish Grand Prix,,,,,,3,64,5465640,1.0,6,6,6,Finished,+29.744,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-barcelona,Spanish Grand Prix,,,,,,5,64,5484681,0.0,7,7,6,Finished,+48.785,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-barcelona,Spanish Grand Prix,,,,,,2,64,5500035,0.0,8,8,6,Finished,+1:04.139,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-barcelona,Spanish Grand Prix,,,,,,8,64,5500663,0.0,9,9,6,Finished,+1:04.767,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-barcelona,Spanish Grand Prix,,,,,,6,64,5501566,0.0,10,10,6,Finished,+1:05.670,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-barcelona,Spanish Grand Prix,,,,,,19,63,,0.0,11,11,6,+1 Lap,,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-barcelona,Spanish Grand Prix,,,,,,11,63,,0.0,12,12,6,+1 Lap,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-barcelona,Spanish Grand Prix,,,,,,22,63,,0.0,13,13,6,+1 Lap,,1997
+Sauber,sauber,Swiss,,morbidelli,Gianni Morbidelli,Italian,17,1997-barcelona,Spanish Grand Prix,,,,,,13,62,,0.0,14,14,6,+2 Laps,,1997
+Minardi,minardi,Italian,TRU,trulli,Jarno Trulli,Italian,21,1997-barcelona,Spanish Grand Prix,,,,,,18,62,,0.0,15,15,6,+2 Laps,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-barcelona,Spanish Grand Prix,,,,,,21,53,,0.0,16,R,6,Engine,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-barcelona,Spanish Grand Prix,,,,,,9,50,,0.0,17,R,6,Engine,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-barcelona,Spanish Grand Prix,,,,,,17,37,,0.0,18,R,6,Engine,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-barcelona,Spanish Grand Prix,,,,,,14,35,,0.0,19,R,6,Puncture,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-barcelona,Spanish Grand Prix,,,,,,16,34,,0.0,20,R,6,Gearbox,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-barcelona,Spanish Grand Prix,,,,,,15,17,,0.0,21,R,6,Engine,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-barcelona,Spanish Grand Prix,,,,,,20,11,,0.0,22,R,6,Gearbox,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-montreal,Canadian Grand Prix,,,,,,1,54,4660646,10.0,1,1,7,Finished,1:17:40.646,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-montreal,Canadian Grand Prix,,,,,,8,54,4663211,6.0,2,2,7,Finished,+2.565,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-montreal,Canadian Grand Prix,,,,,,6,54,4663865,4.0,3,3,7,Finished,+3.219,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-montreal,Canadian Grand Prix,,,,,,4,54,4664414,3.0,4,4,7,Finished,+3.768,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-montreal,Canadian Grand Prix,,,,,,13,54,4665362,2.0,5,5,7,Finished,+4.716,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-montreal,Canadian Grand Prix,,,,,,19,54,4697347,1.0,6,6,7,Finished,+36.701,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-montreal,Canadian Grand Prix,,,,,,5,54,4698399,0.0,7,7,7,Finished,+37.753,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-montreal,Canadian Grand Prix,,,,,,16,53,,0.0,8,8,7,+1 Lap,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-montreal,Canadian Grand Prix,,,,,,15,53,,0.0,9,9,7,+1 Lap,,1997
+Sauber,sauber,Swiss,,morbidelli,Gianni Morbidelli,Italian,17,1997-montreal,Canadian Grand Prix,,,,,,18,53,,0.0,10,10,7,+1 Lap,,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-montreal,Canadian Grand Prix,,,,,,10,51,,0.0,11,11,7,Spun off,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-montreal,Canadian Grand Prix,,,,,,17,46,,0.0,12,R,7,Engine,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-montreal,Canadian Grand Prix,,,,,,14,42,,0.0,13,R,7,Gearbox,,1997
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,8,1997-montreal,Canadian Grand Prix,,,,,,11,35,,0.0,14,R,7,Transmission,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-montreal,Canadian Grand Prix,,,,,,3,33,,0.0,15,R,7,Gearbox,,1997
+Minardi,minardi,Italian,TRU,trulli,Jarno Trulli,Italian,21,1997-montreal,Canadian Grand Prix,,,,,,20,32,,0.0,16,R,7,Engine,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-montreal,Canadian Grand Prix,,,,,,7,14,,0.0,17,R,7,Accident,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-montreal,Canadian Grand Prix,,,,,,22,5,,0.0,18,R,7,Spun off,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-montreal,Canadian Grand Prix,,,,,,2,1,,0.0,19,R,7,Accident,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-montreal,Canadian Grand Prix,,,,,,9,0,,0.0,20,R,7,Engine,,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-montreal,Canadian Grand Prix,,,,,,12,0,,0.0,21,R,7,Accident,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-montreal,Canadian Grand Prix,,,,,,21,0,,0.0,22,R,7,Spun off,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-magny-cours,French Grand Prix,,,,,,1,72,5930492,10.0,1,1,8,Finished,1:38:50.492,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-magny-cours,French Grand Prix,,,,,,2,72,5954029,6.0,2,2,8,Finished,+23.537,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-magny-cours,French Grand Prix,,,,,,5,72,6005293,4.0,3,3,8,Finished,+1:14.801,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-magny-cours,French Grand Prix,,,,,,4,72,6012276,3.0,4,4,8,Finished,+1:21.784,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-magny-cours,French Grand Prix,,,,,,8,72,6013227,2.0,5,5,8,Finished,+1:22.735,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-magny-cours,French Grand Prix,,,,,,3,72,6020363,1.0,6,6,8,Finished,+1:29.871,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-magny-cours,French Grand Prix,,,,,,9,71,,0.0,7,7,8,Collision,,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-magny-cours,French Grand Prix,,,,,,14,71,,0.0,8,8,8,+1 Lap,,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-magny-cours,French Grand Prix,,,,,,11,71,,0.0,9,9,8,+1 Lap,,1997
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,14,1997-magny-cours,French Grand Prix,,,,,,6,70,,0.0,10,10,8,+2 Laps,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-magny-cours,French Grand Prix,,,,,,21,70,,0.0,11,11,8,+2 Laps,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-magny-cours,French Grand Prix,,,,,,17,69,,0.0,12,12,8,+3 Laps,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-magny-cours,French Grand Prix,,,,,,19,61,,0.0,13,R,8,Electrical,,1997
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,8,1997-magny-cours,French Grand Prix,,,,,,7,60,,0.0,14,R,8,Spun off,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-magny-cours,French Grand Prix,,,,,,16,58,,0.0,15,R,8,Spun off,,1997
+Sauber,sauber,Swiss,,fontana,Norberto Fontana,Argentine,17,1997-magny-cours,French Grand Prix,,,,,,20,40,,0.0,16,R,8,Spun off,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-magny-cours,French Grand Prix,,,,,,13,36,,0.0,17,R,8,Engine,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-magny-cours,French Grand Prix,,,,,,15,33,,0.0,18,R,8,Brakes,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-magny-cours,French Grand Prix,,,,,,10,18,,0.0,19,R,8,Engine,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-magny-cours,French Grand Prix,,,,,,18,15,,0.0,20,R,8,Spun off,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-magny-cours,French Grand Prix,,,,,,12,7,,0.0,21,R,8,Spun off,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-magny-cours,French Grand Prix,,,,,,22,5,,0.0,22,R,8,Engine,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-silverstone,British Grand Prix,,,,,,1,59,5281665,10.0,1,1,9,Finished,1:28:01.665,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-silverstone,British Grand Prix,,,,,,11,59,5291870,6.0,2,2,9,Finished,+10.205,1997
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,8,1997-silverstone,British Grand Prix,,,,,,8,59,5292961,4.0,3,3,9,Finished,+11.296,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-silverstone,British Grand Prix,,,,,,6,59,5312894,3.0,4,4,9,Finished,+31.229,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-silverstone,British Grand Prix,,,,,,5,59,5313545,2.0,5,5,9,Finished,+31.880,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-silverstone,British Grand Prix,,,,,,12,59,5355217,1.0,6,6,9,Finished,+1:13.552,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-silverstone,British Grand Prix,,,,,,10,58,,0.0,7,7,9,+1 Lap,,1997
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,14,1997-silverstone,British Grand Prix,,,,,,13,58,,0.0,8,8,9,+1 Lap,,1997
+Sauber,sauber,Swiss,,fontana,Norberto Fontana,Argentine,17,1997-silverstone,British Grand Prix,,,,,,14,58,,0.0,9,9,9,+1 Lap,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-silverstone,British Grand Prix,,,,,,21,58,,0.0,10,10,9,+1 Lap,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-silverstone,British Grand Prix,,,,,,15,57,,0.0,11,11,9,Engine,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-silverstone,British Grand Prix,,,,,,3,52,,0.0,12,R,9,Engine,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-silverstone,British Grand Prix,,,,,,16,50,,0.0,13,R,9,Engine,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-silverstone,British Grand Prix,,,,,,20,45,,0.0,14,R,9,Engine,,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-silverstone,British Grand Prix,,,,,,7,44,,0.0,15,R,9,Halfshaft,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-silverstone,British Grand Prix,,,,,,18,44,,0.0,16,R,9,Engine,,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-silverstone,British Grand Prix,,,,,,9,42,,0.0,17,R,9,Electrical,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-silverstone,British Grand Prix,,,,,,4,38,,0.0,18,R,9,Wheel,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-silverstone,British Grand Prix,,,,,,22,37,,0.0,19,R,9,Engine,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-silverstone,British Grand Prix,,,,,,17,29,,0.0,20,R,9,Engine,,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-silverstone,British Grand Prix,,,,,,2,0,,0.0,21,R,9,Collision,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-silverstone,British Grand Prix,,,,,,19,0,,0.0,22,R,9,Spun off,,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-hockenheim,German Grand Prix,,,,,,1,45,4859046,10.0,1,1,10,Finished,1:20:59.046,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-hockenheim,German Grand Prix,,,,,,4,45,4876573,6.0,2,2,10,Finished,+17.527,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-hockenheim,German Grand Prix,,,,,,3,45,4883816,4.0,3,3,10,Finished,+24.770,1997
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,14,1997-hockenheim,German Grand Prix,,,,,,11,45,4886211,3.0,4,4,10,Finished,+27.165,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-hockenheim,German Grand Prix,,,,,,7,45,4889041,2.0,5,5,10,Finished,+29.995,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-hockenheim,German Grand Prix,,,,,,6,45,4893763,1.0,6,6,10,Finished,+34.717,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-hockenheim,German Grand Prix,,,,,,17,45,4938768,0.0,7,7,10,Finished,+1:19.722,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-hockenheim,German Grand Prix,,,,,,13,44,,0.0,8,8,10,+1 Lap,,1997
+Sauber,sauber,Swiss,,fontana,Norberto Fontana,Argentine,17,1997-hockenheim,German Grand Prix,,,,,,18,44,,0.0,9,9,10,+1 Lap,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-hockenheim,German Grand Prix,,,,,,20,44,,0.0,10,10,10,+1 Lap,,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-hockenheim,German Grand Prix,,,,,,2,40,,0.0,11,11,10,+5 Laps,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-hockenheim,German Grand Prix,,,,,,12,33,,0.0,12,R,10,Engine,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-hockenheim,German Grand Prix,,,,,,19,33,,0.0,13,R,10,Clutch,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-hockenheim,German Grand Prix,,,,,,9,33,,0.0,14,R,10,Spun off,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-hockenheim,German Grand Prix,,,,,,15,27,,0.0,15,R,10,Engine,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-hockenheim,German Grand Prix,,,,,,22,23,,0.0,16,R,10,Out of fuel,,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-hockenheim,German Grand Prix,,,,,,14,8,,0.0,17,R,10,Accident,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-hockenheim,German Grand Prix,,,,,,16,8,,0.0,18,R,10,Accident,,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-hockenheim,German Grand Prix,,,,,,8,1,,0.0,19,R,10,Transmission,,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-hockenheim,German Grand Prix,,,,,,5,1,,0.0,20,R,10,Collision,,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-hockenheim,German Grand Prix,,,,,,10,1,,0.0,21,R,10,Collision,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-hockenheim,German Grand Prix,,,,,,21,0,,0.0,22,R,10,Gearbox,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-budapest,Hungarian Grand Prix,,,,,,2,77,6347149,10.0,1,1,11,Finished,1:45:47.149,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-budapest,Hungarian Grand Prix,,,,,,3,77,6356228,6.0,2,2,11,Finished,+9.079,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-budapest,Hungarian Grand Prix,,,,,,10,77,6367594,4.0,3,3,11,Finished,+20.445,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-budapest,Hungarian Grand Prix,,,,,,1,77,6377650,3.0,4,4,11,Finished,+30.501,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-budapest,Hungarian Grand Prix,,,,,,14,77,6377864,2.0,5,5,11,Finished,+30.715,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-budapest,Hungarian Grand Prix,,,,,,16,77,6388661,1.0,6,6,11,Finished,+41.512,1997
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,14,1997-budapest,Hungarian Grand Prix,,,,,,12,77,6422701,0.0,7,7,11,Finished,+1:15.552,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-budapest,Hungarian Grand Prix,,,,,,7,77,6423558,0.0,8,8,11,Finished,+1:16.409,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-budapest,Hungarian Grand Prix,,,,,,5,76,,0.0,9,9,11,Spun off,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-budapest,Hungarian Grand Prix,,,,,,20,76,,0.0,10,10,11,+1 Lap,,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-budapest,Hungarian Grand Prix,,,,,,9,76,,0.0,11,11,11,+1 Lap,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-budapest,Hungarian Grand Prix,,,,,,22,75,,0.0,12,12,11,+2 Laps,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-budapest,Hungarian Grand Prix,,,,,,21,75,,0.0,13,13,11,+2 Laps,,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-budapest,Hungarian Grand Prix,,,,,,8,65,,0.0,14,R,11,Electrical,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-budapest,Hungarian Grand Prix,,,,,,18,61,,0.0,15,R,11,Gearbox,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-budapest,Hungarian Grand Prix,,,,,,19,53,,0.0,16,R,11,Electrical,,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-budapest,Hungarian Grand Prix,,,,,,13,42,,0.0,17,R,11,Spun off,,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-budapest,Hungarian Grand Prix,,,,,,6,29,,0.0,18,R,11,Fuel,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-budapest,Hungarian Grand Prix,,,,,,11,29,,0.0,19,R,11,Engine,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-budapest,Hungarian Grand Prix,,,,,,4,12,,0.0,20,R,11,Hydraulics,,1997
+Sauber,sauber,Swiss,,morbidelli,Gianni Morbidelli,Italian,17,1997-budapest,Hungarian Grand Prix,,,,,,15,7,,0.0,21,R,11,Engine,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-budapest,Hungarian Grand Prix,,,,,,17,5,,0.0,22,R,11,Accident,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-spa,Belgian Grand Prix,,,,,,3,44,5626717,10.0,1,1,12,Finished,1:33:46.717,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-spa,Belgian Grand Prix,,,,,,4,44,5653470,6.0,2,2,12,Finished,+26.753,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-spa,Belgian Grand Prix,,,,,,7,44,5658864,4.0,3,3,12,Finished,+32.147,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-spa,Belgian Grand Prix,,,,,,11,44,5665742,3.0,4,4,12,Finished,+39.025,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-spa,Belgian Grand Prix,,,,,,1,44,5668820,2.0,5,5,12,Finished,+42.103,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-spa,Belgian Grand Prix,,,,,,15,44,5690458,1.0,6,6,12,Finished,+1:03.741,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-spa,Belgian Grand Prix,,,,,,8,44,5712648,0.0,7,7,12,Finished,+1:25.931,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-spa,Belgian Grand Prix,,,,,,2,44,5728725,0.0,8,8,12,Finished,+1:42.008,1997
+Sauber,sauber,Swiss,,morbidelli,Gianni Morbidelli,Italian,17,1997-spa,Belgian Grand Prix,,,,,,13,44,5729299,0.0,9,9,12,Finished,+1:42.582,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-spa,Belgian Grand Prix,,,,,,17,43,,0.0,10,10,12,+1 Lap,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-spa,Belgian Grand Prix,,,,,,19,43,,0.0,11,11,12,+1 Lap,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-spa,Belgian Grand Prix,,,,,,18,43,,0.0,12,12,12,+1 Lap,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-spa,Belgian Grand Prix,,,,,,9,42,,0.0,13,13,12,+2 Laps,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-spa,Belgian Grand Prix,,,,,,20,42,,0.0,14,14,12,+2 Laps,,1997
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,14,1997-spa,Belgian Grand Prix,,,,,,14,42,,0.0,15,15,12,+2 Laps,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-spa,Belgian Grand Prix,,,,,,5,44,,0.0,16,D,12,Disqualified,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-spa,Belgian Grand Prix,,,,,,21,25,,0.0,17,R,12,Spun off,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-spa,Belgian Grand Prix,,,,,,6,21,,0.0,18,R,12,Spun off,,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-spa,Belgian Grand Prix,,,,,,10,19,,0.0,19,R,12,Spun off,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-spa,Belgian Grand Prix,,,,,,22,18,,0.0,20,R,12,Spun off,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-spa,Belgian Grand Prix,,,,,,12,8,,0.0,21,R,12,Steering,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-spa,Belgian Grand Prix,,,,,,16,5,,0.0,22,R,12,Electrical,,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-monza,Italian Grand Prix,,,,,,6,53,4624609,10.0,1,1,13,Finished,1:17:04.609,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-monza,Italian Grand Prix,,,,,,1,53,4626546,6.0,2,2,13,Finished,+1.937,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-monza,Italian Grand Prix,,,,,,2,53,4628952,4.0,3,3,13,Finished,+4.343,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-monza,Italian Grand Prix,,,,,,3,53,4630480,3.0,4,4,13,Finished,+5.871,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-monza,Italian Grand Prix,,,,,,4,53,4631025,2.0,5,5,13,Finished,+6.416,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-monza,Italian Grand Prix,,,,,,9,53,4636090,1.0,6,6,13,Finished,+11.481,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-monza,Italian Grand Prix,,,,,,7,53,4637080,0.0,7,7,13,Finished,+12.471,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-monza,Italian Grand Prix,,,,,,10,53,4642248,0.0,8,8,13,Finished,+17.639,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-monza,Italian Grand Prix,,,,,,5,53,4673982,0.0,9,9,13,Finished,+49.373,1997
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,14,1997-monza,Italian Grand Prix,,,,,,16,53,4687315,0.0,10,10,13,Finished,+1:02.706,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-monza,Italian Grand Prix,,,,,,15,53,4687936,0.0,11,11,13,Finished,+1:03.327,1997
+Sauber,sauber,Swiss,,morbidelli,Gianni Morbidelli,Italian,17,1997-monza,Italian Grand Prix,,,,,,18,52,,0.0,12,12,13,+1 Lap,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-monza,Italian Grand Prix,,,,,,11,52,,0.0,13,13,13,+1 Lap,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-monza,Italian Grand Prix,,,,,,22,50,,0.0,14,14,13,+3 Laps,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-monza,Italian Grand Prix,,,,,,14,46,,0.0,15,R,13,Engine,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-monza,Italian Grand Prix,,,,,,8,39,,0.0,16,R,13,Collision,,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-monza,Italian Grand Prix,,,,,,12,38,,0.0,17,R,13,Collision,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-monza,Italian Grand Prix,,,,,,19,33,,0.0,18,R,13,Engine,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-monza,Italian Grand Prix,,,,,,13,31,,0.0,19,R,13,Transmission,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-monza,Italian Grand Prix,,,,,,20,12,,0.0,20,R,13,Gearbox,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-monza,Italian Grand Prix,,,,,,21,8,,0.0,21,R,13,Spun off,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-monza,Italian Grand Prix,,,,,,17,4,,0.0,22,R,13,Suspension,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-spielberg,Austrian Grand Prix,,,,,,1,71,5255999,10.0,1,1,14,Finished,1:27:35.999,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-spielberg,Austrian Grand Prix,,,,,,10,71,5258908,6.0,2,2,14,Finished,+2.909,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-spielberg,Austrian Grand Prix,,,,,,4,71,5259961,4.0,3,3,14,Finished,+3.962,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-spielberg,Austrian Grand Prix,,,,,,14,71,5268126,3.0,4,4,14,Finished,+12.127,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-spielberg,Austrian Grand Prix,,,,,,11,71,5287858,2.0,5,5,14,Finished,+31.859,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-spielberg,Austrian Grand Prix,,,,,,9,71,5289409,1.0,6,6,14,Finished,+33.410,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-spielberg,Austrian Grand Prix,,,,,,7,71,5293206,0.0,7,7,14,Finished,+37.207,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-spielberg,Austrian Grand Prix,,,,,,12,71,5305056,0.0,8,8,14,Finished,+49.057,1997
+Sauber,sauber,Swiss,,morbidelli,Gianni Morbidelli,Italian,17,1997-spielberg,Austrian Grand Prix,,,,,,13,71,5322454,0.0,9,9,14,Finished,+1:06.455,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-spielberg,Austrian Grand Prix,,,,,,18,70,,0.0,10,10,14,+1 Lap,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-spielberg,Austrian Grand Prix,,,,,,19,69,,0.0,11,11,14,+2 Laps,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-spielberg,Austrian Grand Prix,,,,,,20,69,,0.0,12,12,14,+2 Laps,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-spielberg,Austrian Grand Prix,,,,,,17,67,,0.0,13,13,14,+4 Laps,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-spielberg,Austrian Grand Prix,,,,,,5,64,,0.0,14,14,14,Spun off,,1997
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,14,1997-spielberg,Austrian Grand Prix,,,,,,3,58,,0.0,15,R,14,Engine,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-spielberg,Austrian Grand Prix,,,,,,6,58,,0.0,16,R,14,Engine,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-spielberg,Austrian Grand Prix,,,,,,16,57,,0.0,17,R,14,Engine,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-spielberg,Austrian Grand Prix,,,,,,21,48,,0.0,18,R,14,Gearbox,,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-spielberg,Austrian Grand Prix,,,,,,8,38,,0.0,19,R,14,Collision,,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-spielberg,Austrian Grand Prix,,,,,,15,37,,0.0,20,R,14,Collision,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-spielberg,Austrian Grand Prix,,,,,,2,1,,0.0,21,R,14,Engine,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-spielberg,Austrian Grand Prix,,,,,,0,0,,0.0,22,D,14,Underweight,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-n-rburg,Luxembourg Grand Prix,,,,,,2,67,5487843,10.0,1,1,15,Finished,1:31:27.843,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-n-rburg,Luxembourg Grand Prix,,,,,,10,67,5499613,6.0,2,2,15,Finished,+11.770,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-n-rburg,Luxembourg Grand Prix,,,,,,3,67,5501323,4.0,3,3,15,Finished,+13.480,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-n-rburg,Luxembourg Grand Prix,,,,,,7,67,5504259,3.0,4,4,15,Finished,+16.416,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-n-rburg,Luxembourg Grand Prix,,,,,,15,67,5530990,2.0,5,5,15,Finished,+43.147,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-n-rburg,Luxembourg Grand Prix,,,,,,11,67,5531593,1.0,6,6,15,Finished,+43.750,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-n-rburg,Luxembourg Grand Prix,,,,,,16,67,5532197,0.0,7,7,15,Finished,+44.354,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-n-rburg,Luxembourg Grand Prix,,,,,,13,67,5532620,0.0,8,8,15,Finished,+44.777,1997
+Sauber,sauber,Swiss,,morbidelli,Gianni Morbidelli,Italian,17,1997-n-rburg,Luxembourg Grand Prix,,,,,,19,66,,0.0,9,9,15,+1 Lap,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-n-rburg,Luxembourg Grand Prix,,,,,,20,66,,0.0,10,10,15,+1 Lap,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-n-rburg,Luxembourg Grand Prix,,,,,,21,50,,0.0,11,R,15,Spun off,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-n-rburg,Luxembourg Grand Prix,,,,,,1,43,,0.0,12,R,15,Engine,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-n-rburg,Luxembourg Grand Prix,,,,,,9,43,,0.0,13,R,15,Gearbox,,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-n-rburg,Luxembourg Grand Prix,,,,,,6,42,,0.0,14,R,15,Engine,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-n-rburg,Luxembourg Grand Prix,,,,,,12,40,,0.0,15,R,15,Halfshaft,,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-n-rburg,Luxembourg Grand Prix,,,,,,14,22,,0.0,16,R,15,Engine,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-n-rburg,Luxembourg Grand Prix,,,,,,17,16,,0.0,17,R,15,Engine,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-n-rburg,Luxembourg Grand Prix,,,,,,5,2,,0.0,18,R,15,Suspension,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-n-rburg,Luxembourg Grand Prix,,,,,,18,1,,0.0,19,R,15,Engine,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-n-rburg,Luxembourg Grand Prix,,,,,,22,1,,0.0,20,R,15,Collision,,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-n-rburg,Luxembourg Grand Prix,,,,,,4,0,,0.0,21,R,15,Collision,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-n-rburg,Luxembourg Grand Prix,,,,,,8,0,,0.0,22,R,15,Collision,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-suzuka,Japanese Grand Prix,,,,,,2,53,5388446,10.0,1,1,16,Finished,1:29:48.446,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-suzuka,Japanese Grand Prix,,,,,,6,53,5389824,6.0,2,2,16,Finished,+1.378,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-suzuka,Japanese Grand Prix,,,,,,3,53,5414830,4.0,3,3,16,Finished,+26.384,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-suzuka,Japanese Grand Prix,,,,,,4,53,5415575,3.0,4,4,16,Finished,+27.129,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-suzuka,Japanese Grand Prix,,,,,,7,53,5428849,2.0,5,5,16,Finished,+40.403,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-suzuka,Japanese Grand Prix,,,,,,8,53,5430076,1.0,6,6,16,Finished,+41.630,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-suzuka,Japanese Grand Prix,,,,,,9,53,5445271,0.0,7,7,16,Finished,+56.825,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-suzuka,Japanese Grand Prix,,,,,,5,53,5448875,0.0,8,8,16,Finished,+1:00.429,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-suzuka,Japanese Grand Prix,,,,,,13,53,5470482,0.0,9,9,16,Finished,+1:22.036,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-suzuka,Japanese Grand Prix,,,,,,11,52,,0.0,10,10,16,Engine,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-suzuka,Japanese Grand Prix,,,,,,17,52,,0.0,11,11,16,+1 Lap,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-suzuka,Japanese Grand Prix,,,,,,16,52,,0.0,12,12,16,+1 Lap,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-suzuka,Japanese Grand Prix,,,,,,21,52,,0.0,13,13,16,+1 Lap,,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-suzuka,Japanese Grand Prix,,,,,,1,53,,0.0,14,D,16,Disqualified,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-suzuka,Japanese Grand Prix,,,,,,20,46,,0.0,15,R,16,Gearbox,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-suzuka,Japanese Grand Prix,,,,,,22,46,,0.0,16,R,16,Engine,,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-suzuka,Japanese Grand Prix,,,,,,10,36,,0.0,17,R,16,Engine,,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-suzuka,Japanese Grand Prix,,,,,,15,22,,0.0,18,R,16,Wheel bearing,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-suzuka,Japanese Grand Prix,,,,,,19,8,,0.0,19,R,16,Engine,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-suzuka,Japanese Grand Prix,,,,,,12,6,,0.0,20,R,16,Spun off,,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-suzuka,Japanese Grand Prix,,,,,,14,3,,0.0,21,R,16,Spun off,,1997
+Sauber,sauber,Swiss,,morbidelli,Gianni Morbidelli,Italian,17,1997-suzuka,Japanese Grand Prix,,,,,,0,0,,0.0,22,W,16,Injury,,1997
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,9,1997-jerez-de-la-frontera,European Grand Prix,,,,,,5,69,5937771,10.0,1,1,17,Finished,1:38:57.771,1997
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,10,1997-jerez-de-la-frontera,European Grand Prix,,,,,,6,69,5939425,6.0,2,2,17,Finished,+1.654,1997
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,3,1997-jerez-de-la-frontera,European Grand Prix,,,,,,1,69,5939574,4.0,3,3,17,Finished,+1.803,1997
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,8,1997-jerez-de-la-frontera,European Grand Prix,,,,,,8,69,5939690,3.0,4,4,17,Finished,+1.919,1997
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,6,1997-jerez-de-la-frontera,European Grand Prix,,,,,,7,69,5941560,2.0,5,5,17,Finished,+3.789,1997
+Williams,williams,British,,frentzen,Heinz-Harald Frentzen,German,4,1997-jerez-de-la-frontera,European Grand Prix,,,,,,3,69,5942308,1.0,6,6,17,Finished,+4.537,1997
+Prost,prost,French,,panis,Olivier Panis,French,14,1997-jerez-de-la-frontera,European Grand Prix,,,,,,9,69,6004916,0.0,7,7,17,Finished,+1:07.145,1997
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,16,1997-jerez-de-la-frontera,European Grand Prix,,,,,,14,69,6010732,0.0,8,8,17,Finished,+1:12.961,1997
+Stewart,stewart,British,MAG,magnussen,Jan Magnussen,Danish,23,1997-jerez-de-la-frontera,European Grand Prix,,,,,,11,69,6015258,0.0,9,9,17,Finished,+1:17.487,1997
+Prost,prost,French,,nakano,Shinji Nakano,Japanese,15,1997-jerez-de-la-frontera,European Grand Prix,,,,,,15,69,6015986,0.0,10,10,17,Finished,+1:18.215,1997
+Jordan,jordan,Irish,FIS,fisichella,Giancarlo Fisichella,Italian,12,1997-jerez-de-la-frontera,European Grand Prix,,,,,,17,68,,0.0,11,11,17,+1 Lap,,1997
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1997-jerez-de-la-frontera,European Grand Prix,,,,,,21,68,,0.0,12,12,17,+1 Lap,,1997
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,7,1997-jerez-de-la-frontera,European Grand Prix,,,,,,10,68,,0.0,13,13,17,+1 Lap,,1997
+Sauber,sauber,Swiss,,fontana,Norberto Fontana,Argentine,17,1997-jerez-de-la-frontera,European Grand Prix,,,,,,18,68,,0.0,14,14,17,+1 Lap,,1997
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1997-jerez-de-la-frontera,European Grand Prix,,,,,,20,68,,0.0,15,15,17,+1 Lap,,1997
+Tyrrell,tyrrell,British,,verstappen,Jos Verstappen,Dutch,18,1997-jerez-de-la-frontera,European Grand Prix,,,,,,22,68,,0.0,16,16,17,+1 Lap,,1997
+Minardi,minardi,Italian,,katayama,Ukyo Katayama,Japanese,20,1997-jerez-de-la-frontera,European Grand Prix,,,,,,19,68,,0.0,17,17,17,+1 Lap,,1997
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,5,1997-jerez-de-la-frontera,European Grand Prix,,,,,,2,47,,0.0,18,R,17,Collision,,1997
+Arrows,arrows,British,,damon_hill,Damon Hill,British,1,1997-jerez-de-la-frontera,European Grand Prix,,,,,,4,47,,0.0,19,R,17,Gearbox,,1997
+Jordan,jordan,Irish,SCH,ralf_schumacher,Ralf Schumacher,German,11,1997-jerez-de-la-frontera,European Grand Prix,,,,,,16,44,,0.0,20,R,17,Water leak,,1997
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,22,1997-jerez-de-la-frontera,European Grand Prix,,,,,,12,30,,0.0,21,R,17,Gearbox,,1997
+Arrows,arrows,British,,diniz,Pedro Diniz,Brazilian,2,1997-jerez-de-la-frontera,European Grand Prix,,,,,,13,11,,0.0,22,R,17,Spun off,,1997

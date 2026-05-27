@@ -1,0 +1,247 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,10,1953-buenos-aires,Argentine Grand Prix,,,,,,1,97,10864600,9.0,1,1,1,Finished,3:01:04.600,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,14,1953-buenos-aires,Argentine Grand Prix,,,,,,3,96,,6.0,2,2,1,+1 Lap,,1953
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,4,1953-buenos-aires,Argentine Grand Prix,,,,,,5,96,,4.0,3,3,1,+1 Lap,,1953
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,16,1953-buenos-aires,Argentine Grand Prix,,,,,,6,96,,3.0,4,4,1,+1 Lap,,1953
+Maserati,maserati,Italian,,galvez,Oscar Gálvez,Argentine,8,1953-buenos-aires,Argentine Grand Prix,,,,,,9,96,,2.0,5,5,1,+1 Lap,,1953
+Gordini,gordini,French,,behra,Jean Behra,French,30,1953-buenos-aires,Argentine Grand Prix,,,,,,11,94,,0.0,6,6,1,+3 Laps,,1953
+Gordini,gordini,French,,schell,Harry Schell,American,28,1953-buenos-aires,Argentine Grand Prix,,,,,,7,91,,0.0,7,7,1,+6 Laps,,1953
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,28,1953-buenos-aires,Argentine Grand Prix,,,,,,7,91,,0.0,7,7,1,+6 Laps,,1953
+Cooper,cooper,British,,john_barber,John Barber,British,22,1953-buenos-aires,Argentine Grand Prix,,,,,,16,90,,0.0,8,8,1,+7 Laps,,1953
+Cooper,cooper,British,,alan_brown,Alan Brown,British,20,1953-buenos-aires,Argentine Grand Prix,,,,,,12,87,,0.0,9,9,1,+10 Laps,,1953
+Gordini,gordini,French,,manzon,Robert Manzon,French,26,1953-buenos-aires,Argentine Grand Prix,,,,,,8,67,,0.0,10,R,1,Wheel,,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,2,1953-buenos-aires,Argentine Grand Prix,,,,,,2,36,,0.0,11,R,1,Transmission,,1953
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,6,1953-buenos-aires,Argentine Grand Prix,,,,,,15,32,,0.0,12,R,1,Transmission,,1953
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,12,1953-buenos-aires,Argentine Grand Prix,,,,,,4,31,,0.0,13,R,1,Accident,,1953
+Gordini,gordini,French,,menditeguy,Carlos Menditeguy,Argentine,32,1953-buenos-aires,Argentine Grand Prix,,,,,,10,24,,0.0,14,R,1,Gearbox,,1953
+Simca,simca,French,,birger,Pablo Birger,Argentine,34,1953-buenos-aires,Argentine Grand Prix,,,,,,14,21,,0.0,15,R,1,Differential,,1953
+Cooper,cooper,British,,cruz,Adolfo Cruz,Argentine,24,1953-buenos-aires,Argentine Grand Prix,,,,,,13,20,,0.0,16,R,1,Wheel,,1953
+Kurtis Kraft,kurtis_kraft,American,,vukovich,Bill Vukovich,American,14,1953-indianapolis,Indianapolis 500,,,,,,1,200,13981690,9.0,1,1,2,Finished,3:53:01.690,1953
+Kurtis Kraft,kurtis_kraft,American,,cross,Art Cross,American,16,1953-indianapolis,Indianapolis 500,,,,,,12,200,14192560,6.0,2,2,2,Finished,+3:30.870,1953
+Kurtis Kraft,kurtis_kraft,American,,darter,Duane Carter,American,3,1953-indianapolis,Indianapolis 500,,,,,,9,200,14233190,2.0,3,3,2,Finished,+4:11.500,1953
+Kurtis Kraft,kurtis_kraft,American,,hanks,Sam Hanks,American,3,1953-indianapolis,Indianapolis 500,,,,,,9,200,14233190,2.0,3,3,2,Finished,+4:11.500,1953
+Kurtis Kraft,kurtis_kraft,American,,agabashian,Fred Agabashian,American,59,1953-indianapolis,Indianapolis 500,,,,,,2,200,14260930,1.5,4,4,2,Finished,+4:39.240,1953
+Kurtis Kraft,kurtis_kraft,American,,paul_russo,Paul Russo,American,59,1953-indianapolis,Indianapolis 500,,,,,,2,200,14260930,1.5,4,4,2,Finished,+4:39.240,1953
+Kurtis Kraft,kurtis_kraft,American,,mcgrath,Jack McGrath,American,5,1953-indianapolis,Indianapolis 500,,,,,,3,200,14451330,2.0,5,5,2,Finished,+7:49.640,1953
+Kurtis Kraft,kurtis_kraft,American,,daywalt,Jimmy Daywalt,American,48,1953-indianapolis,Indianapolis 500,,,,,,21,200,14471900,0.0,6,6,2,Finished,+8:10.210,1953
+Kurtis Kraft,kurtis_kraft,American,,rathmann,Jim Rathmann,American,2,1953-indianapolis,Indianapolis 500,,,,,,25,200,14507710,0.0,7,7,2,Finished,+8:46.020,1953
+Kurtis Kraft,kurtis_kraft,American,,johnson,Eddie Johnson,American,2,1953-indianapolis,Indianapolis 500,,,,,,25,200,14507710,0.0,7,7,2,Finished,+8:46.020,1953
+Stevens,stevens,American,,mccoy,Ernie McCoy,American,12,1953-indianapolis,Indianapolis 500,,,,,,20,200,14586240,0.0,8,8,2,Finished,+10:04.550,1953
+Kuzma,kuzma,American,,bettenhausen,Tony Bettenhausen,American,98,1953-indianapolis,Indianapolis 500,,,,,,6,196,,0.0,9,9,2,Accident,,1953
+Kuzma,kuzma,American,,stevenson,Chuck Stevenson,American,98,1953-indianapolis,Indianapolis 500,,,,,,6,196,,0.0,9,9,2,Accident,,1953
+Kuzma,kuzma,American,,hartley,Gene Hartley,American,98,1953-indianapolis,Indianapolis 500,,,,,,6,196,,0.0,9,9,2,Accident,,1953
+Kurtis Kraft,kurtis_kraft,American,,davies,Jimmy Davies,American,53,1953-indianapolis,Indianapolis 500,,,,,,32,193,,0.0,10,10,2,+7 Laps,,1953
+Kurtis Kraft,kurtis_kraft,American,,nalon,Duke Nalon,American,9,1953-indianapolis,Indianapolis 500,,,,,,26,191,,0.0,11,11,2,Accident,,1953
+Kurtis Kraft,kurtis_kraft,American,,bob_scott,Bob Scott,American,73,1953-indianapolis,Indianapolis 500,,,,,,19,190,,0.0,12,12,2,+10 Laps,,1953
+Kurtis Kraft,kurtis_kraft,American,,scarborough,Carl Scarborough,American,73,1953-indianapolis,Indianapolis 500,,,,,,19,190,,0.0,12,12,2,+10 Laps,,1953
+Kuzma,kuzma,American,,ayulo,Manny Ayulo,American,88,1953-indianapolis,Indianapolis 500,,,,,,4,184,,0.0,13,13,2,Engine,,1953
+Schroeder,schroeder,American,,bryan,Jimmy Bryan,American,8,1953-indianapolis,Indianapolis 500,,,,,,31,183,,0.0,14,14,2,+17 Laps,,1953
+Kurtis Kraft,kurtis_kraft,American,,rathmann,Jim Rathmann,American,49,1953-indianapolis,Indianapolis 500,,,,,,28,177,,0.0,15,15,2,Magneto,,1953
+Kurtis Kraft,kurtis_kraft,American,,holland,Bill Holland,American,49,1953-indianapolis,Indianapolis 500,,,,,,28,177,,0.0,15,15,2,Magneto,,1953
+Kurtis Kraft,kurtis_kraft,American,,ward,Rodger Ward,American,92,1953-indianapolis,Indianapolis 500,,,,,,10,177,,0.0,16,16,2,Axle,,1953
+Kurtis Kraft,kurtis_kraft,American,,linden,Andy Linden,American,92,1953-indianapolis,Indianapolis 500,,,,,,10,177,,0.0,16,16,2,Axle,,1953
+Kurtis Kraft,kurtis_kraft,American,,dinsmore,Duke Dinsmore,American,92,1953-indianapolis,Indianapolis 500,,,,,,10,177,,0.0,16,16,2,Axle,,1953
+Kurtis Kraft,kurtis_kraft,American,,faulkner,Walt Faulkner,American,23,1953-indianapolis,Indianapolis 500,,,,,,14,176,,0.0,17,17,2,+24 Laps,,1953
+Kurtis Kraft,kurtis_kraft,American,,mantz,Johnny Mantz,American,23,1953-indianapolis,Indianapolis 500,,,,,,14,176,,0.0,17,17,2,+24 Laps,,1953
+Kurtis Kraft,kurtis_kraft,American,,teague,Marshall Teague,American,22,1953-indianapolis,Indianapolis 500,,,,,,22,169,,0.0,18,R,2,Oil leak,,1953
+Kurtis Kraft,kurtis_kraft,American,,thomson,Johnny Thomson,American,62,1953-indianapolis,Indianapolis 500,,,,,,18,166,,0.0,19,R,2,Oil leak,,1953
+Kurtis Kraft,kurtis_kraft,American,,holmes,Jackie Holmes,American,62,1953-indianapolis,Indianapolis 500,,,,,,18,166,,0.0,19,R,2,Oil leak,,1953
+Kurtis Kraft,kurtis_kraft,American,,webb,Travis Webb,American,62,1953-indianapolis,Indianapolis 500,,,,,,18,166,,0.0,19,R,2,Oil leak,,1953
+Kuzma,kuzma,American,,sweikert,Bob Sweikert,American,51,1953-indianapolis,Indianapolis 500,,,,,,29,151,,0.0,20,R,2,Suspension,,1953
+Turner,turner,American,,nazaruk,Mike Nazaruk,American,83,1953-indianapolis,Indianapolis 500,,,,,,23,146,,0.0,21,R,2,Transmission,,1953
+Kuzma,kuzma,American,,flaherty,Pat Flaherty,American,77,1953-indianapolis,Indianapolis 500,,,,,,24,115,,0.0,22,R,2,Accident,,1953
+Kurtis Kraft,kurtis_kraft,American,,hoyt,Jerry Hoyt,American,55,1953-indianapolis,Indianapolis 500,,,,,,7,107,,0.0,23,R,2,Overheating,,1953
+Kurtis Kraft,kurtis_kraft,American,,stevenson,Chuck Stevenson,American,55,1953-indianapolis,Indianapolis 500,,,,,,7,107,,0.0,23,R,2,Overheating,,1953
+Kurtis Kraft,kurtis_kraft,American,,linden,Andy Linden,American,55,1953-indianapolis,Indianapolis 500,,,,,,7,107,,0.0,23,R,2,Overheating,,1953
+Lesovsky,lesovsky,American,,darter,Duane Carter,American,4,1953-indianapolis,Indianapolis 500,,,,,,27,94,,0.0,24,R,2,Ignition,,1953
+Kurtis Kraft,kurtis_kraft,American,,paul_russo,Paul Russo,American,7,1953-indianapolis,Indianapolis 500,,,,,,17,89,,0.0,25,R,2,Magneto,,1953
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,21,1953-indianapolis,Indianapolis 500,,,,,,8,86,,0.0,26,R,2,Engine,,1953
+Watson,watson,American,,freeland,Don Freeland,American,38,1953-indianapolis,Indianapolis 500,,,,,,15,76,,0.0,27,R,2,Accident,,1953
+Kurtis Kraft,kurtis_kraft,American,,hartley,Gene Hartley,American,41,1953-indianapolis,Indianapolis 500,,,,,,13,53,,0.0,28,R,2,Accident,,1953
+Kuzma,kuzma,American,,stevenson,Chuck Stevenson,American,97,1953-indianapolis,Indianapolis 500,,,,,,16,42,,0.0,29,R,2,Fuel leak,,1953
+Kurtis Kraft,kurtis_kraft,American,,niday,Cal Niday,American,99,1953-indianapolis,Indianapolis 500,,,,,,30,30,,0.0,30,R,2,Magneto,,1953
+Bromme,bromme,American,,bob_scott,Bob Scott,American,29,1953-indianapolis,Indianapolis 500,,,,,,11,14,,0.0,31,R,2,Oil leak,,1953
+Del Roy,del_roy,American,,thomson,Johnny Thomson,American,56,1953-indianapolis,Indianapolis 500,,,,,,33,6,,0.0,32,R,2,Ignition,,1953
+Stevens,stevens,American,,linden,Andy Linden,American,32,1953-indianapolis,Indianapolis 500,,,,,,5,3,,0.0,33,R,2,Accident,,1953
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,2,1953-zandvoort,Dutch Grand Prix,,,,,,1,90,10415800,8.0,1,1,3,Finished,2:53:35.800,1953
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,6,1953-zandvoort,Dutch Grand Prix,,,,,,3,90,10426200,6.0,2,2,3,Finished,+10.400,1953
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,16,1953-zandvoort,Dutch Grand Prix,,,,,,13,89,,2.0,3,3,3,+1 Lap,,1953
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,16,1953-zandvoort,Dutch Grand Prix,,,,,,13,89,,2.0,3,3,3,+1 Lap,,1953
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,8,1953-zandvoort,Dutch Grand Prix,,,,,,6,89,,3.0,4,4,3,+1 Lap,,1953
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,18,1953-zandvoort,Dutch Grand Prix,,,,,,7,88,,2.0,5,5,3,+2 Laps,,1953
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,24,1953-zandvoort,Dutch Grand Prix,,,,,,12,87,,0.0,6,6,3,+3 Laps,,1953
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,10,1953-zandvoort,Dutch Grand Prix,,,,,,8,86,,0.0,7,7,3,+4 Laps,,1953
+HWM,hwm,British,,collins,Peter Collins,British,36,1953-zandvoort,Dutch Grand Prix,,,,,,16,84,,0.0,8,8,3,+6 Laps,,1953
+Connaught,connaught,British,,moss,Stirling Moss,British,34,1953-zandvoort,Dutch Grand Prix,,,,,,9,83,,0.0,9,9,3,+7 Laps,,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,4,1953-zandvoort,Dutch Grand Prix,,,,,,4,67,,1.0,10,R,3,Throttle,,1953
+Connaught,connaught,British,,mcalpine,Kenneth McAlpine,British,28,1953-zandvoort,Dutch Grand Prix,,,,,,14,63,,0.0,11,R,3,Engine,,1953
+Gordini,gordini,French,,schell,Harry Schell,American,20,1953-zandvoort,Dutch Grand Prix,,,,,,10,59,,0.0,12,R,3,Transmission,,1953
+Connaught,connaught,British,,claes,Johnny Claes,Belgian,30,1953-zandvoort,Dutch Grand Prix,,,,,,17,52,,0.0,13,R,3,Not classified,,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,12,1953-zandvoort,Dutch Grand Prix,,,,,,2,36,,0.0,14,R,3,Axle,,1953
+Gordini,gordini,French,,mieres,Roberto Mieres,Argentine,22,1953-zandvoort,Dutch Grand Prix,,,,,,19,28,,0.0,15,R,3,Transmission,,1953
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,14,1953-zandvoort,Dutch Grand Prix,,,,,,5,22,,0.0,16,R,3,Axle,,1953
+Cooper,cooper,British,,wharton,Ken Wharton,British,32,1953-zandvoort,Dutch Grand Prix,,,,,,18,19,,0.0,17,R,3,Physical,,1953
+Connaught,connaught,British,,salvadori,Roy Salvadori,British,26,1953-zandvoort,Dutch Grand Prix,,,,,,11,14,,0.0,18,R,3,Engine,,1953
+HWM,hwm,British,,macklin,Lance Macklin,British,38,1953-zandvoort,Dutch Grand Prix,,,,,,15,7,,0.0,19,R,3,Throttle,,1953
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,10,1953-spa,Belgian Grand Prix,,,,,,2,36,10110300,8.0,1,1,4,Finished,2:48:30.300,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,8,1953-spa,Belgian Grand Prix,,,,,,5,36,10278500,6.0,2,2,4,Finished,+2:48.200,1953
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,28,1953-spa,Belgian Grand Prix,,,,,,16,35,,4.0,3,3,4,+1 Lap,,1953
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,30,1953-spa,Belgian Grand Prix,,,,,,9,35,,3.0,4,4,4,+1 Lap,,1953
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,18,1953-spa,Belgian Grand Prix,,,,,,8,35,,2.0,5,5,4,+1 Lap,,1953
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,14,1953-spa,Belgian Grand Prix,,,,,,7,35,,0.0,6,6,4,+1 Lap,,1953
+Gordini,gordini,French,,schell,Harry Schell,American,20,1953-spa,Belgian Grand Prix,,,,,,12,33,,0.0,7,7,4,+3 Laps,,1953
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,32,1953-spa,Belgian Grand Prix,,,,,,13,33,,0.0,8,8,4,+3 Laps,,1953
+Gordini,gordini,French,,wacker,Fred Wacker,American,38,1953-spa,Belgian Grand Prix,,,,,,15,32,,0.0,9,9,4,+4 Laps,,1953
+HWM,hwm,British,,frere,Paul Frère,Belgian,24,1953-spa,Belgian Grand Prix,,,,,,11,30,,0.0,10,10,4,+6 Laps,,1953
+Connaught,connaught,British,,andre_pilette,André Pilette,Belgian,40,1953-spa,Belgian Grand Prix,,,,,,18,29,,0.0,11,11,4,+7 Laps,,1953
+Maserati,maserati,Italian,,claes,Johnny Claes,Belgian,6,1953-spa,Belgian Grand Prix,,,,,,10,35,,0.0,12,R,4,Accident,,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,6,1953-spa,Belgian Grand Prix,,,,,,10,35,,0.0,12,R,4,Accident,,1953
+HWM,hwm,British,,macklin,Lance Macklin,British,22,1953-spa,Belgian Grand Prix,,,,,,17,19,,0.0,13,R,4,Engine,,1953
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,12,1953-spa,Belgian Grand Prix,,,,,,4,16,,0.0,14,R,4,Engine,,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,4,1953-spa,Belgian Grand Prix,,,,,,1,13,,0.0,15,R,4,Engine,,1953
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,2,1953-spa,Belgian Grand Prix,,,,,,3,11,,1.0,16,R,4,Throttle,,1953
+Gordini,gordini,French,,behra,Jean Behra,French,16,1953-spa,Belgian Grand Prix,,,,,,14,9,,0.0,17,R,4,Engine,,1953
+HWM,hwm,British,,collins,Peter Collins,British,26,1953-spa,Belgian Grand Prix,,,,,,16,4,,0.0,18,R,4,Clutch,,1953
+Simca,simca,French,,georges_berger,Georges Berger,Belgian,34,1953-spa,Belgian Grand Prix,,,,,,20,3,,0.0,19,R,4,Engine,,1953
+Veritas,veritas,German,,legat,Arthur Legat,Belgian,36,1953-spa,Belgian Grand Prix,,,,,,19,0,,0.0,20,R,4,Transmission,,1953
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,16,1953-reims,French Grand Prix,,,,,,7,60,9858600,8.0,1,1,5,Finished,2:44:18.600,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,18,1953-reims,French Grand Prix,,,,,,4,60,9859600,7.0,2,2,5,Finished,+1.000,1953
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,20,1953-reims,French Grand Prix,,,,,,5,60,9860000,4.0,3,3,5,Finished,+1.400,1953
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,10,1953-reims,French Grand Prix,,,,,,1,60,9863200,3.0,4,4,5,Finished,+4.600,1953
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,14,1953-reims,French Grand Prix,,,,,,6,60,9926200,2.0,5,5,5,Finished,+1:07.600,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,12,1953-reims,French Grand Prix,,,,,,3,60,9934500,0.0,6,6,5,Finished,+1:15.900,1953
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,46,1953-reims,French Grand Prix,,,,,,9,58,,0.0,7,7,5,+2 Laps,,1953
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,44,1953-reims,French Grand Prix,,,,,,10,56,,0.0,8,8,5,+4 Laps,,1953
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,22,1953-reims,French Grand Prix,,,,,,8,55,,0.0,9,9,5,+5 Laps,,1953
+Gordini,gordini,French,,behra,Jean Behra,French,2,1953-reims,French Grand Prix,,,,,,22,55,,0.0,10,10,5,+5 Laps,,1953
+Cooper,cooper,British,,gerard,Bob Gerard,British,38,1953-reims,French Grand Prix,,,,,,12,55,,0.0,11,11,5,+5 Laps,,1953
+Connaught,connaught,British,,claes,Johnny Claes,Belgian,48,1953-reims,French Grand Prix,,,,,,21,53,,0.0,12,12,5,+7 Laps,,1953
+HWM,hwm,British,,collins,Peter Collins,British,28,1953-reims,French Grand Prix,,,,,,17,52,,0.0,13,13,5,+8 Laps,,1953
+HWM,hwm,British,,cabantous,Yves Cabantous,French,30,1953-reims,French Grand Prix,,,,,,18,50,,0.0,14,14,5,+10 Laps,,1953
+OSCA,osca,Italian,,chiron,Louis Chiron,Monegasque,32,1953-reims,French Grand Prix,,,,,,25,43,,0.0,15,15,5,+17 Laps,,1953
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,24,1953-reims,French Grand Prix,,,,,,2,42,,0.0,16,R,5,Engine,,1953
+Cooper,cooper,British,,moss,Stirling Moss,British,36,1953-reims,French Grand Prix,,,,,,13,38,,0.0,17,R,5,Clutch,,1953
+Connaught,connaught,British,,bira,Prince Bira,Thai,42,1953-reims,French Grand Prix,,,,,,11,29,,0.0,18,R,5,Differential,,1953
+OSCA,osca,Italian,,bayol,Élie Bayol,French,34,1953-reims,French Grand Prix,,,,,,15,18,,0.0,19,R,5,Engine,,1953
+Cooper,cooper,British,,wharton,Ken Wharton,British,40,1953-reims,French Grand Prix,,,,,,14,17,,0.0,20,R,5,Wheel bearing,,1953
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,4,1953-reims,French Grand Prix,,,,,,23,14,,0.0,21,R,5,Transmission,,1953
+HWM,hwm,British,,macklin,Lance Macklin,British,26,1953-reims,French Grand Prix,,,,,,16,9,,0.0,22,R,5,Clutch,,1953
+Gordini,gordini,French,,schell,Harry Schell,American,6,1953-reims,French Grand Prix,,,,,,20,4,,0.0,23,R,5,Engine,,1953
+Gordini,gordini,French,,mieres,Roberto Mieres,Argentine,8,1953-reims,French Grand Prix,,,,,,24,4,,0.0,24,R,5,Axle,,1953
+Connaught,connaught,British,,salvadori,Roy Salvadori,British,50,1953-reims,French Grand Prix,,,,,,19,2,,0.0,25,R,5,Ignition,,1953
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,5,1953-silverstone,British Grand Prix,,,,,,1,90,10200000,8.5,1,1,6,Finished,2:50,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,23,1953-silverstone,British Grand Prix,,,,,,4,90,10260000,6.0,2,2,6,Finished,+1:00.000,1953
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,6,1953-silverstone,British Grand Prix,,,,,,5,88,,4.0,3,3,6,+2 Laps,,1953
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,24,1953-silverstone,British Grand Prix,,,,,,2,88,,3.5,4,4,6,+2 Laps,,1953
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,8,1953-silverstone,British Grand Prix,,,,,,3,87,,2.0,5,5,6,+3 Laps,,1953
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,25,1953-silverstone,British Grand Prix,,,,,,16,82,,0.0,6,6,6,+8 Laps,,1953
+Connaught,connaught,British,,bira,Prince Bira,Thai,10,1953-silverstone,British Grand Prix,,,,,,19,82,,0.0,7,7,6,+8 Laps,,1953
+Cooper,cooper,British,,wharton,Ken Wharton,British,16,1953-silverstone,British Grand Prix,,,,,,11,80,,0.0,8,8,6,+10 Laps,,1953
+Cooper,cooper,British,,whitehead,Peter Whitehead,British,20,1953-silverstone,British Grand Prix,,,,,,14,79,,0.0,9,9,6,+11 Laps,,1953
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,9,1953-silverstone,British Grand Prix,,,,,,24,78,,0.0,10,10,6,+12 Laps,,1953
+Cooper,cooper,British,,jimmy_stewart,Jimmy Stewart,British,18,1953-silverstone,British Grand Prix,,,,,,15,79,,0.0,11,R,6,Spun off,,1953
+Connaught,connaught,British,,rolt,Tony Rolt,British,14,1953-silverstone,British Grand Prix,,,,,,10,70,,0.0,12,R,6,Halfshaft,,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,7,1953-silverstone,British Grand Prix,,,,,,6,65,,0.0,13,R,6,Axle,,1953
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,26,1953-silverstone,British Grand Prix,,,,,,7,65,,0.0,14,R,6,Engine,,1953
+Cooper,cooper,British,,alan_brown,Alan Brown,British,19,1953-silverstone,British Grand Prix,,,,,,21,56,,0.0,15,R,6,Overheating,,1953
+HWM,hwm,British,,collins,Peter Collins,British,2,1953-silverstone,British Grand Prix,,,,,,23,56,,0.0,16,R,6,Spun off,,1953
+HWM,hwm,British,,fairman,Jack Fairman,British,4,1953-silverstone,British Grand Prix,,,,,,27,54,,0.0,17,R,6,Clutch,,1953
+Connaught,connaught,British,,salvadori,Roy Salvadori,British,12,1953-silverstone,British Grand Prix,,,,,,28,50,,0.0,18,R,6,Wheel,,1953
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,31,1953-silverstone,British Grand Prix,,,,,,26,34,,0.0,19,R,6,Clutch,,1953
+HWM,hwm,British,,macklin,Lance Macklin,British,1,1953-silverstone,British Grand Prix,,,,,,12,31,,0.0,20,R,6,Clutch,,1953
+Gordini,gordini,French,,behra,Jean Behra,French,30,1953-silverstone,British Grand Prix,,,,,,22,30,,0.0,21,R,6,Fuel pump,,1953
+Connaught,connaught,British,,ian_stewart,Ian Stewart,British,15,1953-silverstone,British Grand Prix,,,,,,20,24,,0.0,22,R,6,Ignition,,1953
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,29,1953-silverstone,British Grand Prix,,,,,,8,14,,0.0,23,R,6,Axle,,1953
+HWM,hwm,British,,duncan_hamilton,Duncan Hamilton,British,3,1953-silverstone,British Grand Prix,,,,,,17,14,,0.0,24,R,6,Clutch,,1953
+Gordini,gordini,French,,schell,Harry Schell,American,28,1953-silverstone,British Grand Prix,,,,,,9,5,,0.0,25,R,6,Electrical,,1953
+Connaught,connaught,British,,mcalpine,Kenneth McAlpine,British,11,1953-silverstone,British Grand Prix,,,,,,13,0,,0.0,26,R,6,Retired,,1953
+Cooper,cooper,British,,crook,Tony Crook,British,22,1953-silverstone,British Grand Prix,,,,,,25,0,,0.0,27,R,6,Fuel system,,1953
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,12,1953-n-rburg,German Grand Prix,,,,,,3,18,10945000,8.0,1,1,7,Finished,3:02,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,5,1953-n-rburg,German Grand Prix,,,,,,2,18,11009000,6.0,2,2,7,Finished,+1:04.000,1953
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,3,1953-n-rburg,German Grand Prix,,,,,,4,18,11048600,4.0,3,3,7,Finished,+1:43.600,1953
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,7,1953-n-rburg,German Grand Prix,,,,,,7,18,11473600,3.0,4,4,7,Finished,+8:48.600,1953
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,17,1953-n-rburg,German Grand Prix,,,,,,11,17,,2.0,5,5,7,+1 Lap,,1953
+Cooper,cooper,British,,moss,Stirling Moss,British,19,1953-n-rburg,German Grand Prix,,,,,,12,17,,0.0,6,6,7,+1 Lap,,1953
+Ferrari,ferrari,Italian,,swaters,Jacques Swaters,American,18,1953-n-rburg,German Grand Prix,,,,,,19,17,,0.0,7,7,7,+1 Lap,,1953
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,1,1953-n-rburg,German Grand Prix,,,,,,1,17,,0.0,8,8,7,+1 Lap,,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,1,1953-n-rburg,German Grand Prix,,,,,,1,17,,0.0,8,8,7,+1 Lap,,1953
+Veritas,veritas,German,,herrmann,Hans Herrmann,German,31,1953-n-rburg,German Grand Prix,,,,,,14,17,,0.0,9,9,7,+1 Lap,,1953
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,20,1953-n-rburg,German Grand Prix,,,,,,22,17,,0.0,10,10,7,+1 Lap,,1953
+Cooper,cooper,British,,nuckey,Rodney Nuckey,British,40,1953-n-rburg,German Grand Prix,,,,,,20,16,,0.0,11,11,7,+2 Laps,,1953
+Veritas,veritas,German,,helfrich,Theo Helfrich,German,24,1953-n-rburg,German Grand Prix,,,,,,28,16,,0.0,12,12,7,+2 Laps,,1953
+Connaught,connaught,British,,mcalpine,Kenneth McAlpine,British,16,1953-n-rburg,German Grand Prix,,,,,,16,16,,0.0,13,13,7,+2 Laps,,1953
+BMW,bmw,German,,krause,Rudolf Krause,East German,36,1953-n-rburg,German Grand Prix,,,,,,26,16,,0.0,14,14,7,+2 Laps,,1953
+BMW,bmw,German,,klodwig,Ernst Klodwig,East German,37,1953-n-rburg,German Grand Prix,,,,,,32,15,,0.0,15,15,7,+3 Laps,,1953
+Veritas,veritas,German,,seidel,Wolfgang Seidel,German,22,1953-n-rburg,German Grand Prix,,,,,,29,14,,0.0,16,16,7,+4 Laps,,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,4,1953-n-rburg,German Grand Prix,,,,,,6,15,,0.0,17,R,7,Engine,,1953
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,4,1953-n-rburg,German Grand Prix,,,,,,6,15,,1.0,17,R,7,Engine,,1953
+Cooper,cooper,British,,alan_brown,Alan Brown,British,38,1953-n-rburg,German Grand Prix,,,,,,17,15,,0.0,18,R,7,Engine,,1953
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,8,1953-n-rburg,German Grand Prix,,,,,,8,13,,0.0,19,R,7,Suspension,,1953
+EMW,emw,East German,,barth,Edgar Barth,German,35,1953-n-rburg,German Grand Prix,,,,,,24,12,,0.0,20,R,7,Exhaust,,1953
+Connaught,connaught,British,,claes,Johnny Claes,Belgian,12,1953-n-rburg,German Grand Prix,,,,,,25,12,,0.0,21,R,7,Retired,,1953
+Veritas,veritas,German,,karch,Oswald Karch,German,26,1953-n-rburg,German Grand Prix,,,,,,34,10,,0.0,22,R,7,Retired,,1953
+Veritas,veritas,German,,heeks,Willi Heeks,German,23,1953-n-rburg,German Grand Prix,,,,,,18,8,,0.0,23,R,7,Retired,,1953
+Gordini,gordini,French,,behra,Jean Behra,French,9,1953-n-rburg,German Grand Prix,,,,,,9,7,,0.0,24,R,7,Gearbox,,1953
+Gordini,gordini,French,,schell,Harry Schell,American,11,1953-n-rburg,German Grand Prix,,,,,,10,6,,0.0,25,R,7,Engine,,1953
+Connaught,connaught,British,,bira,Prince Bira,Thai,14,1953-n-rburg,German Grand Prix,,,,,,15,6,,0.0,26,R,7,Suspension,,1953
+AFM,afm,German,,fitzau,Theo Fitzau,East German,28,1953-n-rburg,German Grand Prix,,,,,,21,3,,0.0,27,R,7,Retired,,1953
+Ferrari,ferrari,Italian,,adolff,Kurt Adolff,German,34,1953-n-rburg,German Grand Prix,,,,,,27,3,,0.0,28,R,7,Retired,,1953
+AFM,afm,German,,bechem,Günther Bechem,German,41,1953-n-rburg,German Grand Prix,,,,,,30,2,,0.0,29,R,7,Retired,,1953
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,10,1953-n-rburg,German Grand Prix,,,,,,5,1,,0.0,30,R,7,Differential,,1953
+Connaught,connaught,British,,salvadori,Roy Salvadori,British,15,1953-n-rburg,German Grand Prix,,,,,,13,1,,0.0,31,R,7,Engine,,1953
+Veritas,veritas,German,,bauer,Erwin Bauer,German,32,1953-n-rburg,German Grand Prix,,,,,,33,1,,0.0,32,R,7,Retired,,1953
+AFM,afm,German,,hans_stuck,Hans von Stuck,German,21,1953-n-rburg,German Grand Prix,,,,,,23,0,,0.0,33,R,7,Retired,,1953
+Veritas,veritas,German,,loof,Ernst Loof,German,30,1953-n-rburg,German Grand Prix,,,,,,31,0,,0.0,34,R,7,Fuel pump,,1953
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,46,1953-bern,Swiss Grand Prix,,,,,,2,65,10894400,9.0,1,1,8,Finished,3:01:34.400,1953
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,24,1953-bern,Swiss Grand Prix,,,,,,3,65,10967330,6.0,2,2,8,Finished,+1:12.930,1953
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,26,1953-bern,Swiss Grand Prix,,,,,,7,65,10990360,4.0,3,3,8,Finished,+1:35.960,1953
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,32,1953-bern,Swiss Grand Prix,,,,,,1,64,,1.5,4,4,8,+1 Lap,,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,32,1953-bern,Swiss Grand Prix,,,,,,1,64,,1.5,4,4,8,+1 Lap,,1953
+Maserati,maserati,Italian,,lang,Hermann Lang,German,34,1953-bern,Swiss Grand Prix,,,,,,11,62,,2.0,5,5,8,+3 Laps,,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,28,1953-bern,Swiss Grand Prix,,,,,,6,62,,0.0,6,6,8,+3 Laps,,1953
+Cooper,cooper,British,,wharton,Ken Wharton,British,20,1953-bern,Swiss Grand Prix,,,,,,9,62,,0.0,7,7,8,+3 Laps,,1953
+Ferrari,ferrari,Italian,,terra,Max de Terra,Swiss,40,1953-bern,Swiss Grand Prix,,,,,,19,51,,0.0,8,8,8,+14 Laps,,1953
+HWM,hwm,British,,scherrer,Albert Scherrer,Swiss,18,1953-bern,Swiss Grand Prix,,,,,,18,49,,0.0,9,9,8,+16 Laps,,1953
+Maserati,maserati,Italian,,landi,Chico Landi,Brazilian,4,1953-bern,Swiss Grand Prix,,,,,,20,54,,0.0,10,R,8,Gearbox,,1953
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,42,1953-bern,Swiss Grand Prix,,,,,,8,49,,0.0,11,R,8,Transmission,,1953
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,36,1953-bern,Swiss Grand Prix,,,,,,5,46,,0.0,12,R,8,Engine,,1953
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,8,1953-bern,Swiss Grand Prix,,,,,,4,43,,0.0,13,R,8,Axle,,1953
+Gordini,gordini,French,,behra,Jean Behra,French,6,1953-bern,Swiss Grand Prix,,,,,,12,37,,0.0,14,R,8,Oil pressure,,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,30,1953-bern,Swiss Grand Prix,,,,,,10,29,,0.0,15,R,8,Engine,,1953
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,30,1953-bern,Swiss Grand Prix,,,,,,10,29,,0.0,15,R,8,Engine,,1953
+HWM,hwm,British,,macklin,Lance Macklin,British,16,1953-bern,Swiss Grand Prix,,,,,,15,29,,0.0,16,R,8,Engine,,1953
+Ferrari,ferrari,Italian,,hirt,Peter Hirt,Swiss,38,1953-bern,Swiss Grand Prix,,,,,,17,17,,0.0,17,R,8,Engine,,1953
+HWM,hwm,British,,frere,Paul Frère,Belgian,14,1953-bern,Swiss Grand Prix,,,,,,16,1,,0.0,18,R,8,Engine,,1953
+Ferrari,ferrari,Italian,,swaters,Jacques Swaters,American,2,1953-bern,Swiss Grand Prix,,,,,,13,0,,0.0,19,R,8,Spun off,,1953
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,10,1953-bern,Swiss Grand Prix,,,,,,14,0,,0.0,20,R,8,Spun off,,1953
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,50,1953-monza,Italian Grand Prix,,,,,,2,80,10185900,9.0,1,1,9,Finished,2:49:45.900,1953
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,6,1953-monza,Italian Grand Prix,,,,,,3,80,10187300,6.0,2,2,9,Finished,+1.400,1953
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,2,1953-monza,Italian Grand Prix,,,,,,5,79,,4.0,3,3,9,+1 Lap,,1953
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,8,1953-monza,Italian Grand Prix,,,,,,6,79,,3.0,4,4,9,+1 Lap,,1953
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,36,1953-monza,Italian Grand Prix,,,,,,8,79,,2.0,5,5,9,+1 Lap,,1953
+Gordini,gordini,French,,mieres,Roberto Mieres,Argentine,40,1953-monza,Italian Grand Prix,,,,,,16,77,,0.0,6,6,9,+3 Laps,,1953
+Maserati,maserati,Italian,,musso,Luigi Musso,Italian,56,1953-monza,Italian Grand Prix,,,,,,12,76,,0.0,7,7,9,+4 Laps,,1953
+Maserati,maserati,Italian,,mantovani,Sergio Mantovani,Italian,56,1953-monza,Italian Grand Prix,,,,,,12,76,,0.0,7,7,9,+4 Laps,,1953
+Ferrari,ferrari,Italian,,maglioli,Umberto Maglioli,Italian,10,1953-monza,Italian Grand Prix,,,,,,11,75,,0.0,8,8,9,+5 Laps,,1953
+Gordini,gordini,French,,schell,Harry Schell,American,38,1953-monza,Italian Grand Prix,,,,,,15,75,,0.0,9,9,9,+5 Laps,,1953
+OSCA,osca,Italian,,chiron,Louis Chiron,Monegasque,32,1953-monza,Italian Grand Prix,,,,,,25,72,,0.0,10,10,9,+8 Laps,,1953
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,44,1953-monza,Italian Grand Prix,,,,,,23,72,,0.0,11,11,9,+8 Laps,,1953
+Cooper,cooper,British,,alan_brown,Alan Brown,British,46,1953-monza,Italian Grand Prix,,,,,,24,70,,0.0,12,12,9,+10 Laps,,1953
+Cooper,cooper,British,,moss,Stirling Moss,British,28,1953-monza,Italian Grand Prix,,,,,,10,70,,0.0,13,13,9,+10 Laps,,1953
+AFM,afm,German,,hans_stuck,Hans von Stuck,German,48,1953-monza,Italian Grand Prix,,,,,,29,67,,0.0,14,14,9,+13 Laps,,1953
+HWM,hwm,British,,cabantous,Yves Cabantous,French,16,1953-monza,Italian Grand Prix,,,,,,28,67,,0.0,15,15,9,+13 Laps,,1953
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,64,1953-monza,Italian Grand Prix,,,,,,17,65,,0.0,16,16,9,+15 Laps,,1953
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,4,1953-monza,Italian Grand Prix,,,,,,1,79,,0.0,17,R,9,Accident,,1953
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,52,1953-monza,Italian Grand Prix,,,,,,7,77,,0.0,18,R,9,Out of fuel,,1953
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,54,1953-monza,Italian Grand Prix,,,,,,4,75,,0.0,19,R,9,Accident,,1953
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,58,1953-monza,Italian Grand Prix,,,,,,9,70,,0.0,20,R,9,Engine,,1953
+Connaught,connaught,British,,fairman,Jack Fairman,British,20,1953-monza,Italian Grand Prix,,,,,,22,61,,0.0,21,R,9,Not classified,,1953
+Cooper,cooper,British,,wharton,Ken Wharton,British,30,1953-monza,Italian Grand Prix,,,,,,19,57,,0.0,22,R,9,Not classified,,1953
+Connaught,connaught,British,,mcalpine,Kenneth McAlpine,British,24,1953-monza,Italian Grand Prix,,,,,,18,56,,0.0,23,R,9,Not classified,,1953
+Ferrari,ferrari,Italian,,carini,Piero Carini,Italian,12,1953-monza,Italian Grand Prix,,,,,,20,40,,0.0,24,R,9,Engine,,1953
+Connaught,connaught,British,,salvadori,Roy Salvadori,British,22,1953-monza,Italian Grand Prix,,,,,,14,33,,0.0,25,R,9,Throttle,,1953
+Maserati,maserati,Italian,,landi,Chico Landi,Brazilian,2,1953-monza,Italian Grand Prix,,,,,,21,18,,0.0,26,R,9,Engine,,1953
+OSCA,osca,Italian,,bayol,Élie Bayol,French,34,1953-monza,Italian Grand Prix,,,,,,13,17,,0.0,27,R,9,Engine,,1953
+HWM,hwm,British,,fitch,John Fitch,American,18,1953-monza,Italian Grand Prix,,,,,,26,14,,0.0,28,R,9,Engine,,1953
+Connaught,connaught,British,,claes,Johnny Claes,Belgian,26,1953-monza,Italian Grand Prix,,,,,,30,7,,0.0,29,R,9,Fuel system,,1953
+HWM,hwm,British,,macklin,Lance Macklin,British,14,1953-monza,Italian Grand Prix,,,,,,27,6,,0.0,30,R,9,Engine,,1953

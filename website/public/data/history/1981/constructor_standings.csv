@@ -1,0 +1,18 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,95.0,1,1,4,1981
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,61.0,2,2,3,1981
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,54.0,3,3,3,1981
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,44.0,4,4,2,1981
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,34.0,5,5,2,1981
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,28.0,6,6,1,1981
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,22.0,7,7,0,1981
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,10.0,8,8,0,1981
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,10.0,9,9,0,1981
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,10.0,10,10,0,1981
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,5.0,11,11,0,1981
+Theodore,theodore,Hong Kong,https://en.wikipedia.org/wiki/Theodore_Racing,1.0,12,12,0,1981
+ATS,ats,Italian,https://en.wikipedia.org/wiki/ATS_Wheels,1.0,13,13,0,1981
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,0.0,,-,0,1981
+Fittipaldi,fittipaldi,Brazilian,https://en.wikipedia.org/wiki/Fittipaldi_Automotive,0.0,,-,0,1981
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,0.0,,-,0,1981
+Toleman,toleman,British,https://en.wikipedia.org/wiki/Toleman,0.0,,-,0,1981

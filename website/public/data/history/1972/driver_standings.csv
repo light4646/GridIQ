@@ -1,0 +1,43 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""team_lotus""]","[""Team Lotus""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,61.0,1,1,5,1972
+"[""tyrrell""]","[""Tyrrell""]",,stewart,Jackie Stewart,British,,45.0,2,2,4,1972
+"[""mclaren""]","[""McLaren""]",,hulme,Denny Hulme,New Zealander,,39.0,3,3,1,1972
+"[""ferrari""]","[""Ferrari""]",,ickx,Jacky Ickx,Belgian,,27.0,4,4,1,1972
+"[""mclaren""]","[""McLaren""]",,revson,Peter Revson,American,,23.0,5,5,0,1972
+"[""tyrrell""]","[""Tyrrell""]",,cevert,François Cevert,French,,15.0,6,6,0,1972
+"[""ferrari""]","[""Ferrari""]",,regazzoni,Clay Regazzoni,Swiss,,15.0,7,7,0,1972
+"[""surtees""]","[""Surtees""]",,hailwood,Mike Hailwood,British,,13.0,8,8,0,1972
+"[""march""]","[""March""]",,peterson,Ronnie Peterson,Swedish,,12.0,9,9,0,1972
+"[""matra""]","[""Matra""]",,amon,Chris Amon,New Zealander,,12.0,10,10,0,1972
+"[""brm""]","[""BRM""]",,beltoise,Jean-Pierre Beltoise,French,,9.0,11,11,1,1972
+"[""ferrari""]","[""Ferrari""]",,mario_andretti,Mario Andretti,American,,4.0,12,12,0,1972
+"[""brm""]","[""BRM""]",,ganley,Howden Ganley,New Zealander,,4.0,13,13,0,1972
+"[""mclaren"", ""brm""]","[""McLaren"", ""BRM""]",,redman,Brian Redman,British,,4.0,14,14,0,1972
+"[""brabham""]","[""Brabham""]",,hill,Graham Hill,British,,4.0,15,15,0,1972
+"[""brabham""]","[""Brabham""]",,reutemann,Carlos Reutemann,Argentine,,3.0,16,16,0,1972
+"[""surtees""]","[""Surtees""]",,adamich,Andrea de Adamich,Italian,,3.0,17,17,0,1972
+"[""march""]","[""March""]",,pace,Carlos Pace,Brazilian,,3.0,18,18,0,1972
+"[""surtees""]","[""Surtees""]",,schenken,Tim Schenken,Australian,,2.0,19,19,0,1972
+"[""ferrari""]","[""Ferrari""]",,merzario,Arturo Merzario,Italian,,1.0,20,20,0,1972
+"[""brm""]","[""BRM""]",,gethin,Peter Gethin,British,,1.0,21,21,0,1972
+"[""brabham""]","[""Brabham""]",,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,,0.0,,-,0,1972
+"[""march""]","[""March""]",,lauda,Niki Lauda,Austrian,,0.0,,-,0,1972
+"[""tyrrell""]","[""Tyrrell""]",,depailler,Patrick Depailler,French,,0.0,,-,0,1972
+"[""brm""]","[""BRM""]",,marko,Helmut Marko,Austrian,,0.0,,-,0,1972
+"[""march""]","[""March""]",,beuttler,Mike Beuttler,British,,0.0,,-,0,1972
+"[""march"", ""politoys""]","[""March"", ""Politoys""]",,pescarolo,Henri Pescarolo,French,,0.0,,-,0,1972
+"[""team_lotus""]","[""Team Lotus""]",,walker,David Walker,Australian,,0.0,,-,0,1972
+"[""mclaren""]","[""McLaren""]",,scheckter,Jody Scheckter,South African,,0.0,,-,0,1972
+"[""march""]","[""March""]",,stommelen,Rolf Stommelen,German,,0.0,,-,0,1972
+"[""brm"", ""team_lotus""]","[""BRM"", ""Team Lotus""]",,wisell,Reine Wisell,Swedish,,0.0,,-,0,1972
+"[""surtees""]","[""Surtees""]",,posey,Sam Posey,American,,0.0,,-,0,1972
+"[""tecno"", ""ferrari""]","[""Tecno"", ""Ferrari""]",,galli,Nanni Galli,Italian,,0.0,,-,0,1972
+"[""march""]","[""March""]",,barber,Skip Barber,American,,0.0,,-,0,1972
+"[""surtees""]","[""Surtees""]",,love,John Love,Rhodesian,,0.0,,-,0,1972
+"[""surtees""]","[""Surtees""]",,surtees,John Surtees,British,,0.0,,-,0,1972
+"[""brm""]","[""BRM""]",,oliver,Jackie Oliver,British,,0.0,,-,0,1972
+"[""brm""]","[""BRM""]",,roig,Alex Soler-Roig,Spanish,,0.0,,-,0,1972
+"[""connew""]","[""Connew""]",,migault,François Migault,French,,0.0,,-,0,1972
+"[""team_lotus""]","[""Team Lotus""]",,charlton,Dave Charlton,South African,,0.0,,-,0,1972
+"[""brm""]","[""BRM""]",,brack,Bill Brack,Canadian,,0.0,,-,0,1972
+"[""tecno""]","[""Tecno""]",,bell,Derek Bell,British,,0.0,,-,0,1972

@@ -30,8 +30,21 @@ type DriverCareerSummary = {
 };
 
 export const metadata = {
-  title: "Compare drivers · GridIQ",
-  description: "Compare historical Formula 1 driver careers from 2000 to 2026.",
+  title: "F1 Driver Comparison — Career Stats Side by Side · GridIQ",
+  description:
+    "Compare any two Formula 1 drivers side by side. Wins, podiums, pole positions, points, championships, and season-by-season breakdowns from the full GridIQ historical database.",
+  keywords: [
+    "F1 driver comparison",
+    "compare F1 drivers",
+    "Hamilton vs Verstappen stats",
+    "Schumacher vs Senna",
+    "F1 career comparison",
+    "Formula 1 driver stats comparison",
+  ],
+  openGraph: {
+    title: "F1 Driver Comparison · GridIQ",
+    description: "Compare any two F1 drivers side by side — wins, podiums, points, poles, and championship finishes.",
+  },
 };
 
 function slugifyDriverName(driverName?: string) {

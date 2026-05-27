@@ -1,9 +1,1931 @@
 {
-  "generated_at": "2026-05-25T19:13:18.911293+00:00",
+  "generated_at": "2026-05-27T06:16:40.098631+00:00",
   "through_date": "2026-05-24",
-  "start_year": 2000,
+  "start_year": 1950,
   "end_year": 2026,
   "seasons": [
+    {
+      "year": 1950,
+      "generated_at": "2026-05-27T05:59:17.099912+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 7,
+      "race_results": 160,
+      "qualifying_results": 0,
+      "drivers": 81,
+      "constructors": 0,
+      "driver_champion": {
+        "year": 1950,
+        "position": 1,
+        "position_text": "1",
+        "points": 30.0,
+        "wins": 3,
+        "driver_id": "farina",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Nino Farina",
+        "driver_nationality": "Italian",
+        "constructors": [
+          "Alfa Romeo"
+        ],
+        "constructor_ids": [
+          "alfa"
+        ]
+      },
+      "constructor_champion": null
+    },
+    {
+      "year": 1951,
+      "generated_at": "2026-05-27T05:59:26.772449+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 8,
+      "race_results": 179,
+      "qualifying_results": 0,
+      "drivers": 84,
+      "constructors": 0,
+      "driver_champion": {
+        "year": 1951,
+        "position": 1,
+        "position_text": "1",
+        "points": 31.0,
+        "wins": 3,
+        "driver_id": "fangio",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Juan Fangio",
+        "driver_nationality": "Argentine",
+        "constructors": [
+          "Alfa Romeo"
+        ],
+        "constructor_ids": [
+          "alfa"
+        ]
+      },
+      "constructor_champion": null
+    },
+    {
+      "year": 1952,
+      "generated_at": "2026-05-27T05:59:39.891723+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 8,
+      "race_results": 204,
+      "qualifying_results": 0,
+      "drivers": 100,
+      "constructors": 0,
+      "driver_champion": {
+        "year": 1952,
+        "position": 1,
+        "position_text": "1",
+        "points": 36.0,
+        "wins": 6,
+        "driver_id": "ascari",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Alberto Ascari",
+        "driver_nationality": "Italian",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": null
+    },
+    {
+      "year": 1953,
+      "generated_at": "2026-05-27T05:59:53.145529+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 9,
+      "race_results": 246,
+      "qualifying_results": 0,
+      "drivers": 100,
+      "constructors": 0,
+      "driver_champion": {
+        "year": 1953,
+        "position": 1,
+        "position_text": "1",
+        "points": 34.5,
+        "wins": 5,
+        "driver_id": "ascari",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Alberto Ascari",
+        "driver_nationality": "Italian",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": null
+    },
+    {
+      "year": 1954,
+      "generated_at": "2026-05-27T06:00:04.132026+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 9,
+      "race_results": 229,
+      "qualifying_results": 0,
+      "drivers": 96,
+      "constructors": 0,
+      "driver_champion": {
+        "year": 1954,
+        "position": 1,
+        "position_text": "1",
+        "points": 42.0,
+        "wins": 6,
+        "driver_id": "fangio",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Juan Fangio",
+        "driver_nationality": "Argentine",
+        "constructors": [
+          "Maserati",
+          "Mercedes"
+        ],
+        "constructor_ids": [
+          "maserati",
+          "mercedes"
+        ]
+      },
+      "constructor_champion": null
+    },
+    {
+      "year": 1955,
+      "generated_at": "2026-05-27T06:00:13.467455+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 7,
+      "race_results": 177,
+      "qualifying_results": 0,
+      "drivers": 83,
+      "constructors": 0,
+      "driver_champion": {
+        "year": 1955,
+        "position": 1,
+        "position_text": "1",
+        "points": 40.0,
+        "wins": 4,
+        "driver_id": "fangio",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Juan Fangio",
+        "driver_nationality": "Argentine",
+        "constructors": [
+          "Mercedes"
+        ],
+        "constructor_ids": [
+          "mercedes"
+        ]
+      },
+      "constructor_champion": null
+    },
+    {
+      "year": 1956,
+      "generated_at": "2026-05-27T06:00:23.164279+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 8,
+      "race_results": 189,
+      "qualifying_results": 0,
+      "drivers": 85,
+      "constructors": 0,
+      "driver_champion": {
+        "year": 1956,
+        "position": 1,
+        "position_text": "1",
+        "points": 30.0,
+        "wins": 3,
+        "driver_id": "fangio",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Juan Fangio",
+        "driver_nationality": "Argentine",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": null
+    },
+    {
+      "year": 1957,
+      "generated_at": "2026-05-27T06:00:32.773242+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 8,
+      "race_results": 166,
+      "qualifying_results": 0,
+      "drivers": 76,
+      "constructors": 0,
+      "driver_champion": {
+        "year": 1957,
+        "position": 1,
+        "position_text": "1",
+        "points": 40.0,
+        "wins": 4,
+        "driver_id": "fangio",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Juan Fangio",
+        "driver_nationality": "Argentine",
+        "constructors": [
+          "Maserati"
+        ],
+        "constructor_ids": [
+          "maserati"
+        ]
+      },
+      "constructor_champion": null
+    },
+    {
+      "year": 1958,
+      "generated_at": "2026-05-27T06:00:44.748701+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 11,
+      "race_results": 226,
+      "qualifying_results": 0,
+      "drivers": 79,
+      "constructors": 8,
+      "driver_champion": {
+        "year": 1958,
+        "position": 1,
+        "position_text": "1",
+        "points": 42.0,
+        "wins": 1,
+        "driver_id": "hawthorn",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Mike Hawthorn",
+        "driver_nationality": "British",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1958,
+        "position": 1,
+        "position_text": "1",
+        "points": 48.0,
+        "wins": 6,
+        "constructor_id": "vanwall",
+        "constructor": "Vanwall",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Vanwall"
+      }
+    },
+    {
+      "year": 1959,
+      "generated_at": "2026-05-27T06:00:54.399435+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 9,
+      "race_results": 181,
+      "qualifying_results": 0,
+      "drivers": 76,
+      "constructors": 15,
+      "driver_champion": {
+        "year": 1959,
+        "position": 1,
+        "position_text": "1",
+        "points": 31.0,
+        "wins": 2,
+        "driver_id": "jack_brabham",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jack Brabham",
+        "driver_nationality": "Australian",
+        "constructors": [
+          "Cooper-Climax"
+        ],
+        "constructor_ids": [
+          "cooper-climax"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1959,
+        "position": 1,
+        "position_text": "1",
+        "points": 40.0,
+        "wins": 5,
+        "constructor_id": "cooper-climax",
+        "constructor": "Cooper-Climax",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+      }
+    },
+    {
+      "year": 1960,
+      "generated_at": "2026-05-27T06:01:05.386896+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 10,
+      "race_results": 215,
+      "qualifying_results": 0,
+      "drivers": 91,
+      "constructors": 13,
+      "driver_champion": {
+        "year": 1960,
+        "position": 1,
+        "position_text": "1",
+        "points": 43.0,
+        "wins": 5,
+        "driver_id": "jack_brabham",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jack Brabham",
+        "driver_nationality": "Australian",
+        "constructors": [
+          "Cooper-Climax"
+        ],
+        "constructor_ids": [
+          "cooper-climax"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1960,
+        "position": 1,
+        "position_text": "1",
+        "points": 48.0,
+        "wins": 6,
+        "constructor_id": "cooper-climax",
+        "constructor": "Cooper-Climax",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+      }
+    },
+    {
+      "year": 1961,
+      "generated_at": "2026-05-27T06:01:17.565156+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 8,
+      "race_results": 215,
+      "qualifying_results": 0,
+      "drivers": 61,
+      "constructors": 14,
+      "driver_champion": {
+        "year": 1961,
+        "position": 1,
+        "position_text": "1",
+        "points": 34.0,
+        "wins": 2,
+        "driver_id": "phil_hill",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Phil Hill",
+        "driver_nationality": "American",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1961,
+        "position": 1,
+        "position_text": "1",
+        "points": 45.0,
+        "wins": 5,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
+    {
+      "year": 1962,
+      "generated_at": "2026-05-27T06:01:28.572836+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 9,
+      "race_results": 205,
+      "qualifying_results": 0,
+      "drivers": 57,
+      "constructors": 17,
+      "driver_champion": {
+        "year": 1962,
+        "position": 1,
+        "position_text": "1",
+        "points": 42.0,
+        "wins": 4,
+        "driver_id": "hill",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Graham Hill",
+        "driver_nationality": "British",
+        "constructors": [
+          "BRM"
+        ],
+        "constructor_ids": [
+          "brm"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1962,
+        "position": 1,
+        "position_text": "1",
+        "points": 42.0,
+        "wins": 4,
+        "constructor_id": "brm",
+        "constructor": "BRM",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+      }
+    },
+    {
+      "year": 1963,
+      "generated_at": "2026-05-27T06:01:39.647383+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 10,
+      "race_results": 242,
+      "qualifying_results": 0,
+      "drivers": 57,
+      "constructors": 20,
+      "driver_champion": {
+        "year": 1963,
+        "position": 1,
+        "position_text": "1",
+        "points": 54.0,
+        "wins": 7,
+        "driver_id": "clark",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jim Clark",
+        "driver_nationality": "British",
+        "constructors": [
+          "Lotus-Climax"
+        ],
+        "constructor_ids": [
+          "lotus-climax"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1963,
+        "position": 1,
+        "position_text": "1",
+        "points": 54.0,
+        "wins": 7,
+        "constructor_id": "lotus-climax",
+        "constructor": "Lotus-Climax",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+      }
+    },
+    {
+      "year": 1964,
+      "generated_at": "2026-05-27T06:01:49.110042+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 10,
+      "race_results": 198,
+      "qualifying_results": 0,
+      "drivers": 38,
+      "constructors": 13,
+      "driver_champion": {
+        "year": 1964,
+        "position": 1,
+        "position_text": "1",
+        "points": 40.0,
+        "wins": 2,
+        "driver_id": "surtees",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "John Surtees",
+        "driver_nationality": "British",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1964,
+        "position": 1,
+        "position_text": "1",
+        "points": 45.0,
+        "wins": 3,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
+    {
+      "year": 1965,
+      "generated_at": "2026-05-27T06:01:58.623423+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 10,
+      "race_results": 192,
+      "qualifying_results": 0,
+      "drivers": 44,
+      "constructors": 13,
+      "driver_champion": {
+        "year": 1965,
+        "position": 1,
+        "position_text": "1",
+        "points": 54.0,
+        "wins": 6,
+        "driver_id": "clark",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jim Clark",
+        "driver_nationality": "British",
+        "constructors": [
+          "Lotus-Climax"
+        ],
+        "constructor_ids": [
+          "lotus-climax"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1965,
+        "position": 1,
+        "position_text": "1",
+        "points": 54.0,
+        "wins": 6,
+        "constructor_id": "lotus-climax",
+        "constructor": "Lotus-Climax",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+      }
+    },
+    {
+      "year": 1966,
+      "generated_at": "2026-05-27T06:02:07.688973+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 9,
+      "race_results": 164,
+      "qualifying_results": 0,
+      "drivers": 32,
+      "constructors": 15,
+      "driver_champion": {
+        "year": 1966,
+        "position": 1,
+        "position_text": "1",
+        "points": 42.0,
+        "wins": 4,
+        "driver_id": "jack_brabham",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jack Brabham",
+        "driver_nationality": "Australian",
+        "constructors": [
+          "Brabham-Repco"
+        ],
+        "constructor_ids": [
+          "brabham-repco"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1966,
+        "position": 1,
+        "position_text": "1",
+        "points": 42.0,
+        "wins": 4,
+        "constructor_id": "brabham-repco",
+        "constructor": "Brabham-Repco",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+      }
+    },
+    {
+      "year": 1967,
+      "generated_at": "2026-05-27T06:02:18.776630+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 11,
+      "race_results": 201,
+      "qualifying_results": 0,
+      "drivers": 43,
+      "constructors": 20,
+      "driver_champion": {
+        "year": 1967,
+        "position": 1,
+        "position_text": "1",
+        "points": 51.0,
+        "wins": 2,
+        "driver_id": "hulme",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Denny Hulme",
+        "driver_nationality": "New Zealander",
+        "constructors": [
+          "Brabham-Repco"
+        ],
+        "constructor_ids": [
+          "brabham-repco"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1967,
+        "position": 1,
+        "position_text": "1",
+        "points": 67.0,
+        "wins": 4,
+        "constructor_id": "brabham-repco",
+        "constructor": "Brabham-Repco",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+      }
+    },
+    {
+      "year": 1968,
+      "generated_at": "2026-05-27T06:02:30.026724+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 12,
+      "race_results": 229,
+      "qualifying_results": 0,
+      "drivers": 42,
+      "constructors": 17,
+      "driver_champion": {
+        "year": 1968,
+        "position": 1,
+        "position_text": "1",
+        "points": 48.0,
+        "wins": 3,
+        "driver_id": "hill",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Graham Hill",
+        "driver_nationality": "British",
+        "constructors": [
+          "Lotus-Ford"
+        ],
+        "constructor_ids": [
+          "lotus-ford"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1968,
+        "position": 1,
+        "position_text": "1",
+        "points": 62.0,
+        "wins": 5,
+        "constructor_id": "lotus-ford",
+        "constructor": "Lotus-Ford",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+      }
+    },
+    {
+      "year": 1969,
+      "generated_at": "2026-05-27T06:02:49.805898+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 11,
+      "race_results": 177,
+      "qualifying_results": 0,
+      "drivers": 31,
+      "constructors": 11,
+      "driver_champion": {
+        "year": 1969,
+        "position": 1,
+        "position_text": "1",
+        "points": 63.0,
+        "wins": 6,
+        "driver_id": "stewart",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jackie Stewart",
+        "driver_nationality": "British",
+        "constructors": [
+          "Matra-Ford"
+        ],
+        "constructor_ids": [
+          "matra-ford"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1969,
+        "position": 1,
+        "position_text": "1",
+        "points": 66.0,
+        "wins": 6,
+        "constructor_id": "matra-ford",
+        "constructor": "Matra-Ford",
+        "constructor_nationality": "French",
+        "constructor_url": "https://en.wikipedia.org/wiki/Matra"
+      }
+    },
+    {
+      "year": 1970,
+      "generated_at": "2026-05-27T06:03:11.775203+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 13,
+      "race_results": 267,
+      "qualifying_results": 0,
+      "drivers": 38,
+      "constructors": 12,
+      "driver_champion": {
+        "year": 1970,
+        "position": 1,
+        "position_text": "1",
+        "points": 45.0,
+        "wins": 5,
+        "driver_id": "rindt",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jochen Rindt",
+        "driver_nationality": "Austrian",
+        "constructors": [
+          "Team Lotus"
+        ],
+        "constructor_ids": [
+          "team_lotus"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1970,
+        "position": 1,
+        "position_text": "1",
+        "points": 59.0,
+        "wins": 6,
+        "constructor_id": "team_lotus",
+        "constructor": "Team Lotus",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+      }
+    },
+    {
+      "year": 1971,
+      "generated_at": "2026-05-27T06:03:33.514156+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 11,
+      "race_results": 257,
+      "qualifying_results": 0,
+      "drivers": 50,
+      "constructors": 12,
+      "driver_champion": {
+        "year": 1971,
+        "position": 1,
+        "position_text": "1",
+        "points": 62.0,
+        "wins": 6,
+        "driver_id": "stewart",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jackie Stewart",
+        "driver_nationality": "British",
+        "constructors": [
+          "Tyrrell"
+        ],
+        "constructor_ids": [
+          "tyrrell"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1971,
+        "position": 1,
+        "position_text": "1",
+        "points": 73.0,
+        "wins": 7,
+        "constructor_id": "tyrrell",
+        "constructor": "Tyrrell",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Tyrrell_Racing"
+      }
+    },
+    {
+      "year": 1972,
+      "generated_at": "2026-05-27T06:03:49.776538+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 12,
+      "race_results": 305,
+      "qualifying_results": 0,
+      "drivers": 42,
+      "constructors": 12,
+      "driver_champion": {
+        "year": 1972,
+        "position": 1,
+        "position_text": "1",
+        "points": 61.0,
+        "wins": 5,
+        "driver_id": "emerson_fittipaldi",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Emerson Fittipaldi",
+        "driver_nationality": "Brazilian",
+        "constructors": [
+          "Team Lotus"
+        ],
+        "constructor_ids": [
+          "team_lotus"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1972,
+        "position": 1,
+        "position_text": "1",
+        "points": 61.0,
+        "wins": 5,
+        "constructor_id": "team_lotus",
+        "constructor": "Team Lotus",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+      }
+    },
+    {
+      "year": 1973,
+      "generated_at": "2026-05-27T06:04:14.649240+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 15,
+      "race_results": 357,
+      "qualifying_results": 0,
+      "drivers": 43,
+      "constructors": 12,
+      "driver_champion": {
+        "year": 1973,
+        "position": 1,
+        "position_text": "1",
+        "points": 71.0,
+        "wins": 5,
+        "driver_id": "stewart",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jackie Stewart",
+        "driver_nationality": "British",
+        "constructors": [
+          "Tyrrell"
+        ],
+        "constructor_ids": [
+          "tyrrell"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1973,
+        "position": 1,
+        "position_text": "1",
+        "points": 91.0,
+        "wins": 7,
+        "constructor_id": "team_lotus",
+        "constructor": "Team Lotus",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+      }
+    },
+    {
+      "year": 1974,
+      "generated_at": "2026-05-27T06:16:19.107926+00:00",
+      "through_date": "2026-05-27",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 15,
+      "race_results": 387,
+      "qualifying_results": 0,
+      "drivers": 56,
+      "constructors": 18,
+      "driver_champion": {
+        "year": 1974,
+        "position": 1,
+        "position_text": "1",
+        "points": 55.0,
+        "wins": 3,
+        "driver_id": "emerson_fittipaldi",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Emerson Fittipaldi",
+        "driver_nationality": "Brazilian",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1974,
+        "position": 1,
+        "position_text": "1",
+        "points": 72.0,
+        "wins": 4,
+        "constructor_id": "mclaren",
+        "constructor": "McLaren",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+      }
+    },
+    {
+      "year": 1975,
+      "generated_at": "2026-05-27T06:16:31.864017+00:00",
+      "through_date": "2026-05-27",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 14,
+      "race_results": 346,
+      "qualifying_results": 0,
+      "drivers": 51,
+      "constructors": 20,
+      "driver_champion": {
+        "year": 1975,
+        "position": 1,
+        "position_text": "1",
+        "points": 64.5,
+        "wins": 5,
+        "driver_id": "lauda",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Niki Lauda",
+        "driver_nationality": "Austrian",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1975,
+        "position": 1,
+        "position_text": "1",
+        "points": 72.5,
+        "wins": 6,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
+    {
+      "year": 1976,
+      "generated_at": "2026-05-27T06:04:56.516263+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 399,
+      "qualifying_results": 0,
+      "drivers": 47,
+      "constructors": 20,
+      "driver_champion": {
+        "year": 1976,
+        "position": 1,
+        "position_text": "1",
+        "points": 66.0,
+        "wins": 6,
+        "driver_id": "hunt",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "James Hunt",
+        "driver_nationality": "British",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1976,
+        "position": 1,
+        "position_text": "1",
+        "points": 79.0,
+        "wins": 6,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
+    {
+      "year": 1977,
+      "generated_at": "2026-05-27T06:05:22.568508+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 17,
+      "race_results": 405,
+      "qualifying_results": 0,
+      "drivers": 48,
+      "constructors": 19,
+      "driver_champion": {
+        "year": 1977,
+        "position": 1,
+        "position_text": "1",
+        "points": 70.0,
+        "wins": 3,
+        "driver_id": "lauda",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Niki Lauda",
+        "driver_nationality": "Austrian",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1977,
+        "position": 1,
+        "position_text": "1",
+        "points": 84.0,
+        "wins": 4,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
+    {
+      "year": 1978,
+      "generated_at": "2026-05-27T06:05:46.672548+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 391,
+      "qualifying_results": 0,
+      "drivers": 38,
+      "constructors": 19,
+      "driver_champion": {
+        "year": 1978,
+        "position": 1,
+        "position_text": "1",
+        "points": 64.0,
+        "wins": 6,
+        "driver_id": "mario_andretti",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Mario Andretti",
+        "driver_nationality": "American",
+        "constructors": [
+          "Team Lotus"
+        ],
+        "constructor_ids": [
+          "team_lotus"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1978,
+        "position": 1,
+        "position_text": "1",
+        "points": 86.0,
+        "wins": 8,
+        "constructor_id": "team_lotus",
+        "constructor": "Team Lotus",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+      }
+    },
+    {
+      "year": 1979,
+      "generated_at": "2026-05-27T06:06:10.750864+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 15,
+      "race_results": 362,
+      "qualifying_results": 0,
+      "drivers": 34,
+      "constructors": 18,
+      "driver_champion": {
+        "year": 1979,
+        "position": 1,
+        "position_text": "1",
+        "points": 51.0,
+        "wins": 3,
+        "driver_id": "scheckter",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Jody Scheckter",
+        "driver_nationality": "South African",
+        "constructors": [
+          "Ferrari"
+        ],
+        "constructor_ids": [
+          "ferrari"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1979,
+        "position": 1,
+        "position_text": "1",
+        "points": 113.0,
+        "wins": 6,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
+    {
+      "year": 1980,
+      "generated_at": "2026-05-27T06:06:34.712882+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 14,
+      "race_results": 336,
+      "qualifying_results": 0,
+      "drivers": 34,
+      "constructors": 15,
+      "driver_champion": {
+        "year": 1980,
+        "position": 1,
+        "position_text": "1",
+        "points": 67.0,
+        "wins": 5,
+        "driver_id": "jones",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Alan Jones",
+        "driver_nationality": "Australian",
+        "constructors": [
+          "Williams"
+        ],
+        "constructor_ids": [
+          "williams"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1980,
+        "position": 1,
+        "position_text": "1",
+        "points": 120.0,
+        "wins": 6,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1981,
+      "generated_at": "2026-05-27T06:06:59.267094+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 15,
+      "race_results": 361,
+      "qualifying_results": 0,
+      "drivers": 36,
+      "constructors": 17,
+      "driver_champion": {
+        "year": 1981,
+        "position": 1,
+        "position_text": "1",
+        "points": 50.0,
+        "wins": 3,
+        "driver_id": "piquet",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Nelson Piquet",
+        "driver_nationality": "Brazilian",
+        "constructors": [
+          "Brabham"
+        ],
+        "constructor_ids": [
+          "brabham"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1981,
+        "position": 1,
+        "position_text": "1",
+        "points": 95.0,
+        "wins": 4,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1982,
+      "generated_at": "2026-05-27T06:07:24.885869+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 401,
+      "qualifying_results": 0,
+      "drivers": 38,
+      "constructors": 17,
+      "driver_champion": {
+        "year": 1982,
+        "position": 1,
+        "position_text": "1",
+        "points": 44.0,
+        "wins": 1,
+        "driver_id": "keke_rosberg",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Keke Rosberg",
+        "driver_nationality": "Finnish",
+        "constructors": [
+          "Williams"
+        ],
+        "constructor_ids": [
+          "williams"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1982,
+        "position": 1,
+        "position_text": "1",
+        "points": 74.0,
+        "wins": 3,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
+    {
+      "year": 1983,
+      "generated_at": "2026-05-27T06:07:48.522826+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 15,
+      "race_results": 385,
+      "qualifying_results": 0,
+      "drivers": 33,
+      "constructors": 16,
+      "driver_champion": {
+        "year": 1983,
+        "position": 1,
+        "position_text": "1",
+        "points": 59.0,
+        "wins": 3,
+        "driver_id": "piquet",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Nelson Piquet",
+        "driver_nationality": "Brazilian",
+        "constructors": [
+          "Brabham"
+        ],
+        "constructor_ids": [
+          "brabham"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1983,
+        "position": 1,
+        "position_text": "1",
+        "points": 89.0,
+        "wins": 4,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
+    {
+      "year": 1984,
+      "generated_at": "2026-05-27T06:08:14.325548+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 414,
+      "qualifying_results": 0,
+      "drivers": 34,
+      "constructors": 15,
+      "driver_champion": {
+        "year": 1984,
+        "position": 1,
+        "position_text": "1",
+        "points": 72.0,
+        "wins": 5,
+        "driver_id": "lauda",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Niki Lauda",
+        "driver_nationality": "Austrian",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1984,
+        "position": 1,
+        "position_text": "1",
+        "points": 143.5,
+        "wins": 12,
+        "constructor_id": "mclaren",
+        "constructor": "McLaren",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+      }
+    },
+    {
+      "year": 1985,
+      "generated_at": "2026-05-27T06:08:38.233702+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 400,
+      "qualifying_results": 0,
+      "drivers": 36,
+      "constructors": 17,
+      "driver_champion": {
+        "year": 1985,
+        "position": 1,
+        "position_text": "1",
+        "points": 73.0,
+        "wins": 5,
+        "driver_id": "prost",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Alain Prost",
+        "driver_nationality": "French",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1985,
+        "position": 1,
+        "position_text": "1",
+        "points": 90.0,
+        "wins": 6,
+        "constructor_id": "mclaren",
+        "constructor": "McLaren",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+      }
+    },
+    {
+      "year": 1986,
+      "generated_at": "2026-05-27T06:09:03.772708+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 407,
+      "qualifying_results": 0,
+      "drivers": 32,
+      "constructors": 14,
+      "driver_champion": {
+        "year": 1986,
+        "position": 1,
+        "position_text": "1",
+        "points": 72.0,
+        "wins": 4,
+        "driver_id": "prost",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Alain Prost",
+        "driver_nationality": "French",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1986,
+        "position": 1,
+        "position_text": "1",
+        "points": 141.0,
+        "wins": 9,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1987,
+      "generated_at": "2026-05-27T06:09:30.008286+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 415,
+      "qualifying_results": 0,
+      "drivers": 32,
+      "constructors": 16,
+      "driver_champion": {
+        "year": 1987,
+        "position": 1,
+        "position_text": "1",
+        "points": 73.0,
+        "wins": 3,
+        "driver_id": "piquet",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Nelson Piquet",
+        "driver_nationality": "Brazilian",
+        "constructors": [
+          "Williams"
+        ],
+        "constructor_ids": [
+          "williams"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1987,
+        "position": 1,
+        "position_text": "1",
+        "points": 137.0,
+        "wins": 9,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1988,
+      "generated_at": "2026-05-27T06:10:05.825585+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 421,
+      "qualifying_results": 0,
+      "drivers": 35,
+      "constructors": 18,
+      "driver_champion": {
+        "year": 1988,
+        "position": 1,
+        "position_text": "1",
+        "points": 90.0,
+        "wins": 8,
+        "driver_id": "senna",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Ayrton Senna",
+        "driver_nationality": "Brazilian",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1988,
+        "position": 1,
+        "position_text": "1",
+        "points": 199.0,
+        "wins": 15,
+        "constructor_id": "mclaren",
+        "constructor": "McLaren",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+      }
+    },
+    {
+      "year": 1989,
+      "generated_at": "2026-05-27T06:10:32.749148+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 418,
+      "qualifying_results": 0,
+      "drivers": 42,
+      "constructors": 19,
+      "driver_champion": {
+        "year": 1989,
+        "position": 1,
+        "position_text": "1",
+        "points": 76.0,
+        "wins": 4,
+        "driver_id": "prost",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Alain Prost",
+        "driver_nationality": "French",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1989,
+        "position": 1,
+        "position_text": "1",
+        "points": 141.0,
+        "wins": 10,
+        "constructor_id": "mclaren",
+        "constructor": "McLaren",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+      }
+    },
+    {
+      "year": 1990,
+      "generated_at": "2026-05-27T06:10:58.224780+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 419,
+      "qualifying_results": 0,
+      "drivers": 35,
+      "constructors": 17,
+      "driver_champion": {
+        "year": 1990,
+        "position": 1,
+        "position_text": "1",
+        "points": 78.0,
+        "wins": 6,
+        "driver_id": "senna",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Ayrton Senna",
+        "driver_nationality": "Brazilian",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1990,
+        "position": 1,
+        "position_text": "1",
+        "points": 121.0,
+        "wins": 6,
+        "constructor_id": "mclaren",
+        "constructor": "McLaren",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+      }
+    },
+    {
+      "year": 1991,
+      "generated_at": "2026-05-27T06:11:24.298589+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 416,
+      "qualifying_results": 0,
+      "drivers": 37,
+      "constructors": 18,
+      "driver_champion": {
+        "year": 1991,
+        "position": 1,
+        "position_text": "1",
+        "points": 96.0,
+        "wins": 7,
+        "driver_id": "senna",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Ayrton Senna",
+        "driver_nationality": "Brazilian",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1991,
+        "position": 1,
+        "position_text": "1",
+        "points": 139.0,
+        "wins": 8,
+        "constructor_id": "mclaren",
+        "constructor": "McLaren",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+      }
+    },
+    {
+      "year": 1992,
+      "generated_at": "2026-05-27T06:11:49.824411+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 419,
+      "qualifying_results": 0,
+      "drivers": 36,
+      "constructors": 16,
+      "driver_champion": {
+        "year": 1992,
+        "position": 1,
+        "position_text": "1",
+        "points": 108.0,
+        "wins": 9,
+        "driver_id": "mansell",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Nigel Mansell",
+        "driver_nationality": "British",
+        "constructors": [
+          "Williams"
+        ],
+        "constructor_ids": [
+          "williams"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1992,
+        "position": 1,
+        "position_text": "1",
+        "points": 164.0,
+        "wins": 10,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1993,
+      "generated_at": "2026-05-27T06:12:15.608529+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 404,
+      "qualifying_results": 0,
+      "drivers": 35,
+      "constructors": 13,
+      "driver_champion": {
+        "year": 1993,
+        "position": 1,
+        "position_text": "1",
+        "points": 99.0,
+        "wins": 7,
+        "driver_id": "prost",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Alain Prost",
+        "driver_nationality": "French",
+        "constructors": [
+          "Williams"
+        ],
+        "constructor_ids": [
+          "williams"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1993,
+        "position": 1,
+        "position_text": "1",
+        "points": 168.0,
+        "wins": 10,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1994,
+      "generated_at": "2026-05-27T06:12:58.365306+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 418,
+      "qualifying_results": 392,
+      "drivers": 46,
+      "constructors": 14,
+      "driver_champion": {
+        "year": 1994,
+        "position": 1,
+        "position_text": "1",
+        "points": 92.0,
+        "wins": 8,
+        "driver_id": "michael_schumacher",
+        "driver_code": "MSC",
+        "driver_number": null,
+        "driver_name": "Michael Schumacher",
+        "driver_nationality": "German",
+        "constructors": [
+          "Benetton"
+        ],
+        "constructor_ids": [
+          "benetton"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1994,
+        "position": 1,
+        "position_text": "1",
+        "points": 118.0,
+        "wins": 7,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1995,
+      "generated_at": "2026-05-27T06:13:32.969673+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 17,
+      "race_results": 418,
+      "qualifying_results": 418,
+      "drivers": 35,
+      "constructors": 13,
+      "driver_champion": {
+        "year": 1995,
+        "position": 1,
+        "position_text": "1",
+        "points": 102.0,
+        "wins": 9,
+        "driver_id": "michael_schumacher",
+        "driver_code": "MSC",
+        "driver_number": null,
+        "driver_name": "Michael Schumacher",
+        "driver_nationality": "German",
+        "constructors": [
+          "Benetton"
+        ],
+        "constructor_ids": [
+          "benetton"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1995,
+        "position": 1,
+        "position_text": "1",
+        "points": 147.0,
+        "wins": 11,
+        "constructor_id": "benetton",
+        "constructor": "Benetton",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Benetton_Formula"
+      }
+    },
+    {
+      "year": 1996,
+      "generated_at": "2026-05-27T06:13:59.070199+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 328,
+      "qualifying_results": 148,
+      "drivers": 24,
+      "constructors": 11,
+      "driver_champion": {
+        "year": 1996,
+        "position": 1,
+        "position_text": "1",
+        "points": 97.0,
+        "wins": 8,
+        "driver_id": "damon_hill",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Damon Hill",
+        "driver_nationality": "British",
+        "constructors": [
+          "Williams"
+        ],
+        "constructor_ids": [
+          "williams"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1996,
+        "position": 1,
+        "position_text": "1",
+        "points": 175.0,
+        "wins": 12,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1997,
+      "generated_at": "2026-05-27T06:14:26.791672+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 17,
+      "race_results": 374,
+      "qualifying_results": 220,
+      "drivers": 26,
+      "constructors": 11,
+      "driver_champion": {
+        "year": 1997,
+        "position": 1,
+        "position_text": "1",
+        "points": 81.0,
+        "wins": 7,
+        "driver_id": "villeneuve",
+        "driver_code": "VIL",
+        "driver_number": null,
+        "driver_name": "Jacques Villeneuve",
+        "driver_nationality": "Canadian",
+        "constructors": [
+          "Williams"
+        ],
+        "constructor_ids": [
+          "williams"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1997,
+        "position": 1,
+        "position_text": "1",
+        "points": 123.0,
+        "wins": 8,
+        "constructor_id": "williams",
+        "constructor": "Williams",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+      }
+    },
+    {
+      "year": 1998,
+      "generated_at": "2026-05-27T06:14:54.295505+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 347,
+      "qualifying_results": 153,
+      "drivers": 23,
+      "constructors": 11,
+      "driver_champion": {
+        "year": 1998,
+        "position": 1,
+        "position_text": "1",
+        "points": 100.0,
+        "wins": 8,
+        "driver_id": "hakkinen",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Mika H\u00e4kkinen",
+        "driver_nationality": "Finnish",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1998,
+        "position": 1,
+        "position_text": "1",
+        "points": 156.0,
+        "wins": 9,
+        "constructor_id": "mclaren",
+        "constructor": "McLaren",
+        "constructor_nationality": "British",
+        "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+      }
+    },
+    {
+      "year": 1999,
+      "generated_at": "2026-05-27T06:15:21.373634+00:00",
+      "through_date": "1999-12-31",
+      "source": "Jolpica Ergast-compatible API",
+      "races": 16,
+      "race_results": 351,
+      "qualifying_results": 65,
+      "drivers": 24,
+      "constructors": 11,
+      "driver_champion": {
+        "year": 1999,
+        "position": 1,
+        "position_text": "1",
+        "points": 76.0,
+        "wins": 5,
+        "driver_id": "hakkinen",
+        "driver_code": null,
+        "driver_number": null,
+        "driver_name": "Mika H\u00e4kkinen",
+        "driver_nationality": "Finnish",
+        "constructors": [
+          "McLaren"
+        ],
+        "constructor_ids": [
+          "mclaren"
+        ]
+      },
+      "constructor_champion": {
+        "year": 1999,
+        "position": 1,
+        "position_text": "1",
+        "points": 128.0,
+        "wins": 6,
+        "constructor_id": "ferrari",
+        "constructor": "Ferrari",
+        "constructor_nationality": "Italian",
+        "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+      }
+    },
     {
       "year": 2000,
       "generated_at": "2026-05-25T19:02:07.909285+00:00",

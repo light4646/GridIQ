@@ -1,0 +1,227 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Cooper,cooper,British,,moss,Stirling Moss,British,14,1958-buenos-aires,Argentine Grand Prix,,,,,,7,80,8373700,8.0,1,1,1,Finished,2:19:33.700,1958
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,16,1958-buenos-aires,Argentine Grand Prix,,,,,,5,80,8376400,6.0,2,2,1,Finished,+2.700,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,20,1958-buenos-aires,Argentine Grand Prix,,,,,,2,80,8386299,4.0,3,3,1,Finished,+12.600,1958
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,2,1958-buenos-aires,Argentine Grand Prix,,,,,,1,80,8426700,4.0,4,4,1,Finished,+53.000,1958
+Maserati,maserati,Italian,,behra,Jean Behra,French,4,1958-buenos-aires,Argentine Grand Prix,,,,,,4,78,,2.0,5,5,1,+2 Laps,,1958
+Maserati,maserati,Italian,,schell,Harry Schell,American,8,1958-buenos-aires,Argentine Grand Prix,,,,,,8,77,,0.0,6,6,1,+3 Laps,,1958
+Maserati,maserati,Italian,,menditeguy,Carlos Menditeguy,Argentine,6,1958-buenos-aires,Argentine Grand Prix,,,,,,6,76,,0.0,7,7,1,+4 Laps,,1958
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,10,1958-buenos-aires,Argentine Grand Prix,,,,,,9,75,,0.0,8,8,1,+5 Laps,,1958
+Maserati,maserati,Italian,,gould,Horace Gould,British,12,1958-buenos-aires,Argentine Grand Prix,,,,,,10,71,,0.0,9,9,1,+9 Laps,,1958
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,18,1958-buenos-aires,Argentine Grand Prix,,,,,,3,0,,0.0,10,R,1,Halfshaft,,1958
+Cooper,cooper,British,,trintignant,Maurice Trintignant,French,20,1958-monte-carlo,Monaco Grand Prix,,,,,,5,100,10347900,8.0,1,1,2,Finished,2:52:27.900,1958
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,34,1958-monte-carlo,Monaco Grand Prix,,,,,,10,100,10368100,6.0,2,2,2,Finished,+20.200,1958
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,36,1958-monte-carlo,Monaco Grand Prix,,,,,,9,100,10386700,4.0,3,3,2,Finished,+38.800,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,16,1958-monte-carlo,Monaco Grand Prix,,,,,,3,97,,3.0,4,4,2,+3 Laps,,1958
+BRM,brm,British,,schell,Harry Schell,American,8,1958-monte-carlo,Monaco Grand Prix,,,,,,12,91,,2.0,5,5,2,+9 Laps,,1958
+Team Lotus,team_lotus,British,,allison,Cliff Allison,British,24,1958-monte-carlo,Monaco Grand Prix,,,,,,13,87,,0.0,6,6,2,+13 Laps,,1958
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,40,1958-monte-carlo,Monaco Grand Prix,,,,,,11,91,,0.0,7,R,2,Engine,,1958
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,58,1958-monte-carlo,Monaco Grand Prix,,,,,,16,71,,0.0,8,R,2,Accident,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,26,1958-monte-carlo,Monaco Grand Prix,,,,,,15,69,,0.0,9,R,2,Halfshaft,,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,18,1958-monte-carlo,Monaco Grand Prix,,,,,,4,56,,0.0,10,R,2,Gearbox,,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,38,1958-monte-carlo,Monaco Grand Prix,,,,,,6,47,,1.0,11,R,2,Fuel pump,,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,28,1958-monte-carlo,Monaco Grand Prix,,,,,,8,38,,0.0,12,R,2,Engine,,1958
+BRM,brm,British,,behra,Jean Behra,French,6,1958-monte-carlo,Monaco Grand Prix,,,,,,2,29,,0.0,13,R,2,Brakes,,1958
+Maserati,maserati,Italian,,scarlatti,Giorgio Scarlatti,Italian,46,1958-monte-carlo,Monaco Grand Prix,,,,,,14,28,,0.0,14,R,2,Engine,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,30,1958-monte-carlo,Monaco Grand Prix,,,,,,1,22,,0.0,15,R,2,Engine,,1958
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,32,1958-monte-carlo,Monaco Grand Prix,,,,,,7,11,,0.0,16,R,2,Overheating,,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,1,1958-zandvoort,Dutch Grand Prix,,,,,,2,75,7489200,9.0,1,1,3,Finished,2:04:49.200,1958
+BRM,brm,British,,schell,Harry Schell,American,15,1958-zandvoort,Dutch Grand Prix,,,,,,7,75,7537100,6.0,2,2,3,Finished,+47.900,1958
+BRM,brm,British,,behra,Jean Behra,French,14,1958-zandvoort,Dutch Grand Prix,,,,,,4,75,7591500,4.0,3,3,3,Finished,+1:42.300,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,7,1958-zandvoort,Dutch Grand Prix,,,,,,9,74,,3.0,4,4,3,+1 Lap,,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,5,1958-zandvoort,Dutch Grand Prix,,,,,,6,74,,2.0,5,5,3,+1 Lap,,1958
+Team Lotus,team_lotus,British,,allison,Cliff Allison,British,17,1958-zandvoort,Dutch Grand Prix,,,,,,11,73,,0.0,6,6,3,+2 Laps,,1958
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,6,1958-zandvoort,Dutch Grand Prix,,,,,,12,73,,0.0,7,7,3,+2 Laps,,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,8,1958-zandvoort,Dutch Grand Prix,,,,,,5,73,,0.0,8,8,3,+2 Laps,,1958
+Cooper,cooper,British,,trintignant,Maurice Trintignant,French,9,1958-zandvoort,Dutch Grand Prix,,,,,,8,72,,0.0,9,9,3,+3 Laps,,1958
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,11,1958-zandvoort,Dutch Grand Prix,,,,,,15,71,,0.0,10,10,3,+4 Laps,,1958
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,18,1958-zandvoort,Dutch Grand Prix,,,,,,17,69,,0.0,11,11,3,+6 Laps,,1958
+Maserati,maserati,Italian,,scarlatti,Giorgio Scarlatti,Italian,10,1958-zandvoort,Dutch Grand Prix,,,,,,16,52,,0.0,12,R,3,Halfshaft,,1958
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,3,1958-zandvoort,Dutch Grand Prix,,,,,,1,46,,0.0,13,R,3,Engine,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,16,1958-zandvoort,Dutch Grand Prix,,,,,,13,40,,0.0,14,R,3,Overheating,,1958
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,4,1958-zandvoort,Dutch Grand Prix,,,,,,10,32,,0.0,15,R,3,Gearbox,,1958
+Maserati,maserati,Italian,,gregory,Masten Gregory,American,12,1958-zandvoort,Dutch Grand Prix,,,,,,14,16,,0.0,16,R,3,Fuel pump,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,2,1958-zandvoort,Dutch Grand Prix,,,,,,3,13,,0.0,17,R,3,Halfshaft,,1958
+Maserati,maserati,Italian,,gould,Horace Gould,British,12,1958-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,18,W,3,Withdrew,,1958
+Epperly,epperly,American,,bryan,Jimmy Bryan,American,1,1958-indianapolis,Indianapolis 500,,,,,,7,200,13453800,8.0,1,1,4,Finished,3:44:13.800,1958
+Epperly,epperly,American,,george_amick,George Amick,American,99,1958-indianapolis,Indianapolis 500,,,,,,25,200,13481430,6.0,2,2,4,Finished,+27.630,1958
+Kurtis Kraft,kurtis_kraft,American,,boyd,Johnny Boyd,American,9,1958-indianapolis,Indianapolis 500,,,,,,8,200,13523470,4.0,3,3,4,Finished,+1:09.670,1958
+Epperly,epperly,American,,bettenhausen,Tony Bettenhausen,American,33,1958-indianapolis,Indianapolis 500,,,,,,9,200,13548610,4.0,4,4,4,Finished,+1:34.810,1958
+Epperly,epperly,American,,rathmann,Jim Rathmann,American,2,1958-indianapolis,Indianapolis 500,,,,,,20,200,13549420,2.0,5,5,4,Finished,+1:35.620,1958
+Watson,watson,American,,reece,Jimmy Reece,American,16,1958-indianapolis,Indianapolis 500,,,,,,3,200,13590750,0.0,6,6,4,Finished,+2:16.950,1958
+Phillips,phillips,American,,freeland,Don Freeland,American,26,1958-indianapolis,Indianapolis 500,,,,,,13,200,13594860,0.0,7,7,4,Finished,+2:21.060,1958
+Watson,watson,American,,larson,Jud Larson,American,44,1958-indianapolis,Indianapolis 500,,,,,,19,200,13787820,0.0,8,8,4,Finished,+5:34.020,1958
+Kurtis Kraft,kurtis_kraft,American,,johnson,Eddie Johnson,American,61,1958-indianapolis,Indianapolis 500,,,,,,26,200,13829560,0.0,9,9,4,Finished,+6:15.760,1958
+Kurtis Kraft,kurtis_kraft,American,,cheesbourg,Bill Cheesbourg,American,54,1958-indianapolis,Indianapolis 500,,,,,,33,200,13937390,0.0,10,10,4,Finished,+8:03.590,1958
+Kurtis Kraft,kurtis_kraft,American,,keller,Al Keller,American,52,1958-indianapolis,Indianapolis 500,,,,,,21,200,14008000,0.0,11,11,4,Finished,+9:14.200,1958
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,45,1958-indianapolis,Indianapolis 500,,,,,,6,200,14034650,0.0,12,12,4,Finished,+9:40.850,1958
+Kuzma,kuzma,American,,tolan,Johnnie Tolan,American,19,1958-indianapolis,Indianapolis 500,,,,,,30,200,14046040,0.0,13,13,4,Finished,+9:52.240,1958
+Kurtis Kraft,kurtis_kraft,American,,christie,Bob Christie,American,65,1958-indianapolis,Indianapolis 500,,,,,,17,189,,0.0,14,R,4,Spun off,,1958
+Kuzma,kuzma,American,,dempsey_wilson,Dempsey Wilson,American,59,1958-indianapolis,Indianapolis 500,,,,,,32,151,,0.0,15,R,4,Heat shield fire,,1958
+Kuzma,kuzma,American,,foyt,Anthony Foyt,American,29,1958-indianapolis,Indianapolis 500,,,,,,12,148,,0.0,16,R,4,Spun off,,1958
+Kurtis Kraft,kurtis_kraft,American,,magill,Mike Magill,American,77,1958-indianapolis,Indianapolis 500,,,,,,31,136,,0.0,17,D,4,Disqualified,,1958
+Kurtis Kraft,kurtis_kraft,American,,paul_russo,Paul Russo,American,15,1958-indianapolis,Indianapolis 500,,,,,,14,122,,0.0,18,R,4,Throttle,,1958
+Kurtis Kraft,kurtis_kraft,American,,templeman,Shorty Templeman,American,83,1958-indianapolis,Indianapolis 500,,,,,,23,116,,0.0,19,R,4,Brakes,,1958
+Lesovsky,lesovsky,American,,ward,Rodger Ward,American,8,1958-indianapolis,Indianapolis 500,,,,,,11,93,,0.0,20,R,4,Magneto,,1958
+Kurtis Kraft,kurtis_kraft,American,,garrett,Billy Garrett,American,43,1958-indianapolis,Indianapolis 500,,,,,,15,80,,0.0,21,R,4,Magneto,,1958
+Kuzma,kuzma,American,,sachs,Eddie Sachs,American,88,1958-indianapolis,Indianapolis 500,,,,,,18,68,,0.0,22,R,4,Transmission,,1958
+Kurtis Kraft,kurtis_kraft,American,,thomson,Johnny Thomson,American,7,1958-indianapolis,Indianapolis 500,,,,,,22,52,,0.0,23,R,4,Steering,,1958
+Dunn,dunn,American,,weyant,Chuck Weyant,American,89,1958-indianapolis,Indianapolis 500,,,,,,29,38,,0.0,24,R,4,Accident,,1958
+Lesovsky,lesovsky,American,,turner,Jack Turner,American,25,1958-indianapolis,Indianapolis 500,,,,,,10,21,,0.0,25,R,4,Fuel pump,,1958
+Kurtis Kraft,kurtis_kraft,American,,veith,Bob Veith,American,14,1958-indianapolis,Indianapolis 500,,,,,,4,1,,0.0,26,R,4,Accident,,1958
+Watson,watson,American,,dick_rathmann,Dick Rathmann,American,97,1958-indianapolis,Indianapolis 500,,,,,,1,0,,0.0,27,R,4,Accident,,1958
+Watson,watson,American,,elisian,Ed Elisian,American,5,1958-indianapolis,Indianapolis 500,,,,,,2,0,,0.0,28,R,4,Accident,,1958
+Kurtis Kraft,kurtis_kraft,American,,connor,Pat O'Connor,American,4,1958-indianapolis,Indianapolis 500,,,,,,5,0,,0.0,29,R,4,Accident,,1958
+Kurtis Kraft,kurtis_kraft,American,,goldsmith,Paul Goldsmith,American,31,1958-indianapolis,Indianapolis 500,,,,,,16,0,,0.0,30,R,4,Accident,,1958
+Kurtis Kraft,kurtis_kraft,American,,jerry_unser,Jerry Unser,American,92,1958-indianapolis,Indianapolis 500,,,,,,24,0,,0.0,31,R,4,Accident,,1958
+Kurtis Kraft,kurtis_kraft,American,,sutton,Len Sutton,American,68,1958-indianapolis,Indianapolis 500,,,,,,27,0,,0.0,32,R,4,Accident,,1958
+Kuzma,kuzma,American,,bisch,Art Bisch,American,57,1958-indianapolis,Indianapolis 500,,,,,,28,0,,0.0,33,R,4,Accident,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,4,1958-spa,Belgian Grand Prix,,,,,,5,24,5826300,8.0,1,1,5,Finished,1:37:06.300,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,16,1958-spa,Belgian Grand Prix,,,,,,1,24,5847000,7.0,2,2,5,Finished,+20.700,1958
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,6,1958-spa,Belgian Grand Prix,,,,,,11,24,6007200,4.0,3,3,5,Finished,+3:00.900,1958
+Team Lotus,team_lotus,British,,allison,Cliff Allison,British,40,1958-spa,Belgian Grand Prix,,,,,,12,24,6081800,3.0,4,4,5,Finished,+4:15.500,1958
+BRM,brm,British,,schell,Harry Schell,American,10,1958-spa,Belgian Grand Prix,,,,,,7,23,,2.0,5,5,5,+1 Lap,,1958
+Ferrari,ferrari,Italian,,gendebien,Olivier Gendebien,Belgian,20,1958-spa,Belgian Grand Prix,,,,,,6,23,,0.0,6,6,5,+1 Lap,,1958
+Maserati,maserati,Italian,,trintignant,Maurice Trintignant,French,28,1958-spa,Belgian Grand Prix,,,,,,16,23,,0.0,7,7,5,+1 Lap,,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,24,1958-spa,Belgian Grand Prix,,,,,,13,23,,0.0,8,8,5,+1 Lap,,1958
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,36,1958-spa,Belgian Grand Prix,,,,,,14,22,,0.0,9,9,5,+2 Laps,,1958
+Maserati,maserati,Italian,,filippis,Maria de Filippis,Italian,26,1958-spa,Belgian Grand Prix,,,,,,19,22,,0.0,10,10,5,+2 Laps,,1958
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,38,1958-spa,Belgian Grand Prix,,,,,,18,22,,0.0,11,R,5,Engine,,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,22,1958-spa,Belgian Grand Prix,,,,,,8,16,,0.0,12,R,5,Overheating,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,42,1958-spa,Belgian Grand Prix,,,,,,15,12,,0.0,13,R,5,Engine,,1958
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,18,1958-spa,Belgian Grand Prix,,,,,,2,5,,0.0,14,R,5,Accident,,1958
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,14,1958-spa,Belgian Grand Prix,,,,,,4,5,,0.0,15,R,5,Overheating,,1958
+BRM,brm,British,,behra,Jean Behra,French,8,1958-spa,Belgian Grand Prix,,,,,,10,5,,0.0,16,R,5,Oil pressure,,1958
+Maserati,maserati,Italian,,seidel,Wolfgang Seidel,German,32,1958-spa,Belgian Grand Prix,,,,,,17,4,,0.0,17,R,5,Halfshaft,,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,2,1958-spa,Belgian Grand Prix,,,,,,9,0,,0.0,18,R,5,Engine,,1958
+Maserati,maserati,Italian,,gregory,Masten Gregory,American,30,1958-spa,Belgian Grand Prix,,,,,,3,0,,0.0,19,R,5,Engine,,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,4,1958-reims,French Grand Prix,,,,,,1,50,7401300,9.0,1,1,6,Finished,2:03:21.300,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,8,1958-reims,French Grand Prix,,,,,,6,50,7425900,6.0,2,2,6,Finished,+24.600,1958
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,6,1958-reims,French Grand Prix,,,,,,21,50,7461000,4.0,3,3,6,Finished,+59.700,1958
+Maserati,maserati,Italian,,fangio,Juan Fangio,Argentine,34,1958-reims,French Grand Prix,,,,,,8,50,7551900,3.0,4,4,6,Finished,+2:30.600,1958
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,42,1958-reims,French Grand Prix,,,,,,4,50,7726200,2.0,5,5,6,Finished,+5:24.900,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,22,1958-reims,French Grand Prix,,,,,,12,49,,0.0,6,6,6,+1 Lap,,1958
+Maserati,maserati,Italian,,phil_hill,Phil Hill,American,36,1958-reims,French Grand Prix,,,,,,13,49,,0.0,7,7,6,+1 Lap,,1958
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,38,1958-reims,French Grand Prix,,,,,,16,48,,0.0,8,8,6,+2 Laps,,1958
+Maserati,maserati,Italian,,gerini,Gerino Gerini,Italian,32,1958-reims,French Grand Prix,,,,,,15,47,,0.0,9,9,6,+3 Laps,,1958
+Maserati,maserati,Italian,,ruttman,Troy Ruttman,American,30,1958-reims,French Grand Prix,,,,,,18,45,,0.0,10,10,6,+5 Laps,,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,20,1958-reims,French Grand Prix,,,,,,14,37,,0.0,11,11,6,+13 Laps,,1958
+BRM,brm,British,,schell,Harry Schell,American,16,1958-reims,French Grand Prix,,,,,,3,41,,0.0,12,R,6,Overheating,,1958
+BRM,brm,British,,behra,Jean Behra,French,14,1958-reims,French Grand Prix,,,,,,9,41,,0.0,13,R,6,Fuel pump,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,12,1958-reims,French Grand Prix,,,,,,10,35,,0.0,14,R,6,Engine,,1958
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,12,1958-reims,French Grand Prix,,,,,,10,35,,0.0,14,R,6,Engine,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,24,1958-reims,French Grand Prix,,,,,,19,33,,0.0,15,R,6,Overheating,,1958
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,40,1958-reims,French Grand Prix,,,,,,11,28,,0.0,16,R,6,Accident,,1958
+BRM,brm,British,,trintignant,Maurice Trintignant,French,18,1958-reims,French Grand Prix,,,,,,7,23,,0.0,17,R,6,Fuel pump,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,10,1958-reims,French Grand Prix,,,,,,5,16,,0.0,18,R,6,Engine,,1958
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,2,1958-reims,French Grand Prix,,,,,,2,9,,0.0,19,R,6,Accident,,1958
+Maserati,maserati,Italian,,shelby,Carroll Shelby,American,28,1958-reims,French Grand Prix,,,,,,17,9,,0.0,20,R,6,Engine,,1958
+Team Lotus,team_lotus,British,,allison,Cliff Allison,British,26,1958-reims,French Grand Prix,,,,,,20,6,,0.0,21,R,6,Engine,,1958
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,1,1958-silverstone,British Grand Prix,,,,,,6,75,7744200,8.0,1,1,7,Finished,2:09:04.200,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,2,1958-silverstone,British Grand Prix,,,,,,4,75,7768400,7.0,2,2,7,Finished,+24.200,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,10,1958-silverstone,British Grand Prix,,,,,,3,75,7794800,4.0,3,3,7,Finished,+50.600,1958
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,9,1958-silverstone,British Grand Prix,,,,,,7,75,7795000,3.0,4,4,7,Finished,+50.800,1958
+BRM,brm,British,,schell,Harry Schell,American,20,1958-silverstone,British Grand Prix,,,,,,2,75,7819000,2.0,5,5,7,Finished,+1:14.800,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,11,1958-silverstone,British Grand Prix,,,,,,10,75,7827400,0.0,6,6,7,Finished,+1:23.200,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,8,1958-silverstone,British Grand Prix,,,,,,9,74,,0.0,7,7,7,+1 Lap,,1958
+Cooper,cooper,British,,trintignant,Maurice Trintignant,French,4,1958-silverstone,British Grand Prix,,,,,,12,73,,0.0,8,8,7,+2 Laps,,1958
+Maserati,maserati,Italian,,shelby,Carroll Shelby,American,5,1958-silverstone,British Grand Prix,,,,,,15,72,,0.0,9,9,7,+3 Laps,,1958
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,3,1958-silverstone,British Grand Prix,,,,,,11,59,,0.0,10,R,7,Engine,,1958
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,22,1958-silverstone,British Grand Prix,,,,,,13,49,,0.0,11,R,7,Gearbox,,1958
+Maserati,maserati,Italian,,gerini,Gerino Gerini,Italian,6,1958-silverstone,British Grand Prix,,,,,,18,44,,0.0,12,R,7,Gearbox,,1958
+Cooper,cooper,British,,burgess,Ian Burgess,British,12,1958-silverstone,British Grand Prix,,,,,,16,40,,0.0,13,R,7,Clutch,,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,7,1958-silverstone,British Grand Prix,,,,,,1,25,,0.0,14,R,7,Engine,,1958
+Team Lotus,team_lotus,British,,allison,Cliff Allison,British,17,1958-silverstone,British Grand Prix,,,,,,5,21,,0.0,15,R,7,Engine,,1958
+BRM,brm,British,,behra,Jean Behra,French,19,1958-silverstone,British Grand Prix,,,,,,8,19,,0.0,16,R,7,Suspension,,1958
+Connaught,connaught,British,,bueb,Ivor Bueb,British,15,1958-silverstone,British Grand Prix,,,,,,17,19,,0.0,17,R,7,Gearbox,,1958
+Team Lotus,team_lotus,British,,stacey,Alan Stacey,British,18,1958-silverstone,British Grand Prix,,,,,,20,19,,0.0,18,R,7,Overheating,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,16,1958-silverstone,British Grand Prix,,,,,,14,17,,0.0,19,R,7,Overheating,,1958
+Connaught,connaught,British,,fairman,Jack Fairman,British,14,1958-silverstone,British Grand Prix,,,,,,19,7,,0.0,20,R,7,Ignition,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,8,1958-n-rburg,German Grand Prix,,,,,,2,15,8475000,8.0,1,1,8,Finished,2:21,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,10,1958-n-rburg,German Grand Prix,,,,,,6,15,8684700,6.0,2,2,8,Finished,+3:29.700,1958
+Cooper,cooper,British,,trintignant,Maurice Trintignant,French,11,1958-n-rburg,German Grand Prix,,,,,,7,15,8786200,4.0,3,3,8,Finished,+5:11.200,1958
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,4,1958-n-rburg,German Grand Prix,,,,,,5,15,8851300,3.0,4,4,8,Finished,+6:16.300,1958
+Cooper,cooper,British,,mclaren,Bruce McLaren,New Zealander,20,1958-n-rburg,German Grand Prix,,,,,,12,15,8861300,0.0,5,5,8,Finished,+6:26.300,1958
+Porsche,porsche,German,,barth,Edgar Barth,German,21,1958-n-rburg,German Grand Prix,,,,,,13,15,8867400,0.0,6,6,8,Finished,+6:32.400,1958
+Cooper,cooper,British,,burgess,Ian Burgess,British,26,1958-n-rburg,German Grand Prix,,,,,,11,15,8894300,0.0,7,7,8,Finished,+6:59.300,1958
+Cooper,cooper,British,,marsh,Tony Marsh,British,30,1958-n-rburg,German Grand Prix,,,,,,14,15,8904900,0.0,8,8,8,Finished,+7:09.900,1958
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,23,1958-n-rburg,German Grand Prix,,,,,,10,15,8940500,0.0,9,9,8,Finished,+7:45.500,1958
+Team Lotus,team_lotus,British,,allison,Cliff Allison,British,12,1958-n-rburg,German Grand Prix,,,,,,24,13,,0.0,10,10,8,+2 Laps,,1958
+Team Lotus,team_lotus,British,,bueb,Ivor Bueb,British,28,1958-n-rburg,German Grand Prix,,,,,,16,13,,0.0,11,11,8,+2 Laps,,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,3,1958-n-rburg,German Grand Prix,,,,,,1,11,,0.0,12,R,8,Clutch,,1958
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,2,1958-n-rburg,German Grand Prix,,,,,,4,10,,0.0,13,R,8,Accident,,1958
+Cooper,cooper,British,,seidel,Wolfgang Seidel,German,22,1958-n-rburg,German Grand Prix,,,,,,17,9,,0.0,14,R,8,Suspension,,1958
+BRM,brm,British,,schell,Harry Schell,American,6,1958-n-rburg,German Grand Prix,,,,,,8,9,,0.0,15,R,8,Brakes,,1958
+Cooper,cooper,British,,goethals,Christian Goethals,Belgian,27,1958-n-rburg,German Grand Prix,,,,,,23,4,,0.0,16,R,8,Fuel pump,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,25,1958-n-rburg,German Grand Prix,,,,,,22,4,,0.0,17,R,8,Oil pipe,,1958
+BRM,brm,British,,behra,Jean Behra,French,5,1958-n-rburg,German Grand Prix,,,,,,9,4,,0.0,18,R,8,Suspension,,1958
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,18,1958-n-rburg,German Grand Prix,,,,,,15,3,,0.0,19,R,8,Engine,,1958
+Maserati,maserati,Italian,,herrmann,Hans Herrmann,German,17,1958-n-rburg,German Grand Prix,,,,,,20,3,,0.0,20,R,8,Engine,,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,7,1958-n-rburg,German Grand Prix,,,,,,3,3,,1.0,21,R,8,Magneto,,1958
+Cooper,cooper,British,,gibson,Dick Gibson,British,19,1958-n-rburg,German Grand Prix,,,,,,18,2,,0.0,22,R,8,Engine,,1958
+Cooper,cooper,British,,naylor,Brian Naylor,British,29,1958-n-rburg,German Grand Prix,,,,,,25,1,,0.0,23,R,8,Fuel pump,,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,24,1958-n-rburg,German Grand Prix,,,,,,19,1,,0.0,24,R,8,Collision,,1958
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,16,1958-n-rburg,German Grand Prix,,,,,,21,1,,0.0,25,R,8,Accident,,1958
+Maserati,maserati,Italian,,ruttman,Troy Ruttman,American,14,1958-n-rburg,German Grand Prix,,,,,,0,0,,0.0,26,W,8,Engine,,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,2,1958-oporto,Portuguese Grand Prix,,,,,,1,50,7887800,8.0,1,1,9,Finished,2:11:27.800,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,24,1958-oporto,Portuguese Grand Prix,,,,,,2,50,8200549,7.0,2,2,9,Finished,+5:12.750,1958
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,6,1958-oporto,Portuguese Grand Prix,,,,,,3,49,,4.0,3,3,9,+1 Lap,,1958
+BRM,brm,British,,behra,Jean Behra,French,8,1958-oporto,Portuguese Grand Prix,,,,,,4,49,,3.0,4,4,9,+1 Lap,,1958
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,22,1958-oporto,Portuguese Grand Prix,,,,,,6,49,,2.0,5,5,9,+1 Lap,,1958
+BRM,brm,British,,schell,Harry Schell,American,10,1958-oporto,Portuguese Grand Prix,,,,,,7,49,,0.0,6,6,9,+1 Lap,,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,14,1958-oporto,Portuguese Grand Prix,,,,,,8,48,,0.0,7,7,9,+2 Laps,,1958
+Cooper,cooper,British,,trintignant,Maurice Trintignant,French,12,1958-oporto,Portuguese Grand Prix,,,,,,9,48,,0.0,8,8,9,+2 Laps,,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,16,1958-oporto,Portuguese Grand Prix,,,,,,11,46,,0.0,9,9,9,+4 Laps,,1958
+Maserati,maserati,Italian,,shelby,Carroll Shelby,American,28,1958-oporto,Portuguese Grand Prix,,,,,,10,47,,0.0,10,R,9,Brakes,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,4,1958-oporto,Portuguese Grand Prix,,,,,,5,37,,0.0,11,R,9,Spun off,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,20,1958-oporto,Portuguese Grand Prix,,,,,,12,25,,0.0,12,R,9,Spun off,,1958
+Maserati,maserati,Italian,,allison,Cliff Allison,British,18,1958-oporto,Portuguese Grand Prix,,,,,,13,15,,0.0,13,R,9,Engine,,1958
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,32,1958-oporto,Portuguese Grand Prix,,,,,,14,9,,0.0,14,R,9,Physical,,1958
+Maserati,maserati,Italian,,filippis,Maria de Filippis,Italian,30,1958-oporto,Portuguese Grand Prix,,,,,,15,6,,0.0,15,R,9,Engine,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,28,1958-monza,Italian Grand Prix,,,,,,2,70,7427800,8.0,1,1,10,Finished,2:03:47.800,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,14,1958-monza,Italian Grand Prix,,,,,,3,70,7452000,6.0,2,2,10,Finished,+24.200,1958
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,18,1958-monza,Italian Grand Prix,,,,,,7,70,7456100,5.0,3,3,10,Finished,+28.300,1958
+Maserati,maserati,Italian,,shelby,Carroll Shelby,American,32,1958-monza,Italian Grand Prix,,,,,,11,69,,0.0,4,4,10,+1 Lap,,1958
+Maserati,maserati,Italian,,gregory,Masten Gregory,American,32,1958-monza,Italian Grand Prix,,,,,,11,69,,0.0,4,4,10,+1 Lap,,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,6,1958-monza,Italian Grand Prix,,,,,,14,62,,2.0,5,5,10,+8 Laps,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,38,1958-monza,Italian Grand Prix,,,,,,12,62,,0.0,6,6,10,+8 Laps,,1958
+Team Lotus,team_lotus,British,,allison,Cliff Allison,British,36,1958-monza,Italian Grand Prix,,,,,,16,61,,0.0,7,7,10,+9 Laps,,1958
+Maserati,maserati,Italian,,filippis,Maria de Filippis,Italian,42,1958-monza,Italian Grand Prix,,,,,,21,57,,0.0,8,R,10,Engine,,1958
+Maserati,maserati,Italian,,cabianca,Giulio Cabianca,Italian,22,1958-monza,Italian Grand Prix,,,,,,20,51,,0.0,9,R,10,Engine,,1958
+BRM,brm,British,,behra,Jean Behra,French,8,1958-monza,Italian Grand Prix,,,,,,8,42,,0.0,10,R,10,Clutch,,1958
+Maserati,maserati,Italian,,herrmann,Hans Herrmann,German,24,1958-monza,Italian Grand Prix,,,,,,18,32,,0.0,11,R,10,Engine,,1958
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,30,1958-monza,Italian Grand Prix,,,,,,4,30,,0.0,12,R,10,Overheating,,1958
+Cooper,cooper,British,,trintignant,Maurice Trintignant,French,2,1958-monza,Italian Grand Prix,,,,,,13,24,,0.0,13,R,10,Gearbox,,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,26,1958-monza,Italian Grand Prix,,,,,,1,17,,0.0,14,R,10,Gearbox,,1958
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,12,1958-monza,Italian Grand Prix,,,,,,10,14,,0.0,15,R,10,Transmission,,1958
+Ferrari,ferrari,Italian,,gendebien,Olivier Gendebien,Belgian,20,1958-monza,Italian Grand Prix,,,,,,5,4,,0.0,16,R,10,Suspension,,1958
+Maserati,maserati,Italian,,gerini,Gerino Gerini,Italian,40,1958-monza,Italian Grand Prix,,,,,,19,2,,0.0,17,R,10,Accident,,1958
+Maserati,maserati,Italian,,shelby,Carroll Shelby,American,34,1958-monza,Italian Grand Prix,,,,,,17,1,,0.0,18,R,10,Handling,,1958
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,16,1958-monza,Italian Grand Prix,,,,,,6,0,,0.0,19,R,10,Accident,,1958
+BRM,brm,British,,schell,Harry Schell,American,10,1958-monza,Italian Grand Prix,,,,,,9,0,,0.0,20,R,10,Accident,,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,4,1958-monza,Italian Grand Prix,,,,,,15,0,,0.0,21,R,10,Suspension,,1958
+Vanwall,vanwall,British,,moss,Stirling Moss,British,8,1958-casablanca,Moroccan Grand Prix,,,,,,2,53,7755100,9.0,1,1,11,Finished,2:09:15.100,1958
+Ferrari,ferrari,Italian,,hawthorn,Mike Hawthorn,British,6,1958-casablanca,Moroccan Grand Prix,,,,,,1,53,7839800,6.0,2,2,11,Finished,+1:24.700,1958
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,4,1958-casablanca,Moroccan Grand Prix,,,,,,5,53,7840600,4.0,3,3,11,Finished,+1:25.500,1958
+BRM,brm,British,,bonnier,Jo Bonnier,Swedish,18,1958-casablanca,Moroccan Grand Prix,,,,,,8,53,7861800,3.0,4,4,11,Finished,+1:46.700,1958
+BRM,brm,British,,schell,Harry Schell,American,16,1958-casablanca,Moroccan Grand Prix,,,,,,10,53,7908800,2.0,5,5,11,Finished,+2:33.700,1958
+Maserati,maserati,Italian,,gregory,Masten Gregory,American,22,1958-casablanca,Moroccan Grand Prix,,,,,,13,52,,0.0,6,6,11,+1 Lap,,1958
+Cooper,cooper,British,,salvadori,Roy Salvadori,British,28,1958-casablanca,Moroccan Grand Prix,,,,,,14,51,,0.0,7,7,11,+2 Laps,,1958
+Cooper,cooper,British,,fairman,Jack Fairman,British,30,1958-casablanca,Moroccan Grand Prix,,,,,,11,50,,0.0,8,8,11,+3 Laps,,1958
+Maserati,maserati,Italian,,herrmann,Hans Herrmann,German,38,1958-casablanca,Moroccan Grand Prix,,,,,,18,50,,0.0,9,9,11,+3 Laps,,1958
+Team Lotus,team_lotus,British,,allison,Cliff Allison,British,34,1958-casablanca,Moroccan Grand Prix,,,,,,16,49,,0.0,10,10,11,+4 Laps,,1958
+Cooper,cooper,British,,jack_brabham,Jack Brabham,Australian,50,1958-casablanca,Moroccan Grand Prix,,,,,,19,49,,0.0,11,11,11,+4 Laps,,1958
+Maserati,maserati,Italian,,gerini,Gerino Gerini,Italian,26,1958-casablanca,Moroccan Grand Prix,,,,,,17,48,,0.0,12,12,11,+5 Laps,,1958
+Cooper,cooper,British,,mclaren,Bruce McLaren,New Zealander,52,1958-casablanca,Moroccan Grand Prix,,,,,,21,48,,0.0,13,13,11,+5 Laps,,1958
+Cooper,cooper,British,,la_caze,Robert La Caze,French,58,1958-casablanca,Moroccan Grand Prix,,,,,,23,48,,0.0,14,14,11,+5 Laps,,1958
+Cooper,cooper,British,,guelfi,André Guelfi,French,48,1958-casablanca,Moroccan Grand Prix,,,,,,25,48,,0.0,15,15,11,+5 Laps,,1958
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,32,1958-casablanca,Moroccan Grand Prix,,,,,,12,45,,0.0,16,16,11,+7 Laps,,1958
+Vanwall,vanwall,British,,lewis-evans,Stuart Lewis-Evans,British,12,1958-casablanca,Moroccan Grand Prix,,,,,,3,41,,0.0,17,R,11,Accident,,1958
+Cooper,cooper,British,,picard,François Picard,French,54,1958-casablanca,Moroccan Grand Prix,,,,,,24,31,,0.0,18,R,11,Accident,,1958
+Cooper,cooper,British,,bridger,Tom Bridger,British,56,1958-casablanca,Moroccan Grand Prix,,,,,,22,30,,0.0,19,R,11,Accident,,1958
+Vanwall,vanwall,British,,brooks,Tony Brooks,British,10,1958-casablanca,Moroccan Grand Prix,,,,,,7,29,,0.0,20,R,11,Engine,,1958
+Ferrari,ferrari,Italian,,gendebien,Olivier Gendebien,Belgian,2,1958-casablanca,Moroccan Grand Prix,,,,,,6,29,,0.0,21,R,11,Accident,,1958
+BRM,brm,British,,behra,Jean Behra,French,14,1958-casablanca,Moroccan Grand Prix,,,,,,4,26,,0.0,22,R,11,Engine,,1958
+Cooper,cooper,British,,seidel,Wolfgang Seidel,German,24,1958-casablanca,Moroccan Grand Prix,,,,,,20,15,,0.0,23,R,11,Accident,,1958
+BRM,brm,British,,flockhart,Ron Flockhart,British,20,1958-casablanca,Moroccan Grand Prix,,,,,,15,15,,0.0,24,R,11,Engine,,1958
+Cooper,cooper,British,,trintignant,Maurice Trintignant,French,36,1958-casablanca,Moroccan Grand Prix,,,,,,9,9,,0.0,25,R,11,Engine,,1958

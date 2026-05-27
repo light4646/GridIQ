@@ -1,0 +1,33 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""brabham-repco""]","[""Brabham-Repco""]",,jack_brabham,Jack Brabham,Australian,,42.0,1,1,4,1966
+"[""ferrari"", ""cooper-maserati""]","[""Ferrari"", ""Cooper-Maserati""]",,surtees,John Surtees,British,,28.0,2,2,2,1966
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,rindt,Jochen Rindt,Austrian,,22.0,3,3,0,1966
+"[""brabham-climax"", ""brabham-repco""]","[""Brabham-Climax"", ""Brabham-Repco""]",,hulme,Denny Hulme,New Zealander,,18.0,4,4,0,1966
+"[""brm""]","[""BRM""]",,hill,Graham Hill,British,,17.0,5,5,0,1966
+"[""lotus-climax"", ""lotus-brm""]","[""Lotus-Climax"", ""Lotus-BRM""]",,clark,Jim Clark,British,,16.0,6,6,1,1966
+"[""brm""]","[""BRM""]",,stewart,Jackie Stewart,British,,14.0,7,7,1,1966
+"[""ferrari""]","[""Ferrari""]",,parkes,Mike Parkes,British,,12.0,8,8,0,1966
+"[""ferrari""]","[""Ferrari""]",,bandini,Lorenzo Bandini,Italian,,12.0,9,9,0,1966
+"[""ferrari""]","[""Ferrari""]",,scarfiotti,Ludovico Scarfiotti,Italian,,9.0,10,10,1,1966
+"[""cooper-maserati"", ""honda""]","[""Cooper-Maserati"", ""Honda""]",,ginther,Richie Ginther,American,,5.0,11,11,0,1966
+"[""eagle-climax"", ""eagle-weslake""]","[""Eagle-Climax"", ""Eagle-Weslake""]",,gurney,Dan Gurney,American,,4.0,12,12,0,1966
+"[""lotus-brm""]","[""Lotus-BRM""]",,spence,Mike Spence,British,,4.0,13,13,0,1966
+"[""brm"", ""eagle-climax"", ""eagle-weslake""]","[""BRM"", ""Eagle-Climax"", ""Eagle-Weslake""]",,bondurant,Bob Bondurant,American,,3.0,14,14,0,1966
+"[""brabham-brm"", ""cooper-maserati""]","[""Brabham-BRM"", ""Cooper-Maserati""]",,siffert,Jo Siffert,Swiss,,3.0,15,15,0,1966
+"[""mclaren-ford"", ""mclaren-seren""]","[""McLaren-Ford"", ""McLaren-Serenissima""]",,mclaren,Bruce McLaren,New Zealander,,3.0,16,16,0,1966
+"[""lotus-brm"", ""lotus-climax""]","[""Lotus-BRM"", ""Lotus-Climax""]",,arundell,Peter Arundell,British,,1.0,17,17,0,1966
+"[""cooper-maserati"", ""brabham-climax""]","[""Cooper-Maserati"", ""Brabham-Climax""]",,bonnier,Jo Bonnier,Swedish,,1.0,18,18,0,1966
+"[""brabham-climax""]","[""Brabham-Climax""]",,anderson,Bob Anderson,British,,1.0,19,19,0,1966
+"[""brabham-brm""]","[""Brabham-BRM""]",,taylor,John Taylor,British,,1.0,20,20,0,1966
+"[""brabham-climax""]","[""Brabham-Climax""]",,irwin,Chris Irwin,British,,0.0,,-,0,1966
+"[""honda""]","[""Honda""]",,bucknum,Ronnie Bucknum,American,,0.0,,-,0,1966
+"[""cooper-maserati"", ""brabham-brm""]","[""Cooper-Maserati"", ""Brabham-BRM""]",,amon,Chris Amon,New Zealander,,0.0,,-,0,1966
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,ligier,Guy Ligier,French,,0.0,,-,0,1966
+"[""lotus-climax""]","[""Lotus-Climax""]",,geki,Giacomo Russo,Italian,,0.0,,-,0,1966
+"[""cooper-ferrari""]","[""Cooper-Ferrari""]",,lawrence,Chris Lawrence,British,,0.0,,-,0,1966
+"[""brm""]","[""BRM""]",,ireland,Innes Ireland,British,,0.0,,-,0,1966
+"[""lotus-climax"", ""lotus-brm""]","[""Lotus-Climax"", ""Lotus-BRM""]",,rodriguez,Pedro Rodríguez,Mexican,,0.0,,-,0,1966
+"[""ferrari""]","[""Ferrari""]",,baghetti,Giancarlo Baghetti,Italian,,0.0,,-,0,1966
+"[""brm""]","[""BRM""]",,vic_wilson,Vic Wilson,British,,0.0,,-,0,1966
+"[""cooper-maserati""]","[""Cooper-Maserati""]",,solana,Moisés Solana,Mexican,,0.0,,-,0,1966
+"[""shannon""]","[""Shannon""]",,trevor_taylor,Trevor Taylor,British,,0.0,,-,0,1966

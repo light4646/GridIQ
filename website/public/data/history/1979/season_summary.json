@@ -1,0 +1,40 @@
+{
+  "year": 1979,
+  "generated_at": "2026-05-27T06:06:10.750864+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 15,
+  "race_results": 362,
+  "qualifying_results": 0,
+  "drivers": 34,
+  "constructors": 18,
+  "driver_champion": {
+    "year": 1979,
+    "position": 1,
+    "position_text": "1",
+    "points": 51.0,
+    "wins": 3,
+    "driver_id": "scheckter",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jody Scheckter",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1979,
+    "position": 1,
+    "position_text": "1",
+    "points": 113.0,
+    "wins": 6,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  }
+}

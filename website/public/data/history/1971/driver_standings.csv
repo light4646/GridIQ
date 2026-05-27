@@ -1,0 +1,51 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""tyrrell""]","[""Tyrrell""]",,stewart,Jackie Stewart,British,,62.0,1,1,6,1971
+"[""march-ford"", ""march-alfa_romeo""]","[""March-Ford"", ""March-Alfa Romeo""]",,peterson,Ronnie Peterson,Swedish,,33.0,2,2,0,1971
+"[""tyrrell""]","[""Tyrrell""]",,cevert,François Cevert,French,,26.0,3,3,1,1971
+"[""ferrari""]","[""Ferrari""]",,ickx,Jacky Ickx,Belgian,,19.0,4,4,1,1971
+"[""brm""]","[""BRM""]",,siffert,Jo Siffert,Swiss,,19.0,5,5,1,1971
+"[""lotus-ford"", ""lotus-pw""]","[""Lotus-Ford"", ""Lotus-Pratt &amp; Whitney""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,16.0,6,6,0,1971
+"[""ferrari""]","[""Ferrari""]",,regazzoni,Clay Regazzoni,Swiss,,13.0,7,7,0,1971
+"[""ferrari""]","[""Ferrari""]",,mario_andretti,Mario Andretti,American,,12.0,8,8,1,1971
+"[""mclaren"", ""brm""]","[""McLaren"", ""BRM""]",,gethin,Peter Gethin,British,,9.0,9,9,1,1971
+"[""brm""]","[""BRM""]",,rodriguez,Pedro Rodríguez,Mexican,,9.0,10,10,0,1971
+"[""matra""]","[""Matra""]",,amon,Chris Amon,New Zealander,,9.0,11,11,0,1971
+"[""lotus-ford"", ""lotus-pw""]","[""Lotus-Ford"", ""Lotus-Pratt &amp; Whitney""]",,wisell,Reine Wisell,Swedish,,9.0,12,12,0,1971
+"[""mclaren""]","[""McLaren""]",,hulme,Denny Hulme,New Zealander,,9.0,13,13,0,1971
+"[""brabham""]","[""Brabham""]",,schenken,Tim Schenken,Australian,,5.0,14,14,0,1971
+"[""brm""]","[""BRM""]",,ganley,Howden Ganley,New Zealander,,5.0,15,15,0,1971
+"[""mclaren""]","[""McLaren""]",,donohue,Mark Donohue,American,,4.0,16,16,0,1971
+"[""march-ford""]","[""March-Ford""]",,pescarolo,Henri Pescarolo,French,,4.0,17,17,0,1971
+"[""surtees""]","[""Surtees""]",,hailwood,Mike Hailwood,British,,3.0,18,18,0,1971
+"[""surtees""]","[""Surtees""]",,surtees,John Surtees,British,,3.0,19,19,0,1971
+"[""surtees""]","[""Surtees""]",,stommelen,Rolf Stommelen,German,,3.0,20,20,0,1971
+"[""brabham""]","[""Brabham""]",,hill,Graham Hill,British,,2.0,21,21,0,1971
+"[""matra""]","[""Matra""]",,beltoise,Jean-Pierre Beltoise,French,,1.0,22,22,0,1971
+"[""mclaren""]","[""McLaren""]",,oliver,Jackie Oliver,British,,0.0,,-,0,1971
+"[""surtees""]","[""Surtees""]",,redman,Brian Redman,British,,0.0,,-,0,1971
+"[""surtees""]","[""Surtees""]",,lennep,Gijs van Lennep,Dutch,,0.0,,-,0,1971
+"[""mclaren""]","[""McLaren""]",,bonnier,Jo Bonnier,Swedish,,0.0,,-,0,1971
+"[""mclaren""]","[""McLaren""]",,hobbs,David Hobbs,British,,0.0,,-,0,1971
+"[""march-ford"", ""march-alfa_romeo""]","[""March-Ford"", ""March-Alfa Romeo""]",,galli,Nanni Galli,Italian,,0.0,,-,0,1971
+"[""brm""]","[""BRM""]",,marko,Helmut Marko,Austrian,,0.0,,-,0,1971
+"[""march-alfa_romeo""]","[""March-Alfa Romeo""]",,adamich,Andrea de Adamich,Italian,,0.0,,-,0,1971
+"[""brm""]","[""BRM""]",,elford,Vic Elford,British,,0.0,,-,0,1971
+"[""march-ford""]","[""March-Ford""]",,mazet,François Mazet,French,,0.0,,-,0,1971
+"[""brm""]","[""BRM""]",,Cannoc,John Cannon,Canadian,,0.0,,-,0,1971
+"[""brm""]","[""BRM""]",,eaton,George Eaton,Canadian,,0.0,,-,0,1971
+"[""march-ford""]","[""March-Ford""]",,jarier,Jean-Pierre Jarier,French,,0.0,,-,0,1971
+"[""march-ford""]","[""March-Ford""]",,beuttler,Mike Beuttler,British,,0.0,,-,0,1971
+"[""march-ford""]","[""March-Ford""]",,barber,Skip Barber,American,,0.0,,-,0,1971
+"[""march-ford""]","[""March-Ford""]",,jean,Max Jean,French,,0.0,,-,0,1971
+"[""march-ford""]","[""March-Ford""]",,roig,Alex Soler-Roig,Spanish,,0.0,,-,0,1971
+"[""march-ford""]","[""March-Ford""]",,lauda,Niki Lauda,Austrian,,0.0,,-,0,1971
+"[""lotus-ford""]","[""Lotus-Ford""]",,lovely,Pete Lovely,American,,0.0,,-,0,1971
+"[""brabham"", ""lotus-ford""]","[""Brabham"", ""Lotus-Ford""]",,charlton,Dave Charlton,South African,,0.0,,-,0,1971
+"[""surtees""]","[""Surtees""]",,bell,Derek Bell,British,,0.0,,-,0,1971
+"[""march-ford""]","[""March-Ford""]",,love,John Love,Rhodesian,,0.0,,-,0,1971
+"[""bellasi""]","[""Bellasi""]",,moser,Silvio Moser,Swiss,,0.0,,-,0,1971
+"[""brabham""]","[""Brabham""]",,pretorius,Jackie Pretorius,South African,,0.0,,-,0,1971
+"[""lotus-pw""]","[""Lotus-Pratt &amp; Whitney""]",,walker,David Walker,Australian,,0.0,,-,0,1971
+"[""brabham""]","[""Brabham""]",,craft,Chris Craft,British,,0.0,,-,0,1971
+"[""surtees""]","[""Surtees""]",,posey,Sam Posey,American,,0.0,,-,0,1971
+"[""tyrrell""]","[""Tyrrell""]",,revson,Peter Revson,American,,0.0,,-,0,1971

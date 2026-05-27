@@ -1,0 +1,17 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,137.0,1,1,9,1987
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,76.0,2,2,3,1987
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,64.0,3,3,2,1987
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,53.0,4,4,2,1987
+Benetton,benetton,Italian,https://en.wikipedia.org/wiki/Benetton_Formula,28.0,5,5,0,1987
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,11.0,6,6,0,1987
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,11.0,7,7,0,1987
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,10.0,8,8,0,1987
+Larrousse,larrousse,French,https://en.wikipedia.org/wiki/Larrousse,3.0,9,9,0,1987
+Zakspeed,zakspeed,German,https://en.wikipedia.org/wiki/Zakspeed,2.0,10,10,0,1987
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,1.0,11,11,0,1987
+AGS,ags,French,https://en.wikipedia.org/wiki/Automobiles_Gonfaronnaises_Sportives,1.0,12,12,0,1987
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,1.0,13,13,0,1987
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,0.0,,-,0,1987
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,0.0,,-,0,1987
+Coloni,coloni,Italian,https://en.wikipedia.org/wiki/Scuderia_Coloni,0.0,,-,0,1987

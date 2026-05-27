@@ -1,0 +1,21 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Brabham-Repco,brabham-repco,British,https://en.wikipedia.org/wiki/Brabham,67.0,1,1,4,1967
+Lotus-Ford,lotus-ford,British,https://en.wikipedia.org/wiki/Team_Lotus,44.0,2,2,4,1967
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,28.0,3,3,1,1967
+Honda,honda,Japanese,https://en.wikipedia.org/wiki/Honda_in_Formula_One,20.0,4,4,1,1967
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,20.0,5,5,0,1967
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,17.0,6,6,0,1967
+Eagle-Weslake,eagle-weslake,American,https://en.wikipedia.org/wiki/All_American_Racers,13.0,7,7,1,1967
+Lotus-BRM,lotus-brm,British,https://en.wikipedia.org/wiki/Team_Lotus,6.0,8,8,0,1967
+Cooper-Climax,cooper-climax,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,6.0,9,9,0,1967
+McLaren-BRM,mclaren-brm,British,https://en.wikipedia.org/wiki/McLaren,3.0,10,10,0,1967
+Brabham-Climax,brabham-climax,British,https://en.wikipedia.org/wiki/Brabham,2.0,11,11,0,1967
+McLaren-Ford,mclaren-ford,British,https://en.wikipedia.org/wiki/McLaren,0.0,,-,0,1967
+Brabham-Ford,brabham-ford,British,https://en.wikipedia.org/wiki/Brabham,0.0,,-,0,1967
+Lola,lola,British,https://en.wikipedia.org/wiki/MasterCard_Lola,0.0,,-,0,1967
+LDS-Climax,lds-climax,South African,https://en.wikipedia.org/wiki/LDS_(automobile),0.0,,-,0,1967
+Lotus-Climax,lotus-climax,British,https://en.wikipedia.org/wiki/Team_Lotus,0.0,,-,0,1967
+Eagle-Climax,eagle-climax,American,https://en.wikipedia.org/wiki/All_American_Racers,0.0,,-,0,1967
+Matra,matra,French,https://en.wikipedia.org/wiki/Matra,0.0,,-,0,1967
+Protos,protos,British,https://en.wikipedia.org/wiki/Protos_(constructor),0.0,,-,0,1967
+Cooper-ATS,cooper-ats,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1967

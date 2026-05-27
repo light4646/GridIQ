@@ -1,0 +1,193 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,5,1965-eastern-cape-province,South African Grand Prix,,,,,,1,85,7606000,9.0,1,1,1,Finished,2:06,1965
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,1,1965-eastern-cape-province,South African Grand Prix,,,,,,2,85,7635000,6.0,2,2,1,Finished,+29.000,1965
+BRM,brm,British,,hill,Graham Hill,British,3,1965-eastern-cape-province,South African Grand Prix,,,,,,5,85,7637800,4.0,3,3,1,Finished,+31.800,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,6,1965-eastern-cape-province,South African Grand Prix,,,,,,4,85,7660400,3.0,4,4,1,Finished,+54.400,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1965-eastern-cape-province,South African Grand Prix,,,,,,8,84,,2.0,5,5,1,+1 Lap,,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,4,1965-eastern-cape-province,South African Grand Prix,,,,,,11,83,,1.0,6,6,1,+2 Laps,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,12,1965-eastern-cape-province,South African Grand Prix,,,,,,14,83,,0.0,7,7,1,+2 Laps,,1965
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,7,1965-eastern-cape-province,South African Grand Prix,,,,,,3,81,,0.0,8,8,1,+4 Laps,,1965
+Brabham-Ford,brabham-ford,British,,hawkins,Paul Hawkins,Australian,18,1965-eastern-cape-province,South African Grand Prix,,,,,,16,81,,0.0,9,9,1,+4 Laps,,1965
+Alfa Romeo,alfa,Swiss,,klerk,Peter de Klerk,South African,20,1965-eastern-cape-province,South African Grand Prix,,,,,,17,79,,0.0,10,10,1,+6 Laps,,1965
+Lotus-BRM,lotus-brm,British,,maggs,Tony Maggs,South African,15,1965-eastern-cape-province,South African Grand Prix,,,,,,13,77,,0.0,11,11,1,+8 Laps,,1965
+Brabham-BRM,brabham-brm,British,,gardner,Frank Gardner,Australian,16,1965-eastern-cape-province,South African Grand Prix,,,,,,15,75,,0.0,12,12,1,+10 Laps,,1965
+LDS-Alfa Romeo,lds-alfa_romeo,South African,,tingle,Sam Tingle,Rhodesian,25,1965-eastern-cape-province,South African Grand Prix,,,,,,20,73,,0.0,13,13,1,+12 Laps,,1965
+Brabham-Ford,brabham-ford,British,,prophet,David Prophet,British,19,1965-eastern-cape-province,South African Grand Prix,,,,,,19,71,,0.0,14,14,1,+14 Laps,,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,2,1965-eastern-cape-province,South African Grand Prix,,,,,,6,66,,0.0,15,15,1,Ignition,,1965
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,14,1965-eastern-cape-province,South African Grand Prix,,,,,,12,50,,0.0,16,R,1,Not classified,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,11,1965-eastern-cape-province,South African Grand Prix,,,,,,7,42,,0.0,17,R,1,Clutch,,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,10,1965-eastern-cape-province,South African Grand Prix,,,,,,10,39,,0.0,18,R,1,Electrical,,1965
+Cooper-Climax,cooper-climax,British,,love,John Love,Rhodesian,17,1965-eastern-cape-province,South African Grand Prix,,,,,,18,20,,0.0,19,R,1,Halfshaft,,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,8,1965-eastern-cape-province,South African Grand Prix,,,,,,9,11,,0.0,20,R,1,Ignition,,1965
+RE,re,Rhodesian,,reed,Ray Reed,South African,26,1965-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,29,W,1,Withdrew,,1965
+Cooper-Maserati,cooper-maserati,British,,clapham,David Clapham,South African,31,1965-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,30,W,1,Withdrew,,1965
+Cooper-Climax,cooper-climax,British,,blignaut,Alex Blignaut,South African,33,1965-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,31,W,1,Withdrew,,1965
+BRM,brm,British,,hill,Graham Hill,British,3,1965-monte-carlo,Monaco Grand Prix,,,,,,1,100,9459600,9.0,1,1,2,Finished,2:37:39.600,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,17,1965-monte-carlo,Monaco Grand Prix,,,,,,4,100,9523600,6.0,2,2,2,Finished,+1:04.000,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,4,1965-monte-carlo,Monaco Grand Prix,,,,,,3,100,9561500,4.0,3,3,2,Finished,+1:41.900,1965
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,18,1965-monte-carlo,Monaco Grand Prix,,,,,,5,99,,3.0,4,4,2,Out of fuel,,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,7,1965-monte-carlo,Monaco Grand Prix,,,,,,7,98,,2.0,5,5,2,+2 Laps,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,14,1965-monte-carlo,Monaco Grand Prix,,,,,,10,98,,1.0,6,6,2,+2 Laps,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,12,1965-monte-carlo,Monaco Grand Prix,,,,,,13,97,,0.0,7,7,2,+3 Laps,,1965
+Brabham-Climax,brabham-climax,British,,hulme,Denny Hulme,New Zealander,2,1965-monte-carlo,Monaco Grand Prix,,,,,,8,92,,0.0,8,8,2,+8 Laps,,1965
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,9,1965-monte-carlo,Monaco Grand Prix,,,,,,9,85,,0.0,9,9,2,+15 Laps,,1965
+Lotus-Climax,lotus-climax,British,,hawkins,Paul Hawkins,Australian,10,1965-monte-carlo,Monaco Grand Prix,,,,,,14,79,,0.0,10,10,2,Accident,,1965
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,1,1965-monte-carlo,Monaco Grand Prix,,,,,,2,43,,0.0,11,R,2,Engine,,1965
+Lotus-BRM,lotus-brm,British,,attwood,Richard Attwood,British,15,1965-monte-carlo,Monaco Grand Prix,,,,,,6,43,,0.0,12,R,2,Wheel,,1965
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,19,1965-monte-carlo,Monaco Grand Prix,,,,,,15,33,,0.0,13,R,2,Gearbox,,1965
+Brabham-BRM,brabham-brm,British,,gardner,Frank Gardner,Australian,11,1965-monte-carlo,Monaco Grand Prix,,,,,,11,29,,0.0,14,R,2,Engine,,1965
+Lotus-BRM,lotus-brm,British,,hailwood,Mike Hailwood,British,16,1965-monte-carlo,Monaco Grand Prix,,,,,,12,12,,0.0,15,R,2,Gearbox,,1965
+Honda,honda,Japanese,,ginther,Richie Ginther,American,20,1965-monte-carlo,Monaco Grand Prix,,,,,,17,0,,0.0,16,R,2,Halfshaft,,1965
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,17,1965-spa,Belgian Grand Prix,,,,,,2,32,8614800,9.0,1,1,3,Finished,2:23:34.800,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,8,1965-spa,Belgian Grand Prix,,,,,,3,32,8659600,6.0,2,2,3,Finished,+44.800,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,4,1965-spa,Belgian Grand Prix,,,,,,9,31,,4.0,3,3,3,+1 Lap,,1965
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,14,1965-spa,Belgian Grand Prix,,,,,,10,31,,3.0,4,4,3,+1 Lap,,1965
+BRM,brm,British,,hill,Graham Hill,British,7,1965-spa,Belgian Grand Prix,,,,,,1,31,,2.0,5,5,3,+1 Lap,,1965
+Honda,honda,Japanese,,ginther,Richie Ginther,American,10,1965-spa,Belgian Grand Prix,,,,,,4,31,,1.0,6,6,3,+1 Lap,,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,18,1965-spa,Belgian Grand Prix,,,,,,12,31,,0.0,7,7,3,+1 Lap,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,21,1965-spa,Belgian Grand Prix,,,,,,8,31,,0.0,8,8,3,+1 Lap,,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,2,1965-spa,Belgian Grand Prix,,,,,,15,30,,0.0,9,9,3,+2 Laps,,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,15,1965-spa,Belgian Grand Prix,,,,,,5,30,,0.0,10,10,3,+2 Laps,,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,5,1965-spa,Belgian Grand Prix,,,,,,14,29,,0.0,11,11,3,+3 Laps,,1965
+BRM,brm,British,,bianchi,Lucien Bianchi,Belgian,27,1965-spa,Belgian Grand Prix,,,,,,17,29,,0.0,12,12,3,+3 Laps,,1965
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,22,1965-spa,Belgian Grand Prix,,,,,,16,27,,0.0,13,13,3,+5 Laps,,1965
+Lotus-BRM,lotus-brm,British,,attwood,Richard Attwood,British,23,1965-spa,Belgian Grand Prix,,,,,,13,26,,0.0,14,14,3,Accident,,1965
+BRM,brm,British,,gregory,Masten Gregory,American,29,1965-spa,Belgian Grand Prix,,,,,,20,12,,0.0,15,R,3,Fuel pump,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,20,1965-spa,Belgian Grand Prix,,,,,,7,9,,0.0,16,R,3,Ignition,,1965
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,11,1965-spa,Belgian Grand Prix,,,,,,11,9,,0.0,17,R,3,Gearbox,,1965
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,1,1965-spa,Belgian Grand Prix,,,,,,6,5,,0.0,18,R,3,Engine,,1965
+Brabham-BRM,brabham-brm,British,,gardner,Frank Gardner,Australian,26,1965-spa,Belgian Grand Prix,,,,,,19,3,,0.0,19,R,3,Ignition,,1965
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,6,1965-clermont-ferrand,French Grand Prix,,,,,,1,40,9698400,9.0,1,1,4,Finished,2:41:38.400,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,12,1965-clermont-ferrand,French Grand Prix,,,,,,2,40,9724700,6.0,2,2,4,Finished,+26.300,1965
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,2,1965-clermont-ferrand,French Grand Prix,,,,,,4,40,9851900,4.0,3,3,4,Finished,+2:33.500,1965
+Brabham-Climax,brabham-climax,British,,hulme,Denny Hulme,New Zealander,16,1965-clermont-ferrand,French Grand Prix,,,,,,6,40,9871500,3.0,4,4,4,Finished,+2:53.100,1965
+BRM,brm,British,,hill,Graham Hill,British,10,1965-clermont-ferrand,French Grand Prix,,,,,,13,39,,2.0,5,5,4,+1 Lap,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,36,1965-clermont-ferrand,French Grand Prix,,,,,,14,39,,1.0,6,6,4,+1 Lap,,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,8,1965-clermont-ferrand,French Grand Prix,,,,,,10,39,,0.0,7,7,4,+1 Lap,,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,4,1965-clermont-ferrand,French Grand Prix,,,,,,3,36,,0.0,8,8,4,Accident,,1965
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,30,1965-clermont-ferrand,French Grand Prix,,,,,,15,34,,0.0,9,9,4,Fuel system,,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,18,1965-clermont-ferrand,French Grand Prix,,,,,,9,23,,0.0,10,R,4,Suspension,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,34,1965-clermont-ferrand,French Grand Prix,,,,,,11,21,,0.0,11,R,4,Alternator,,1965
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,24,1965-clermont-ferrand,French Grand Prix,,,,,,8,20,,0.0,12,R,4,Fuel system,,1965
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,22,1965-clermont-ferrand,French Grand Prix,,,,,,17,18,,0.0,13,R,4,Gearbox,,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,14,1965-clermont-ferrand,French Grand Prix,,,,,,5,16,,0.0,14,R,4,Engine,,1965
+Honda,honda,Japanese,,ginther,Richie Ginther,American,26,1965-clermont-ferrand,French Grand Prix,,,,,,7,9,,0.0,15,R,4,Ignition,,1965
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,28,1965-clermont-ferrand,French Grand Prix,,,,,,16,4,,0.0,16,R,4,Ignition,,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,20,1965-clermont-ferrand,French Grand Prix,,,,,,12,3,,0.0,17,R,4,Accident,,1965
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,5,1965-silverstone,British Grand Prix,,,,,,1,80,7525400,9.0,1,1,5,Finished,2:05:25.400,1965
+BRM,brm,British,,hill,Graham Hill,British,3,1965-silverstone,British Grand Prix,,,,,,2,80,7528600,6.0,2,2,5,Finished,+3.200,1965
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,1,1965-silverstone,British Grand Prix,,,,,,5,80,7553000,4.0,3,3,5,Finished,+27.600,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,6,1965-silverstone,British Grand Prix,,,,,,6,80,7565000,3.0,4,4,5,Finished,+39.600,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,4,1965-silverstone,British Grand Prix,,,,,,4,80,7600000,2.0,5,5,5,Finished,+1:14.600,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,7,1965-silverstone,British Grand Prix,,,,,,7,79,,1.0,6,6,5,+1 Lap,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,15,1965-silverstone,British Grand Prix,,,,,,14,79,,0.0,7,7,5,+1 Lap,,1965
+Brabham-BRM,brabham-brm,British,,gardner,Frank Gardner,Australian,17,1965-silverstone,British Grand Prix,,,,,,13,78,,0.0,8,8,5,+2 Laps,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,16,1965-silverstone,British Grand Prix,,,,,,18,78,,0.0,9,9,5,+2 Laps,,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1965-silverstone,British Grand Prix,,,,,,11,77,,0.0,10,10,5,+3 Laps,,1965
+Brabham-BRM,brabham-brm,British,,raby,Ian Raby,British,24,1965-silverstone,British Grand Prix,,,,,,20,73,,0.0,11,11,5,+7 Laps,,1965
+BRM,brm,British,,gregory,Masten Gregory,American,12,1965-silverstone,British Grand Prix,,,,,,19,70,,0.0,12,12,5,+10 Laps,,1965
+Lotus-BRM,lotus-brm,British,,attwood,Richard Attwood,British,22,1965-silverstone,British Grand Prix,,,,,,16,63,,0.0,13,13,5,+17 Laps,,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,10,1965-silverstone,British Grand Prix,,,,,,12,62,,0.0,14,14,5,Engine,,1965
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,23,1965-silverstone,British Grand Prix,,,,,,15,41,,0.0,15,R,5,Engine,,1965
+Cooper-Climax,cooper-climax,British,,rhodes,John Rhodes,British,20,1965-silverstone,British Grand Prix,,,,,,21,38,,0.0,16,R,5,Ignition,,1965
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,18,1965-silverstone,British Grand Prix,,,,,,17,33,,0.0,17,R,5,Gearbox,,1965
+Brabham-Climax,brabham-climax,British,,hulme,Denny Hulme,New Zealander,14,1965-silverstone,British Grand Prix,,,,,,10,29,,0.0,18,R,5,Alternator,,1965
+Honda,honda,Japanese,,ginther,Richie Ginther,American,11,1965-silverstone,British Grand Prix,,,,,,3,26,,0.0,19,R,5,Injection,,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,2,1965-silverstone,British Grand Prix,,,,,,9,2,,0.0,20,R,5,Engine,,1965
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,8,1965-silverstone,British Grand Prix,,,,,,8,0,,0.0,21,W,5,Withdrew,,1965
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,6,1965-zandvoort,Dutch Grand Prix,,,,,,2,80,7439100,9.0,1,1,6,Finished,2:03:59.100,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,12,1965-zandvoort,Dutch Grand Prix,,,,,,6,80,7447100,6.0,2,2,6,Finished,+8.000,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,16,1965-zandvoort,Dutch Grand Prix,,,,,,5,80,7452100,4.0,3,3,6,Finished,+13.000,1965
+BRM,brm,British,,hill,Graham Hill,British,10,1965-zandvoort,Dutch Grand Prix,,,,,,1,80,7484200,3.0,4,4,6,Finished,+45.100,1965
+Brabham-Climax,brabham-climax,British,,hulme,Denny Hulme,New Zealander,14,1965-zandvoort,Dutch Grand Prix,,,,,,7,79,,2.0,5,5,6,+1 Lap,,1965
+Honda,honda,Japanese,,ginther,Richie Ginther,American,22,1965-zandvoort,Dutch Grand Prix,,,,,,3,79,,1.0,6,6,6,+1 Lap,,1965
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,2,1965-zandvoort,Dutch Grand Prix,,,,,,4,79,,0.0,7,7,6,+1 Lap,,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,8,1965-zandvoort,Dutch Grand Prix,,,,,,8,79,,0.0,8,8,6,+1 Lap,,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,4,1965-zandvoort,Dutch Grand Prix,,,,,,12,79,,0.0,9,9,6,+1 Lap,,1965
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,38,1965-zandvoort,Dutch Grand Prix,,,,,,13,78,,0.0,10,10,6,+2 Laps,,1965
+Brabham-BRM,brabham-brm,British,,gardner,Frank Gardner,Australian,30,1965-zandvoort,Dutch Grand Prix,,,,,,11,77,,0.0,11,11,6,+3 Laps,,1965
+Lotus-BRM,lotus-brm,British,,attwood,Richard Attwood,British,34,1965-zandvoort,Dutch Grand Prix,,,,,,17,77,,0.0,12,12,6,+3 Laps,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,28,1965-zandvoort,Dutch Grand Prix,,,,,,10,55,,0.0,13,13,6,+25 Laps,,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,20,1965-zandvoort,Dutch Grand Prix,,,,,,14,48,,0.0,14,R,6,Oil pressure,,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,18,1965-zandvoort,Dutch Grand Prix,,,,,,9,36,,0.0,15,R,6,Differential,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,26,1965-zandvoort,Dutch Grand Prix,,,,,,15,16,,0.0,16,R,6,Oil leak,,1965
+Brabham-Climax,brabham-climax,British,,anderson,Bob Anderson,British,36,1965-zandvoort,Dutch Grand Prix,,,,,,16,11,,0.0,17,R,6,Engine,,1965
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1965-n-rburg,German Grand Prix,,,,,,1,15,7672400,9.0,1,1,7,Finished,2:07:52.400,1965
+BRM,brm,British,,hill,Graham Hill,British,9,1965-n-rburg,German Grand Prix,,,,,,3,15,7688300,6.0,2,2,7,Finished,+15.900,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,5,1965-n-rburg,German Grand Prix,,,,,,5,15,7693800,4.0,3,3,7,Finished,+21.400,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,12,1965-n-rburg,German Grand Prix,,,,,,8,15,7882000,3.0,4,4,7,Finished,+3:29.600,1965
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,4,1965-n-rburg,German Grand Prix,,,,,,14,15,7953600,2.0,5,5,7,Finished,+4:41.200,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,8,1965-n-rburg,German Grand Prix,,,,,,7,15,7981000,1.0,6,6,7,Finished,+5:08.600,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,16,1965-n-rburg,German Grand Prix,,,,,,9,15,8030900,0.0,7,7,7,Finished,+5:58.500,1965
+BRM,brm,British,,gregory,Masten Gregory,American,24,1965-n-rburg,German Grand Prix,,,,,,19,14,,0.0,8,8,7,+1 Lap,,1965
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,7,1965-n-rburg,German Grand Prix,,,,,,4,11,,0.0,9,R,7,Gearbox,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,17,1965-n-rburg,German Grand Prix,,,,,,11,9,,0.0,10,R,7,Engine,,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,2,1965-n-rburg,German Grand Prix,,,,,,6,8,,0.0,11,R,7,Transmission,,1965
+Lotus-Climax,lotus-climax,British,,mitter,Gerhard Mitter,German,3,1965-n-rburg,German Grand Prix,,,,,,12,8,,0.0,12,R,7,Water leak,,1965
+Lotus-BRM,lotus-brm,British,,attwood,Richard Attwood,British,20,1965-n-rburg,German Grand Prix,,,,,,17,8,,0.0,13,R,7,Water leak,,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,11,1965-n-rburg,German Grand Prix,,,,,,10,7,,0.0,14,R,7,Gearbox,,1965
+Brabham-Climax,brabham-climax,British,,hulme,Denny Hulme,New Zealander,6,1965-n-rburg,German Grand Prix,,,,,,13,5,,0.0,15,R,7,Fuel leak,,1965
+Lotus-BRM,lotus-brm,British,,amon,Chris Amon,New Zealander,19,1965-n-rburg,German Grand Prix,,,,,,16,3,,0.0,16,R,7,Electrical,,1965
+Lotus-Climax,lotus-climax,British,,hawkins,Paul Hawkins,Australian,22,1965-n-rburg,German Grand Prix,,,,,,20,3,,0.0,17,R,7,Oil leak,,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,10,1965-n-rburg,German Grand Prix,,,,,,2,2,,0.0,18,R,7,Suspension,,1965
+Brabham-BRM,brabham-brm,British,,gardner,Frank Gardner,Australian,21,1965-n-rburg,German Grand Prix,,,,,,18,0,,0.0,19,R,7,Gearbox,,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,32,1965-monza,Italian Grand Prix,,,,,,3,76,7492800,9.0,1,1,8,Finished,2:04:52.800,1965
+BRM,brm,British,,hill,Graham Hill,British,30,1965-monza,Italian Grand Prix,,,,,,4,76,7496100,6.0,2,2,8,Finished,+3.300,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,12,1965-monza,Italian Grand Prix,,,,,,9,76,7509300,4.0,3,3,8,Finished,+16.500,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,4,1965-monza,Italian Grand Prix,,,,,,5,76,7568700,3.0,4,4,8,Finished,+1:15.900,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,16,1965-monza,Italian Grand Prix,,,,,,11,75,,2.0,5,5,8,+1 Lap,,1965
+Lotus-BRM,lotus-brm,British,,attwood,Richard Attwood,British,40,1965-monza,Italian Grand Prix,,,,,,13,75,,1.0,6,6,8,+1 Lap,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,42,1965-monza,Italian Grand Prix,,,,,,14,74,,0.0,7,7,8,+2 Laps,,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,18,1965-monza,Italian Grand Prix,,,,,,7,74,,0.0,8,8,8,+2 Laps,,1965
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,38,1965-monza,Italian Grand Prix,,,,,,18,74,,0.0,9,9,8,+2 Laps,,1965
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,24,1965-monza,Italian Grand Prix,,,,,,1,63,,0.0,10,10,8,Fuel pump,,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,26,1965-monza,Italian Grand Prix,,,,,,8,62,,0.0,11,11,8,Alternator,,1965
+Ferrari,ferrari,Italian,,vaccarella,Nino Vaccarella,Italian,6,1965-monza,Italian Grand Prix,,,,,,15,58,,0.0,12,12,8,Engine,,1965
+BRM,brm,British,,bussinello,Roberto Bussinello,Italian,50,1965-monza,Italian Grand Prix,,,,,,21,58,,0.0,13,13,8,Oil pressure,,1965
+Honda,honda,Japanese,,ginther,Richie Ginther,American,20,1965-monza,Italian Grand Prix,,,,,,17,56,,0.0,14,14,8,Ignition,,1965
+Brabham-Climax,brabham-climax,British,,hulme,Denny Hulme,New Zealander,14,1965-monza,Italian Grand Prix,,,,,,12,46,,0.0,15,R,8,Suspension,,1965
+Brabham-BRM,brabham-brm,British,,gardner,Frank Gardner,Australian,46,1965-monza,Italian Grand Prix,,,,,,16,45,,0.0,16,R,8,Engine,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,44,1965-monza,Italian Grand Prix,,,,,,10,43,,0.0,17,R,8,Gearbox,,1965
+Lotus-Climax,lotus-climax,British,,geki,Giacomo Russo,Italian,28,1965-monza,Italian Grand Prix,,,,,,20,37,,0.0,18,R,8,Gearbox,,1965
+Ferrari,ferrari,Italian,,surtees,John Surtees,British,8,1965-monza,Italian Grand Prix,,,,,,2,34,,0.0,19,R,8,Clutch,,1965
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,22,1965-monza,Italian Grand Prix,,,,,,6,27,,0.0,20,R,8,Ignition,,1965
+BRM,brm,British,,gregory,Masten Gregory,American,48,1965-monza,Italian Grand Prix,,,,,,23,22,,0.0,21,R,8,Gearbox,,1965
+Brabham-Climax,brabham-climax,British,,baghetti,Giancarlo Baghetti,Italian,10,1965-monza,Italian Grand Prix,,,,,,19,12,,0.0,22,R,8,Engine,,1965
+BRM,brm,British,,bassi,Giorgio Bassi,Italian,52,1965-monza,Italian Grand Prix,,,,,,22,8,,0.0,23,R,8,Engine,,1965
+BRM,brm,British,,hill,Graham Hill,British,3,1965-new-york-state,United States Grand Prix,,,,,,1,110,8436100,9.0,1,1,9,Finished,2:20:36.100,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,8,1965-new-york-state,United States Grand Prix,,,,,,8,110,8448600,6.0,2,2,9,Finished,+12.500,1965
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,7,1965-new-york-state,United States Grand Prix,,,,,,7,110,8493600,4.0,3,3,9,Finished,+57.500,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,2,1965-new-york-state,United States Grand Prix,,,,,,5,109,,3.0,4,4,9,+1 Lap,,1965
+Ferrari,ferrari,Italian,,rodriguez,Pedro Rodríguez,Mexican,14,1965-new-york-state,United States Grand Prix,,,,,,15,109,,2.0,5,5,9,+1 Lap,,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,10,1965-new-york-state,United States Grand Prix,,,,,,13,108,,1.0,6,6,9,+2 Laps,,1965
+Honda,honda,Japanese,,ginther,Richie Ginther,American,11,1965-new-york-state,United States Grand Prix,,,,,,3,108,,0.0,7,7,9,+2 Laps,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,15,1965-new-york-state,United States Grand Prix,,,,,,10,107,,0.0,8,8,9,+3 Laps,,1965
+Ferrari,ferrari,Italian,,bondurant,Bob Bondurant,American,24,1965-new-york-state,United States Grand Prix,,,,,,14,106,,0.0,9,9,9,+4 Laps,,1965
+Lotus-BRM,lotus-brm,British,,attwood,Richard Attwood,British,21,1965-new-york-state,United States Grand Prix,,,,,,16,101,,0.0,10,10,9,+9 Laps,,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,16,1965-new-york-state,United States Grand Prix,,,,,,11,99,,0.0,11,11,9,+11 Laps,,1965
+Lotus-Climax,lotus-climax,British,,solana,Moisés Solana,Mexican,18,1965-new-york-state,United States Grand Prix,,,,,,17,95,,0.0,12,12,9,+15 Laps,,1965
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,12,1965-new-york-state,United States Grand Prix,,,,,,12,92,,0.0,13,13,9,+18 Laps,,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,4,1965-new-york-state,United States Grand Prix,,,,,,6,12,,0.0,14,R,9,Suspension,,1965
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,5,1965-new-york-state,United States Grand Prix,,,,,,9,11,,0.0,15,R,9,Engine,,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1965-new-york-state,United States Grand Prix,,,,,,2,11,,0.0,16,R,9,Oil pressure,,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,6,1965-new-york-state,United States Grand Prix,,,,,,4,9,,0.0,17,R,9,Engine,,1965
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,22,1965-new-york-state,United States Grand Prix,,,,,,18,9,,0.0,18,R,9,Driver unwell,,1965
+Honda,honda,Japanese,,ginther,Richie Ginther,American,11,1965-mexico-city,Mexican Grand Prix,,,,,,3,65,7712100,9.0,1,1,10,Finished,2:08:32.100,1965
+Brabham-Climax,brabham-climax,British,,gurney,Dan Gurney,American,8,1965-mexico-city,Mexican Grand Prix,,,,,,2,65,7714990,6.0,2,2,10,Finished,+2.890,1965
+Lotus-Climax,lotus-climax,British,,spence,Mike Spence,British,6,1965-mexico-city,Mexican Grand Prix,,,,,,6,65,7772250,4.0,3,3,10,Finished,+1:00.150,1965
+Brabham-BRM,brabham-brm,British,,siffert,Jo Siffert,Swiss,16,1965-mexico-city,Mexican Grand Prix,,,,,,11,65,7826520,3.0,4,4,10,Finished,+1:54.420,1965
+Honda,honda,Japanese,,bucknum,Ronnie Bucknum,American,12,1965-mexico-city,Mexican Grand Prix,,,,,,10,64,,2.0,5,5,10,+1 Lap,,1965
+Lotus-BRM,lotus-brm,British,,attwood,Richard Attwood,British,21,1965-mexico-city,Mexican Grand Prix,,,,,,17,64,,1.0,6,6,10,+1 Lap,,1965
+Ferrari,ferrari,Italian,,rodriguez,Pedro Rodríguez,Mexican,14,1965-mexico-city,Mexican Grand Prix,,,,,,14,62,,0.0,7,7,10,+3 Laps,,1965
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,2,1965-mexico-city,Mexican Grand Prix,,,,,,7,62,,0.0,8,8,10,+3 Laps,,1965
+BRM,brm,British,,hill,Graham Hill,British,3,1965-mexico-city,Mexican Grand Prix,,,,,,5,56,,0.0,9,R,10,Engine,,1965
+Lotus-Climax,lotus-climax,British,,solana,Moisés Solana,Mexican,18,1965-mexico-city,Mexican Grand Prix,,,,,,9,55,,0.0,10,R,10,Ignition,,1965
+Brabham-Climax,brabham-climax,British,,bonnier,Jo Bonnier,Swedish,15,1965-mexico-city,Mexican Grand Prix,,,,,,12,43,,0.0,11,R,10,Suspension,,1965
+Cooper-Climax,cooper-climax,British,,rindt,Jochen Rindt,Austrian,10,1965-mexico-city,Mexican Grand Prix,,,,,,16,39,,0.0,12,R,10,Ignition,,1965
+Brabham-Climax,brabham-climax,British,,jack_brabham,Jack Brabham,Australian,7,1965-mexico-city,Mexican Grand Prix,,,,,,14,38,,0.0,13,R,10,Oil leak,,1965
+BRM,brm,British,,stewart,Jackie Stewart,British,4,1965-mexico-city,Mexican Grand Prix,,,,,,8,35,,0.0,14,R,10,Clutch,,1965
+Lotus-BRM,lotus-brm,British,,bondurant,Bob Bondurant,American,22,1965-mexico-city,Mexican Grand Prix,,,,,,18,29,,0.0,15,R,10,Suspension,,1965
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1965-mexico-city,Mexican Grand Prix,,,,,,15,25,,0.0,16,R,10,Gearbox,,1965
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,5,1965-mexico-city,Mexican Grand Prix,,,,,,1,8,,0.0,17,R,10,Engine,,1965
+Lotus-BRM,lotus-brm,British,,ireland,Innes Ireland,British,22,1965-mexico-city,Mexican Grand Prix,,,,,,0,0,,0.0,18,W,10,Withdrew,,1965
+Ferrari,ferrari,Italian,,scarfiotti,Ludovico Scarfiotti,Italian,24,1965-mexico-city,Mexican Grand Prix,,,,,,0,0,,0.0,19,W,10,Withdrew,,1965

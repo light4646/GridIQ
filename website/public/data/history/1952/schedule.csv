@@ -1,0 +1,9 @@
+circuit_id,circuit_name,circuit_url,country,date,event_id,event_name,event_slug,latitude,locality,longitude,round,season,time,url,year
+bremgarten,Circuit Bremgarten,https://en.wikipedia.org/wiki/Circuit_Bremgarten,Switzerland,1952-05-18,1952-bern,Swiss Grand Prix,bern,46.9589,Bern,7.40194,1,1952,,https://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix,1952
+indianapolis,Indianapolis Motor Speedway,https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway,USA,1952-05-30,1952-indianapolis,Indianapolis 500,indianapolis,39.795,Indianapolis,-86.2347,2,1952,,https://en.wikipedia.org/wiki/1952_Indianapolis_500,1952
+spa,Circuit de Spa-Francorchamps,https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps,Belgium,1952-06-22,1952-spa,Belgian Grand Prix,spa,50.4372,Spa,5.97139,3,1952,,https://en.wikipedia.org/wiki/1952_Belgian_Grand_Prix,1952
+essarts,Rouen-Les-Essarts,https://en.wikipedia.org/wiki/Rouen-Les-Essarts,France,1952-07-06,1952-rouen,French Grand Prix,rouen,49.3306,Rouen,1.00458,4,1952,,https://en.wikipedia.org/wiki/1952_French_Grand_Prix,1952
+silverstone,Silverstone Circuit,https://en.wikipedia.org/wiki/Silverstone_Circuit,UK,1952-07-19,1952-silverstone,British Grand Prix,silverstone,52.0786,Silverstone,-1.01694,5,1952,,https://en.wikipedia.org/wiki/1952_British_Grand_Prix,1952
+nurburgring,Nürburgring,https://en.wikipedia.org/wiki/N%C3%BCrburgring,Germany,1952-08-03,1952-n-rburg,German Grand Prix,n-rburg,50.3356,Nürburg,6.9475,6,1952,,https://en.wikipedia.org/wiki/1952_German_Grand_Prix,1952
+zandvoort,Circuit Park Zandvoort,https://en.wikipedia.org/wiki/Circuit_Zandvoort,Netherlands,1952-08-17,1952-zandvoort,Dutch Grand Prix,zandvoort,52.3888,Zandvoort,4.54092,7,1952,,https://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix,1952
+monza,Autodromo Nazionale di Monza,https://en.wikipedia.org/wiki/Monza_Circuit,Italy,1952-09-07,1952-monza,Italian Grand Prix,monza,45.6156,Monza,9.28111,8,1952,,https://en.wikipedia.org/wiki/1952_Italian_Grand_Prix,1952

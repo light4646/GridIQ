@@ -1,5 +1,25 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+
 import { formatNumber, getHistoryManifest } from "@/lib/history";
+
+export const metadata: Metadata = {
+  title: "F1 Seasons 1950–2026 · GridIQ",
+  description:
+    "Browse every Formula 1 season from 1950 to 2026. Race calendars, race winners, driver standings, constructor standings, world champions, and qualifying data for each season.",
+  keywords: [
+    "F1 seasons history",
+    "Formula 1 season results",
+    "F1 race calendar",
+    "F1 driver standings by year",
+    "Formula 1 standings history",
+    "F1 results database",
+  ],
+  openGraph: {
+    title: "F1 Seasons 1950–2026 · GridIQ",
+    description: "Browse every Formula 1 season from 1950 to 2026, with champions, race results, and standings.",
+  },
+};
 
 export default function SeasonsPage() {
   const manifest = getHistoryManifest();
@@ -10,31 +30,40 @@ export default function SeasonsPage() {
         <section className="hero compactHero">
           <div>
             <div className="eyebrow">GridIQ historical database</div>
-            <h1>F1 seasons from 2000 to 2026.</h1>
+            <h1>F1 seasons from {manifest.start_year} to {manifest.end_year}.</h1>
             <p>
               Explore race calendars, race winners, driver standings, constructor
-              standings, qualifying data, and season summaries built from historical F1 results.
+              standings, qualifying data, and world champions for every Formula 1 season
+              from {manifest.start_year} to {manifest.end_year}.
             </p>
           </div>
-          <div className="pill">Through {manifest.through_date}</div>
+          <div className="heroActions">
+            <Link className="ghostLink" href="/champions">Champions</Link>
+            <Link className="ghostLink" href="/records">Records</Link>
+            <Link className="ghostLink" href="/drivers">Drivers</Link>
+          </div>
         </section>
 
         <section className="cards">
           <div className="card">
             <div className="label">Seasons</div>
             <div className="value">{manifest.seasons.length}</div>
+            <p className="small">F1 seasons loaded from {manifest.start_year} to {manifest.end_year}.</p>
           </div>
           <div className="card">
-            <div className="label">Start</div>
+            <div className="label">First season</div>
             <div className="value">{manifest.start_year}</div>
+            <p className="small">Inaugural Formula 1 World Championship season.</p>
           </div>
           <div className="card">
             <div className="label">Latest</div>
             <div className="value">{manifest.end_year}</div>
+            <p className="small">Through {manifest.through_date}.</p>
           </div>
           <div className="card">
-            <div className="label">Failures</div>
-            <div className="value">{manifest.failures.length}</div>
+            <div className="label">Race rows</div>
+            <div className="value">{formatNumber(manifest.seasons.reduce((s, y) => s + y.race_results, 0))}</div>
+            <p className="small">Total race result rows in the database.</p>
           </div>
         </section>
 
@@ -42,9 +71,12 @@ export default function SeasonsPage() {
           <div className="panelHeader">
             <div>
               <h2>Season index</h2>
-              <p>Every season currently loaded into the GridIQ historical database.</p>
+              <p>Every Formula 1 season in the GridIQ historical database, with world champions and key stats.</p>
             </div>
-            <Link className="ghostLink" href="/records">View records</Link>
+            <div className="panelActions">
+              <Link className="ghostLink" href="/champions">All champions</Link>
+              <Link className="ghostLink" href="/records">Records</Link>
+            </div>
           </div>
 
           <table>
@@ -78,7 +110,7 @@ export default function SeasonsPage() {
         </section>
 
         <div className="footer">
-          Historical data covers 2000–2026 through {manifest.through_date}. GridIQ is independent and not affiliated with Formula 1.
+          Historical data covers {manifest.start_year}–{manifest.end_year} through {manifest.through_date}. GridIQ is independent and not affiliated with Formula 1.
         </div>
       </div>
     </main>

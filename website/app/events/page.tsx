@@ -3,8 +3,22 @@ import Link from "next/link";
 import { EVENT_OPTIONS } from "@/lib/static-data";
 
 export const metadata = {
-  title: "Race Analytics · GridIQ",
-  description: "Browse generated Formula 1 race analytics dashboards by season.",
+  title: "F1 Race Analytics — Lap Times, Strategy & Pace · GridIQ",
+  description:
+    "Deep Formula 1 race analytics for 75+ events from 2023 to 2025. Explore clean-lap race pace rankings, tyre strategy, stint analysis, pit stop windows, lap traces, and qualifying-to-race comparison powered by FastF1.",
+  keywords: [
+    "F1 race analysis",
+    "Formula 1 lap times",
+    "F1 race pace ranking",
+    "F1 tyre strategy",
+    "FastF1 race data",
+    "F1 qualifying vs race",
+    "F1 stint analysis",
+  ],
+  openGraph: {
+    title: "F1 Race Analytics — Lap Times, Strategy & Pace · GridIQ",
+    description: "Deep race analytics for 75+ Formula 1 events. Lap traces, tyre strategy, race pace, and qualifying comparison.",
+  },
 };
 
 function groupEventsByYear() {

@@ -1,0 +1,580 @@
+[
+  {
+    "year": 1987,
+    "position": 1,
+    "position_text": "1",
+    "points": 73.0,
+    "wins": 3,
+    "driver_id": "piquet",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nelson Piquet",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 2,
+    "position_text": "2",
+    "points": 61.0,
+    "wins": 6,
+    "driver_id": "mansell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nigel Mansell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 3,
+    "position_text": "3",
+    "points": 57.0,
+    "wins": 2,
+    "driver_id": "senna",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ayrton Senna",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 4,
+    "position_text": "4",
+    "points": 46.0,
+    "wins": 3,
+    "driver_id": "prost",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alain Prost",
+    "driver_nationality": "French",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 5,
+    "position_text": "5",
+    "points": 36.0,
+    "wins": 2,
+    "driver_id": "berger",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gerhard Berger",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 6,
+    "position_text": "6",
+    "points": 30.0,
+    "wins": 0,
+    "driver_id": "johansson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Stefan Johansson",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 7,
+    "position_text": "7",
+    "points": 17.0,
+    "wins": 0,
+    "driver_id": "alboreto",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Michele Alboreto",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 8,
+    "position_text": "8",
+    "points": 16.0,
+    "wins": 0,
+    "driver_id": "boutsen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Thierry Boutsen",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Benetton"
+    ],
+    "constructor_ids": [
+      "benetton"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 9,
+    "position_text": "9",
+    "points": 12.0,
+    "wins": 0,
+    "driver_id": "fabi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Teo Fabi",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Benetton"
+    ],
+    "constructor_ids": [
+      "benetton"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 10,
+    "position_text": "10",
+    "points": 8.0,
+    "wins": 0,
+    "driver_id": "cheever",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Eddie Cheever",
+    "driver_nationality": "American",
+    "constructors": [
+      "Arrows"
+    ],
+    "constructor_ids": [
+      "arrows"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 11,
+    "position_text": "11",
+    "points": 7.0,
+    "wins": 0,
+    "driver_id": "palmer",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jonathan Palmer",
+    "driver_nationality": "British",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 12,
+    "position_text": "12",
+    "points": 7.0,
+    "wins": 0,
+    "driver_id": "satoru_nakajima",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Satoru Nakajima",
+    "driver_nationality": "Japanese",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 13,
+    "position_text": "13",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "patrese",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Riccardo Patrese",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Brabham",
+      "Williams"
+    ],
+    "constructor_ids": [
+      "brabham",
+      "williams"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 14,
+    "position_text": "14",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "cesaris",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Andrea de Cesaris",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 15,
+    "position_text": "15",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "streiff",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Philippe Streiff",
+    "driver_nationality": "French",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 16,
+    "position_text": "16",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "warwick",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Derek Warwick",
+    "driver_nationality": "British",
+    "constructors": [
+      "Arrows"
+    ],
+    "constructor_ids": [
+      "arrows"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 17,
+    "position_text": "17",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "alliot",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Philippe Alliot",
+    "driver_nationality": "French",
+    "constructors": [
+      "Larrousse"
+    ],
+    "constructor_ids": [
+      "larrousse"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 18,
+    "position_text": "18",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "brundle",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Martin Brundle",
+    "driver_nationality": "British",
+    "constructors": [
+      "Zakspeed"
+    ],
+    "constructor_ids": [
+      "zakspeed"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 19,
+    "position_text": "19",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "capelli",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ivan Capelli",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 20,
+    "position_text": "20",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "arnoux",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ren\u00e9 Arnoux",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ligier"
+    ],
+    "constructor_ids": [
+      "ligier"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": 21,
+    "position_text": "21",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "moreno",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Roberto Moreno",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "AGS"
+    ],
+    "constructor_ids": [
+      "ags"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "dalmas",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Yannick Dalmas",
+    "driver_nationality": "French",
+    "constructors": [
+      "Larrousse"
+    ],
+    "constructor_ids": [
+      "larrousse"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "danner",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Christian Danner",
+    "driver_nationality": "German",
+    "constructors": [
+      "Zakspeed"
+    ],
+    "constructor_ids": [
+      "zakspeed"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ghinzani",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Piercarlo Ghinzani",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ligier"
+    ],
+    "constructor_ids": [
+      "ligier"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "fabre",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pascal Fabre",
+    "driver_nationality": "French",
+    "constructors": [
+      "AGS"
+    ],
+    "constructor_ids": [
+      "ags"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "nannini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alessandro Nannini",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Minardi"
+    ],
+    "constructor_ids": [
+      "minardi"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "caffi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alex Caffi",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Osella"
+    ],
+    "constructor_ids": [
+      "osella"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "campos",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Adri\u00e1n Campos",
+    "driver_nationality": "Spanish",
+    "constructors": [
+      "Minardi"
+    ],
+    "constructor_ids": [
+      "minardi"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "forini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Franco Forini",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Osella"
+    ],
+    "constructor_ids": [
+      "osella"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "tarquini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gabriele Tarquini",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Osella"
+    ],
+    "constructor_ids": [
+      "osella"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "modena",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Stefano Modena",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1987,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "larini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nicola Larini",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Coloni"
+    ],
+    "constructor_ids": [
+      "coloni"
+    ]
+  }
+]

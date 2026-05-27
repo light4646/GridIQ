@@ -1,0 +1,40 @@
+{
+  "year": 1980,
+  "generated_at": "2026-05-27T06:06:34.712882+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 14,
+  "race_results": 336,
+  "qualifying_results": 0,
+  "drivers": 34,
+  "constructors": 15,
+  "driver_champion": {
+    "year": 1980,
+    "position": 1,
+    "position_text": "1",
+    "points": 67.0,
+    "wins": 5,
+    "driver_id": "jones",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alan Jones",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1980,
+    "position": 1,
+    "position_text": "1",
+    "points": 120.0,
+    "wins": 6,
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+  }
+}

@@ -1,0 +1,422 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,3,60,5766857,9.0,1,1,1,Finished,1:36:06.857,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,4,60,5776730,6.0,2,2,1,Finished,+9.873,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,5,60,5835448,4.0,3,3,1,Finished,+1:08.591,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,11,60,5840205,3.0,4,4,1,Finished,+1:13.348,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,6,60,5841413,2.0,5,5,1,Finished,+1:14.556,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,10,59,,1.0,6,6,1,+1 Lap,,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,7,59,,0.0,7,7,1,+1 Lap,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,15,59,,0.0,8,8,1,+1 Lap,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,21,57,,0.0,9,9,1,+3 Laps,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,14,53,,0.0,10,R,1,Engine,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,22,47,,0.0,11,R,1,Transmission,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,20,46,,0.0,12,R,1,Chassis,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,16,40,,0.0,13,R,1,Suspension,,1988
+Coloni,coloni,Italian,,tarquini,Gabriele Tarquini,Italian,31,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,25,35,,0.0,14,R,1,Suspension,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,19,35,,0.0,15,R,1,Brakes,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,17,32,,0.0,16,R,1,Engine,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,1,31,,0.0,17,D,1,Disqualified,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,18,23,,0.0,18,R,1,Clutch,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,24,20,,0.0,19,R,1,Engine,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,2,18,,0.0,20,R,1,Engine,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,12,7,,0.0,21,R,1,Engine,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,8,6,,0.0,22,R,1,Engine,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,9,6,,0.0,23,R,1,Engine,,1988
+Minardi,minardi,Italian,,campos,Adrián Campos,Spanish,23,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,23,5,,0.0,24,R,1,Chassis,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,13,0,,0.0,25,R,1,Gearbox,,1988
+Euro Brun,eurobrun,Italian,,larrauri,Oscar Larrauri,Argentine,32,1988-rio-de-janeiro,Brazilian Grand Prix,,,,,,26,0,,0.0,26,R,1,Electrical,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-imola,San Marino Grand Prix,,,,,,1,60,5561264,9.0,1,1,2,Finished,1:32:41.264,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-imola,San Marino Grand Prix,,,,,,2,60,5563598,6.0,2,2,2,Finished,+2.334,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-imola,San Marino Grand Prix,,,,,,3,59,,4.0,3,3,2,+1 Lap,,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-imola,San Marino Grand Prix,,,,,,8,59,,3.0,4,4,2,+1 Lap,,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-imola,San Marino Grand Prix,,,,,,5,59,,2.0,5,5,2,+1 Lap,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-imola,San Marino Grand Prix,,,,,,4,59,,1.0,6,6,2,+1 Lap,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-imola,San Marino Grand Prix,,,,,,7,59,,0.0,7,7,2,+1 Lap,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-imola,San Marino Grand Prix,,,,,,12,59,,0.0,8,8,2,+1 Lap,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-imola,San Marino Grand Prix,,,,,,14,58,,0.0,9,9,2,+2 Laps,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-imola,San Marino Grand Prix,,,,,,13,58,,0.0,10,10,2,+2 Laps,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-imola,San Marino Grand Prix,,,,,,18,58,,0.0,11,11,2,+2 Laps,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-imola,San Marino Grand Prix,,,,,,19,58,,0.0,12,12,2,+2 Laps,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-imola,San Marino Grand Prix,,,,,,6,58,,0.0,13,13,2,+2 Laps,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-imola,San Marino Grand Prix,,,,,,23,58,,0.0,14,14,2,+2 Laps,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-imola,San Marino Grand Prix,,,,,,20,58,,0.0,15,15,2,+2 Laps,,1988
+Minardi,minardi,Italian,,campos,Adrián Campos,Spanish,23,1988-imola,San Marino Grand Prix,,,,,,22,57,,0.0,16,16,2,+3 Laps,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-imola,San Marino Grand Prix,,,,,,15,57,,0.0,17,17,2,+3 Laps,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-imola,San Marino Grand Prix,,,,,,10,54,,0.0,18,18,2,Engine,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-imola,San Marino Grand Prix,,,,,,26,52,,0.0,19,R,2,Not classified,,1988
+Tyrrell,tyrrell,British,,bailey,Julian Bailey,British,4,1988-imola,San Marino Grand Prix,,,,,,21,48,,0.0,20,R,2,Gearbox,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-imola,San Marino Grand Prix,,,,,,11,42,,0.0,21,R,2,Engine,,1988
+Coloni,coloni,Italian,,tarquini,Gabriele Tarquini,Italian,31,1988-imola,San Marino Grand Prix,,,,,,17,40,,0.0,22,R,2,Fuel system,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-imola,San Marino Grand Prix,,,,,,24,38,,0.0,23,R,2,Gearbox,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-imola,San Marino Grand Prix,,,,,,25,36,,0.0,24,R,2,Gearbox,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-imola,San Marino Grand Prix,,,,,,9,2,,0.0,25,R,2,Gearbox,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-imola,San Marino Grand Prix,,,,,,16,1,,0.0,26,R,2,Suspension,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-imola,San Marino Grand Prix,,,,,,0,0,,0.0,27,D,2,Excluded,,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-monte-carlo,Monaco Grand Prix,,,,,,2,78,7037077,9.0,1,1,3,Finished,1:57:17.077,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-monte-carlo,Monaco Grand Prix,,,,,,3,78,7057530,6.0,2,2,3,Finished,+20.453,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-monte-carlo,Monaco Grand Prix,,,,,,4,78,7078306,4.0,3,3,3,Finished,+41.229,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-monte-carlo,Monaco Grand Prix,,,,,,7,77,,3.0,4,4,3,+1 Lap,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-monte-carlo,Monaco Grand Prix,,,,,,10,77,,2.0,5,5,3,+1 Lap,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-monte-carlo,Monaco Grand Prix,,,,,,8,77,,1.0,6,6,3,+1 Lap,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-monte-carlo,Monaco Grand Prix,,,,,,21,77,,0.0,7,7,3,+1 Lap,,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-monte-carlo,Monaco Grand Prix,,,,,,16,76,,0.0,8,8,3,+2 Laps,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-monte-carlo,Monaco Grand Prix,,,,,,25,75,,0.0,9,9,3,+3 Laps,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-monte-carlo,Monaco Grand Prix,,,,,,22,72,,0.0,10,10,3,+6 Laps,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-monte-carlo,Monaco Grand Prix,,,,,,1,66,,0.0,11,R,3,Spun off,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-monte-carlo,Monaco Grand Prix,,,,,,13,50,,0.0,12,R,3,Collision,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-monte-carlo,Monaco Grand Prix,,,,,,14,45,,0.0,13,R,3,Fuel system,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-monte-carlo,Monaco Grand Prix,,,,,,23,43,,0.0,14,R,3,Gearbox,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-monte-carlo,Monaco Grand Prix,,,,,,6,38,,0.0,15,R,3,Gearbox,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-monte-carlo,Monaco Grand Prix,,,,,,15,36,,0.0,16,R,3,Halfshaft,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-monte-carlo,Monaco Grand Prix,,,,,,5,32,,0.0,17,R,3,Collision,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-monte-carlo,Monaco Grand Prix,,,,,,19,28,,0.0,18,R,3,Engine,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-monte-carlo,Monaco Grand Prix,,,,,,20,17,,0.0,19,R,3,Engine,,1988
+Euro Brun,eurobrun,Italian,,larrauri,Oscar Larrauri,Argentine,32,1988-monte-carlo,Monaco Grand Prix,,,,,,18,14,,0.0,20,R,3,Brakes,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-monte-carlo,Monaco Grand Prix,,,,,,9,8,,0.0,21,R,3,Engine,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-monte-carlo,Monaco Grand Prix,,,,,,26,6,,0.0,22,R,3,Engine,,1988
+Coloni,coloni,Italian,,tarquini,Gabriele Tarquini,Italian,31,1988-monte-carlo,Monaco Grand Prix,,,,,,24,5,,0.0,23,R,3,Suspension,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-monte-carlo,Monaco Grand Prix,,,,,,11,1,,0.0,24,R,3,Collision,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-monte-carlo,Monaco Grand Prix,,,,,,17,0,,0.0,25,R,3,Spun off,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-monte-carlo,Monaco Grand Prix,,,,,,12,0,,0.0,26,R,3,Throttle,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,31,D,3,Excluded,,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-mexico-city,Mexican Grand Prix,,,,,,2,67,5415737,9.0,1,1,4,Finished,1:30:15.737,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-mexico-city,Mexican Grand Prix,,,,,,1,67,5422841,6.0,2,2,4,Finished,+7.104,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-mexico-city,Mexican Grand Prix,,,,,,3,67,5473051,4.0,3,3,4,Finished,+57.314,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-mexico-city,Mexican Grand Prix,,,,,,5,66,,3.0,4,4,4,+1 Lap,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-mexico-city,Mexican Grand Prix,,,,,,9,66,,2.0,5,5,4,+1 Lap,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-mexico-city,Mexican Grand Prix,,,,,,7,66,,1.0,6,6,4,+1 Lap,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-mexico-city,Mexican Grand Prix,,,,,,8,65,,0.0,7,7,4,+2 Laps,,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-mexico-city,Mexican Grand Prix,,,,,,11,64,,0.0,8,8,4,+3 Laps,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-mexico-city,Mexican Grand Prix,,,,,,22,64,,0.0,9,9,4,+3 Laps,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-mexico-city,Mexican Grand Prix,,,,,,24,63,,0.0,10,10,4,+4 Laps,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-mexico-city,Mexican Grand Prix,,,,,,25,63,,0.0,11,11,4,+4 Laps,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-mexico-city,Mexican Grand Prix,,,,,,19,63,,0.0,12,12,4,+4 Laps,,1988
+Euro Brun,eurobrun,Italian,,larrauri,Oscar Larrauri,Argentine,32,1988-mexico-city,Mexican Grand Prix,,,,,,26,63,,0.0,13,13,4,+4 Laps,,1988
+Coloni,coloni,Italian,,tarquini,Gabriele Tarquini,Italian,31,1988-mexico-city,Mexican Grand Prix,,,,,,21,62,,0.0,14,14,4,+5 Laps,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-mexico-city,Mexican Grand Prix,,,,,,18,61,,0.0,15,15,4,+6 Laps,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-mexico-city,Mexican Grand Prix,,,,,,10,61,,0.0,16,16,4,+6 Laps,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-mexico-city,Mexican Grand Prix,,,,,,4,58,,0.0,17,R,4,Engine,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-mexico-city,Mexican Grand Prix,,,,,,12,52,,0.0,18,R,4,Gearbox,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-mexico-city,Mexican Grand Prix,,,,,,6,27,,0.0,19,R,4,Engine,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-mexico-city,Mexican Grand Prix,,,,,,14,20,,0.0,20,R,4,Engine,,1988
+Zakspeed,zakspeed,German,,schneider,Bernd Schneider,German,10,1988-mexico-city,Mexican Grand Prix,,,,,,15,16,,0.0,21,R,4,Engine,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-mexico-city,Mexican Grand Prix,,,,,,17,16,,0.0,22,R,4,Engine,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-mexico-city,Mexican Grand Prix,,,,,,20,13,,0.0,23,R,4,Accident,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-mexico-city,Mexican Grand Prix,,,,,,23,13,,0.0,24,R,4,Brakes,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-mexico-city,Mexican Grand Prix,,,,,,16,10,,0.0,25,R,4,Electrical,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-mexico-city,Mexican Grand Prix,,,,,,13,0,,0.0,26,R,4,Suspension,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-mexico-city,Mexican Grand Prix,,,,,,0,0,,0.0,31,D,4,Excluded,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-montreal,Canadian Grand Prix,,,,,,1,69,5986618,9.0,1,1,5,Finished,1:39:46.618,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-montreal,Canadian Grand Prix,,,,,,2,69,5992552,6.0,2,2,5,Finished,+5.934,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-montreal,Canadian Grand Prix,,,,,,7,69,6038027,4.0,3,3,5,Finished,+51.409,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-montreal,Canadian Grand Prix,,,,,,6,68,,3.0,4,4,5,+1 Lap,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-montreal,Canadian Grand Prix,,,,,,14,68,,2.0,5,5,5,+1 Lap,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-montreal,Canadian Grand Prix,,,,,,19,67,,1.0,6,6,5,+2 Laps,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-montreal,Canadian Grand Prix,,,,,,16,67,,0.0,7,7,5,+2 Laps,,1988
+Coloni,coloni,Italian,,tarquini,Gabriele Tarquini,Italian,31,1988-montreal,Canadian Grand Prix,,,,,,26,67,,0.0,8,8,5,+2 Laps,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-montreal,Canadian Grand Prix,,,,,,12,66,,0.0,9,9,5,Out of fuel,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-montreal,Canadian Grand Prix,,,,,,17,66,,0.0,10,10,5,Electrical,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-montreal,Canadian Grand Prix,,,,,,13,66,,0.0,11,11,5,+3 Laps,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-montreal,Canadian Grand Prix,,,,,,15,66,,0.0,12,12,5,+3 Laps,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-montreal,Canadian Grand Prix,,,,,,21,64,,0.0,13,13,5,+5 Laps,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-montreal,Canadian Grand Prix,,,,,,22,63,,0.0,14,14,5,Engine,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-montreal,Canadian Grand Prix,,,,,,18,54,,0.0,15,R,5,Gearbox,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-montreal,Canadian Grand Prix,,,,,,10,41,,0.0,16,R,5,Suspension,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-montreal,Canadian Grand Prix,,,,,,20,36,,0.0,17,R,5,Transmission,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-montreal,Canadian Grand Prix,,,,,,4,33,,0.0,18,R,5,Engine,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-montreal,Canadian Grand Prix,,,,,,11,32,,0.0,19,R,5,Engine,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-montreal,Canadian Grand Prix,,,,,,8,31,,0.0,20,R,5,Throttle,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-montreal,Canadian Grand Prix,,,,,,9,28,,0.0,21,R,5,Engine,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-montreal,Canadian Grand Prix,,,,,,25,24,,0.0,22,R,5,Engine,,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-montreal,Canadian Grand Prix,,,,,,3,22,,0.0,23,R,5,Electrical,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-montreal,Canadian Grand Prix,,,,,,5,15,,0.0,24,R,5,Ignition,,1988
+Euro Brun,eurobrun,Italian,,larrauri,Oscar Larrauri,Argentine,32,1988-montreal,Canadian Grand Prix,,,,,,24,8,,0.0,25,R,5,Chassis,,1988
+Tyrrell,tyrrell,British,,bailey,Julian Bailey,British,4,1988-montreal,Canadian Grand Prix,,,,,,23,0,,0.0,26,R,5,Collision,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-detroit,Detroit Grand Prix,,,,,,1,63,6896035,9.0,1,1,6,Finished,1:54:56.035,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-detroit,Detroit Grand Prix,,,,,,4,63,6934748,6.0,2,2,6,Finished,+38.713,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-detroit,Detroit Grand Prix,,,,,,5,62,,4.0,3,3,6,+1 Lap,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-detroit,Detroit Grand Prix,,,,,,12,62,,3.0,4,4,6,+1 Lap,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-detroit,Detroit Grand Prix,,,,,,17,62,,2.0,5,5,6,+1 Lap,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-detroit,Detroit Grand Prix,,,,,,16,62,,1.0,6,6,6,+1 Lap,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-detroit,Detroit Grand Prix,,,,,,24,61,,0.0,7,7,6,+2 Laps,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-detroit,Detroit Grand Prix,,,,,,21,61,,0.0,8,8,6,+2 Laps,,1988
+Tyrrell,tyrrell,British,,bailey,Julian Bailey,British,4,1988-detroit,Detroit Grand Prix,,,,,,22,59,,0.0,9,9,6,Spun off,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-detroit,Detroit Grand Prix,,,,,,25,54,,0.0,10,R,6,Gearbox,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-detroit,Detroit Grand Prix,,,,,,14,46,,0.0,11,R,6,Halfshaft,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-detroit,Detroit Grand Prix,,,,,,19,46,,0.0,12,R,6,Spun off,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-detroit,Detroit Grand Prix,,,,,,3,45,,0.0,13,R,6,Collision,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-detroit,Detroit Grand Prix,,,,,,20,45,,0.0,14,R,6,Overheating,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-detroit,Detroit Grand Prix,,,,,,13,34,,0.0,15,R,6,Engine,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-detroit,Detroit Grand Prix,,,,,,10,26,,0.0,16,R,6,Electrical,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-detroit,Detroit Grand Prix,,,,,,8,26,,0.0,17,R,6,Spun off,,1988
+Euro Brun,eurobrun,Italian,,larrauri,Oscar Larrauri,Argentine,32,1988-detroit,Detroit Grand Prix,,,,,,23,26,,0.0,18,R,6,Gearbox,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-detroit,Detroit Grand Prix,,,,,,9,24,,0.0,19,R,6,Spun off,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-detroit,Detroit Grand Prix,,,,,,6,18,,0.0,20,R,6,Engine,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-detroit,Detroit Grand Prix,,,,,,11,15,,0.0,21,R,6,Suspension,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-detroit,Detroit Grand Prix,,,,,,7,14,,0.0,22,R,6,Suspension,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-detroit,Detroit Grand Prix,,,,,,15,14,,0.0,23,R,6,Electrical,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-detroit,Detroit Grand Prix,,,,,,26,7,,0.0,24,R,6,Engine,,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-detroit,Detroit Grand Prix,,,,,,2,6,,0.0,25,R,6,Puncture,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-detroit,Detroit Grand Prix,,,,,,18,2,,0.0,26,R,6,Overheating,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-detroit,Detroit Grand Prix,,,,,,0,0,,0.0,27,W,6,Injured,,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-le-castellet,French Grand Prix,,,,,,1,80,5857328,9.0,1,1,7,Finished,1:37:37.328,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-le-castellet,French Grand Prix,,,,,,2,80,5889080,6.0,2,2,7,Finished,+31.752,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-le-castellet,French Grand Prix,,,,,,4,80,5923833,4.0,3,3,7,Finished,+1:06.505,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-le-castellet,French Grand Prix,,,,,,3,79,,3.0,4,4,7,+1 Lap,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-le-castellet,French Grand Prix,,,,,,7,79,,2.0,5,5,7,+1 Lap,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-le-castellet,French Grand Prix,,,,,,6,79,,1.0,6,6,7,+1 Lap,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-le-castellet,French Grand Prix,,,,,,8,79,,0.0,7,7,7,+1 Lap,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-le-castellet,French Grand Prix,,,,,,16,79,,0.0,8,8,7,+1 Lap,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-le-castellet,French Grand Prix,,,,,,10,79,,0.0,9,9,7,+1 Lap,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-le-castellet,French Grand Prix,,,,,,12,78,,0.0,10,10,7,+2 Laps,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-le-castellet,French Grand Prix,,,,,,13,78,,0.0,11,11,7,+2 Laps,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-le-castellet,French Grand Prix,,,,,,14,78,,0.0,12,12,7,+2 Laps,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-le-castellet,French Grand Prix,,,,,,19,78,,0.0,13,13,7,+2 Laps,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-le-castellet,French Grand Prix,,,,,,20,77,,0.0,14,14,7,+3 Laps,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-le-castellet,French Grand Prix,,,,,,22,77,,0.0,15,15,7,+3 Laps,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-le-castellet,French Grand Prix,,,,,,25,70,,0.0,16,R,7,Not classified,,1988
+Euro Brun,eurobrun,Italian,,larrauri,Oscar Larrauri,Argentine,32,1988-le-castellet,French Grand Prix,,,,,,26,64,,0.0,17,R,7,Clutch,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-le-castellet,French Grand Prix,,,,,,24,56,,0.0,18,R,7,Halfshaft,,1988
+Zakspeed,zakspeed,German,,schneider,Bernd Schneider,German,10,1988-le-castellet,French Grand Prix,,,,,,21,55,,0.0,19,R,7,Gearbox,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-le-castellet,French Grand Prix,,,,,,9,48,,0.0,20,R,7,Suspension,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-le-castellet,French Grand Prix,,,,,,18,46,,0.0,21,R,7,Electrical,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-le-castellet,French Grand Prix,,,,,,23,40,,0.0,22,R,7,Engine,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-le-castellet,French Grand Prix,,,,,,15,35,,0.0,23,R,7,Brakes,,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-le-castellet,French Grand Prix,,,,,,5,28,,0.0,24,R,7,Engine,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-le-castellet,French Grand Prix,,,,,,17,20,,0.0,25,R,7,Fuel leak,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-le-castellet,French Grand Prix,,,,,,11,11,,0.0,26,R,7,Spun off,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-le-castellet,French Grand Prix,,,,,,0,0,,0.0,31,D,7,Excluded,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-silverstone,British Grand Prix,,,,,,3,65,5596367,9.0,1,1,8,Finished,1:33:16.367,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-silverstone,British Grand Prix,,,,,,11,65,5619711,6.0,2,2,8,Finished,+23.344,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-silverstone,British Grand Prix,,,,,,8,65,5647581,4.0,3,3,8,Finished,+51.214,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-silverstone,British Grand Prix,,,,,,5,65,5667745,3.0,4,4,8,Finished,+1:11.378,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-silverstone,British Grand Prix,,,,,,7,65,5677202,2.0,5,5,8,Finished,+1:20.835,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-silverstone,British Grand Prix,,,,,,9,64,,1.0,6,6,8,+1 Lap,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-silverstone,British Grand Prix,,,,,,13,64,,0.0,7,7,8,+1 Lap,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-silverstone,British Grand Prix,,,,,,15,64,,0.0,8,8,8,+1 Lap,,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-silverstone,British Grand Prix,,,,,,1,64,,0.0,9,9,8,+1 Lap,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-silverstone,British Grand Prix,,,,,,10,64,,0.0,10,10,8,+1 Lap,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-silverstone,British Grand Prix,,,,,,21,64,,0.0,11,11,8,+1 Lap,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-silverstone,British Grand Prix,,,,,,20,64,,0.0,12,12,8,+1 Lap,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-silverstone,British Grand Prix,,,,,,23,63,,0.0,13,13,8,+2 Laps,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-silverstone,British Grand Prix,,,,,,22,63,,0.0,14,14,8,+2 Laps,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-silverstone,British Grand Prix,,,,,,19,63,,0.0,15,15,8,+2 Laps,,1988
+Tyrrell,tyrrell,British,,bailey,Julian Bailey,British,4,1988-silverstone,British Grand Prix,,,,,,24,63,,0.0,16,16,8,+2 Laps,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-silverstone,British Grand Prix,,,,,,2,62,,0.0,17,17,8,Out of fuel,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-silverstone,British Grand Prix,,,,,,25,62,,0.0,18,18,8,+3 Laps,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-silverstone,British Grand Prix,,,,,,26,60,,0.0,19,19,8,Out of fuel,,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-silverstone,British Grand Prix,,,,,,12,38,,0.0,20,R,8,Transmission,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-silverstone,British Grand Prix,,,,,,6,34,,0.0,21,R,8,Alternator,,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-silverstone,British Grand Prix,,,,,,4,24,,0.0,22,R,8,Handling,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-silverstone,British Grand Prix,,,,,,17,14,,0.0,23,R,8,Engine,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-silverstone,British Grand Prix,,,,,,14,9,,0.0,24,R,8,Clutch,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-silverstone,British Grand Prix,,,,,,16,8,,0.0,25,R,8,Broken wing,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-silverstone,British Grand Prix,,,,,,18,0,,0.0,26,R,8,Suspension,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-hockenheim,German Grand Prix,,,,,,1,44,5574188,9.0,1,1,9,Finished,1:32:54.188,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-hockenheim,German Grand Prix,,,,,,2,44,5587797,6.0,2,2,9,Finished,+13.609,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-hockenheim,German Grand Prix,,,,,,3,44,5626283,4.0,3,3,9,Finished,+52.095,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-hockenheim,German Grand Prix,,,,,,4,44,5675100,3.0,4,4,9,Finished,+1:40.912,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-hockenheim,German Grand Prix,,,,,,7,44,5683794,2.0,5,5,9,Finished,+1:49.606,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-hockenheim,German Grand Prix,,,,,,9,43,,1.0,6,6,9,+1 Lap,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-hockenheim,German Grand Prix,,,,,,12,43,,0.0,7,7,9,+1 Lap,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-hockenheim,German Grand Prix,,,,,,10,43,,0.0,8,8,9,+1 Lap,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-hockenheim,German Grand Prix,,,,,,8,43,,0.0,9,9,9,+1 Lap,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-hockenheim,German Grand Prix,,,,,,15,43,,0.0,10,10,9,+1 Lap,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-hockenheim,German Grand Prix,,,,,,24,43,,0.0,11,11,9,+1 Lap,,1988
+Zakspeed,zakspeed,German,,schneider,Bernd Schneider,German,10,1988-hockenheim,German Grand Prix,,,,,,22,43,,0.0,12,12,9,+1 Lap,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-hockenheim,German Grand Prix,,,,,,14,42,,0.0,13,13,9,+2 Laps,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-hockenheim,German Grand Prix,,,,,,23,42,,0.0,14,14,9,+2 Laps,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-hockenheim,German Grand Prix,,,,,,19,42,,0.0,15,15,9,+2 Laps,,1988
+Euro Brun,eurobrun,Italian,,larrauri,Oscar Larrauri,Argentine,32,1988-hockenheim,German Grand Prix,,,,,,26,42,,0.0,16,16,9,+2 Laps,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-hockenheim,German Grand Prix,,,,,,17,41,,0.0,17,17,9,+3 Laps,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-hockenheim,German Grand Prix,,,,,,6,40,,0.0,18,18,9,+4 Laps,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-hockenheim,German Grand Prix,,,,,,21,39,,0.0,19,19,9,Clutch,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-hockenheim,German Grand Prix,,,,,,16,38,,0.0,20,R,9,Throttle,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-hockenheim,German Grand Prix,,,,,,13,34,,0.0,21,R,9,Spun off,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-hockenheim,German Grand Prix,,,,,,18,27,,0.0,22,R,9,Engine,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-hockenheim,German Grand Prix,,,,,,11,16,,0.0,23,R,9,Spun off,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-hockenheim,German Grand Prix,,,,,,25,15,,0.0,24,R,9,Engine,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-hockenheim,German Grand Prix,,,,,,20,8,,0.0,25,R,9,Spun off,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-hockenheim,German Grand Prix,,,,,,5,1,,0.0,26,R,9,Spun off,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-budapest,Hungarian Grand Prix,,,,,,1,76,7067081,9.0,1,1,10,Finished,1:57:47.081,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-budapest,Hungarian Grand Prix,,,,,,7,76,7067610,6.0,2,2,10,Finished,+0.529,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-budapest,Hungarian Grand Prix,,,,,,3,76,7098491,4.0,3,3,10,Finished,+31.410,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-budapest,Hungarian Grand Prix,,,,,,9,76,7155751,3.0,4,4,10,Finished,+1:28.670,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-budapest,Hungarian Grand Prix,,,,,,8,75,,2.0,5,5,10,+1 Lap,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-budapest,Hungarian Grand Prix,,,,,,6,75,,1.0,6,6,10,+1 Lap,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-budapest,Hungarian Grand Prix,,,,,,19,73,,0.0,7,7,10,+3 Laps,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-budapest,Hungarian Grand Prix,,,,,,13,73,,0.0,8,8,10,+3 Laps,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-budapest,Hungarian Grand Prix,,,,,,17,73,,0.0,9,9,10,+3 Laps,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-budapest,Hungarian Grand Prix,,,,,,11,72,,0.0,10,10,10,+4 Laps,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-budapest,Hungarian Grand Prix,,,,,,26,72,,0.0,11,11,10,+4 Laps,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-budapest,Hungarian Grand Prix,,,,,,20,72,,0.0,12,12,10,+4 Laps,,1988
+Coloni,coloni,Italian,,tarquini,Gabriele Tarquini,Italian,31,1988-budapest,Hungarian Grand Prix,,,,,,22,71,,0.0,13,13,10,+5 Laps,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-budapest,Hungarian Grand Prix,,,,,,12,65,,0.0,14,R,10,Brakes,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-budapest,Hungarian Grand Prix,,,,,,2,60,,0.0,15,R,10,Driver unwell,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-budapest,Hungarian Grand Prix,,,,,,14,55,,0.0,16,R,10,Brakes,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-budapest,Hungarian Grand Prix,,,,,,15,40,,0.0,17,R,10,Electrical,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-budapest,Hungarian Grand Prix,,,,,,25,32,,0.0,18,R,10,Engine,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-budapest,Hungarian Grand Prix,,,,,,18,28,,0.0,19,R,10,Halfshaft,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-budapest,Hungarian Grand Prix,,,,,,5,24,,0.0,20,R,10,Overheating,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-budapest,Hungarian Grand Prix,,,,,,10,22,,0.0,21,R,10,Engine,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-budapest,Hungarian Grand Prix,,,,,,24,19,,0.0,22,R,10,Throttle,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-budapest,Hungarian Grand Prix,,,,,,16,8,,0.0,23,R,10,Collision,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-budapest,Hungarian Grand Prix,,,,,,23,8,,0.0,24,R,10,Collision,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-budapest,Hungarian Grand Prix,,,,,,4,5,,0.0,25,R,10,Engine,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-budapest,Hungarian Grand Prix,,,,,,21,3,,0.0,26,R,10,Engine,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-spa,Belgian Grand Prix,,,,,,1,43,5280549,9.0,1,1,11,Finished,1:28:00.549,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-spa,Belgian Grand Prix,,,,,,2,43,5311019,6.0,2,2,11,Finished,+30.470,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-spa,Belgian Grand Prix,,,,,,14,43,5356317,4.0,3,3,11,Finished,+1:15.768,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-spa,Belgian Grand Prix,,,,,,9,43,5364177,3.0,4,4,11,Finished,+1:23.628,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-spa,Belgian Grand Prix,,,,,,10,43,5365904,2.0,5,5,11,Finished,+1:25.355,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-spa,Belgian Grand Prix,,,,,,11,42,,1.0,6,6,11,+1 Lap,,1988
+Williams,williams,British,,brundle,Martin Brundle,British,5,1988-spa,Belgian Grand Prix,,,,,,12,42,,0.0,7,7,11,+1 Lap,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-spa,Belgian Grand Prix,,,,,,15,42,,0.0,8,8,11,+1 Lap,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-spa,Belgian Grand Prix,,,,,,16,42,,0.0,9,9,11,+1 Lap,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-spa,Belgian Grand Prix,,,,,,18,42,,0.0,10,10,11,+1 Lap,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-spa,Belgian Grand Prix,,,,,,20,39,,0.0,11,11,11,Engine,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-spa,Belgian Grand Prix,,,,,,21,39,,0.0,12,12,11,Throttle,,1988
+Zakspeed,zakspeed,German,,schneider,Bernd Schneider,German,10,1988-spa,Belgian Grand Prix,,,,,,25,38,,0.0,13,13,11,Gearbox,,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-spa,Belgian Grand Prix,,,,,,6,43,,0.0,14,D,11,Disqualified,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-spa,Belgian Grand Prix,,,,,,7,43,,0.0,15,D,11,Disqualified,,1988
+Coloni,coloni,Italian,,tarquini,Gabriele Tarquini,Italian,31,1988-spa,Belgian Grand Prix,,,,,,22,36,,0.0,16,R,11,Steering,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-spa,Belgian Grand Prix,,,,,,4,35,,0.0,17,R,11,Engine,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-spa,Belgian Grand Prix,,,,,,5,30,,0.0,18,R,11,Engine,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-spa,Belgian Grand Prix,,,,,,13,29,,0.0,19,R,11,Spun off,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-spa,Belgian Grand Prix,,,,,,24,25,,0.0,20,R,11,Oil leak,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-spa,Belgian Grand Prix,,,,,,8,22,,0.0,21,R,11,Engine,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-spa,Belgian Grand Prix,,,,,,26,14,,0.0,22,R,11,Fuel system,,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-spa,Belgian Grand Prix,,,,,,3,11,,0.0,23,R,11,Injection,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-spa,Belgian Grand Prix,,,,,,23,9,,0.0,24,R,11,Engine,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-spa,Belgian Grand Prix,,,,,,19,2,,0.0,25,R,11,Accident,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-spa,Belgian Grand Prix,,,,,,17,2,,0.0,26,R,11,Accident,,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-monza,Italian Grand Prix,,,,,,3,51,4659744,9.0,1,1,12,Finished,1:17:39.744,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-monza,Italian Grand Prix,,,,,,4,51,4660246,6.0,2,2,12,Finished,+0.502,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-monza,Italian Grand Prix,,,,,,5,51,4695276,4.0,3,3,12,Finished,+35.532,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-monza,Italian Grand Prix,,,,,,6,51,4695858,3.0,4,4,12,Finished,+36.114,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-monza,Italian Grand Prix,,,,,,11,51,4712266,2.0,5,5,12,Finished,+52.522,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-monza,Italian Grand Prix,,,,,,8,51,4719622,1.0,6,6,12,Finished,+59.878,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-monza,Italian Grand Prix,,,,,,10,51,4734487,0.0,7,7,12,Finished,+1:14.743,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-monza,Italian Grand Prix,,,,,,13,51,4752310,0.0,8,8,12,Finished,+1:32.566,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-monza,Italian Grand Prix,,,,,,9,50,,0.0,9,9,12,+1 Lap,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-monza,Italian Grand Prix,,,,,,1,49,,0.0,10,10,12,Collision,,1988
+Williams,williams,British,,schlesser,Jean-Louis Schlesser,French,5,1988-monza,Italian Grand Prix,,,,,,22,49,,0.0,11,11,12,+2 Laps,,1988
+Tyrrell,tyrrell,British,,bailey,Julian Bailey,British,4,1988-monza,Italian Grand Prix,,,,,,26,49,,0.0,12,12,12,+2 Laps,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-monza,Italian Grand Prix,,,,,,24,49,,0.0,13,13,12,+2 Laps,,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-monza,Italian Grand Prix,,,,,,2,34,,0.0,14,R,12,Engine,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-monza,Italian Grand Prix,,,,,,20,33,,0.0,15,R,12,Engine,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-monza,Italian Grand Prix,,,,,,23,31,,0.0,16,R,12,Clutch,,1988
+Zakspeed,zakspeed,German,,schneider,Bernd Schneider,German,10,1988-monza,Italian Grand Prix,,,,,,15,28,,0.0,17,R,12,Engine,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-monza,Italian Grand Prix,,,,,,18,27,,0.0,18,R,12,Chassis,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-monza,Italian Grand Prix,,,,,,16,25,,0.0,19,R,12,Engine,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-monza,Italian Grand Prix,,,,,,21,24,,0.0,20,R,12,Engine,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-monza,Italian Grand Prix,,,,,,25,17,,0.0,21,R,12,Radiator,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-monza,Italian Grand Prix,,,,,,14,15,,0.0,22,R,12,Engine,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-monza,Italian Grand Prix,,,,,,12,14,,0.0,23,R,12,Engine,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-monza,Italian Grand Prix,,,,,,19,12,,0.0,24,R,12,Gearbox,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-monza,Italian Grand Prix,,,,,,7,11,,0.0,25,R,12,Clutch,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-monza,Italian Grand Prix,,,,,,17,2,,0.0,26,R,12,Engine,,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-estoril,Portuguese Grand Prix,,,,,,1,70,5860958,9.0,1,1,13,Finished,1:37:40.958,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-estoril,Portuguese Grand Prix,,,,,,3,70,5870511,6.0,2,2,13,Finished,+9.553,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-estoril,Portuguese Grand Prix,,,,,,13,70,5905577,4.0,3,3,13,Finished,+44.619,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-estoril,Portuguese Grand Prix,,,,,,10,70,5928377,3.0,4,4,13,Finished,+1:07.419,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-estoril,Portuguese Grand Prix,,,,,,7,70,5932842,2.0,5,5,13,Finished,+1:11.884,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-estoril,Portuguese Grand Prix,,,,,,2,70,5939227,1.0,6,6,13,Finished,+1:18.269,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-estoril,Portuguese Grand Prix,,,,,,17,69,,0.0,7,7,13,+1 Lap,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-estoril,Portuguese Grand Prix,,,,,,19,68,,0.0,8,8,13,+2 Laps,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-estoril,Portuguese Grand Prix,,,,,,21,68,,0.0,9,9,13,+2 Laps,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-estoril,Portuguese Grand Prix,,,,,,23,68,,0.0,10,10,13,+2 Laps,,1988
+Coloni,coloni,Italian,,tarquini,Gabriele Tarquini,Italian,31,1988-estoril,Portuguese Grand Prix,,,,,,26,65,,0.0,11,11,13,+5 Laps,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-estoril,Portuguese Grand Prix,,,,,,25,63,,0.0,12,12,13,+7 Laps,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-estoril,Portuguese Grand Prix,,,,,,5,59,,0.0,13,R,13,Engine,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-estoril,Portuguese Grand Prix,,,,,,6,54,,0.0,14,R,13,Spun off,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-estoril,Portuguese Grand Prix,,,,,,22,53,,0.0,15,R,13,Overheating,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-estoril,Portuguese Grand Prix,,,,,,9,52,,0.0,16,R,13,Handling,,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-estoril,Portuguese Grand Prix,,,,,,4,35,,0.0,17,R,13,Spun off,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-estoril,Portuguese Grand Prix,,,,,,8,34,,0.0,18,R,13,Clutch,,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-estoril,Portuguese Grand Prix,,,,,,11,29,,0.0,19,R,13,Radiator,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-estoril,Portuguese Grand Prix,,,,,,14,27,,0.0,20,R,13,Engine,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-estoril,Portuguese Grand Prix,,,,,,15,20,,0.0,21,R,13,Alternator,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-estoril,Portuguese Grand Prix,,,,,,16,16,,0.0,22,R,13,Spun off,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-estoril,Portuguese Grand Prix,,,,,,12,11,,0.0,23,R,13,Halfshaft,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-estoril,Portuguese Grand Prix,,,,,,18,10,,0.0,24,R,13,Turbo,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-estoril,Portuguese Grand Prix,,,,,,20,7,,0.0,25,R,13,Engine,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-estoril,Portuguese Grand Prix,,,,,,24,4,,0.0,26,R,13,Engine,,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,2,72,6523851,9.0,1,1,14,Finished,1:48:43.851,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,3,72,6550083,6.0,2,2,14,Finished,+26.232,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,5,72,6559297,4.0,3,3,14,Finished,+35.446,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,1,72,6570561,3.0,4,4,14,Finished,+46.710,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,7,72,6571281,2.0,5,5,14,Finished,+47.430,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,8,72,6575664,1.0,6,6,14,Finished,+51.813,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,11,72,6599815,0.0,7,7,14,Finished,+1:15.964,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,9,72,6601160,0.0,8,8,14,Finished,+1:17.309,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,4,72,6601506,0.0,9,9,14,Finished,+1:17.655,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,18,71,,0.0,10,10,14,+1 Lap,,1988
+Larrousse,larrousse,French,,dalmas,Yannick Dalmas,French,29,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,16,71,,0.0,11,11,14,+1 Lap,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,24,70,,0.0,12,12,14,+2 Laps,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,26,70,,0.0,13,13,14,+2 Laps,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,12,69,,0.0,14,14,14,+3 Laps,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,21,62,,0.0,15,R,14,Wheel,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,25,60,,0.0,16,R,14,Chassis,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,6,45,,0.0,17,R,14,Engine,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,17,41,,0.0,18,R,14,Chassis,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,23,37,,0.0,19,R,14,Engine,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,13,16,,0.0,20,R,14,Engine,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,10,15,,0.0,21,R,14,Engine,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,20,15,,0.0,22,R,14,Gearbox,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,15,14,,0.0,23,R,14,Spun off,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,14,9,,0.0,24,R,14,Suspension,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,22,4,,0.0,25,R,14,Chassis,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-jerez-de-la-frontera,Spanish Grand Prix,,,,,,19,0,,0.0,26,R,14,Throttle,,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-suzuka,Japanese Grand Prix,,,,,,1,51,5606173,9.0,1,1,15,Finished,1:33:26.173,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-suzuka,Japanese Grand Prix,,,,,,2,51,5619536,6.0,2,2,15,Finished,+13.363,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-suzuka,Japanese Grand Prix,,,,,,10,51,5642282,4.0,3,3,15,Finished,+36.109,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-suzuka,Japanese Grand Prix,,,,,,3,51,5692887,3.0,4,4,15,Finished,+1:26.714,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-suzuka,Japanese Grand Prix,,,,,,12,51,5696776,2.0,5,5,15,Finished,+1:30.603,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-suzuka,Japanese Grand Prix,,,,,,11,51,5703788,1.0,6,6,15,Finished,+1:37.615,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-suzuka,Japanese Grand Prix,,,,,,6,50,,0.0,7,7,15,+1 Lap,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-suzuka,Japanese Grand Prix,,,,,,18,50,,0.0,8,8,15,+1 Lap,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-suzuka,Japanese Grand Prix,,,,,,19,50,,0.0,9,9,15,+1 Lap,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-suzuka,Japanese Grand Prix,,,,,,13,50,,0.0,10,10,15,+1 Lap,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-suzuka,Japanese Grand Prix,,,,,,9,50,,0.0,11,11,15,+1 Lap,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-suzuka,Japanese Grand Prix,,,,,,16,50,,0.0,12,12,15,+1 Lap,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-suzuka,Japanese Grand Prix,,,,,,17,49,,0.0,13,13,15,+2 Laps,,1988
+Tyrrell,tyrrell,British,,bailey,Julian Bailey,British,4,1988-suzuka,Japanese Grand Prix,,,,,,26,49,,0.0,14,14,15,+2 Laps,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-suzuka,Japanese Grand Prix,,,,,,22,49,,0.0,15,15,15,+2 Laps,,1988
+Larrousse,larrousse,French,,suzuki,Aguri Suzuki,Japanese,29,1988-suzuka,Japanese Grand Prix,,,,,,20,48,,0.0,16,16,15,+3 Laps,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-suzuka,Japanese Grand Prix,,,,,,23,48,,0.0,17,17,15,+3 Laps,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-suzuka,Japanese Grand Prix,,,,,,14,36,,0.0,18,R,15,Overheating,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-suzuka,Japanese Grand Prix,,,,,,15,35,,0.0,19,R,15,Ignition,,1988
+Osella,osella,Italian,,larini,Nicola Larini,Italian,21,1988-suzuka,Japanese Grand Prix,,,,,,24,34,,0.0,20,R,15,Brakes,,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-suzuka,Japanese Grand Prix,,,,,,5,34,,0.0,21,R,15,Driver unwell,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-suzuka,Japanese Grand Prix,,,,,,8,24,,0.0,22,R,15,Collision,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-suzuka,Japanese Grand Prix,,,,,,21,22,,0.0,23,R,15,Spun off,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-suzuka,Japanese Grand Prix,,,,,,4,19,,0.0,24,R,15,Electrical,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-suzuka,Japanese Grand Prix,,,,,,7,16,,0.0,25,R,15,Spun off,,1988
+Zakspeed,zakspeed,German,,schneider,Bernd Schneider,German,10,1988-suzuka,Japanese Grand Prix,,,,,,25,14,,0.0,26,R,15,Driver unwell,,1988
+McLaren,mclaren,British,,prost,Alain Prost,French,11,1988-adelaide,Australian Grand Prix,,,,,,2,82,6794676,9.0,1,1,16,Finished,1:53:14.676,1988
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,12,1988-adelaide,Australian Grand Prix,,,,,,1,82,6831063,6.0,2,2,16,Finished,+36.387,1988
+Team Lotus,team_lotus,British,,piquet,Nelson Piquet,Brazilian,1,1988-adelaide,Australian Grand Prix,,,,,,5,82,6842222,4.0,3,3,16,Finished,+47.546,1988
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1988-adelaide,Australian Grand Prix,,,,,,6,82,6874764,3.0,4,4,16,Finished,+1:20.088,1988
+Benetton,benetton,Italian,,boutsen,Thierry Boutsen,Belgian,20,1988-adelaide,Australian Grand Prix,,,,,,10,81,,2.0,5,5,16,+1 Lap,,1988
+March,march,British,,capelli,Ivan Capelli,Italian,16,1988-adelaide,Australian Grand Prix,,,,,,9,81,,1.0,6,6,16,+1 Lap,,1988
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1988-adelaide,Australian Grand Prix,,,,,,14,80,,0.0,7,7,16,+2 Laps,,1988
+Rial,rial,German,,cesaris,Andrea de Cesaris,Italian,22,1988-adelaide,Australian Grand Prix,,,,,,15,77,,0.0,8,8,16,Out of fuel,,1988
+Ligier,ligier,French,,johansson,Stefan Johansson,Swedish,26,1988-adelaide,Australian Grand Prix,,,,,,22,76,,0.0,9,9,16,Out of fuel,,1988
+Larrousse,larrousse,French,,alliot,Philippe Alliot,French,30,1988-adelaide,Australian Grand Prix,,,,,,24,75,,0.0,10,10,16,Out of fuel,,1988
+AGS,ags,French,,streiff,Philippe Streiff,French,14,1988-adelaide,Australian Grand Prix,,,,,,16,73,,0.0,11,11,16,Electrical,,1988
+Zakspeed,zakspeed,German,,ghinzani,Piercarlo Ghinzani,Italian,9,1988-adelaide,Australian Grand Prix,,,,,,26,69,,0.0,12,R,16,Fuel system,,1988
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1988-adelaide,Australian Grand Prix,,,,,,3,65,,0.0,13,R,16,Spun off,,1988
+Benetton,benetton,Italian,,nannini,Alessandro Nannini,Italian,19,1988-adelaide,Australian Grand Prix,,,,,,8,63,,0.0,14,R,16,Spun off,,1988
+Euro Brun,eurobrun,Italian,,modena,Stefano Modena,Italian,33,1988-adelaide,Australian Grand Prix,,,,,,20,63,,0.0,15,R,16,Halfshaft,,1988
+Arrows,arrows,British,,warwick,Derek Warwick,British,17,1988-adelaide,Australian Grand Prix,,,,,,7,52,,0.0,16,R,16,Engine,,1988
+Arrows,arrows,British,,cheever,Eddie Cheever,American,18,1988-adelaide,Australian Grand Prix,,,,,,18,51,,0.0,17,R,16,Engine,,1988
+March,march,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1988-adelaide,Australian Grand Prix,,,,,,19,46,,0.0,18,R,16,Collision,,1988
+Team Lotus,team_lotus,British,,satoru_nakajima,Satoru Nakajima,Japanese,2,1988-adelaide,Australian Grand Prix,,,,,,13,45,,0.0,19,R,16,Collision,,1988
+Minardi,minardi,Italian,,sala,Luis Pérez-Sala,Spanish,24,1988-adelaide,Australian Grand Prix,,,,,,21,41,,0.0,20,R,16,Engine,,1988
+Dallara,dallara,Italian,,caffi,Alex Caffi,Italian,36,1988-adelaide,Australian Grand Prix,,,,,,11,32,,0.0,21,R,16,Clutch,,1988
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1988-adelaide,Australian Grand Prix,,,,,,4,25,,0.0,22,R,16,Collision,,1988
+Ligier,ligier,French,,arnoux,René Arnoux,French,25,1988-adelaide,Australian Grand Prix,,,,,,23,24,,0.0,23,R,16,Collision,,1988
+Tyrrell,tyrrell,British,,palmer,Jonathan Palmer,British,3,1988-adelaide,Australian Grand Prix,,,,,,17,16,,0.0,24,R,16,Transmission,,1988
+Euro Brun,eurobrun,Italian,,larrauri,Oscar Larrauri,Argentine,32,1988-adelaide,Australian Grand Prix,,,,,,25,12,,0.0,25,R,16,Halfshaft,,1988
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1988-adelaide,Australian Grand Prix,,,,,,12,0,,0.0,26,R,16,Collision,,1988

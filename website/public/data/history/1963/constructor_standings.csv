@@ -1,0 +1,21 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Lotus-Climax,lotus-climax,British,https://en.wikipedia.org/wiki/Team_Lotus,54.0,1,1,7,1963
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,36.0,2,2,2,1963
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,28.0,3,3,0,1963
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,26.0,4,4,1,1963
+Cooper-Climax,cooper-climax,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,25.0,5,5,0,1963
+BRP,brp,British,https://en.wikipedia.org/wiki/British_Racing_Partnership,6.0,6,6,0,1963
+Porsche,porsche,German,https://en.wikipedia.org/wiki/Porsche_in_motorsport,5.0,7,7,0,1963
+Lotus-BRM,lotus-brm,British,https://en.wikipedia.org/wiki/Team_Lotus,4.0,8,8,0,1963
+Lola,lola,British,https://en.wikipedia.org/wiki/MasterCard_Lola,0.0,,-,0,1963
+Stebro,stebro,Canadian,https://en.wikipedia.org/wiki/Stebro,0.0,,-,0,1963
+Scirocco,scirocco,British,https://en.wikipedia.org/wiki/Scirocco-Powell,0.0,,-,0,1963
+ATS,ats,Italian,https://en.wikipedia.org/wiki/ATS_Wheels,0.0,,-,0,1963
+LDS,lds,South African,https://en.wikipedia.org/wiki/LDS_(automobile),0.0,,-,0,1963
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1963
+Lotus-Ford,lotus-ford,British,https://en.wikipedia.org/wiki/Team_Lotus,0.0,,-,0,1963
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,0.0,,-,0,1963
+Gilby,gilby,British,https://en.wikipedia.org/wiki/Gilby,0.0,,-,0,1963
+De Tomaso,tomaso,Italian,https://en.wikipedia.org/wiki/De_Tomaso,0.0,,-,0,1963
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,0.0,,-,0,1963
+Lotus-Maserati,lotus-maserati,British,https://en.wikipedia.org/wiki/Team_Lotus,0.0,,-,0,1963

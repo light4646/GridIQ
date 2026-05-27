@@ -1,0 +1,86 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",,fangio,Juan Fangio,Argentine,,30.0,1,1,3,1956
+"[""maserati""]","[""Maserati""]",,moss,Stirling Moss,British,,27.0,2,2,2,1956
+"[""ferrari""]","[""Ferrari""]",,collins,Peter Collins,British,,25.0,3,3,2,1956
+"[""maserati""]","[""Maserati""]",,behra,Jean Behra,French,,22.0,4,4,0,1956
+"[""watson""]","[""Watson""]",,flaherty,Pat Flaherty,American,,8.0,5,5,1,1956
+"[""ferrari""]","[""Ferrari""]",,castellotti,Eugenio Castellotti,Italian,,7.5,6,6,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,hanks,Sam Hanks,American,,6.0,7,7,0,1956
+"[""ferrari""]","[""Ferrari""]",,frere,Paul Frère,Belgian,,6.0,8,8,0,1956
+"[""maserati""]","[""Maserati""]",,godia,Paco Godia,Spanish,,6.0,9,9,0,1956
+"[""connaught""]","[""Connaught""]",,fairman,Jack Fairman,British,,5.0,10,10,0,1956
+"[""ferrari""]","[""Ferrari""]",,musso,Luigi Musso,Italian,,4.0,11,11,1,1956
+"[""maserati"", ""brm"", ""vanwall""]","[""Maserati"", ""BRM"", ""Vanwall""]",,hawthorn,Mike Hawthorn,British,,4.0,12,12,0,1956
+"[""brm"", ""connaught""]","[""BRM"", ""Connaught""]",,flockhart,Ron Flockhart,British,,4.0,13,13,0,1956
+"[""phillips""]","[""Phillips""]",,freeland,Don Freeland,American,,4.0,14,14,0,1956
+"[""ferrari""]","[""Ferrari""]",,portago,Alfonso de Portago,Spanish,,3.0,15,15,0,1956
+"[""maserati""]","[""Maserati""]",,perdisa,Cesare Perdisa,Italian,,3.0,16,16,0,1956
+"[""vanwall"", ""maserati""]","[""Vanwall"", ""Maserati""]",,schell,Harry Schell,American,,3.0,17,17,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,parsons,Johnnie Parsons,American,,3.0,18,18,0,1956
+"[""maserati""]","[""Maserati""]",,rosier,Louis Rosier,French,,2.0,19,19,0,1956
+"[""maserati""]","[""Maserati""]",,villoresi,Luigi Villoresi,Italian,,2.0,20,20,0,1956
+"[""maserati""]","[""Maserati""]",,gould,Horace Gould,British,,2.0,21,21,0,1956
+"[""gordini"", ""maserati""]","[""Gordini"", ""Maserati""]",,ramos,Hernando da Silva Ramos,Brazilian,,2.0,22,22,0,1956
+"[""ferrari""]","[""Ferrari""]",,gendebien,Olivier Gendebien,Belgian,,2.0,23,23,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,dick_rathmann,Dick Rathmann,American,,2.0,24,24,0,1956
+"[""maserati""]","[""Maserati""]",,gerini,Gerino Gerini,Italian,,1.5,25,25,0,1956
+"[""maserati""]","[""Maserati""]",,landi,Chico Landi,Brazilian,,1.5,26,26,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,paul_russo,Paul Russo,American,,1.0,27,27,0,1956
+"[""gordini"", ""ferrari""]","[""Gordini"", ""Ferrari""]",,andre_pilette,André Pilette,Belgian,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,piotti,Luigi Piotti,Italian,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,oscar_gonzalez,Óscar González,Uruguayan,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,uria,Alberto Uria,Uruguayan,,0.0,,-,0,1956
+"[""gordini""]","[""Gordini""]",,bayol,Élie Bayol,French,,0.0,,-,0,1956
+"[""kuzma""]","[""Kuzma""]",,sweikert,Bob Sweikert,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,veith,Bob Veith,American,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,graffenried,Toulo de Graffenried,Swiss,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,ward,Rodger Ward,American,,0.0,,-,0,1956
+"[""gordini""]","[""Gordini""]",,manzon,Robert Manzon,French,,0.0,,-,0,1956
+"[""maserati"", ""gordini""]","[""Maserati"", ""Gordini""]",,simon,André Simon,French,,0.0,,-,0,1956
+"[""lesovsky""]","[""Lesovsky""]",,reece,Jimmy Reece,American,,0.0,,-,0,1956
+"[""stevens""]","[""Stevens""]",,griffith,Cliff Griffith,American,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,salvadori,Roy Salvadori,British,,0.0,,-,0,1956
+"[""kuzma""]","[""Kuzma""]",,hartley,Gene Hartley,American,,0.0,,-,0,1956
+"[""cooper""]","[""Cooper""]",,gerard,Bob Gerard,British,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,agabashian,Fred Agabashian,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,christie,Bob Christie,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,keller,Al Keller,American,,0.0,,-,0,1956
+"[""kuzma""]","[""Kuzma""]",,johnson,Eddie Johnson,American,,0.0,,-,0,1956
+"[""kuzma""]","[""Kuzma""]",,garrett,Billy Garrett,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,dinsmore,Duke Dinsmore,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,connor,Pat O'Connor,American,,0.0,,-,0,1956
+"[""kuzma""]","[""Kuzma""]",,bryan,Jimmy Bryan,American,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,halford,Bruce Halford,British,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,volonterio,Ottorino Volonterio,Swiss,,0.0,,-,0,1956
+"[""gordini""]","[""Gordini""]",,milhoux,André Milhoux,Belgian,,0.0,,-,0,1956
+"[""vanwall"", ""bugatti""]","[""Vanwall"", ""Bugatti""]",,trintignant,Maurice Trintignant,French,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,menditeguy,Carlos Menditeguy,Argentine,,0.0,,-,0,1956
+"[""maserati"", ""vanwall""]","[""Maserati"", ""Vanwall""]",,gonzalez,José Froilán González,Argentine,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,maglioli,Umberto Maglioli,Italian,,0.0,,-,0,1956
+"[""connaught""]","[""Connaught""]",,scotti,Piero Scotti,Italian,,0.0,,-,0,1956
+"[""connaught""]","[""Connaught""]",,titterington,Desmond Titterington,British,,0.0,,-,0,1956
+"[""brm""]","[""BRM""]",,brooks,Tony Brooks,British,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,chiron,Louis Chiron,Monegasque,,0.0,,-,0,1956
+"[""vanwall""]","[""Vanwall""]",,taruffi,Piero Taruffi,Italian,,0.0,,-,0,1956
+"[""ferrari""]","[""Ferrari""]",,scarlatti,Giorgio Scarlatti,Italian,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,rathmann,Jim Rathmann,American,,0.0,,-,0,1956
+"[""vanwall""]","[""Vanwall""]",,chapman,Colin Chapman,British,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,bonnier,Jo Bonnier,Swedish,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,tolan,Johnnie Tolan,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,bettenhausen,Tony Bettenhausen,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,elisian,Ed Elisian,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,russo,Eddie Russo,American,,0.0,,-,0,1956
+"[""connaught""]","[""Connaught""]",,leston,Les Leston,British,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,daywalt,Jimmy Daywalt,American,,0.0,,-,0,1956
+"[""connaught""]","[""Connaught""]",,scott_Brown,Archie Scott Brown,British,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,turner,Jack Turner,American,,0.0,,-,0,1956
+"[""emeryson""]","[""Emeryson""]",,emery,Paul Emery,British,,0.0,,-,0,1956
+"[""ferrari""]","[""Ferrari""]",,trips,Wolfgang von Trips,German,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,andrews,Keith Andrews,American,,0.0,,-,0,1956
+"[""maserati""]","[""Maserati""]",,jack_brabham,Jack Brabham,Australian,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,linden,Andy Linden,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,herman,Al Herman,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,ray_crawford,Ray Crawford,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,boyd,Johnny Boyd,American,,0.0,,-,0,1956
+"[""kurtis_kraft""]","[""Kurtis Kraft""]",,ruttman,Troy Ruttman,American,,0.0,,-,0,1956
+"[""kuzma""]","[""Kuzma""]",,thomson,Johnny Thomson,American,,0.0,,-,0,1956

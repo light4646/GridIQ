@@ -1,0 +1,39 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""williams""]","[""Williams""]",,keke_rosberg,Keke Rosberg,Finnish,,44.0,1,1,1,1982
+"[""ferrari""]","[""Ferrari""]",,pironi,Didier Pironi,French,,39.0,2,2,2,1982
+"[""mclaren""]","[""McLaren""]",,watson,John Watson,British,,39.0,3,3,2,1982
+"[""renault""]","[""Renault""]",,prost,Alain Prost,French,,34.0,4,4,2,1982
+"[""mclaren""]","[""McLaren""]",,lauda,Niki Lauda,Austrian,,30.0,5,5,2,1982
+"[""renault""]","[""Renault""]",,arnoux,René Arnoux,French,,28.0,6,6,2,1982
+"[""ferrari""]","[""Ferrari""]",,tambay,Patrick Tambay,French,,25.0,7,7,1,1982
+"[""tyrrell""]","[""Tyrrell""]",,alboreto,Michele Alboreto,Italian,,25.0,8,8,1,1982
+"[""team_lotus""]","[""Team Lotus""]",,angelis,Elio de Angelis,Italian,,23.0,9,9,1,1982
+"[""brabham""]","[""Brabham""]",,patrese,Riccardo Patrese,Italian,,21.0,10,10,1,1982
+"[""brabham""]","[""Brabham""]",,piquet,Nelson Piquet,Brazilian,,20.0,11,11,1,1982
+"[""ligier""]","[""Ligier""]",,cheever,Eddie Cheever,American,,15.0,12,12,0,1982
+"[""theodore"", ""williams""]","[""Theodore"", ""Williams""]",,daly,Derek Daly,Irish,,8.0,13,13,0,1982
+"[""team_lotus""]","[""Team Lotus""]",,mansell,Nigel Mansell,British,,7.0,14,14,0,1982
+"[""ferrari""]","[""Ferrari""]",,gilles_villeneuve,Gilles Villeneuve,Canadian,,6.0,15,15,0,1982
+"[""williams""]","[""Williams""]",,reutemann,Carlos Reutemann,Argentine,,6.0,16,16,0,1982
+"[""alfa""]","[""Alfa Romeo""]",,cesaris,Andrea de Cesaris,Italian,,5.0,17,17,0,1982
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,5.0,18,18,0,1982
+"[""williams"", ""ferrari""]","[""Williams"", ""Ferrari""]",,mario_andretti,Mario Andretti,American,,4.0,19,19,0,1982
+"[""osella""]","[""Osella""]",,jarier,Jean-Pierre Jarier,French,,3.0,20,20,0,1982
+"[""arrows""]","[""Arrows""]",,surer,Marc Surer,Swiss,,3.0,21,21,0,1982
+"[""alfa""]","[""Alfa Romeo""]",,giacomelli,Bruno Giacomelli,Italian,,2.0,22,22,0,1982
+"[""ats""]","[""ATS""]",,salazar,Eliseo Salazar,Chilean,,2.0,23,23,0,1982
+"[""ats""]","[""ATS""]",,manfred_winkelhock,Manfred Winkelhock,German,,2.0,24,24,0,1982
+"[""arrows""]","[""Arrows""]",,baldi,Mauro Baldi,Italian,,2.0,25,25,0,1982
+"[""fittipaldi""]","[""Fittipaldi""]",,serra,Chico Serra,Brazilian,,1.0,26,26,0,1982
+"[""arrows"", ""tyrrell""]","[""Arrows"", ""Tyrrell""]",,henton,Brian Henton,British,,0.0,,-,0,1982
+"[""march""]","[""March""]",,mass,Jochen Mass,German,,0.0,,-,0,1982
+"[""tyrrell""]","[""Tyrrell""]",,borgudd,Slim Borgudd,Swedish,,0.0,,-,0,1982
+"[""march""]","[""March""]",,boesel,Raul Boesel,Brazilian,,0.0,,-,0,1982
+"[""ensign""]","[""Ensign""]",,guerrero,Roberto Guerrero,Colombian,,0.0,,-,0,1982
+"[""toleman""]","[""Toleman""]",,warwick,Derek Warwick,British,,0.0,,-,0,1982
+"[""march""]","[""March""]",,keegan,Rupert Keegan,British,,0.0,,-,0,1982
+"[""theodore"", ""team_lotus""]","[""Theodore"", ""Team Lotus""]",,lees,Geoff Lees,British,,0.0,,-,0,1982
+"[""toleman""]","[""Toleman""]",,fabi,Teo Fabi,Italian,,0.0,,-,0,1982
+"[""osella""]","[""Osella""]",,paletti,Riccardo Paletti,Italian,,0.0,,-,0,1982
+"[""theodore""]","[""Theodore""]",,byrne,Tommy Byrne,Irish,,0.0,,-,0,1982
+"[""theodore""]","[""Theodore""]",,lammers,Jan Lammers,Dutch,,0.0,,-,0,1982

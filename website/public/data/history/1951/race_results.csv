@@ -1,0 +1,180 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,24,1951-bern,Swiss Grand Prix,,,,,,1,42,7673640,9.0,1,1,1,Finished,2:07:53.640,1951
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,44,1951-bern,Swiss Grand Prix,,,,,,6,42,7728880,6.0,2,2,1,Finished,+55.240,1951
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,22,1951-bern,Swiss Grand Prix,,,,,,2,42,7752950,4.0,3,3,1,Finished,+1:19.310,1951
+Alfa Romeo,alfa,Swiss,,sanesi,Consalvo Sanesi,Italian,28,1951-bern,Swiss Grand Prix,,,,,,4,41,,3.0,4,4,1,+1 Lap,,1951
+Alfa Romeo,alfa,Swiss,,graffenried,Toulo de Graffenried,Swiss,26,1951-bern,Swiss Grand Prix,,,,,,5,40,,2.0,5,5,1,+2 Laps,,1951
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,20,1951-bern,Swiss Grand Prix,,,,,,7,40,,0.0,6,6,1,+2 Laps,,1951
+Maserati,maserati,Italian,,chiron,Louis Chiron,Monegasque,30,1951-bern,Swiss Grand Prix,,,,,,19,40,,0.0,7,7,1,+2 Laps,,1951
+HWM,hwm,British,,moss,Stirling Moss,British,14,1951-bern,Swiss Grand Prix,,,,,,14,40,,0.0,8,8,1,+2 Laps,,1951
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,8,1951-bern,Swiss Grand Prix,,,,,,8,39,,0.0,9,9,1,+3 Laps,,1951
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,4,1951-bern,Swiss Grand Prix,,,,,,12,39,,0.0,10,10,1,+3 Laps,,1951
+Ferrari,ferrari,Italian,,fischer,Rudi Fischer,Swiss,38,1951-bern,Swiss Grand Prix,,,,,,10,39,,0.0,11,11,1,+3 Laps,,1951
+Maserati,maserati,Italian,,schell,Harry Schell,American,32,1951-bern,Swiss Grand Prix,,,,,,17,38,,0.0,12,12,1,+4 Laps,,1951
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,2,1951-bern,Swiss Grand Prix,,,,,,18,35,,0.0,13,13,1,+7 Laps,,1951
+Talbot-Lago,lago,French,,guy_mairesse,Guy Mairesse,French,40,1951-bern,Swiss Grand Prix,,,,,,21,31,,0.0,14,14,1,+11 Laps,,1951
+Ferrari,ferrari,Italian,,whitehead,Peter Whitehead,British,16,1951-bern,Swiss Grand Prix,,,,,,9,36,,0.0,15,R,1,Accident,,1951
+Talbot-Lago,lago,French,,louveau,Henri Louveau,French,10,1951-bern,Swiss Grand Prix,,,,,,11,30,,0.0,16,R,1,Accident,,1951
+HWM,hwm,British,,abecassis,George Abecassis,British,12,1951-bern,Swiss Grand Prix,,,,,,20,23,,0.0,17,R,1,Magneto,,1951
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,6,1951-bern,Swiss Grand Prix,,,,,,15,14,,0.0,18,R,1,Ignition,,1951
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,18,1951-bern,Swiss Grand Prix,,,,,,3,12,,0.0,19,R,1,Accident,,1951
+Talbot-Lago,lago,French,,gonzalez,José Froilán González,Argentine,42,1951-bern,Swiss Grand Prix,,,,,,13,10,,0.0,20,R,1,Oil pump,,1951
+Veritas,veritas,German,,hirt,Peter Hirt,Swiss,52,1951-bern,Swiss Grand Prix,,,,,,16,0,,0.0,21,R,1,Fuel system,,1951
+Kurtis Kraft,kurtis_kraft,American,,wallard,Lee Wallard,American,99,1951-indianapolis,Indianapolis 500,,,,,,2,200,14258050,9.0,1,1,2,Finished,3:57:38.050,1951
+Kurtis Kraft,kurtis_kraft,American,,nazaruk,Mike Nazaruk,American,83,1951-indianapolis,Indianapolis 500,,,,,,7,200,14365290,6.0,2,2,2,Finished,+1:47.240,1951
+Kurtis Kraft,kurtis_kraft,American,,mcgrath,Jack McGrath,American,9,1951-indianapolis,Indianapolis 500,,,,,,3,200,14429440,2.0,3,3,2,Finished,+2:51.390,1951
+Kurtis Kraft,kurtis_kraft,American,,ayulo,Manny Ayulo,American,9,1951-indianapolis,Indianapolis 500,,,,,,3,200,14429440,2.0,3,3,2,Finished,+2:51.390,1951
+Sherman,sherman,American,,linden,Andy Linden,American,57,1951-indianapolis,Indianapolis 500,,,,,,31,200,14538170,3.0,4,4,2,Finished,+4:40.120,1951
+Schroeder,schroeder,American,,ball,Bobby Ball,American,52,1951-indianapolis,Indianapolis 500,,,,,,29,200,14550280,2.0,5,5,2,Finished,+4:52.230,1951
+Moore,moore,American,,banks,Henry Banks,American,1,1951-indianapolis,Indianapolis 500,,,,,,17,200,14598070,0.0,6,6,2,Finished,+5:40.020,1951
+Kurtis Kraft,kurtis_kraft,American,,forberg,Carl Forberg,American,68,1951-indianapolis,Indianapolis 500,,,,,,24,193,,0.0,7,7,2,+7 Laps,,1951
+Deidt,deidt,American,,darter,Duane Carter,American,27,1951-indianapolis,Indianapolis 500,,,,,,4,180,,0.0,8,8,2,+20 Laps,,1951
+Deidt,deidt,American,,bettenhausen,Tony Bettenhausen,American,5,1951-indianapolis,Indianapolis 500,,,,,,9,178,,0.0,9,R,2,Spun off,,1951
+Kurtis Kraft,kurtis_kraft,American,,nalon,Duke Nalon,American,18,1951-indianapolis,Indianapolis 500,,,,,,1,151,,0.0,10,R,2,Retired,,1951
+Kurtis Kraft,kurtis_kraft,American,,force,Gene Force,American,69,1951-indianapolis,Indianapolis 500,,,,,,22,142,,0.0,11,R,2,Engine,,1951
+Kurtis Kraft,kurtis_kraft,American,,hanks,Sam Hanks,American,25,1951-indianapolis,Indianapolis 500,,,,,,12,135,,0.0,12,R,2,Engine,,1951
+Kurtis Kraft,kurtis_kraft,American,,schindler,Bill Schindler,American,10,1951-indianapolis,Indianapolis 500,,,,,,16,129,,0.0,13,R,2,Engine,,1951
+Deidt,deidt,American,,rose,Mauri Rose,American,16,1951-indianapolis,Indianapolis 500,,,,,,5,126,,0.0,14,R,2,Accident,,1951
+Kuzma,kuzma,American,,faulkner,Walt Faulkner,American,2,1951-indianapolis,Indianapolis 500,,,,,,14,123,,0.0,15,R,2,Engine,,1951
+Pawl,pawl,American,,davies,Jimmy Davies,American,76,1951-indianapolis,Indianapolis 500,,,,,,27,110,,0.0,16,R,2,Axle,,1951
+Kurtis Kraft,kurtis_kraft,American,,agabashian,Fred Agabashian,American,59,1951-indianapolis,Indianapolis 500,,,,,,11,109,,0.0,17,R,2,Clutch,,1951
+Kurtis Kraft,kurtis_kraft,American,,scarborough,Carl Scarborough,American,73,1951-indianapolis,Indianapolis 500,,,,,,15,93,,0.0,18,R,2,Heat shield fire,,1951
+Hall,hall,American,,mackey,Bill Mackey,American,71,1951-indianapolis,Indianapolis 500,,,,,,33,97,,0.0,19,R,2,Clutch,,1951
+Marchese,marchese,American,,stevenson,Chuck Stevenson,American,8,1951-indianapolis,Indianapolis 500,,,,,,19,93,,0.0,20,R,2,Heat shield fire,,1951
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,3,1951-indianapolis,Indianapolis 500,,,,,,8,87,,0.0,21,R,2,Magneto,,1951
+Kurtis Kraft,kurtis_kraft,American,,green,Cecil Green,American,4,1951-indianapolis,Indianapolis 500,,,,,,10,80,,0.0,22,R,2,Engine,,1951
+Kurtis Kraft,kurtis_kraft,American,,ruttman,Troy Ruttman,American,98,1951-indianapolis,Indianapolis 500,,,,,,6,78,,0.0,23,R,2,Engine,,1951
+Schroeder,schroeder,American,,dinsmore,Duke Dinsmore,American,6,1951-indianapolis,Indianapolis 500,,,,,,32,73,,0.0,24,R,2,Overheating,,1951
+Kurtis Kraft,kurtis_kraft,American,,miller,Chet Miller,American,32,1951-indianapolis,Indianapolis 500,,,,,,28,56,,0.0,25,R,2,Ignition,,1951
+Kurtis Kraft,kurtis_kraft,American,,walt_brown,Walt Brown,American,44,1951-indianapolis,Indianapolis 500,,,,,,13,55,,0.0,26,R,2,Magneto,,1951
+Bromme,bromme,American,,ward,Rodger Ward,American,48,1951-indianapolis,Indianapolis 500,,,,,,25,34,,0.0,27,R,2,Oil pipe,,1951
+Kurtis Kraft,kurtis_kraft,American,,griffith,Cliff Griffith,American,23,1951-indianapolis,Indianapolis 500,,,,,,18,30,,0.0,28,R,2,Axle,,1951
+Trevis,trevis,American,,vukovich,Bill Vukovich,American,81,1951-indianapolis,Indianapolis 500,,,,,,20,29,,0.0,29,R,2,Oil leak,,1951
+Lesovsky,lesovsky,American,,george_connor,George Connor,American,22,1951-indianapolis,Indianapolis 500,,,,,,21,29,,0.0,30,R,2,Transmission,,1951
+Deidt,deidt,American,,hellings,Mack Hellings,American,19,1951-indianapolis,Indianapolis 500,,,,,,23,18,,0.0,31,R,2,Engine,,1951
+Maserati,maserati,Italian,,mcdowell,Johnny McDowell,American,12,1951-indianapolis,Indianapolis 500,,,,,,26,15,,0.0,32,R,2,Fuel leak,,1951
+Watson,watson,American,,james,Joe James,American,26,1951-indianapolis,Indianapolis 500,,,,,,30,8,,0.0,33,R,2,Transmission,,1951
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,4,1951-spa,Belgian Grand Prix,,,,,,2,36,9946200,8.0,1,1,3,Finished,2:45:46.200,1951
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,8,1951-spa,Belgian Grand Prix,,,,,,4,36,10117200,6.0,2,2,3,Finished,+2:51.000,1951
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,10,1951-spa,Belgian Grand Prix,,,,,,3,36,10208100,4.0,3,3,3,Finished,+4:21.900,1951
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,14,1951-spa,Belgian Grand Prix,,,,,,7,34,,3.0,4,4,3,+2 Laps,,1951
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,22,1951-spa,Belgian Grand Prix,,,,,,8,34,,2.0,5,5,3,+2 Laps,,1951
+Talbot-Lago,lago,French,,andre_pilette,André Pilette,Belgian,24,1951-spa,Belgian Grand Prix,,,,,,12,33,,0.0,6,6,3,+3 Laps,,1951
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,16,1951-spa,Belgian Grand Prix,,,,,,11,33,,0.0,7,7,3,+3 Laps,,1951
+Talbot-Lago,lago,French,,levegh,Pierre Levegh,French,26,1951-spa,Belgian Grand Prix,,,,,,13,32,,0.0,8,8,3,+4 Laps,,1951
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,2,1951-spa,Belgian Grand Prix,,,,,,1,32,,1.0,9,9,3,+4 Laps,,1951
+Talbot-Lago,lago,French,,chiron,Louis Chiron,Monegasque,18,1951-spa,Belgian Grand Prix,,,,,,9,28,,0.0,10,R,3,Engine,,1951
+Alfa Romeo,alfa,Swiss,,sanesi,Consalvo Sanesi,Italian,6,1951-spa,Belgian Grand Prix,,,,,,6,11,,0.0,11,R,3,Radiator,,1951
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,12,1951-spa,Belgian Grand Prix,,,,,,5,8,,0.0,12,R,3,Transmission,,1951
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,20,1951-spa,Belgian Grand Prix,,,,,,10,0,,0.0,13,R,3,Transmission,,1951
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,8,1951-reims,French Grand Prix,,,,,,7,77,12131000,5.0,1,1,4,Finished,3:22,1951
+Alfa Romeo,alfa,Swiss,,fagioli,Luigi Fagioli,Italian,8,1951-reims,French Grand Prix,,,,,,7,77,12131000,4.0,1,1,4,Finished,3:22,1951
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,14,1951-reims,French Grand Prix,,,,,,6,77,12189200,3.0,2,2,4,Finished,+58.200,1951
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,14,1951-reims,French Grand Prix,,,,,,6,77,12189200,3.0,2,2,4,Finished,+58.200,1951
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,10,1951-reims,French Grand Prix,,,,,,4,74,,4.0,3,3,4,+3 Laps,,1951
+Ferrari,ferrari,Italian,,reg_parnell,Reg Parnell,British,26,1951-reims,French Grand Prix,,,,,,9,73,,3.0,4,4,4,+4 Laps,,1951
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,2,1951-reims,French Grand Prix,,,,,,2,73,,2.0,5,5,4,+4 Laps,,1951
+Talbot-Lago,lago,French,,chiron,Louis Chiron,Monegasque,42,1951-reims,French Grand Prix,,,,,,8,71,,0.0,6,6,4,+6 Laps,,1951
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,46,1951-reims,French Grand Prix,,,,,,11,71,,0.0,7,7,4,+6 Laps,,1951
+Talbot-Lago,lago,French,,chaboud,Eugène Chaboud,French,44,1951-reims,French Grand Prix,,,,,,14,69,,0.0,8,8,4,+8 Laps,,1951
+Talbot-Lago,lago,French,,guy_mairesse,Guy Mairesse,French,48,1951-reims,French Grand Prix,,,,,,19,66,,0.0,9,9,4,+11 Laps,,1951
+Alfa Romeo,alfa,Swiss,,sanesi,Consalvo Sanesi,Italian,6,1951-reims,French Grand Prix,,,,,,5,58,,0.0,10,10,4,+19 Laps,,1951
+Alfa Romeo,alfa,Swiss,,fagioli,Luigi Fagioli,Italian,24,1951-reims,French Grand Prix,,,,,,1,55,,0.0,11,11,4,+22 Laps,,1951
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,24,1951-reims,French Grand Prix,,,,,,1,55,,0.0,11,11,4,+22 Laps,,1951
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,28,1951-reims,French Grand Prix,,,,,,12,54,,0.0,12,R,4,Accident,,1951
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,40,1951-reims,French Grand Prix,,,,,,13,43,,0.0,13,R,4,Transmission,,1951
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,38,1951-reims,French Grand Prix,,,,,,10,37,,0.0,14,R,4,Engine,,1951
+Simca,simca,French,,gordini,Aldo Gordini,French,36,1951-reims,French Grand Prix,,,,,,17,27,,0.0,15,R,4,Engine,,1951
+Maserati,maserati,Italian,,schell,Harry Schell,American,20,1951-reims,French Grand Prix,,,,,,22,23,,0.0,16,R,4,Overheating,,1951
+Simca,simca,French,,trintignant,Maurice Trintignant,French,32,1951-reims,French Grand Prix,,,,,,18,11,,0.0,17,R,4,Engine,,1951
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,12,1951-reims,French Grand Prix,,,,,,3,10,,0.0,18,R,4,Gearbox,,1951
+Simca,simca,French,,simon,André Simon,French,34,1951-reims,French Grand Prix,,,,,,21,7,,0.0,19,R,4,Engine,,1951
+Simca,simca,French,,manzon,Robert Manzon,French,30,1951-reims,French Grand Prix,,,,,,23,3,,0.0,20,R,4,Engine,,1951
+Maserati,maserati,Italian,,marimon,Onofre Marimón,Argentine,50,1951-reims,French Grand Prix,,,,,,15,2,,0.0,21,R,4,Engine,,1951
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,18,1951-reims,French Grand Prix,,,,,,16,1,,0.0,22,R,4,Transmission,,1951
+Ferrari,ferrari,Italian,,whitehead,Peter Whitehead,British,24,1951-reims,French Grand Prix,,,,,,20,1,,0.0,23,R,4,Engine,,1951
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,12,1951-silverstone,British Grand Prix,,,,,,1,90,9738200,8.0,1,1,5,Finished,2:42:18.200,1951
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,2,1951-silverstone,British Grand Prix,,,,,,2,90,9789200,6.0,2,2,5,Finished,+51.000,1951
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,10,1951-silverstone,British Grand Prix,,,,,,5,88,,4.0,3,3,5,+2 Laps,,1951
+Alfa Romeo,alfa,Swiss,,bonetto,Felice Bonetto,Italian,4,1951-silverstone,British Grand Prix,,,,,,7,87,,3.0,4,4,5,+3 Laps,,1951
+BRM,brm,British,,reg_parnell,Reg Parnell,British,6,1951-silverstone,British Grand Prix,,,,,,20,85,,2.0,5,5,5,+5 Laps,,1951
+Alfa Romeo,alfa,Swiss,,sanesi,Consalvo Sanesi,Italian,3,1951-silverstone,British Grand Prix,,,,,,6,84,,0.0,6,6,5,+6 Laps,,1951
+BRM,brm,British,,peter_walker,Peter Walker,British,7,1951-silverstone,British Grand Prix,,,,,,19,84,,0.0,7,7,5,+6 Laps,,1951
+ERA,era,British,,shawe_taylor,Brian Shawe Taylor,British,9,1951-silverstone,British Grand Prix,,,,,,12,84,,0.0,8,8,5,+6 Laps,,1951
+Ferrari,ferrari,Italian,,whitehead,Peter Whitehead,British,14,1951-silverstone,British Grand Prix,,,,,,8,83,,0.0,9,9,5,+7 Laps,,1951
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,22,1951-silverstone,British Grand Prix,,,,,,9,83,,0.0,10,10,5,+7 Laps,,1951
+ERA,era,British,,gerard,Bob Gerard,British,8,1951-silverstone,British Grand Prix,,,,,,10,82,,0.0,11,11,5,+8 Laps,,1951
+Talbot-Lago,lago,French,,duncan_hamilton,Duncan Hamilton,British,18,1951-silverstone,British Grand Prix,,,,,,11,81,,0.0,12,12,5,+9 Laps,,1951
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,25,1951-silverstone,British Grand Prix,,,,,,14,80,,0.0,13,13,5,+10 Laps,,1951
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,1,1951-silverstone,British Grand Prix,,,,,,3,75,,1.0,14,R,5,Clutch,,1951
+Alta,alta,British,,kelly,Joe Kelly,Irish,5,1951-silverstone,British Grand Prix,,,,,,18,75,,0.0,15,R,5,Not classified,,1951
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,11,1951-silverstone,British Grand Prix,,,,,,4,56,,0.0,16,R,5,Gearbox,,1951
+Maserati,maserati,Italian,,parker,Philip Fotheringham-Parker,British,17,1951-silverstone,British Grand Prix,,,,,,16,46,,0.0,17,R,5,Oil leak,,1951
+Maserati,maserati,Italian,,murray,David Murray,British,15,1951-silverstone,British Grand Prix,,,,,,15,45,,0.0,18,R,5,Engine,,1951
+Talbot-Lago,lago,French,,chiron,Louis Chiron,Monegasque,23,1951-silverstone,British Grand Prix,,,,,,13,41,,0.0,19,R,5,Brakes,,1951
+Maserati,maserati,Italian,,john_james,John James,British,16,1951-silverstone,British Grand Prix,,,,,,17,23,,0.0,20,R,5,Radiator,,1951
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,71,1951-n-rburg,German Grand Prix,,,,,,1,20,12183300,8.0,1,1,6,Finished,3:23:03.300,1951
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,75,1951-n-rburg,German Grand Prix,,,,,,3,20,12213800,7.0,2,2,6,Finished,+30.500,1951
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,74,1951-n-rburg,German Grand Prix,,,,,,2,20,12462300,4.0,3,3,6,Finished,+4:39.000,1951
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,72,1951-n-rburg,German Grand Prix,,,,,,5,20,12533500,3.0,4,4,6,Finished,+5:50.200,1951
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,73,1951-n-rburg,German Grand Prix,,,,,,6,20,12652400,2.0,5,5,6,Finished,+7:49.100,1951
+Ferrari,ferrari,Italian,,fischer,Rudi Fischer,Swiss,91,1951-n-rburg,German Grand Prix,,,,,,8,19,,0.0,6,6,6,+1 Lap,,1951
+Simca,simca,French,,manzon,Robert Manzon,French,82,1951-n-rburg,German Grand Prix,,,,,,9,19,,0.0,7,7,6,+1 Lap,,1951
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,84,1951-n-rburg,German Grand Prix,,,,,,15,19,,0.0,8,8,6,+1 Lap,,1951
+Talbot-Lago,lago,French,,levegh,Pierre Levegh,French,90,1951-n-rburg,German Grand Prix,,,,,,19,18,,0.0,9,9,6,+2 Laps,,1951
+Talbot-Lago,lago,French,,swaters,Jacques Swaters,American,93,1951-n-rburg,German Grand Prix,,,,,,22,18,,0.0,10,10,6,+2 Laps,,1951
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,94,1951-n-rburg,German Grand Prix,,,,,,18,17,,0.0,11,11,6,+3 Laps,,1951
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,87,1951-n-rburg,German Grand Prix,,,,,,11,17,,0.0,12,R,6,Accident,,1951
+Simca,simca,French,,trintignant,Maurice Trintignant,French,81,1951-n-rburg,German Grand Prix,,,,,,14,13,,0.0,13,R,6,Engine,,1951
+Alfa Romeo,alfa,Swiss,,bonetto,Felice Bonetto,Italian,77,1951-n-rburg,German Grand Prix,,,,,,10,12,,0.0,14,R,6,Magneto,,1951
+Talbot-Lago,lago,French,,duncan_hamilton,Duncan Hamilton,British,88,1951-n-rburg,German Grand Prix,,,,,,20,12,,0.0,15,R,6,Oil pressure,,1951
+Alfa Romeo,alfa,Swiss,,pietsch,Paul Pietsch,German,78,1951-n-rburg,German Grand Prix,,,,,,7,11,,0.0,16,R,6,Accident,,1951
+Simca,simca,French,,simon,André Simon,French,83,1951-n-rburg,German Grand Prix,,,,,,12,11,,0.0,17,R,6,Engine,,1951
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,76,1951-n-rburg,German Grand Prix,,,,,,4,8,,0.0,18,R,6,Overheating,,1951
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,86,1951-n-rburg,German Grand Prix,,,,,,21,4,,0.0,19,R,6,Gearbox,,1951
+Talbot-Lago,lago,French,,chiron,Louis Chiron,Monegasque,85,1951-n-rburg,German Grand Prix,,,,,,13,3,,0.0,20,R,6,Ignition,,1951
+Maserati,maserati,Italian,,branca,Toni Branca,Swiss,92,1951-n-rburg,German Grand Prix,,,,,,17,3,,0.0,21,R,6,Engine,,1951
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,79,1951-n-rburg,German Grand Prix,,,,,,16,2,,0.0,22,R,6,Engine,,1951
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,2,1951-monza,Italian Grand Prix,,,,,,3,80,9759300,8.0,1,1,7,Finished,2:42:39.300,1951
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,6,1951-monza,Italian Grand Prix,,,,,,4,80,9783900,6.0,2,2,7,Finished,+24.600,1951
+Alfa Romeo,alfa,Swiss,,bonetto,Felice Bonetto,Italian,40,1951-monza,Italian Grand Prix,,,,,,7,79,,2.0,3,3,7,+1 Lap,,1951
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,40,1951-monza,Italian Grand Prix,,,,,,7,79,,3.0,3,3,7,+1 Lap,,1951
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,4,1951-monza,Italian Grand Prix,,,,,,5,79,,3.0,4,4,7,+1 Lap,,1951
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,8,1951-monza,Italian Grand Prix,,,,,,6,78,,2.0,5,5,7,+2 Laps,,1951
+Simca,simca,French,,simon,André Simon,French,48,1951-monza,Italian Grand Prix,,,,,,11,74,,0.0,6,6,7,+6 Laps,,1951
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,18,1951-monza,Italian Grand Prix,,,,,,15,73,,0.0,7,7,7,+7 Laps,,1951
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,24,1951-monza,Italian Grand Prix,,,,,,14,72,,0.0,8,8,7,+8 Laps,,1951
+OSCA,osca,Italian,,rol,Franco Rol,Italian,44,1951-monza,Italian Grand Prix,,,,,,18,67,,0.0,9,9,7,+13 Laps,,1951
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,38,1951-monza,Italian Grand Prix,,,,,,1,39,,0.0,10,R,7,Engine,,1951
+Simca,simca,French,,trintignant,Maurice Trintignant,French,50,1951-monza,Italian Grand Prix,,,,,,12,29,,0.0,11,R,7,Engine,,1951
+Simca,simca,French,,manzon,Robert Manzon,French,46,1951-monza,Italian Grand Prix,,,,,,13,29,,0.0,12,R,7,Engine,,1951
+Talbot-Lago,lago,French,,chiron,Louis Chiron,Monegasque,20,1951-monza,Italian Grand Prix,,,,,,17,23,,0.0,13,R,7,Ignition,,1951
+Talbot-Lago,lago,French,,levegh,Pierre Levegh,French,22,1951-monza,Italian Grand Prix,,,,,,20,9,,0.0,14,R,7,Engine,,1951
+Talbot-Lago,lago,French,,swaters,Jacques Swaters,American,28,1951-monza,Italian Grand Prix,,,,,,22,7,,0.0,15,R,7,Overheating,,1951
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,34,1951-monza,Italian Grand Prix,,,,,,2,6,,0.0,16,R,7,Engine,,1951
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,26,1951-monza,Italian Grand Prix,,,,,,21,4,,0.0,17,R,7,Oil pump,,1951
+Alfa Romeo,alfa,Swiss,,graffenried,Toulo de Graffenried,Swiss,36,1951-monza,Italian Grand Prix,,,,,,9,1,,0.0,18,R,7,Supercharger,,1951
+Ferrari,ferrari,Italian,,whitehead,Peter Whitehead,British,16,1951-monza,Italian Grand Prix,,,,,,19,1,,0.0,19,R,7,Magneto,,1951
+Ferrari,ferrari,Italian,,landi,Chico Landi,Brazilian,12,1951-monza,Italian Grand Prix,,,,,,16,0,,0.0,20,R,7,Transmission,,1951
+BRM,brm,British,,reg_parnell,Reg Parnell,British,30,1951-monza,Italian Grand Prix,,,,,,8,0,,0.0,21,W,7,Withdrew,,1951
+BRM,brm,British,,richardson,Ken Richardson,British,32,1951-monza,Italian Grand Prix,,,,,,10,0,,0.0,22,W,7,Withdrew,,1951
+Alfa Romeo,alfa,Swiss,,fangio,Juan Fangio,Argentine,22,1951-barcelona,Spanish Grand Prix,,,,,,2,70,10014100,9.0,1,1,8,Finished,2:46:54.100,1951
+Ferrari,ferrari,Italian,,gonzalez,José Froilán González,Argentine,6,1951-barcelona,Spanish Grand Prix,,,,,,3,70,10068380,6.0,2,2,8,Finished,+54.280,1951
+Alfa Romeo,alfa,Swiss,,farina,Nino Farina,Italian,20,1951-barcelona,Spanish Grand Prix,,,,,,4,70,10119640,4.0,3,3,8,Finished,+1:45.540,1951
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,2,1951-barcelona,Spanish Grand Prix,,,,,,1,68,,3.0,4,4,8,+2 Laps,,1951
+Alfa Romeo,alfa,Swiss,,bonetto,Felice Bonetto,Italian,24,1951-barcelona,Spanish Grand Prix,,,,,,8,68,,2.0,5,5,8,+2 Laps,,1951
+Alfa Romeo,alfa,Swiss,,graffenried,Toulo de Graffenried,Swiss,26,1951-barcelona,Spanish Grand Prix,,,,,,6,66,,0.0,6,6,8,+4 Laps,,1951
+Talbot-Lago,lago,French,,rosier,Louis Rosier,French,28,1951-barcelona,Spanish Grand Prix,,,,,,20,64,,0.0,7,7,8,+6 Laps,,1951
+Talbot-Lago,lago,French,,etancelin,Philippe Étancelin,French,34,1951-barcelona,Spanish Grand Prix,,,,,,13,63,,0.0,8,8,8,+7 Laps,,1951
+Simca,simca,French,,manzon,Robert Manzon,French,14,1951-barcelona,Spanish Grand Prix,,,,,,9,63,,0.0,9,9,8,+7 Laps,,1951
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,44,1951-barcelona,Spanish Grand Prix,,,,,,17,60,,0.0,10,10,8,+10 Laps,,1951
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,4,1951-barcelona,Spanish Grand Prix,,,,,,5,48,,0.0,11,R,8,Ignition,,1951
+Simca,simca,French,,simon,André Simon,French,16,1951-barcelona,Spanish Grand Prix,,,,,,10,48,,0.0,12,R,8,Engine,,1951
+Talbot-Lago,lago,French,,claes,Johnny Claes,Belgian,36,1951-barcelona,Spanish Grand Prix,,,,,,15,37,,0.0,13,R,8,Accident,,1951
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,8,1951-barcelona,Spanish Grand Prix,,,,,,7,30,,0.0,14,R,8,Wheel,,1951
+Simca,simca,French,,trintignant,Maurice Trintignant,French,12,1951-barcelona,Spanish Grand Prix,,,,,,11,25,,0.0,15,R,8,Engine,,1951
+Talbot-Lago,lago,French,,grignard,Georges Grignard,French,38,1951-barcelona,Spanish Grand Prix,,,,,,16,23,,0.0,16,R,8,Engine,,1951
+Talbot-Lago,lago,French,,cabantous,Yves Cabantous,French,32,1951-barcelona,Spanish Grand Prix,,,,,,14,7,,0.0,17,R,8,Accident,,1951
+Talbot-Lago,lago,French,,chiron,Louis Chiron,Monegasque,30,1951-barcelona,Spanish Grand Prix,,,,,,12,4,,0.0,18,R,8,Ignition,,1951
+Maserati,maserati,Italian,,bira,Prince Bira,Thai,18,1951-barcelona,Spanish Grand Prix,,,,,,19,1,,0.0,19,R,8,Engine,,1951
+Maserati,maserati,Italian,,jover,Juan Jover,Spanish,46,1951-barcelona,Spanish Grand Prix,,,,,,18,0,,0.0,20,W,8,Engine,,1951

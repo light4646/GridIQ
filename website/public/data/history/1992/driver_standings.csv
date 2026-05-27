@@ -1,0 +1,37 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""williams""]","[""Williams""]",,mansell,Nigel Mansell,British,,108.0,1,1,9,1992
+"[""williams""]","[""Williams""]",,patrese,Riccardo Patrese,Italian,,56.0,2,2,1,1992
+"[""benetton""]","[""Benetton""]",MSC,michael_schumacher,Michael Schumacher,German,,53.0,3,3,1,1992
+"[""mclaren""]","[""McLaren""]",,senna,Ayrton Senna,Brazilian,,50.0,4,4,3,1992
+"[""mclaren""]","[""McLaren""]",,berger,Gerhard Berger,Austrian,,49.0,5,5,2,1992
+"[""benetton""]","[""Benetton""]",,brundle,Martin Brundle,British,,38.0,6,6,0,1992
+"[""ferrari""]","[""Ferrari""]",,alesi,Jean Alesi,French,,18.0,7,7,0,1992
+"[""team_lotus""]","[""Team Lotus""]",,hakkinen,Mika Häkkinen,Finnish,,11.0,8,8,0,1992
+"[""tyrrell""]","[""Tyrrell""]",,cesaris,Andrea de Cesaris,Italian,,8.0,9,9,0,1992
+"[""footwork""]","[""Footwork""]",,alboreto,Michele Alboreto,Italian,,6.0,10,10,0,1992
+"[""ligier""]","[""Ligier""]",,comas,Érik Comas,French,,4.0,11,11,0,1992
+"[""march""]","[""March""]",,wendlinger,Karl Wendlinger,Austrian,,3.0,12,12,0,1992
+"[""ferrari""]","[""Ferrari""]",,capelli,Ivan Capelli,Italian,,3.0,13,13,0,1992
+"[""ligier""]","[""Ligier""]",,boutsen,Thierry Boutsen,Belgian,,2.0,14,14,0,1992
+"[""team_lotus""]","[""Team Lotus""]",,herbert,Johnny Herbert,British,,2.0,15,15,0,1992
+"[""dallara""]","[""Dallara""]",,martini,Pierluigi Martini,Italian,,2.0,16,16,0,1992
+"[""jordan""]","[""Jordan""]",,modena,Stefano Modena,Italian,,1.0,17,17,0,1992
+"[""minardi""]","[""Minardi""]",,fittipaldi,Christian Fittipaldi,Brazilian,,1.0,18,18,0,1992
+"[""larrousse""]","[""Larrousse""]",,gachot,Bertrand Gachot,Belgian,,1.0,19,19,0,1992
+"[""footwork""]","[""Footwork""]",,suzuki,Aguri Suzuki,Japanese,,0.0,,-,0,1992
+"[""dallara""]","[""Dallara""]",,lehto,Jyrki Järvilehto,Finnish,,0.0,,-,0,1992
+"[""minardi""]","[""Minardi""]",,morbidelli,Gianni Morbidelli,Italian,,0.0,,-,0,1992
+"[""jordan""]","[""Jordan""]",,gugelmin,Maurício Gugelmin,Brazilian,,0.0,,-,0,1992
+"[""tyrrell""]","[""Tyrrell""]",,grouillard,Olivier Grouillard,French,,0.0,,-,0,1992
+"[""larrousse""]","[""Larrousse""]",,katayama,Ukyo Katayama,Japanese,,0.0,,-,0,1992
+"[""march""]","[""March""]",,belmondo,Paul Belmondo,French,,0.0,,-,0,1992
+"[""brabham"", ""fondmetal""]","[""Brabham"", ""Fondmetal""]",,poele,Eric van de Poele,Belgian,,0.0,,-,0,1992
+"[""march""]","[""March""]",,naspetti,Emanuele Naspetti,Italian,,0.0,,-,0,1992
+"[""ferrari""]","[""Ferrari""]",,larini,Nicola Larini,Italian,,0.0,,-,0,1992
+"[""brabham""]","[""Brabham""]",,damon_hill,Damon Hill,British,,0.0,,-,0,1992
+"[""march""]","[""March""]",,lammers,Jan Lammers,Dutch,,0.0,,-,0,1992
+"[""fondmetal""]","[""Fondmetal""]",,tarquini,Gabriele Tarquini,Italian,,0.0,,-,0,1992
+"[""fondmetal""]","[""Fondmetal""]",,chiesa,Andrea Chiesa,Swiss,,0.0,,-,0,1992
+"[""moda""]","[""Andrea Moda""]",,moreno,Roberto Moreno,Brazilian,,0.0,,-,0,1992
+"[""minardi""]","[""Minardi""]",,zanardi,Alessandro Zanardi,Italian,,0.0,,-,0,1992
+"[""moda""]","[""Andrea Moda""]",,mccarthy,Perry McCarthy,British,,0.0,,-,0,1992

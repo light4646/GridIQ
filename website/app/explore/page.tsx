@@ -5,8 +5,13 @@ import Link from "next/link";
 import { formatNumber, getHistoryManifest } from "@/lib/history";
 
 export const metadata = {
-  title: "Explore · GridIQ",
-  description: "Explore the GridIQ Formula 1 historical database and race intelligence pages.",
+  title: "Explore F1 Stats & Race Data · GridIQ",
+  description:
+    "Start exploring Formula 1 statistics on GridIQ. Find seasons, champions, driver records, constructor histories, race analytics, qualifying data, and driver comparisons from 1950 to 2026.",
+  openGraph: {
+    title: "Explore F1 Stats & Race Data · GridIQ",
+    description: "Your starting point for Formula 1 statistics, champions, records, and race analytics from 1950 to 2026.",
+  },
 };
 
 const researchLinks = [

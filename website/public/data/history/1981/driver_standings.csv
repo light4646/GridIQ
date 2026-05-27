@@ -1,0 +1,37 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""brabham""]","[""Brabham""]",,piquet,Nelson Piquet,Brazilian,,50.0,1,1,3,1981
+"[""williams""]","[""Williams""]",,reutemann,Carlos Reutemann,Argentine,,49.0,2,2,2,1981
+"[""williams""]","[""Williams""]",,jones,Alan Jones,Australian,,46.0,3,3,2,1981
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,44.0,4,4,2,1981
+"[""renault""]","[""Renault""]",,prost,Alain Prost,French,,43.0,5,5,3,1981
+"[""mclaren""]","[""McLaren""]",,watson,John Watson,British,,27.0,6,6,1,1981
+"[""ferrari""]","[""Ferrari""]",,gilles_villeneuve,Gilles Villeneuve,Canadian,,25.0,7,7,2,1981
+"[""team_lotus""]","[""Team Lotus""]",,angelis,Elio de Angelis,Italian,,14.0,8,8,0,1981
+"[""renault""]","[""Renault""]",,arnoux,René Arnoux,French,,11.0,9,9,0,1981
+"[""brabham""]","[""Brabham""]",,rebaque,Hector Rebaque,Mexican,,11.0,10,10,0,1981
+"[""arrows""]","[""Arrows""]",,patrese,Riccardo Patrese,Italian,,10.0,11,11,0,1981
+"[""tyrrell""]","[""Tyrrell""]",,cheever,Eddie Cheever,American,,10.0,12,12,0,1981
+"[""ferrari""]","[""Ferrari""]",,pironi,Didier Pironi,French,,9.0,13,13,0,1981
+"[""team_lotus""]","[""Team Lotus""]",,mansell,Nigel Mansell,British,,8.0,14,14,0,1981
+"[""alfa""]","[""Alfa Romeo""]",,giacomelli,Bruno Giacomelli,Italian,,7.0,15,15,0,1981
+"[""ensign"", ""theodore""]","[""Ensign"", ""Theodore""]",,surer,Marc Surer,Swiss,,4.0,16,16,0,1981
+"[""alfa""]","[""Alfa Romeo""]",,mario_andretti,Mario Andretti,American,,3.0,17,17,0,1981
+"[""mclaren""]","[""McLaren""]",,cesaris,Andrea de Cesaris,Italian,,1.0,18,18,0,1981
+"[""theodore"", ""ligier""]","[""Theodore"", ""Ligier""]",,tambay,Patrick Tambay,French,,1.0,19,19,0,1981
+"[""ats""]","[""ATS""]",,borgudd,Slim Borgudd,Swedish,,1.0,20,20,0,1981
+"[""march"", ""osella"", ""ensign""]","[""March"", ""Osella"", ""Ensign""]",,salazar,Eliseo Salazar,Chilean,,1.0,21,21,0,1981
+"[""ligier"", ""osella""]","[""Ligier"", ""Osella""]",,jarier,Jean-Pierre Jarier,French,,0.0,,-,0,1981
+"[""march""]","[""March""]",,daly,Derek Daly,Irish,,0.0,,-,0,1981
+"[""arrows""]","[""Arrows""]",,stohr,Siegfried Stohr,Italian,,0.0,,-,0,1981
+"[""fittipaldi""]","[""Fittipaldi""]",,serra,Chico Serra,Brazilian,,0.0,,-,0,1981
+"[""fittipaldi""]","[""Fittipaldi""]",,keke_rosberg,Keke Rosberg,Finnish,,0.0,,-,0,1981
+"[""tyrrell""]","[""Tyrrell""]",,alboreto,Michele Alboreto,Italian,,0.0,,-,0,1981
+"[""toleman""]","[""Toleman""]",,henton,Brian Henton,British,,0.0,,-,0,1981
+"[""ats""]","[""ATS""]",,lammers,Jan Lammers,Dutch,,0.0,,-,0,1981
+"[""tyrrell""]","[""Tyrrell""]",,zunino,Ricardo Zunino,Argentine,,0.0,,-,0,1981
+"[""osella""]","[""Osella""]",,ghinzani,Piercarlo Ghinzani,Italian,,0.0,,-,0,1981
+"[""ligier""]","[""Ligier""]",,jabouille,Jean-Pierre Jabouille,French,,0.0,,-,0,1981
+"[""toleman""]","[""Toleman""]",,warwick,Derek Warwick,British,,0.0,,-,0,1981
+"[""osella""]","[""Osella""]",,gabbiani,Beppe Gabbiani,Italian,,0.0,,-,0,1981
+"[""osella""]","[""Osella""]",,guerra,Miguel Ángel Guerra,Argentine,,0.0,,-,0,1981
+"[""ensign""]","[""Ensign""]",,londono,Ricardo Londoño,Colombian,,0.0,,-,0,1981

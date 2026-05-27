@@ -1,0 +1,17 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,89.0,1,1,4,1983
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,79.0,2,2,4,1983
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,72.0,3,3,4,1983
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,38.0,4,4,1,1983
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,34.0,5,5,1,1983
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,18.0,6,6,0,1983
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,12.0,7,7,1,1983
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,12.0,8,8,0,1983
+Toleman,toleman,British,https://en.wikipedia.org/wiki/Toleman,10.0,9,9,0,1983
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,4.0,10,10,0,1983
+Theodore,theodore,Hong Kong,https://en.wikipedia.org/wiki/Theodore_Racing,1.0,11,11,0,1983
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,0.0,,-,0,1983
+Spirit,spirit,British,https://en.wikipedia.org/wiki/Spirit_Racing,0.0,,-,0,1983
+ATS,ats,Italian,https://en.wikipedia.org/wiki/ATS_Wheels,0.0,,-,0,1983
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,0.0,,-,0,1983
+RAM,ram,British,https://en.wikipedia.org/wiki/RAM_Racing,0.0,,-,0,1983

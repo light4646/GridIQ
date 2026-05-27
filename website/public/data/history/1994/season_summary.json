@@ -1,0 +1,40 @@
+{
+  "year": 1994,
+  "generated_at": "2026-05-27T06:12:58.365306+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 16,
+  "race_results": 418,
+  "qualifying_results": 392,
+  "drivers": 46,
+  "constructors": 14,
+  "driver_champion": {
+    "year": 1994,
+    "position": 1,
+    "position_text": "1",
+    "points": 92.0,
+    "wins": 8,
+    "driver_id": "michael_schumacher",
+    "driver_code": "MSC",
+    "driver_number": null,
+    "driver_name": "Michael Schumacher",
+    "driver_nationality": "German",
+    "constructors": [
+      "Benetton"
+    ],
+    "constructor_ids": [
+      "benetton"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1994,
+    "position": 1,
+    "position_text": "1",
+    "points": 118.0,
+    "wins": 7,
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+  }
+}

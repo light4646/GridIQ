@@ -1,0 +1,402 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Renault,renault,French,,prost,Alain Prost,French,15,1982-midrand,South African Grand Prix,,,,,,5,77,5528401,9.0,1,1,1,Finished,1:32:08.401,1982
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,5,1982-midrand,South African Grand Prix,,,,,,8,77,5543347,6.0,2,2,1,Finished,+14.946,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-midrand,South African Grand Prix,,,,,,1,77,5556301,4.0,3,3,1,Finished,+27.900,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-midrand,South African Grand Prix,,,,,,13,77,5560514,3.0,4,4,1,Finished,+32.113,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-midrand,South African Grand Prix,,,,,,7,77,5571540,2.0,5,5,1,Finished,+43.139,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-midrand,South African Grand Prix,,,,,,9,77,5579394,1.0,6,6,1,Finished,+50.993,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-midrand,South African Grand Prix,,,,,,10,76,,0.0,7,7,1,+1 Lap,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-midrand,South African Grand Prix,,,,,,15,76,,0.0,8,8,1,+1 Lap,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-midrand,South African Grand Prix,,,,,,12,75,,0.0,9,9,1,+2 Laps,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-midrand,South African Grand Prix,,,,,,20,75,,0.0,10,10,1,+2 Laps,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-midrand,South African Grand Prix,,,,,,19,74,,0.0,11,11,1,+3 Laps,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-midrand,South African Grand Prix,,,,,,22,74,,0.0,12,12,1,+3 Laps,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-midrand,South African Grand Prix,,,,,,16,73,,0.0,13,13,1,+4 Laps,,1982
+Theodore,theodore,Hong Kong,,daly,Derek Daly,Irish,33,1982-midrand,South African Grand Prix,,,,,,24,73,,0.0,14,14,1,+4 Laps,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-midrand,South African Grand Prix,,,,,,21,72,,0.0,15,15,1,+5 Laps,,1982
+Tyrrell,tyrrell,British,,borgudd,Slim Borgudd,Swedish,4,1982-midrand,South African Grand Prix,,,,,,23,72,,0.0,16,16,1,+5 Laps,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-midrand,South African Grand Prix,,,,,,25,72,,0.0,17,17,1,+5 Laps,,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-midrand,South African Grand Prix,,,,,,6,71,,0.0,18,18,1,+6 Laps,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-midrand,South African Grand Prix,,,,,,11,54,,0.0,19,R,1,Fuel system,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-midrand,South African Grand Prix,,,,,,14,43,,0.0,20,R,1,Accident,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-midrand,South African Grand Prix,,,,,,4,18,,0.0,21,R,1,Turbo,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-midrand,South African Grand Prix,,,,,,17,11,,0.0,22,R,1,Fuel system,,1982
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1982-midrand,South African Grand Prix,,,,,,3,6,,0.0,23,R,1,Turbo,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-midrand,South African Grand Prix,,,,,,2,3,,0.0,24,R,1,Spun off,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-midrand,South African Grand Prix,,,,,,18,0,,0.0,25,R,1,Electrical,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-midrand,South African Grand Prix,,,,,,26,0,,0.0,26,R,1,Collision,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,1,63,6273134,9.0,1,1,2,Finished,1:44:33.134,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,12,63,6276124,6.0,2,2,2,Finished,+2.990,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,14,63,6309993,4.0,3,3,2,Finished,+36.859,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,13,63,6323895,3.0,4,4,2,Finished,+50.761,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,15,62,,2.0,5,5,2,+1 Lap,,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,8,62,,1.0,6,6,2,+1 Lap,,1982
+Tyrrell,tyrrell,British,,borgudd,Slim Borgudd,Swedish,4,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,21,61,,0.0,7,7,2,+2 Laps,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,22,61,,0.0,8,8,2,+2 Laps,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,23,60,,0.0,9,9,2,+3 Laps,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,19,57,,0.0,10,10,2,+6 Laps,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,7,63,,0.0,11,D,2,Disqualified,,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,3,63,,0.0,12,D,2,Disqualified,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,18,38,,0.0,13,R,2,Engine,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,25,36,,0.0,14,R,2,Suspension,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,9,34,,0.0,15,R,2,Physical,,1982
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,2,29,,0.0,16,R,2,Spun off,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,5,22,,0.0,17,R,2,Collision,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,4,21,,0.0,18,R,2,Collision,,1982
+Williams,williams,British,,reutemann,Carlos Reutemann,Argentine,5,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,6,21,,0.0,19,R,2,Collision,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,11,21,,0.0,20,R,2,Collision,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,26,19,,0.0,21,R,2,Water leak,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,16,16,,0.0,22,R,2,Clutch,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,24,15,,0.0,23,R,2,Chassis,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,10,14,,0.0,24,R,2,Chassis,,1982
+Theodore,theodore,Hong Kong,,daly,Derek Daly,Irish,33,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,20,12,,0.0,25,R,2,Spun off,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-rio-de-janeiro,Brazilian Grand Prix,,,,,,17,11,,0.0,26,R,2,Spun off,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-california,United States Grand Prix West,,,,,,2,75,7105318,9.0,1,1,3,Finished,1:58:25.318,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-california,United States Grand Prix West,,,,,,8,75,7119978,6.0,2,2,3,Finished,+14.660,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-california,United States Grand Prix West,,,,,,18,75,7184461,4.0,3,3,3,Finished,+1:19.143,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-california,United States Grand Prix West,,,,,,12,75,7186265,3.0,4,4,3,Finished,+1:20.947,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-california,United States Grand Prix West,,,,,,16,74,,2.0,5,5,3,+1 Lap,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-california,United States Grand Prix West,,,,,,11,74,,1.0,6,6,3,+1 Lap,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-california,United States Grand Prix West,,,,,,17,73,,0.0,7,7,3,+2 Laps,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-california,United States Grand Prix West,,,,,,21,73,,0.0,8,8,3,+2 Laps,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-california,United States Grand Prix West,,,,,,23,70,,0.0,9,9,3,+5 Laps,,1982
+Tyrrell,tyrrell,British,,borgudd,Slim Borgudd,Swedish,4,1982-california,United States Grand Prix West,,,,,,24,68,,0.0,10,10,3,+7 Laps,,1982
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1982-california,United States Grand Prix West,,,,,,7,75,,0.0,11,D,3,Disqualified,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-california,United States Grand Prix West,,,,,,13,59,,0.0,12,R,3,Gearbox,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-california,United States Grand Prix West,,,,,,1,33,,0.0,13,R,3,Spun off,,1982
+Arrows,arrows,British,,henton,Brian Henton,British,29,1982-california,United States Grand Prix West,,,,,,20,32,,0.0,14,R,3,Spun off,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-california,United States Grand Prix West,,,,,,19,27,,0.0,15,R,3,Spun off,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-california,United States Grand Prix West,,,,,,15,26,,0.0,16,R,3,Spun off,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-california,United States Grand Prix West,,,,,,10,26,,0.0,17,R,3,Transmission,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-california,United States Grand Prix West,,,,,,6,25,,0.0,18,R,3,Spun off,,1982
+Theodore,theodore,Hong Kong,,daly,Derek Daly,Irish,33,1982-california,United States Grand Prix West,,,,,,22,23,,0.0,19,R,3,Spun off,,1982
+Williams,williams,British,,mario_andretti,Mario Andretti,American,5,1982-california,United States Grand Prix West,,,,,,14,19,,0.0,20,R,3,Collision,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-california,United States Grand Prix West,,,,,,4,10,,0.0,21,R,3,Spun off,,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-california,United States Grand Prix West,,,,,,9,6,,0.0,22,R,3,Spun off,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-california,United States Grand Prix West,,,,,,3,5,,0.0,23,R,3,Collision,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-california,United States Grand Prix West,,,,,,5,5,,0.0,24,R,3,Collision,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-california,United States Grand Prix West,,,,,,26,3,,0.0,25,R,3,Collision,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-california,United States Grand Prix West,,,,,,25,1,,0.0,26,R,3,Collision,,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-imola,San Marino Grand Prix,,,,,,4,60,5798887,9.0,1,1,4,Finished,1:36:38.887,1982
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1982-imola,San Marino Grand Prix,,,,,,3,60,5799253,6.0,2,2,4,Finished,+0.366,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-imola,San Marino Grand Prix,,,,,,5,60,5866571,4.0,3,3,4,Finished,+1:07.684,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-imola,San Marino Grand Prix,,,,,,9,59,,3.0,4,4,4,+1 Lap,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-imola,San Marino Grand Prix,,,,,,14,57,,2.0,5,5,4,+3 Laps,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-imola,San Marino Grand Prix,,,,,,12,54,,0.0,6,D,4,Disqualified,,1982
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,36,1982-imola,San Marino Grand Prix,,,,,,10,52,,0.0,7,R,4,Not classified,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-imola,San Marino Grand Prix,,,,,,1,44,,0.0,8,R,4,Turbo,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-imola,San Marino Grand Prix,,,,,,6,24,,0.0,9,R,4,Engine,,1982
+Osella,osella,Italian,,paletti,Riccardo Paletti,Italian,32,1982-imola,San Marino Grand Prix,,,,,,13,7,,0.0,10,R,4,Suspension,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-imola,San Marino Grand Prix,,,,,,2,6,,0.0,11,R,4,Engine,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-imola,San Marino Grand Prix,,,,,,7,4,,0.0,12,R,4,Electrical,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-imola,San Marino Grand Prix,,,,,,11,0,,0.0,13,R,4,Transmission,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-imola,San Marino Grand Prix,,,,,,8,0,,0.0,14,R,4,Electrical,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-heusden-zolder,Belgian Grand Prix,,,,,,10,70,5741995,9.0,1,1,5,Finished,1:35:41.995,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-heusden-zolder,Belgian Grand Prix,,,,,,3,70,5749263,6.0,2,2,5,Finished,+7.268,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-heusden-zolder,Belgian Grand Prix,,,,,,14,69,,4.0,3,3,5,+1 Lap,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-heusden-zolder,Belgian Grand Prix,,,,,,11,68,,3.0,4,4,5,+2 Laps,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-heusden-zolder,Belgian Grand Prix,,,,,,8,67,,2.0,5,5,5,+3 Laps,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-heusden-zolder,Belgian Grand Prix,,,,,,23,67,,1.0,6,6,5,+3 Laps,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-heusden-zolder,Belgian Grand Prix,,,,,,22,66,,0.0,7,7,5,+4 Laps,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-heusden-zolder,Belgian Grand Prix,,,,,,24,66,,0.0,8,8,5,+4 Laps,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-heusden-zolder,Belgian Grand Prix,,,,,,17,66,,0.0,9,9,5,+4 Laps,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-heusden-zolder,Belgian Grand Prix,,,,,,4,70,,0.0,10,D,5,Disqualified,,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-heusden-zolder,Belgian Grand Prix,,,,,,13,60,,0.0,11,R,5,Spun off,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-heusden-zolder,Belgian Grand Prix,,,,,,25,60,,0.0,12,R,5,Engine,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-heusden-zolder,Belgian Grand Prix,,,,,,1,59,,0.0,13,R,5,Spun off,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-heusden-zolder,Belgian Grand Prix,,,,,,9,52,,0.0,14,R,5,Spun off,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-heusden-zolder,Belgian Grand Prix,,,,,,26,51,,0.0,15,R,5,Throttle,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-heusden-zolder,Belgian Grand Prix,,,,,,14,37,,0.0,16,R,5,Broken wing,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-heusden-zolder,Belgian Grand Prix,,,,,,6,34,,0.0,17,R,5,Gearbox,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-heusden-zolder,Belgian Grand Prix,,,,,,20,33,,0.0,18,R,5,Engine,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-heusden-zolder,Belgian Grand Prix,,,,,,5,29,,0.0,19,R,5,Engine,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-heusden-zolder,Belgian Grand Prix,,,,,,19,29,,0.0,20,R,5,Transmission,,1982
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,36,1982-heusden-zolder,Belgian Grand Prix,,,,,,21,13,,0.0,21,R,5,Brakes,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-heusden-zolder,Belgian Grand Prix,,,,,,7,9,,0.0,22,R,5,Clutch,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-heusden-zolder,Belgian Grand Prix,,,,,,2,7,,0.0,23,R,5,Turbo,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-heusden-zolder,Belgian Grand Prix,,,,,,12,0,,0.0,24,R,5,Clutch,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-heusden-zolder,Belgian Grand Prix,,,,,,15,0,,0.0,25,R,5,Collision,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-heusden-zolder,Belgian Grand Prix,,,,,,18,0,,0.0,26,R,5,Collision,,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-heusden-zolder,Belgian Grand Prix,,,,,,0,0,,0.0,27,W,5,Withdrew,,1982
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,27,1982-heusden-zolder,Belgian Grand Prix,,,,,,0,0,,0.0,28,W,5,Accident,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-monte-carlo,Monaco Grand Prix,,,,,,2,76,6851259,9.0,1,1,6,Finished,1:54:11.259,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-monte-carlo,Monaco Grand Prix,,,,,,5,75,,6.0,2,2,6,Out of fuel,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-monte-carlo,Monaco Grand Prix,,,,,,7,75,,4.0,3,3,6,Out of fuel,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-monte-carlo,Monaco Grand Prix,,,,,,11,75,,3.0,4,4,6,+1 Lap,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-monte-carlo,Monaco Grand Prix,,,,,,15,75,,2.0,5,5,6,+1 Lap,,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-monte-carlo,Monaco Grand Prix,,,,,,8,74,,1.0,6,6,6,Gearbox,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-monte-carlo,Monaco Grand Prix,,,,,,4,73,,0.0,7,7,6,Spun off,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-monte-carlo,Monaco Grand Prix,,,,,,17,72,,0.0,8,8,6,+4 Laps,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-monte-carlo,Monaco Grand Prix,,,,,,19,70,,0.0,9,9,6,+6 Laps,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-monte-carlo,Monaco Grand Prix,,,,,,9,69,,0.0,10,10,6,Suspension,,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-monte-carlo,Monaco Grand Prix,,,,,,6,64,,0.0,11,R,6,Collision,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-monte-carlo,Monaco Grand Prix,,,,,,12,56,,0.0,12,R,6,Engine,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-monte-carlo,Monaco Grand Prix,,,,,,13,49,,0.0,13,R,6,Turbo,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-monte-carlo,Monaco Grand Prix,,,,,,10,35,,0.0,14,R,6,Electrical,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-monte-carlo,Monaco Grand Prix,,,,,,14,31,,0.0,15,R,6,Differential,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-monte-carlo,Monaco Grand Prix,,,,,,18,29,,0.0,16,R,6,Handling,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-monte-carlo,Monaco Grand Prix,,,,,,16,27,,0.0,17,R,6,Oil leak,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-monte-carlo,Monaco Grand Prix,,,,,,20,22,,0.0,18,R,6,Mechanical,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-monte-carlo,Monaco Grand Prix,,,,,,1,14,,0.0,19,R,6,Spun off,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-monte-carlo,Monaco Grand Prix,,,,,,3,4,,0.0,20,R,6,Halfshaft,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-detroit,Detroit Grand Prix,,,,,,17,62,7121043,9.0,1,1,7,Finished,1:58:41.043,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-detroit,Detroit Grand Prix,,,,,,9,62,7136769,6.0,2,2,7,Finished,+15.726,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-detroit,Detroit Grand Prix,,,,,,4,62,7149120,4.0,3,3,7,Finished,+28.077,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-detroit,Detroit Grand Prix,,,,,,3,62,7193019,3.0,4,4,7,Finished,+1:11.976,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-detroit,Detroit Grand Prix,,,,,,12,62,7204800,2.0,5,5,7,Finished,+1:23.757,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-detroit,Detroit Grand Prix,,,,,,13,61,,1.0,6,6,7,+1 Lap,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-detroit,Detroit Grand Prix,,,,,,18,61,,0.0,7,7,7,+1 Lap,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-detroit,Detroit Grand Prix,,,,,,19,61,,0.0,8,8,7,+1 Lap,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-detroit,Detroit Grand Prix,,,,,,20,60,,0.0,9,9,7,+2 Laps,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-detroit,Detroit Grand Prix,,,,,,15,59,,0.0,10,10,7,+3 Laps,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-detroit,Detroit Grand Prix,,,,,,26,59,,0.0,11,11,7,+3 Laps,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-detroit,Detroit Grand Prix,,,,,,1,54,,0.0,12,R,7,Not classified,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-detroit,Detroit Grand Prix,,,,,,7,44,,0.0,13,R,7,Engine,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-detroit,Detroit Grand Prix,,,,,,10,40,,0.0,14,R,7,Collision,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-detroit,Detroit Grand Prix,,,,,,16,40,,0.0,15,R,7,Spun off,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-detroit,Detroit Grand Prix,,,,,,6,30,,0.0,16,R,7,Collision,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-detroit,Detroit Grand Prix,,,,,,8,17,,0.0,17,R,7,Gearbox,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-detroit,Detroit Grand Prix,,,,,,25,13,,0.0,18,R,7,Spun off,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-detroit,Detroit Grand Prix,,,,,,11,6,,0.0,19,R,7,Collision,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-detroit,Detroit Grand Prix,,,,,,14,6,,0.0,20,R,7,Collision,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-detroit,Detroit Grand Prix,,,,,,2,2,,0.0,21,R,7,Transmission,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-detroit,Detroit Grand Prix,,,,,,22,2,,0.0,22,R,7,Ignition,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-detroit,Detroit Grand Prix,,,,,,5,1,,0.0,23,R,7,Spun off,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-detroit,Detroit Grand Prix,,,,,,21,0,,0.0,24,R,7,Collision,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-detroit,Detroit Grand Prix,,,,,,24,0,,0.0,25,R,7,Collision,,1982
+Osella,osella,Italian,,paletti,Riccardo Paletti,Italian,32,1982-detroit,Detroit Grand Prix,,,,,,23,0,,0.0,26,R,7,Retired,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-montreal,Canadian Grand Prix,,,,,,4,70,6399577,9.0,1,1,8,Finished,1:46:39.577,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-montreal,Canadian Grand Prix,,,,,,8,70,6413376,6.0,2,2,8,Finished,+13.799,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-montreal,Canadian Grand Prix,,,,,,6,70,6461413,4.0,3,3,8,Finished,+1:01.836,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-montreal,Canadian Grand Prix,,,,,,10,69,,3.0,4,4,8,+1 Lap,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-montreal,Canadian Grand Prix,,,,,,16,69,,2.0,5,5,8,+1 Lap,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-montreal,Canadian Grand Prix,,,,,,9,68,,1.0,6,6,8,Out of fuel,,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-montreal,Canadian Grand Prix,,,,,,13,68,,0.0,7,7,8,Out of fuel,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-montreal,Canadian Grand Prix,,,,,,17,68,,0.0,8,8,8,+2 Laps,,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-montreal,Canadian Grand Prix,,,,,,1,67,,0.0,9,9,8,+3 Laps,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-montreal,Canadian Grand Prix,,,,,,12,66,,0.0,10,10,8,Out of fuel,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-montreal,Canadian Grand Prix,,,,,,22,66,,0.0,11,11,8,+4 Laps,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-montreal,Canadian Grand Prix,,,,,,26,59,,0.0,12,R,8,Not classified,,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-montreal,Canadian Grand Prix,,,,,,7,52,,0.0,13,R,8,Gearbox,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-montreal,Canadian Grand Prix,,,,,,21,47,,0.0,14,R,8,Engine,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-montreal,Canadian Grand Prix,,,,,,15,41,,0.0,15,R,8,Engine,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-montreal,Canadian Grand Prix,,,,,,3,30,,0.0,16,R,8,Engine,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-montreal,Canadian Grand Prix,,,,,,2,28,,0.0,17,R,8,Spun off,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-montreal,Canadian Grand Prix,,,,,,24,20,,0.0,18,R,8,Engine,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-montreal,Canadian Grand Prix,,,,,,11,17,,0.0,19,R,8,Clutch,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-montreal,Canadian Grand Prix,,,,,,19,8,,0.0,20,R,8,Fuel system,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-montreal,Canadian Grand Prix,,,,,,20,7,,0.0,21,R,8,Clutch,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-montreal,Canadian Grand Prix,,,,,,5,2,,0.0,22,R,8,Collision,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-montreal,Canadian Grand Prix,,,,,,14,2,,0.0,23,R,8,Collision,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-montreal,Canadian Grand Prix,,,,,,18,0,,0.0,24,W,8,Withdrew,,1982
+Osella,osella,Italian,,paletti,Riccardo Paletti,Italian,32,1982-montreal,Canadian Grand Prix,,,,,,23,0,,0.0,25,R,8,Fatal accident,,1982
+Theodore,theodore,Hong Kong,,lees,Geoff Lees,British,33,1982-montreal,Canadian Grand Prix,,,,,,25,0,,0.0,26,R,8,Collision,,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-zandvoort,Dutch Grand Prix,,,,,,4,72,5883254,9.0,1,1,9,Finished,1:38:03.254,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-zandvoort,Dutch Grand Prix,,,,,,3,72,5904903,6.0,2,2,9,Finished,+21.649,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-zandvoort,Dutch Grand Prix,,,,,,7,72,5905619,4.0,3,3,9,Finished,+22.365,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-zandvoort,Dutch Grand Prix,,,,,,5,72,5966983,3.0,4,4,9,Finished,+1:23.729,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-zandvoort,Dutch Grand Prix,,,,,,12,71,,2.0,5,5,9,+1 Lap,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-zandvoort,Dutch Grand Prix,,,,,,16,71,,1.0,6,6,9,+1 Lap,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-zandvoort,Dutch Grand Prix,,,,,,14,71,,0.0,7,7,9,+1 Lap,,1982
+Ferrari,ferrari,Italian,,tambay,Patrick Tambay,French,27,1982-zandvoort,Dutch Grand Prix,,,,,,6,71,,0.0,8,8,9,+1 Lap,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-zandvoort,Dutch Grand Prix,,,,,,11,71,,0.0,9,9,9,+1 Lap,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-zandvoort,Dutch Grand Prix,,,,,,17,71,,0.0,10,10,9,+1 Lap,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-zandvoort,Dutch Grand Prix,,,,,,8,70,,0.0,11,11,9,+2 Laps,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-zandvoort,Dutch Grand Prix,,,,,,18,70,,0.0,12,12,9,+2 Laps,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-zandvoort,Dutch Grand Prix,,,,,,25,70,,0.0,13,13,9,+2 Laps,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-zandvoort,Dutch Grand Prix,,,,,,23,69,,0.0,14,14,9,+3 Laps,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-zandvoort,Dutch Grand Prix,,,,,,10,69,,0.0,15,15,9,+3 Laps,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-zandvoort,Dutch Grand Prix,,,,,,24,60,,0.0,16,R,9,Engine,,1982
+Theodore,theodore,Hong Kong,,lammers,Jan Lammers,Dutch,33,1982-zandvoort,Dutch Grand Prix,,,,,,26,41,,0.0,17,R,9,Engine,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-zandvoort,Dutch Grand Prix,,,,,,15,40,,0.0,18,R,9,Handling,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-zandvoort,Dutch Grand Prix,,,,,,9,35,,0.0,19,R,9,Electrical,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-zandvoort,Dutch Grand Prix,,,,,,2,33,,0.0,20,R,9,Engine,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-zandvoort,Dutch Grand Prix,,,,,,1,21,,0.0,21,R,9,Spun off,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-zandvoort,Dutch Grand Prix,,,,,,20,21,,0.0,22,R,9,Throttle,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-zandvoort,Dutch Grand Prix,,,,,,22,21,,0.0,23,R,9,Engine,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-zandvoort,Dutch Grand Prix,,,,,,19,18,,0.0,24,R,9,Fuel system,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-zandvoort,Dutch Grand Prix,,,,,,13,15,,0.0,25,R,9,Oil leak,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-zandvoort,Dutch Grand Prix,,,,,,21,4,,0.0,26,R,9,Handling,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-kent,British Grand Prix,,,,,,5,76,5733812,9.0,1,1,10,Finished,1:35:33.812,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-kent,British Grand Prix,,,,,,4,76,5759538,6.0,2,2,10,Finished,+25.726,1982
+Ferrari,ferrari,Italian,,tambay,Patrick Tambay,French,27,1982-kent,British Grand Prix,,,,,,13,76,5772248,4.0,3,3,10,Finished,+38.436,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-kent,British Grand Prix,,,,,,7,76,5775054,3.0,4,4,10,Finished,+41.242,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-kent,British Grand Prix,,,,,,10,76,5775242,2.0,5,5,10,Finished,+41.430,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-kent,British Grand Prix,,,,,,8,76,5775448,1.0,6,6,10,Finished,+41.636,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-kent,British Grand Prix,,,,,,14,75,,0.0,7,7,10,+1 Lap,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-kent,British Grand Prix,,,,,,17,75,,0.0,8,8,10,+1 Lap,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-kent,British Grand Prix,,,,,,26,74,,0.0,9,9,10,+2 Laps,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-kent,British Grand Prix,,,,,,25,73,,0.0,10,10,10,+3 Laps,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-kent,British Grand Prix,,,,,,11,66,,0.0,11,R,10,Electrical,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-kent,British Grand Prix,,,,,,24,60,,0.0,12,R,10,Engine,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-kent,British Grand Prix,,,,,,22,59,,0.0,13,R,10,Engine,,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-kent,British Grand Prix,,,,,,1,50,,0.0,14,R,10,Fuel system,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-kent,British Grand Prix,,,,,,9,44,,0.0,15,R,10,Engine,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-kent,British Grand Prix,,,,,,20,41,,0.0,16,R,10,Gearbox,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-kent,British Grand Prix,,,,,,16,40,,0.0,17,R,10,Halfshaft,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-kent,British Grand Prix,,,,,,23,29,,0.0,18,R,10,Driver unwell,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-kent,British Grand Prix,,,,,,3,9,,0.0,19,R,10,Fuel system,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-kent,British Grand Prix,,,,,,19,3,,0.0,20,R,10,Engine,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-kent,British Grand Prix,,,,,,18,2,,0.0,21,R,10,Collision,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-kent,British Grand Prix,,,,,,21,2,,0.0,22,R,10,Collision,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-kent,British Grand Prix,,,,,,12,2,,0.0,23,R,10,Spun off,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-kent,British Grand Prix,,,,,,2,0,,0.0,24,R,10,Collision,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-kent,British Grand Prix,,,,,,6,0,,0.0,25,R,10,Collision,,1982
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,36,1982-kent,British Grand Prix,,,,,,15,0,,0.0,26,R,10,Collision,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-le-castellet,French Grand Prix,,,,,,1,54,5613217,9.0,1,1,11,Finished,1:33:33.217,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-le-castellet,French Grand Prix,,,,,,2,54,5630525,6.0,2,2,11,Finished,+17.308,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-le-castellet,French Grand Prix,,,,,,3,54,5655345,4.0,3,3,11,Finished,+42.128,1982
+Ferrari,ferrari,Italian,,tambay,Patrick Tambay,French,27,1982-le-castellet,French Grand Prix,,,,,,5,54,5689458,3.0,4,4,11,Finished,+1:16.241,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-le-castellet,French Grand Prix,,,,,,10,54,5704211,2.0,5,5,11,Finished,+1:30.994,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-le-castellet,French Grand Prix,,,,,,15,54,5705556,1.0,6,6,11,Finished,+1:32.339,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-le-castellet,French Grand Prix,,,,,,11,53,,0.0,7,7,11,+1 Lap,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-le-castellet,French Grand Prix,,,,,,9,53,,0.0,8,8,11,+1 Lap,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-le-castellet,French Grand Prix,,,,,,8,53,,0.0,9,9,11,+1 Lap,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-le-castellet,French Grand Prix,,,,,,23,53,,0.0,10,10,11,+1 Lap,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-le-castellet,French Grand Prix,,,,,,18,52,,0.0,11,11,11,+2 Laps,,1982
+Team Lotus,team_lotus,British,,lees,Geoff Lees,British,12,1982-le-castellet,French Grand Prix,,,,,,24,52,,0.0,12,12,11,+2 Laps,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-le-castellet,French Grand Prix,,,,,,20,52,,0.0,13,13,11,+2 Laps,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-le-castellet,French Grand Prix,,,,,,16,51,,0.0,14,14,11,+3 Laps,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-le-castellet,French Grand Prix,,,,,,14,50,,0.0,15,15,11,+4 Laps,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-le-castellet,French Grand Prix,,,,,,19,49,,0.0,16,16,11,+5 Laps,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-le-castellet,French Grand Prix,,,,,,7,25,,0.0,17,R,11,Spun off,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-le-castellet,French Grand Prix,,,,,,6,23,,0.0,18,R,11,Engine,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-le-castellet,French Grand Prix,,,,,,13,17,,0.0,19,R,11,Fuel system,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-le-castellet,French Grand Prix,,,,,,12,13,,0.0,20,R,11,Electrical,,1982
+March,march,British,,mass,Jochen Mass,German,17,1982-le-castellet,French Grand Prix,,,,,,26,10,,0.0,21,R,11,Spun off,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-le-castellet,French Grand Prix,,,,,,25,10,,0.0,22,R,11,Collision,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-le-castellet,French Grand Prix,,,,,,4,8,,0.0,23,R,11,Engine,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-le-castellet,French Grand Prix,,,,,,22,2,,0.0,24,R,11,Spun off,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-le-castellet,French Grand Prix,,,,,,17,0,,0.0,25,R,11,Halfshaft,,1982
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,36,1982-le-castellet,French Grand Prix,,,,,,21,0,,0.0,26,R,11,Electrical,,1982
+Ferrari,ferrari,Italian,,tambay,Patrick Tambay,French,27,1982-hockenheim,German Grand Prix,,,,,,5,45,5245178,9.0,1,1,12,Finished,1:27:25.178,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-hockenheim,German Grand Prix,,,,,,3,45,5261557,6.0,2,2,12,Finished,+16.379,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-hockenheim,German Grand Prix,,,,,,9,44,,4.0,3,3,12,+1 Lap,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-hockenheim,German Grand Prix,,,,,,7,44,,3.0,4,4,12,+1 Lap,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-hockenheim,German Grand Prix,,,,,,11,44,,2.0,5,5,12,+1 Lap,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-hockenheim,German Grand Prix,,,,,,26,44,,1.0,6,6,12,+1 Lap,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-hockenheim,German Grand Prix,,,,,,17,44,,0.0,7,7,12,+1 Lap,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-hockenheim,German Grand Prix,,,,,,21,44,,0.0,8,8,12,+1 Lap,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-hockenheim,German Grand Prix,,,,,,18,43,,0.0,9,9,12,+2 Laps,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-hockenheim,German Grand Prix,,,,,,14,43,,0.0,10,10,12,+2 Laps,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-hockenheim,German Grand Prix,,,,,,25,43,,0.0,11,11,12,+2 Laps,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-hockenheim,German Grand Prix,,,,,,10,36,,0.0,12,R,12,Suspension,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-hockenheim,German Grand Prix,,,,,,15,36,,0.0,13,R,12,Handling,,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-hockenheim,German Grand Prix,,,,,,19,25,,0.0,14,R,12,Engine,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-hockenheim,German Grand Prix,,,,,,24,22,,0.0,15,R,12,Tyre,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-hockenheim,German Grand Prix,,,,,,13,21,,0.0,16,R,12,Handling,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-hockenheim,German Grand Prix,,,,,,4,18,,0.0,17,R,12,Collision,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-hockenheim,German Grand Prix,,,,,,22,17,,0.0,18,R,12,Collision,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-hockenheim,German Grand Prix,,,,,,2,14,,0.0,19,R,12,Injection,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-hockenheim,German Grand Prix,,,,,,6,13,,0.0,20,R,12,Engine,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-hockenheim,German Grand Prix,,,,,,8,9,,0.0,21,R,12,Gearbox,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-hockenheim,German Grand Prix,,,,,,12,8,,0.0,22,R,12,Fuel system,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-hockenheim,German Grand Prix,,,,,,23,6,,0.0,23,R,12,Fuel system,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-hockenheim,German Grand Prix,,,,,,20,3,,0.0,24,R,12,Steering,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-hockenheim,German Grand Prix,,,,,,16,3,,0.0,25,R,12,Clutch,,1982
+Ferrari,ferrari,Italian,,pironi,Didier Pironi,French,28,1982-hockenheim,German Grand Prix,,,,,,1,0,,0.0,26,W,12,Accident,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-spielberg,Austrian Grand Prix,,,,,,7,53,5102212,9.0,1,1,13,Finished,1:25:02.212,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-spielberg,Austrian Grand Prix,,,,,,6,53,5102262,6.0,2,2,13,Finished,+0.050,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-spielberg,Austrian Grand Prix,,,,,,14,52,,4.0,3,3,13,+1 Lap,,1982
+Ferrari,ferrari,Italian,,tambay,Patrick Tambay,French,27,1982-spielberg,Austrian Grand Prix,,,,,,4,52,,3.0,4,4,13,+1 Lap,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-spielberg,Austrian Grand Prix,,,,,,10,52,,2.0,5,5,13,+1 Lap,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-spielberg,Austrian Grand Prix,,,,,,23,52,,1.0,6,6,13,+1 Lap,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-spielberg,Austrian Grand Prix,,,,,,20,51,,0.0,7,7,13,+2 Laps,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-spielberg,Austrian Grand Prix,,,,,,3,48,,0.0,8,8,13,Injection,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-spielberg,Austrian Grand Prix,,,,,,18,44,,0.0,9,9,13,Engine,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-spielberg,Austrian Grand Prix,,,,,,19,32,,0.0,10,R,13,Engine,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-spielberg,Austrian Grand Prix,,,,,,1,31,,0.0,11,R,13,Electrical,,1982
+Theodore,theodore,Hong Kong,,byrne,Tommy Byrne,Irish,33,1982-spielberg,Austrian Grand Prix,,,,,,26,28,,0.0,12,R,13,Spun off,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-spielberg,Austrian Grand Prix,,,,,,21,28,,0.0,13,R,13,Engine,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-spielberg,Austrian Grand Prix,,,,,,2,27,,0.0,14,R,13,Engine,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-spielberg,Austrian Grand Prix,,,,,,22,22,,0.0,15,R,13,Engine,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-spielberg,Austrian Grand Prix,,,,,,12,17,,0.0,16,R,13,Engine,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-spielberg,Austrian Grand Prix,,,,,,5,16,,0.0,17,R,13,Injection,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-spielberg,Austrian Grand Prix,,,,,,25,15,,0.0,18,R,13,Spun off,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-spielberg,Austrian Grand Prix,,,,,,15,7,,0.0,19,R,13,Suspension,,1982
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,36,1982-spielberg,Austrian Grand Prix,,,,,,17,7,,0.0,20,R,13,Transmission,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-spielberg,Austrian Grand Prix,,,,,,16,6,,0.0,21,R,13,Spun off,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-spielberg,Austrian Grand Prix,,,,,,8,1,,0.0,22,R,13,Spun off,,1982
+March,march,British,,keegan,Rupert Keegan,British,17,1982-spielberg,Austrian Grand Prix,,,,,,24,1,,0.0,23,R,13,Steering,,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-spielberg,Austrian Grand Prix,,,,,,9,0,,0.0,24,R,13,Collision,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-spielberg,Austrian Grand Prix,,,,,,11,0,,0.0,25,R,13,Collision,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-spielberg,Austrian Grand Prix,,,,,,13,0,,0.0,26,R,13,Collision,,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-dijon,Swiss Grand Prix,,,,,,8,80,5561087,9.0,1,1,14,Finished,1:32:41.087,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-dijon,Swiss Grand Prix,,,,,,1,80,5565529,6.0,2,2,14,Finished,+4.442,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-dijon,Swiss Grand Prix,,,,,,4,80,5621430,4.0,3,3,14,Finished,+1:00.343,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-dijon,Swiss Grand Prix,,,,,,6,79,,3.0,4,4,14,+1 Lap,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-dijon,Swiss Grand Prix,,,,,,3,79,,2.0,5,5,14,+1 Lap,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-dijon,Swiss Grand Prix,,,,,,15,79,,1.0,6,6,14,+1 Lap,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-dijon,Swiss Grand Prix,,,,,,12,79,,0.0,7,7,14,+1 Lap,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-dijon,Swiss Grand Prix,,,,,,26,79,,0.0,8,8,14,+1 Lap,,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-dijon,Swiss Grand Prix,,,,,,7,79,,0.0,9,9,14,+1 Lap,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-dijon,Swiss Grand Prix,,,,,,5,78,,0.0,10,10,14,+2 Laps,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-dijon,Swiss Grand Prix,,,,,,18,78,,0.0,11,11,14,+2 Laps,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-dijon,Swiss Grand Prix,,,,,,9,78,,0.0,12,12,14,+2 Laps,,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-dijon,Swiss Grand Prix,,,,,,11,77,,0.0,13,13,14,+3 Laps,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-dijon,Swiss Grand Prix,,,,,,25,76,,0.0,14,14,14,+4 Laps,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-dijon,Swiss Grand Prix,,,,,,14,76,,0.0,15,15,14,+4 Laps,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-dijon,Swiss Grand Prix,,,,,,2,75,,0.0,16,16,14,Injection,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-dijon,Swiss Grand Prix,,,,,,16,70,,0.0,17,R,14,Handling,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-dijon,Swiss Grand Prix,,,,,,20,55,,0.0,18,R,14,Chassis,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-dijon,Swiss Grand Prix,,,,,,17,44,,0.0,19,R,14,Engine,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-dijon,Swiss Grand Prix,,,,,,13,33,,0.0,20,R,14,Handling,,1982
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,36,1982-dijon,Swiss Grand Prix,,,,,,23,31,,0.0,21,R,14,Engine,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-dijon,Swiss Grand Prix,,,,,,24,31,,0.0,22,R,14,Water leak,,1982
+March,march,British,,keegan,Rupert Keegan,British,17,1982-dijon,Swiss Grand Prix,,,,,,22,25,,0.0,23,R,14,Spun off,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-dijon,Swiss Grand Prix,,,,,,21,24,,0.0,24,R,14,Engine,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-dijon,Swiss Grand Prix,,,,,,19,4,,0.0,25,R,14,Engine,,1982
+Ferrari,ferrari,Italian,,tambay,Patrick Tambay,French,27,1982-dijon,Swiss Grand Prix,,,,,,10,0,,0.0,26,R,14,Injury,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-monza,Italian Grand Prix,,,,,,6,52,4945734,9.0,1,1,15,Finished,1:22:25.734,1982
+Ferrari,ferrari,Italian,,tambay,Patrick Tambay,French,27,1982-monza,Italian Grand Prix,,,,,,3,52,4959798,6.0,2,2,15,Finished,+14.064,1982
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,28,1982-monza,Italian Grand Prix,,,,,,1,52,4994186,4.0,3,3,15,Finished,+48.452,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-monza,Italian Grand Prix,,,,,,12,52,5033579,3.0,4,4,15,Finished,+1:27.845,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-monza,Italian Grand Prix,,,,,,11,51,,2.0,5,5,15,+1 Lap,,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-monza,Italian Grand Prix,,,,,,14,51,,1.0,6,6,15,+1 Lap,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-monza,Italian Grand Prix,,,,,,23,51,,0.0,7,7,15,+1 Lap,,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-monza,Italian Grand Prix,,,,,,7,50,,0.0,8,8,15,+2 Laps,,1982
+ATS,ats,Italian,,salazar,Eliseo Salazar,Chilean,10,1982-monza,Italian Grand Prix,,,,,,25,50,,0.0,9,9,15,+2 Laps,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-monza,Italian Grand Prix,,,,,,9,50,,0.0,10,10,15,+2 Laps,,1982
+Fittipaldi,fittipaldi,Brazilian,,serra,Chico Serra,Brazilian,20,1982-monza,Italian Grand Prix,,,,,,26,49,,0.0,11,11,15,+3 Laps,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-monza,Italian Grand Prix,,,,,,24,49,,0.0,12,12,15,+3 Laps,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-monza,Italian Grand Prix,,,,,,18,40,,0.0,13,R,15,Not classified,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-monza,Italian Grand Prix,,,,,,17,33,,0.0,14,R,15,Throttle,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-monza,Italian Grand Prix,,,,,,8,32,,0.0,15,R,15,Handling,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-monza,Italian Grand Prix,,,,,,19,28,,0.0,16,R,15,Ignition,,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-monza,Italian Grand Prix,,,,,,5,27,,0.0,17,R,15,Injection,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-monza,Italian Grand Prix,,,,,,10,21,,0.0,18,R,15,Brakes,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-monza,Italian Grand Prix,,,,,,15,10,,0.0,19,R,15,Wheel,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-monza,Italian Grand Prix,,,,,,2,7,,0.0,20,R,15,Engine,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-monza,Italian Grand Prix,,,,,,4,6,,0.0,21,R,15,Clutch,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-monza,Italian Grand Prix,,,,,,21,5,,0.0,22,R,15,Gearbox,,1982
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,36,1982-monza,Italian Grand Prix,,,,,,22,2,,0.0,23,R,15,Engine,,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-monza,Italian Grand Prix,,,,,,13,0,,0.0,24,R,15,Collision,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-monza,Italian Grand Prix,,,,,,16,0,,0.0,25,R,15,Collision,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-monza,Italian Grand Prix,,,,,,20,0,,0.0,26,R,15,Collision,,1982
+Tyrrell,tyrrell,British,,alboreto,Michele Alboreto,Italian,3,1982-nevada,Caesars Palace Grand Prix,,,,,,3,75,6116888,9.0,1,1,16,Finished,1:41:56.888,1982
+McLaren,mclaren,British,,watson,John Watson,British,7,1982-nevada,Caesars Palace Grand Prix,,,,,,9,75,6144180,6.0,2,2,16,Finished,+27.292,1982
+Ligier,ligier,French,,cheever,Eddie Cheever,American,25,1982-nevada,Caesars Palace Grand Prix,,,,,,4,75,6173338,4.0,3,3,16,Finished,+56.450,1982
+Renault,renault,French,,prost,Alain Prost,French,15,1982-nevada,Caesars Palace Grand Prix,,,,,,1,75,6185536,3.0,4,4,16,Finished,+1:08.648,1982
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1982-nevada,Caesars Palace Grand Prix,,,,,,6,75,6188263,2.0,5,5,16,Finished,+1:11.375,1982
+Williams,williams,British,,daly,Derek Daly,Irish,5,1982-nevada,Caesars Palace Grand Prix,,,,,,14,74,,1.0,6,6,16,+1 Lap,,1982
+Arrows,arrows,British,,surer,Marc Surer,Swiss,29,1982-nevada,Caesars Palace Grand Prix,,,,,,17,74,,0.0,7,7,16,+1 Lap,,1982
+Tyrrell,tyrrell,British,,henton,Brian Henton,British,4,1982-nevada,Caesars Palace Grand Prix,,,,,,19,74,,0.0,8,8,16,+1 Lap,,1982
+Alfa Romeo,alfa,Swiss,,cesaris,Andrea de Cesaris,Italian,22,1982-nevada,Caesars Palace Grand Prix,,,,,,18,73,,0.0,9,9,16,+2 Laps,,1982
+Alfa Romeo,alfa,Swiss,,giacomelli,Bruno Giacomelli,Italian,23,1982-nevada,Caesars Palace Grand Prix,,,,,,16,73,,0.0,10,10,16,+2 Laps,,1982
+Arrows,arrows,British,,baldi,Mauro Baldi,Italian,30,1982-nevada,Caesars Palace Grand Prix,,,,,,23,73,,0.0,11,11,16,+2 Laps,,1982
+March,march,British,,keegan,Rupert Keegan,British,17,1982-nevada,Caesars Palace Grand Prix,,,,,,25,73,,0.0,12,12,16,+2 Laps,,1982
+March,march,British,,boesel,Raul Boesel,Brazilian,18,1982-nevada,Caesars Palace Grand Prix,,,,,,24,69,,0.0,13,13,16,+6 Laps,,1982
+ATS,ats,Italian,,manfred_winkelhock,Manfred Winkelhock,German,9,1982-nevada,Caesars Palace Grand Prix,,,,,,22,62,,0.0,14,R,16,Not classified,,1982
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,8,1982-nevada,Caesars Palace Grand Prix,,,,,,13,53,,0.0,15,R,16,Engine,,1982
+Theodore,theodore,Hong Kong,,byrne,Tommy Byrne,Irish,33,1982-nevada,Caesars Palace Grand Prix,,,,,,26,39,,0.0,16,R,16,Spun off,,1982
+Toleman,toleman,British,,warwick,Derek Warwick,British,35,1982-nevada,Caesars Palace Grand Prix,,,,,,10,32,,0.0,17,R,16,Spark plugs,,1982
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1982-nevada,Caesars Palace Grand Prix,,,,,,20,28,,0.0,18,R,16,Engine,,1982
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,28,1982-nevada,Caesars Palace Grand Prix,,,,,,7,26,,0.0,19,R,16,Suspension,,1982
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,1,1982-nevada,Caesars Palace Grand Prix,,,,,,12,26,,0.0,20,R,16,Spark plugs,,1982
+Renault,renault,French,,arnoux,René Arnoux,French,16,1982-nevada,Caesars Palace Grand Prix,,,,,,2,20,,0.0,21,R,16,Engine,,1982
+Brabham,brabham,British,,patrese,Riccardo Patrese,Italian,2,1982-nevada,Caesars Palace Grand Prix,,,,,,5,17,,0.0,22,R,16,Clutch,,1982
+Team Lotus,team_lotus,British,,mansell,Nigel Mansell,British,12,1982-nevada,Caesars Palace Grand Prix,,,,,,21,8,,0.0,23,R,16,Collision,,1982
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1982-nevada,Caesars Palace Grand Prix,,,,,,11,5,,0.0,24,R,16,Ignition,,1982
+Ferrari,ferrari,Italian,,tambay,Patrick Tambay,French,27,1982-nevada,Caesars Palace Grand Prix,,,,,,8,0,,0.0,25,W,16,Withdrew,,1982
+Ensign,ensign,British,,guerrero,Roberto Guerrero,Colombian,14,1982-nevada,Caesars Palace Grand Prix,,,,,,15,0,,0.0,26,W,16,Engine,,1982
+Osella,osella,Italian,,jarier,Jean-Pierre Jarier,French,31,1982-nevada,Caesars Palace Grand Prix,,,,,,27,0,,0.0,27,W,16,Accident,,1982

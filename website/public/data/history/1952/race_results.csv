@@ -1,0 +1,205 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,30,1952-bern,Swiss Grand Prix,,,,,,2,62,10906100,9.0,1,1,1,Finished,3:01:46.100,1952
+Ferrari,ferrari,Italian,,fischer,Rudi Fischer,Swiss,42,1952-bern,Swiss Grand Prix,,,,,,5,62,11063300,6.0,2,2,1,Finished,+2:37.200,1952
+Gordini,gordini,French,,behra,Jean Behra,French,6,1952-bern,Swiss Grand Prix,,,,,,7,61,,4.0,3,3,1,+1 Lap,,1952
+Frazer Nash,frazer_nash,British,,wharton,Ken Wharton,British,22,1952-bern,Swiss Grand Prix,,,,,,13,60,,3.0,4,4,1,+2 Laps,,1952
+Cooper,cooper,British,,alan_brown,Alan Brown,British,26,1952-bern,Swiss Grand Prix,,,,,,15,59,,2.0,5,5,1,+3 Laps,,1952
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,38,1952-bern,Swiss Grand Prix,,,,,,8,58,,0.0,6,6,1,+4 Laps,,1952
+Ferrari,ferrari,Italian,,hirt,Peter Hirt,Swiss,44,1952-bern,Swiss Grand Prix,,,,,,19,56,,0.0,7,7,1,+6 Laps,,1952
+Cooper,cooper,British,,brandon,Eric Brandon,British,24,1952-bern,Swiss Grand Prix,,,,,,17,55,,0.0,8,8,1,+7 Laps,,1952
+Simca,simca,French,,bira,Prince Bira,Thai,10,1952-bern,Swiss Grand Prix,,,,,,11,52,,0.0,9,R,1,Engine,,1952
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,32,1952-bern,Swiss Grand Prix,,,,,,4,51,,0.0,10,R,1,Magneto,,1952
+Ferrari,ferrari,Italian,,simon,André Simon,French,32,1952-bern,Swiss Grand Prix,,,,,,4,51,,0.0,10,R,1,Magneto,,1952
+Maserati,maserati,Italian,,schell,Harry Schell,American,40,1952-bern,Swiss Grand Prix,,,,,,18,31,,0.0,11,R,1,Engine,,1952
+HWM,hwm,British,,moss,Stirling Moss,British,46,1952-bern,Swiss Grand Prix,,,,,,9,24,,0.0,12,W,1,Withdrew,,1952
+HWM,hwm,British,,macklin,Lance Macklin,British,20,1952-bern,Swiss Grand Prix,,,,,,12,24,,0.0,13,W,1,Withdrew,,1952
+Gordini,gordini,French,,manzon,Robert Manzon,French,8,1952-bern,Swiss Grand Prix,,,,,,3,20,,0.0,14,R,1,Radiator,,1952
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,28,1952-bern,Swiss Grand Prix,,,,,,1,16,,0.0,15,R,1,Magneto,,1952
+HWM,hwm,British,,collins,Peter Collins,British,18,1952-bern,Swiss Grand Prix,,,,,,6,12,,0.0,16,R,1,Halfshaft,,1952
+HWM,hwm,British,,abecassis,George Abecassis,British,16,1952-bern,Swiss Grand Prix,,,,,,10,12,,0.0,17,R,1,Halfshaft,,1952
+AFM,afm,German,,hans_stuck,Hans von Stuck,German,2,1952-bern,Swiss Grand Prix,,,,,,14,4,,0.0,18,R,1,Engine,,1952
+Veritas,veritas,German,,ulmen,Toni Ulmen,German,4,1952-bern,Swiss Grand Prix,,,,,,16,4,,0.0,19,R,1,Fuel leak,,1952
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,12,1952-bern,Swiss Grand Prix,,,,,,20,2,,0.0,20,R,1,Accident,,1952
+Simca,simca,French,,terra,Max de Terra,Swiss,50,1952-bern,Swiss Grand Prix,,,,,,21,1,,0.0,21,R,1,Magneto,,1952
+Kuzma,kuzma,American,,ruttman,Troy Ruttman,American,98,1952-indianapolis,Indianapolis 500,,,,,,7,200,13961880,8.0,1,1,2,Finished,3:52:41.880,1952
+Kurtis Kraft,kurtis_kraft,American,,rathmann,Jim Rathmann,American,59,1952-indianapolis,Indianapolis 500,,,,,,10,200,14204210,6.0,2,2,2,Finished,+4:02.330,1952
+Kurtis Kraft,kurtis_kraft,American,,hanks,Sam Hanks,American,18,1952-indianapolis,Indianapolis 500,,,,,,5,200,14333490,4.0,3,3,2,Finished,+6:11.610,1952
+Lesovsky,lesovsky,American,,darter,Duane Carter,American,1,1952-indianapolis,Indianapolis 500,,,,,,6,200,14370220,3.0,4,4,2,Finished,+6:48.340,1952
+Kurtis Kraft,kurtis_kraft,American,,cross,Art Cross,American,33,1952-indianapolis,Indianapolis 500,,,,,,20,200,14482030,2.0,5,5,2,Finished,+8:40.150,1952
+Kurtis Kraft,kurtis_kraft,American,,bryan,Jimmy Bryan,American,77,1952-indianapolis,Indianapolis 500,,,,,,21,200,14526200,0.0,6,6,2,Finished,+9:24.320,1952
+Kurtis Kraft,kurtis_kraft,American,,reece,Jimmy Reece,American,37,1952-indianapolis,Indianapolis 500,,,,,,23,200,14597120,0.0,7,7,2,Finished,+10:35.240,1952
+Kurtis Kraft,kurtis_kraft,American,,george_connor,George Connor,American,54,1952-indianapolis,Indianapolis 500,,,,,,14,200,14682490,0.0,8,8,2,Finished,+12:00.610,1952
+Kurtis Kraft,kurtis_kraft,American,,griffith,Cliff Griffith,American,22,1952-indianapolis,Indianapolis 500,,,,,,9,200,14705640,0.0,9,9,2,Finished,+12:23.760,1952
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,5,1952-indianapolis,Indianapolis 500,,,,,,31,200,14779660,0.0,10,10,2,Finished,+13:37.780,1952
+Kurtis Kraft,kurtis_kraft,American,,mcgrath,Jack McGrath,American,4,1952-indianapolis,Indianapolis 500,,,,,,3,200,14823600,0.0,11,11,2,Finished,+14:21.720,1952
+Watson,watson,American,,rigsby,Jim Rigsby,American,29,1952-indianapolis,Indianapolis 500,,,,,,26,200,14926980,0.0,12,12,2,Finished,+16:05.100,1952
+Kurtis Kraft,kurtis_kraft,American,,james,Joe James,American,14,1952-indianapolis,Indianapolis 500,,,,,,16,200,14977530,0.0,13,13,2,Finished,+16:55.650,1952
+Stevens,stevens,American,,schindler,Bill Schindler,American,7,1952-indianapolis,Indianapolis 500,,,,,,15,200,15090540,0.0,14,14,2,Finished,+18:48.660,1952
+Sherman,sherman,American,,fonder,George Fonder,American,65,1952-indianapolis,Indianapolis 500,,,,,,13,197,,0.0,15,15,2,+3 Laps,,1952
+Trevis,trevis,American,,johnson,Eddie Johnson,American,81,1952-indianapolis,Indianapolis 500,,,,,,24,193,,0.0,16,16,2,+7 Laps,,1952
+Kurtis Kraft,kurtis_kraft,American,,vukovich,Bill Vukovich,American,26,1952-indianapolis,Indianapolis 500,,,,,,8,191,,1.0,17,17,2,Steering,,1952
+Kurtis Kraft,kurtis_kraft,American,,stevenson,Chuck Stevenson,American,16,1952-indianapolis,Indianapolis 500,,,,,,11,187,,0.0,18,18,2,+13 Laps,,1952
+Lesovsky,lesovsky,American,,banks,Henry Banks,American,2,1952-indianapolis,Indianapolis 500,,,,,,12,184,,0.0,19,19,2,+16 Laps,,1952
+Lesovsky,lesovsky,American,,ayulo,Manny Ayulo,American,8,1952-indianapolis,Indianapolis 500,,,,,,28,184,,0.0,20,20,2,+16 Laps,,1952
+Kurtis Kraft,kurtis_kraft,American,,mcdowell,Johnny McDowell,American,31,1952-indianapolis,Indianapolis 500,,,,,,33,182,,0.0,21,21,2,+18 Laps,,1952
+Bromme,bromme,American,,webb,Travis Webb,American,48,1952-indianapolis,Indianapolis 500,,,,,,29,162,,0.0,22,R,2,Oil leak,,1952
+Kurtis Kraft,kurtis_kraft,American,,ward,Rodger Ward,American,34,1952-indianapolis,Indianapolis 500,,,,,,22,130,,0.0,23,R,2,Oil pressure,,1952
+Deidt,deidt,American,,bettenhausen,Tony Bettenhausen,American,27,1952-indianapolis,Indianapolis 500,,,,,,30,93,,0.0,24,R,2,Oil pressure,,1952
+Kurtis Kraft,kurtis_kraft,American,,nalon,Duke Nalon,American,36,1952-indianapolis,Indianapolis 500,,,,,,4,84,,0.0,25,R,2,Supercharger,,1952
+Kurtis Kraft,kurtis_kraft,American,,sweikert,Bob Sweikert,American,73,1952-indianapolis,Indianapolis 500,,,,,,32,77,,0.0,26,R,2,Differential,,1952
+Kurtis Kraft,kurtis_kraft,American,,agabashian,Fred Agabashian,American,28,1952-indianapolis,Indianapolis 500,,,,,,1,71,,0.0,27,R,2,Turbo,,1952
+Kurtis Kraft,kurtis_kraft,American,,hartley,Gene Hartley,American,67,1952-indianapolis,Indianapolis 500,,,,,,18,65,,0.0,28,R,2,Exhaust,,1952
+Kurtis Kraft,kurtis_kraft,American,,bob_scott,Bob Scott,American,93,1952-indianapolis,Indianapolis 500,,,,,,25,49,,0.0,29,R,2,Transmission,,1952
+Kurtis Kraft,kurtis_kraft,American,,miller,Chet Miller,American,21,1952-indianapolis,Indianapolis 500,,,,,,27,41,,0.0,30,R,2,Supercharger,,1952
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,12,1952-indianapolis,Indianapolis 500,,,,,,19,40,,0.0,31,R,2,Wheel,,1952
+Stevens,stevens,American,,ball,Bobby Ball,American,55,1952-indianapolis,Indianapolis 500,,,,,,17,34,,0.0,32,R,2,Gearbox,,1952
+Kurtis Kraft,kurtis_kraft,American,,linden,Andy Linden,American,9,1952-indianapolis,Indianapolis 500,,,,,,2,20,,0.0,33,R,2,Oil pump,,1952
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,4,1952-spa,Belgian Grand Prix,,,,,,1,36,11026300,9.0,1,1,3,Finished,3:03:46.300,1952
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,2,1952-spa,Belgian Grand Prix,,,,,,2,36,11141500,6.0,2,2,3,Finished,+1:55.200,1952
+Gordini,gordini,French,,manzon,Robert Manzon,French,14,1952-spa,Belgian Grand Prix,,,,,,4,36,11294700,4.0,3,3,3,Finished,+4:28.400,1952
+Cooper,cooper,British,,hawthorn,Mike Hawthorn,British,8,1952-spa,Belgian Grand Prix,,,,,,6,35,,3.0,4,4,3,+1 Lap,,1952
+HWM,hwm,British,,frere,Paul Frère,Belgian,28,1952-spa,Belgian Grand Prix,,,,,,8,34,,2.0,5,5,3,+2 Laps,,1952
+Cooper,cooper,British,,alan_brown,Alan Brown,British,10,1952-spa,Belgian Grand Prix,,,,,,9,34,,0.0,6,6,3,+2 Laps,,1952
+Ferrari,ferrari,Italian,,tornaco,Charles de Tornaco,Belgian,34,1952-spa,Belgian Grand Prix,,,,,,13,33,,0.0,7,7,3,+3 Laps,,1952
+Gordini,gordini,French,,claes,Johnny Claes,Belgian,18,1952-spa,Belgian Grand Prix,,,,,,19,33,,0.0,8,8,3,+3 Laps,,1952
+Cooper,cooper,British,,brandon,Eric Brandon,British,12,1952-spa,Belgian Grand Prix,,,,,,12,33,,0.0,9,9,3,+3 Laps,,1952
+Simca,simca,French,,bira,Prince Bira,Thai,20,1952-spa,Belgian Grand Prix,,,,,,18,32,,0.0,10,10,3,+4 Laps,,1952
+HWM,hwm,British,,macklin,Lance Macklin,British,24,1952-spa,Belgian Grand Prix,,,,,,14,32,,0.0,11,11,3,+4 Laps,,1952
+HWM,hwm,British,,laurent,Roger Laurent,Belgian,30,1952-spa,Belgian Grand Prix,,,,,,20,32,,0.0,12,12,3,+4 Laps,,1952
+Veritas,veritas,German,,legat,Arthur Legat,Belgian,38,1952-spa,Belgian Grand Prix,,,,,,21,31,,0.0,13,13,3,+5 Laps,,1952
+Simca,simca,French,,obrien,Robert O'Brien,American,44,1952-spa,Belgian Grand Prix,,,,,,22,30,,0.0,14,14,3,+6 Laps,,1952
+HWM,hwm,British,,gaze,Tony Gaze,Australian,42,1952-spa,Belgian Grand Prix,,,,,,16,30,,0.0,15,15,3,+6 Laps,,1952
+Aston Butterworth,butterworth,British,,charrington,Robin Montgomerie-Charrington,British,40,1952-spa,Belgian Grand Prix,,,,,,15,17,,0.0,16,R,3,Engine,,1952
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,6,1952-spa,Belgian Grand Prix,,,,,,3,13,,0.0,17,R,3,Accident,,1952
+Gordini,gordini,French,,behra,Jean Behra,French,16,1952-spa,Belgian Grand Prix,,,,,,5,13,,0.0,18,R,3,Accident,,1952
+Frazer Nash,frazer_nash,British,,wharton,Ken Wharton,British,36,1952-spa,Belgian Grand Prix,,,,,,7,10,,0.0,19,R,3,Spun off,,1952
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,22,1952-spa,Belgian Grand Prix,,,,,,17,6,,0.0,20,R,3,Transmission,,1952
+HWM,hwm,British,,collins,Peter Collins,British,26,1952-spa,Belgian Grand Prix,,,,,,11,3,,0.0,21,R,3,Halfshaft,,1952
+ERA,era,British,,moss,Stirling Moss,British,32,1952-spa,Belgian Grand Prix,,,,,,10,0,,0.0,22,R,3,Engine,,1952
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,8,1952-rouen,French Grand Prix,,,,,,1,77,10800000,9.0,1,1,4,Finished,3:00,1952
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,10,1952-rouen,French Grand Prix,,,,,,2,76,,6.0,2,2,4,+1 Lap,,1952
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,12,1952-rouen,French Grand Prix,,,,,,3,75,,4.0,3,3,4,+2 Laps,,1952
+Gordini,gordini,French,,manzon,Robert Manzon,French,2,1952-rouen,French Grand Prix,,,,,,5,74,,3.0,4,4,4,+3 Laps,,1952
+Simca,simca,French,,trintignant,Maurice Trintignant,French,44,1952-rouen,French Grand Prix,,,,,,6,72,,2.0,5,5,4,+5 Laps,,1952
+HWM,hwm,British,,collins,Peter Collins,British,22,1952-rouen,French Grand Prix,,,,,,8,70,,0.0,6,6,4,+7 Laps,,1952
+Gordini,gordini,French,,behra,Jean Behra,French,4,1952-rouen,French Grand Prix,,,,,,4,70,,0.0,7,7,4,+7 Laps,,1952
+Maserati,maserati,Italian,,etancelin,Philippe Étancelin,French,28,1952-rouen,French Grand Prix,,,,,,18,70,,0.0,8,8,4,+7 Laps,,1952
+HWM,hwm,British,,macklin,Lance Macklin,British,20,1952-rouen,French Grand Prix,,,,,,14,70,,0.0,9,9,4,+7 Laps,,1952
+HWM,hwm,British,,cabantous,Yves Cabantous,French,24,1952-rouen,French Grand Prix,,,,,,10,68,,0.0,10,10,4,+9 Laps,,1952
+Ferrari,ferrari,Italian,,hirt,Peter Hirt,Swiss,34,1952-rouen,French Grand Prix,,,,,,17,66,,0.0,11,11,4,+11 Laps,,1952
+Ferrari,ferrari,Italian,,fischer,Rudi Fischer,Swiss,34,1952-rouen,French Grand Prix,,,,,,17,66,,0.0,11,11,4,+11 Laps,,1952
+Ferrari,ferrari,Italian,,comotti,Franco Comotti,Italian,38,1952-rouen,French Grand Prix,,,,,,16,63,,0.0,12,12,4,+14 Laps,,1952
+Gordini,gordini,French,,bira,Prince Bira,Thai,6,1952-rouen,French Grand Prix,,,,,,7,56,,0.0,13,R,4,Axle,,1952
+Cooper,cooper,British,,hawthorn,Mike Hawthorn,British,42,1952-rouen,French Grand Prix,,,,,,15,51,,0.0,14,R,4,Ignition,,1952
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,16,1952-rouen,French Grand Prix,,,,,,12,34,,0.0,15,R,4,Brakes,,1952
+Maserati,maserati,Italian,,schell,Harry Schell,American,16,1952-rouen,French Grand Prix,,,,,,12,34,,0.0,15,R,4,Brakes,,1952
+Alta,alta,British,,whitehead,Peter Whitehead,British,26,1952-rouen,French Grand Prix,,,,,,13,17,,0.0,16,R,4,Clutch,,1952
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,14,1952-rouen,French Grand Prix,,,,,,9,17,,0.0,17,R,4,Engine,,1952
+Simca,simca,French,,claes,Johnny Claes,Belgian,32,1952-rouen,French Grand Prix,,,,,,20,15,,0.0,18,R,4,Engine,,1952
+Maserati,maserati,Italian,,schell,Harry Schell,American,18,1952-rouen,French Grand Prix,,,,,,11,7,,0.0,19,R,4,Gearbox,,1952
+Ferrari,ferrari,Italian,,carini,Piero Carini,Italian,40,1952-rouen,French Grand Prix,,,,,,19,2,,0.0,20,R,4,Engine,,1952
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,15,1952-silverstone,British Grand Prix,,,,,,2,85,9971000,9.0,1,1,5,Finished,2:46,1952
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,17,1952-silverstone,British Grand Prix,,,,,,3,84,,6.0,2,2,5,+1 Lap,,1952
+Cooper,cooper,British,,hawthorn,Mike Hawthorn,British,9,1952-silverstone,British Grand Prix,,,,,,7,83,,4.0,3,3,5,+2 Laps,,1952
+Connaught,connaught,British,,poore,Dennis Poore,British,6,1952-silverstone,British Grand Prix,,,,,,8,83,,3.0,4,4,5,+2 Laps,,1952
+Connaught,connaught,British,,thompson,Eric Thompson,British,5,1952-silverstone,British Grand Prix,,,,,,9,82,,2.0,5,5,5,+3 Laps,,1952
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,16,1952-silverstone,British Grand Prix,,,,,,1,82,,0.0,6,6,5,+3 Laps,,1952
+Cooper,cooper,British,,reg_parnell,Reg Parnell,British,8,1952-silverstone,British Grand Prix,,,,,,6,82,,0.0,7,7,5,+3 Laps,,1952
+Ferrari,ferrari,Italian,,salvadori,Roy Salvadori,British,14,1952-silverstone,British Grand Prix,,,,,,19,82,,0.0,8,8,5,+3 Laps,,1952
+Connaught,connaught,British,,downing,Ken Downing,British,4,1952-silverstone,British Grand Prix,,,,,,5,82,,0.0,9,9,5,+3 Laps,,1952
+Ferrari,ferrari,Italian,,whitehead,Peter Whitehead,British,21,1952-silverstone,British Grand Prix,,,,,,20,81,,0.0,10,10,5,+4 Laps,,1952
+Gordini,gordini,French,,bira,Prince Bira,Thai,26,1952-silverstone,British Grand Prix,,,,,,10,81,,0.0,11,11,5,+4 Laps,,1952
+Alta,alta,British,,graham_whitehead,Graham Whitehead,British,1,1952-silverstone,British Grand Prix,,,,,,12,80,,0.0,12,12,5,+5 Laps,,1952
+Ferrari,ferrari,Italian,,fischer,Rudi Fischer,Swiss,19,1952-silverstone,British Grand Prix,,,,,,15,80,,0.0,13,13,5,+5 Laps,,1952
+Simca,simca,French,,claes,Johnny Claes,Belgian,27,1952-silverstone,British Grand Prix,,,,,,23,79,,0.0,14,14,5,+6 Laps,,1952
+HWM,hwm,British,,macklin,Lance Macklin,British,31,1952-silverstone,British Grand Prix,,,,,,29,79,,0.0,15,15,5,+6 Laps,,1952
+Connaught,connaught,British,,mcalpine,Kenneth McAlpine,British,3,1952-silverstone,British Grand Prix,,,,,,17,79,,0.0,16,16,5,+6 Laps,,1952
+Maserati,maserati,Italian,,schell,Harry Schell,American,33,1952-silverstone,British Grand Prix,,,,,,32,78,,0.0,17,17,5,+7 Laps,,1952
+Maserati,maserati,Italian,,bianco,Gino Bianco,Brazilian,34,1952-silverstone,British Grand Prix,,,,,,28,77,,0.0,18,18,5,+8 Laps,,1952
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,32,1952-silverstone,British Grand Prix,,,,,,31,76,,0.0,19,19,5,+9 Laps,,1952
+Cooper,cooper,British,,brandon,Eric Brandon,British,10,1952-silverstone,British Grand Prix,,,,,,18,76,,0.0,20,20,5,+9 Laps,,1952
+Frazer Nash,frazer_nash,British,,crook,Tony Crook,British,23,1952-silverstone,British Grand Prix,,,,,,25,75,,0.0,21,21,5,+10 Laps,,1952
+Cooper,cooper,British,,alan_brown,Alan Brown,British,11,1952-silverstone,British Grand Prix,,,,,,13,69,,0.0,22,22,5,+16 Laps,,1952
+HWM,hwm,British,,collins,Peter Collins,British,29,1952-silverstone,British Grand Prix,,,,,,14,73,,0.0,23,R,5,Ignition,,1952
+HWM,hwm,British,,duncan_hamilton,Duncan Hamilton,British,30,1952-silverstone,British Grand Prix,,,,,,11,44,,0.0,24,R,5,Engine,,1952
+ERA,era,British,,moss,Stirling Moss,British,12,1952-silverstone,British Grand Prix,,,,,,16,36,,0.0,25,R,5,Engine,,1952
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,25,1952-silverstone,British Grand Prix,,,,,,21,21,,0.0,26,R,5,Gearbox,,1952
+HWM,hwm,British,,gaze,Tony Gaze,Australian,28,1952-silverstone,British Grand Prix,,,,,,26,19,,0.0,27,R,5,Engine,,1952
+Cooper,cooper,British,,murray,David Murray,British,7,1952-silverstone,British Grand Prix,,,,,,22,14,,0.0,28,R,5,Engine,,1952
+Gordini,gordini,French,,manzon,Robert Manzon,French,24,1952-silverstone,British Grand Prix,,,,,,4,9,,0.0,29,R,5,Clutch,,1952
+Ferrari,ferrari,Italian,,hirt,Peter Hirt,Swiss,20,1952-silverstone,British Grand Prix,,,,,,24,3,,0.0,30,R,5,Brakes,,1952
+Maserati,maserati,Italian,,cantoni,Eitel Cantoni,Uruguayan,35,1952-silverstone,British Grand Prix,,,,,,27,0,,0.0,31,R,5,Brakes,,1952
+Aston Butterworth,butterworth,British,,aston,Bill Aston,British,2,1952-silverstone,British Grand Prix,,,,,,0,0,,0.0,32,W,5,Withdrew,,1952
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,101,1952-n-rburg,German Grand Prix,,,,,,1,18,11173300,9.0,1,1,6,Finished,3:06:13.300,1952
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,102,1952-n-rburg,German Grand Prix,,,,,,2,18,11187400,6.0,2,2,6,Finished,+14.100,1952
+Ferrari,ferrari,Italian,,fischer,Rudi Fischer,Swiss,117,1952-n-rburg,German Grand Prix,,,,,,6,18,11603400,4.0,3,3,6,Finished,+7:10.100,1952
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,103,1952-n-rburg,German Grand Prix,,,,,,5,17,,3.0,4,4,6,+1 Lap,,1952
+Gordini,gordini,French,,behra,Jean Behra,French,108,1952-n-rburg,German Grand Prix,,,,,,11,17,,2.0,5,5,6,+1 Lap,,1952
+Ferrari,ferrari,Italian,,laurent,Roger Laurent,Belgian,119,1952-n-rburg,German Grand Prix,,,,,,17,16,,0.0,6,6,6,+2 Laps,,1952
+Veritas,veritas,German,,riess,Fritz Riess,German,121,1952-n-rburg,German Grand Prix,,,,,,12,16,,0.0,7,7,6,+2 Laps,,1952
+Veritas,veritas,German,,ulmen,Toni Ulmen,German,125,1952-n-rburg,German Grand Prix,,,,,,15,16,,0.0,8,8,6,+2 Laps,,1952
+AFM,afm,German,,niedermayr,Helmut Niedermayr,German,124,1952-n-rburg,German Grand Prix,,,,,,22,15,,0.0,9,9,6,+3 Laps,,1952
+HWM,hwm,British,,claes,Johnny Claes,Belgian,113,1952-n-rburg,German Grand Prix,,,,,,32,15,,0.0,10,10,6,+3 Laps,,1952
+Veritas,veritas,German,,klenk,Hans Klenk,German,128,1952-n-rburg,German Grand Prix,,,,,,8,14,,0.0,11,11,6,+4 Laps,,1952
+BMW,bmw,German,,klodwig,Ernst Klodwig,East German,135,1952-n-rburg,German Grand Prix,,,,,,29,14,,0.0,12,12,6,+4 Laps,,1952
+Gordini,gordini,French,,manzon,Robert Manzon,French,107,1952-n-rburg,German Grand Prix,,,,,,4,8,,0.0,13,R,6,Accident,,1952
+AFM,afm,German,,heeks,Willi Heeks,German,123,1952-n-rburg,German Grand Prix,,,,,,9,7,,0.0,14,R,6,Retired,,1952
+HWM,hwm,British,,gaze,Tony Gaze,Australian,120,1952-n-rburg,German Grand Prix,,,,,,14,6,,0.0,15,R,6,Gearbox,,1952
+Veritas,veritas,German,,brudes,Adolf Brudes,German,126,1952-n-rburg,German Grand Prix,,,,,,19,5,,0.0,16,R,6,Engine,,1952
+BMW,bmw,German,,balsa,Marcel Balsa,French,110,1952-n-rburg,German Grand Prix,,,,,,25,5,,0.0,17,R,6,Retired,,1952
+BMW,bmw,German,,bechem,Günther Bechem,German,130,1952-n-rburg,German Grand Prix,,,,,,30,5,,0.0,18,R,6,Ignition,,1952
+Maserati,maserati,Italian,,cantoni,Eitel Cantoni,Uruguayan,116,1952-n-rburg,German Grand Prix,,,,,,26,4,,0.0,19,R,6,Axle,,1952
+BMW,bmw,German,,krause,Rudolf Krause,East German,136,1952-n-rburg,German Grand Prix,,,,,,23,3,,0.0,20,R,6,Retired,,1952
+Ferrari,ferrari,Italian,,schoeller,Rudolf Schoeller,Swiss,118,1952-n-rburg,German Grand Prix,,,,,,24,3,,0.0,21,R,6,Suspension,,1952
+Aston Butterworth,butterworth,British,,aston,Bill Aston,British,114,1952-n-rburg,German Grand Prix,,,,,,21,2,,0.0,22,R,6,Oil pressure,,1952
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,109,1952-n-rburg,German Grand Prix,,,,,,3,1,,0.0,23,R,6,Accident,,1952
+Veritas,veritas,German,,pietsch,Paul Pietsch,German,127,1952-n-rburg,German Grand Prix,,,,,,7,1,,0.0,24,R,6,Gearbox,,1952
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,105,1952-n-rburg,German Grand Prix,,,,,,10,1,,0.0,25,D,6,Disqualified,,1952
+HWM,hwm,British,,frere,Paul Frère,Belgian,112,1952-n-rburg,German Grand Prix,,,,,,13,1,,0.0,26,R,6,Gearbox,,1952
+Veritas,veritas,German,,helfrich,Theo Helfrich,German,122,1952-n-rburg,German Grand Prix,,,,,,18,1,,0.0,27,R,6,Retired,,1952
+Veritas,veritas,German,,peters,Josef Peters,German,129,1952-n-rburg,German Grand Prix,,,,,,20,1,,0.0,28,R,6,Retired,,1952
+Ferrari,ferrari,Italian,,carini,Piero Carini,Italian,104,1952-n-rburg,German Grand Prix,,,,,,27,1,,0.0,29,R,6,Brakes,,1952
+Maserati,maserati,Italian,,bianco,Gino Bianco,Brazilian,115,1952-n-rburg,German Grand Prix,,,,,,16,0,,0.0,30,R,6,Retired,,1952
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,2,1952-zandvoort,Dutch Grand Prix,,,,,,1,90,10408500,9.0,1,1,7,Finished,2:53:28.500,1952
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,4,1952-zandvoort,Dutch Grand Prix,,,,,,2,90,10448600,6.0,2,2,7,Finished,+40.100,1952
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,6,1952-zandvoort,Dutch Grand Prix,,,,,,4,90,10502900,4.0,3,3,7,Finished,+1:34.400,1952
+Cooper,cooper,British,,hawthorn,Mike Hawthorn,British,32,1952-zandvoort,Dutch Grand Prix,,,,,,3,88,,3.0,4,4,7,+2 Laps,,1952
+Gordini,gordini,French,,manzon,Robert Manzon,French,10,1952-zandvoort,Dutch Grand Prix,,,,,,6,87,,2.0,5,5,7,+3 Laps,,1952
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,12,1952-zandvoort,Dutch Grand Prix,,,,,,5,87,,0.0,6,6,7,+3 Laps,,1952
+HWM,hwm,British,,duncan_hamilton,Duncan Hamilton,British,28,1952-zandvoort,Dutch Grand Prix,,,,,,10,85,,0.0,7,7,7,+5 Laps,,1952
+HWM,hwm,British,,macklin,Lance Macklin,British,26,1952-zandvoort,Dutch Grand Prix,,,,,,9,84,,0.0,8,8,7,+6 Laps,,1952
+Maserati,maserati,Italian,,landi,Chico Landi,Brazilian,16,1952-zandvoort,Dutch Grand Prix,,,,,,16,83,,0.0,9,9,7,+7 Laps,,1952
+Maserati,maserati,Italian,,flinterman,Jan Flinterman,Dutch,16,1952-zandvoort,Dutch Grand Prix,,,,,,16,83,,0.0,9,9,7,+7 Laps,,1952
+Frazer Nash,frazer_nash,British,,wharton,Ken Wharton,British,34,1952-zandvoort,Dutch Grand Prix,,,,,,7,76,,0.0,10,R,7,Wheel bearing,,1952
+ERA,era,British,,moss,Stirling Moss,British,36,1952-zandvoort,Dutch Grand Prix,,,,,,18,73,,0.0,11,R,7,Engine,,1952
+HWM,hwm,British,,lof,Dries van der Lof,Dutch,30,1952-zandvoort,Dutch Grand Prix,,,,,,14,70,,0.0,12,R,7,Not classified,,1952
+Connaught,connaught,British,,downing,Ken Downing,British,22,1952-zandvoort,Dutch Grand Prix,,,,,,13,27,,0.0,13,R,7,Oil pressure,,1952
+Ferrari,ferrari,Italian,,tornaco,Charles de Tornaco,Belgian,24,1952-zandvoort,Dutch Grand Prix,,,,,,17,19,,0.0,14,R,7,Engine,,1952
+Simca,simca,French,,frere,Paul Frère,Belgian,14,1952-zandvoort,Dutch Grand Prix,,,,,,11,15,,0.0,15,R,7,Clutch,,1952
+Gordini,gordini,French,,behra,Jean Behra,French,8,1952-zandvoort,Dutch Grand Prix,,,,,,6,10,,0.0,16,R,7,Electrical,,1952
+Maserati,maserati,Italian,,flinterman,Jan Flinterman,Dutch,20,1952-zandvoort,Dutch Grand Prix,,,,,,15,7,,0.0,17,R,7,Differential,,1952
+Maserati,maserati,Italian,,bianco,Gino Bianco,Brazilian,18,1952-zandvoort,Dutch Grand Prix,,,,,,12,4,,0.0,18,R,7,Axle,,1952
+Ferrari,ferrari,Italian,,ascari,Alberto Ascari,Italian,12,1952-monza,Italian Grand Prix,,,,,,1,80,10245600,8.5,1,1,8,Finished,2:50:45.600,1952
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,26,1952-monza,Italian Grand Prix,,,,,,5,80,10307400,6.5,2,2,8,Finished,+1:01.800,1952
+Ferrari,ferrari,Italian,,villoresi,Luigi Villoresi,Italian,16,1952-monza,Italian Grand Prix,,,,,,2,80,10369800,4.0,3,3,8,Finished,+2:04.200,1952
+Ferrari,ferrari,Italian,,farina,Nino Farina,Italian,10,1952-monza,Italian Grand Prix,,,,,,3,80,10377000,3.0,4,4,8,Finished,+2:11.400,1952
+Maserati,maserati,Italian,,bonetto,Felice Bonetto,Italian,22,1952-monza,Italian Grand Prix,,,,,,13,79,,2.0,5,5,8,+1 Lap,,1952
+Ferrari,ferrari,Italian,,simon,André Simon,French,8,1952-monza,Italian Grand Prix,,,,,,8,79,,0.0,6,6,8,+1 Lap,,1952
+Ferrari,ferrari,Italian,,taruffi,Piero Taruffi,Italian,14,1952-monza,Italian Grand Prix,,,,,,6,77,,0.0,7,7,8,+3 Laps,,1952
+Maserati,maserati,Italian,,landi,Chico Landi,Brazilian,48,1952-monza,Italian Grand Prix,,,,,,18,76,,0.0,8,8,8,+4 Laps,,1952
+Cooper,cooper,British,,wharton,Ken Wharton,British,40,1952-monza,Italian Grand Prix,,,,,,15,76,,0.0,9,9,8,+4 Laps,,1952
+Ferrari,ferrari,Italian,,rosier,Louis Rosier,French,62,1952-monza,Italian Grand Prix,,,,,,17,75,,0.0,10,10,8,+5 Laps,,1952
+Maserati,maserati,Italian,,cantoni,Eitel Cantoni,Uruguayan,50,1952-monza,Italian Grand Prix,,,,,,23,75,,0.0,11,11,8,+5 Laps,,1952
+Connaught,connaught,British,,poore,Dennis Poore,British,30,1952-monza,Italian Grand Prix,,,,,,19,74,,0.0,12,12,8,+6 Laps,,1952
+Cooper,cooper,British,,brandon,Eric Brandon,British,36,1952-monza,Italian Grand Prix,,,,,,20,73,,0.0,13,13,8,+7 Laps,,1952
+Gordini,gordini,French,,manzon,Robert Manzon,French,2,1952-monza,Italian Grand Prix,,,,,,7,71,,0.0,14,14,8,+9 Laps,,1952
+Cooper,cooper,British,,alan_brown,Alan Brown,British,38,1952-monza,Italian Grand Prix,,,,,,12,68,,0.0,15,15,8,+12 Laps,,1952
+Connaught,connaught,British,,moss,Stirling Moss,British,32,1952-monza,Italian Grand Prix,,,,,,1,60,,0.0,16,R,8,Suspension,,1952
+Maserati,maserati,Italian,,bianco,Gino Bianco,Brazilian,46,1952-monza,Italian Grand Prix,,,,,,25,46,,0.0,17,R,8,Engine,,1952
+Gordini,gordini,French,,behra,Jean Behra,French,6,1952-monza,Italian Grand Prix,,,,,,11,42,,0.0,18,R,8,Engine,,1952
+Cooper,cooper,British,,hawthorn,Mike Hawthorn,British,42,1952-monza,Italian Grand Prix,,,,,,12,38,,0.0,19,R,8,Not classified,,1952
+Maserati,maserati,Italian,,rol,Franco Rol,Italian,24,1952-monza,Italian Grand Prix,,,,,,16,24,,0.0,20,R,8,Engine,,1952
+Gordini,gordini,French,,trintignant,Maurice Trintignant,French,4,1952-monza,Italian Grand Prix,,,,,,4,5,,0.0,21,R,8,Engine,,1952
+Connaught,connaught,British,,mcalpine,Kenneth McAlpine,British,28,1952-monza,Italian Grand Prix,,,,,,2,4,,0.0,22,R,8,Suspension,,1952
+Ferrari,ferrari,Italian,,fischer,Rudi Fischer,Swiss,18,1952-monza,Italian Grand Prix,,,,,,16,3,,0.0,23,R,8,Engine,,1952
+OSCA,osca,Italian,,bayol,Élie Bayol,French,34,1952-monza,Italian Grand Prix,,,,,,10,0,,0.0,24,R,8,Gearbox,,1952

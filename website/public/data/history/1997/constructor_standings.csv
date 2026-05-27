@@ -1,0 +1,12 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,123.0,1,1,8,1997
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,102.0,2,2,5,1997
+Benetton,benetton,Italian,https://en.wikipedia.org/wiki/Benetton_Formula,67.0,3,3,1,1997
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,63.0,4,4,3,1997
+Jordan,jordan,Irish,https://en.wikipedia.org/wiki/Jordan_Grand_Prix,33.0,5,5,0,1997
+Prost,prost,French,https://en.wikipedia.org/wiki/Prost_Grand_Prix,21.0,6,6,0,1997
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,16.0,7,7,0,1997
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,9.0,8,8,0,1997
+Stewart,stewart,British,https://en.wikipedia.org/wiki/Stewart_Grand_Prix,6.0,9,9,0,1997
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,2.0,10,10,0,1997
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,0.0,,-,0,1997

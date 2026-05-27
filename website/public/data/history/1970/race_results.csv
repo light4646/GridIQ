@@ -1,0 +1,268 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,12,1970-midrand,South African Grand Prix,,,,,,3,80,6575400,9.0,1,1,1,Finished,1:49:35.400,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,6,1970-midrand,South African Grand Prix,,,,,,6,80,6583500,6.0,2,2,1,Finished,+8.100,1970
+March,march,British,,stewart,Jackie Stewart,British,1,1970-midrand,South African Grand Prix,,,,,,1,80,6592500,4.0,3,3,1,Finished,+17.100,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,3,1970-midrand,South African Grand Prix,,,,,,8,80,6648500,3.0,4,4,1,Finished,+1:13.100,1970
+Team Lotus,team_lotus,British,,miles,John Miles,British,10,1970-midrand,South African Grand Prix,,,,,,14,79,,2.0,5,5,1,+1 Lap,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,11,1970-midrand,South African Grand Prix,,,,,,19,79,,1.0,6,6,1,+1 Lap,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,4,1970-midrand,South African Grand Prix,,,,,,18,78,,0.0,7,7,1,+2 Laps,,1970
+Team Lotus,team_lotus,British,,love,John Love,Rhodesian,23,1970-midrand,South African Grand Prix,,,,,,22,78,,0.0,8,8,1,+2 Laps,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,20,1970-midrand,South African Grand Prix,,,,,,16,76,,0.0,9,9,1,+4 Laps,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,16,1970-midrand,South African Grand Prix,,,,,,9,75,,0.0,10,10,1,+5 Laps,,1970
+Brabham,brabham,British,,klerk,Peter de Klerk,South African,24,1970-midrand,South African Grand Prix,,,,,,21,75,,0.0,11,11,1,+5 Laps,,1970
+Team Lotus,team_lotus,British,,charlton,Dave Charlton,South African,25,1970-midrand,South African Grand Prix,,,,,,13,73,,0.0,12,12,1,Engine,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,9,1970-midrand,South African Grand Prix,,,,,,4,72,,0.0,13,13,1,Engine,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,17,1970-midrand,South African Grand Prix,,,,,,5,60,,0.0,14,R,1,Engine,,1970
+McLaren-Ford,mclaren-ford,British,,surtees,John Surtees,British,7,1970-midrand,South African Grand Prix,,,,,,7,60,,0.0,15,R,1,Engine,,1970
+BRM,brm,British,,eaton,George Eaton,Canadian,21,1970-midrand,South African Grand Prix,,,,,,23,58,,0.0,16,R,1,Engine,,1970
+March,march,British,,gavin,Johnny Servoz-Gavin,French,2,1970-midrand,South African Grand Prix,,,,,,17,57,,0.0,17,R,1,Engine,,1970
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,5,1970-midrand,South African Grand Prix,,,,,,10,39,,0.0,18,R,1,Engine,,1970
+De Tomaso,tomaso,Italian,,courage,Piers Courage,British,22,1970-midrand,South African Grand Prix,,,,,,20,39,,0.0,19,R,1,Accident,,1970
+March,march,British,,mario_andretti,Mario Andretti,American,8,1970-midrand,South African Grand Prix,,,,,,11,26,,0.0,20,R,1,Overheating,,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,14,1970-midrand,South African Grand Prix,,,,,,15,23,,0.0,21,R,1,Engine,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,19,1970-midrand,South African Grand Prix,,,,,,12,22,,0.0,22,R,1,Gearbox,,1970
+March,march,British,,amon,Chris Amon,New Zealander,15,1970-midrand,South African Grand Prix,,,,,,2,14,,0.0,23,R,1,Overheating,,1970
+March,march,British,,stewart,Jackie Stewart,British,1,1970-madrid,Spanish Grand Prix,,,,,,3,90,7858200,9.0,1,1,2,Finished,2:10:58.200,1970
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,11,1970-madrid,Spanish Grand Prix,,,,,,11,89,,6.0,2,2,2,+1 Lap,,1970
+March,march,British,,mario_andretti,Mario Andretti,American,18,1970-madrid,Spanish Grand Prix,,,,,,16,89,,4.0,3,3,2,+1 Lap,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,6,1970-madrid,Spanish Grand Prix,,,,,,15,89,,3.0,4,4,2,+1 Lap,,1970
+March,march,British,,gavin,Johnny Servoz-Gavin,French,16,1970-madrid,Spanish Grand Prix,,,,,,14,88,,2.0,5,5,2,+2 Laps,,1970
+McLaren-Ford,mclaren-ford,British,,surtees,John Surtees,British,8,1970-madrid,Spanish Grand Prix,,,,,,12,76,,0.0,6,R,2,Gearbox,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,7,1970-madrid,Spanish Grand Prix,,,,,,1,61,,0.0,7,R,2,Engine,,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,24,1970-madrid,Spanish Grand Prix,,,,,,17,43,,0.0,8,R,2,Engine,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,22,1970-madrid,Spanish Grand Prix,,,,,,9,33,,0.0,9,R,2,Engine,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,4,1970-madrid,Spanish Grand Prix,,,,,,4,31,,0.0,10,R,2,Engine,,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,5,1970-madrid,Spanish Grand Prix,,,,,,2,10,,0.0,11,R,2,Ignition,,1970
+March,march,British,,amon,Chris Amon,New Zealander,9,1970-madrid,Spanish Grand Prix,,,,,,6,10,,0.0,12,R,2,Engine,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,3,1970-madrid,Spanish Grand Prix,,,,,,8,9,,0.0,13,R,2,Ignition,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,10,1970-madrid,Spanish Grand Prix,,,,,,5,4,,0.0,14,W,2,Withdrew,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,2,1970-madrid,Spanish Grand Prix,,,,,,7,0,,0.0,15,R,2,Accident,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,15,1970-madrid,Spanish Grand Prix,,,,,,10,0,,0.0,16,R,2,Accident,,1970
+De Tomaso,tomaso,Italian,,courage,Piers Courage,British,12,1970-madrid,Spanish Grand Prix,,,,,,13,0,,0.0,17,W,2,Withdrew,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,3,1970-monte-carlo,Monaco Grand Prix,,,,,,8,80,6877400,9.0,1,1,3,Finished,1:54:37.400,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,5,1970-monte-carlo,Monaco Grand Prix,,,,,,4,80,6900500,6.0,2,2,3,Finished,+23.100,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,9,1970-monte-carlo,Monaco Grand Prix,,,,,,7,80,6928800,4.0,3,3,3,Finished,+51.400,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,11,1970-monte-carlo,Monaco Grand Prix,,,,,,3,80,6965700,3.0,4,4,3,Finished,+1:28.300,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,1,1970-monte-carlo,Monaco Grand Prix,,,,,,16,79,,2.0,5,5,3,+1 Lap,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,17,1970-monte-carlo,Monaco Grand Prix,,,,,,15,78,,1.0,6,6,3,+2 Laps,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,23,1970-monte-carlo,Monaco Grand Prix,,,,,,12,78,,0.0,7,7,3,+2 Laps,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,19,1970-monte-carlo,Monaco Grand Prix,,,,,,11,76,,0.0,8,8,3,Out of fuel,,1970
+March,march,British,,amon,Chris Amon,New Zealander,28,1970-monte-carlo,Monaco Grand Prix,,,,,,2,60,,0.0,9,R,3,Suspension,,1970
+De Tomaso,tomaso,Italian,,courage,Piers Courage,British,24,1970-monte-carlo,Monaco Grand Prix,,,,,,9,58,,0.0,10,R,3,Not classified,,1970
+March,march,British,,stewart,Jackie Stewart,British,21,1970-monte-carlo,Monaco Grand Prix,,,,,,1,57,,0.0,11,R,3,Engine,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,16,1970-monte-carlo,Monaco Grand Prix,,,,,,14,42,,0.0,12,R,3,Engine,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,8,1970-monte-carlo,Monaco Grand Prix,,,,,,6,21,,0.0,13,R,3,Differential,,1970
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,12,1970-monte-carlo,Monaco Grand Prix,,,,,,10,19,,0.0,14,R,3,Suspension,,1970
+McLaren-Ford,mclaren-ford,British,,surtees,John Surtees,British,14,1970-monte-carlo,Monaco Grand Prix,,,,,,13,14,,0.0,15,R,3,Oil pressure,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,26,1970-monte-carlo,Monaco Grand Prix,,,,,,5,11,,0.0,16,R,3,Halfshaft,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,1,1970-spa,Belgian Grand Prix,,,,,,6,28,5890100,9.0,1,1,4,Finished,1:38:10.100,1970
+March,march,British,,amon,Chris Amon,New Zealander,10,1970-spa,Belgian Grand Prix,,,,,,3,28,5891200,6.0,2,2,4,Finished,+1.100,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,25,1970-spa,Belgian Grand Prix,,,,,,11,28,5993800,4.0,3,3,4,Finished,+1:43.700,1970
+Ferrari,ferrari,Italian,,giunti,Ignazio Giunti,Italian,28,1970-spa,Belgian Grand Prix,,,,,,8,28,6048600,3.0,4,4,4,Finished,+2:38.500,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,19,1970-spa,Belgian Grand Prix,,,,,,7,28,6101900,2.0,5,5,4,Finished,+3:31.800,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,26,1970-spa,Belgian Grand Prix,,,,,,17,27,,1.0,6,6,4,Electrical,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,9,1970-spa,Belgian Grand Prix,,,,,,10,26,,0.0,7,7,4,Fuel pressure,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,27,1970-spa,Belgian Grand Prix,,,,,,4,26,,0.0,8,8,4,+2 Laps,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,14,1970-spa,Belgian Grand Prix,,,,,,9,20,,0.0,9,R,4,Not classified,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,18,1970-spa,Belgian Grand Prix,,,,,,5,19,,0.0,10,R,4,Clutch,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,23,1970-spa,Belgian Grand Prix,,,,,,16,19,,0.0,11,R,4,Engine,,1970
+March,march,British,,stewart,Jackie Stewart,British,11,1970-spa,Belgian Grand Prix,,,,,,1,14,,0.0,12,R,4,Engine,,1970
+Team Lotus,team_lotus,British,,miles,John Miles,British,21,1970-spa,Belgian Grand Prix,,,,,,13,13,,0.0,13,R,4,Gearbox,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,20,1970-spa,Belgian Grand Prix,,,,,,2,10,,0.0,14,R,4,Engine,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,2,1970-spa,Belgian Grand Prix,,,,,,14,7,,0.0,15,R,4,Engine,,1970
+De Tomaso,tomaso,Italian,,courage,Piers Courage,British,7,1970-spa,Belgian Grand Prix,,,,,,12,4,,0.0,16,R,4,Oil pressure,,1970
+Brabham,brabham,British,,bell,Derek Bell,British,8,1970-spa,Belgian Grand Prix,,,,,,15,1,,0.0,17,R,4,Gearbox,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,10,1970-zandvoort,Dutch Grand Prix,,,,,,1,80,6643400,9.0,1,1,5,Finished,1:50:43.400,1970
+March,march,British,,stewart,Jackie Stewart,British,5,1970-zandvoort,Dutch Grand Prix,,,,,,2,80,6673400,6.0,2,2,5,Finished,+30.000,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,25,1970-zandvoort,Dutch Grand Prix,,,,,,3,79,,4.0,3,3,5,+1 Lap,,1970
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,26,1970-zandvoort,Dutch Grand Prix,,,,,,6,79,,3.0,4,4,5,+1 Lap,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,23,1970-zandvoort,Dutch Grand Prix,,,,,,10,79,,2.0,5,5,5,+1 Lap,,1970
+McLaren-Ford,mclaren-ford,British,,surtees,John Surtees,British,16,1970-zandvoort,Dutch Grand Prix,,,,,,14,79,,1.0,6,6,5,+1 Lap,,1970
+Team Lotus,team_lotus,British,,miles,John Miles,British,12,1970-zandvoort,Dutch Grand Prix,,,,,,8,78,,0.0,7,7,5,+2 Laps,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,24,1970-zandvoort,Dutch Grand Prix,,,,,,13,78,,0.0,8,8,5,+2 Laps,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,22,1970-zandvoort,Dutch Grand Prix,,,,,,16,78,,0.0,9,9,5,+2 Laps,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,1,1970-zandvoort,Dutch Grand Prix,,,,,,7,77,,0.0,10,10,5,+3 Laps,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,18,1970-zandvoort,Dutch Grand Prix,,,,,,12,76,,0.0,11,11,5,+4 Laps,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,15,1970-zandvoort,Dutch Grand Prix,,,,,,20,71,,0.0,12,R,5,Not classified,,1970
+March,march,British,,cevert,François Cevert,French,6,1970-zandvoort,Dutch Grand Prix,,,,,,15,31,,0.0,13,R,5,Engine,,1970
+BRM,brm,British,,eaton,George Eaton,Canadian,3,1970-zandvoort,Dutch Grand Prix,,,,,,18,26,,0.0,14,R,5,Oil leak,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,2,1970-zandvoort,Dutch Grand Prix,,,,,,5,23,,0.0,15,R,5,Engine,,1970
+De Tomaso,tomaso,Italian,,courage,Piers Courage,British,4,1970-zandvoort,Dutch Grand Prix,,,,,,9,22,,0.0,16,R,5,Accident,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,9,1970-zandvoort,Dutch Grand Prix,,,,,,17,22,,0.0,17,R,5,Engine,,1970
+McLaren-Ford,mclaren-ford,British,,gethin,Peter Gethin,British,20,1970-zandvoort,Dutch Grand Prix,,,,,,11,18,,0.0,18,R,5,Accident,,1970
+McLaren-Ford,mclaren-ford,British,,gurney,Dan Gurney,American,32,1970-zandvoort,Dutch Grand Prix,,,,,,19,2,,0.0,19,R,5,Engine,,1970
+March,march,British,,amon,Chris Amon,New Zealander,8,1970-zandvoort,Dutch Grand Prix,,,,,,4,1,,0.0,20,R,5,Clutch,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,6,1970-clermont-ferrand,French Grand Prix,,,,,,6,38,6957000,9.0,1,1,6,Finished,1:55,1970
+March,march,British,,amon,Chris Amon,New Zealander,14,1970-clermont-ferrand,French Grand Prix,,,,,,3,38,6964610,6.0,2,2,6,Finished,+7.610,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,23,1970-clermont-ferrand,French Grand Prix,,,,,,5,38,7001830,4.0,3,3,6,Finished,+44.830,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,19,1970-clermont-ferrand,French Grand Prix,,,,,,7,38,7002660,3.0,4,4,6,Finished,+45.660,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,20,1970-clermont-ferrand,French Grand Prix,,,,,,8,38,7036420,2.0,5,5,6,Finished,+1:19.420,1970
+McLaren-Ford,mclaren-ford,British,,gurney,Dan Gurney,American,32,1970-clermont-ferrand,French Grand Prix,,,,,,17,38,7036650,1.0,6,6,6,Finished,+1:19.650,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,22,1970-clermont-ferrand,French Grand Prix,,,,,,14,38,7097160,0.0,7,7,6,Finished,+2:20.160,1970
+Team Lotus,team_lotus,British,,miles,John Miles,British,7,1970-clermont-ferrand,French Grand Prix,,,,,,18,38,7124170,0.0,8,8,6,Finished,+2:47.170,1970
+March,march,British,,stewart,Jackie Stewart,British,1,1970-clermont-ferrand,French Grand Prix,,,,,,4,38,7146610,0.0,9,9,6,Finished,+3:09.610,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,8,1970-clermont-ferrand,French Grand Prix,,,,,,20,37,,0.0,10,10,6,+1 Lap,,1970
+March,march,British,,cevert,François Cevert,French,2,1970-clermont-ferrand,French Grand Prix,,,,,,13,37,,0.0,11,11,6,+1 Lap,,1970
+BRM,brm,British,,eaton,George Eaton,Canadian,4,1970-clermont-ferrand,French Grand Prix,,,,,,19,36,,0.0,12,12,6,+2 Laps,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,21,1970-clermont-ferrand,French Grand Prix,,,,,,2,35,,0.0,13,13,6,Out of fuel,,1970
+Ferrari,ferrari,Italian,,giunti,Ignazio Giunti,Italian,11,1970-clermont-ferrand,French Grand Prix,,,,,,11,35,,0.0,14,14,6,+3 Laps,,1970
+McLaren-Alfa Romeo,mclaren-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,16,1970-clermont-ferrand,French Grand Prix,,,,,,15,29,,0.0,15,R,6,Not classified,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,12,1970-clermont-ferrand,French Grand Prix,,,,,,16,23,,0.0,16,R,6,Accident,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,18,1970-clermont-ferrand,French Grand Prix,,,,,,9,17,,0.0,17,R,6,Differential,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,10,1970-clermont-ferrand,French Grand Prix,,,,,,1,16,,0.0,18,R,6,Engine,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,3,1970-clermont-ferrand,French Grand Prix,,,,,,10,6,,0.0,19,R,6,Gearbox,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,5,1970-clermont-ferrand,French Grand Prix,,,,,,12,5,,0.0,20,R,6,Engine,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,5,1970-kent,British Grand Prix,,,,,,1,80,7022000,9.0,1,1,7,Finished,1:57,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,17,1970-kent,British Grand Prix,,,,,,2,80,7054900,6.0,2,2,7,Finished,+32.900,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,9,1970-kent,British Grand Prix,,,,,,5,80,7076400,4.0,3,3,7,Finished,+54.400,1970
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,4,1970-kent,British Grand Prix,,,,,,6,80,7076800,3.0,4,4,7,Finished,+54.800,1970
+March,march,British,,amon,Chris Amon,New Zealander,16,1970-kent,British Grand Prix,,,,,,17,79,,2.0,5,5,7,+1 Lap,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,14,1970-kent,British Grand Prix,,,,,,22,79,,1.0,6,6,7,+1 Lap,,1970
+March,march,British,,cevert,François Cevert,French,2,1970-kent,British Grand Prix,,,,,,14,79,,0.0,7,7,7,+1 Lap,,1970
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1970-kent,British Grand Prix,,,,,,21,78,,0.0,8,8,7,+2 Laps,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,27,1970-kent,British Grand Prix,,,,,,13,72,,0.0,9,9,7,+8 Laps,,1970
+Team Lotus,team_lotus,British,,lovely,Pete Lovely,American,29,1970-kent,British Grand Prix,,,,,,23,69,,0.0,10,R,7,Not classified,,1970
+McLaren-Ford,mclaren-ford,British,,gurney,Dan Gurney,American,32,1970-kent,British Grand Prix,,,,,,11,60,,0.0,11,R,7,Oil pressure,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,22,1970-kent,British Grand Prix,,,,,,15,58,,0.0,12,R,7,Accident,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,23,1970-kent,British Grand Prix,,,,,,4,54,,0.0,13,R,7,Engine,,1970
+March,march,British,,stewart,Jackie Stewart,British,1,1970-kent,British Grand Prix,,,,,,8,52,,0.0,14,R,7,Clutch,,1970
+Surtees,surtees,British,,surtees,John Surtees,British,20,1970-kent,British Grand Prix,,,,,,19,51,,0.0,15,R,7,Oil pressure,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,8,1970-kent,British Grand Prix,,,,,,12,41,,0.0,16,R,7,Accident,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,7,1970-kent,British Grand Prix,,,,,,10,24,,0.0,17,R,7,Wheel,,1970
+March,march,British,,mario_andretti,Mario Andretti,American,26,1970-kent,British Grand Prix,,,,,,9,21,,0.0,18,R,7,Suspension,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,15,1970-kent,British Grand Prix,,,,,,20,19,,0.0,19,R,7,Suspension,,1970
+Team Lotus,team_lotus,British,,miles,John Miles,British,6,1970-kent,British Grand Prix,,,,,,7,15,,0.0,20,R,7,Engine,,1970
+BRM,brm,British,,eaton,George Eaton,Canadian,24,1970-kent,British Grand Prix,,,,,,16,10,,0.0,21,R,7,Oil pressure,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1970-kent,British Grand Prix,,,,,,3,6,,0.0,22,R,7,Transmission,,1970
+McLaren-Alfa Romeo,mclaren-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,11,1970-kent,British Grand Prix,,,,,,18,0,,0.0,23,R,7,Fuel leak,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,2,1970-hockenheim,German Grand Prix,,,,,,2,50,6120300,9.0,1,1,8,Finished,1:42:00.300,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,10,1970-hockenheim,German Grand Prix,,,,,,1,50,6121000,6.0,2,2,8,Finished,+0.700,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,4,1970-hockenheim,German Grand Prix,,,,,,16,50,6202100,4.0,3,3,8,Finished,+1:21.800,1970
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,17,1970-hockenheim,German Grand Prix,,,,,,13,50,6235400,3.0,4,4,8,Finished,+1:55.100,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,21,1970-hockenheim,German Grand Prix,,,,,,11,49,,2.0,5,5,8,+1 Lap,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,14,1970-hockenheim,German Grand Prix,,,,,,5,49,,1.0,6,6,8,+1 Lap,,1970
+March,march,British,,cevert,François Cevert,French,23,1970-hockenheim,German Grand Prix,,,,,,14,49,,0.0,7,7,8,+1 Lap,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,12,1970-hockenheim,German Grand Prix,,,,,,4,47,,0.0,8,8,8,Ignition,,1970
+Surtees,surtees,British,,surtees,John Surtees,British,7,1970-hockenheim,German Grand Prix,,,,,,15,46,,0.0,9,9,8,Engine,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,9,1970-hockenheim,German Grand Prix,,,,,,20,37,,0.0,10,R,8,Engine,,1970
+March,march,British,,amon,Chris Amon,New Zealander,5,1970-hockenheim,German Grand Prix,,,,,,6,34,,0.0,11,R,8,Engine,,1970
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,15,1970-hockenheim,German Grand Prix,,,,,,3,30,,0.0,12,R,8,Engine,,1970
+Team Lotus,team_lotus,British,,miles,John Miles,British,16,1970-hockenheim,German Grand Prix,,,,,,10,24,,0.0,13,R,8,Engine,,1970
+March,march,British,,stewart,Jackie Stewart,British,1,1970-hockenheim,German Grand Prix,,,,,,7,20,,0.0,14,R,8,Engine,,1970
+March,march,British,,mario_andretti,Mario Andretti,American,11,1970-hockenheim,German Grand Prix,,,,,,9,15,,0.0,15,R,8,Gearbox,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,22,1970-hockenheim,German Grand Prix,,,,,,19,11,,0.0,16,R,8,Engine,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,6,1970-hockenheim,German Grand Prix,,,,,,8,7,,0.0,17,R,8,Ignition,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,18,1970-hockenheim,German Grand Prix,,,,,,18,5,,0.0,18,R,8,Engine,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,3,1970-hockenheim,German Grand Prix,,,,,,12,4,,0.0,19,R,8,Oil leak,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,8,1970-hockenheim,German Grand Prix,,,,,,21,4,,0.0,20,R,8,Suspension,,1970
+McLaren-Ford,mclaren-ford,British,,gethin,Peter Gethin,British,24,1970-hockenheim,German Grand Prix,,,,,,17,3,,0.0,21,R,8,Throttle,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,12,1970-spielberg,Austrian Grand Prix,,,,,,3,60,6137300,9.0,1,1,9,Finished,1:42:17.300,1970
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,27,1970-spielberg,Austrian Grand Prix,,,,,,2,60,6137910,6.0,2,2,9,Finished,+0.610,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,11,1970-spielberg,Austrian Grand Prix,,,,,,17,60,6225180,4.0,3,3,9,Finished,+1:27.880,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,17,1970-spielberg,Austrian Grand Prix,,,,,,22,59,,3.0,4,4,9,+1 Lap,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,16,1970-spielberg,Austrian Grand Prix,,,,,,14,59,,2.0,5,5,9,+1 Lap,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,19,1970-spielberg,Austrian Grand Prix,,,,,,7,59,,1.0,6,6,9,+1 Lap,,1970
+Ferrari,ferrari,Italian,,giunti,Ignazio Giunti,Italian,14,1970-spielberg,Austrian Grand Prix,,,,,,5,59,,0.0,7,7,9,+1 Lap,,1970
+March,march,British,,amon,Chris Amon,New Zealander,4,1970-spielberg,Austrian Grand Prix,,,,,,5,59,,0.0,8,8,9,+1 Lap,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,3,1970-spielberg,Austrian Grand Prix,,,,,,20,59,,0.0,9,9,9,+1 Lap,,1970
+McLaren-Ford,mclaren-ford,British,,gethin,Peter Gethin,British,23,1970-spielberg,Austrian Grand Prix,,,,,,21,59,,0.0,10,10,9,+1 Lap,,1970
+BRM,brm,British,,eaton,George Eaton,Canadian,18,1970-spielberg,Austrian Grand Prix,,,,,,23,58,,0.0,11,11,9,+2 Laps,,1970
+McLaren-Alfa Romeo,mclaren-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,22,1970-spielberg,Austrian Grand Prix,,,,,,15,57,,0.0,12,12,9,+3 Laps,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,10,1970-spielberg,Austrian Grand Prix,,,,,,8,56,,0.0,13,13,9,+4 Laps,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,20,1970-spielberg,Austrian Grand Prix,,,,,,13,56,,0.0,14,14,9,+4 Laps,,1970
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,8,1970-spielberg,Austrian Grand Prix,,,,,,16,55,,0.0,15,15,9,+5 Laps,,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,21,1970-spielberg,Austrian Grand Prix,,,,,,11,30,,0.0,16,R,9,Engine,,1970
+Surtees,surtees,British,,surtees,John Surtees,British,15,1970-spielberg,Austrian Grand Prix,,,,,,12,27,,0.0,17,R,9,Engine,,1970
+De Tomaso,tomaso,Italian,,schenken,Tim Schenken,Australian,26,1970-spielberg,Austrian Grand Prix,,,,,,19,25,,0.0,18,R,9,Engine,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,6,1970-spielberg,Austrian Grand Prix,,,,,,1,21,,0.0,19,R,9,Engine,,1970
+March,march,British,,mario_andretti,Mario Andretti,American,5,1970-spielberg,Austrian Grand Prix,,,,,,18,13,,0.0,20,R,9,Accident,,1970
+Bellasi,bellasi,Swiss,,moser,Silvio Moser,Swiss,24,1970-spielberg,Austrian Grand Prix,,,,,,24,13,,0.0,21,R,9,Radiator,,1970
+March,march,British,,stewart,Jackie Stewart,British,1,1970-spielberg,Austrian Grand Prix,,,,,,4,7,,0.0,22,R,9,Fuel pipe,,1970
+Team Lotus,team_lotus,British,,miles,John Miles,British,7,1970-spielberg,Austrian Grand Prix,,,,,,10,4,,0.0,23,R,9,Brakes,,1970
+March,march,British,,cevert,François Cevert,French,2,1970-spielberg,Austrian Grand Prix,,,,,,9,0,,0.0,24,R,9,Engine,,1970
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,4,1970-monza,Italian Grand Prix,,,,,,3,68,5947100,9.0,1,1,10,Finished,1:39:07.100,1970
+March,march,British,,stewart,Jackie Stewart,British,18,1970-monza,Italian Grand Prix,,,,,,4,68,5952830,6.0,2,2,10,Finished,+5.730,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,40,1970-monza,Italian Grand Prix,,,,,,14,68,5952900,4.0,3,3,10,Finished,+5.800,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,30,1970-monza,Italian Grand Prix,,,,,,9,68,5953250,3.0,4,4,10,Finished,+6.150,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,46,1970-monza,Italian Grand Prix,,,,,,17,68,5953510,2.0,5,5,10,Finished,+6.410,1970
+March,march,British,,cevert,François Cevert,French,20,1970-monza,Italian Grand Prix,,,,,,11,68,6010560,1.0,6,6,10,Finished,+1:03.460,1970
+March,march,British,,amon,Chris Amon,New Zealander,48,1970-monza,Italian Grand Prix,,,,,,18,67,,0.0,7,7,10,+1 Lap,,1970
+McLaren-Alfa Romeo,mclaren-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,34,1970-monza,Italian Grand Prix,,,,,,12,61,,0.0,8,8,10,+7 Laps,,1970
+McLaren-Ford,mclaren-ford,British,,gethin,Peter Gethin,British,32,1970-monza,Italian Grand Prix,,,,,,16,60,,0.0,9,R,10,Not classified,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,8,1970-monza,Italian Grand Prix,,,,,,6,36,,0.0,10,R,10,Engine,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,52,1970-monza,Italian Grand Prix,,,,,,13,35,,0.0,11,R,10,Engine,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,44,1970-monza,Italian Grand Prix,,,,,,8,31,,0.0,12,R,10,Accident,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,2,1970-monza,Italian Grand Prix,,,,,,1,25,,0.0,13,R,10,Clutch,,1970
+BRM,brm,British,,eaton,George Eaton,Canadian,12,1970-monza,Italian Grand Prix,,,,,,20,21,,0.0,14,R,10,Overheating,,1970
+De Tomaso,tomaso,Italian,,schenken,Tim Schenken,Australian,54,1970-monza,Italian Grand Prix,,,,,,19,17,,0.0,15,R,10,Engine,,1970
+Ferrari,ferrari,Italian,,giunti,Ignazio Giunti,Italian,6,1970-monza,Italian Grand Prix,,,,,,15,14,,0.0,16,R,10,Fuel system,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,42,1970-monza,Italian Grand Prix,,,,,,5,14,,0.0,17,R,10,Engine,,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,10,1970-monza,Italian Grand Prix,,,,,,2,12,,0.0,18,R,10,Engine,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,50,1970-monza,Italian Grand Prix,,,,,,7,3,,0.0,19,R,10,Engine,,1970
+Surtees,surtees,British,,surtees,John Surtees,British,14,1970-monza,Italian Grand Prix,,,,,,10,0,,0.0,20,R,10,Electrical,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,28,1970-monza,Italian Grand Prix,,,,,,0,0,,0.0,21,W,10,Withdrew,,1970
+Team Lotus,team_lotus,British,,miles,John Miles,British,24,1970-monza,Italian Grand Prix,,,,,,0,0,,0.0,22,W,10,Withdrew,,1970
+Team Lotus,team_lotus,British,,rindt,Jochen Rindt,Austrian,22,1970-monza,Italian Grand Prix,,,,,,0,0,,0.0,23,W,10,Fatal accident,,1970
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,26,1970-monza,Italian Grand Prix,,,,,,0,0,,0.0,25,W,10,Withdrew,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,18,1970-quebec,Canadian Grand Prix,,,,,,2,90,4878400,9.0,1,1,11,Finished,1:21:18.400,1970
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,19,1970-quebec,Canadian Grand Prix,,,,,,3,90,4893200,6.0,2,2,11,Finished,+14.800,1970
+March,march,British,,amon,Chris Amon,New Zealander,20,1970-quebec,Canadian Grand Prix,,,,,,6,90,4936300,4.0,3,3,11,Finished,+57.900,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,14,1970-quebec,Canadian Grand Prix,,,,,,7,89,,3.0,4,4,11,+1 Lap,,1970
+Surtees,surtees,British,,surtees,John Surtees,British,4,1970-quebec,Canadian Grand Prix,,,,,,5,89,,2.0,5,5,11,+1 Lap,,1970
+McLaren-Ford,mclaren-ford,British,,gethin,Peter Gethin,British,6,1970-quebec,Canadian Grand Prix,,,,,,11,88,,1.0,6,6,11,+2 Laps,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,24,1970-quebec,Canadian Grand Prix,,,,,,8,87,,0.0,7,7,11,+3 Laps,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,23,1970-quebec,Canadian Grand Prix,,,,,,13,85,,0.0,8,8,11,Clutch,,1970
+March,march,British,,cevert,François Cevert,French,2,1970-quebec,Canadian Grand Prix,,,,,,4,85,,0.0,9,9,11,+5 Laps,,1970
+BRM,brm,British,,eaton,George Eaton,Canadian,16,1970-quebec,Canadian Grand Prix,,,,,,9,85,,0.0,10,10,11,+5 Laps,,1970
+De Tomaso,tomaso,Italian,,schenken,Tim Schenken,Australian,10,1970-quebec,Canadian Grand Prix,,,,,,17,79,,0.0,11,R,11,Not classified,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,9,1970-quebec,Canadian Grand Prix,,,,,,20,77,,0.0,12,R,11,Not classified,,1970
+McLaren-Alfa Romeo,mclaren-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,8,1970-quebec,Canadian Grand Prix,,,,,,12,69,,0.0,13,R,11,Oil pressure,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,26,1970-quebec,Canadian Grand Prix,,,,,,16,65,,0.0,14,R,11,Not classified,,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,5,1970-quebec,Canadian Grand Prix,,,,,,15,58,,0.0,15,R,11,Engine,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,11,1970-quebec,Canadian Grand Prix,,,,,,19,57,,0.0,16,R,11,Oil leak,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,15,1970-quebec,Canadian Grand Prix,,,,,,10,52,,0.0,17,R,11,Not classified,,1970
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,3,1970-quebec,Canadian Grand Prix,,,,,,1,31,,0.0,18,R,11,Axle,,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,12,1970-quebec,Canadian Grand Prix,,,,,,18,22,,0.0,19,R,11,Handling,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,21,1970-quebec,Canadian Grand Prix,,,,,,14,21,,0.0,20,R,11,Engine,,1970
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,24,1970-new-york-state,United States Grand Prix,,,,,,3,108,7052790,9.0,1,1,12,Finished,1:57:32.790,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,19,1970-new-york-state,United States Grand Prix,,,,,,4,108,7089180,6.0,2,2,12,Finished,+36.390,1970
+Team Lotus,team_lotus,British,,wisell,Reine Wisell,Swedish,23,1970-new-york-state,United States Grand Prix,,,,,,9,108,7097960,4.0,3,3,12,Finished,+45.170,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1970-new-york-state,United States Grand Prix,,,,,,1,107,,3.0,4,4,12,+1 Lap,,1970
+March,march,British,,amon,Chris Amon,New Zealander,12,1970-new-york-state,United States Grand Prix,,,,,,5,107,,2.0,5,5,12,+1 Lap,,1970
+Surtees,surtees,British,,bell,Derek Bell,British,18,1970-new-york-state,United States Grand Prix,,,,,,13,107,,1.0,6,6,12,+1 Lap,,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,8,1970-new-york-state,United States Grand Prix,,,,,,11,106,,0.0,7,7,12,+2 Laps,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,7,1970-new-york-state,United States Grand Prix,,,,,,12,105,,0.0,8,8,12,+3 Laps,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,11,1970-new-york-state,United States Grand Prix,,,,,,23,105,,0.0,9,9,12,+3 Laps,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,15,1970-new-york-state,United States Grand Prix,,,,,,16,105,,0.0,10,10,12,+3 Laps,,1970
+March,march,British,,peterson,Ronnie Peterson,Swedish,29,1970-new-york-state,United States Grand Prix,,,,,,15,104,,0.0,11,11,12,+4 Laps,,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,16,1970-new-york-state,United States Grand Prix,,,,,,19,104,,0.0,12,12,12,+4 Laps,,1970
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,4,1970-new-york-state,United States Grand Prix,,,,,,6,101,,0.0,13,13,12,+7 Laps,,1970
+McLaren-Ford,mclaren-ford,British,,gethin,Peter Gethin,British,9,1970-new-york-state,United States Grand Prix,,,,,,21,100,,0.0,14,14,12,+8 Laps,,1970
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1970-new-york-state,United States Grand Prix,,,,,,2,82,,0.0,15,R,12,Oil leak,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,14,1970-new-york-state,United States Grand Prix,,,,,,10,72,,0.0,16,R,12,Clutch,,1970
+March,march,British,,cevert,François Cevert,French,2,1970-new-york-state,United States Grand Prix,,,,,,17,62,,0.0,17,R,12,Wheel,,1970
+De Tomaso,tomaso,Italian,,schenken,Tim Schenken,Australian,30,1970-new-york-state,United States Grand Prix,,,,,,20,61,,0.0,18,R,12,Suspension,,1970
+McLaren-Ford,mclaren-ford,British,,bonnier,Jo Bonnier,Swedish,27,1970-new-york-state,United States Grand Prix,,,,,,24,50,,0.0,19,R,12,Water pipe,,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,6,1970-new-york-state,United States Grand Prix,,,,,,18,27,,0.0,20,R,12,Handling,,1970
+Brabham,brabham,British,,hutchison,Gus Hutchison,American,31,1970-new-york-state,United States Grand Prix,,,,,,22,21,,0.0,21,R,12,Fuel leak,,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,20,1970-new-york-state,United States Grand Prix,,,,,,7,14,,0.0,22,R,12,Engine,,1970
+BRM,brm,British,,eaton,George Eaton,Canadian,21,1970-new-york-state,United States Grand Prix,,,,,,14,10,,0.0,23,R,12,Engine,,1970
+Surtees,surtees,British,,surtees,John Surtees,British,17,1970-new-york-state,United States Grand Prix,,,,,,8,6,,0.0,24,R,12,Engine,,1970
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1970-mexico-city,Mexican Grand Prix,,,,,,3,65,6808300,9.0,1,1,13,Finished,1:53:28.300,1970
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,4,1970-mexico-city,Mexican Grand Prix,,,,,,1,65,6832940,6.0,2,2,13,Finished,+24.640,1970
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,8,1970-mexico-city,Mexican Grand Prix,,,,,,14,65,6854270,4.0,3,3,13,Finished,+45.970,1970
+March,march,British,,amon,Chris Amon,New Zealander,12,1970-mexico-city,Mexican Grand Prix,,,,,,5,65,6855350,3.0,4,4,13,Finished,+47.050,1970
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,6,1970-mexico-city,Mexican Grand Prix,,,,,,6,65,6858410,2.0,5,5,13,Finished,+50.110,1970
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,19,1970-mexico-city,Mexican Grand Prix,,,,,,7,65,6893060,1.0,6,6,13,Finished,+1:24.760,1970
+BRM,brm,British,,oliver,Jackie Oliver,British,20,1970-mexico-city,Mexican Grand Prix,,,,,,13,64,,0.0,7,7,13,+1 Lap,,1970
+Surtees,surtees,British,,surtees,John Surtees,British,17,1970-mexico-city,Mexican Grand Prix,,,,,,15,64,,0.0,8,8,13,+1 Lap,,1970
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,7,1970-mexico-city,Mexican Grand Prix,,,,,,11,61,,0.0,9,9,13,+4 Laps,,1970
+Team Lotus,team_lotus,British,,wisell,Reine Wisell,Swedish,23,1970-mexico-city,Mexican Grand Prix,,,,,,12,56,,0.0,10,R,13,Not classified,,1970
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,15,1970-mexico-city,Mexican Grand Prix,,,,,,4,52,,0.0,11,R,13,Engine,,1970
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,1,1970-mexico-city,Mexican Grand Prix,,,,,,2,33,,0.0,12,R,13,Suspension,,1970
+McLaren-Ford,mclaren-ford,British,,gethin,Peter Gethin,British,9,1970-mexico-city,Mexican Grand Prix,,,,,,10,27,,0.0,13,R,13,Engine,,1970
+Brabham,brabham,British,,stommelen,Rolf Stommelen,German,16,1970-mexico-city,Mexican Grand Prix,,,,,,17,15,,0.0,14,R,13,Fuel system,,1970
+March,march,British,,cevert,François Cevert,French,2,1970-mexico-city,Mexican Grand Prix,,,,,,9,8,,0.0,15,R,13,Engine,,1970
+Team Lotus,team_lotus,British,,hill,Graham Hill,British,14,1970-mexico-city,Mexican Grand Prix,,,,,,8,4,,0.0,16,R,13,Overheating,,1970
+March,march,British,,siffert,Jo Siffert,Swiss,11,1970-mexico-city,Mexican Grand Prix,,,,,,16,3,,0.0,17,R,13,Engine,,1970
+Team Lotus,team_lotus,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,24,1970-mexico-city,Mexican Grand Prix,,,,,,18,1,,0.0,18,R,13,Engine,,1970

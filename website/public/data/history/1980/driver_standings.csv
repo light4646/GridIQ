@@ -1,0 +1,35 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""williams""]","[""Williams""]",,jones,Alan Jones,Australian,,67.0,1,1,5,1980
+"[""brabham""]","[""Brabham""]",,piquet,Nelson Piquet,Brazilian,,54.0,2,2,3,1980
+"[""williams""]","[""Williams""]",,reutemann,Carlos Reutemann,Argentine,,42.0,3,3,1,1980
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,34.0,4,4,1,1980
+"[""ligier""]","[""Ligier""]",,pironi,Didier Pironi,French,,32.0,5,5,1,1980
+"[""renault""]","[""Renault""]",,arnoux,René Arnoux,French,,29.0,6,6,2,1980
+"[""team_lotus""]","[""Team Lotus""]",,angelis,Elio de Angelis,Italian,,13.0,7,7,0,1980
+"[""renault""]","[""Renault""]",,jabouille,Jean-Pierre Jabouille,French,,9.0,8,8,1,1980
+"[""arrows""]","[""Arrows""]",,patrese,Riccardo Patrese,Italian,,7.0,9,9,0,1980
+"[""fittipaldi""]","[""Fittipaldi""]",,keke_rosberg,Keke Rosberg,Finnish,,6.0,10,10,0,1980
+"[""mclaren""]","[""McLaren""]",,watson,John Watson,British,,6.0,11,11,0,1980
+"[""tyrrell""]","[""Tyrrell""]",,daly,Derek Daly,Irish,,6.0,12,12,0,1980
+"[""tyrrell""]","[""Tyrrell""]",,jarier,Jean-Pierre Jarier,French,,6.0,13,13,0,1980
+"[""ferrari""]","[""Ferrari""]",,gilles_villeneuve,Gilles Villeneuve,Canadian,,6.0,14,14,0,1980
+"[""fittipaldi""]","[""Fittipaldi""]",,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,,5.0,15,15,0,1980
+"[""mclaren""]","[""McLaren""]",,prost,Alain Prost,French,,5.0,16,16,0,1980
+"[""arrows""]","[""Arrows""]",,mass,Jochen Mass,German,,4.0,17,17,0,1980
+"[""alfa""]","[""Alfa Romeo""]",,giacomelli,Bruno Giacomelli,Italian,,4.0,18,18,0,1980
+"[""ferrari""]","[""Ferrari""]",,scheckter,Jody Scheckter,South African,,2.0,19,19,0,1980
+"[""team_lotus""]","[""Team Lotus""]",,mario_andretti,Mario Andretti,American,,1.0,20,20,0,1980
+"[""brabham""]","[""Brabham""]",,rebaque,Hector Rebaque,Mexican,,1.0,21,21,0,1980
+"[""ats""]","[""ATS""]",,surer,Marc Surer,Swiss,,0.0,,-,0,1980
+"[""brabham""]","[""Brabham""]",,zunino,Ricardo Zunino,Argentine,,0.0,,-,0,1980
+"[""williams""]","[""Williams""]",,keegan,Rupert Keegan,British,,0.0,,-,0,1980
+"[""ensign""]","[""Ensign""]",,regazzoni,Clay Regazzoni,Swiss,,0.0,,-,0,1980
+"[""ats"", ""ensign""]","[""ATS"", ""Ensign""]",,lammers,Jan Lammers,Dutch,,0.0,,-,0,1980
+"[""osella""]","[""Osella""]",,cheever,Eddie Cheever,American,,0.0,,-,0,1980
+"[""shadow"", ""ensign"", ""williams""]","[""Shadow"", ""Ensign"", ""Williams""]",,lees,Geoff Lees,British,,0.0,,-,0,1980
+"[""alfa""]","[""Alfa Romeo""]",,depailler,Patrick Depailler,French,,0.0,,-,0,1980
+"[""team_lotus""]","[""Team Lotus""]",,mansell,Nigel Mansell,British,,0.0,,-,0,1980
+"[""alfa""]","[""Alfa Romeo""]",,brambilla,Vittorio Brambilla,Italian,,0.0,,-,0,1980
+"[""alfa""]","[""Alfa Romeo""]",,cesaris,Andrea de Cesaris,Italian,,0.0,,-,0,1980
+"[""ensign""]","[""Ensign""]",,needell,Tiff Needell,British,,0.0,,-,0,1980
+"[""arrows"", ""tyrrell""]","[""Arrows"", ""Tyrrell""]",,thackwell,Mike Thackwell,New Zealander,,0.0,,-,0,1980

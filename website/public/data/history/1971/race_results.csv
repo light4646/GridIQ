@@ -1,0 +1,258 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,6,1971-midrand,South African Grand Prix,,,,,,4,79,6455500,9.0,1,1,1,Finished,1:47:35.500,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,9,1971-midrand,South African Grand Prix,,,,,,1,79,6476400,6.0,2,2,1,Finished,+20.900,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1971-midrand,South African Grand Prix,,,,,,3,79,6486900,4.0,3,3,1,Finished,+31.400,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,3,1971-midrand,South African Grand Prix,,,,,,14,79,6524900,3.0,4,4,1,Finished,+1:09.400,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,19,1971-midrand,South African Grand Prix,,,,,,2,78,,2.0,5,5,1,+1 Lap,,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,11,1971-midrand,South African Grand Prix,,,,,,7,78,,1.0,6,6,1,+1 Lap,,1971
+Surtees,surtees,British,,redman,Brian Redman,British,28,1971-midrand,South African Grand Prix,,,,,,17,78,,0.0,7,7,1,+1 Lap,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1971-midrand,South African Grand Prix,,,,,,8,78,,0.0,8,8,1,+1 Lap,,1971
+Brabham,brabham,British,,hill,Graham Hill,British,14,1971-midrand,South African Grand Prix,,,,,,19,77,,0.0,9,9,1,+2 Laps,,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,7,1971-midrand,South African Grand Prix,,,,,,13,77,,0.0,10,10,1,+2 Laps,,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,22,1971-midrand,South African Grand Prix,,,,,,18,77,,0.0,11,11,1,+2 Laps,,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,21,1971-midrand,South African Grand Prix,,,,,,15,77,,0.0,12,12,1,+2 Laps,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,8,1971-midrand,South African Grand Prix,,,,,,22,75,,0.0,13,13,1,+4 Laps,,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,2,1971-midrand,South African Grand Prix,,,,,,5,58,,0.0,14,R,1,Engine,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,20,1971-midrand,South African Grand Prix,,,,,,6,56,,0.0,15,R,1,Gearbox,,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,10,1971-midrand,South African Grand Prix,,,,,,9,45,,0.0,16,R,1,Accident,,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,27,1971-midrand,South African Grand Prix,,,,,,24,42,,0.0,17,R,1,Physical,,1971
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,16,1971-midrand,South African Grand Prix,,,,,,10,33,,0.0,18,R,1,Overheating,,1971
+Brabham,brabham,British,,charlton,Dave Charlton,South African,15,1971-midrand,South African Grand Prix,,,,,,16,31,,0.0,19,R,1,Engine,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,17,1971-midrand,South African Grand Prix,,,,,,12,31,,0.0,20,R,1,Overheating,,1971
+March-Ford,march-ford,British,,love,John Love,Rhodesian,24,1971-midrand,South African Grand Prix,,,,,,21,30,,0.0,21,R,1,Differential,,1971
+Brabham,brabham,British,,pretorius,Jackie Pretorius,South African,25,1971-midrand,South African Grand Prix,,,,,,20,22,,0.0,22,R,1,Engine,,1971
+McLaren,mclaren,British,,gethin,Peter Gethin,British,12,1971-midrand,South African Grand Prix,,,,,,11,7,,0.0,23,R,1,Fuel leak,,1971
+McLaren,mclaren,British,,bonnier,Jo Bonnier,Swedish,23,1971-midrand,South African Grand Prix,,,,,,23,5,,0.0,24,R,1,Suspension,,1971
+March-Ford,march-ford,British,,roig,Alex Soler-Roig,Spanish,26,1971-midrand,South African Grand Prix,,,,,,25,5,,0.0,25,R,1,Engine,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,11,1971-barcelona,Spanish Grand Prix,,,,,,4,75,6543400,9.0,1,1,2,Finished,1:49:03.400,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1971-barcelona,Spanish Grand Prix,,,,,,1,75,6546800,6.0,2,2,2,Finished,+3.400,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,20,1971-barcelona,Spanish Grand Prix,,,,,,3,75,6601500,4.0,3,3,2,Finished,+58.100,1971
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,14,1971-barcelona,Spanish Grand Prix,,,,,,5,75,6621300,3.0,4,4,2,Finished,+1:17.900,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,9,1971-barcelona,Spanish Grand Prix,,,,,,9,75,6630400,2.0,5,5,2,Finished,+1:27.000,1971
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,21,1971-barcelona,Spanish Grand Prix,,,,,,6,74,,1.0,6,6,2,+1 Lap,,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,12,1971-barcelona,Spanish Grand Prix,,,,,,12,74,,0.0,7,7,2,+1 Lap,,1971
+McLaren,mclaren,British,,gethin,Peter Gethin,British,10,1971-barcelona,Spanish Grand Prix,,,,,,7,73,,0.0,8,8,2,+2 Laps,,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,8,1971-barcelona,Spanish Grand Prix,,,,,,21,72,,0.0,9,9,2,+3 Laps,,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,16,1971-barcelona,Spanish Grand Prix,,,,,,17,71,,0.0,10,10,2,+4 Laps,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,24,1971-barcelona,Spanish Grand Prix,,,,,,22,67,,0.0,11,11,2,+8 Laps,,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,3,1971-barcelona,Spanish Grand Prix,,,,,,16,58,,0.0,12,R,2,Not classified,,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,2,1971-barcelona,Spanish Grand Prix,,,,,,14,54,,0.0,13,R,2,Suspension,,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,27,1971-barcelona,Spanish Grand Prix,,,,,,11,53,,0.0,14,R,2,Engine,,1971
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,6,1971-barcelona,Spanish Grand Prix,,,,,,8,50,,0.0,15,R,2,Engine,,1971
+March-Ford,march-ford,British,,roig,Alex Soler-Roig,Spanish,19,1971-barcelona,Spanish Grand Prix,,,,,,20,46,,0.0,16,R,2,Fuel pump,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,17,1971-barcelona,Spanish Grand Prix,,,,,,18,26,,0.0,17,R,2,Transmission,,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,18,1971-barcelona,Spanish Grand Prix,,,,,,13,24,,0.0,18,R,2,Ignition,,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1971-barcelona,Spanish Grand Prix,,,,,,2,13,,0.0,19,R,2,Engine,,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,25,1971-barcelona,Spanish Grand Prix,,,,,,19,9,,0.0,20,R,2,Fuel pressure,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,15,1971-barcelona,Spanish Grand Prix,,,,,,15,5,,0.0,21,R,2,Gearbox,,1971
+Brabham,brabham,British,,hill,Graham Hill,British,7,1971-barcelona,Spanish Grand Prix,,,,,,10,5,,0.0,22,R,2,Steering,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,11,1971-monte-carlo,Monaco Grand Prix,,,,,,1,80,6741300,9.0,1,1,3,Finished,1:52:21.300,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,17,1971-monte-carlo,Monaco Grand Prix,,,,,,6,80,6766900,6.0,2,2,3,Finished,+25.600,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1971-monte-carlo,Monaco Grand Prix,,,,,,2,80,6794600,4.0,3,3,3,Finished,+53.300,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,9,1971-monte-carlo,Monaco Grand Prix,,,,,,6,80,6808000,3.0,4,4,3,Finished,+1:06.700,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1971-monte-carlo,Monaco Grand Prix,,,,,,17,79,,2.0,5,5,3,+1 Lap,,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,24,1971-monte-carlo,Monaco Grand Prix,,,,,,16,79,,1.0,6,6,3,+1 Lap,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,22,1971-monte-carlo,Monaco Grand Prix,,,,,,10,79,,0.0,7,7,3,+1 Lap,,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,27,1971-monte-carlo,Monaco Grand Prix,,,,,,13,77,,0.0,8,8,3,+3 Laps,,1971
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,15,1971-monte-carlo,Monaco Grand Prix,,,,,,5,76,,0.0,9,9,3,+4 Laps,,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,8,1971-monte-carlo,Monaco Grand Prix,,,,,,18,76,,0.0,10,10,3,+4 Laps,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,14,1971-monte-carlo,Monaco Grand Prix,,,,,,3,58,,0.0,11,R,3,Oil pipe,,1971
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,21,1971-monte-carlo,Monaco Grand Prix,,,,,,7,47,,0.0,12,R,3,Differential,,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,20,1971-monte-carlo,Monaco Grand Prix,,,,,,4,45,,0.0,13,R,3,Differential,,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1971-monte-carlo,Monaco Grand Prix,,,,,,11,24,,0.0,14,R,3,Accident,,1971
+McLaren,mclaren,British,,gethin,Peter Gethin,British,10,1971-monte-carlo,Monaco Grand Prix,,,,,,14,22,,0.0,15,R,3,Accident,,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,2,1971-monte-carlo,Monaco Grand Prix,,,,,,12,21,,0.0,16,R,3,Wheel bearing,,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,12,1971-monte-carlo,Monaco Grand Prix,,,,,,15,5,,0.0,17,R,3,Accident,,1971
+Brabham,brabham,British,,hill,Graham Hill,British,7,1971-monte-carlo,Monaco Grand Prix,,,,,,9,1,,0.0,18,R,3,Accident,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,2,1971-zandvoort,Dutch Grand Prix,,,,,,1,70,6980000,9.0,1,1,4,Finished,1:56,1971
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,8,1971-zandvoort,Dutch Grand Prix,,,,,,2,70,6987990,6.0,2,2,4,Finished,+7.990,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,3,1971-zandvoort,Dutch Grand Prix,,,,,,4,69,,4.0,3,3,4,+1 Lap,,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,16,1971-zandvoort,Dutch Grand Prix,,,,,,13,68,,3.0,4,4,4,+2 Laps,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,23,1971-zandvoort,Dutch Grand Prix,,,,,,7,68,,2.0,5,5,4,+2 Laps,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,9,1971-zandvoort,Dutch Grand Prix,,,,,,8,68,,1.0,6,6,4,+2 Laps,,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,10,1971-zandvoort,Dutch Grand Prix,,,,,,9,66,,0.0,7,7,4,+4 Laps,,1971
+Surtees,surtees,British,,lennep,Gijs van Lennep,Dutch,30,1971-zandvoort,Dutch Grand Prix,,,,,,21,65,,0.0,8,8,4,+5 Laps,,1971
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,21,1971-zandvoort,Dutch Grand Prix,,,,,,11,65,,0.0,9,9,4,+5 Laps,,1971
+Brabham,brabham,British,,hill,Graham Hill,British,24,1971-zandvoort,Dutch Grand Prix,,,,,,16,65,,0.0,10,10,4,+5 Laps,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,5,1971-zandvoort,Dutch Grand Prix,,,,,,3,65,,0.0,11,11,4,+5 Laps,,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,26,1971-zandvoort,Dutch Grand Prix,,,,,,14,63,,0.0,12,12,4,+7 Laps,,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,31,1971-zandvoort,Dutch Grand Prix,,,,,,15,62,,0.0,13,R,4,Not classified,,1971
+March-Ford,march-ford,British,,barber,Skip Barber,American,22,1971-zandvoort,Dutch Grand Prix,,,,,,24,60,,0.0,14,R,4,Not classified,,1971
+McLaren,mclaren,British,,gethin,Peter Gethin,British,28,1971-zandvoort,Dutch Grand Prix,,,,,,23,60,,0.0,15,R,4,Not classified,,1971
+March-Ford,march-ford,British,,roig,Alex Soler-Roig,Spanish,19,1971-zandvoort,Dutch Grand Prix,,,,,,17,57,,0.0,16,R,4,Engine,,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,25,1971-zandvoort,Dutch Grand Prix,,,,,,19,39,,0.0,17,R,4,Suspension,,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,6,1971-zandvoort,Dutch Grand Prix,,,,,,12,29,,0.0,18,R,4,Accident,,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,29,1971-zandvoort,Dutch Grand Prix,,,,,,18,19,,0.0,19,D,4,Disqualified,,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,14,1971-zandvoort,Dutch Grand Prix,,,,,,4,17,,0.0,20,D,4,Disqualified,,1971
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,4,1971-zandvoort,Dutch Grand Prix,,,,,,16,5,,0.0,21,R,4,Fuel pump,,1971
+Lotus-Pratt &amp; Whitney,lotus-pw,British,,walker,David Walker,Australian,15,1971-zandvoort,Dutch Grand Prix,,,,,,22,5,,0.0,22,R,4,Accident,,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,20,1971-zandvoort,Dutch Grand Prix,,,,,,5,2,,0.0,23,R,4,Spun off,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,11,1971-le-castellet,French Grand Prix,,,,,,1,55,6402300,9.0,1,1,5,Finished,1:46:42.300,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,12,1971-le-castellet,French Grand Prix,,,,,,7,55,6430420,6.0,2,2,5,Finished,+28.120,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1971-le-castellet,French Grand Prix,,,,,,17,55,6436370,4.0,3,3,5,Finished,+34.070,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,14,1971-le-castellet,French Grand Prix,,,,,,6,55,6439470,3.0,4,4,5,Finished,+37.170,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,20,1971-le-castellet,French Grand Prix,,,,,,9,55,6443380,2.0,5,5,5,Finished,+41.080,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,2,1971-le-castellet,French Grand Prix,,,,,,15,55,6478320,1.0,6,6,5,Finished,+1:16.020,1971
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,21,1971-le-castellet,French Grand Prix,,,,,,8,55,6479230,0.0,7,7,5,Finished,+1:16.930,1971
+Surtees,surtees,British,,surtees,John Surtees,British,22,1971-le-castellet,French Grand Prix,,,,,,13,55,6487210,0.0,8,8,5,Finished,+1:24.910,1971
+McLaren,mclaren,British,,gethin,Peter Gethin,British,10,1971-le-castellet,French Grand Prix,,,,,,19,54,,0.0,9,9,5,+1 Lap,,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,16,1971-le-castellet,French Grand Prix,,,,,,16,54,,0.0,10,10,5,+1 Lap,,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,24,1971-le-castellet,French Grand Prix,,,,,,10,53,,0.0,11,11,5,+2 Laps,,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,8,1971-le-castellet,French Grand Prix,,,,,,14,50,,0.0,12,12,5,Oil pressure,,1971
+March-Ford,march-ford,British,,mazet,François Mazet,French,34,1971-le-castellet,French Grand Prix,,,,,,23,50,,0.0,13,13,5,+5 Laps,,1971
+March-Ford,march-ford,British,,jean,Max Jean,French,28,1971-le-castellet,French Grand Prix,,,,,,22,46,,0.0,14,R,5,Not classified,,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,27,1971-le-castellet,French Grand Prix,,,,,,18,45,,0.0,15,R,5,Gearbox,,1971
+Brabham,brabham,British,,hill,Graham Hill,British,7,1971-le-castellet,French Grand Prix,,,,,,4,34,,0.0,16,R,5,Oil pipe,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,19,1971-le-castellet,French Grand Prix,,,,,,20,31,,0.0,17,R,5,Engine,,1971
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,15,1971-le-castellet,French Grand Prix,,,,,,5,27,,0.0,18,R,5,Ignition,,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1971-le-castellet,French Grand Prix,,,,,,2,20,,0.0,19,R,5,Accident,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,peterson,Ronnie Peterson,Swedish,17,1971-le-castellet,French Grand Prix,,,,,,12,19,,0.0,20,R,5,Engine,,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,9,1971-le-castellet,French Grand Prix,,,,,,11,16,,0.0,21,R,5,Ignition,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1971-le-castellet,French Grand Prix,,,,,,3,4,,0.0,22,R,5,Engine,,1971
+March-Ford,march-ford,British,,roig,Alex Soler-Roig,Spanish,18,1971-le-castellet,French Grand Prix,,,,,,21,4,,0.0,23,R,5,Fuel pump,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,12,1971-silverstone,British Grand Prix,,,,,,2,68,5491500,9.0,1,1,6,Finished,1:31:31.500,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,18,1971-silverstone,British Grand Prix,,,,,,5,68,5527600,6.0,2,2,6,Finished,+36.100,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,1,1971-silverstone,British Grand Prix,,,,,,4,68,5542000,4.0,3,3,6,Finished,+50.500,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,26,1971-silverstone,British Grand Prix,,,,,,17,67,,3.0,4,4,6,+1 Lap,,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,24,1971-silverstone,British Grand Prix,,,,,,12,67,,2.0,5,5,6,+1 Lap,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,23,1971-silverstone,British Grand Prix,,,,,,11,67,,1.0,6,6,6,+1 Lap,,1971
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,22,1971-silverstone,British Grand Prix,,,,,,15,66,,0.0,7,7,6,+2 Laps,,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,17,1971-silverstone,British Grand Prix,,,,,,11,66,,0.0,8,8,6,+2 Laps,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,16,1971-silverstone,British Grand Prix,,,,,,3,66,,0.0,9,9,6,+2 Laps,,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,14,1971-silverstone,British Grand Prix,,,,,,10,65,,0.0,10,10,6,+3 Laps,,1971
+March-Ford,march-ford,British,,galli,Nanni Galli,Italian,20,1971-silverstone,British Grand Prix,,,,,,21,65,,0.0,11,11,6,+3 Laps,,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,8,1971-silverstone,British Grand Prix,,,,,,7,63,,0.0,12,12,6,Gearbox,,1971
+Lotus-Pratt &amp; Whitney,lotus-pw,British,,wisell,Reine Wisell,Swedish,3,1971-silverstone,British Grand Prix,,,,,,19,57,,0.0,13,R,6,Not classified,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,19,1971-silverstone,British Grand Prix,,,,,,24,56,,0.0,14,R,6,Not classified,,1971
+McLaren,mclaren,British,,gethin,Peter Gethin,British,10,1971-silverstone,British Grand Prix,,,,,,14,53,,0.0,15,R,6,Engine,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1971-silverstone,British Grand Prix,,,,,,6,51,,0.0,16,R,6,Engine,,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1971-silverstone,British Grand Prix,,,,,,1,48,,0.0,17,R,6,Oil pressure,,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,21,1971-silverstone,British Grand Prix,,,,,,9,35,,0.0,18,R,6,Engine,,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,9,1971-silverstone,British Grand Prix,,,,,,8,32,,0.0,19,R,6,Engine,,1971
+Surtees,surtees,British,,bell,Derek Bell,British,25,1971-silverstone,British Grand Prix,,,,,,23,23,,0.0,20,R,6,Suspension,,1971
+March-Ford,march-ford,British,,beuttler,Mike Beuttler,British,6,1971-silverstone,British Grand Prix,,,,,,20,21,,0.0,21,R,6,Oil pressure,,1971
+Lotus-Ford,lotus-ford,British,,charlton,Dave Charlton,South African,2,1971-silverstone,British Grand Prix,,,,,,13,1,,0.0,22,R,6,Engine,,1971
+Brabham,brabham,British,,hill,Graham Hill,British,7,1971-silverstone,British Grand Prix,,,,,,22,0,,0.0,23,R,6,Accident,,1971
+McLaren,mclaren,British,,oliver,Jackie Oliver,British,11,1971-silverstone,British Grand Prix,,,,,,16,0,,0.0,24,R,6,Accident,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,2,1971-n-rburg,German Grand Prix,,,,,,1,12,5356300,9.0,1,1,7,Finished,1:29:16.300,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,3,1971-n-rburg,German Grand Prix,,,,,,5,12,5386400,6.0,2,2,7,Finished,+30.100,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,6,1971-n-rburg,German Grand Prix,,,,,,4,12,5393400,4.0,3,3,7,Finished,+37.100,1971
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,5,1971-n-rburg,German Grand Prix,,,,,,11,12,5481300,3.0,4,4,7,Finished,+2:05.000,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,15,1971-n-rburg,German Grand Prix,,,,,,3,12,5505400,2.0,5,5,7,Finished,+2:29.100,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,25,1971-n-rburg,German Grand Prix,,,,,,9,12,5534900,1.0,6,6,7,Finished,+2:58.600,1971
+Surtees,surtees,British,,surtees,John Surtees,British,7,1971-n-rburg,German Grand Prix,,,,,,15,12,5555300,0.0,7,7,7,Finished,+3:19.000,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,9,1971-n-rburg,German Grand Prix,,,,,,17,12,5748000,0.0,8,8,7,Finished,+6:31.700,1971
+Brabham,brabham,British,,hill,Graham Hill,British,24,1971-n-rburg,German Grand Prix,,,,,,13,12,5753300,0.0,9,9,7,Finished,+6:37.000,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,12,1971-n-rburg,German Grand Prix,,,,,,12,11,,0.0,10,10,7,+1 Lap,,1971
+BRM,brm,British,,elford,Vic Elford,British,22,1971-n-rburg,German Grand Prix,,,,,,18,11,,0.0,11,11,7,+1 Lap,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,galli,Nanni Galli,Italian,17,1971-n-rburg,German Grand Prix,,,,,,21,10,,0.0,12,12,7,+2 Laps,,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,8,1971-n-rburg,German Grand Prix,,,,,,8,8,,0.0,13,R,7,Oil leak,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,21,1971-n-rburg,German Grand Prix,,,,,,3,6,,0.0,14,D,7,Disqualified,,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,10,1971-n-rburg,German Grand Prix,,,,,,16,6,,0.0,15,R,7,Accident,,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,14,1971-n-rburg,German Grand Prix,,,,,,10,5,,0.0,16,R,7,Suspension,,1971
+McLaren,mclaren,British,,gethin,Peter Gethin,British,20,1971-n-rburg,German Grand Prix,,,,,,19,5,,0.0,17,R,7,Accident,,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,18,1971-n-rburg,German Grand Prix,,,,,,6,3,,0.0,18,R,7,Fuel leak,,1971
+March-Ford,march-ford,British,,beuttler,Mike Beuttler,British,28,1971-n-rburg,German Grand Prix,,,,,,22,3,,0.0,19,D,7,Disqualified,,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,23,1971-n-rburg,German Grand Prix,,,,,,14,2,,0.0,20,R,7,Engine,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,16,1971-n-rburg,German Grand Prix,,,,,,20,2,,0.0,21,R,7,Injection,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1971-n-rburg,German Grand Prix,,,,,,2,1,,0.0,22,R,7,Accident,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,14,1971-spielberg,Austrian Grand Prix,,,,,,1,54,5423910,9.0,1,1,8,Finished,1:30:23.910,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,2,1971-spielberg,Austrian Grand Prix,,,,,,5,54,5428030,6.0,2,2,8,Finished,+4.120,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,8,1971-spielberg,Austrian Grand Prix,,,,,,7,54,5443680,4.0,3,3,8,Finished,+19.770,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,3,1971-spielberg,Austrian Grand Prix,,,,,,10,54,5455780,3.0,4,4,8,Finished,+31.870,1971
+Brabham,brabham,British,,hill,Graham Hill,British,7,1971-spielberg,Austrian Grand Prix,,,,,,8,54,5472340,2.0,5,5,8,Finished,+48.430,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,25,1971-spielberg,Austrian Grand Prix,,,,,,13,54,5508420,1.0,6,6,8,Finished,+1:24.510,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,24,1971-spielberg,Austrian Grand Prix,,,,,,12,54,5521330,0.0,7,7,8,Finished,+1:37.420,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,17,1971-spielberg,Austrian Grand Prix,,,,,,11,53,,0.0,8,8,8,+1 Lap,,1971
+McLaren,mclaren,British,,oliver,Jackie Oliver,British,10,1971-spielberg,Austrian Grand Prix,,,,,,22,53,,0.0,9,9,8,+1 Lap,,1971
+BRM,brm,British,,gethin,Peter Gethin,British,23,1971-spielberg,Austrian Grand Prix,,,,,,16,52,,0.0,10,10,8,+2 Laps,,1971
+BRM,brm,British,,marko,Helmut Marko,Austrian,16,1971-spielberg,Austrian Grand Prix,,,,,,17,52,,0.0,11,11,8,+2 Laps,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,galli,Nanni Galli,Italian,19,1971-spielberg,Austrian Grand Prix,,,,,,15,51,,0.0,12,12,8,+3 Laps,,1971
+March-Ford,march-ford,British,,beuttler,Mike Beuttler,British,27,1971-spielberg,Austrian Grand Prix,,,,,,19,47,,0.0,13,R,8,Not classified,,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,12,1971-spielberg,Austrian Grand Prix,,,,,,3,42,,0.0,14,R,8,Engine,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,11,1971-spielberg,Austrian Grand Prix,,,,,,2,35,,0.0,15,R,8,Halfshaft,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1971-spielberg,Austrian Grand Prix,,,,,,6,31,,0.0,16,R,8,Engine,,1971
+March-Ford,march-ford,British,,lauda,Niki Lauda,Austrian,26,1971-spielberg,Austrian Grand Prix,,,,,,21,20,,0.0,17,R,8,Handling,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,22,1971-spielberg,Austrian Grand Prix,,,,,,18,12,,0.0,18,R,8,Engine,,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1971-spielberg,Austrian Grand Prix,,,,,,4,8,,0.0,19,R,8,Engine,,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,15,1971-spielberg,Austrian Grand Prix,,,,,,14,5,,0.0,20,R,8,Ignition,,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,9,1971-spielberg,Austrian Grand Prix,,,,,,9,4,,0.0,21,R,8,Engine,,1971
+McLaren,mclaren,British,,bonnier,Jo Bonnier,Swedish,28,1971-spielberg,Austrian Grand Prix,,,,,,20,0,,0.0,22,R,8,Fuel leak,,1971
+BRM,brm,British,,gethin,Peter Gethin,British,18,1971-monza,Italian Grand Prix,,,,,,11,55,4692600,9.0,1,1,9,Finished,1:18:12.600,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,25,1971-monza,Italian Grand Prix,,,,,,6,55,4692610,6.0,2,2,9,Finished,+0.010,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,2,1971-monza,Italian Grand Prix,,,,,,5,55,4692690,4.0,3,3,9,Finished,+0.090,1971
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,9,1971-monza,Italian Grand Prix,,,,,,17,55,4692780,3.0,4,4,9,Finished,+0.180,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,19,1971-monza,Italian Grand Prix,,,,,,4,55,4693210,2.0,5,5,9,Finished,+0.610,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,12,1971-monza,Italian Grand Prix,,,,,,1,55,4724960,1.0,6,6,9,Finished,+32.360,1971
+McLaren,mclaren,British,,oliver,Jackie Oliver,British,14,1971-monza,Italian Grand Prix,,,,,,13,55,4777430,0.0,7,7,9,Finished,+1:24.830,1971
+Lotus-Pratt &amp; Whitney,lotus-pw,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,5,1971-monza,Italian Grand Prix,,,,,,18,54,,0.0,8,8,9,+1 Lap,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,20,1971-monza,Italian Grand Prix,,,,,,3,53,,0.0,9,9,9,+2 Laps,,1971
+McLaren,mclaren,British,,bonnier,Jo Bonnier,Swedish,28,1971-monza,Italian Grand Prix,,,,,,21,51,,0.0,10,10,9,+4 Laps,,1971
+Brabham,brabham,British,,hill,Graham Hill,British,10,1971-monza,Italian Grand Prix,,,,,,14,47,,0.0,11,R,9,Gearbox,,1971
+March-Ford,march-ford,British,,jarier,Jean-Pierre Jarier,French,26,1971-monza,Italian Grand Prix,,,,,,24,47,,0.0,12,R,9,Not classified,,1971
+March-Ford,march-ford,British,,beuttler,Mike Beuttler,British,24,1971-monza,Italian Grand Prix,,,,,,16,41,,0.0,13,R,9,Engine,,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,16,1971-monza,Italian Grand Prix,,,,,,10,40,,0.0,14,R,9,Suspension,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,23,1971-monza,Italian Grand Prix,,,,,,20,33,,0.0,15,R,9,Engine,,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,4,1971-monza,Italian Grand Prix,,,,,,8,17,,0.0,16,R,9,Engine,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,3,1971-monza,Italian Grand Prix,,,,,,2,15,,0.0,17,R,9,Engine,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,30,1971-monza,Italian Grand Prix,,,,,,7,15,,0.0,18,R,9,Engine,,1971
+March-Ford,march-ford,British,,galli,Nanni Galli,Italian,22,1971-monza,Italian Grand Prix,,,,,,19,11,,0.0,19,R,9,Electrical,,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,11,1971-monza,Italian Grand Prix,,,,,,9,5,,0.0,20,R,9,Suspension,,1971
+Bellasi,bellasi,Swiss,,moser,Silvio Moser,Swiss,27,1971-monza,Italian Grand Prix,,,,,,22,5,,0.0,21,R,9,Suspension,,1971
+BRM,brm,British,,marko,Helmut Marko,Austrian,21,1971-monza,Italian Grand Prix,,,,,,12,3,,0.0,22,R,9,Engine,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,7,1971-monza,Italian Grand Prix,,,,,,15,3,,0.0,23,R,9,Engine,,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,8,1971-monza,Italian Grand Prix,,,,,,23,0,,0.0,24,R,9,Accident,,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,11,1971-ontario,Canadian Grand Prix,,,,,,1,64,6913100,9.0,1,1,10,Finished,1:55:13.100,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,17,1971-ontario,Canadian Grand Prix,,,,,,6,64,6951400,6.0,2,2,10,Finished,+38.300,1971
+McLaren,mclaren,British,,donohue,Mark Donohue,American,10,1971-ontario,Canadian Grand Prix,,,,,,8,64,7008900,4.0,3,3,10,Finished,+1:35.800,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,9,1971-ontario,Canadian Grand Prix,,,,,,10,63,,3.0,4,4,10,+1 Lap,,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,3,1971-ontario,Canadian Grand Prix,,,,,,7,63,,2.0,5,5,10,+1 Lap,,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,12,1971-ontario,Canadian Grand Prix,,,,,,3,62,,1.0,6,6,10,+2 Laps,,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,2,1971-ontario,Canadian Grand Prix,,,,,,4,62,,0.0,7,7,10,+2 Laps,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,4,1971-ontario,Canadian Grand Prix,,,,,,12,62,,0.0,8,8,10,+2 Laps,,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,14,1971-ontario,Canadian Grand Prix,,,,,,2,61,,0.0,9,9,10,+3 Laps,,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,20,1971-ontario,Canadian Grand Prix,,,,,,5,61,,0.0,10,10,10,+3 Laps,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,22,1971-ontario,Canadian Grand Prix,,,,,,14,60,,0.0,11,11,10,+4 Laps,,1971
+BRM,brm,British,,marko,Helmut Marko,Austrian,31,1971-ontario,Canadian Grand Prix,,,,,,19,60,,0.0,12,12,10,+4 Laps,,1971
+Ferrari,ferrari,Italian,,mario_andretti,Mario Andretti,American,6,1971-ontario,Canadian Grand Prix,,,,,,13,60,,0.0,13,13,10,+4 Laps,,1971
+BRM,brm,British,,gethin,Peter Gethin,British,15,1971-ontario,Canadian Grand Prix,,,,,,16,59,,0.0,14,14,10,+5 Laps,,1971
+BRM,brm,British,,eaton,George Eaton,Canadian,28,1971-ontario,Canadian Grand Prix,,,,,,21,59,,0.0,15,15,10,+5 Laps,,1971
+March-Ford,march-ford,British,,galli,Nanni Galli,Italian,18,1971-ontario,Canadian Grand Prix,,,,,,20,57,,0.0,16,16,10,+7 Laps,,1971
+March-Ford,march-ford,British,,beuttler,Mike Beuttler,British,19,1971-ontario,Canadian Grand Prix,,,,,,22,56,,0.0,17,R,10,Not classified,,1971
+Lotus-Ford,lotus-ford,British,,lovely,Pete Lovely,American,35,1971-ontario,Canadian Grand Prix,,,,,,25,55,,0.0,18,R,10,Not classified,,1971
+Surtees,surtees,British,,stommelen,Rolf Stommelen,German,24,1971-ontario,Canadian Grand Prix,,,,,,23,26,,0.0,19,R,10,Overheating,,1971
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,21,1971-ontario,Canadian Grand Prix,,,,,,11,15,,0.0,20,R,10,Accident,,1971
+March-Ford,march-ford,British,,barber,Skip Barber,American,33,1971-ontario,Canadian Grand Prix,,,,,,24,13,,0.0,21,R,10,Oil pressure,,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1971-ontario,Canadian Grand Prix,,,,,,18,7,,0.0,22,R,10,Accident,,1971
+Brabham,brabham,British,,hill,Graham Hill,British,37,1971-ontario,Canadian Grand Prix,,,,,,15,2,,0.0,23,R,10,Accident,,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,8,1971-ontario,Canadian Grand Prix,,,,,,17,1,,0.0,24,R,10,Ignition,,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,16,1971-ontario,Canadian Grand Prix,,,,,,9,0,,0.0,25,R,10,Accident,,1971
+Tyrrell,tyrrell,British,,cevert,François Cevert,French,9,1971-new-york-state,United States Grand Prix,,,,,,5,59,6231991,9.0,1,1,11,Finished,1:43:51.991,1971
+BRM,brm,British,,siffert,Jo Siffert,Swiss,14,1971-new-york-state,United States Grand Prix,,,,,,6,59,6272053,6.0,2,2,11,Finished,+40.062,1971
+March-Ford,march-ford,British,,peterson,Ronnie Peterson,Swedish,25,1971-new-york-state,United States Grand Prix,,,,,,11,59,6276061,4.0,3,3,11,Finished,+44.070,1971
+BRM,brm,British,,ganley,Howden Ganley,New Zealander,16,1971-new-york-state,United States Grand Prix,,,,,,12,59,6288740,3.0,4,4,11,Finished,+56.749,1971
+Tyrrell,tyrrell,British,,stewart,Jackie Stewart,British,8,1971-new-york-state,United States Grand Prix,,,,,,1,59,6291994,2.0,5,5,11,Finished,+1:00.003,1971
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,5,1971-new-york-state,United States Grand Prix,,,,,,4,59,6308417,1.0,6,6,11,Finished,+1:16.426,1971
+Brabham,brabham,British,,hill,Graham Hill,British,22,1971-new-york-state,United States Grand Prix,,,,,,18,58,,0.0,7,7,11,+1 Lap,,1971
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,12,1971-new-york-state,United States Grand Prix,,,,,,10,58,,0.0,8,8,11,+1 Lap,,1971
+BRM,brm,British,,gethin,Peter Gethin,British,15,1971-new-york-state,United States Grand Prix,,,,,,21,58,,0.0,9,9,11,+1 Lap,,1971
+McLaren,mclaren,British,,hobbs,David Hobbs,British,31,1971-new-york-state,United States Grand Prix,,,,,,22,58,,0.0,10,10,11,+1 Lap,,1971
+March-Alfa Romeo,march-alfa_romeo,British,,adamich,Andrea de Adamich,Italian,27,1971-new-york-state,United States Grand Prix,,,,,,26,57,,0.0,11,11,11,+2 Laps,,1971
+Matra,matra,French,,amon,Chris Amon,New Zealander,11,1971-new-york-state,United States Grand Prix,,,,,,8,57,,0.0,12,12,11,+2 Laps,,1971
+BRM,brm,British,,marko,Helmut Marko,Austrian,17,1971-new-york-state,United States Grand Prix,,,,,,16,57,,0.0,13,13,11,+2 Laps,,1971
+BRM,brm,British,,Cannoc,John Cannon,Canadian,28,1971-new-york-state,United States Grand Prix,,,,,,24,56,,0.0,14,14,11,+3 Laps,,1971
+Surtees,surtees,British,,hailwood,Mike Hailwood,British,20,1971-new-york-state,United States Grand Prix,,,,,,14,54,,0.0,15,15,11,Accident,,1971
+McLaren,mclaren,British,,bonnier,Jo Bonnier,Swedish,29,1971-new-york-state,United States Grand Prix,,,,,,28,54,,0.0,16,16,11,Out of fuel,,1971
+Surtees,surtees,British,,surtees,John Surtees,British,18,1971-new-york-state,United States Grand Prix,,,,,,13,54,,0.0,17,17,11,+5 Laps,,1971
+March-Ford,march-ford,British,,barber,Skip Barber,American,33,1971-new-york-state,United States Grand Prix,,,,,,25,52,,0.0,18,R,11,Not classified,,1971
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,32,1971-new-york-state,United States Grand Prix,,,,,,7,49,,0.0,19,R,11,Alternator,,1971
+Lotus-Ford,lotus-ford,British,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,2,1971-new-york-state,United States Grand Prix,,,,,,2,49,,0.0,20,R,11,Not classified,,1971
+Lotus-Ford,lotus-ford,British,,lovely,Pete Lovely,American,30,1971-new-york-state,United States Grand Prix,,,,,,29,49,,0.0,21,R,11,Not classified,,1971
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,7,1971-new-york-state,United States Grand Prix,,,,,,3,47,,0.0,22,R,11,Accident,,1971
+Brabham,brabham,British,,schenken,Tim Schenken,Australian,23,1971-new-york-state,United States Grand Prix,,,,,,15,41,,0.0,23,R,11,Engine,,1971
+Brabham,brabham,British,,craft,Chris Craft,British,24,1971-new-york-state,United States Grand Prix,,,,,,27,30,,0.0,24,R,11,Suspension,,1971
+Surtees,surtees,British,,posey,Sam Posey,American,19,1971-new-york-state,United States Grand Prix,,,,,,17,15,,0.0,25,R,11,Engine,,1971
+March-Ford,march-ford,British,,pescarolo,Henri Pescarolo,French,21,1971-new-york-state,United States Grand Prix,,,,,,20,23,,0.0,26,R,11,Engine,,1971
+March-Ford,march-ford,British,,galli,Nanni Galli,Italian,26,1971-new-york-state,United States Grand Prix,,,,,,23,11,,0.0,27,R,11,Wheel,,1971
+Lotus-Ford,lotus-ford,British,,wisell,Reine Wisell,Swedish,3,1971-new-york-state,United States Grand Prix,,,,,,9,5,,0.0,28,R,11,Brakes,,1971
+Tyrrell,tyrrell,British,,revson,Peter Revson,American,10,1971-new-york-state,United States Grand Prix,,,,,,19,1,,0.0,29,R,11,Clutch,,1971

@@ -1,0 +1,14 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Cooper-Climax,cooper-climax,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,48.0,1,1,6,1960
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,34.0,2,2,2,1960
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,26.0,3,3,1,1960
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,8.0,4,4,0,1960
+Cooper-Maserati,cooper-maserati,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,3.0,5,5,0,1960
+Cooper-Castellotti,cooper-castellotti,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,3.0,6,6,0,1960
+Porsche,porsche,German,https://en.wikipedia.org/wiki/Porsche_in_motorsport,1.0,7,7,0,1960
+Behra-Porsche,behra-porsche,Italian,https://en.wikipedia.org/wiki/Behra-Porsche,0.0,,-,0,1960
+Scarab,scarab,American,https://en.wikipedia.org/wiki/Scarab_(constructor),0.0,,-,0,1960
+Aston Martin,aston_martin,British,https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,0.0,,-,0,1960
+Maserati,maserati,Italian,https://en.wikipedia.org/wiki/Maserati,0.0,,-,0,1960
+JBW,jbw,British,https://en.wikipedia.org/wiki/JBW,0.0,,-,0,1960
+Vanwall,vanwall,British,https://en.wikipedia.org/wiki/Vanwall,0.0,,-,0,1960

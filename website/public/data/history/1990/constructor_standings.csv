@@ -1,0 +1,18 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,121.0,1,1,6,1990
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,110.0,2,2,6,1990
+Benetton,benetton,Italian,https://en.wikipedia.org/wiki/Benetton_Formula,71.0,3,3,2,1990
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,57.0,4,4,2,1990
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,16.0,5,5,0,1990
+Larrousse,larrousse,French,https://en.wikipedia.org/wiki/Larrousse,11.0,6,6,0,1990
+Leyton House,leyton,British,https://en.wikipedia.org/wiki/Leyton_House_Racing,7.0,7,7,0,1990
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,3.0,8,8,0,1990
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,2.0,9,9,0,1990
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,2.0,10,10,0,1990
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,0.0,,-,0,1990
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,0.0,,-,0,1990
+Onyx,onyx,British,https://en.wikipedia.org/wiki/Onyx_Grand_Prix,0.0,,-,0,1990
+AGS,ags,French,https://en.wikipedia.org/wiki/Automobiles_Gonfaronnaises_Sportives,0.0,,-,0,1990
+Dallara,dallara,Italian,https://en.wikipedia.org/wiki/Dallara,0.0,,-,0,1990
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,0.0,,-,0,1990
+Euro Brun,eurobrun,Italian,https://en.wikipedia.org/wiki/EuroBrun,0.0,,-,0,1990

@@ -9,8 +9,20 @@ import {
 } from "@/lib/history";
 
 export const metadata = {
-  title: "Drivers · GridIQ",
-  description: "Historical Formula 1 driver database from 2000 to 2026.",
+  title: "F1 Driver Database 1950–2026 · GridIQ",
+  description:
+    "Formula 1 driver database with career wins, podiums, pole positions, points, and championship finishes for every driver from 1950 to 2026. Click any driver for a full career profile.",
+  keywords: [
+    "F1 driver stats",
+    "Formula 1 driver database",
+    "F1 driver career wins",
+    "F1 driver records",
+    "Formula 1 drivers history",
+  ],
+  openGraph: {
+    title: "F1 Driver Database 1950–2026 · GridIQ",
+    description: "Career stats for every Formula 1 driver from 1950 to 2026.",
+  },
 };
 
 type HistoricalDriverSummary = {

@@ -1,0 +1,32 @@
+{
+  "year": 1954,
+  "generated_at": "2026-05-27T06:00:04.132026+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 9,
+  "race_results": 229,
+  "qualifying_results": 0,
+  "drivers": 96,
+  "constructors": 0,
+  "driver_champion": {
+    "year": 1954,
+    "position": 1,
+    "position_text": "1",
+    "points": 42.0,
+    "wins": 6,
+    "driver_id": "fangio",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Juan Fangio",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Maserati",
+      "Mercedes"
+    ],
+    "constructor_ids": [
+      "maserati",
+      "mercedes"
+    ]
+  },
+  "constructor_champion": null
+}

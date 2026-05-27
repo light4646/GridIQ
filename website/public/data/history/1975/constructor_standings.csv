@@ -1,0 +1,21 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,72.5,1,1,6,1975
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,54.0,2,2,2,1975
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,53.0,3,3,3,1975
+Hesketh,hesketh,British,https://en.wikipedia.org/wiki/Hesketh_Racing,33.0,4,4,1,1975
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,25.0,5,5,1,1975
+Shadow-Ford,shadow-ford,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,9.5,6,6,0,1975
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,9.0,7,7,0,1975
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,7.5,8,8,1,1975
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,6.0,9,9,0,1975
+Parnelli,parnelli,American,https://en.wikipedia.org/wiki/Vel's_Parnelli_Jones_Racing,5.0,10,10,0,1975
+Embassy Hill,hill,British,https://en.wikipedia.org/wiki/Embassy_Hill,3.0,11,11,0,1975
+Penske,penske,American,https://en.wikipedia.org/wiki/Team_Penske,2.0,12,12,0,1975
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,1.0,13,13,0,1975
+Surtees,surtees,British,https://en.wikipedia.org/wiki/Surtees,0.0,,-,0,1975
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,0.0,,-,0,1975
+Fittipaldi,fittipaldi,Brazilian,https://en.wikipedia.org/wiki/Fittipaldi_Automotive,0.0,,-,0,1975
+Lola,lola,British,https://en.wikipedia.org/wiki/MasterCard_Lola,0.0,,-,0,1975
+Lyncar,lyncar,British,https://en.wikipedia.org/wiki/Lyncar,0.0,,-,0,1975
+Shadow-Matra,shadow-matra,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,0.0,,-,0,1975
+Maki,maki,Japanese,https://en.wikipedia.org/wiki/Maki_Engineering,0.0,,-,0,1975

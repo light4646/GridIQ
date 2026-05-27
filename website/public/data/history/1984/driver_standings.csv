@@ -1,0 +1,35 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,lauda,Niki Lauda,Austrian,,72.0,1,1,5,1984
+"[""mclaren""]","[""McLaren""]",,prost,Alain Prost,French,,71.5,2,2,7,1984
+"[""team_lotus""]","[""Team Lotus""]",,angelis,Elio de Angelis,Italian,,34.0,3,3,0,1984
+"[""ferrari""]","[""Ferrari""]",,alboreto,Michele Alboreto,Italian,,30.5,4,4,1,1984
+"[""brabham""]","[""Brabham""]",,piquet,Nelson Piquet,Brazilian,,29.0,5,5,2,1984
+"[""ferrari""]","[""Ferrari""]",,arnoux,René Arnoux,French,,27.0,6,6,0,1984
+"[""renault""]","[""Renault""]",,warwick,Derek Warwick,British,,23.0,7,7,0,1984
+"[""williams""]","[""Williams""]",,keke_rosberg,Keke Rosberg,Finnish,,20.5,8,8,1,1984
+"[""toleman""]","[""Toleman""]",,senna,Ayrton Senna,Brazilian,,13.0,9,9,0,1984
+"[""team_lotus""]","[""Team Lotus""]",,mansell,Nigel Mansell,British,,13.0,10,10,0,1984
+"[""renault""]","[""Renault""]",,tambay,Patrick Tambay,French,,11.0,11,11,0,1984
+"[""brabham""]","[""Brabham""]",,fabi,Teo Fabi,Italian,,9.0,12,12,0,1984
+"[""alfa""]","[""Alfa Romeo""]",,patrese,Riccardo Patrese,Italian,,8.0,13,13,0,1984
+"[""williams""]","[""Williams""]",,laffite,Jacques Laffite,French,,5.0,14,14,0,1984
+"[""arrows""]","[""Arrows""]",,boutsen,Thierry Boutsen,Belgian,,5.0,15,15,0,1984
+"[""alfa""]","[""Alfa Romeo""]",,cheever,Eddie Cheever,American,,3.0,16,16,0,1984
+"[""tyrrell"", ""toleman""]","[""Tyrrell"", ""Toleman""]",,johansson,Stefan Johansson,Swedish,,3.0,17,17,0,1984
+"[""ligier""]","[""Ligier""]",,cesaris,Andrea de Cesaris,Italian,,3.0,18,18,0,1984
+"[""osella""]","[""Osella""]",,ghinzani,Piercarlo Ghinzani,Italian,,2.0,19,19,0,1984
+"[""arrows""]","[""Arrows""]",,surer,Marc Surer,Swiss,,1.0,20,20,0,1984
+"[""osella""]","[""Osella""]",,gartner,Jo Gartner,Austrian,,0.0,,-,0,1984
+"[""ats""]","[""ATS""]",,berger,Gerhard Berger,Austrian,,0.0,,-,0,1984
+"[""ligier""]","[""Ligier""]",,hesnault,François Hesnault,French,,0.0,,-,0,1984
+"[""brabham""]","[""Brabham""]",,corrado_fabi,Corrado Fabi,Italian,,0.0,,-,0,1984
+"[""spirit""]","[""Spirit""]",,baldi,Mauro Baldi,Italian,,0.0,,-,0,1984
+"[""ats"", ""brabham""]","[""ATS"", ""Brabham""]",,manfred_winkelhock,Manfred Winkelhock,German,,0.0,,-,0,1984
+"[""ram""]","[""RAM""]",,palmer,Jonathan Palmer,British,,0.0,,-,0,1984
+"[""spirit""]","[""Spirit""]",,rothengatter,Huub Rothengatter,Dutch,,0.0,,-,0,1984
+"[""toleman""]","[""Toleman""]",,cecotto,Johnny Cecotto,Venezuelan,,0.0,,-,0,1984
+"[""ram""]","[""RAM""]",,alliot,Philippe Alliot,French,,0.0,,-,0,1984
+"[""tyrrell""]","[""Tyrrell""]",,brundle,Martin Brundle,British,,0.0,,-,0,1984
+"[""tyrrell""]","[""Tyrrell""]",,bellof,Stefan Bellof,German,,0.0,,-,0,1984
+"[""renault""]","[""Renault""]",,streiff,Philippe Streiff,French,,0.0,,-,0,1984
+"[""ram"", ""tyrrell""]","[""RAM"", ""Tyrrell""]",,thackwell,Mike Thackwell,New Zealander,,0.0,,-,0,1984

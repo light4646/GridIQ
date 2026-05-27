@@ -289,9 +289,20 @@ export async function generateMetadata({ params }: Props) {
   const summary = findDriver(driver);
   if (!summary) return { title: "Driver not found · GridIQ" };
 
+  const activeYears = [...summary.seasons].sort((a, b) => a - b);
+  const yearRange = activeYears.length > 1
+    ? `${activeYears[0]}–${activeYears.at(-1)}`
+    : String(activeYears[0] ?? "");
+  const winStr = summary.wins > 0 ? `, ${summary.wins} race win${summary.wins !== 1 ? "s" : ""}` : "";
+  const titleStr = summary.bestChampionshipFinish === 1 ? " F1 World Champion." : ".";
+
   return {
-    title: `${summary.driverName} driver profile · GridIQ`,
-    description: `${summary.driverName} Formula 1 career stats from 2000 to 2026.`,
+    title: `${summary.driverName} — F1 Career Stats & Results · GridIQ`,
+    description: `${summary.driverName} Formula 1 career: ${summary.starts} starts${winStr}, ${summary.podiums} podiums, ${summary.points} points (${yearRange})${titleStr} Full season-by-season breakdown.`,
+    openGraph: {
+      title: `${summary.driverName} F1 Career Stats · GridIQ`,
+      description: `${summary.driverName}: ${summary.starts} F1 starts, ${summary.wins} wins, ${summary.podiums} podiums from ${yearRange}.`,
+    },
   };
 }
 

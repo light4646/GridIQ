@@ -1,0 +1,40 @@
+{
+  "year": 1962,
+  "generated_at": "2026-05-27T06:01:28.572836+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 9,
+  "race_results": 205,
+  "qualifying_results": 0,
+  "drivers": 57,
+  "constructors": 17,
+  "driver_champion": {
+    "year": 1962,
+    "position": 1,
+    "position_text": "1",
+    "points": 42.0,
+    "wins": 4,
+    "driver_id": "hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Graham Hill",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1962,
+    "position": 1,
+    "position_text": "1",
+    "points": 42.0,
+    "wins": 4,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  }
+}

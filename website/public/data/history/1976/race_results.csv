@@ -1,0 +1,400 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-s-o-paulo,Brazilian Grand Prix,,,,,,2,40,6316780,9.0,1,1,1,Finished,1:45:16.780,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-s-o-paulo,Brazilian Grand Prix,,,,,,9,40,6338250,6.0,2,2,1,Finished,+21.470,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-s-o-paulo,Brazilian Grand Prix,,,,,,12,40,6340620,4.0,3,3,1,Finished,+23.840,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-s-o-paulo,Brazilian Grand Prix,,,,,,14,40,6404950,3.0,4,4,1,Finished,+1:28.170,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-s-o-paulo,Brazilian Grand Prix,,,,,,13,40,6433240,2.0,5,5,1,Finished,+1:56.460,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-s-o-paulo,Brazilian Grand Prix,,,,,,6,40,6435050,1.0,6,6,1,Finished,+1:58.270,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-s-o-paulo,Brazilian Grand Prix,,,,,,4,40,6452020,0.0,7,7,1,Finished,+2:15.240,1976
+Wolf,wolf,Canadian,,ickx,Jacky Ickx,Belgian,20,1976-s-o-paulo,Brazilian Grand Prix,,,,,,19,39,,0.0,8,8,1,+1 Lap,,1976
+Williams,williams,British,,zorzi,Renzo Zorzi,Italian,21,1976-s-o-paulo,Brazilian Grand Prix,,,,,,17,39,,0.0,9,9,1,+1 Lap,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-s-o-paulo,Brazilian Grand Prix,,,,,,10,39,,0.0,10,10,1,+1 Lap,,1976
+Fittipaldi,fittipaldi,Brazilian,,hoffmann,Ingo Hoffmann,Brazilian,31,1976-s-o-paulo,Brazilian Grand Prix,,,,,,20,39,,0.0,11,11,1,+1 Lap,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-s-o-paulo,Brazilian Grand Prix,,,,,,15,37,,0.0,12,12,1,Out of fuel,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-s-o-paulo,Brazilian Grand Prix,,,,,,5,37,,0.0,13,13,1,+3 Laps,,1976
+March,march,British,,lombardi,Lella Lombardi,Italian,10,1976-s-o-paulo,Brazilian Grand Prix,,,,,,22,36,,0.0,14,14,1,+4 Laps,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-s-o-paulo,Brazilian Grand Prix,,,,,,3,33,,0.0,15,R,1,Accident,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-s-o-paulo,Brazilian Grand Prix,,,,,,1,32,,0.0,16,R,1,Accident,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-s-o-paulo,Brazilian Grand Prix,,,,,,7,15,,0.0,17,R,1,Oil leak,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-s-o-paulo,Brazilian Grand Prix,,,,,,11,14,,0.0,18,R,1,Transmission,,1976
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,5,1976-s-o-paulo,Brazilian Grand Prix,,,,,,18,10,,0.0,19,R,1,Accident,,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,6,1976-s-o-paulo,Brazilian Grand Prix,,,,,,16,6,,0.0,20,R,1,Accident,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-s-o-paulo,Brazilian Grand Prix,,,,,,8,2,,0.0,21,R,1,Fuel system,,1976
+BRM,brm,British,,ashley,Ian Ashley,British,14,1976-s-o-paulo,Brazilian Grand Prix,,,,,,21,2,,0.0,22,R,1,Oil pump,,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-midrand,South African Grand Prix,,,,,,2,78,6138400,9.0,1,1,2,Finished,1:42:18.400,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-midrand,South African Grand Prix,,,,,,1,78,6139700,6.0,2,2,2,Finished,+1.300,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-midrand,South African Grand Prix,,,,,,4,78,6184300,4.0,3,3,2,Finished,+45.900,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-midrand,South African Grand Prix,,,,,,12,78,6206800,3.0,4,4,2,Finished,+1:08.400,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-midrand,South African Grand Prix,,,,,,3,77,,2.0,5,5,2,+1 Lap,,1976
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1976-midrand,South African Grand Prix,,,,,,13,77,,1.0,6,6,2,+1 Lap,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-midrand,South African Grand Prix,,,,,,7,77,,0.0,7,7,2,+1 Lap,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-midrand,South African Grand Prix,,,,,,5,77,,0.0,8,8,2,+1 Lap,,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-midrand,South African Grand Prix,,,,,,6,77,,0.0,9,9,2,+1 Lap,,1976
+Team Lotus,team_lotus,British,,evans,Bob Evans,British,5,1976-midrand,South African Grand Prix,,,,,,23,77,,0.0,10,10,2,+1 Lap,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-midrand,South African Grand Prix,,,,,,20,77,,0.0,11,11,2,+1 Lap,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-midrand,South African Grand Prix,,,,,,17,76,,0.0,12,12,2,+2 Laps,,1976
+Wolf,wolf,Canadian,,leclere,Michel Leclère,French,21,1976-midrand,South African Grand Prix,,,,,,22,76,,0.0,13,13,2,+2 Laps,,1976
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,22,1976-midrand,South African Grand Prix,,,,,,18,76,,0.0,14,14,2,+2 Laps,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-midrand,South African Grand Prix,,,,,,24,74,,0.0,15,15,2,+4 Laps,,1976
+Wolf,wolf,Canadian,,ickx,Jacky Ickx,Belgian,20,1976-midrand,South African Grand Prix,,,,,,19,73,,0.0,16,16,2,+5 Laps,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-midrand,South African Grand Prix,,,,,,21,70,,0.0,17,17,2,Engine,,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-midrand,South African Grand Prix,,,,,,9,52,,0.0,18,R,2,Engine,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-midrand,South African Grand Prix,,,,,,8,49,,0.0,19,R,2,Engine,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-midrand,South African Grand Prix,,,,,,15,28,,0.0,20,R,2,Radiator,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-midrand,South African Grand Prix,,,,,,14,22,,0.0,21,R,2,Oil pressure,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-midrand,South African Grand Prix,,,,,,25,18,,0.0,22,R,2,Clutch,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-midrand,South African Grand Prix,,,,,,11,16,,0.0,23,R,2,Oil pressure,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-midrand,South African Grand Prix,,,,,,13,15,,0.0,24,R,2,Accident,,1976
+Tyrrell,tyrrell,British,,ian_scheckter,Ian Scheckter,South African,15,1976-midrand,South African Grand Prix,,,,,,16,0,,0.0,25,R,2,Accident,,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-california,United States Grand Prix West,,,,,,1,80,6798471,9.0,1,1,3,Finished,1:53:18.471,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-california,United States Grand Prix West,,,,,,4,80,6840885,6.0,2,2,3,Finished,+42.414,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-california,United States Grand Prix West,,,,,,2,80,6848443,4.0,3,3,3,Finished,+49.972,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-california,United States Grand Prix West,,,,,,12,80,6871299,3.0,4,4,3,Finished,+1:12.828,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-california,United States Grand Prix West,,,,,,14,80,6880763,2.0,5,5,3,Finished,+1:22.292,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-california,United States Grand Prix West,,,,,,16,79,,1.0,6,6,3,+1 Lap,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-california,United States Grand Prix West,,,,,,7,79,,0.0,7,7,3,+1 Lap,,1976
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,22,1976-california,United States Grand Prix West,,,,,,17,78,,0.0,8,8,3,+2 Laps,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-california,United States Grand Prix West,,,,,,13,77,,0.0,9,9,3,+3 Laps,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-california,United States Grand Prix West,,,,,,6,77,,0.0,10,10,3,+3 Laps,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-california,United States Grand Prix West,,,,,,19,70,,0.0,11,R,3,Not classified,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-california,United States Grand Prix West,,,,,,9,69,,0.0,12,R,3,Not classified,,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-california,United States Grand Prix West,,,,,,11,34,,0.0,13,R,3,Suspension,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-california,United States Grand Prix West,,,,,,5,32,,0.0,14,R,3,Halfshaft,,1976
+Parnelli,parnelli,American,,mario_andretti,Mario Andretti,American,27,1976-california,United States Grand Prix West,,,,,,15,15,,0.0,15,R,3,Water leak,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-california,United States Grand Prix West,,,,,,3,3,,0.0,16,R,3,Accident,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-california,United States Grand Prix West,,,,,,18,2,,0.0,17,R,3,Accident,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-california,United States Grand Prix West,,,,,,20,0,,0.0,18,R,3,Accident,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-california,United States Grand Prix West,,,,,,10,0,,0.0,19,R,3,Accident,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-california,United States Grand Prix West,,,,,,8,0,,0.0,20,R,3,Suspension,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-madrid,Spanish Grand Prix,,,,,,1,75,6140430,9.0,1,1,4,Finished,1:42:20.430,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-madrid,Spanish Grand Prix,,,,,,2,75,6171400,6.0,2,2,4,Finished,+30.970,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-madrid,Spanish Grand Prix,,,,,,7,75,6188450,4.0,3,3,4,Finished,+48.020,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-madrid,Spanish Grand Prix,,,,,,12,74,,3.0,4,4,4,+1 Lap,,1976
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,22,1976-madrid,Spanish Grand Prix,,,,,,10,74,,2.0,5,5,4,+1 Lap,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-madrid,Spanish Grand Prix,,,,,,11,74,,1.0,6,6,4,+1 Lap,,1976
+Wolf,wolf,Canadian,,ickx,Jacky Ickx,Belgian,20,1976-madrid,Spanish Grand Prix,,,,,,21,74,,0.0,7,7,4,+1 Lap,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-madrid,Spanish Grand Prix,,,,,,22,74,,0.0,8,8,4,+1 Lap,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-madrid,Spanish Grand Prix,,,,,,20,74,,0.0,9,9,4,+1 Lap,,1976
+Wolf,wolf,Canadian,,leclere,Michel Leclère,French,21,1976-madrid,Spanish Grand Prix,,,,,,23,73,,0.0,10,10,4,+2 Laps,,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-madrid,Spanish Grand Prix,,,,,,5,72,,0.0,11,11,4,+3 Laps,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-madrid,Spanish Grand Prix,,,,,,8,72,,0.0,12,12,4,+3 Laps,,1976
+Boro,boro,Dutch,,perkins,Larry Perkins,Australian,37,1976-madrid,Spanish Grand Prix,,,,,,24,72,,0.0,13,13,4,+3 Laps,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-madrid,Spanish Grand Prix,,,,,,4,65,,0.0,14,R,4,Engine,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-madrid,Spanish Grand Prix,,,,,,15,61,,0.0,15,R,4,Electrical,,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-madrid,Spanish Grand Prix,,,,,,14,53,,0.0,16,R,4,Engine,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-madrid,Spanish Grand Prix,,,,,,13,51,,0.0,17,R,4,Engine,,1976
+March,march,British,,merzario,Arturo Merzario,Italian,35,1976-madrid,Spanish Grand Prix,,,,,,18,36,,0.0,18,R,4,Gearbox,,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-madrid,Spanish Grand Prix,,,,,,9,34,,0.0,19,R,4,Gearbox,,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-madrid,Spanish Grand Prix,,,,,,3,25,,0.0,20,R,4,Accident,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-madrid,Spanish Grand Prix,,,,,,6,21,,0.0,21,R,4,Suspension,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-madrid,Spanish Grand Prix,,,,,,17,16,,0.0,22,R,4,Gearbox,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-madrid,Spanish Grand Prix,,,,,,16,11,,0.0,23,R,4,Transmission,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-madrid,Spanish Grand Prix,,,,,,19,3,,0.0,24,R,4,Transmission,,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-heusden-zolder,Belgian Grand Prix,,,,,,1,70,6173230,9.0,1,1,5,Finished,1:42:53.230,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-heusden-zolder,Belgian Grand Prix,,,,,,2,70,6176690,6.0,2,2,5,Finished,+3.460,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-heusden-zolder,Belgian Grand Prix,,,,,,4,70,6208610,4.0,3,3,5,Finished,+35.380,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-heusden-zolder,Belgian Grand Prix,,,,,,7,70,6264230,3.0,4,4,5,Finished,+1:31.000,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-heusden-zolder,Belgian Grand Prix,,,,,,16,69,,2.0,5,5,5,+1 Lap,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-heusden-zolder,Belgian Grand Prix,,,,,,18,69,,1.0,6,6,5,+1 Lap,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-heusden-zolder,Belgian Grand Prix,,,,,,17,69,,0.0,7,7,5,+1 Lap,,1976
+Boro,boro,Dutch,,perkins,Larry Perkins,Australian,37,1976-heusden-zolder,Belgian Grand Prix,,,,,,20,69,,0.0,8,8,5,+1 Lap,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-heusden-zolder,Belgian Grand Prix,,,,,,14,69,,0.0,9,9,5,+1 Lap,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-heusden-zolder,Belgian Grand Prix,,,,,,13,68,,0.0,10,10,5,+2 Laps,,1976
+Wolf,wolf,Canadian,,leclere,Michel Leclère,French,21,1976-heusden-zolder,Belgian Grand Prix,,,,,,25,68,,0.0,11,11,5,+2 Laps,,1976
+Brabham-Ford,brabham-ford,British,,kessel,Loris Kessel,Swiss,32,1976-heusden-zolder,Belgian Grand Prix,,,,,,23,63,,0.0,12,12,5,+7 Laps,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-heusden-zolder,Belgian Grand Prix,,,,,,26,62,,0.0,13,R,5,Electrical,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-heusden-zolder,Belgian Grand Prix,,,,,,9,58,,0.0,14,R,5,Electrical,,1976
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,22,1976-heusden-zolder,Belgian Grand Prix,,,,,,8,51,,0.0,15,R,5,Accident,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-heusden-zolder,Belgian Grand Prix,,,,,,3,35,,0.0,16,R,5,Gearbox,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-heusden-zolder,Belgian Grand Prix,,,,,,15,33,,0.0,17,R,5,Suspension,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-heusden-zolder,Belgian Grand Prix,,,,,,24,31,,0.0,18,R,5,Engine,,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-heusden-zolder,Belgian Grand Prix,,,,,,4,29,,0.0,19,R,5,Engine,,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-heusden-zolder,Belgian Grand Prix,,,,,,11,28,,0.0,20,R,5,Halfshaft,,1976
+Brabham-Ford,brabham-ford,British,,neve,Patrick Nève,Belgian,33,1976-heusden-zolder,Belgian Grand Prix,,,,,,19,26,,0.0,21,R,5,Halfshaft,,1976
+March,march,British,,merzario,Arturo Merzario,Italian,35,1976-heusden-zolder,Belgian Grand Prix,,,,,,21,21,,0.0,22,R,5,Engine,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-heusden-zolder,Belgian Grand Prix,,,,,,12,17,,0.0,23,R,5,Engine,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-heusden-zolder,Belgian Grand Prix,,,,,,10,16,,0.0,24,R,5,Accident,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-heusden-zolder,Belgian Grand Prix,,,,,,22,7,,0.0,25,R,5,Accident,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-heusden-zolder,Belgian Grand Prix,,,,,,5,6,,0.0,26,R,5,Halfshaft,,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-monte-carlo,Monaco Grand Prix,,,,,,1,78,7191470,9.0,1,1,6,Finished,1:59:51.470,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-monte-carlo,Monaco Grand Prix,,,,,,5,78,7202600,6.0,2,2,6,Finished,+11.130,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-monte-carlo,Monaco Grand Prix,,,,,,4,78,7256310,4.0,3,3,6,Finished,+1:04.840,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-monte-carlo,Monaco Grand Prix,,,,,,6,77,,3.0,4,4,6,+1 Lap,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-monte-carlo,Monaco Grand Prix,,,,,,11,77,,2.0,5,5,6,+1 Lap,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-monte-carlo,Monaco Grand Prix,,,,,,7,77,,1.0,6,6,6,+1 Lap,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-monte-carlo,Monaco Grand Prix,,,,,,15,77,,0.0,7,7,6,+1 Lap,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-monte-carlo,Monaco Grand Prix,,,,,,10,76,,0.0,8,8,6,+2 Laps,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-monte-carlo,Monaco Grand Prix,,,,,,13,76,,0.0,9,9,6,+2 Laps,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-monte-carlo,Monaco Grand Prix,,,,,,17,76,,0.0,10,10,6,+2 Laps,,1976
+Wolf,wolf,Canadian,,leclere,Michel Leclère,French,21,1976-monte-carlo,Monaco Grand Prix,,,,,,18,76,,0.0,11,11,6,+2 Laps,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-monte-carlo,Monaco Grand Prix,,,,,,8,75,,0.0,12,12,6,Accident,,1976
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,22,1976-monte-carlo,Monaco Grand Prix,,,,,,12,74,,0.0,13,13,6,+4 Laps,,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-monte-carlo,Monaco Grand Prix,,,,,,2,73,,0.0,14,14,6,Accident,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-monte-carlo,Monaco Grand Prix,,,,,,16,39,,0.0,15,R,6,Engine,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-monte-carlo,Monaco Grand Prix,,,,,,3,26,,0.0,16,R,6,Accident,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-monte-carlo,Monaco Grand Prix,,,,,,14,24,,0.0,17,R,6,Engine,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-monte-carlo,Monaco Grand Prix,,,,,,9,9,,0.0,18,R,6,Suspension,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-monte-carlo,Monaco Grand Prix,,,,,,19,1,,0.0,19,R,6,Collision,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-monte-carlo,Monaco Grand Prix,,,,,,20,0,,0.0,20,R,6,Accident,,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-anderstorp,Swedish Grand Prix,,,,,,1,72,6413729,9.0,1,1,7,Finished,1:46:53.729,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-anderstorp,Swedish Grand Prix,,,,,,4,72,6433495,6.0,2,2,7,Finished,+19.766,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-anderstorp,Swedish Grand Prix,,,,,,5,72,6447595,4.0,3,3,7,Finished,+33.866,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-anderstorp,Swedish Grand Prix,,,,,,7,72,6469548,3.0,4,4,7,Finished,+55.819,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-anderstorp,Swedish Grand Prix,,,,,,8,72,6473212,2.0,5,5,7,Finished,+59.483,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-anderstorp,Swedish Grand Prix,,,,,,11,72,6474095,1.0,6,6,7,Finished,+1:00.366,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-anderstorp,Swedish Grand Prix,,,,,,9,72,6477222,0.0,7,7,7,Finished,+1:03.493,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-anderstorp,Swedish Grand Prix,,,,,,10,72,6485342,0.0,8,8,7,Finished,+1:11.613,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-anderstorp,Swedish Grand Prix,,,,,,12,71,,0.0,9,9,7,+1 Lap,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-anderstorp,Swedish Grand Prix,,,,,,15,71,,0.0,10,10,7,+1 Lap,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-anderstorp,Swedish Grand Prix,,,,,,13,71,,0.0,11,11,7,+1 Lap,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-anderstorp,Swedish Grand Prix,,,,,,14,71,,0.0,12,12,7,+1 Lap,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-anderstorp,Swedish Grand Prix,,,,,,18,71,,0.0,13,13,7,+1 Lap,,1976
+March,march,British,,merzario,Arturo Merzario,Italian,35,1976-anderstorp,Swedish Grand Prix,,,,,,19,70,,0.0,14,14,7,Engine,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-anderstorp,Swedish Grand Prix,,,,,,24,70,,0.0,15,15,7,+2 Laps,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-anderstorp,Swedish Grand Prix,,,,,,23,54,,0.0,16,R,7,Spun off,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-anderstorp,Swedish Grand Prix,,,,,,20,52,,0.0,17,R,7,Engine,,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-anderstorp,Swedish Grand Prix,,,,,,2,45,,0.0,18,R,7,Engine,,1976
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,22,1976-anderstorp,Swedish Grand Prix,,,,,,3,38,,0.0,19,R,7,Accident,,1976
+Wolf,wolf,Canadian,,leclere,Michel Leclère,French,21,1976-anderstorp,Swedish Grand Prix,,,,,,25,20,,0.0,20,R,7,Engine,,1976
+Boro,boro,Dutch,,perkins,Larry Perkins,Australian,37,1976-anderstorp,Swedish Grand Prix,,,,,,22,18,,0.0,21,R,7,Engine,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-anderstorp,Swedish Grand Prix,,,,,,21,10,,0.0,22,R,7,Handling,,1976
+Brabham-Ford,brabham-ford,British,,kessel,Loris Kessel,Swiss,32,1976-anderstorp,Swedish Grand Prix,,,,,,26,5,,0.0,23,R,7,Accident,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-anderstorp,Swedish Grand Prix,,,,,,6,2,,0.0,24,R,7,Accident,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-anderstorp,Swedish Grand Prix,,,,,,16,2,,0.0,25,R,7,Engine,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-anderstorp,Swedish Grand Prix,,,,,,17,0,,0.0,26,R,7,Accident,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-le-castellet,French Grand Prix,,,,,,1,54,6058600,9.0,1,1,8,Finished,1:40:58.600,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-le-castellet,French Grand Prix,,,,,,3,54,6071300,6.0,2,2,8,Finished,+12.700,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-le-castellet,French Grand Prix,,,,,,8,54,6082150,4.0,3,3,8,Finished,+23.550,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-le-castellet,French Grand Prix,,,,,,5,54,6083420,3.0,4,4,8,Finished,+24.820,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-le-castellet,French Grand Prix,,,,,,7,54,6102520,2.0,5,5,8,Finished,+43.920,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-le-castellet,French Grand Prix,,,,,,9,54,6113670,1.0,6,6,8,Finished,+55.070,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-le-castellet,French Grand Prix,,,,,,17,54,6140150,0.0,7,7,8,Finished,+1:21.550,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-le-castellet,French Grand Prix,,,,,,16,54,6149270,0.0,8,8,8,Finished,+1:30.670,1976
+March,march,British,,merzario,Arturo Merzario,Italian,35,1976-le-castellet,French Grand Prix,,,,,,20,54,6172170,0.0,9,9,8,Finished,+1:53.570,1976
+Wolf,wolf,Canadian,,ickx,Jacky Ickx,Belgian,20,1976-le-castellet,French Grand Prix,,,,,,19,53,,0.0,10,10,8,+1 Lap,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-le-castellet,French Grand Prix,,,,,,10,53,,0.0,11,11,8,+1 Lap,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-le-castellet,French Grand Prix,,,,,,15,53,,0.0,12,12,8,+1 Lap,,1976
+Wolf,wolf,Canadian,,leclere,Michel Leclère,French,21,1976-le-castellet,French Grand Prix,,,,,,22,53,,0.0,13,13,8,+1 Lap,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-le-castellet,French Grand Prix,,,,,,13,53,,0.0,14,14,8,+1 Lap,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-le-castellet,French Grand Prix,,,,,,14,53,,0.0,15,15,8,+1 Lap,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-le-castellet,French Grand Prix,,,,,,23,53,,0.0,16,16,8,+1 Lap,,1976
+Hesketh,hesketh,British,,edwards,Guy Edwards,British,25,1976-le-castellet,French Grand Prix,,,,,,25,53,,0.0,17,17,8,+1 Lap,,1976
+Ensign,ensign,British,,neve,Patrick Nève,Belgian,22,1976-le-castellet,French Grand Prix,,,,,,26,53,,0.0,18,18,8,+1 Lap,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-le-castellet,French Grand Prix,,,,,,6,51,,0.0,19,19,8,Fuel system,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-le-castellet,French Grand Prix,,,,,,18,44,,0.0,20,R,8,Suspension,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-le-castellet,French Grand Prix,,,,,,11,28,,0.0,21,R,8,Oil pressure,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-le-castellet,French Grand Prix,,,,,,21,21,,0.0,22,R,8,Oil pressure,,1976
+Surtees,surtees,British,,pescarolo,Henri Pescarolo,French,38,1976-le-castellet,French Grand Prix,,,,,,24,19,,0.0,23,R,8,Suspension,,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-le-castellet,French Grand Prix,,,,,,4,17,,0.0,24,R,8,Engine,,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-le-castellet,French Grand Prix,,,,,,2,8,,0.0,25,R,8,Engine,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-le-castellet,French Grand Prix,,,,,,12,8,,0.0,26,R,8,Gearbox,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-le-castellet,French Grand Prix,,,,,,29,4,,0.0,27,R,8,Differential,,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-kent,British Grand Prix,,,,,,1,76,6259660,9.0,1,1,9,Finished,1:44:19.660,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-kent,British Grand Prix,,,,,,8,76,6275840,6.0,2,2,9,Finished,+16.180,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-kent,British Grand Prix,,,,,,11,75,,4.0,3,3,9,+1 Lap,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-kent,British Grand Prix,,,,,,20,75,,3.0,4,4,9,+1 Lap,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-kent,British Grand Prix,,,,,,19,75,,2.0,5,5,9,+1 Lap,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-kent,British Grand Prix,,,,,,21,74,,1.0,6,6,9,+2 Laps,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-kent,British Grand Prix,,,,,,23,73,,0.0,7,7,9,+3 Laps,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-kent,British Grand Prix,,,,,,16,73,,0.0,8,8,9,+3 Laps,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-kent,British Grand Prix,,,,,,24,70,,0.0,9,9,9,+6 Laps,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-kent,British Grand Prix,,,,,,2,76,,0.0,10,D,9,Disqualified,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-kent,British Grand Prix,,,,,,14,67,,0.0,11,R,9,Engine,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-kent,British Grand Prix,,,,,,7,60,,0.0,12,R,9,Fuel system,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-kent,British Grand Prix,,,,,,18,55,,0.0,13,R,9,Gearbox,,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-kent,British Grand Prix,,,,,,5,47,,0.0,14,R,9,Engine,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-kent,British Grand Prix,,,,,,15,46,,0.0,15,R,9,Oil pressure,,1976
+March,march,British,,merzario,Arturo Merzario,Italian,35,1976-kent,British Grand Prix,,,,,,9,39,,0.0,16,R,9,Engine,,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-kent,British Grand Prix,,,,,,4,36,,0.0,17,R,9,Oil pressure,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-kent,British Grand Prix,,,,,,13,31,,0.0,18,R,9,Suspension,,1976
+Brabham-Ford,brabham-ford,British,,evans,Bob Evans,British,32,1976-kent,British Grand Prix,,,,,,22,24,,0.0,19,R,9,Gearbox,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-kent,British Grand Prix,,,,,,10,22,,0.0,20,R,9,Accident,,1976
+Surtees,surtees,British,,pescarolo,Henri Pescarolo,French,38,1976-kent,British Grand Prix,,,,,,26,16,,0.0,21,R,9,Fuel system,,1976
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,22,1976-kent,British Grand Prix,,,,,,6,8,,0.0,22,R,9,Water leak,,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-kent,British Grand Prix,,,,,,3,4,,0.0,23,R,9,Ignition,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-kent,British Grand Prix,,,,,,12,1,,0.0,24,R,9,Clutch,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-kent,British Grand Prix,,,,,,17,0,,0.0,25,R,9,Accident,,1976
+Hesketh,hesketh,British,,edwards,Guy Edwards,British,25,1976-kent,British Grand Prix,,,,,,25,0,,0.0,26,R,9,Accident,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-n-rburg,German Grand Prix,,,,,,1,14,6102700,9.0,1,1,10,Finished,1:41:42.700,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-n-rburg,German Grand Prix,,,,,,8,14,6130400,6.0,2,2,10,Finished,+27.700,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-n-rburg,German Grand Prix,,,,,,9,14,6155100,4.0,3,3,10,Finished,+52.400,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-n-rburg,German Grand Prix,,,,,,7,14,6156900,3.0,4,4,10,Finished,+54.200,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-n-rburg,German Grand Prix,,,,,,16,14,6220000,2.0,5,5,10,Finished,+1:57.300,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,stommelen,Rolf Stommelen,German,77,1976-n-rburg,German Grand Prix,,,,,,15,14,6253000,1.0,6,6,10,Finished,+2:30.300,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-n-rburg,German Grand Prix,,,,,,19,14,6256600,0.0,7,7,10,Finished,+2:33.900,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-n-rburg,German Grand Prix,,,,,,18,14,6270900,0.0,8,8,10,Finished,+2:48.200,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-n-rburg,German Grand Prix,,,,,,5,14,6328700,0.0,9,9,10,Finished,+3:46.000,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-n-rburg,German Grand Prix,,,,,,14,14,6330000,0.0,10,10,10,Finished,+3:47.300,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-n-rburg,German Grand Prix,,,,,,23,14,6394400,0.0,11,11,10,Finished,+4:51.700,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-n-rburg,German Grand Prix,,,,,,12,14,6400800,0.0,12,12,10,Finished,+4:58.100,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-n-rburg,German Grand Prix,,,,,,20,14,6427900,0.0,13,13,10,Finished,+5:25.200,1976
+Tyrrell,tyrrell,British,,pesenti_rossi,Alessandro Pesenti-Rossi,Italian,40,1976-n-rburg,German Grand Prix,,,,,,26,13,,0.0,14,14,10,+1 Lap,,1976
+Hesketh,hesketh,British,,edwards,Guy Edwards,British,25,1976-n-rburg,German Grand Prix,,,,,,25,13,,0.0,15,15,10,+1 Lap,,1976
+Wolf,wolf,Canadian,,merzario,Arturo Merzario,Italian,20,1976-n-rburg,German Grand Prix,,,,,,21,3,,0.0,16,R,10,Brakes,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-n-rburg,German Grand Prix,,,,,,13,1,,0.0,17,R,10,Accident,,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-n-rburg,German Grand Prix,,,,,,3,0,,0.0,18,R,10,Accident,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-n-rburg,German Grand Prix,,,,,,10,0,,0.0,19,R,10,Fuel system,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-n-rburg,German Grand Prix,,,,,,11,0,,0.0,20,R,10,Accident,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-n-rburg,German Grand Prix,,,,,,4,0,,0.0,21,R,10,Clutch,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-n-rburg,German Grand Prix,,,,,,6,0,,0.0,22,R,10,Gearbox,,1976
+Ensign,ensign,British,,amon,Chris Amon,New Zealander,22,1976-n-rburg,German Grand Prix,,,,,,17,0,,0.0,23,R,10,Retired,,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-n-rburg,German Grand Prix,,,,,,2,0,,0.0,24,R,10,Accident,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-n-rburg,German Grand Prix,,,,,,24,0,,0.0,25,R,10,Accident,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-n-rburg,German Grand Prix,,,,,,22,0,,0.0,26,R,10,Accident,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-spielberg,Austrian Grand Prix,,,,,,2,54,5407860,9.0,1,1,11,Finished,1:30:07.860,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-spielberg,Austrian Grand Prix,,,,,,5,54,5418650,6.0,2,2,11,Finished,+10.790,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-spielberg,Austrian Grand Prix,,,,,,4,54,5419840,4.0,3,3,11,Finished,+11.980,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-spielberg,Austrian Grand Prix,,,,,,1,54,5420300,3.0,4,4,11,Finished,+12.440,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-spielberg,Austrian Grand Prix,,,,,,9,54,5429350,2.0,5,5,11,Finished,+21.490,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-spielberg,Austrian Grand Prix,,,,,,3,54,5442200,1.0,6,6,11,Finished,+34.340,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-spielberg,Austrian Grand Prix,,,,,,12,54,5467310,0.0,7,7,11,Finished,+59.450,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-spielberg,Austrian Grand Prix,,,,,,20,53,,0.0,8,8,11,+1 Lap,,1976
+Surtees,surtees,British,,pescarolo,Henri Pescarolo,French,38,1976-spielberg,Austrian Grand Prix,,,,,,22,52,,0.0,9,9,11,+2 Laps,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-spielberg,Austrian Grand Prix,,,,,,16,51,,0.0,10,10,11,Accident,,1976
+Tyrrell,tyrrell,British,,pesenti_rossi,Alessandro Pesenti-Rossi,Italian,39,1976-spielberg,Austrian Grand Prix,,,,,,23,51,,0.0,11,11,11,+3 Laps,,1976
+Brabham-Ford,brabham-ford,British,,lombardi,Lella Lombardi,Italian,33,1976-spielberg,Austrian Grand Prix,,,,,,24,50,,0.0,12,12,11,+4 Laps,,1976
+Ensign,ensign,British,,binder,Hans Binder,Austrian,22,1976-spielberg,Austrian Grand Prix,,,,,,19,47,,0.0,13,R,11,Throttle,,1976
+Brabham-Ford,brabham-ford,British,,kessel,Loris Kessel,Swiss,32,1976-spielberg,Austrian Grand Prix,,,,,,25,44,,0.0,14,R,11,Not classified,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-spielberg,Austrian Grand Prix,,,,,,7,43,,0.0,15,R,11,Accident,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-spielberg,Austrian Grand Prix,,,,,,17,43,,0.0,16,R,11,Accident,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-spielberg,Austrian Grand Prix,,,,,,18,40,,0.0,17,R,11,Accident,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-spielberg,Austrian Grand Prix,,,,,,8,40,,0.0,18,R,11,Fuel pump,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-spielberg,Austrian Grand Prix,,,,,,15,30,,0.0,19,R,11,Accident,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-spielberg,Austrian Grand Prix,,,,,,11,26,,0.0,20,R,11,Fuel system,,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-spielberg,Austrian Grand Prix,,,,,,13,24,,0.0,21,R,11,Suspension,,1976
+Wolf,wolf,Canadian,,merzario,Arturo Merzario,Italian,20,1976-spielberg,Austrian Grand Prix,,,,,,21,17,,0.0,22,R,11,Accident,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-spielberg,Austrian Grand Prix,,,,,,6,14,,0.0,23,R,11,Brakes,,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-spielberg,Austrian Grand Prix,,,,,,10,14,,0.0,24,R,11,Suspension,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-spielberg,Austrian Grand Prix,,,,,,14,0,,0.0,25,R,11,Clutch,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-zandvoort,Dutch Grand Prix,,,,,,2,75,6292090,9.0,1,1,12,Finished,1:44:52.090,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-zandvoort,Dutch Grand Prix,,,,,,5,75,6293010,6.0,2,2,12,Finished,+0.920,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-zandvoort,Dutch Grand Prix,,,,,,6,75,6294180,4.0,3,3,12,Finished,+2.090,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-zandvoort,Dutch Grand Prix,,,,,,3,75,6299030,3.0,4,4,12,Finished,+6.940,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-zandvoort,Dutch Grand Prix,,,,,,8,75,6314550,2.0,5,5,12,Finished,+22.460,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-zandvoort,Dutch Grand Prix,,,,,,7,75,6337120,1.0,6,6,12,Finished,+45.030,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-zandvoort,Dutch Grand Prix,,,,,,14,75,6348370,0.0,7,7,12,Finished,+56.280,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-zandvoort,Dutch Grand Prix,,,,,,16,74,,0.0,8,8,12,+1 Lap,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-zandvoort,Dutch Grand Prix,,,,,,15,74,,0.0,9,9,12,+1 Lap,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-zandvoort,Dutch Grand Prix,,,,,,20,74,,0.0,10,10,12,+1 Lap,,1976
+Surtees,surtees,British,,pescarolo,Henri Pescarolo,French,38,1976-zandvoort,Dutch Grand Prix,,,,,,22,74,,0.0,11,11,12,+1 Lap,,1976
+Hesketh,hesketh,British,,stommelen,Rolf Stommelen,German,25,1976-zandvoort,Dutch Grand Prix,,,,,,25,72,,0.0,12,12,12,+3 Laps,,1976
+Ensign,ensign,British,,ickx,Jacky Ickx,Belgian,22,1976-zandvoort,Dutch Grand Prix,,,,,,11,66,,0.0,13,R,12,Electrical,,1976
+Penske,penske,American,,hayje,Boy Lunger,Dutch,39,1976-zandvoort,Dutch Grand Prix,,,,,,21,63,,0.0,14,R,12,Halfshaft,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-zandvoort,Dutch Grand Prix,,,,,,9,53,,0.0,15,R,12,Oil leak,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-zandvoort,Dutch Grand Prix,,,,,,10,53,,0.0,16,R,12,Oil leak,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-zandvoort,Dutch Grand Prix,,,,,,1,52,,0.0,17,R,12,Oil pressure,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-zandvoort,Dutch Grand Prix,,,,,,24,49,,0.0,18,R,12,Spun off,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-zandvoort,Dutch Grand Prix,,,,,,4,47,,0.0,19,R,12,Gearbox,,1976
+Boro,boro,Dutch,,perkins,Larry Perkins,Australian,27,1976-zandvoort,Dutch Grand Prix,,,,,,19,44,,0.0,20,R,12,Accident,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-zandvoort,Dutch Grand Prix,,,,,,17,40,,0.0,21,R,12,Electrical,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,reutemann,Carlos Reutemann,Argentine,7,1976-zandvoort,Dutch Grand Prix,,,,,,12,11,,0.0,22,R,12,Clutch,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-zandvoort,Dutch Grand Prix,,,,,,13,10,,0.0,23,R,12,Accident,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-zandvoort,Dutch Grand Prix,,,,,,26,9,,0.0,24,R,12,Engine,,1976
+Surtees,surtees,British,,andersson,Conny Andersson,Swedish,18,1976-zandvoort,Dutch Grand Prix,,,,,,18,9,,0.0,25,R,12,Engine,,1976
+Wolf,wolf,Canadian,,merzario,Arturo Merzario,Italian,20,1976-zandvoort,Dutch Grand Prix,,,,,,23,5,,0.0,26,R,12,Accident,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-monza,Italian Grand Prix,,,,,,8,52,5435600,9.0,1,1,13,Finished,1:30:35.600,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-monza,Italian Grand Prix,,,,,,9,52,5437900,6.0,2,2,13,Finished,+2.300,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-monza,Italian Grand Prix,,,,,,1,52,5438600,4.0,3,3,13,Finished,+3.000,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-monza,Italian Grand Prix,,,,,,5,52,5455000,3.0,4,4,13,Finished,+19.400,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-monza,Italian Grand Prix,,,,,,2,52,5455100,2.0,5,5,13,Finished,+19.500,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-monza,Italian Grand Prix,,,,,,4,52,5471300,1.0,6,6,13,Finished,+35.700,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-monza,Italian Grand Prix,,,,,,16,52,5479500,0.0,7,7,13,Finished,+43.900,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-monza,Italian Grand Prix,,,,,,15,52,5488500,0.0,8,8,13,Finished,+52.900,1976
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,35,1976-monza,Italian Grand Prix,,,,,,7,52,5493100,0.0,9,9,13,Finished,+57.500,1976
+Ensign,ensign,British,,ickx,Jacky Ickx,Belgian,22,1976-monza,Italian Grand Prix,,,,,,10,52,5508000,0.0,10,10,13,Finished,+1:12.400,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-monza,Italian Grand Prix,,,,,,26,52,5537800,0.0,11,11,13,Finished,+1:42.200,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-monza,Italian Grand Prix,,,,,,18,51,,0.0,12,12,13,+1 Lap,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-monza,Italian Grand Prix,,,,,,12,51,,0.0,13,13,13,+1 Lap,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-monza,Italian Grand Prix,,,,,,24,50,,0.0,14,14,13,+2 Laps,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-monza,Italian Grand Prix,,,,,,20,50,,0.0,15,15,13,+2 Laps,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-monza,Italian Grand Prix,,,,,,19,49,,0.0,16,16,13,Halfshaft,,1976
+Surtees,surtees,British,,pescarolo,Henri Pescarolo,French,38,1976-monza,Italian Grand Prix,,,,,,22,49,,0.0,17,17,13,+3 Laps,,1976
+Tyrrell,tyrrell,British,,pesenti_rossi,Alessandro Pesenti-Rossi,Italian,37,1976-monza,Italian Grand Prix,,,,,,21,49,,0.0,18,18,13,+3 Laps,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-monza,Italian Grand Prix,,,,,,17,47,,0.0,19,19,13,+5 Laps,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,stommelen,Rolf Stommelen,German,7,1976-monza,Italian Grand Prix,,,,,,11,41,,0.0,20,R,13,Fuel system,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-monza,Italian Grand Prix,,,,,,6,23,,0.0,21,R,13,Accident,,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-monza,Italian Grand Prix,,,,,,14,23,,0.0,22,R,13,Accident,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-monza,Italian Grand Prix,,,,,,24,11,,0.0,23,R,13,Spun off,,1976
+Boro,boro,Dutch,,perkins,Larry Perkins,Australian,40,1976-monza,Italian Grand Prix,,,,,,13,8,,0.0,24,R,13,Engine,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-monza,Italian Grand Prix,,,,,,3,4,,0.0,25,R,13,Engine,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-monza,Italian Grand Prix,,,,,,25,2,,0.0,26,R,13,Ignition,,1976
+Hesketh,hesketh,British,,edwards,Guy Edwards,British,25,1976-monza,Italian Grand Prix,,,,,,0,0,,0.0,27,W,13,Withdrew,,1976
+Wolf,wolf,Canadian,,merzario,Arturo Merzario,Italian,20,1976-monza,Italian Grand Prix,,,,,,0,0,,0.0,28,W,13,Withdrew,,1976
+Tyrrell,tyrrell,British,,stuppacher,Otto Stuppacher,Austrian,39,1976-monza,Italian Grand Prix,,,,,,0,0,,0.0,29,W,13,Withdrew,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-ontario,Canadian Grand Prix,,,,,,1,80,6009626,9.0,1,1,14,Finished,1:40:09.626,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-ontario,Canadian Grand Prix,,,,,,4,80,6015957,6.0,2,2,14,Finished,+6.331,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-ontario,Canadian Grand Prix,,,,,,5,80,6019992,4.0,3,3,14,Finished,+10.366,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-ontario,Canadian Grand Prix,,,,,,7,80,6029371,3.0,4,4,14,Finished,+19.745,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-ontario,Canadian Grand Prix,,,,,,11,80,6051437,2.0,5,5,14,Finished,+41.811,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-ontario,Canadian Grand Prix,,,,,,12,80,6055882,1.0,6,6,14,Finished,+46.256,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-ontario,Canadian Grand Prix,,,,,,10,80,6056098,0.0,7,7,14,Finished,+46.472,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-ontario,Canadian Grand Prix,,,,,,6,80,6082583,0.0,8,8,14,Finished,+1:12.957,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-ontario,Canadian Grand Prix,,,,,,2,79,,0.0,9,9,14,+1 Lap,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-ontario,Canadian Grand Prix,,,,,,14,79,,0.0,10,10,14,+1 Lap,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-ontario,Canadian Grand Prix,,,,,,13,79,,0.0,11,11,14,+1 Lap,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-ontario,Canadian Grand Prix,,,,,,15,79,,0.0,12,12,14,+1 Lap,,1976
+Ensign,ensign,British,,ickx,Jacky Ickx,Belgian,22,1976-ontario,Canadian Grand Prix,,,,,,16,79,,0.0,13,13,14,+1 Lap,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-ontario,Canadian Grand Prix,,,,,,3,79,,0.0,14,14,14,+1 Lap,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-ontario,Canadian Grand Prix,,,,,,22,78,,0.0,15,15,14,+2 Laps,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-ontario,Canadian Grand Prix,,,,,,20,78,,0.0,16,16,14,+2 Laps,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,perkins,Larry Perkins,Australian,7,1976-ontario,Canadian Grand Prix,,,,,,19,78,,0.0,17,17,14,+2 Laps,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-ontario,Canadian Grand Prix,,,,,,18,77,,0.0,18,18,14,+3 Laps,,1976
+Surtees,surtees,British,,pescarolo,Henri Pescarolo,French,38,1976-ontario,Canadian Grand Prix,,,,,,21,77,,0.0,19,19,14,+3 Laps,,1976
+Hesketh,hesketh,British,,edwards,Guy Edwards,British,25,1976-ontario,Canadian Grand Prix,,,,,,23,75,,0.0,20,20,14,+5 Laps,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-ontario,Canadian Grand Prix,,,,,,9,43,,0.0,21,R,14,Oil pressure,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-ontario,Canadian Grand Prix,,,,,,17,41,,0.0,22,R,14,Exhaust,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-ontario,Canadian Grand Prix,,,,,,8,36,,0.0,23,R,14,Handling,,1976
+Wolf,wolf,Canadian,,merzario,Arturo Merzario,Italian,20,1976-ontario,Canadian Grand Prix,,,,,,24,11,,0.0,24,R,14,Accident,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-ontario,Canadian Grand Prix,,,,,,0,0,,0.0,25,W,14,Accident,,1976
+Wolf,wolf,Canadian,,amon,Chris Amon,New Zealander,21,1976-ontario,Canadian Grand Prix,,,,,,0,0,,0.0,26,W,14,Accident,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-new-york-state,United States Grand Prix,,,,,,1,59,6160742,9.0,1,1,15,Finished,1:42:40.742,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-new-york-state,United States Grand Prix,,,,,,2,59,6168772,6.0,2,2,15,Finished,+8.030,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-new-york-state,United States Grand Prix,,,,,,5,59,6223066,4.0,3,3,15,Finished,+1:02.324,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-new-york-state,United States Grand Prix,,,,,,17,59,6223200,3.0,4,4,15,Finished,+1:02.458,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-new-york-state,United States Grand Prix,,,,,,6,59,6228720,2.0,5,5,15,Finished,+1:07.978,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-new-york-state,United States Grand Prix,,,,,,8,59,6228932,1.0,6,6,15,Finished,+1:08.190,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-new-york-state,United States Grand Prix,,,,,,14,58,,0.0,7,7,15,+1 Lap,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-new-york-state,United States Grand Prix,,,,,,18,58,,0.0,8,8,15,+1 Lap,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-new-york-state,United States Grand Prix,,,,,,15,57,,0.0,9,9,15,+2 Laps,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-new-york-state,United States Grand Prix,,,,,,16,57,,0.0,10,10,15,+2 Laps,,1976
+Surtees,surtees,British,,lunger,Brett Lunger,American,18,1976-new-york-state,United States Grand Prix,,,,,,24,57,,0.0,11,11,15,+2 Laps,,1976
+Hesketh,hesketh,British,,ribeiro,Alex Ribeiro,Brazilian,25,1976-new-york-state,United States Grand Prix,,,,,,22,57,,0.0,12,12,15,+2 Laps,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-new-york-state,United States Grand Prix,,,,,,21,54,,0.0,13,13,15,+5 Laps,,1976
+Wolf,wolf,Canadian,,brown,Warwick Brown,Australian,21,1976-new-york-state,United States Grand Prix,,,,,,23,54,,0.0,14,14,15,+5 Laps,,1976
+Surtees,surtees,British,,pescarolo,Henri Pescarolo,French,38,1976-new-york-state,United States Grand Prix,,,,,,26,48,,0.0,15,R,15,Not classified,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-new-york-state,United States Grand Prix,,,,,,9,45,,0.0,16,R,15,Engine,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-new-york-state,United States Grand Prix,,,,,,12,34,,0.0,17,R,15,Tyre,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-new-york-state,United States Grand Prix,,,,,,4,34,,0.0,18,R,15,Tyre,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-new-york-state,United States Grand Prix,,,,,,10,31,,0.0,19,R,15,Collision,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,perkins,Larry Perkins,Australian,7,1976-new-york-state,United States Grand Prix,,,,,,13,30,,0.0,20,R,15,Suspension,,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-new-york-state,United States Grand Prix,,,,,,11,23,,0.0,21,R,15,Suspension,,1976
+Ensign,ensign,British,,ickx,Jacky Ickx,Belgian,22,1976-new-york-state,United States Grand Prix,,,,,,19,14,,0.0,22,R,15,Accident,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-new-york-state,United States Grand Prix,,,,,,20,13,,0.0,23,R,15,Engine,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-new-york-state,United States Grand Prix,,,,,,3,12,,0.0,24,R,15,Suspension,,1976
+Wolf,wolf,Canadian,,merzario,Arturo Merzario,Italian,20,1976-new-york-state,United States Grand Prix,,,,,,25,9,,0.0,25,R,15,Accident,,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-new-york-state,United States Grand Prix,,,,,,7,7,,0.0,26,R,15,Fuel pipe,,1976
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1976-oyama,Japanese Grand Prix,,,,,,1,73,6238860,9.0,1,1,16,Finished,1:43:58.860,1976
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1976-oyama,Japanese Grand Prix,,,,,,13,72,,6.0,2,2,16,+1 Lap,,1976
+McLaren,mclaren,British,,hunt,James Hunt,British,11,1976-oyama,Japanese Grand Prix,,,,,,2,72,,4.0,3,3,16,+1 Lap,,1976
+Surtees,surtees,British,,jones,Alan Jones,Australian,19,1976-oyama,Japanese Grand Prix,,,,,,20,72,,3.0,4,4,16,+1 Lap,,1976
+Ferrari,ferrari,Italian,,regazzoni,Clay Regazzoni,Swiss,2,1976-oyama,Japanese Grand Prix,,,,,,7,72,,2.0,5,5,16,+1 Lap,,1976
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1976-oyama,Japanese Grand Prix,,,,,,16,72,,1.0,6,6,16,+1 Lap,,1976
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1976-oyama,Japanese Grand Prix,,,,,,11,72,,0.0,7,7,16,+1 Lap,,1976
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,24,1976-oyama,Japanese Grand Prix,,,,,,22,72,,0.0,8,8,16,+1 Lap,,1976
+Surtees,surtees,British,,takahara,Noritake Takahara,Japanese,18,1976-oyama,Japanese Grand Prix,,,,,,24,70,,0.0,9,9,16,+3 Laps,,1976
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,17,1976-oyama,Japanese Grand Prix,,,,,,15,69,,0.0,10,10,16,+4 Laps,,1976
+Kojima,kojima,Japanese,,hasemi,Masahiro Hasemi,Japanese,51,1976-oyama,Japanese Grand Prix,,,,,,10,66,,0.0,11,11,16,+7 Laps,,1976
+Tyrrell,tyrrell,British,,scheckter,Jody Scheckter,South African,3,1976-oyama,Japanese Grand Prix,,,,,,5,58,,0.0,12,R,16,Overheating,,1976
+Wolf,wolf,Canadian,,binder,Hans Binder,Austrian,21,1976-oyama,Japanese Grand Prix,,,,,,25,49,,0.0,13,R,16,Wheel,,1976
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1976-oyama,Japanese Grand Prix,,,,,,14,46,,0.0,14,R,16,Physical,,1976
+March,march,British,,brambilla,Vittorio Brambilla,Italian,9,1976-oyama,Japanese Grand Prix,,,,,,8,38,,0.0,15,R,16,Electrical,,1976
+March,march,British,,stuck,Hans-Joachim Stuck,German,34,1976-oyama,Japanese Grand Prix,,,,,,18,37,,0.0,16,R,16,Electrical,,1976
+McLaren,mclaren,British,,mass,Jochen Mass,German,12,1976-oyama,Japanese Grand Prix,,,,,,12,35,,0.0,17,R,16,Accident,,1976
+Penske,penske,American,,watson,John Watson,British,28,1976-oyama,Japanese Grand Prix,,,,,,4,33,,0.0,18,R,16,Engine,,1976
+Tyrrell,tyrrell,British,,hoshino,Kazuyoshi Hoshino,Japanese,52,1976-oyama,Japanese Grand Prix,,,,,,21,27,,0.0,19,R,16,Tyre,,1976
+Wolf,wolf,Canadian,,merzario,Arturo Merzario,Italian,20,1976-oyama,Japanese Grand Prix,,,,,,19,23,,0.0,20,R,16,Gearbox,,1976
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,30,1976-oyama,Japanese Grand Prix,,,,,,23,9,,0.0,21,W,16,Withdrew,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,pace,Carlos Pace,Brazilian,8,1976-oyama,Japanese Grand Prix,,,,,,6,7,,0.0,22,W,16,Withdrew,,1976
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,1,1976-oyama,Japanese Grand Prix,,,,,,3,2,,0.0,23,W,16,Withdrew,,1976
+Brabham-Alfa Romeo,brabham-alfa_romeo,British,,perkins,Larry Perkins,Australian,7,1976-oyama,Japanese Grand Prix,,,,,,17,1,,0.0,24,W,16,Withdrew,,1976
+March,march,British,,peterson,Ronnie Peterson,Swedish,10,1976-oyama,Japanese Grand Prix,,,,,,9,0,,0.0,25,R,16,Engine,,1976

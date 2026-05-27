@@ -1,0 +1,37 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,prost,Alain Prost,French,,73.0,1,1,5,1985
+"[""ferrari""]","[""Ferrari""]",,alboreto,Michele Alboreto,Italian,,53.0,2,2,2,1985
+"[""williams""]","[""Williams""]",,keke_rosberg,Keke Rosberg,Finnish,,40.0,3,3,2,1985
+"[""team_lotus""]","[""Team Lotus""]",,senna,Ayrton Senna,Brazilian,,38.0,4,4,2,1985
+"[""team_lotus""]","[""Team Lotus""]",,angelis,Elio de Angelis,Italian,,33.0,5,5,1,1985
+"[""williams""]","[""Williams""]",,mansell,Nigel Mansell,British,,31.0,6,6,2,1985
+"[""tyrrell"", ""ferrari""]","[""Tyrrell"", ""Ferrari""]",,johansson,Stefan Johansson,Swedish,,26.0,7,7,0,1985
+"[""brabham""]","[""Brabham""]",,piquet,Nelson Piquet,Brazilian,,21.0,8,8,1,1985
+"[""ligier""]","[""Ligier""]",,laffite,Jacques Laffite,French,,16.0,9,9,0,1985
+"[""mclaren""]","[""McLaren""]",,lauda,Niki Lauda,Austrian,,14.0,10,10,1,1985
+"[""arrows""]","[""Arrows""]",,boutsen,Thierry Boutsen,Belgian,,11.0,11,11,0,1985
+"[""renault""]","[""Renault""]",,tambay,Patrick Tambay,French,,11.0,12,12,0,1985
+"[""brabham""]","[""Brabham""]",,surer,Marc Surer,Swiss,,5.0,13,13,0,1985
+"[""renault""]","[""Renault""]",,warwick,Derek Warwick,British,,5.0,14,14,0,1985
+"[""ligier"", ""tyrrell""]","[""Ligier"", ""Tyrrell""]",,streiff,Philippe Streiff,French,,4.0,15,15,0,1985
+"[""tyrrell""]","[""Tyrrell""]",,bellof,Stefan Bellof,German,,4.0,16,16,0,1985
+"[""ligier""]","[""Ligier""]",,cesaris,Andrea de Cesaris,Italian,,3.0,17,17,0,1985
+"[""tyrrell""]","[""Tyrrell""]",,capelli,Ivan Capelli,Italian,,3.0,18,18,0,1985
+"[""ferrari""]","[""Ferrari""]",,arnoux,René Arnoux,French,,3.0,19,19,0,1985
+"[""arrows""]","[""Arrows""]",,berger,Gerhard Berger,Austrian,,3.0,20,20,0,1985
+"[""tyrrell""]","[""Tyrrell""]",,brundle,Martin Brundle,British,,0.0,,-,0,1985
+"[""osella""]","[""Osella""]",,rothengatter,Huub Rothengatter,Dutch,,0.0,,-,0,1985
+"[""mclaren""]","[""McLaren""]",,watson,John Watson,British,,0.0,,-,0,1985
+"[""minardi""]","[""Minardi""]",,martini,Pierluigi Martini,Italian,,0.0,,-,0,1985
+"[""alfa""]","[""Alfa Romeo""]",,patrese,Riccardo Patrese,Italian,,0.0,,-,0,1985
+"[""alfa""]","[""Alfa Romeo""]",,cheever,Eddie Cheever,American,,0.0,,-,0,1985
+"[""osella"", ""toleman""]","[""Osella"", ""Toleman""]",,ghinzani,Piercarlo Ghinzani,Italian,,0.0,,-,0,1985
+"[""ram""]","[""RAM""]",,alliot,Philippe Alliot,French,,0.0,,-,0,1985
+"[""zakspeed""]","[""Zakspeed""]",,palmer,Jonathan Palmer,British,,0.0,,-,0,1985
+"[""ram""]","[""RAM""]",,manfred_winkelhock,Manfred Winkelhock,German,,0.0,,-,0,1985
+"[""toleman""]","[""Toleman""]",,fabi,Teo Fabi,Italian,,0.0,,-,0,1985
+"[""zakspeed""]","[""Zakspeed""]",,danner,Christian Danner,German,,0.0,,-,0,1985
+"[""ram""]","[""RAM""]",,acheson,Kenny Acheson,British,,0.0,,-,0,1985
+"[""spirit""]","[""Spirit""]",,baldi,Mauro Baldi,Italian,,0.0,,-,0,1985
+"[""lola""]","[""Lola""]",,jones,Alan Jones,Australian,,0.0,,-,0,1985
+"[""brabham"", ""renault""]","[""Brabham"", ""Renault""]",,hesnault,François Hesnault,French,,0.0,,-,0,1985

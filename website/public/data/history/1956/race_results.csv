@@ -1,0 +1,190 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,34,1956-buenos-aires,Argentine Grand Prix,,,,,,3,98,10803700,5.0,1,1,1,Finished,3:00:03.700,1956
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,34,1956-buenos-aires,Argentine Grand Prix,,,,,,3,98,10803700,4.0,1,1,1,Finished,3:00:03.700,1956
+Maserati,maserati,Italian,,behra,Jean Behra,French,4,1956-buenos-aires,Argentine Grand Prix,,,,,,4,98,10828100,6.0,2,2,1,Finished,+24.400,1956
+Maserati,maserati,Italian,,hawthorn,Mike Hawthorn,British,14,1956-buenos-aires,Argentine Grand Prix,,,,,,8,96,,4.0,3,3,1,+2 Laps,,1956
+Maserati,maserati,Italian,,landi,Chico Landi,Brazilian,10,1956-buenos-aires,Argentine Grand Prix,,,,,,11,92,,1.5,4,4,1,+6 Laps,,1956
+Maserati,maserati,Italian,,gerini,Gerino Gerini,Italian,10,1956-buenos-aires,Argentine Grand Prix,,,,,,11,92,,1.5,4,4,1,+6 Laps,,1956
+Ferrari,ferrari,Italian,,gendebien,Olivier Gendebien,Belgian,38,1956-buenos-aires,Argentine Grand Prix,,,,,,10,91,,2.0,5,5,1,+7 Laps,,1956
+Maserati,maserati,Italian,,oscar_gonzalez,Óscar González,Uruguayan,16,1956-buenos-aires,Argentine Grand Prix,,,,,,13,88,,0.0,6,6,1,+10 Laps,,1956
+Maserati,maserati,Italian,,uria,Alberto Uria,Uruguayan,16,1956-buenos-aires,Argentine Grand Prix,,,,,,13,88,,0.0,6,6,1,+10 Laps,,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,2,1956-buenos-aires,Argentine Grand Prix,,,,,,7,81,,0.0,7,R,1,Engine,,1956
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,36,1956-buenos-aires,Argentine Grand Prix,,,,,,9,58,,0.0,8,R,1,Accident,,1956
+Maserati,maserati,Italian,,piotti,Luigi Piotti,Italian,8,1956-buenos-aires,Argentine Grand Prix,,,,,,12,57,,0.0,9,R,1,Accident,,1956
+Maserati,maserati,Italian,,menditeguy,Carlos Menditeguy,Argentine,6,1956-buenos-aires,Argentine Grand Prix,,,,,,6,42,,0.0,10,R,1,Halfshaft,,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,32,1956-buenos-aires,Argentine Grand Prix,,,,,,2,40,,0.0,11,R,1,Gearbox,,1956
+Maserati,maserati,Italian,,gonzalez,José Froilán González,Argentine,12,1956-buenos-aires,Argentine Grand Prix,,,,,,5,24,,0.0,12,R,1,Engine,,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,30,1956-buenos-aires,Argentine Grand Prix,,,,,,1,22,,0.0,13,R,1,Fuel pump,,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,28,1956-monte-carlo,Monaco Grand Prix,,,,,,2,100,10832900,8.0,1,1,2,Finished,3:00:32.900,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,26,1956-monte-carlo,Monaco Grand Prix,,,,,,9,100,10839000,4.0,2,2,2,Finished,+6.100,1956
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,26,1956-monte-carlo,Monaco Grand Prix,,,,,,9,100,10839000,3.0,2,2,2,Finished,+6.100,1956
+Maserati,maserati,Italian,,behra,Jean Behra,French,30,1956-monte-carlo,Monaco Grand Prix,,,,,,4,99,,4.0,3,3,2,+1 Lap,,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,20,1956-monte-carlo,Monaco Grand Prix,,,,,,1,99,,1.5,4,4,2,+1 Lap,,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,20,1956-monte-carlo,Monaco Grand Prix,,,,,,1,99,,1.5,4,4,2,+1 Lap,,1956
+Gordini,gordini,French,,ramos,Hernando da Silva Ramos,Brazilian,6,1956-monte-carlo,Monaco Grand Prix,,,,,,14,93,,2.0,5,5,2,+7 Laps,,1956
+Gordini,gordini,French,,bayol,Élie Bayol,French,4,1956-monte-carlo,Monaco Grand Prix,,,,,,11,88,,0.0,6,6,2,+12 Laps,,1956
+Gordini,gordini,French,,andre_pilette,André Pilette,Belgian,4,1956-monte-carlo,Monaco Grand Prix,,,,,,11,88,,0.0,6,6,2,+12 Laps,,1956
+Maserati,maserati,Italian,,perdisa,Cesare Perdisa,Italian,32,1956-monte-carlo,Monaco Grand Prix,,,,,,7,86,,0.0,7,7,2,+14 Laps,,1956
+Maserati,maserati,Italian,,gould,Horace Gould,British,18,1956-monte-carlo,Monaco Grand Prix,,,,,,16,85,,0.0,8,8,2,+15 Laps,,1956
+Gordini,gordini,French,,manzon,Robert Manzon,French,2,1956-monte-carlo,Monaco Grand Prix,,,,,,12,90,,0.0,9,R,2,Accident,,1956
+Maserati,maserati,Italian,,rosier,Louis Rosier,French,8,1956-monte-carlo,Monaco Grand Prix,,,,,,15,72,,0.0,10,R,2,Engine,,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,22,1956-monte-carlo,Monaco Grand Prix,,,,,,3,14,,0.0,11,R,2,Clutch,,1956
+Vanwall,vanwall,British,,trintignant,Maurice Trintignant,French,14,1956-monte-carlo,Monaco Grand Prix,,,,,,6,13,,0.0,12,R,2,Overheating,,1956
+Vanwall,vanwall,British,,schell,Harry Schell,American,16,1956-monte-carlo,Monaco Grand Prix,,,,,,5,2,,0.0,13,R,2,Accident,,1956
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,24,1956-monte-carlo,Monaco Grand Prix,,,,,,8,2,,0.0,14,R,2,Accident,,1956
+BRM,brm,British,,hawthorn,Mike Hawthorn,British,10,1956-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,16,W,2,Engine,,1956
+BRM,brm,British,,brooks,Tony Brooks,British,12,1956-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,17,W,2,Engine,,1956
+Maserati,maserati,Italian,,chiron,Louis Chiron,Monegasque,34,1956-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,18,W,2,Engine,,1956
+Watson,watson,American,,flaherty,Pat Flaherty,American,8,1956-indianapolis,Indianapolis 500,,,,,,1,200,14008840,8.0,1,1,3,Finished,3:53:28.840,1956
+Kurtis Kraft,kurtis_kraft,American,,hanks,Sam Hanks,American,4,1956-indianapolis,Indianapolis 500,,,,,,13,200,14029290,6.0,2,2,3,Finished,+20.450,1956
+Phillips,phillips,American,,freeland,Don Freeland,American,16,1956-indianapolis,Indianapolis 500,,,,,,26,200,14099070,4.0,3,3,3,Finished,+1:30.230,1956
+Kurtis Kraft,kurtis_kraft,American,,parsons,Johnnie Parsons,American,98,1956-indianapolis,Indianapolis 500,,,,,,6,200,14214530,3.0,4,4,3,Finished,+3:25.690,1956
+Kurtis Kraft,kurtis_kraft,American,,dick_rathmann,Dick Rathmann,American,73,1956-indianapolis,Indianapolis 500,,,,,,4,200,14270650,2.0,5,5,3,Finished,+4:21.810,1956
+Kuzma,kuzma,American,,sweikert,Bob Sweikert,American,1,1956-indianapolis,Indianapolis 500,,,,,,10,200,14343890,0.0,6,6,3,Finished,+5:35.050,1956
+Kurtis Kraft,kurtis_kraft,American,,veith,Bob Veith,American,14,1956-indianapolis,Indianapolis 500,,,,,,23,200,14394470,0.0,7,7,3,Finished,+6:25.630,1956
+Kurtis Kraft,kurtis_kraft,American,,ward,Rodger Ward,American,19,1956-indianapolis,Indianapolis 500,,,,,,15,200,14401150,0.0,8,8,3,Finished,+6:32.310,1956
+Lesovsky,lesovsky,American,,reece,Jimmy Reece,American,26,1956-indianapolis,Indianapolis 500,,,,,,21,200,14407150,0.0,9,9,3,Finished,+6:38.310,1956
+Stevens,stevens,American,,griffith,Cliff Griffith,American,27,1956-indianapolis,Indianapolis 500,,,,,,30,199,,0.0,10,10,3,+1 Lap,,1956
+Kuzma,kuzma,American,,hartley,Gene Hartley,American,82,1956-indianapolis,Indianapolis 500,,,,,,22,196,,0.0,11,11,3,+4 Laps,,1956
+Kurtis Kraft,kurtis_kraft,American,,agabashian,Fred Agabashian,American,42,1956-indianapolis,Indianapolis 500,,,,,,7,196,,0.0,12,12,3,+4 Laps,,1956
+Kurtis Kraft,kurtis_kraft,American,,christie,Bob Christie,American,57,1956-indianapolis,Indianapolis 500,,,,,,25,196,,0.0,13,13,3,+4 Laps,,1956
+Kurtis Kraft,kurtis_kraft,American,,keller,Al Keller,American,55,1956-indianapolis,Indianapolis 500,,,,,,28,195,,0.0,14,14,3,+5 Laps,,1956
+Kuzma,kuzma,American,,johnson,Eddie Johnson,American,81,1956-indianapolis,Indianapolis 500,,,,,,32,195,,0.0,15,15,3,+5 Laps,,1956
+Kuzma,kuzma,American,,garrett,Billy Garrett,American,41,1956-indianapolis,Indianapolis 500,,,,,,29,194,,0.0,16,16,3,+6 Laps,,1956
+Kurtis Kraft,kurtis_kraft,American,,dinsmore,Duke Dinsmore,American,64,1956-indianapolis,Indianapolis 500,,,,,,33,191,,0.0,17,17,3,+9 Laps,,1956
+Kurtis Kraft,kurtis_kraft,American,,connor,Pat O'Connor,American,7,1956-indianapolis,Indianapolis 500,,,,,,3,187,,0.0,18,18,3,+13 Laps,,1956
+Kuzma,kuzma,American,,bryan,Jimmy Bryan,American,2,1956-indianapolis,Indianapolis 500,,,,,,19,185,,0.0,19,19,3,+15 Laps,,1956
+Kurtis Kraft,kurtis_kraft,American,,rathmann,Jim Rathmann,American,24,1956-indianapolis,Indianapolis 500,,,,,,2,175,,0.0,20,R,3,Engine,,1956
+Kurtis Kraft,kurtis_kraft,American,,tolan,Johnnie Tolan,American,34,1956-indianapolis,Indianapolis 500,,,,,,31,173,,0.0,21,R,3,Engine,,1956
+Kurtis Kraft,kurtis_kraft,American,,bettenhausen,Tony Bettenhausen,American,99,1956-indianapolis,Indianapolis 500,,,,,,5,160,,0.0,22,R,3,Accident,,1956
+Kurtis Kraft,kurtis_kraft,American,,elisian,Ed Elisian,American,10,1956-indianapolis,Indianapolis 500,,,,,,14,160,,0.0,23,R,3,Brakes,,1956
+Kurtis Kraft,kurtis_kraft,American,,russo,Eddie Russo,American,10,1956-indianapolis,Indianapolis 500,,,,,,14,160,,0.0,23,R,3,Brakes,,1956
+Kurtis Kraft,kurtis_kraft,American,,daywalt,Jimmy Daywalt,American,48,1956-indianapolis,Indianapolis 500,,,,,,16,134,,0.0,24,R,3,Accident,,1956
+Kurtis Kraft,kurtis_kraft,American,,turner,Jack Turner,American,54,1956-indianapolis,Indianapolis 500,,,,,,24,131,,0.0,25,R,3,Engine,,1956
+Kurtis Kraft,kurtis_kraft,American,,andrews,Keith Andrews,American,89,1956-indianapolis,Indianapolis 500,,,,,,20,94,,0.0,26,R,3,Transmission,,1956
+Kurtis Kraft,kurtis_kraft,American,,linden,Andy Linden,American,5,1956-indianapolis,Indianapolis 500,,,,,,9,90,,0.0,27,R,3,Oil leak,,1956
+Kurtis Kraft,kurtis_kraft,American,,herman,Al Herman,American,12,1956-indianapolis,Indianapolis 500,,,,,,27,74,,0.0,28,R,3,Accident,,1956
+Kurtis Kraft,kurtis_kraft,American,,ray_crawford,Ray Crawford,American,49,1956-indianapolis,Indianapolis 500,,,,,,17,49,,0.0,29,R,3,Accident,,1956
+Kurtis Kraft,kurtis_kraft,American,,boyd,Johnny Boyd,American,15,1956-indianapolis,Indianapolis 500,,,,,,12,35,,0.0,30,R,3,Oil leak,,1956
+Kurtis Kraft,kurtis_kraft,American,,ruttman,Troy Ruttman,American,53,1956-indianapolis,Indianapolis 500,,,,,,11,22,,0.0,31,R,3,Spun off,,1956
+Kuzma,kuzma,American,,thomson,Johnny Thomson,American,88,1956-indianapolis,Indianapolis 500,,,,,,18,22,,0.0,32,R,3,Spun off,,1956
+Kurtis Kraft,kurtis_kraft,American,,paul_russo,Paul Russo,American,29,1956-indianapolis,Indianapolis 500,,,,,,8,21,,1.0,33,R,3,Accident,,1956
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,8,1956-spa,Belgian Grand Prix,,,,,,3,36,9600300,8.0,1,1,4,Finished,2:40:00.300,1956
+Ferrari,ferrari,Italian,,frere,Paul Frère,Belgian,6,1956-spa,Belgian Grand Prix,,,,,,8,36,9711600,6.0,2,2,4,Finished,+1:51.300,1956
+Maserati,maserati,Italian,,perdisa,Cesare Perdisa,Italian,34,1956-spa,Belgian Grand Prix,,,,,,9,36,9796900,2.0,3,3,4,Finished,+3:16.600,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,34,1956-spa,Belgian Grand Prix,,,,,,9,36,9796900,3.0,3,3,4,Finished,+3:16.600,1956
+Vanwall,vanwall,British,,schell,Harry Schell,American,10,1956-spa,Belgian Grand Prix,,,,,,6,35,,3.0,4,4,4,+1 Lap,,1956
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,22,1956-spa,Belgian Grand Prix,,,,,,11,34,,2.0,5,5,4,+2 Laps,,1956
+Ferrari,ferrari,Italian,,andre_pilette,André Pilette,Belgian,20,1956-spa,Belgian Grand Prix,,,,,,16,33,,0.0,6,6,4,+3 Laps,,1956
+Maserati,maserati,Italian,,behra,Jean Behra,French,32,1956-spa,Belgian Grand Prix,,,,,,4,33,,0.0,7,7,4,+3 Laps,,1956
+Maserati,maserati,Italian,,rosier,Louis Rosier,French,24,1956-spa,Belgian Grand Prix,,,,,,10,33,,0.0,8,8,4,+3 Laps,,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,2,1956-spa,Belgian Grand Prix,,,,,,1,23,,0.0,9,R,4,Transmission,,1956
+Vanwall,vanwall,British,,trintignant,Maurice Trintignant,French,12,1956-spa,Belgian Grand Prix,,,,,,7,11,,0.0,10,R,4,Fuel system,,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,30,1956-spa,Belgian Grand Prix,,,,,,2,10,,0.0,11,R,4,Wheel,,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,4,1956-spa,Belgian Grand Prix,,,,,,5,10,,0.0,12,R,4,Transmission,,1956
+Connaught,connaught,British,,scotti,Piero Scotti,Italian,28,1956-spa,Belgian Grand Prix,,,,,,12,10,,0.0,13,R,4,Engine,,1956
+Maserati,maserati,Italian,,gould,Horace Gould,British,26,1956-spa,Belgian Grand Prix,,,,,,15,2,,0.0,14,R,4,Gearbox,,1956
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,36,1956-spa,Belgian Grand Prix,,,,,,13,0,,0.0,15,R,4,Accident,,1956
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,14,1956-reims,French Grand Prix,,,,,,3,61,9263400,8.0,1,1,5,Finished,2:34:23.400,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,12,1956-reims,French Grand Prix,,,,,,2,61,9263700,6.0,2,2,5,Finished,+0.300,1956
+Maserati,maserati,Italian,,behra,Jean Behra,French,4,1956-reims,French Grand Prix,,,,,,7,61,9353300,4.0,3,3,5,Finished,+1:29.900,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,10,1956-reims,French Grand Prix,,,,,,1,61,9358500,4.0,4,4,5,Finished,+1:35.100,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,6,1956-reims,French Grand Prix,,,,,,13,59,,1.0,5,5,5,+2 Laps,,1956
+Maserati,maserati,Italian,,perdisa,Cesare Perdisa,Italian,6,1956-reims,French Grand Prix,,,,,,13,59,,1.0,5,5,5,+2 Laps,,1956
+Maserati,maserati,Italian,,rosier,Louis Rosier,French,36,1956-reims,French Grand Prix,,,,,,12,58,,0.0,6,6,5,+3 Laps,,1956
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,40,1956-reims,French Grand Prix,,,,,,17,57,,0.0,7,7,5,+4 Laps,,1956
+Gordini,gordini,French,,ramos,Hernando da Silva Ramos,Brazilian,32,1956-reims,French Grand Prix,,,,,,14,57,,0.0,8,8,5,+4 Laps,,1956
+Gordini,gordini,French,,manzon,Robert Manzon,French,30,1956-reims,French Grand Prix,,,,,,15,56,,0.0,9,9,5,+5 Laps,,1956
+Vanwall,vanwall,British,,hawthorn,Mike Hawthorn,British,24,1956-reims,French Grand Prix,,,,,,6,56,,0.0,10,10,5,+5 Laps,,1956
+Vanwall,vanwall,British,,schell,Harry Schell,American,24,1956-reims,French Grand Prix,,,,,,6,56,,0.0,10,10,5,+5 Laps,,1956
+Gordini,gordini,French,,andre_pilette,André Pilette,Belgian,34,1956-reims,French Grand Prix,,,,,,19,55,,0.0,11,11,5,+6 Laps,,1956
+Maserati,maserati,Italian,,simon,André Simon,French,42,1956-reims,French Grand Prix,,,,,,20,41,,0.0,12,R,5,Engine,,1956
+Maserati,maserati,Italian,,ramos,Hernando da Silva Ramos,Brazilian,8,1956-reims,French Grand Prix,,,,,,16,40,,0.0,13,R,5,Engine,,1956
+Ferrari,ferrari,Italian,,gendebien,Olivier Gendebien,Belgian,44,1956-reims,French Grand Prix,,,,,,11,38,,0.0,14,R,5,Clutch,,1956
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,38,1956-reims,French Grand Prix,,,,,,10,23,,0.0,15,R,5,Brakes,,1956
+Ferrari,ferrari,Italian,,portago,Alfonso de Portago,Spanish,16,1956-reims,French Grand Prix,,,,,,9,20,,0.0,16,R,5,Gearbox,,1956
+Bugatti,bugatti,French,,trintignant,Maurice Trintignant,French,28,1956-reims,French Grand Prix,,,,,,18,18,,0.0,17,R,5,Throttle,,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,2,1956-reims,French Grand Prix,,,,,,8,12,,0.0,18,R,5,Gearbox,,1956
+Vanwall,vanwall,British,,schell,Harry Schell,American,22,1956-reims,French Grand Prix,,,,,,4,5,,0.0,19,R,5,Engine,,1956
+Vanwall,vanwall,British,,chapman,Colin Chapman,British,26,1956-reims,French Grand Prix,,,,,,5,0,,0.0,20,W,5,Accident,,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,1,1956-silverstone,British Grand Prix,,,,,,2,101,10787000,8.0,1,1,6,Finished,2:59,1956
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,4,1956-silverstone,British Grand Prix,,,,,,12,100,,3.0,2,2,6,+1 Lap,,1956
+Ferrari,ferrari,Italian,,portago,Alfonso de Portago,Spanish,4,1956-silverstone,British Grand Prix,,,,,,12,100,,3.0,2,2,6,+1 Lap,,1956
+Maserati,maserati,Italian,,behra,Jean Behra,French,8,1956-silverstone,British Grand Prix,,,,,,13,99,,4.0,3,3,6,+2 Laps,,1956
+Connaught,connaught,British,,fairman,Jack Fairman,British,21,1956-silverstone,British Grand Prix,,,,,,21,98,,3.0,4,4,6,+3 Laps,,1956
+Maserati,maserati,Italian,,gould,Horace Gould,British,31,1956-silverstone,British Grand Prix,,,,,,14,97,,2.0,5,5,6,+4 Laps,,1956
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,11,1956-silverstone,British Grand Prix,,,,,,19,96,,0.0,6,6,6,+5 Laps,,1956
+Maserati,maserati,Italian,,perdisa,Cesare Perdisa,Italian,9,1956-silverstone,British Grand Prix,,,,,,15,95,,0.0,7,7,6,+6 Laps,,1956
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,10,1956-silverstone,British Grand Prix,,,,,,25,94,,0.0,8,8,6,+7 Laps,,1956
+Gordini,gordini,French,,manzon,Robert Manzon,French,15,1956-silverstone,British Grand Prix,,,,,,18,94,,0.0,9,9,6,+7 Laps,,1956
+Ferrari,ferrari,Italian,,portago,Alfonso de Portago,Spanish,3,1956-silverstone,British Grand Prix,,,,,,8,92,,0.0,10,10,6,+9 Laps,,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,3,1956-silverstone,British Grand Prix,,,,,,8,92,,0.0,10,10,6,+9 Laps,,1956
+Cooper,cooper,British,,gerard,Bob Gerard,British,26,1956-silverstone,British Grand Prix,,,,,,22,88,,0.0,11,11,6,+13 Laps,,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,7,1956-silverstone,British Grand Prix,,,,,,1,94,,1.0,12,R,6,Axle,,1956
+Vanwall,vanwall,British,,schell,Harry Schell,American,16,1956-silverstone,British Grand Prix,,,,,,5,87,,0.0,13,R,6,Fuel system,,1956
+Connaught,connaught,British,,titterington,Desmond Titterington,British,20,1956-silverstone,British Grand Prix,,,,,,11,74,,0.0,14,R,6,Engine,,1956
+Vanwall,vanwall,British,,trintignant,Maurice Trintignant,French,17,1956-silverstone,British Grand Prix,,,,,,16,74,,0.0,15,R,6,Fuel system,,1956
+Gordini,gordini,French,,ramos,Hernando da Silva Ramos,Brazilian,14,1956-silverstone,British Grand Prix,,,,,,26,71,,0.0,16,R,6,Axle,,1956
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,2,1956-silverstone,British Grand Prix,,,,,,4,64,,0.0,17,R,6,Oil pressure,,1956
+Maserati,maserati,Italian,,salvadori,Roy Salvadori,British,28,1956-silverstone,British Grand Prix,,,,,,7,59,,0.0,18,R,6,Fuel system,,1956
+BRM,brm,British,,brooks,Tony Brooks,British,24,1956-silverstone,British Grand Prix,,,,,,9,39,,0.0,19,R,6,Accident,,1956
+BRM,brm,British,,hawthorn,Mike Hawthorn,British,23,1956-silverstone,British Grand Prix,,,,,,3,24,,0.0,20,R,6,Transmission,,1956
+Maserati,maserati,Italian,,rosier,Louis Rosier,French,27,1956-silverstone,British Grand Prix,,,,,,27,23,,0.0,21,R,6,Electrical,,1956
+Maserati,maserati,Italian,,halford,Bruce Halford,British,29,1956-silverstone,British Grand Prix,,,,,,20,22,,0.0,22,R,6,Engine,,1956
+Maserati,maserati,Italian,,maglioli,Umberto Maglioli,Italian,12,1956-silverstone,British Grand Prix,,,,,,24,21,,0.0,23,R,6,Gearbox,,1956
+Connaught,connaught,British,,scott_Brown,Archie Scott Brown,British,19,1956-silverstone,British Grand Prix,,,,,,10,16,,0.0,24,R,6,Transmission,,1956
+Emeryson,emeryson,British,,emery,Paul Emery,British,32,1956-silverstone,British Grand Prix,,,,,,23,12,,0.0,25,R,6,Ignition,,1956
+Maserati,maserati,Italian,,jack_brabham,Jack Brabham,Australian,30,1956-silverstone,British Grand Prix,,,,,,28,3,,0.0,26,R,6,Engine,,1956
+BRM,brm,British,,flockhart,Ron Flockhart,British,25,1956-silverstone,British Grand Prix,,,,,,17,2,,0.0,27,R,6,Engine,,1956
+Vanwall,vanwall,British,,gonzalez,José Froilán González,Argentine,18,1956-silverstone,British Grand Prix,,,,,,6,0,,0.0,28,R,6,Transmission,,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,1,1956-n-rburg,German Grand Prix,,,,,,1,22,13123700,9.0,1,1,7,Finished,3:38:43.700,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,7,1956-n-rburg,German Grand Prix,,,,,,4,22,13170100,6.0,2,2,7,Finished,+46.400,1956
+Maserati,maserati,Italian,,behra,Jean Behra,French,6,1956-n-rburg,German Grand Prix,,,,,,8,22,13582000,4.0,3,3,7,Finished,+7:38.300,1956
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,20,1956-n-rburg,German Grand Prix,,,,,,16,20,,3.0,4,4,7,+2 Laps,,1956
+Maserati,maserati,Italian,,rosier,Louis Rosier,French,15,1956-n-rburg,German Grand Prix,,,,,,14,19,,2.0,5,5,7,+3 Laps,,1956
+Maserati,maserati,Italian,,halford,Bruce Halford,British,21,1956-n-rburg,German Grand Prix,,,,,,11,20,,0.0,6,D,7,Disqualified,,1956
+Maserati,maserati,Italian,,volonterio,Ottorino Volonterio,Swiss,22,1956-n-rburg,German Grand Prix,,,,,,19,16,,0.0,7,R,7,+6 Laps,,1956
+Gordini,gordini,French,,milhoux,André Milhoux,Belgian,11,1956-n-rburg,German Grand Prix,,,,,,21,15,,0.0,8,R,7,Engine,,1956
+Ferrari,ferrari,Italian,,portago,Alfonso de Portago,Spanish,5,1956-n-rburg,German Grand Prix,,,,,,10,14,,0.0,9,R,7,Accident,,1956
+Maserati,maserati,Italian,,schell,Harry Schell,American,12,1956-n-rburg,German Grand Prix,,,,,,12,13,,0.0,10,R,7,Overheating,,1956
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,18,1956-n-rburg,German Grand Prix,,,,,,20,13,,0.0,11,R,7,Engine,,1956
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,4,1956-n-rburg,German Grand Prix,,,,,,5,11,,0.0,12,R,7,Accident,,1956
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,2,1956-n-rburg,German Grand Prix,,,,,,2,8,,0.0,13,R,7,Fuel leak,,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,3,1956-n-rburg,German Grand Prix,,,,,,3,5,,0.0,14,R,7,Electrical,,1956
+Maserati,maserati,Italian,,maglioli,Umberto Maglioli,Italian,8,1956-n-rburg,German Grand Prix,,,,,,7,3,,0.0,15,R,7,Steering,,1956
+Maserati,maserati,Italian,,gould,Horace Gould,British,19,1956-n-rburg,German Grand Prix,,,,,,13,3,,0.0,16,R,7,Oil pressure,,1956
+Maserati,maserati,Italian,,salvadori,Roy Salvadori,British,16,1956-n-rburg,German Grand Prix,,,,,,9,2,,0.0,17,R,7,Suspension,,1956
+Gordini,gordini,French,,manzon,Robert Manzon,French,10,1956-n-rburg,German Grand Prix,,,,,,15,0,,0.0,18,R,7,Suspension,,1956
+Ferrari,ferrari,Italian,,scarlatti,Giorgio Scarlatti,Italian,14,1956-n-rburg,German Grand Prix,,,,,,17,0,,0.0,19,R,7,Engine,,1956
+Maserati,maserati,Italian,,perdisa,Cesare Perdisa,Italian,8,1956-n-rburg,German Grand Prix,,,,,,0,0,,0.0,20,W,7,Withdrew,,1956
+Gordini,gordini,French,,andre_pilette,André Pilette,Belgian,11,1956-n-rburg,German Grand Prix,,,,,,0,0,,0.0,21,W,7,Withdrew,,1956
+Maserati,maserati,Italian,,piotti,Luigi Piotti,Italian,18,1956-n-rburg,German Grand Prix,,,,,,0,0,,0.0,22,W,7,Withdrew,,1956
+Maserati,maserati,Italian,,moss,Stirling Moss,British,36,1956-monza,Italian Grand Prix,,,,,,6,50,8621300,9.0,1,1,8,Finished,2:23:41.300,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,26,1956-monza,Italian Grand Prix,,,,,,7,50,8627000,3.0,2,2,8,Finished,+5.700,1956
+Ferrari,ferrari,Italian,,collins,Peter Collins,British,26,1956-monza,Italian Grand Prix,,,,,,7,50,8627000,3.0,2,2,8,Finished,+5.700,1956
+Connaught,connaught,British,,flockhart,Ron Flockhart,British,4,1956-monza,Italian Grand Prix,,,,,,26,49,,4.0,3,3,8,+1 Lap,,1956
+Maserati,maserati,Italian,,godia,Paco Godia,Spanish,38,1956-monza,Italian Grand Prix,,,,,,18,49,,3.0,4,4,8,+1 Lap,,1956
+Connaught,connaught,British,,fairman,Jack Fairman,British,6,1956-monza,Italian Grand Prix,,,,,,16,47,,2.0,5,5,8,+3 Laps,,1956
+Maserati,maserati,Italian,,piotti,Luigi Piotti,Italian,40,1956-monza,Italian Grand Prix,,,,,,15,47,,0.0,6,6,8,+3 Laps,,1956
+Maserati,maserati,Italian,,graffenried,Toulo de Graffenried,Swiss,14,1956-monza,Italian Grand Prix,,,,,,19,46,,0.0,7,7,8,+4 Laps,,1956
+Ferrari,ferrari,Italian,,fangio,Juan Fangio,Argentine,22,1956-monza,Italian Grand Prix,,,,,,1,46,,0.0,8,8,8,+4 Laps,,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,22,1956-monza,Italian Grand Prix,,,,,,1,46,,0.0,8,8,8,+4 Laps,,1956
+Gordini,gordini,French,,simon,André Simon,French,12,1956-monza,Italian Grand Prix,,,,,,25,45,,0.0,9,9,8,+5 Laps,,1956
+Maserati,maserati,Italian,,gerini,Gerino Gerini,Italian,42,1956-monza,Italian Grand Prix,,,,,,17,42,,0.0,10,10,8,+8 Laps,,1956
+Maserati,maserati,Italian,,salvadori,Roy Salvadori,British,44,1956-monza,Italian Grand Prix,,,,,,14,41,,0.0,11,11,8,+9 Laps,,1956
+Ferrari,ferrari,Italian,,musso,Luigi Musso,Italian,28,1956-monza,Italian Grand Prix,,,,,,3,47,,0.0,12,R,8,Steering,,1956
+Maserati,maserati,Italian,,maglioli,Umberto Maglioli,Italian,46,1956-monza,Italian Grand Prix,,,,,,13,42,,0.0,13,R,8,Steering,,1956
+Maserati,maserati,Italian,,behra,Jean Behra,French,46,1956-monza,Italian Grand Prix,,,,,,13,42,,0.0,13,R,8,Steering,,1956
+Vanwall,vanwall,British,,schell,Harry Schell,American,18,1956-monza,Italian Grand Prix,,,,,,10,32,,0.0,14,R,8,Transmission,,1956
+Maserati,maserati,Italian,,behra,Jean Behra,French,32,1956-monza,Italian Grand Prix,,,,,,5,23,,0.0,15,R,8,Magneto,,1956
+Maserati,maserati,Italian,,halford,Bruce Halford,British,48,1956-monza,Italian Grand Prix,,,,,,22,16,,0.0,16,R,8,Engine,,1956
+Vanwall,vanwall,British,,trintignant,Maurice Trintignant,French,20,1956-monza,Italian Grand Prix,,,,,,11,13,,0.0,17,R,8,Transmission,,1956
+Vanwall,vanwall,British,,taruffi,Piero Taruffi,Italian,16,1956-monza,Italian Grand Prix,,,,,,4,12,,0.0,18,R,8,Oil leak,,1956
+Ferrari,ferrari,Italian,,castellotti,Eugenio Castellotti,Italian,24,1956-monza,Italian Grand Prix,,,,,,2,9,,0.0,19,R,8,Tyre,,1956
+Maserati,maserati,Italian,,bonnier,Jo Bonnier,Swedish,34,1956-monza,Italian Grand Prix,,,,,,8,7,,0.0,20,R,8,Engine,,1956
+Maserati,maserati,Italian,,villoresi,Luigi Villoresi,Italian,34,1956-monza,Italian Grand Prix,,,,,,8,7,,0.0,20,R,8,Engine,,1956
+Gordini,gordini,French,,manzon,Robert Manzon,French,10,1956-monza,Italian Grand Prix,,,,,,23,7,,0.0,21,R,8,Chassis,,1956
+Ferrari,ferrari,Italian,,portago,Alfonso de Portago,Spanish,30,1956-monza,Italian Grand Prix,,,,,,9,6,,0.0,22,R,8,Tyre,,1956
+Connaught,connaught,British,,leston,Les Leston,British,2,1956-monza,Italian Grand Prix,,,,,,20,6,,0.0,23,R,8,Suspension,,1956
+Gordini,gordini,French,,ramos,Hernando da Silva Ramos,Brazilian,8,1956-monza,Italian Grand Prix,,,,,,21,3,,0.0,24,R,8,Engine,,1956
+Ferrari,ferrari,Italian,,trips,Wolfgang von Trips,German,50,1956-monza,Italian Grand Prix,,,,,,0,0,,0.0,25,W,8,Withdrew,,1956

@@ -1,0 +1,417 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-phoenix,United States Grand Prix,,,,,,1,81,7247828,10.0,1,1,1,Finished,2:00:47.828,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-phoenix,United States Grand Prix,,,,,,2,81,7264150,6.0,2,2,1,Finished,+16.322,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-phoenix,United States Grand Prix,,,,,,5,81,7325204,4.0,3,3,1,Finished,+1:17.376,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-phoenix,United States Grand Prix,,,,,,11,81,7333237,3.0,4,4,1,Finished,+1:25.409,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-phoenix,United States Grand Prix,,,,,,16,80,,2.0,5,5,1,+1 Lap,,1991
+Larrousse,larrousse,French,,suzuki,Aguri Suzuki,Japanese,30,1991-phoenix,United States Grand Prix,,,,,,21,79,,1.0,6,6,1,+2 Laps,,1991
+Lambo,lambo,Italian,,larini,Nicola Larini,Italian,34,1991-phoenix,United States Grand Prix,,,,,,17,78,,0.0,7,7,1,+3 Laps,,1991
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,17,1991-phoenix,United States Grand Prix,,,,,,22,77,,0.0,8,8,1,+4 Laps,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-phoenix,United States Grand Prix,,,,,,15,75,,0.0,9,9,1,Engine,,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-phoenix,United States Grand Prix,,,,,,14,75,,0.0,10,10,1,Engine,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-phoenix,United States Grand Prix,,,,,,12,73,,0.0,11,11,1,+8 Laps,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-phoenix,United States Grand Prix,,,,,,6,72,,0.0,12,12,1,Gearbox,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-phoenix,United States Grand Prix,,,,,,13,59,,0.0,13,13,1,Engine,,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-phoenix,United States Grand Prix,,,,,,3,49,,0.0,14,R,1,Gearbox,,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-phoenix,United States Grand Prix,,,,,,8,49,,0.0,15,R,1,Collision,,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-phoenix,United States Grand Prix,,,,,,25,41,,0.0,16,R,1,Engine,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-phoenix,United States Grand Prix,,,,,,18,40,,0.0,17,R,1,Gearbox,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-phoenix,United States Grand Prix,,,,,,20,40,,0.0,18,R,1,Engine,,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-phoenix,United States Grand Prix,,,,,,7,36,,0.0,19,R,1,Fuel pump,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-phoenix,United States Grand Prix,,,,,,4,35,,0.0,20,R,1,Gearbox,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-phoenix,United States Grand Prix,,,,,,23,34,,0.0,21,R,1,Gearbox,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-phoenix,United States Grand Prix,,,,,,24,32,,0.0,22,R,1,Spun off,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-phoenix,United States Grand Prix,,,,,,9,16,,0.0,23,R,1,Gearbox,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-phoenix,United States Grand Prix,,,,,,26,15,,0.0,24,R,1,Gearbox,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-phoenix,United States Grand Prix,,,,,,10,12,,0.0,25,R,1,Gearbox,,1991
+Larrousse,larrousse,French,,bernard,Éric Bernard,French,29,1991-phoenix,United States Grand Prix,,,,,,19,4,,0.0,26,R,1,Engine,,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-s-o-paulo,Brazilian Grand Prix,,,,,,1,71,5908128,10.0,1,1,2,Finished,1:38:28.128,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-s-o-paulo,Brazilian Grand Prix,,,,,,2,71,5911119,6.0,2,2,2,Finished,+2.991,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-s-o-paulo,Brazilian Grand Prix,,,,,,4,71,5913544,4.0,3,3,2,Finished,+5.416,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-s-o-paulo,Brazilian Grand Prix,,,,,,6,71,5926497,3.0,4,4,2,Finished,+18.369,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-s-o-paulo,Brazilian Grand Prix,,,,,,7,71,5930088,2.0,5,5,2,Finished,+21.960,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-s-o-paulo,Brazilian Grand Prix,,,,,,5,71,5931769,1.0,6,6,2,Finished,+23.641,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-s-o-paulo,Brazilian Grand Prix,,,,,,14,70,,0.0,7,7,2,+1 Lap,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-s-o-paulo,Brazilian Grand Prix,,,,,,21,69,,0.0,8,8,2,+2 Laps,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-s-o-paulo,Brazilian Grand Prix,,,,,,22,68,,0.0,9,9,2,+3 Laps,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-s-o-paulo,Brazilian Grand Prix,,,,,,18,68,,0.0,10,10,2,+3 Laps,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-s-o-paulo,Brazilian Grand Prix,,,,,,12,68,,0.0,11,11,2,+3 Laps,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-s-o-paulo,Brazilian Grand Prix,,,,,,26,67,,0.0,12,12,2,+4 Laps,,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-s-o-paulo,Brazilian Grand Prix,,,,,,10,63,,0.0,13,13,2,Fuel system,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-s-o-paulo,Brazilian Grand Prix,,,,,,3,59,,0.0,14,R,2,Gearbox,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-s-o-paulo,Brazilian Grand Prix,,,,,,23,50,,0.0,15,R,2,Engine,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-s-o-paulo,Brazilian Grand Prix,,,,,,20,47,,0.0,16,R,2,Spun off,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-s-o-paulo,Brazilian Grand Prix,,,,,,25,34,,0.0,17,R,2,Engine,,1991
+Larrousse,larrousse,French,,bernard,Éric Bernard,French,29,1991-s-o-paulo,Brazilian Grand Prix,,,,,,11,33,,0.0,18,R,2,Radiator,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-s-o-paulo,Brazilian Grand Prix,,,,,,19,22,,0.0,19,R,2,Electrical,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-s-o-paulo,Brazilian Grand Prix,,,,,,13,20,,0.0,20,R,2,Engine,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-s-o-paulo,Brazilian Grand Prix,,,,,,9,19,,0.0,21,R,2,Gearbox,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-s-o-paulo,Brazilian Grand Prix,,,,,,15,16,,0.0,22,R,2,Transmission,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-s-o-paulo,Brazilian Grand Prix,,,,,,16,12,,0.0,23,R,2,Spun off,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-s-o-paulo,Brazilian Grand Prix,,,,,,8,9,,0.0,24,R,2,Physical,,1991
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,17,1991-s-o-paulo,Brazilian Grand Prix,,,,,,24,0,,0.0,25,R,2,Suspension,,1991
+Larrousse,larrousse,French,,suzuki,Aguri Suzuki,Japanese,30,1991-s-o-paulo,Brazilian Grand Prix,,,,,,17,0,,0.0,26,R,2,Fuel pump,,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-imola,San Marino Grand Prix,,,,,,1,61,5714750,10.0,1,1,3,Finished,1:35:14.750,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-imola,San Marino Grand Prix,,,,,,5,61,5716425,6.0,2,2,3,Finished,+1.675,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-imola,San Marino Grand Prix,,,,,,16,60,,4.0,3,3,3,+1 Lap,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-imola,San Marino Grand Prix,,,,,,9,59,,3.0,4,4,3,+2 Laps,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-imola,San Marino Grand Prix,,,,,,25,58,,2.0,5,5,3,+3 Laps,,1991
+Team Lotus,team_lotus,British,,bailey,Julian Bailey,British,12,1991-imola,San Marino Grand Prix,,,,,,26,58,,1.0,6,6,3,+3 Laps,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-imola,San Marino Grand Prix,,,,,,24,58,,0.0,7,7,3,+3 Laps,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-imola,San Marino Grand Prix,,,,,,23,58,,0.0,8,8,3,+3 Laps,,1991
+Lambo,lambo,Italian,,poele,Eric van de Poele,Belgian,35,1991-imola,San Marino Grand Prix,,,,,,21,57,,0.0,9,9,3,Out of fuel,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-imola,San Marino Grand Prix,,,,,,19,57,,0.0,10,10,3,+4 Laps,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-imola,San Marino Grand Prix,,,,,,18,57,,0.0,11,11,3,+4 Laps,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-imola,San Marino Grand Prix,,,,,,15,55,,0.0,12,12,3,Engine,,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-imola,San Marino Grand Prix,,,,,,13,54,,0.0,13,13,3,Engine,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-imola,San Marino Grand Prix,,,,,,6,41,,0.0,14,R,3,Transmission,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-imola,San Marino Grand Prix,,,,,,11,37,,0.0,15,R,3,Gearbox,,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-imola,San Marino Grand Prix,,,,,,13,37,,0.0,16,R,3,Suspension,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-imola,San Marino Grand Prix,,,,,,22,24,,0.0,17,R,3,Spun off,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-imola,San Marino Grand Prix,,,,,,17,17,,0.0,18,R,3,Engine,,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-imola,San Marino Grand Prix,,,,,,2,17,,0.0,19,R,3,Electrical,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-imola,San Marino Grand Prix,,,,,,10,15,,0.0,20,R,3,Transmission,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-imola,San Marino Grand Prix,,,,,,8,10,,0.0,21,R,3,Gearbox,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-imola,San Marino Grand Prix,,,,,,7,2,,0.0,22,R,3,Spun off,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-imola,San Marino Grand Prix,,,,,,20,2,,0.0,23,R,3,Spun off,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-imola,San Marino Grand Prix,,,,,,14,1,,0.0,24,R,3,Spun off,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-imola,San Marino Grand Prix,,,,,,4,0,,0.0,25,R,3,Collision,,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-imola,San Marino Grand Prix,,,,,,3,0,,0.0,26,W,3,Spun off,,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-monte-carlo,Monaco Grand Prix,,,,,,1,78,6782334,10.0,1,1,4,Finished,1:53:02.334,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-monte-carlo,Monaco Grand Prix,,,,,,5,78,6800682,6.0,2,2,4,Finished,+18.348,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-monte-carlo,Monaco Grand Prix,,,,,,9,78,6829789,4.0,3,3,4,Finished,+47.455,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-monte-carlo,Monaco Grand Prix,,,,,,8,77,,3.0,4,4,4,+1 Lap,,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-monte-carlo,Monaco Grand Prix,,,,,,7,77,,2.0,5,5,4,+1 Lap,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-monte-carlo,Monaco Grand Prix,,,,,,12,77,,1.0,6,6,4,+1 Lap,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-monte-carlo,Monaco Grand Prix,,,,,,16,76,,0.0,7,7,4,+2 Laps,,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-monte-carlo,Monaco Grand Prix,,,,,,23,76,,0.0,8,8,4,+2 Laps,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-monte-carlo,Monaco Grand Prix,,,,,,13,76,,0.0,9,9,4,+2 Laps,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-monte-carlo,Monaco Grand Prix,,,,,,26,76,,0.0,10,10,4,+2 Laps,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-monte-carlo,Monaco Grand Prix,,,,,,21,75,,0.0,11,11,4,+3 Laps,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-monte-carlo,Monaco Grand Prix,,,,,,14,72,,0.0,12,12,4,+6 Laps,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-monte-carlo,Monaco Grand Prix,,,,,,25,64,,0.0,13,R,4,Oil leak,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-monte-carlo,Monaco Grand Prix,,,,,,17,49,,0.0,14,R,4,Gearbox,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-monte-carlo,Monaco Grand Prix,,,,,,15,43,,0.0,15,R,4,Throttle,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-monte-carlo,Monaco Grand Prix,,,,,,2,42,,0.0,16,R,4,Engine,,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-monte-carlo,Monaco Grand Prix,,,,,,3,42,,0.0,17,R,4,Spun off,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-monte-carlo,Monaco Grand Prix,,,,,,19,41,,0.0,18,R,4,Spun off,,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-monte-carlo,Monaco Grand Prix,,,,,,22,39,,0.0,19,R,4,Engine,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-monte-carlo,Monaco Grand Prix,,,,,,11,35,,0.0,20,R,4,Spun off,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-monte-carlo,Monaco Grand Prix,,,,,,20,24,,0.0,21,R,4,Engine,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-monte-carlo,Monaco Grand Prix,,,,,,10,21,,0.0,22,R,4,Throttle,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-monte-carlo,Monaco Grand Prix,,,,,,18,12,,0.0,23,R,4,Brakes,,1991
+AGS,ags,French,,tarquini,Gabriele Tarquini,Italian,17,1991-monte-carlo,Monaco Grand Prix,,,,,,24,9,,0.0,24,R,4,Gearbox,,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-monte-carlo,Monaco Grand Prix,,,,,,6,9,,0.0,25,R,4,Spun off,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-monte-carlo,Monaco Grand Prix,,,,,,4,0,,0.0,26,R,4,Suspension,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-montreal,Canadian Grand Prix,,,,,,8,69,5931490,10.0,1,1,5,Finished,1:38:51.490,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-montreal,Canadian Grand Prix,,,,,,9,69,5963322,6.0,2,2,5,Finished,+31.832,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-montreal,Canadian Grand Prix,,,,,,1,69,5973707,4.0,3,3,5,Finished,+42.217,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-montreal,Canadian Grand Prix,,,,,,11,69,6011700,3.0,4,4,5,Finished,+1:20.210,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-montreal,Canadian Grand Prix,,,,,,14,69,6013841,2.0,5,5,5,Finished,+1:22.351,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-montreal,Canadian Grand Prix,,,,,,2,68,,1.0,6,6,5,Electrical,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-montreal,Canadian Grand Prix,,,,,,18,68,,0.0,7,7,5,+1 Lap,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-montreal,Canadian Grand Prix,,,,,,26,68,,0.0,8,8,5,+1 Lap,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-montreal,Canadian Grand Prix,,,,,,10,68,,0.0,9,9,5,+1 Lap,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-montreal,Canadian Grand Prix,,,,,,12,67,,0.0,10,10,5,+2 Laps,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-montreal,Canadian Grand Prix,,,,,,23,61,,0.0,11,R,5,Engine,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-montreal,Canadian Grand Prix,,,,,,17,50,,0.0,12,R,5,Engine,,1991
+Footwork,footwork,British,,johansson,Stefan Johansson,Swedish,10,1991-montreal,Canadian Grand Prix,,,,,,25,48,,0.0,13,R,5,Throttle,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-montreal,Canadian Grand Prix,,,,,,13,42,,0.0,14,R,5,Engine,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-montreal,Canadian Grand Prix,,,,,,7,34,,0.0,15,R,5,Engine,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-montreal,Canadian Grand Prix,,,,,,19,29,,0.0,16,R,5,Gearbox,,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-montreal,Canadian Grand Prix,,,,,,4,27,,0.0,17,R,5,Gearbox,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-montreal,Canadian Grand Prix,,,,,,16,27,,0.0,18,R,5,Engine,,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-montreal,Canadian Grand Prix,,,,,,3,25,,0.0,19,R,5,Alternator,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-montreal,Canadian Grand Prix,,,,,,24,21,,0.0,20,R,5,Spun off,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-montreal,Canadian Grand Prix,,,,,,20,21,,0.0,21,R,5,Engine,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-montreal,Canadian Grand Prix,,,,,,15,20,,0.0,22,R,5,Spun off,,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-montreal,Canadian Grand Prix,,,,,,5,10,,0.0,23,R,5,Suspension,,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-montreal,Canadian Grand Prix,,,,,,6,4,,0.0,24,R,5,Injection,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-montreal,Canadian Grand Prix,,,,,,22,3,,0.0,25,R,5,Fuel leak,,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-montreal,Canadian Grand Prix,,,,,,21,2,,0.0,26,R,5,Throttle,,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-mexico-city,Mexican Grand Prix,,,,,,1,67,5392205,10.0,1,1,6,Finished,1:29:52.205,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-mexico-city,Mexican Grand Prix,,,,,,2,67,5393541,6.0,2,2,6,Finished,+1.336,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-mexico-city,Mexican Grand Prix,,,,,,3,67,5449561,4.0,3,3,6,Finished,+57.356,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-mexico-city,Mexican Grand Prix,,,,,,11,66,,3.0,4,4,6,+1 Lap,,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-mexico-city,Mexican Grand Prix,,,,,,9,66,,2.0,5,5,6,+1 Lap,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-mexico-city,Mexican Grand Prix,,,,,,23,66,,1.0,6,6,6,+1 Lap,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-mexico-city,Mexican Grand Prix,,,,,,14,66,,0.0,7,7,6,+1 Lap,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-mexico-city,Mexican Grand Prix,,,,,,10,65,,0.0,8,8,6,+2 Laps,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-mexico-city,Mexican Grand Prix,,,,,,24,65,,0.0,9,9,6,+2 Laps,,1991
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1991-mexico-city,Mexican Grand Prix,,,,,,25,65,,0.0,10,10,6,+2 Laps,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-mexico-city,Mexican Grand Prix,,,,,,8,65,,0.0,11,11,6,+2 Laps,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-mexico-city,Mexican Grand Prix,,,,,,13,64,,0.0,12,12,6,+3 Laps,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-mexico-city,Mexican Grand Prix,,,,,,12,54,,0.0,13,R,6,Engine,,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-mexico-city,Mexican Grand Prix,,,,,,20,51,,0.0,14,R,6,Spun off,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-mexico-city,Mexican Grand Prix,,,,,,19,48,,0.0,15,R,6,Gearbox,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-mexico-city,Mexican Grand Prix,,,,,,6,44,,0.0,16,R,6,Wheel bearing,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-mexico-city,Mexican Grand Prix,,,,,,4,42,,0.0,17,R,6,Clutch,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-mexico-city,Mexican Grand Prix,,,,,,16,30,,0.0,18,R,6,Engine,,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-mexico-city,Mexican Grand Prix,,,,,,26,24,,0.0,19,R,6,Engine,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-mexico-city,Mexican Grand Prix,,,,,,17,20,,0.0,20,R,6,Wheel,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-mexico-city,Mexican Grand Prix,,,,,,22,19,,0.0,21,R,6,Engine,,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-mexico-city,Mexican Grand Prix,,,,,,7,16,,0.0,22,R,6,Alternator,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-mexico-city,Mexican Grand Prix,,,,,,18,15,,0.0,23,R,6,Engine,,1991
+Fondmetal,fondmetal,Italian,,grouillard,Olivier Grouillard,French,14,1991-mexico-city,Mexican Grand Prix,,,,,,21,13,,0.0,24,R,6,Engine,,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-mexico-city,Mexican Grand Prix,,,,,,5,5,,0.0,25,R,6,Engine,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-mexico-city,Mexican Grand Prix,,,,,,15,4,,0.0,26,R,6,Spun off,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-magny-cours,French Grand Prix,,,,,,4,72,5880056,10.0,1,1,7,Finished,1:38:00.056,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-magny-cours,French Grand Prix,,,,,,2,72,5885059,6.0,2,2,7,Finished,+5.003,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-magny-cours,French Grand Prix,,,,,,3,72,5914990,4.0,3,3,7,Finished,+34.934,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-magny-cours,French Grand Prix,,,,,,6,72,5915976,3.0,4,4,7,Finished,+35.920,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-magny-cours,French Grand Prix,,,,,,1,71,,2.0,5,5,7,+1 Lap,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-magny-cours,French Grand Prix,,,,,,13,71,,1.0,6,6,7,+1 Lap,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-magny-cours,French Grand Prix,,,,,,9,70,,0.0,7,7,7,+2 Laps,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-magny-cours,French Grand Prix,,,,,,7,70,,0.0,8,8,7,+2 Laps,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-magny-cours,French Grand Prix,,,,,,12,70,,0.0,9,9,7,+2 Laps,,1991
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1991-magny-cours,French Grand Prix,,,,,,20,70,,0.0,10,10,7,+2 Laps,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-magny-cours,French Grand Prix,,,,,,14,70,,0.0,11,11,7,+2 Laps,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-magny-cours,French Grand Prix,,,,,,16,69,,0.0,12,12,7,+3 Laps,,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-magny-cours,French Grand Prix,,,,,,8,63,,0.0,13,R,7,Physical,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-magny-cours,French Grand Prix,,,,,,11,57,,0.0,14,R,7,Gearbox,,1991
+Fondmetal,fondmetal,Italian,,grouillard,Olivier Grouillard,French,14,1991-magny-cours,French Grand Prix,,,,,,21,47,,0.0,15,R,7,Oil leak,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-magny-cours,French Grand Prix,,,,,,23,43,,0.0,16,R,7,Transmission,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-magny-cours,French Grand Prix,,,,,,26,39,,0.0,17,R,7,Tyre,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-magny-cours,French Grand Prix,,,,,,17,36,,0.0,18,R,7,Spun off,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-magny-cours,French Grand Prix,,,,,,22,32,,0.0,19,R,7,Transmission,,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-magny-cours,French Grand Prix,,,,,,25,31,,0.0,20,R,7,Gearbox,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-magny-cours,French Grand Prix,,,,,,24,21,,0.0,21,R,7,Gearbox,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-magny-cours,French Grand Prix,,,,,,18,12,,0.0,22,R,7,Spun off,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-magny-cours,French Grand Prix,,,,,,10,8,,0.0,23,R,7,Collision,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-magny-cours,French Grand Prix,,,,,,15,7,,0.0,24,R,7,Spun off,,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-magny-cours,French Grand Prix,,,,,,5,6,,0.0,25,R,7,Engine,,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-magny-cours,French Grand Prix,,,,,,19,0,,0.0,26,R,7,Spun off,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-silverstone,British Grand Prix,,,,,,1,59,5255479,10.0,1,1,8,Finished,1:27:35.479,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-silverstone,British Grand Prix,,,,,,4,59,5297772,6.0,2,2,8,Finished,+42.293,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-silverstone,British Grand Prix,,,,,,5,59,5315629,4.0,3,3,8,Finished,+1:00.150,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-silverstone,British Grand Prix,,,,,,2,58,,3.0,4,4,8,Out of fuel,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-silverstone,British Grand Prix,,,,,,8,58,,2.0,5,5,8,+1 Lap,,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-silverstone,British Grand Prix,,,,,,17,58,,1.0,6,6,8,+1 Lap,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-silverstone,British Grand Prix,,,,,,10,58,,0.0,7,7,8,+1 Lap,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-silverstone,British Grand Prix,,,,,,15,58,,0.0,8,8,8,+1 Lap,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-silverstone,British Grand Prix,,,,,,23,58,,0.0,9,9,8,+1 Lap,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-silverstone,British Grand Prix,,,,,,18,57,,0.0,10,10,8,+2 Laps,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-silverstone,British Grand Prix,,,,,,20,57,,0.0,11,11,8,+2 Laps,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-silverstone,British Grand Prix,,,,,,25,57,,0.0,12,12,8,+2 Laps,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-silverstone,British Grand Prix,,,,,,11,56,,0.0,13,13,8,+3 Laps,,1991
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1991-silverstone,British Grand Prix,,,,,,24,55,,0.0,14,14,8,Oil pressure,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-silverstone,British Grand Prix,,,,,,12,52,,0.0,15,R,8,Engine,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-silverstone,British Grand Prix,,,,,,13,41,,0.0,16,R,8,Spun off,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-silverstone,British Grand Prix,,,,,,6,31,,0.0,17,R,8,Collision,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-silverstone,British Grand Prix,,,,,,22,29,,0.0,18,R,8,Collision,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-silverstone,British Grand Prix,,,,,,19,29,,0.0,19,R,8,Engine,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-silverstone,British Grand Prix,,,,,,14,28,,0.0,20,R,8,Throttle,,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-silverstone,British Grand Prix,,,,,,26,25,,0.0,21,R,8,Transmission,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-silverstone,British Grand Prix,,,,,,9,24,,0.0,22,R,8,Chassis,,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-silverstone,British Grand Prix,,,,,,7,21,,0.0,23,R,8,Gearbox,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-silverstone,British Grand Prix,,,,,,21,21,,0.0,24,R,8,Transmission,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-silverstone,British Grand Prix,,,,,,16,16,,0.0,25,R,8,Spun off,,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-silverstone,British Grand Prix,,,,,,3,1,,0.0,26,R,8,Collision,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-hockenheim,German Grand Prix,,,,,,1,45,4769661,10.0,1,1,9,Finished,1:19:29.661,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-hockenheim,German Grand Prix,,,,,,4,45,4783440,6.0,2,2,9,Finished,+13.779,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-hockenheim,German Grand Prix,,,,,,6,45,4787279,4.0,3,3,9,Finished,+17.618,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-hockenheim,German Grand Prix,,,,,,3,45,4802312,3.0,4,4,9,Finished,+32.651,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-hockenheim,German Grand Prix,,,,,,7,45,4847198,2.0,5,5,9,Finished,+1:17.537,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-hockenheim,German Grand Prix,,,,,,11,45,4870266,1.0,6,6,9,Finished,+1:40.605,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-hockenheim,German Grand Prix,,,,,,2,44,,0.0,7,7,9,Out of fuel,,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-hockenheim,German Grand Prix,,,,,,9,44,,0.0,8,8,9,+1 Lap,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-hockenheim,German Grand Prix,,,,,,17,44,,0.0,9,9,9,+1 Lap,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-hockenheim,German Grand Prix,,,,,,18,44,,0.0,10,10,9,+1 Lap,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-hockenheim,German Grand Prix,,,,,,15,43,,0.0,11,11,9,+2 Laps,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-hockenheim,German Grand Prix,,,,,,21,43,,0.0,12,12,9,+2 Laps,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-hockenheim,German Grand Prix,,,,,,14,41,,0.0,13,13,9,+4 Laps,,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-hockenheim,German Grand Prix,,,,,,5,37,,0.0,14,R,9,Spun off,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-hockenheim,German Grand Prix,,,,,,12,36,,0.0,15,R,9,Engine,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-hockenheim,German Grand Prix,,,,,,20,35,,0.0,16,R,9,Engine,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-hockenheim,German Grand Prix,,,,,,8,27,,0.0,17,R,9,Engine,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-hockenheim,German Grand Prix,,,,,,13,26,,0.0,18,R,9,Gearbox,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-hockenheim,German Grand Prix,,,,,,26,22,,0.0,19,R,9,Engine,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-hockenheim,German Grand Prix,,,,,,16,21,,0.0,20,R,9,Gearbox,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-hockenheim,German Grand Prix,,,,,,23,19,,0.0,21,R,9,Engine,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-hockenheim,German Grand Prix,,,,,,22,15,,0.0,22,R,9,Engine,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-hockenheim,German Grand Prix,,,,,,19,14,,0.0,23,R,9,Differential,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-hockenheim,German Grand Prix,,,,,,10,11,,0.0,24,R,9,Differential,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-hockenheim,German Grand Prix,,,,,,25,9,,0.0,25,R,9,Transmission,,1991
+Lambo,lambo,Italian,,larini,Nicola Larini,Italian,34,1991-hockenheim,German Grand Prix,,,,,,24,0,,0.0,26,R,9,Spun off,,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-budapest,Hungarian Grand Prix,,,,,,1,77,6552796,10.0,1,1,10,Finished,1:49:12.796,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-budapest,Hungarian Grand Prix,,,,,,3,77,6557395,6.0,2,2,10,Finished,+4.599,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-budapest,Hungarian Grand Prix,,,,,,2,77,6568390,4.0,3,3,10,Finished,+15.594,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-budapest,Hungarian Grand Prix,,,,,,5,77,6574652,3.0,4,4,10,Finished,+21.856,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-budapest,Hungarian Grand Prix,,,,,,6,77,6584185,2.0,5,5,10,Finished,+31.389,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-budapest,Hungarian Grand Prix,,,,,,9,76,,1.0,6,6,10,+1 Lap,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-budapest,Hungarian Grand Prix,,,,,,17,76,,0.0,7,7,10,+1 Lap,,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-budapest,Hungarian Grand Prix,,,,,,15,76,,0.0,8,8,10,+1 Lap,,1991
+Jordan,jordan,Irish,,gachot,Bertrand Gachot,Belgian,32,1991-budapest,Hungarian Grand Prix,,,,,,16,76,,0.0,9,9,10,+1 Lap,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-budapest,Hungarian Grand Prix,,,,,,25,75,,0.0,10,10,10,+2 Laps,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-budapest,Hungarian Grand Prix,,,,,,13,75,,0.0,11,11,10,+2 Laps,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-budapest,Hungarian Grand Prix,,,,,,8,75,,0.0,12,12,10,+2 Laps,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-budapest,Hungarian Grand Prix,,,,,,23,75,,0.0,13,13,10,+2 Laps,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-budapest,Hungarian Grand Prix,,,,,,26,74,,0.0,14,14,10,+3 Laps,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-budapest,Hungarian Grand Prix,,,,,,14,74,,0.0,15,15,10,+3 Laps,,1991
+Lambo,lambo,Italian,,larini,Nicola Larini,Italian,34,1991-budapest,Hungarian Grand Prix,,,,,,24,74,,0.0,16,16,10,+3 Laps,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-budapest,Hungarian Grand Prix,,,,,,19,71,,0.0,17,17,10,Engine,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-budapest,Hungarian Grand Prix,,,,,,18,65,,0.0,18,R,10,Engine,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-budapest,Hungarian Grand Prix,,,,,,20,62,,0.0,19,R,10,Tyre,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-budapest,Hungarian Grand Prix,,,,,,10,59,,0.0,20,R,10,Physical,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-budapest,Hungarian Grand Prix,,,,,,12,49,,0.0,21,R,10,Engine,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-budapest,Hungarian Grand Prix,,,,,,11,38,,0.0,22,R,10,Gearbox,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-budapest,Hungarian Grand Prix,,,,,,21,38,,0.0,23,R,10,Engine,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-budapest,Hungarian Grand Prix,,,,,,22,38,,0.0,24,R,10,Engine,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-budapest,Hungarian Grand Prix,,,,,,7,37,,0.0,25,R,10,Engine,,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-budapest,Hungarian Grand Prix,,,,,,4,28,,0.0,26,R,10,Engine,,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-spa,Belgian Grand Prix,,,,,,1,44,5237669,10.0,1,1,11,Finished,1:27:17.669,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-spa,Belgian Grand Prix,,,,,,4,44,5239570,6.0,2,2,11,Finished,+1.901,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-spa,Belgian Grand Prix,,,,,,6,44,5269845,4.0,3,3,11,Finished,+32.176,1991
+Benetton,benetton,Italian,,moreno,Roberto Moreno,Brazilian,19,1991-spa,Belgian Grand Prix,,,,,,8,44,5274979,3.0,4,4,11,Finished,+37.310,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-spa,Belgian Grand Prix,,,,,,17,44,5294856,2.0,5,5,11,Finished,+57.187,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-spa,Belgian Grand Prix,,,,,,13,44,5337704,1.0,6,6,11,Finished,+1:40.035,1991
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1991-spa,Belgian Grand Prix,,,,,,21,44,5342268,0.0,7,7,11,Finished,+1:44.599,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-spa,Belgian Grand Prix,,,,,,25,43,,0.0,8,8,11,+1 Lap,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-spa,Belgian Grand Prix,,,,,,16,43,,0.0,9,9,11,+1 Lap,,1991
+Fondmetal,fondmetal,Italian,,grouillard,Olivier Grouillard,French,14,1991-spa,Belgian Grand Prix,,,,,,23,43,,0.0,10,10,11,+1 Lap,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-spa,Belgian Grand Prix,,,,,,18,43,,0.0,11,11,11,+1 Lap,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-spa,Belgian Grand Prix,,,,,,9,42,,0.0,12,12,11,Gearbox,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-spa,Belgian Grand Prix,,,,,,11,41,,0.0,13,13,11,Engine,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-spa,Belgian Grand Prix,,,,,,10,33,,0.0,14,R,11,Oil leak,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-spa,Belgian Grand Prix,,,,,,14,33,,0.0,15,R,11,Oil pressure,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-spa,Belgian Grand Prix,,,,,,5,30,,0.0,16,R,11,Engine,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-spa,Belgian Grand Prix,,,,,,19,29,,0.0,17,R,11,Gearbox,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-spa,Belgian Grand Prix,,,,,,24,25,,0.0,18,R,11,Engine,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-spa,Belgian Grand Prix,,,,,,26,25,,0.0,19,R,11,Engine,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-spa,Belgian Grand Prix,,,,,,3,22,,0.0,20,R,11,Electrical,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-spa,Belgian Grand Prix,,,,,,20,21,,0.0,21,R,11,Gearbox,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-spa,Belgian Grand Prix,,,,,,12,13,,0.0,22,R,11,Engine,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-spa,Belgian Grand Prix,,,,,,22,7,,0.0,23,R,11,Spun off,,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-spa,Belgian Grand Prix,,,,,,2,2,,0.0,24,R,11,Fuel leak,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-spa,Belgian Grand Prix,,,,,,15,1,,0.0,25,R,11,Engine,,1991
+Jordan,jordan,Irish,MSC,michael_schumacher,Michael Schumacher,German,32,1991-spa,Belgian Grand Prix,,,,,,7,0,,0.0,26,R,11,Clutch,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-monza,Italian Grand Prix,,,,,,2,53,4674319,10.0,1,1,12,Finished,1:17:54.319,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-monza,Italian Grand Prix,,,,,,1,53,4690581,6.0,2,2,12,Finished,+16.262,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-monza,Italian Grand Prix,,,,,,5,53,4691148,4.0,3,3,12,Finished,+16.829,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-monza,Italian Grand Prix,,,,,,3,53,4702038,3.0,4,4,12,Finished,+27.719,1991
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1991-monza,Italian Grand Prix,,,,,,7,53,4708782,2.0,5,5,12,Finished,+34.463,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-monza,Italian Grand Prix,,,,,,8,53,4719919,1.0,6,6,12,Finished,+45.600,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-monza,Italian Grand Prix,,,,,,14,53,4725455,0.0,7,7,12,Finished,+51.136,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-monza,Italian Grand Prix,,,,,,12,53,4749338,0.0,8,8,12,Finished,+1:15.019,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-monza,Italian Grand Prix,,,,,,17,52,,0.0,9,9,12,+1 Lap,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-monza,Italian Grand Prix,,,,,,16,52,,0.0,10,10,12,+1 Lap,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-monza,Italian Grand Prix,,,,,,22,52,,0.0,11,11,12,+1 Lap,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-monza,Italian Grand Prix,,,,,,11,52,,0.0,12,12,12,+1 Lap,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-monza,Italian Grand Prix,,,,,,19,52,,0.0,13,13,12,+1 Lap,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-monza,Italian Grand Prix,,,,,,25,49,,0.0,14,14,12,+4 Laps,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-monza,Italian Grand Prix,,,,,,18,49,,0.0,15,15,12,+4 Laps,,1991
+Lambo,lambo,Italian,,larini,Nicola Larini,Italian,34,1991-monza,Italian Grand Prix,,,,,,23,48,,0.0,16,16,12,+5 Laps,,1991
+Fondmetal,fondmetal,Italian,,grouillard,Olivier Grouillard,French,14,1991-monza,Italian Grand Prix,,,,,,26,46,,0.0,17,R,12,Engine,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-monza,Italian Grand Prix,,,,,,20,35,,0.0,18,R,12,Overheating,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-monza,Italian Grand Prix,,,,,,13,32,,0.0,19,R,12,Engine,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-monza,Italian Grand Prix,,,,,,6,29,,0.0,20,R,12,Engine,,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-monza,Italian Grand Prix,,,,,,4,27,,0.0,21,R,12,Gearbox,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-monza,Italian Grand Prix,,,,,,15,24,,0.0,22,R,12,Throttle,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-monza,Italian Grand Prix,,,,,,24,21,,0.0,23,R,12,Engine,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-monza,Italian Grand Prix,,,,,,10,8,,0.0,24,R,12,Spun off,,1991
+Jordan,jordan,Irish,,moreno,Roberto Moreno,Brazilian,32,1991-monza,Italian Grand Prix,,,,,,9,2,,0.0,25,R,12,Spun off,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-monza,Italian Grand Prix,,,,,,21,1,,0.0,26,R,12,Spun off,,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-estoril,Portuguese Grand Prix,,,,,,1,71,5742304,10.0,1,1,13,Finished,1:35:42.304,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-estoril,Portuguese Grand Prix,,,,,,3,71,5763245,6.0,2,2,13,Finished,+20.941,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-estoril,Portuguese Grand Prix,,,,,,6,71,5795858,4.0,3,3,13,Finished,+53.554,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-estoril,Portuguese Grand Prix,,,,,,8,71,5805802,3.0,4,4,13,Finished,+1:03.498,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-estoril,Portuguese Grand Prix,,,,,,11,71,5812337,2.0,5,5,13,Finished,+1:10.033,1991
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1991-estoril,Portuguese Grand Prix,,,,,,10,71,5818886,1.0,6,6,13,Finished,+1:16.582,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-estoril,Portuguese Grand Prix,,,,,,7,70,,0.0,7,7,13,+1 Lap,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-estoril,Portuguese Grand Prix,,,,,,14,70,,0.0,8,8,13,+1 Lap,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-estoril,Portuguese Grand Prix,,,,,,13,70,,0.0,9,9,13,+1 Lap,,1991
+Jordan,jordan,Irish,,moreno,Roberto Moreno,Brazilian,32,1991-estoril,Portuguese Grand Prix,,,,,,21,70,,0.0,10,10,13,+1 Lap,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-estoril,Portuguese Grand Prix,,,,,,23,70,,0.0,11,11,13,+1 Lap,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-estoril,Portuguese Grand Prix,,,,,,19,69,,0.0,12,12,13,+2 Laps,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-estoril,Portuguese Grand Prix,,,,,,17,68,,0.0,13,13,13,+3 Laps,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-estoril,Portuguese Grand Prix,,,,,,24,68,,0.0,14,14,13,+3 Laps,,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-estoril,Portuguese Grand Prix,,,,,,22,68,,0.0,15,15,13,+3 Laps,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-estoril,Portuguese Grand Prix,,,,,,20,68,,0.0,16,16,13,+3 Laps,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-estoril,Portuguese Grand Prix,,,,,,9,64,,0.0,17,17,13,Spun off,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-estoril,Portuguese Grand Prix,,,,,,12,56,,0.0,18,R,13,Engine,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-estoril,Portuguese Grand Prix,,,,,,4,51,,0.0,19,D,13,Disqualified,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-estoril,Portuguese Grand Prix,,,,,,25,40,,0.0,20,R,13,Transmission,,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-estoril,Portuguese Grand Prix,,,,,,5,39,,0.0,21,R,13,Engine,,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-estoril,Portuguese Grand Prix,,,,,,2,37,,0.0,22,R,13,Engine,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-estoril,Portuguese Grand Prix,,,,,,16,18,,0.0,23,R,13,Engine,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-estoril,Portuguese Grand Prix,,,,,,18,21,,0.0,24,R,13,Gearbox,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-estoril,Portuguese Grand Prix,,,,,,15,12,,0.0,25,R,13,Suspension,,1991
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1991-estoril,Portuguese Grand Prix,,,,,,26,1,,0.0,26,R,13,Engine,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-barcelona,Spanish Grand Prix,,,,,,2,65,5921541,10.0,1,1,14,Finished,1:38:41.541,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-barcelona,Spanish Grand Prix,,,,,,6,65,5932872,6.0,2,2,14,Finished,+11.331,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-barcelona,Spanish Grand Prix,,,,,,4,65,5937450,4.0,3,3,14,Finished,+15.909,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-barcelona,Spanish Grand Prix,,,,,,7,65,5944313,3.0,4,4,14,Finished,+22.772,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-barcelona,Spanish Grand Prix,,,,,,3,65,5983943,2.0,5,5,14,Finished,+1:02.402,1991
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1991-barcelona,Spanish Grand Prix,,,,,,5,65,6001009,1.0,6,6,14,Finished,+1:19.468,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-barcelona,Spanish Grand Prix,,,,,,13,64,,0.0,7,7,14,+1 Lap,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-barcelona,Spanish Grand Prix,,,,,,15,64,,0.0,8,8,14,+1 Lap,,1991
+Jordan,jordan,Irish,,zanardi,Alessandro Zanardi,Italian,32,1991-barcelona,Spanish Grand Prix,,,,,,20,64,,0.0,9,9,14,+1 Lap,,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-barcelona,Spanish Grand Prix,,,,,,11,63,,0.0,10,10,14,+2 Laps,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-barcelona,Spanish Grand Prix,,,,,,10,63,,0.0,11,11,14,+2 Laps,,1991
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,14,1991-barcelona,Spanish Grand Prix,,,,,,22,63,,0.0,12,12,14,+2 Laps,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-barcelona,Spanish Grand Prix,,,,,,19,63,,0.0,13,13,14,+2 Laps,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-barcelona,Spanish Grand Prix,,,,,,16,62,,0.0,14,14,14,Collision,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-barcelona,Spanish Grand Prix,,,,,,9,62,,0.0,15,15,14,+3 Laps,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-barcelona,Spanish Grand Prix,,,,,,14,62,,0.0,16,16,14,+3 Laps,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-barcelona,Spanish Grand Prix,,,,,,18,62,,0.0,17,17,14,+3 Laps,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-barcelona,Spanish Grand Prix,,,,,,12,49,,0.0,18,R,14,Engine,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-barcelona,Spanish Grand Prix,,,,,,25,36,,0.0,19,R,14,Electrical,,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-barcelona,Spanish Grand Prix,,,,,,1,33,,0.0,20,R,14,Electrical,,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-barcelona,Spanish Grand Prix,,,,,,24,23,,0.0,21,R,14,Engine,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-barcelona,Spanish Grand Prix,,,,,,17,22,,0.0,22,R,14,Electrical,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-barcelona,Spanish Grand Prix,,,,,,21,5,,0.0,23,R,14,Spun off,,1991
+Leyton House,leyton,British,,capelli,Ivan Capelli,Italian,16,1991-barcelona,Spanish Grand Prix,,,,,,8,1,,0.0,24,R,14,Collision,,1991
+Lola,lola,British,,bernard,Éric Bernard,French,29,1991-barcelona,Spanish Grand Prix,,,,,,23,0,,0.0,25,R,14,Collision,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-barcelona,Spanish Grand Prix,,,,,,26,0,,0.0,26,R,14,Collision,,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-suzuka,Japanese Grand Prix,,,,,,1,53,5530695,10.0,1,1,15,Finished,1:32:10.695,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-suzuka,Japanese Grand Prix,,,,,,2,53,5531039,6.0,2,2,15,Finished,+0.344,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-suzuka,Japanese Grand Prix,,,,,,5,53,5587426,4.0,3,3,15,Finished,+56.731,1991
+Ferrari,ferrari,Italian,,prost,Alain Prost,French,27,1991-suzuka,Japanese Grand Prix,,,,,,4,53,5611456,3.0,4,4,15,Finished,+1:20.761,1991
+Brabham,brabham,British,,brundle,Martin Brundle,British,7,1991-suzuka,Japanese Grand Prix,,,,,,19,52,,2.0,5,5,15,+1 Lap,,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-suzuka,Japanese Grand Prix,,,,,,14,52,,1.0,6,6,15,+1 Lap,,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-suzuka,Japanese Grand Prix,,,,,,10,52,,0.0,7,7,15,+1 Lap,,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-suzuka,Japanese Grand Prix,,,,,,18,52,,0.0,8,8,15,+1 Lap,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-suzuka,Japanese Grand Prix,,,,,,17,52,,0.0,9,9,15,+1 Lap,,1991
+Footwork,footwork,British,,caffi,Alex Caffi,Italian,10,1991-suzuka,Japanese Grand Prix,,,,,,26,51,,0.0,10,10,15,+2 Laps,,1991
+Fondmetal,fondmetal,Italian,,tarquini,Gabriele Tarquini,Italian,14,1991-suzuka,Japanese Grand Prix,,,,,,24,50,,0.0,11,11,15,+3 Laps,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-suzuka,Japanese Grand Prix,,,,,,20,41,,0.0,12,R,15,Alternator,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-suzuka,Japanese Grand Prix,,,,,,7,39,,0.0,13,R,15,Electrical,,1991
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1991-suzuka,Japanese Grand Prix,,,,,,9,34,,0.0,14,R,15,Engine,,1991
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1991-suzuka,Japanese Grand Prix,,,,,,23,31,,0.0,15,R,15,Engine,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-suzuka,Japanese Grand Prix,,,,,,15,30,,0.0,16,R,15,Spun off,,1991
+Lola,lola,British,,suzuki,Aguri Suzuki,Japanese,30,1991-suzuka,Japanese Grand Prix,,,,,,25,26,,0.0,17,R,15,Engine,,1991
+Minardi,minardi,Italian,,morbidelli,Gianni Morbidelli,Italian,24,1991-suzuka,Japanese Grand Prix,,,,,,8,15,,0.0,18,R,15,Wheel,,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-suzuka,Japanese Grand Prix,,,,,,3,9,,0.0,19,R,15,Spun off,,1991
+Jordan,jordan,Irish,,zanardi,Alessandro Zanardi,Italian,32,1991-suzuka,Japanese Grand Prix,,,,,,13,7,,0.0,20,R,15,Gearbox,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-suzuka,Japanese Grand Prix,,,,,,21,4,,0.0,21,R,15,Engine,,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-suzuka,Japanese Grand Prix,,,,,,11,1,,0.0,22,R,15,Accident,,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-suzuka,Japanese Grand Prix,,,,,,12,1,,0.0,23,R,15,Accident,,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-suzuka,Japanese Grand Prix,,,,,,16,1,,0.0,24,R,15,Accident,,1991
+Leyton House,leyton,British,,wendlinger,Karl Wendlinger,Austrian,16,1991-suzuka,Japanese Grand Prix,,,,,,22,1,,0.0,25,R,15,Accident,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-suzuka,Japanese Grand Prix,,,,,,6,0,,0.0,26,R,15,Engine,,1991
+McLaren,mclaren,British,,senna,Ayrton Senna,Brazilian,1,1991-adelaide,Australian Grand Prix,,,,,,1,14,1474899,5.0,1,1,16,Finished,24:34.899,1991
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1991-adelaide,Australian Grand Prix,,,,,,3,14,1476158,3.0,2,2,16,Finished,+1.259,1991
+McLaren,mclaren,British,,berger,Gerhard Berger,Austrian,2,1991-adelaide,Australian Grand Prix,,,,,,2,14,1480019,2.0,3,3,16,Finished,+5.120,1991
+Benetton,benetton,Italian,,piquet,Nelson Piquet,Brazilian,20,1991-adelaide,Australian Grand Prix,,,,,,5,14,1505002,1.5,4,4,16,Finished,+30.103,1991
+Williams,williams,British,,patrese,Riccardo Patrese,Italian,6,1991-adelaide,Australian Grand Prix,,,,,,4,14,1525436,1.0,5,5,16,Finished,+50.537,1991
+Ferrari,ferrari,Italian,,morbidelli,Gianni Morbidelli,Italian,27,1991-adelaide,Australian Grand Prix,,,,,,8,14,1525968,0.5,6,6,16,Finished,+51.069,1991
+Dallara,dallara,Italian,,pirro,Emanuele Pirro,Italian,21,1991-adelaide,Australian Grand Prix,,,,,,13,14,1527260,0.0,7,7,16,Finished,+52.361,1991
+Jordan,jordan,Irish,,cesaris,Andrea de Cesaris,Italian,33,1991-adelaide,Australian Grand Prix,,,,,,12,14,1535330,0.0,8,8,16,Finished,+1:00.431,1991
+Jordan,jordan,Irish,,zanardi,Alessandro Zanardi,Italian,32,1991-adelaide,Australian Grand Prix,,,,,,16,14,1550466,0.0,9,9,16,Finished,+1:15.567,1991
+Tyrrell,tyrrell,British,,modena,Stefano Modena,Italian,4,1991-adelaide,Australian Grand Prix,,,,,,9,14,1555269,0.0,10,10,16,Finished,+1:20.370,1991
+Team Lotus,team_lotus,British,,herbert,Johnny Herbert,British,12,1991-adelaide,Australian Grand Prix,,,,,,21,14,1556972,0.0,11,11,16,Finished,+1:22.073,1991
+Dallara,dallara,Italian,,lehto,Jyrki Järvilehto,Finnish,22,1991-adelaide,Australian Grand Prix,,,,,,11,14,1573418,0.0,12,12,16,Finished,+1:38.519,1991
+Footwork,footwork,British,,alboreto,Michele Alboreto,Italian,9,1991-adelaide,Australian Grand Prix,,,,,,15,14,1574202,0.0,13,13,16,Finished,+1:39.303,1991
+Leyton House,leyton,British,,gugelmin,Maurício Gugelmin,Brazilian,15,1991-adelaide,Australian Grand Prix,,,,,,14,13,,0.0,14,14,16,+1 Lap,,1991
+Footwork,footwork,British,,caffi,Alex Caffi,Italian,10,1991-adelaide,Australian Grand Prix,,,,,,23,13,,0.0,15,15,16,+1 Lap,,1991
+Minardi,minardi,Italian,,moreno,Roberto Moreno,Brazilian,24,1991-adelaide,Australian Grand Prix,,,,,,18,13,,0.0,16,16,16,+1 Lap,,1991
+Brabham,brabham,British,,blundell,Mark Blundell,British,8,1991-adelaide,Australian Grand Prix,,,,,,17,13,,0.0,17,17,16,+1 Lap,,1991
+Ligier,ligier,French,,comas,Érik Comas,French,26,1991-adelaide,Australian Grand Prix,,,,,,22,13,,0.0,18,18,16,+1 Lap,,1991
+Team Lotus,team_lotus,British,,hakkinen,Mika Häkkinen,Finnish,11,1991-adelaide,Australian Grand Prix,,,,,,25,13,,0.0,19,19,16,+2 Laps,,1991
+Leyton House,leyton,British,,wendlinger,Karl Wendlinger,Austrian,16,1991-adelaide,Australian Grand Prix,,,,,,26,12,,0.0,20,20,16,+2 Laps,,1991
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1991-adelaide,Australian Grand Prix,,,,,,10,8,,0.0,21,R,16,Spun off,,1991
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,19,1991-adelaide,Australian Grand Prix,,,,,,6,5,,0.0,22,R,16,Spun off,,1991
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,28,1991-adelaide,Australian Grand Prix,,,,,,7,5,,0.0,23,R,16,Accident,,1991
+Lambo,lambo,Italian,,larini,Nicola Larini,Italian,34,1991-adelaide,Australian Grand Prix,,,,,,19,5,,0.0,24,R,16,Spun off,,1991
+Ligier,ligier,French,,boutsen,Thierry Boutsen,Belgian,25,1991-adelaide,Australian Grand Prix,,,,,,20,5,,0.0,25,R,16,Accident,,1991
+Tyrrell,tyrrell,British,,satoru_nakajima,Satoru Nakajima,Japanese,3,1991-adelaide,Australian Grand Prix,,,,,,24,4,,0.0,26,R,16,Spun off,,1991

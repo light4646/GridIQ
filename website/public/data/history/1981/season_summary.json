@@ -1,0 +1,40 @@
+{
+  "year": 1981,
+  "generated_at": "2026-05-27T06:06:59.267094+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 15,
+  "race_results": 361,
+  "qualifying_results": 0,
+  "drivers": 36,
+  "constructors": 17,
+  "driver_champion": {
+    "year": 1981,
+    "position": 1,
+    "position_text": "1",
+    "points": 50.0,
+    "wins": 3,
+    "driver_id": "piquet",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nelson Piquet",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1981,
+    "position": 1,
+    "position_text": "1",
+    "points": 95.0,
+    "wins": 4,
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+  }
+}

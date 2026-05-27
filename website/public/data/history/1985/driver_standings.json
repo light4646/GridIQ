@@ -1,0 +1,658 @@
+[
+  {
+    "year": 1985,
+    "position": 1,
+    "position_text": "1",
+    "points": 73.0,
+    "wins": 5,
+    "driver_id": "prost",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alain Prost",
+    "driver_nationality": "French",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 2,
+    "position_text": "2",
+    "points": 53.0,
+    "wins": 2,
+    "driver_id": "alboreto",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Michele Alboreto",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 3,
+    "position_text": "3",
+    "points": 40.0,
+    "wins": 2,
+    "driver_id": "keke_rosberg",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Keke Rosberg",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 4,
+    "position_text": "4",
+    "points": 38.0,
+    "wins": 2,
+    "driver_id": "senna",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ayrton Senna",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 5,
+    "position_text": "5",
+    "points": 33.0,
+    "wins": 1,
+    "driver_id": "angelis",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Elio de Angelis",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 6,
+    "position_text": "6",
+    "points": 31.0,
+    "wins": 2,
+    "driver_id": "mansell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nigel Mansell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 7,
+    "position_text": "7",
+    "points": 26.0,
+    "wins": 0,
+    "driver_id": "johansson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Stefan Johansson",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "Tyrrell",
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "tyrrell",
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 8,
+    "position_text": "8",
+    "points": 21.0,
+    "wins": 1,
+    "driver_id": "piquet",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Nelson Piquet",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 9,
+    "position_text": "9",
+    "points": 16.0,
+    "wins": 0,
+    "driver_id": "laffite",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jacques Laffite",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ligier"
+    ],
+    "constructor_ids": [
+      "ligier"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 10,
+    "position_text": "10",
+    "points": 14.0,
+    "wins": 1,
+    "driver_id": "lauda",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Niki Lauda",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 11,
+    "position_text": "11",
+    "points": 11.0,
+    "wins": 0,
+    "driver_id": "boutsen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Thierry Boutsen",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Arrows"
+    ],
+    "constructor_ids": [
+      "arrows"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 12,
+    "position_text": "12",
+    "points": 11.0,
+    "wins": 0,
+    "driver_id": "tambay",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Patrick Tambay",
+    "driver_nationality": "French",
+    "constructors": [
+      "Renault"
+    ],
+    "constructor_ids": [
+      "renault"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 13,
+    "position_text": "13",
+    "points": 5.0,
+    "wins": 0,
+    "driver_id": "surer",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Marc Surer",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 14,
+    "position_text": "14",
+    "points": 5.0,
+    "wins": 0,
+    "driver_id": "warwick",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Derek Warwick",
+    "driver_nationality": "British",
+    "constructors": [
+      "Renault"
+    ],
+    "constructor_ids": [
+      "renault"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 15,
+    "position_text": "15",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "streiff",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Philippe Streiff",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ligier",
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "ligier",
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 16,
+    "position_text": "16",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "bellof",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Stefan Bellof",
+    "driver_nationality": "German",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 17,
+    "position_text": "17",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "cesaris",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Andrea de Cesaris",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ligier"
+    ],
+    "constructor_ids": [
+      "ligier"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 18,
+    "position_text": "18",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "capelli",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ivan Capelli",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 19,
+    "position_text": "19",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "arnoux",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ren\u00e9 Arnoux",
+    "driver_nationality": "French",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": 20,
+    "position_text": "20",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "berger",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gerhard Berger",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Arrows"
+    ],
+    "constructor_ids": [
+      "arrows"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "brundle",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Martin Brundle",
+    "driver_nationality": "British",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "rothengatter",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Huub Rothengatter",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Osella"
+    ],
+    "constructor_ids": [
+      "osella"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "watson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Watson",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "martini",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pierluigi Martini",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Minardi"
+    ],
+    "constructor_ids": [
+      "minardi"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "patrese",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Riccardo Patrese",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Alfa Romeo"
+    ],
+    "constructor_ids": [
+      "alfa"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "cheever",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Eddie Cheever",
+    "driver_nationality": "American",
+    "constructors": [
+      "Alfa Romeo"
+    ],
+    "constructor_ids": [
+      "alfa"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ghinzani",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Piercarlo Ghinzani",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Osella",
+      "Toleman"
+    ],
+    "constructor_ids": [
+      "osella",
+      "toleman"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "alliot",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Philippe Alliot",
+    "driver_nationality": "French",
+    "constructors": [
+      "RAM"
+    ],
+    "constructor_ids": [
+      "ram"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "palmer",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jonathan Palmer",
+    "driver_nationality": "British",
+    "constructors": [
+      "Zakspeed"
+    ],
+    "constructor_ids": [
+      "zakspeed"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "manfred_winkelhock",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Manfred Winkelhock",
+    "driver_nationality": "German",
+    "constructors": [
+      "RAM"
+    ],
+    "constructor_ids": [
+      "ram"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "fabi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Teo Fabi",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Toleman"
+    ],
+    "constructor_ids": [
+      "toleman"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "danner",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Christian Danner",
+    "driver_nationality": "German",
+    "constructors": [
+      "Zakspeed"
+    ],
+    "constructor_ids": [
+      "zakspeed"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "acheson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Kenny Acheson",
+    "driver_nationality": "British",
+    "constructors": [
+      "RAM"
+    ],
+    "constructor_ids": [
+      "ram"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "baldi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mauro Baldi",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Spirit"
+    ],
+    "constructor_ids": [
+      "spirit"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "jones",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Alan Jones",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Lola"
+    ],
+    "constructor_ids": [
+      "lola"
+    ]
+  },
+  {
+    "year": 1985,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hesnault",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Fran\u00e7ois Hesnault",
+    "driver_nationality": "French",
+    "constructors": [
+      "Brabham",
+      "Renault"
+    ],
+    "constructor_ids": [
+      "brabham",
+      "renault"
+    ]
+  }
+]

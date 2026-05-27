@@ -1,0 +1,200 @@
+[
+  {
+    "year": 1974,
+    "position": 1,
+    "position_text": "1",
+    "points": 72.0,
+    "wins": 4,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1974,
+    "position": 2,
+    "position_text": "2",
+    "points": 65.0,
+    "wins": 3,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1974,
+    "position": 3,
+    "position_text": "3",
+    "points": 51.0,
+    "wins": 2,
+    "constructor_id": "tyrrell",
+    "constructor": "Tyrrell",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Tyrrell_Racing"
+  },
+  {
+    "year": 1974,
+    "position": 4,
+    "position_text": "4",
+    "points": 42.0,
+    "wins": 3,
+    "constructor_id": "team_lotus",
+    "constructor": "Team Lotus",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1974,
+    "position": 5,
+    "position_text": "5",
+    "points": 35.0,
+    "wins": 3,
+    "constructor_id": "brabham",
+    "constructor": "Brabham",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1974,
+    "position": 6,
+    "position_text": "6",
+    "points": 15.0,
+    "wins": 0,
+    "constructor_id": "hesketh",
+    "constructor": "Hesketh",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Hesketh_Racing"
+  },
+  {
+    "year": 1974,
+    "position": 7,
+    "position_text": "7",
+    "points": 10.0,
+    "wins": 0,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1974,
+    "position": 8,
+    "position_text": "8",
+    "points": 7.0,
+    "wins": 0,
+    "constructor_id": "shadow",
+    "constructor": "Shadow",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Shadow_Racing_Cars"
+  },
+  {
+    "year": 1974,
+    "position": 9,
+    "position_text": "9",
+    "points": 6.0,
+    "wins": 0,
+    "constructor_id": "march",
+    "constructor": "March",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/March_Engineering"
+  },
+  {
+    "year": 1974,
+    "position": 10,
+    "position_text": "10",
+    "points": 4.0,
+    "wins": 0,
+    "constructor_id": "iso_marlboro",
+    "constructor": "Iso Marlboro",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Frank_Williams_Racing_Cars"
+  },
+  {
+    "year": 1974,
+    "position": 11,
+    "position_text": "11",
+    "points": 3.0,
+    "wins": 0,
+    "constructor_id": "surtees",
+    "constructor": "Surtees",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Surtees"
+  },
+  {
+    "year": 1974,
+    "position": 12,
+    "position_text": "12",
+    "points": 1.0,
+    "wins": 0,
+    "constructor_id": "lola",
+    "constructor": "Lola",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/MasterCard_Lola"
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "parnelli",
+    "constructor": "Parnelli",
+    "constructor_nationality": "American",
+    "constructor_url": "https://en.wikipedia.org/wiki/Vel's_Parnelli_Jones_Racing"
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "trojan",
+    "constructor": "Trojan",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Trojan\u2013Tauranac_Racing"
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "penske",
+    "constructor": "Penske",
+    "constructor_nationality": "American",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Penske"
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "token",
+    "constructor": "Token",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Token_Racing"
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "ensign",
+    "constructor": "Ensign",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Ensign_Racing"
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "amon",
+    "constructor": "Amon",
+    "constructor_nationality": "New Zealander",
+    "constructor_url": "https://en.wikipedia.org/wiki/Chris_Amon_Racing"
+  }
+]

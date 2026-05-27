@@ -1,0 +1,230 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Lotus-Ford,lotus-ford,British,,clark,Jim Clark,British,4,1968-midrand,South African Grand Prix,,,,,,1,80,6836600,9.0,1,1,1,Finished,1:53:56.600,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,5,1968-midrand,South African Grand Prix,,,,,,2,80,6861900,6.0,2,2,1,Finished,+25.300,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,3,1968-midrand,South African Grand Prix,,,,,,4,80,6867000,4.0,3,3,1,Finished,+30.400,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,8,1968-midrand,South African Grand Prix,,,,,,8,78,,3.0,4,4,1,+2 Laps,,1968
+McLaren-BRM,mclaren-brm,British,,hulme,Denny Hulme,New Zealander,1,1968-midrand,South African Grand Prix,,,,,,9,78,,2.0,5,5,1,+2 Laps,,1968
+Matra-Ford,matra-ford,French,,beltoise,Jean-Pierre Beltoise,French,21,1968-midrand,South African Grand Prix,,,,,,18,77,,1.0,6,6,1,+3 Laps,,1968
+Cooper-Maserati,cooper-maserati,British,,siffert,Jo Siffert,Swiss,19,1968-midrand,South African Grand Prix,,,,,,16,77,,0.0,7,7,1,+3 Laps,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1968-midrand,South African Grand Prix,,,,,,6,75,,0.0,8,8,1,+5 Laps,,1968
+Brabham-Repco,brabham-repco,British,,love,John Love,Rhodesian,17,1968-midrand,South African Grand Prix,,,,,,17,75,,0.0,9,9,1,+5 Laps,,1968
+Brabham-Climax,brabham-climax,British,,pretorius,Jackie Pretorius,South African,23,1968-midrand,South African Grand Prix,,,,,,23,71,,0.0,10,R,1,Not classified,,1968
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,6,1968-midrand,South African Grand Prix,,,,,,12,58,,0.0,11,R,1,Oil leak,,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,9,1968-midrand,South African Grand Prix,,,,,,11,51,,0.0,12,R,1,Oil leak,,1968
+Cooper-Maserati,cooper-maserati,British,,bonnier,Jo Bonnier,Swedish,20,1968-midrand,South African Grand Prix,,,,,,19,46,,0.0,13,R,1,Overheating,,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,16,1968-midrand,South African Grand Prix,,,,,,3,43,,0.0,14,R,1,Engine,,1968
+LDS,lds,South African,,tingle,Sam Tingle,Rhodesian,18,1968-midrand,South African Grand Prix,,,,,,22,35,,0.0,15,R,1,Overheating,,1968
+Cooper-Climax,cooper-climax,British,,rooyen,Basil van Rooyen,South African,25,1968-midrand,South African Grand Prix,,,,,,20,22,,0.0,16,R,1,Engine,,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,11,1968-midrand,South African Grand Prix,,,,,,10,20,,0.0,17,R,1,Fuel system,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,2,1968-midrand,South African Grand Prix,,,,,,5,16,,0.0,18,R,1,Engine,,1968
+Ferrari,ferrari,Italian,,adamich,Andrea de Adamich,Italian,10,1968-midrand,South African Grand Prix,,,,,,7,13,,0.0,19,R,1,Accident,,1968
+BRM,brm,British,,spence,Mike Spence,British,12,1968-midrand,South African Grand Prix,,,,,,14,7,,0.0,20,R,1,Fuel system,,1968
+Cooper-Maserati,cooper-maserati,British,,redman,Brian Redman,British,14,1968-midrand,South African Grand Prix,,,,,,21,4,,0.0,21,R,1,Oil leak,,1968
+Brabham-Repco,brabham-repco,British,,charlton,Dave Charlton,South African,22,1968-midrand,South African Grand Prix,,,,,,14,3,,0.0,22,R,1,Differential,,1968
+Cooper-BRM,cooper-brm,British,,scarfiotti,Ludovico Scarfiotti,Italian,15,1968-midrand,South African Grand Prix,,,,,,15,2,,0.0,23,R,1,Water pipe,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,10,1968-madrid,Spanish Grand Prix,,,,,,6,90,8102100,9.0,1,1,2,Finished,2:15:02.100,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,1,1968-madrid,Spanish Grand Prix,,,,,,3,90,8118000,6.0,2,2,2,Finished,+15.900,1968
+Cooper-BRM,cooper-brm,British,,redman,Brian Redman,British,14,1968-madrid,Spanish Grand Prix,,,,,,13,89,,4.0,3,3,2,+1 Lap,,1968
+Cooper-BRM,cooper-brm,British,,scarfiotti,Ludovico Scarfiotti,Italian,15,1968-madrid,Spanish Grand Prix,,,,,,12,89,,3.0,4,4,2,+1 Lap,,1968
+Matra-Ford,matra-ford,French,,beltoise,Jean-Pierre Beltoise,French,6,1968-madrid,Spanish Grand Prix,,,,,,5,81,,2.0,5,5,2,+9 Laps,,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,2,1968-madrid,Spanish Grand Prix,,,,,,4,77,,0.0,6,R,2,Oil leak,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1968-madrid,Spanish Grand Prix,,,,,,7,74,,0.0,7,R,2,Gearbox,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,16,1968-madrid,Spanish Grand Prix,,,,,,10,62,,0.0,8,R,2,Transmission,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,19,1968-madrid,Spanish Grand Prix,,,,,,1,57,,0.0,9,R,2,Fuel pump,,1968
+BRM,brm,British,,courage,Piers Courage,British,5,1968-madrid,Spanish Grand Prix,,,,,,11,52,,0.0,10,R,2,Fuel pump,,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,9,1968-madrid,Spanish Grand Prix,,,,,,2,27,,0.0,11,R,2,Accident,,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,21,1968-madrid,Spanish Grand Prix,,,,,,8,13,,0.0,12,R,2,Ignition,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,4,1968-madrid,Spanish Grand Prix,,,,,,9,10,,0.0,13,R,2,Oil pressure,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,3,1968-madrid,Spanish Grand Prix,,,,,,0,0,,0.0,14,W,2,Withdrew,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,9,1968-monte-carlo,Monaco Grand Prix,,,,,,1,80,7232300,9.0,1,1,3,Finished,2:00:32.300,1968
+BRM,brm,British,,attwood,Richard Attwood,British,15,1968-monte-carlo,Monaco Grand Prix,,,,,,6,80,7234500,6.0,2,2,3,Finished,+2.200,1968
+Cooper-BRM,cooper-brm,British,,bianchi,Lucien Bianchi,Belgian,7,1968-monte-carlo,Monaco Grand Prix,,,,,,14,76,,4.0,3,3,3,+4 Laps,,1968
+Cooper-BRM,cooper-brm,British,,scarfiotti,Ludovico Scarfiotti,Italian,6,1968-monte-carlo,Monaco Grand Prix,,,,,,15,76,,3.0,4,4,3,+4 Laps,,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,12,1968-monte-carlo,Monaco Grand Prix,,,,,,10,73,,2.0,5,5,3,+7 Laps,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,8,1968-monte-carlo,Monaco Grand Prix,,,,,,4,16,,0.0,6,R,3,Gearbox,,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,4,1968-monte-carlo,Monaco Grand Prix,,,,,,9,16,,0.0,7,R,3,Accident,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,17,1968-monte-carlo,Monaco Grand Prix,,,,,,3,17,,0.0,8,R,3,Differential,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,1,1968-monte-carlo,Monaco Grand Prix,,,,,,8,11,,0.0,9,R,3,Accident,,1968
+BRM,brm,British,,courage,Piers Courage,British,16,1968-monte-carlo,Monaco Grand Prix,,,,,,11,11,,0.0,10,R,3,Chassis,,1968
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,19,1968-monte-carlo,Monaco Grand Prix,,,,,,16,9,,0.0,11,R,3,Engine,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,3,1968-monte-carlo,Monaco Grand Prix,,,,,,5,8,,0.0,12,R,3,Accident,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,2,1968-monte-carlo,Monaco Grand Prix,,,,,,12,7,,0.0,13,R,3,Suspension,,1968
+Matra-Ford,matra-ford,French,,gavin,Johnny Servoz-Gavin,French,11,1968-monte-carlo,Monaco Grand Prix,,,,,,2,3,,0.0,14,R,3,Halfshaft,,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,14,1968-monte-carlo,Monaco Grand Prix,,,,,,7,0,,0.0,15,R,3,Accident,,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,10,1968-monte-carlo,Monaco Grand Prix,,,,,,13,0,,0.0,16,R,3,Accident,,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,5,1968-spa,Belgian Grand Prix,,,,,,6,28,6002100,9.0,1,1,4,Finished,1:40:02.100,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,11,1968-spa,Belgian Grand Prix,,,,,,8,28,6014200,6.0,2,2,4,Finished,+12.100,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,23,1968-spa,Belgian Grand Prix,,,,,,3,28,6041700,4.0,3,3,4,Finished,+39.600,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,7,1968-spa,Belgian Grand Prix,,,,,,2,27,,3.0,4,4,4,Out of fuel,,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,2,1968-spa,Belgian Grand Prix,,,,,,15,26,,2.0,5,5,4,Transmission,,1968
+Cooper-BRM,cooper-brm,British,,bianchi,Lucien Bianchi,Belgian,15,1968-spa,Belgian Grand Prix,,,,,,12,26,,1.0,6,6,4,+2 Laps,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,3,1968-spa,Belgian Grand Prix,,,,,,9,25,,0.0,7,7,4,Oil pressure,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,10,1968-spa,Belgian Grand Prix,,,,,,13,25,,0.0,8,8,4,+3 Laps,,1968
+BRM,brm,British,,courage,Piers Courage,British,14,1968-spa,Belgian Grand Prix,,,,,,7,22,,0.0,9,R,4,Engine,,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,6,1968-spa,Belgian Grand Prix,,,,,,5,18,,0.0,10,R,4,Halfshaft,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,20,1968-spa,Belgian Grand Prix,,,,,,4,11,,0.0,11,R,4,Suspension,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,22,1968-spa,Belgian Grand Prix,,,,,,1,8,,0.0,12,R,4,Radiator,,1968
+Cooper-BRM,cooper-brm,British,,redman,Brian Redman,British,16,1968-spa,Belgian Grand Prix,,,,,,11,6,,0.0,13,R,4,Spun off,,1968
+BRM,brm,British,,attwood,Richard Attwood,British,12,1968-spa,Belgian Grand Prix,,,,,,18,6,,0.0,14,R,4,Oil pipe,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,18,1968-spa,Belgian Grand Prix,,,,,,10,6,,0.0,15,R,4,Throttle,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,1,1968-spa,Belgian Grand Prix,,,,,,14,5,,0.0,16,R,4,Halfshaft,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,19,1968-spa,Belgian Grand Prix,,,,,,17,5,,0.0,17,R,4,Engine,,1968
+McLaren-BRM,mclaren-brm,British,,bonnier,Jo Bonnier,Swedish,17,1968-spa,Belgian Grand Prix,,,,,,16,1,,0.0,18,R,4,Wheel,,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,8,1968-zandvoort,Dutch Grand Prix,,,,,,5,90,9971200,9.0,1,1,5,Finished,2:46:11.200,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,17,1968-zandvoort,Dutch Grand Prix,,,,,,16,90,10065130,6.0,2,2,5,Finished,+1:33.930,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,15,1968-zandvoort,Dutch Grand Prix,,,,,,11,89,,4.0,3,3,5,+1 Lap,,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,10,1968-zandvoort,Dutch Grand Prix,,,,,,6,88,,3.0,4,4,5,+2 Laps,,1968
+Brabham-Repco,brabham-repco,British,,moser,Silvio Moser,Swiss,22,1968-zandvoort,Dutch Grand Prix,,,,,,7,87,,2.0,5,5,5,+3 Laps,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,9,1968-zandvoort,Dutch Grand Prix,,,,,,1,85,,1.0,6,6,5,+5 Laps,,1968
+BRM,brm,British,,attwood,Richard Attwood,British,16,1968-zandvoort,Dutch Grand Prix,,,,,,15,85,,0.0,7,7,5,+5 Laps,,1968
+McLaren-BRM,mclaren-brm,British,,bonnier,Jo Bonnier,Swedish,19,1968-zandvoort,Dutch Grand Prix,,,,,,19,82,,0.0,8,8,5,+8 Laps,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,3,1968-zandvoort,Dutch Grand Prix,,,,,,3,81,,0.0,9,9,5,Accident,,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,4,1968-zandvoort,Dutch Grand Prix,,,,,,10,80,,0.0,10,R,5,Not classified,,1968
+Brabham-Repco,brabham-repco,British,,gurney,Dan Gurney,American,18,1968-zandvoort,Dutch Grand Prix,,,,,,12,63,,0.0,11,R,5,Throttle,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,21,1968-zandvoort,Dutch Grand Prix,,,,,,13,55,,0.0,12,R,5,Gearbox,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1968-zandvoort,Dutch Grand Prix,,,,,,9,50,,0.0,13,R,5,Alternator,,1968
+BRM,brm,British,,courage,Piers Courage,British,20,1968-zandvoort,Dutch Grand Prix,,,,,,14,50,,0.0,14,R,5,Spun off,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,6,1968-zandvoort,Dutch Grand Prix,,,,,,2,39,,0.0,15,R,5,Ignition,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,5,1968-zandvoort,Dutch Grand Prix,,,,,,4,22,,0.0,16,R,5,Spun off,,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,2,1968-zandvoort,Dutch Grand Prix,,,,,,8,19,,0.0,17,R,5,Accident,,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,1,1968-zandvoort,Dutch Grand Prix,,,,,,7,10,,0.0,18,R,5,Ignition,,1968
+Cooper-BRM,cooper-brm,British,,bianchi,Lucien Bianchi,Belgian,14,1968-zandvoort,Dutch Grand Prix,,,,,,18,9,,0.0,19,R,5,Accident,,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,26,1968-rouen,French Grand Prix,,,,,,3,60,8740900,9.0,1,1,6,Finished,2:25:40.900,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,16,1968-rouen,French Grand Prix,,,,,,7,60,8859500,6.0,2,2,6,Finished,+1:58.600,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,28,1968-rouen,French Grand Prix,,,,,,2,59,,4.0,3,3,6,+1 Lap,,1968
+Cooper-BRM,cooper-brm,British,,elford,Vic Elford,British,30,1968-rouen,French Grand Prix,,,,,,17,58,,3.0,4,4,6,+2 Laps,,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,8,1968-rouen,French Grand Prix,,,,,,4,58,,2.0,5,5,6,+2 Laps,,1968
+BRM,brm,British,,courage,Piers Courage,British,36,1968-rouen,French Grand Prix,,,,,,14,57,,1.0,6,6,6,+3 Laps,,1968
+BRM,brm,British,,attwood,Richard Attwood,British,22,1968-rouen,French Grand Prix,,,,,,12,57,,0.0,7,7,6,+3 Laps,,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,10,1968-rouen,French Grand Prix,,,,,,6,56,,0.0,8,8,6,+4 Laps,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,6,1968-rouen,French Grand Prix,,,,,,8,56,,0.0,9,9,6,+4 Laps,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,24,1968-rouen,French Grand Prix,,,,,,5,55,,0.0,10,10,6,+5 Laps,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,34,1968-rouen,French Grand Prix,,,,,,11,54,,0.0,11,11,6,+6 Laps,,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,20,1968-rouen,French Grand Prix,,,,,,10,53,,0.0,12,R,6,Not classified,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,2,1968-rouen,French Grand Prix,,,,,,1,45,,0.0,13,R,6,Fuel leak,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,4,1968-rouen,French Grand Prix,,,,,,13,15,,0.0,14,R,6,Fuel pump,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,12,1968-rouen,French Grand Prix,,,,,,9,14,,0.0,15,R,6,Halfshaft,,1968
+Cooper-BRM,cooper-brm,British,,gavin,Johnny Servoz-Gavin,French,32,1968-rouen,French Grand Prix,,,,,,15,14,,0.0,16,R,6,Accident,,1968
+Honda,honda,Japanese,,jo_schlesser,Jo Schlesser,French,18,1968-rouen,French Grand Prix,,,,,,16,2,,0.0,17,R,6,Accident,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,22,1968-kent,British Grand Prix,,,,,,4,80,7280300,9.0,1,1,7,Finished,2:01:20.300,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,5,1968-kent,British Grand Prix,,,,,,3,80,7284700,6.0,2,2,7,Finished,+4.400,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,6,1968-kent,British Grand Prix,,,,,,12,79,,4.0,3,3,7,+1 Lap,,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,1,1968-kent,British Grand Prix,,,,,,11,79,,3.0,4,4,7,+1 Lap,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1968-kent,British Grand Prix,,,,,,9,78,,2.0,5,5,7,+2 Laps,,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,14,1968-kent,British Grand Prix,,,,,,7,78,,1.0,6,6,7,+2 Laps,,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,2,1968-kent,British Grand Prix,,,,,,10,77,,0.0,7,7,7,+3 Laps,,1968
+BRM,brm,British,,courage,Piers Courage,British,20,1968-kent,British Grand Prix,,,,,,16,72,,0.0,8,8,7,+8 Laps,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,4,1968-kent,British Grand Prix,,,,,,5,55,,0.0,9,R,7,Fuel leak,,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,10,1968-kent,British Grand Prix,,,,,,13,52,,0.0,10,R,7,Engine,,1968
+Brabham-Repco,brabham-repco,British,,moser,Silvio Moser,Swiss,19,1968-kent,British Grand Prix,,,,,,19,52,,0.0,11,R,7,Not classified,,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,9,1968-kent,British Grand Prix,,,,,,2,43,,0.0,12,R,7,Transmission,,1968
+Cooper-BRM,cooper-brm,British,,widdows,Robin Widdows,British,16,1968-kent,British Grand Prix,,,,,,18,34,,0.0,13,R,7,Ignition,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,8,1968-kent,British Grand Prix,,,,,,1,26,,0.0,14,R,7,Halfshaft,,1968
+Cooper-BRM,cooper-brm,British,,elford,Vic Elford,British,15,1968-kent,British Grand Prix,,,,,,7,26,,0.0,15,R,7,Engine,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,18,1968-kent,British Grand Prix,,,,,,14,11,,0.0,16,R,7,Engine,,1968
+BRM,brm,British,,attwood,Richard Attwood,British,11,1968-kent,British Grand Prix,,,,,,15,10,,0.0,17,R,7,Radiator,,1968
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,24,1968-kent,British Grand Prix,,,,,,6,8,,0.0,18,R,7,Fuel pump,,1968
+McLaren-BRM,mclaren-brm,British,,bonnier,Jo Bonnier,Swedish,23,1968-kent,British Grand Prix,,,,,,20,6,,0.0,19,R,7,Engine,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,3,1968-kent,British Grand Prix,,,,,,8,0,,0.0,20,R,7,Engine,,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,6,1968-n-rburg,German Grand Prix,,,,,,6,14,8343200,9.0,1,1,8,Finished,2:19:03.200,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,3,1968-n-rburg,German Grand Prix,,,,,,4,14,8586400,6.0,2,2,8,Finished,+4:03.200,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,5,1968-n-rburg,German Grand Prix,,,,,,3,14,8592600,4.0,3,3,8,Finished,+4:09.400,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,9,1968-n-rburg,German Grand Prix,,,,,,1,14,8698400,3.0,4,4,8,Finished,+5:55.200,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,4,1968-n-rburg,German Grand Prix,,,,,,15,14,8724300,2.0,5,5,8,Finished,+6:21.100,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,10,1968-n-rburg,German Grand Prix,,,,,,14,14,8728200,1.0,6,6,8,Finished,+6:25.000,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,1,1968-n-rburg,German Grand Prix,,,,,,11,14,8734200,0.0,7,7,8,Finished,+6:31.000,1968
+BRM,brm,British,,courage,Piers Courage,British,22,1968-n-rburg,German Grand Prix,,,,,,8,14,8819600,0.0,8,8,8,Finished,+7:56.400,1968
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,14,1968-n-rburg,German Grand Prix,,,,,,10,14,8836900,0.0,9,9,8,Finished,+8:13.700,1968
+Lola,lola,British,,hahne,Hubert Hahne,German,18,1968-n-rburg,German Grand Prix,,,,,,18,14,8954600,0.0,10,10,8,Finished,+10:11.400,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,21,1968-n-rburg,German Grand Prix,,,,,,13,13,,0.0,11,11,8,+1 Lap,,1968
+Brabham-Repco,brabham-repco,British,,ahrens,Kurt Ahrens,German,17,1968-n-rburg,German Grand Prix,,,,,,17,13,,0.0,12,12,8,+1 Lap,,1968
+McLaren,mclaren,British,,mclaren,Bruce McLaren,New Zealander,2,1968-n-rburg,German Grand Prix,,,,,,16,13,,0.0,13,13,8,+1 Lap,,1968
+BRM,brm,British,,attwood,Richard Attwood,British,11,1968-n-rburg,German Grand Prix,,,,,,20,13,,0.0,14,14,8,+1 Lap,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,8,1968-n-rburg,German Grand Prix,,,,,,2,11,,0.0,15,R,8,Accident,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,12,1968-n-rburg,German Grand Prix,,,,,,12,8,,0.0,16,R,8,Accident,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,16,1968-n-rburg,German Grand Prix,,,,,,9,6,,0.0,17,R,8,Ignition,,1968
+Cooper-BRM,cooper-brm,British,,bianchi,Lucien Bianchi,Belgian,19,1968-n-rburg,German Grand Prix,,,,,,19,6,,0.0,18,R,8,Fuel leak,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,7,1968-n-rburg,German Grand Prix,,,,,,7,3,,0.0,19,R,8,Ignition,,1968
+Cooper-BRM,cooper-brm,British,,elford,Vic Elford,British,20,1968-n-rburg,German Grand Prix,,,,,,5,0,,0.0,20,R,8,Accident,,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,1,1968-monza,Italian Grand Prix,,,,,,7,68,6014800,9.0,1,1,9,Finished,1:40:14.800,1968
+Matra-Ford,matra-ford,French,,gavin,Johnny Servoz-Gavin,French,5,1968-monza,Italian Grand Prix,,,,,,13,68,6103200,6.0,2,2,9,Finished,+1:28.400,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,8,1968-monza,Italian Grand Prix,,,,,,4,68,6103400,4.0,3,3,9,Finished,+1:28.600,1968
+BRM,brm,British,,courage,Piers Courage,British,27,1968-monza,Italian Grand Prix,,,,,,17,67,,3.0,4,4,9,+1 Lap,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,6,1968-monza,Italian Grand Prix,,,,,,18,66,,2.0,5,5,9,+2 Laps,,1968
+McLaren-BRM,mclaren-brm,British,,bonnier,Jo Bonnier,Swedish,3,1968-monza,Italian Grand Prix,,,,,,19,64,,1.0,6,6,9,+4 Laps,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,20,1968-monza,Italian Grand Prix,,,,,,9,58,,0.0,7,R,9,Suspension,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,10,1968-monza,Italian Grand Prix,,,,,,16,56,,0.0,8,R,9,Oil pressure,,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,4,1968-monza,Italian Grand Prix,,,,,,6,42,,0.0,9,R,9,Engine,,1968
+Honda,honda,Japanese,,hobbs,David Hobbs,British,15,1968-monza,Italian Grand Prix,,,,,,14,42,,0.0,10,R,9,Engine,,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,19,1968-monza,Italian Grand Prix,,,,,,11,38,,0.0,11,R,9,Transmission,,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,2,1968-monza,Italian Grand Prix,,,,,,2,34,,0.0,12,R,9,Oil leak,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,11,1968-monza,Italian Grand Prix,,,,,,10,33,,0.0,13,R,9,Engine,,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,26,1968-monza,Italian Grand Prix,,,,,,15,22,,0.0,14,R,9,Engine,,1968
+Eagle-Weslake,eagle-weslake,American,,gurney,Dan Gurney,American,21,1968-monza,Italian Grand Prix,,,,,,12,19,,0.0,15,R,9,Engine,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,16,1968-monza,Italian Grand Prix,,,,,,5,10,,0.0,16,R,9,Wheel,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,14,1968-monza,Italian Grand Prix,,,,,,1,8,,0.0,17,R,9,Accident,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,9,1968-monza,Italian Grand Prix,,,,,,3,8,,0.0,18,R,9,Accident,,1968
+Ferrari,ferrari,Italian,,bell,Derek Bell,British,7,1968-monza,Italian Grand Prix,,,,,,8,4,,0.0,19,R,9,Fuel system,,1968
+Cooper-BRM,cooper-brm,British,,elford,Vic Elford,British,23,1968-monza,Italian Grand Prix,,,,,,20,2,,0.0,20,R,9,Accident,,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,1,1968-quebec,Canadian Grand Prix,,,,,,6,90,8831200,9.0,1,1,10,Finished,2:27:11.200,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,2,1968-quebec,Canadian Grand Prix,,,,,,8,89,,6.0,2,2,10,+1 Lap,,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,16,1968-quebec,Canadian Grand Prix,,,,,,12,88,,4.0,3,3,10,+2 Laps,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,3,1968-quebec,Canadian Grand Prix,,,,,,5,86,,3.0,4,4,10,+4 Laps,,1968
+Cooper-BRM,cooper-brm,British,,elford,Vic Elford,British,21,1968-quebec,Canadian Grand Prix,,,,,,16,86,,2.0,5,5,10,+4 Laps,,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,14,1968-quebec,Canadian Grand Prix,,,,,,11,83,,1.0,6,6,10,+7 Laps,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,18,1968-quebec,Canadian Grand Prix,,,,,,15,77,,0.0,7,R,10,Gearbox,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,9,1968-quebec,Canadian Grand Prix,,,,,,2,72,,0.0,8,R,10,Transmission,,1968
+Matra-Ford,matra-ford,French,,gavin,Johnny Servoz-Gavin,French,15,1968-quebec,Canadian Grand Prix,,,,,,13,71,,0.0,9,R,10,Accident,,1968
+Cooper-BRM,cooper-brm,British,,bianchi,Lucien Bianchi,Belgian,20,1968-quebec,Canadian Grand Prix,,,,,,18,56,,0.0,10,R,10,Not classified,,1968
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,19,1968-quebec,Canadian Grand Prix,,,,,,19,54,,0.0,11,R,10,Oil pressure,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,6,1968-quebec,Canadian Grand Prix,,,,,,1,39,,0.0,12,R,10,Engine,,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,4,1968-quebec,Canadian Grand Prix,,,,,,19,32,,0.0,13,R,10,Halfshaft,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,5,1968-quebec,Canadian Grand Prix,,,,,,10,31,,0.0,14,R,10,Suspension,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,12,1968-quebec,Canadian Grand Prix,,,,,,3,29,,0.0,15,R,10,Oil leak,,1968
+McLaren-Ford,mclaren-ford,British,,gurney,Dan Gurney,American,11,1968-quebec,Canadian Grand Prix,,,,,,4,29,,0.0,16,R,10,Radiator,,1968
+BRM,brm,British,,courage,Piers Courage,British,24,1968-quebec,Canadian Grand Prix,,,,,,14,22,,0.0,17,R,10,Gearbox,,1968
+Lotus-Ford,lotus-ford,British,,brack,Bill Brack,Canadian,27,1968-quebec,Canadian Grand Prix,,,,,,20,18,,0.0,18,R,10,Halfshaft,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,8,1968-quebec,Canadian Grand Prix,,,,,,7,10,,0.0,19,R,10,Gearbox,,1968
+McLaren-BRM,mclaren-brm,British,,bonnier,Jo Bonnier,Swedish,22,1968-quebec,Canadian Grand Prix,,,,,,17,0,,0.0,20,R,10,Fuel system,,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,10,1968-quebec,Canadian Grand Prix,,,,,,0,0,,0.0,21,W,10,Accident,,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,15,1968-new-york-state,United States Grand Prix,,,,,,2,108,7160290,9.0,1,1,11,Finished,1:59:20.290,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,10,1968-new-york-state,United States Grand Prix,,,,,,3,108,7184970,6.0,2,2,11,Finished,+24.680,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,5,1968-new-york-state,United States Grand Prix,,,,,,9,107,,4.0,3,3,11,+1 Lap,,1968
+McLaren-Ford,mclaren-ford,British,,gurney,Dan Gurney,American,14,1968-new-york-state,United States Grand Prix,,,,,,7,107,,3.0,4,4,11,+1 Lap,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,16,1968-new-york-state,United States Grand Prix,,,,,,12,105,,2.0,5,5,11,+3 Laps,,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,2,1968-new-york-state,United States Grand Prix,,,,,,10,103,,1.0,6,6,11,+5 Laps,,1968
+BRM,brm,British,,courage,Piers Courage,British,22,1968-new-york-state,United States Grand Prix,,,,,,14,93,,0.0,7,R,11,Out of fuel,,1968
+McLaren,mclaren,British,,hulme,Denny Hulme,New Zealander,1,1968-new-york-state,United States Grand Prix,,,,,,5,92,,0.0,8,R,11,Accident,,1968
+Cooper-BRM,cooper-brm,British,,bianchi,Lucien Bianchi,Belgian,19,1968-new-york-state,United States Grand Prix,,,,,,20,88,,0.0,9,R,11,Not classified,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,3,1968-new-york-state,United States Grand Prix,,,,,,8,77,,0.0,10,R,11,Engine,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,4,1968-new-york-state,United States Grand Prix,,,,,,6,73,,0.0,11,R,11,Engine,,1968
+Cooper-BRM,cooper-brm,British,,elford,Vic Elford,British,18,1968-new-york-state,United States Grand Prix,,,,,,17,71,,0.0,12,R,11,Engine,,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,8,1968-new-york-state,United States Grand Prix,,,,,,11,66,,0.0,13,R,11,Suspension,,1968
+McLaren-BRM,mclaren-brm,British,,bonnier,Jo Bonnier,Swedish,17,1968-new-york-state,United States Grand Prix,,,,,,18,62,,0.0,14,R,11,Not classified,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,6,1968-new-york-state,United States Grand Prix,,,,,,4,59,,0.0,15,R,11,Water pump,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,21,1968-new-york-state,United States Grand Prix,,,,,,13,44,,0.0,16,R,11,Transmission,,1968
+BRM,brm,British,,unser,Bobby Unser,American,9,1968-new-york-state,United States Grand Prix,,,,,,19,35,,0.0,17,R,11,Engine,,1968
+Lotus-Ford,lotus-ford,British,,mario_andretti,Mario Andretti,American,12,1968-new-york-state,United States Grand Prix,,,,,,1,32,,0.0,18,R,11,Clutch,,1968
+Ferrari,ferrari,Italian,,bell,Derek Bell,British,7,1968-new-york-state,United States Grand Prix,,,,,,15,14,,0.0,19,R,11,Engine,,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,11,1968-new-york-state,United States Grand Prix,,,,,,0,0,,0.0,20,W,11,Withdrew,,1968
+Lotus-Ford,lotus-ford,British,,hill,Graham Hill,British,10,1968-mexico-city,Mexican Grand Prix,,,,,,3,65,7003950,9.0,1,1,12,Finished,1:56:43.950,1968
+McLaren-Ford,mclaren-ford,British,,mclaren,Bruce McLaren,New Zealander,2,1968-mexico-city,Mexican Grand Prix,,,,,,9,65,7083270,6.0,2,2,12,Finished,+1:19.320,1968
+Lotus-Ford,lotus-ford,British,,oliver,Jackie Oliver,British,11,1968-mexico-city,Mexican Grand Prix,,,,,,14,65,7104600,4.0,3,3,12,Finished,+1:40.650,1968
+BRM,brm,British,,rodriguez,Pedro Rodríguez,Mexican,8,1968-mexico-city,Mexican Grand Prix,,,,,,12,65,7105040,3.0,4,4,12,Finished,+1:41.090,1968
+Honda,honda,Japanese,,bonnier,Jo Bonnier,Swedish,17,1968-mexico-city,Mexican Grand Prix,,,,,,18,64,,2.0,5,5,12,+1 Lap,,1968
+Lotus-Ford,lotus-ford,British,,siffert,Jo Siffert,Swiss,16,1968-mexico-city,Mexican Grand Prix,,,,,,1,64,,1.0,6,6,12,+1 Lap,,1968
+Matra-Ford,matra-ford,French,,stewart,Jackie Stewart,British,15,1968-mexico-city,Mexican Grand Prix,,,,,,7,64,,0.0,7,7,12,+1 Lap,,1968
+Cooper-BRM,cooper-brm,British,,elford,Vic Elford,British,18,1968-mexico-city,Mexican Grand Prix,,,,,,17,63,,0.0,8,8,12,+2 Laps,,1968
+Matra,matra,French,,pescarolo,Henri Pescarolo,French,9,1968-mexico-city,Mexican Grand Prix,,,,,,20,62,,0.0,9,9,12,+3 Laps,,1968
+Brabham-Repco,brabham-repco,British,,jack_brabham,Jack Brabham,Australian,3,1968-mexico-city,Mexican Grand Prix,,,,,,8,59,,0.0,10,10,12,Oil pressure,,1968
+Matra-Ford,matra-ford,French,,gavin,Johnny Servoz-Gavin,French,23,1968-mexico-city,Mexican Grand Prix,,,,,,16,57,,0.0,11,R,12,Ignition,,1968
+McLaren-Ford,mclaren-ford,British,,gurney,Dan Gurney,American,14,1968-mexico-city,Mexican Grand Prix,,,,,,5,28,,0.0,12,R,12,Suspension,,1968
+BRM,brm,British,,courage,Piers Courage,British,22,1968-mexico-city,Mexican Grand Prix,,,,,,19,25,,0.0,13,R,12,Engine,,1968
+Cooper-BRM,cooper-brm,British,,bianchi,Lucien Bianchi,Belgian,19,1968-mexico-city,Mexican Grand Prix,,,,,,21,21,,0.0,14,R,12,Engine,,1968
+Honda,honda,Japanese,,surtees,John Surtees,British,5,1968-mexico-city,Mexican Grand Prix,,,,,,6,17,,0.0,15,R,12,Overheating,,1968
+Ferrari,ferrari,Italian,,amon,Chris Amon,New Zealander,6,1968-mexico-city,Mexican Grand Prix,,,,,,2,16,,0.0,16,R,12,Transmission,,1968
+Lotus-Ford,lotus-ford,British,,solana,Moisés Solana,Mexican,12,1968-mexico-city,Mexican Grand Prix,,,,,,11,14,,0.0,17,R,12,Broken wing,,1968
+McLaren-Ford,mclaren-ford,British,,hulme,Denny Hulme,New Zealander,1,1968-mexico-city,Mexican Grand Prix,,,,,,4,10,,0.0,18,R,12,Suspension,,1968
+Matra,matra,French,,beltoise,Jean-Pierre Beltoise,French,21,1968-mexico-city,Mexican Grand Prix,,,,,,13,10,,0.0,19,R,12,Suspension,,1968
+Ferrari,ferrari,Italian,,ickx,Jacky Ickx,Belgian,7,1968-mexico-city,Mexican Grand Prix,,,,,,15,3,,0.0,20,R,12,Ignition,,1968
+Brabham-Repco,brabham-repco,British,,rindt,Jochen Rindt,Austrian,4,1968-mexico-city,Mexican Grand Prix,,,,,,10,2,,0.0,21,R,12,Ignition,,1968

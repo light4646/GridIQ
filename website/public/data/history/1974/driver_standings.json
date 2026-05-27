@@ -1,0 +1,1034 @@
+[
+  {
+    "year": 1974,
+    "position": 1,
+    "position_text": "1",
+    "points": 55.0,
+    "wins": 3,
+    "driver_id": "emerson_fittipaldi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Emerson Fittipaldi",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 2,
+    "position_text": "2",
+    "points": 52.0,
+    "wins": 1,
+    "driver_id": "regazzoni",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Clay Regazzoni",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 3,
+    "position_text": "3",
+    "points": 45.0,
+    "wins": 2,
+    "driver_id": "scheckter",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jody Scheckter",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 4,
+    "position_text": "4",
+    "points": 38.0,
+    "wins": 2,
+    "driver_id": "lauda",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Niki Lauda",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 5,
+    "position_text": "5",
+    "points": 35.0,
+    "wins": 3,
+    "driver_id": "peterson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ronnie Peterson",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 6,
+    "position_text": "6",
+    "points": 32.0,
+    "wins": 3,
+    "driver_id": "reutemann",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Carlos Reutemann",
+    "driver_nationality": "Argentine",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 7,
+    "position_text": "7",
+    "points": 20.0,
+    "wins": 1,
+    "driver_id": "hulme",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Denny Hulme",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 8,
+    "position_text": "8",
+    "points": 15.0,
+    "wins": 0,
+    "driver_id": "hunt",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "James Hunt",
+    "driver_nationality": "British",
+    "constructors": [
+      "March",
+      "Hesketh"
+    ],
+    "constructor_ids": [
+      "march",
+      "hesketh"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 9,
+    "position_text": "9",
+    "points": 14.0,
+    "wins": 0,
+    "driver_id": "depailler",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Patrick Depailler",
+    "driver_nationality": "French",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 10,
+    "position_text": "10",
+    "points": 12.0,
+    "wins": 0,
+    "driver_id": "ickx",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jacky Ickx",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 11,
+    "position_text": "11",
+    "points": 12.0,
+    "wins": 0,
+    "driver_id": "hailwood",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mike Hailwood",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 12,
+    "position_text": "12",
+    "points": 11.0,
+    "wins": 0,
+    "driver_id": "pace",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Carlos Pace",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Surtees",
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "surtees",
+      "brabham"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 13,
+    "position_text": "13",
+    "points": 10.0,
+    "wins": 0,
+    "driver_id": "beltoise",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean-Pierre Beltoise",
+    "driver_nationality": "French",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 14,
+    "position_text": "14",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "jarier",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean-Pierre Jarier",
+    "driver_nationality": "French",
+    "constructors": [
+      "Shadow"
+    ],
+    "constructor_ids": [
+      "shadow"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 15,
+    "position_text": "15",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "watson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Watson",
+    "driver_nationality": "British",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 16,
+    "position_text": "16",
+    "points": 5.0,
+    "wins": 0,
+    "driver_id": "stuck",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Hans-Joachim Stuck",
+    "driver_nationality": "German",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 17,
+    "position_text": "17",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "merzario",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Arturo Merzario",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Iso Marlboro"
+    ],
+    "constructor_ids": [
+      "iso_marlboro"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 18,
+    "position_text": "18",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Graham Hill",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lola"
+    ],
+    "constructor_ids": [
+      "lola"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 19,
+    "position_text": "19",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "pryce",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tom Pryce",
+    "driver_nationality": "British",
+    "constructors": [
+      "Token",
+      "Shadow"
+    ],
+    "constructor_ids": [
+      "token",
+      "shadow"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": 20,
+    "position_text": "20",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "brambilla",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Vittorio Brambilla",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "edwards",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Guy Edwards",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lola"
+    ],
+    "constructor_ids": [
+      "lola"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hobbs",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "David Hobbs",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "mass",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jochen Mass",
+    "driver_nationality": "German",
+    "constructors": [
+      "Surtees",
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "surtees",
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "redman",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Brian Redman",
+    "driver_nationality": "British",
+    "constructors": [
+      "Shadow"
+    ],
+    "constructor_ids": [
+      "shadow"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "mario_andretti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mario Andretti",
+    "driver_nationality": "American",
+    "constructors": [
+      "Parnelli"
+    ],
+    "constructor_ids": [
+      "parnelli"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ganley",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Howden Ganley",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "March",
+      "Maki"
+    ],
+    "constructor_ids": [
+      "march",
+      "maki"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "belso",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tom Bels\u00f8",
+    "driver_nationality": "Danish",
+    "constructors": [
+      "Iso Marlboro"
+    ],
+    "constructor_ids": [
+      "iso_marlboro"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "opel",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Rikky von Opel",
+    "driver_nationality": "Liechtensteiner",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pescarolo",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Henri Pescarolo",
+    "driver_nationality": "French",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "amon",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Chris Amon",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "Amon",
+      "BRM"
+    ],
+    "constructor_ids": [
+      "amon",
+      "brm"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "quester",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Dieter Quester",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Surtees"
+    ],
+    "constructor_ids": [
+      "surtees"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "schenken",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tim Schenken",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Trojan",
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "trojan",
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "koinigg",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Helmuth Koinigg",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Brabham",
+      "Surtees"
+    ],
+    "constructor_ids": [
+      "brabham",
+      "surtees"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "stommelen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Rolf Stommelen",
+    "driver_nationality": "German",
+    "constructors": [
+      "Lola"
+    ],
+    "constructor_ids": [
+      "lola"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Derek Bell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Surtees"
+    ],
+    "constructor_ids": [
+      "surtees"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "donohue",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mark Donohue",
+    "driver_nationality": "American",
+    "constructors": [
+      "Penske"
+    ],
+    "constructor_ids": [
+      "penske"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ian_scheckter",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ian Scheckter",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Team Lotus",
+      "Hesketh"
+    ],
+    "constructor_ids": [
+      "team_lotus",
+      "hesketh"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "migault",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Fran\u00e7ois Migault",
+    "driver_nationality": "French",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "ashley",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ian Ashley",
+    "driver_nationality": "British",
+    "constructors": [
+      "Token",
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "token",
+      "brabham"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "keizan",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Eddie Keizan",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "lennep",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gijs van Lennep",
+    "driver_nationality": "Dutch",
+    "constructors": [
+      "Iso Marlboro"
+    ],
+    "constructor_ids": [
+      "iso_marlboro"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "robarts",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Richard Robarts",
+    "driver_nationality": "British",
+    "constructors": [
+      "Brabham",
+      "Iso Marlboro"
+    ],
+    "constructor_ids": [
+      "brabham",
+      "iso_marlboro"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "schuppan",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Vern Schuppan",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Ensign"
+    ],
+    "constructor_ids": [
+      "ensign"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "laffite",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jacques Laffite",
+    "driver_nationality": "French",
+    "constructors": [
+      "Iso Marlboro"
+    ],
+    "constructor_ids": [
+      "iso_marlboro"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "pilette",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Teddy Pilette",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "charlton",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Dave Charlton",
+    "driver_nationality": "South African",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "wisell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Reine Wisell",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "wilds",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mike Wilds",
+    "driver_nationality": "British",
+    "constructors": [
+      "March",
+      "Ensign"
+    ],
+    "constructor_ids": [
+      "march",
+      "ensign"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "dolhem",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jos\u00e9 Dolhem",
+    "driver_nationality": "French",
+    "constructors": [
+      "Surtees"
+    ],
+    "constructor_ids": [
+      "surtees"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "revson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Peter Revson",
+    "driver_nationality": "American",
+    "constructors": [
+      "Shadow"
+    ],
+    "constructor_ids": [
+      "shadow"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "kinnunen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Leo Kinnunen",
+    "driver_nationality": "Finnish",
+    "constructors": [
+      "Surtees"
+    ],
+    "constructor_ids": [
+      "surtees"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "driver",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Paddy Driver",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "larrousse",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "G\u00e9rard Larrousse",
+    "driver_nationality": "French",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "roos",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bertil Roos",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "Shadow"
+    ],
+    "constructor_ids": [
+      "shadow"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "gethin",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Peter Gethin",
+    "driver_nationality": "British",
+    "constructors": [
+      "Lola"
+    ],
+    "constructor_ids": [
+      "lola"
+    ]
+  },
+  {
+    "year": 1974,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "wietzes",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Eppie Wietzes",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  }
+]

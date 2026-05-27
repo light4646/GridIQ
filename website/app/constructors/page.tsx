@@ -10,8 +10,22 @@ import {
 } from "@/lib/history";
 
 export const metadata = {
-  title: "Constructors · GridIQ",
-  description: "Historical Formula 1 constructor database from 2000 to 2026.",
+  title: "F1 Constructor Database 1950–2026 · GridIQ",
+  description:
+    "Formula 1 constructor and team database with championship titles, race wins, podiums, points, seasons, and driver histories from 1950 to 2026. Ferrari, McLaren, Mercedes, Red Bull, and more.",
+  keywords: [
+    "F1 constructor standings history",
+    "Formula 1 teams database",
+    "F1 constructor championships",
+    "Ferrari F1 wins",
+    "McLaren F1 history",
+    "Mercedes F1 titles",
+    "Red Bull F1 championships",
+  ],
+  openGraph: {
+    title: "F1 Constructor Database 1950–2026 · GridIQ",
+    description: "Championship titles, wins, podiums, and stats for every F1 constructor from 1950 to 2026.",
+  },
 };
 
 type ConstructorSummary = {

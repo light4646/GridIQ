@@ -1,0 +1,36 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,senna,Ayrton Senna,Brazilian,,78.0,1,1,6,1990
+"[""ferrari""]","[""Ferrari""]",,prost,Alain Prost,French,,71.0,2,2,5,1990
+"[""benetton""]","[""Benetton""]",,piquet,Nelson Piquet,Brazilian,,43.0,3,3,2,1990
+"[""mclaren""]","[""McLaren""]",,berger,Gerhard Berger,Austrian,,43.0,4,4,0,1990
+"[""ferrari""]","[""Ferrari""]",,mansell,Nigel Mansell,British,,37.0,5,5,1,1990
+"[""williams""]","[""Williams""]",,boutsen,Thierry Boutsen,Belgian,,34.0,6,6,1,1990
+"[""williams""]","[""Williams""]",,patrese,Riccardo Patrese,Italian,,23.0,7,7,1,1990
+"[""benetton""]","[""Benetton""]",,nannini,Alessandro Nannini,Italian,,21.0,8,8,0,1990
+"[""tyrrell""]","[""Tyrrell""]",,alesi,Jean Alesi,French,,13.0,9,9,0,1990
+"[""leyton""]","[""Leyton House""]",,capelli,Ivan Capelli,Italian,,6.0,10,10,0,1990
+"[""eurobrun"", ""benetton""]","[""Euro Brun"", ""Benetton""]",,moreno,Roberto Moreno,Brazilian,,6.0,11,11,0,1990
+"[""larrousse""]","[""Larrousse""]",,suzuki,Aguri Suzuki,Japanese,,6.0,12,12,0,1990
+"[""larrousse""]","[""Larrousse""]",,bernard,Éric Bernard,French,,5.0,13,13,0,1990
+"[""team_lotus""]","[""Team Lotus""]",,warwick,Derek Warwick,British,,3.0,14,14,0,1990
+"[""tyrrell""]","[""Tyrrell""]",,satoru_nakajima,Satoru Nakajima,Japanese,,3.0,15,15,0,1990
+"[""arrows""]","[""Arrows""]",,caffi,Alex Caffi,Italian,,2.0,16,16,0,1990
+"[""brabham""]","[""Brabham""]",,modena,Stefano Modena,Italian,,2.0,17,17,0,1990
+"[""leyton""]","[""Leyton House""]",,gugelmin,Maurício Gugelmin,Brazilian,,1.0,18,18,0,1990
+"[""ligier""]","[""Ligier""]",,larini,Nicola Larini,Italian,,0.0,,-,0,1990
+"[""team_lotus""]","[""Team Lotus""]",,donnelly,Martin Donnelly,British,,0.0,,-,0,1990
+"[""minardi""]","[""Minardi""]",,martini,Pierluigi Martini,Italian,,0.0,,-,0,1990
+"[""brabham"", ""onyx""]","[""Brabham"", ""Onyx""]",,foitek,Gregor Foitek,Swiss,,0.0,,-,0,1990
+"[""ligier""]","[""Ligier""]",,alliot,Philippe Alliot,French,,0.0,,-,0,1990
+"[""arrows""]","[""Arrows""]",,alboreto,Michele Alboreto,Italian,,0.0,,-,0,1990
+"[""ags""]","[""AGS""]",,dalmas,Yannick Dalmas,French,,0.0,,-,0,1990
+"[""dallara""]","[""Dallara""]",,pirro,Emanuele Pirro,Italian,,0.0,,-,0,1990
+"[""dallara""]","[""Dallara""]",,cesaris,Andrea de Cesaris,Italian,,0.0,,-,0,1990
+"[""minardi""]","[""Minardi""]",,barilla,Paolo Barilla,Italian,,0.0,,-,0,1990
+"[""onyx""]","[""Onyx""]",,lehto,Jyrki Järvilehto,Finnish,,0.0,,-,0,1990
+"[""arrows""]","[""Arrows""]",,schneider,Bernd Schneider,German,,0.0,,-,0,1990
+"[""osella""]","[""Osella""]",,grouillard,Olivier Grouillard,French,,0.0,,-,0,1990
+"[""ags""]","[""AGS""]",,tarquini,Gabriele Tarquini,Italian,,0.0,,-,0,1990
+"[""dallara"", ""minardi""]","[""Dallara"", ""Minardi""]",,morbidelli,Gianni Morbidelli,Italian,,0.0,,-,0,1990
+"[""brabham""]","[""Brabham""]",,brabham,David Brabham,Australian,,0.0,,-,0,1990
+"[""team_lotus""]","[""Team Lotus""]",,herbert,Johnny Herbert,British,,0.0,,-,0,1990

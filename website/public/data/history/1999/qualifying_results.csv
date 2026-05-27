@@ -1,0 +1,66 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,position,q1,q2,q3,round,year
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-melbourne,Australian Grand Prix,1,1:30.462,,,1,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-melbourne,Australian Grand Prix,2,1:30.946,,,1,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-melbourne,Australian Grand Prix,3,1:31.781,,,1,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-melbourne,Australian Grand Prix,4,1:32.148,,,1,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-melbourne,Australian Grand Prix,5,1:32.276,,,1,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-melbourne,Australian Grand Prix,6,1:32.289,,,1,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-melbourne,Australian Grand Prix,7,1:32.540,,,1,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-melbourne,Australian Grand Prix,8,1:32.691,,,1,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-melbourne,Australian Grand Prix,9,1:32.695,,,1,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-melbourne,Australian Grand Prix,10,1:32.789,,,1,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-melbourne,Australian Grand Prix,11,1:32.888,,,1,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-melbourne,Australian Grand Prix,12,1:32.971,,,1,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-melbourne,Australian Grand Prix,13,1:32.991,,,1,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-melbourne,Australian Grand Prix,14,1:33.374,,,1,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-melbourne,Australian Grand Prix,15,1:33.549,,,1,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-melbourne,Australian Grand Prix,16,1:33.910,,,1,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-melbourne,Australian Grand Prix,17,1:34.182,,,1,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-melbourne,Australian Grand Prix,18,1:34.244,,,1,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-melbourne,Australian Grand Prix,19,1:34.412,,,1,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-melbourne,Australian Grand Prix,20,1:35.068,,,1,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-melbourne,Australian Grand Prix,21,1:35.316,,,1,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-melbourne,Australian Grand Prix,22,1:37.013,,,1,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-s-o-paulo,Brazilian Grand Prix,1,1:16.568,,,2,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-s-o-paulo,Brazilian Grand Prix,2,1:16.715,,,2,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-s-o-paulo,Brazilian Grand Prix,3,1:17.305,,,2,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-s-o-paulo,Brazilian Grand Prix,4,1:17.578,,,2,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-s-o-paulo,Brazilian Grand Prix,5,1:17.810,,,2,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-s-o-paulo,Brazilian Grand Prix,6,1:17.843,,,2,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-s-o-paulo,Brazilian Grand Prix,7,1:17.884,,,2,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-s-o-paulo,Brazilian Grand Prix,8,1:17.902,,,2,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-s-o-paulo,Brazilian Grand Prix,9,1:18.334,,,2,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-s-o-paulo,Brazilian Grand Prix,10,1:18.374,,,2,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-s-o-paulo,Brazilian Grand Prix,11,1:18.506,,,2,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-s-o-paulo,Brazilian Grand Prix,12,1:18.636,,,2,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-s-o-paulo,Brazilian Grand Prix,13,1:18.684,,,2,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-s-o-paulo,Brazilian Grand Prix,14,1:18.716,,,2,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-s-o-paulo,Brazilian Grand Prix,15,1:19.194,,,2,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-s-o-paulo,Brazilian Grand Prix,16,1:19.452,,,2,1999
+Minardi,minardi,Italian,,sarrazin,Stéphane Sarrazin,French,20,1999-s-o-paulo,Brazilian Grand Prix,17,1:20.016,,,2,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-s-o-paulo,Brazilian Grand Prix,18,1:20.075,,,2,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-s-o-paulo,Brazilian Grand Prix,19,1:20.096,,,2,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-s-o-paulo,Brazilian Grand Prix,20,1:20.710,,,2,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-s-o-paulo,Brazilian Grand Prix,21,,,,2,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-imola,San Marino Grand Prix,1,1:26.362,,,3,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-imola,San Marino Grand Prix,2,1:26.384,,,3,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-imola,San Marino Grand Prix,3,1:26.538,,,3,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-imola,San Marino Grand Prix,4,1:26.993,,,3,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-imola,San Marino Grand Prix,5,1:27.313,,,3,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-imola,San Marino Grand Prix,6,1:27.409,,,3,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-imola,San Marino Grand Prix,7,1:27.613,,,3,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-imola,San Marino Grand Prix,8,1:27.708,,,3,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-imola,San Marino Grand Prix,9,1:27.770,,,3,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-imola,San Marino Grand Prix,10,1:28.142,,,3,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-imola,San Marino Grand Prix,11,1:28.205,,,3,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-imola,San Marino Grand Prix,12,1:28.246,,,3,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-imola,San Marino Grand Prix,13,1:28.253,,,3,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-imola,San Marino Grand Prix,14,1:28.403,,,3,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-imola,San Marino Grand Prix,15,1:28.599,,,3,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-imola,San Marino Grand Prix,16,1:28.750,,,3,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-imola,San Marino Grand Prix,17,1:28.765,,,3,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-imola,San Marino Grand Prix,18,1:29.293,,,3,1999
+BAR,bar,British,,salo,Mika Salo,Finnish,23,1999-imola,San Marino Grand Prix,19,1:29.451,,,3,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-imola,San Marino Grand Prix,20,1:29.656,,,3,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-imola,San Marino Grand Prix,21,1:30.035,,,3,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-imola,San Marino Grand Prix,22,1:30.945,,,3,1999

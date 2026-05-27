@@ -1,0 +1,40 @@
+{
+  "year": 1975,
+  "generated_at": "2026-05-27T06:16:31.864017+00:00",
+  "through_date": "2026-05-27",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 14,
+  "race_results": 346,
+  "qualifying_results": 0,
+  "drivers": 51,
+  "constructors": 20,
+  "driver_champion": {
+    "year": 1975,
+    "position": 1,
+    "position_text": "1",
+    "points": 64.5,
+    "wins": 5,
+    "driver_id": "lauda",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Niki Lauda",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1975,
+    "position": 1,
+    "position_text": "1",
+    "points": 72.5,
+    "wins": 6,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  }
+}

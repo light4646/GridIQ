@@ -1,0 +1,13 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,59.0,1,1,6,1970
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,55.0,2,2,4,1970
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,48.0,3,3,1,1970
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,35.0,4,4,1,1970
+McLaren-Ford,mclaren-ford,British,https://en.wikipedia.org/wiki/McLaren,35.0,5,5,0,1970
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,23.0,6,6,1,1970
+Matra,matra,French,https://en.wikipedia.org/wiki/Matra,23.0,7,7,0,1970
+Surtees,surtees,British,https://en.wikipedia.org/wiki/Surtees,3.0,8,8,0,1970
+McLaren-Alfa Romeo,mclaren-alfa_romeo,British,https://en.wikipedia.org/wiki/McLaren,0.0,,-,0,1970
+De Tomaso,tomaso,Italian,https://en.wikipedia.org/wiki/De_Tomaso,0.0,,-,0,1970
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,0.0,,-,0,1970
+Bellasi,bellasi,Swiss,https://en.wikipedia.org/wiki/Bellasi,0.0,,-,0,1970

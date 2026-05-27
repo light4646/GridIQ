@@ -1,0 +1,149 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,position,q1,q2,q3,round,year
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,6,1996-melbourne,Australian Grand Prix,1,1:32.371,,,1,1996
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1996-melbourne,Australian Grand Prix,2,1:32.509,,,1,1996
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,2,1996-melbourne,Australian Grand Prix,3,1:32.889,,,1,1996
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1996-melbourne,Australian Grand Prix,4,1:33.125,,,1,1996
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1996-melbourne,Australian Grand Prix,5,1:34.054,,,1,1996
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,3,1996-melbourne,Australian Grand Prix,6,1:34.257,,,1,1996
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,4,1996-melbourne,Australian Grand Prix,7,1:34.344,,,1,1996
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,11,1996-melbourne,Australian Grand Prix,8,1:34.474,,,1,1996
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,15,1996-melbourne,Australian Grand Prix,9,1:34.494,,,1,1996
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1996-melbourne,Australian Grand Prix,10,1:34.832,,,1,1996
+Ligier,ligier,French,,panis,Olivier Panis,French,9,1996-melbourne,Australian Grand Prix,11,1:35.330,,,1,1996
+Footwork,footwork,British,,verstappen,Jos Verstappen,Dutch,17,1996-melbourne,Australian Grand Prix,12,1:35.338,,,1,1996
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,8,1996-melbourne,Australian Grand Prix,13,1:35.351,,,1,1996
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,14,1996-melbourne,Australian Grand Prix,14,1:35.453,,,1,1996
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,18,1996-melbourne,Australian Grand Prix,15,1:35.715,,,1,1996
+Minardi,minardi,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,21,1996-melbourne,Australian Grand Prix,16,1:35.898,,,1,1996
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,20,1996-melbourne,Australian Grand Prix,17,1:36.109,,,1,1996
+Footwork,footwork,British,,rosset,Ricardo Rosset,Brazilian,16,1996-melbourne,Australian Grand Prix,18,1:36.198,,,1,1996
+Jordan,jordan,Irish,,brundle,Martin Brundle,British,12,1996-melbourne,Australian Grand Prix,19,1:36.286,,,1,1996
+Ligier,ligier,French,,diniz,Pedro Diniz,Brazilian,10,1996-melbourne,Australian Grand Prix,20,1:36.298,,,1,1996
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1996-s-o-paulo,Brazilian Grand Prix,1,1:18.111,,,2,1996
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,11,1996-s-o-paulo,Brazilian Grand Prix,2,1:19.092,,,2,1996
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,6,1996-s-o-paulo,Brazilian Grand Prix,3,1:19.254,,,2,1996
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1996-s-o-paulo,Brazilian Grand Prix,4,1:19.474,,,2,1996
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,3,1996-s-o-paulo,Brazilian Grand Prix,5,1:19.484,,,2,1996
+Jordan,jordan,Irish,,brundle,Martin Brundle,British,12,1996-s-o-paulo,Brazilian Grand Prix,6,1:19.519,,,2,1996
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1996-s-o-paulo,Brazilian Grand Prix,7,1:19.607,,,2,1996
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,4,1996-s-o-paulo,Brazilian Grand Prix,8,1:19.762,,,2,1996
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,15,1996-s-o-paulo,Brazilian Grand Prix,9,1:19.799,,,2,1996
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,2,1996-s-o-paulo,Brazilian Grand Prix,10,1:19.951,,,2,1996
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1996-s-o-paulo,Brazilian Grand Prix,11,1:20.000,,,2,1996
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,14,1996-s-o-paulo,Brazilian Grand Prix,12,1:20.144,,,2,1996
+Footwork,footwork,British,,verstappen,Jos Verstappen,Dutch,17,1996-s-o-paulo,Brazilian Grand Prix,13,1:20.157,,,2,1996
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,8,1996-s-o-paulo,Brazilian Grand Prix,14,1:20.167,,,2,1996
+Ligier,ligier,French,,panis,Olivier Panis,French,9,1996-s-o-paulo,Brazilian Grand Prix,15,1:20.426,,,2,1996
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,18,1996-s-o-paulo,Brazilian Grand Prix,16,1:20.427,,,2,1996
+Footwork,footwork,British,,rosset,Ricardo Rosset,Brazilian,16,1996-s-o-paulo,Brazilian Grand Prix,17,1:20.440,,,2,1996
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,20,1996-s-o-paulo,Brazilian Grand Prix,18,1:21.491,,,2,1996
+Forti,forti,Italian,BAD,badoer,Luca Badoer,Italian,22,1996-s-o-paulo,Brazilian Grand Prix,19,1:23.174,,,2,1996
+Forti,forti,Italian,,montermini,Andrea Montermini,Italian,23,1996-s-o-paulo,Brazilian Grand Prix,20,1:23.454,,,2,1996
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1996-s-o-paulo,Brazilian Grand Prix,21,,,,2,1996
+Ligier,ligier,French,,diniz,Pedro Diniz,Brazilian,10,1996-s-o-paulo,Brazilian Grand Prix,22,,,,2,1996
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1996-buenos-aires,Argentine Grand Prix,1,1:30.346,,,3,1996
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1996-buenos-aires,Argentine Grand Prix,2,1:30.598,,,3,1996
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,6,1996-buenos-aires,Argentine Grand Prix,3,1:30.907,,,3,1996
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,3,1996-buenos-aires,Argentine Grand Prix,4,1:31.038,,,3,1996
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,4,1996-buenos-aires,Argentine Grand Prix,5,1:31.262,,,3,1996
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,11,1996-buenos-aires,Argentine Grand Prix,6,1:31.404,,,3,1996
+Footwork,footwork,British,,verstappen,Jos Verstappen,Dutch,17,1996-buenos-aires,Argentine Grand Prix,7,1:31.615,,,3,1996
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1996-buenos-aires,Argentine Grand Prix,8,1:31.801,,,3,1996
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,8,1996-buenos-aires,Argentine Grand Prix,9,1:32.001,,,3,1996
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,2,1996-buenos-aires,Argentine Grand Prix,10,1:32.058,,,3,1996
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,15,1996-buenos-aires,Argentine Grand Prix,11,1:32.130,,,3,1996
+Ligier,ligier,French,,panis,Olivier Panis,French,9,1996-buenos-aires,Argentine Grand Prix,12,1:32.177,,,3,1996
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,18,1996-buenos-aires,Argentine Grand Prix,13,1:32.407,,,3,1996
+Minardi,minardi,Italian,,marques,Tarso Marques,Brazilian,21,1996-buenos-aires,Argentine Grand Prix,14,1:32.502,,,3,1996
+Jordan,jordan,Irish,,brundle,Martin Brundle,British,12,1996-buenos-aires,Argentine Grand Prix,15,1:32.696,,,3,1996
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1996-buenos-aires,Argentine Grand Prix,16,1:32.903,,,3,1996
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,14,1996-buenos-aires,Argentine Grand Prix,17,1:33.256,,,3,1996
+Ligier,ligier,French,,diniz,Pedro Diniz,Brazilian,10,1996-buenos-aires,Argentine Grand Prix,18,1:33.424,,,3,1996
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,20,1996-buenos-aires,Argentine Grand Prix,19,1:33.727,,,3,1996
+Footwork,footwork,British,,rosset,Ricardo Rosset,Brazilian,16,1996-buenos-aires,Argentine Grand Prix,20,1:33.752,,,3,1996
+Forti,forti,Italian,BAD,badoer,Luca Badoer,Italian,22,1996-buenos-aires,Argentine Grand Prix,21,1:34.830,,,3,1996
+Forti,forti,Italian,,montermini,Andrea Montermini,Italian,23,1996-buenos-aires,Argentine Grand Prix,22,1:35.651,,,3,1996
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1996-n-rburg,European Grand Prix,1,1:18.941,,,4,1996
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,6,1996-n-rburg,European Grand Prix,2,1:19.721,,,4,1996
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1996-n-rburg,European Grand Prix,3,1:20.149,,,4,1996
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,3,1996-n-rburg,European Grand Prix,4,1:20.711,,,4,1996
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,11,1996-n-rburg,European Grand Prix,5,1:20.818,,,4,1996
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,8,1996-n-rburg,European Grand Prix,6,1:20.888,,,4,1996
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,2,1996-n-rburg,European Grand Prix,7,1:20.931,,,4,1996
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,4,1996-n-rburg,European Grand Prix,8,1:21.054,,,4,1996
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1996-n-rburg,European Grand Prix,9,1:21.078,,,4,1996
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,15,1996-n-rburg,European Grand Prix,10,1:21.113,,,4,1996
+Jordan,jordan,Irish,,brundle,Martin Brundle,British,12,1996-n-rburg,European Grand Prix,11,1:21.177,,,4,1996
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,14,1996-n-rburg,European Grand Prix,12,1:21.210,,,4,1996
+Footwork,footwork,British,,verstappen,Jos Verstappen,Dutch,17,1996-n-rburg,European Grand Prix,13,1:21.367,,,4,1996
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1996-n-rburg,European Grand Prix,14,1:21.458,,,4,1996
+Ligier,ligier,French,,panis,Olivier Panis,French,9,1996-n-rburg,European Grand Prix,15,1:21.509,,,4,1996
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,18,1996-n-rburg,European Grand Prix,16,1:21.812,,,4,1996
+Ligier,ligier,French,,diniz,Pedro Diniz,Brazilian,10,1996-n-rburg,European Grand Prix,17,1:22.733,,,4,1996
+Minardi,minardi,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,21,1996-n-rburg,European Grand Prix,18,1:22.921,,,4,1996
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,20,1996-n-rburg,European Grand Prix,19,1:23.139,,,4,1996
+Footwork,footwork,British,,rosset,Ricardo Rosset,Brazilian,16,1996-n-rburg,European Grand Prix,20,1:23.620,,,4,1996
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1996-imola,San Marino Grand Prix,1,1:26.890,,,5,1996
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1996-imola,San Marino Grand Prix,2,1:27.105,,,5,1996
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,6,1996-imola,San Marino Grand Prix,3,1:27.220,,,5,1996
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,8,1996-imola,San Marino Grand Prix,4,1:27.688,,,5,1996
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,3,1996-imola,San Marino Grand Prix,5,1:28.009,,,5,1996
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,2,1996-imola,San Marino Grand Prix,6,1:28.205,,,5,1996
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,4,1996-imola,San Marino Grand Prix,7,1:28.336,,,5,1996
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1996-imola,San Marino Grand Prix,8,1:28.423,,,5,1996
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,11,1996-imola,San Marino Grand Prix,9,1:28.632,,,5,1996
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,15,1996-imola,San Marino Grand Prix,10,1:28.785,,,5,1996
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1996-imola,San Marino Grand Prix,11,1:29.079,,,5,1996
+Jordan,jordan,Irish,,brundle,Martin Brundle,British,12,1996-imola,San Marino Grand Prix,12,1:29.099,,,5,1996
+Ligier,ligier,French,,panis,Olivier Panis,French,9,1996-imola,San Marino Grand Prix,13,1:29.472,,,5,1996
+Footwork,footwork,British,,verstappen,Jos Verstappen,Dutch,17,1996-imola,San Marino Grand Prix,14,1:29.539,,,5,1996
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,14,1996-imola,San Marino Grand Prix,15,1:29.541,,,5,1996
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,18,1996-imola,San Marino Grand Prix,16,1:29.892,,,5,1996
+Ligier,ligier,French,,diniz,Pedro Diniz,Brazilian,10,1996-imola,San Marino Grand Prix,17,1:29.989,,,5,1996
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,20,1996-imola,San Marino Grand Prix,18,1:30.471,,,5,1996
+Minardi,minardi,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,21,1996-imola,San Marino Grand Prix,19,1:30.814,,,5,1996
+Footwork,footwork,British,,rosset,Ricardo Rosset,Brazilian,16,1996-imola,San Marino Grand Prix,20,1:31.316,,,5,1996
+Forti,forti,Italian,BAD,badoer,Luca Badoer,Italian,22,1996-imola,San Marino Grand Prix,21,1:32.037,,,5,1996
+Forti,forti,Italian,,montermini,Andrea Montermini,Italian,23,1996-imola,San Marino Grand Prix,22,,,,5,1996
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1996-monte-carlo,Monaco Grand Prix,1,1:20.356,,,6,1996
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1996-monte-carlo,Monaco Grand Prix,2,1:20.866,,,6,1996
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,3,1996-monte-carlo,Monaco Grand Prix,3,1:20.918,,,6,1996
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,4,1996-monte-carlo,Monaco Grand Prix,4,1:21.067,,,6,1996
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,8,1996-monte-carlo,Monaco Grand Prix,5,1:21.460,,,6,1996
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,11,1996-monte-carlo,Monaco Grand Prix,6,1:21.504,,,6,1996
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,2,1996-monte-carlo,Monaco Grand Prix,7,1:21.542,,,6,1996
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1996-monte-carlo,Monaco Grand Prix,8,1:21.688,,,6,1996
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,15,1996-monte-carlo,Monaco Grand Prix,9,1:21.929,,,6,1996
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,6,1996-monte-carlo,Monaco Grand Prix,10,1:21.963,,,6,1996
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1996-monte-carlo,Monaco Grand Prix,11,1:22.235,,,6,1996
+Footwork,footwork,British,,verstappen,Jos Verstappen,Dutch,17,1996-monte-carlo,Monaco Grand Prix,12,1:22.327,,,6,1996
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,14,1996-monte-carlo,Monaco Grand Prix,13,1:22.346,,,6,1996
+Ligier,ligier,French,,panis,Olivier Panis,French,9,1996-monte-carlo,Monaco Grand Prix,14,1:22.358,,,6,1996
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,18,1996-monte-carlo,Monaco Grand Prix,15,1:22.460,,,6,1996
+Jordan,jordan,Irish,,brundle,Martin Brundle,British,12,1996-monte-carlo,Monaco Grand Prix,16,1:22.519,,,6,1996
+Ligier,ligier,French,,diniz,Pedro Diniz,Brazilian,10,1996-monte-carlo,Monaco Grand Prix,17,1:22.682,,,6,1996
+Minardi,minardi,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,21,1996-monte-carlo,Monaco Grand Prix,18,1:22.684,,,6,1996
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,20,1996-monte-carlo,Monaco Grand Prix,19,1:23.350,,,6,1996
+Footwork,footwork,British,,rosset,Ricardo Rosset,Brazilian,16,1996-monte-carlo,Monaco Grand Prix,20,1:24.976,,,6,1996
+Forti,forti,Italian,BAD,badoer,Luca Badoer,Italian,22,1996-monte-carlo,Monaco Grand Prix,21,1:25.059,,,6,1996
+Forti,forti,Italian,,montermini,Andrea Montermini,Italian,23,1996-monte-carlo,Monaco Grand Prix,22,1:25.393,,,6,1996
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1996-barcelona,Spanish Grand Prix,1,1:20.650,,,7,1996
+Williams,williams,British,VIL,villeneuve,Jacques Villeneuve,Canadian,6,1996-barcelona,Spanish Grand Prix,2,1:21.084,,,7,1996
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1996-barcelona,Spanish Grand Prix,3,1:21.587,,,7,1996
+Benetton,benetton,Italian,,alesi,Jean Alesi,French,3,1996-barcelona,Spanish Grand Prix,4,1:22.061,,,7,1996
+Benetton,benetton,Italian,,berger,Gerhard Berger,Austrian,4,1996-barcelona,Spanish Grand Prix,5,1:22.125,,,7,1996
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,2,1996-barcelona,Spanish Grand Prix,6,1:22.333,,,7,1996
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,11,1996-barcelona,Spanish Grand Prix,7,1:22.379,,,7,1996
+Ligier,ligier,French,,panis,Olivier Panis,French,9,1996-barcelona,Spanish Grand Prix,8,1:22.685,,,7,1996
+Sauber,sauber,Swiss,,herbert,Johnny Herbert,British,14,1996-barcelona,Spanish Grand Prix,9,1:23.027,,,7,1996
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,7,1996-barcelona,Spanish Grand Prix,10,1:23.070,,,7,1996
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,15,1996-barcelona,Spanish Grand Prix,11,1:23.195,,,7,1996
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,19,1996-barcelona,Spanish Grand Prix,12,1:23.224,,,7,1996
+Footwork,footwork,British,,verstappen,Jos Verstappen,Dutch,17,1996-barcelona,Spanish Grand Prix,13,1:23.371,,,7,1996
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,8,1996-barcelona,Spanish Grand Prix,14,1:23.416,,,7,1996
+Jordan,jordan,Irish,,brundle,Martin Brundle,British,12,1996-barcelona,Spanish Grand Prix,15,1:23.438,,,7,1996
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,18,1996-barcelona,Spanish Grand Prix,16,1:24.401,,,7,1996
+Ligier,ligier,French,,diniz,Pedro Diniz,Brazilian,10,1996-barcelona,Spanish Grand Prix,17,1:24.468,,,7,1996
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,20,1996-barcelona,Spanish Grand Prix,18,1:25.274,,,7,1996
+Minardi,minardi,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,21,1996-barcelona,Spanish Grand Prix,19,1:25.531,,,7,1996
+Footwork,footwork,British,,rosset,Ricardo Rosset,Brazilian,16,1996-barcelona,Spanish Grand Prix,20,1:25.621,,,7,1996

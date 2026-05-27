@@ -1,0 +1,40 @@
+{
+  "year": 1997,
+  "generated_at": "2026-05-27T06:14:26.791672+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 17,
+  "race_results": 374,
+  "qualifying_results": 220,
+  "drivers": 26,
+  "constructors": 11,
+  "driver_champion": {
+    "year": 1997,
+    "position": 1,
+    "position_text": "1",
+    "points": 81.0,
+    "wins": 7,
+    "driver_id": "villeneuve",
+    "driver_code": "VIL",
+    "driver_number": null,
+    "driver_name": "Jacques Villeneuve",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "Williams"
+    ],
+    "constructor_ids": [
+      "williams"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1997,
+    "position": 1,
+    "position_text": "1",
+    "points": 123.0,
+    "wins": 8,
+    "constructor_id": "williams",
+    "constructor": "Williams",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Williams_Racing"
+  }
+}

@@ -1,0 +1,18 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,42.0,1,1,4,1962
+Lotus-Climax,lotus-climax,British,https://en.wikipedia.org/wiki/Team_Lotus,36.0,2,2,3,1962
+Cooper-Climax,cooper-climax,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,29.0,3,3,1,1962
+Lola,lola,British,https://en.wikipedia.org/wiki/MasterCard_Lola,19.0,4,4,0,1962
+Porsche,porsche,German,https://en.wikipedia.org/wiki/Porsche_in_motorsport,18.0,5,5,1,1962
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,18.0,6,6,0,1962
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,6.0,7,7,0,1962
+Lotus-BRM,lotus-brm,British,https://en.wikipedia.org/wiki/Team_Lotus,1.0,8,8,0,1962
+Emeryson,emeryson,British,https://en.wikipedia.org/wiki/Emeryson,0.0,,-,0,1962
+ENB,enb,Belgian,https://en.wikipedia.org/wiki/Écurie_Nationale_Belge,0.0,,-,0,1962
+Cooper,cooper,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1962
+LDS,lds,South African,https://en.wikipedia.org/wiki/LDS_(automobile),0.0,,-,0,1962
+Cooper-Alfa Romeo,cooper-alfa_romeo,British,https://en.wikipedia.org/wiki/Cooper_Car_Company,0.0,,-,0,1962
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,0.0,,-,0,1962
+Gilby,gilby,British,https://en.wikipedia.org/wiki/Gilby,0.0,,-,0,1962
+De Tomaso-Alfa Romeo,de_tomaso-alfa_romeo,Italian,https://en.wikipedia.org/wiki/De_Tomaso,0.0,,-,0,1962
+Lotus-Borgward,lotus-borgward,British,https://en.wikipedia.org/wiki/Team_Lotus,0.0,,-,0,1962

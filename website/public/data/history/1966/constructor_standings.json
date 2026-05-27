@@ -1,0 +1,167 @@
+[
+  {
+    "year": 1966,
+    "position": 1,
+    "position_text": "1",
+    "points": 42.0,
+    "wins": 4,
+    "constructor_id": "brabham-repco",
+    "constructor": "Brabham-Repco",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1966,
+    "position": 2,
+    "position_text": "2",
+    "points": 31.0,
+    "wins": 2,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1966,
+    "position": 3,
+    "position_text": "3",
+    "points": 30.0,
+    "wins": 1,
+    "constructor_id": "cooper-maserati",
+    "constructor": "Cooper-Maserati",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1966,
+    "position": 4,
+    "position_text": "4",
+    "points": 22.0,
+    "wins": 1,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1966,
+    "position": 5,
+    "position_text": "5",
+    "points": 13.0,
+    "wins": 1,
+    "constructor_id": "lotus-brm",
+    "constructor": "Lotus-BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1966,
+    "position": 6,
+    "position_text": "6",
+    "points": 8.0,
+    "wins": 0,
+    "constructor_id": "lotus-climax",
+    "constructor": "Lotus-Climax",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1966,
+    "position": 7,
+    "position_text": "7",
+    "points": 4.0,
+    "wins": 0,
+    "constructor_id": "eagle-climax",
+    "constructor": "Eagle-Climax",
+    "constructor_nationality": "American",
+    "constructor_url": "https://en.wikipedia.org/wiki/All_American_Racers"
+  },
+  {
+    "year": 1966,
+    "position": 8,
+    "position_text": "8",
+    "points": 3.0,
+    "wins": 0,
+    "constructor_id": "honda",
+    "constructor": "Honda",
+    "constructor_nationality": "Japanese",
+    "constructor_url": "https://en.wikipedia.org/wiki/Honda_in_Formula_One"
+  },
+  {
+    "year": 1966,
+    "position": 9,
+    "position_text": "9",
+    "points": 2.0,
+    "wins": 0,
+    "constructor_id": "mclaren-ford",
+    "constructor": "McLaren-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1966,
+    "position": 10,
+    "position_text": "10",
+    "points": 1.0,
+    "wins": 0,
+    "constructor_id": "brabham-climax",
+    "constructor": "Brabham-Climax",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1966,
+    "position": 11,
+    "position_text": "11",
+    "points": 1.0,
+    "wins": 0,
+    "constructor_id": "brabham-brm",
+    "constructor": "Brabham-BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1966,
+    "position": 12,
+    "position_text": "12",
+    "points": 1.0,
+    "wins": 0,
+    "constructor_id": "mclaren-seren",
+    "constructor": "McLaren-Serenissima",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1966,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "cooper-ferrari",
+    "constructor": "Cooper-Ferrari",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1966,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "eagle-weslake",
+    "constructor": "Eagle-Weslake",
+    "constructor_nationality": "American",
+    "constructor_url": "https://en.wikipedia.org/wiki/All_American_Racers"
+  },
+  {
+    "year": 1966,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "shannon",
+    "constructor": "Shannon",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Shannon_Racing_Cars"
+  }
+]

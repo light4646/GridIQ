@@ -1,0 +1,419 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-s-o-paulo,Brazilian Grand Prix,,,,,,2,71,5914154,10.0,1,1,1,Finished,1:38:34.154,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-s-o-paulo,Brazilian Grand Prix,,,,,,3,71,5925214,6.0,2,2,1,Finished,+11.060,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-s-o-paulo,Brazilian Grand Prix,,,,,,5,70,,4.0,3,3,1,+1 Lap,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-s-o-paulo,Brazilian Grand Prix,,,,,,7,70,,3.0,4,4,1,+1 Lap,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-s-o-paulo,Brazilian Grand Prix,,,,,,6,70,,2.0,5,5,1,+1 Lap,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-s-o-paulo,Brazilian Grand Prix,,,,,,9,70,,1.0,6,6,1,+1 Lap,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-s-o-paulo,Brazilian Grand Prix,,,,,,12,69,,0.0,7,7,1,+2 Laps,,1995
+Ligier,ligier,French,,suzuki,Aguri Suzuki,Japanese,25,1995-s-o-paulo,Brazilian Grand Prix,,,,,,15,69,,0.0,8,8,1,+2 Laps,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-s-o-paulo,Brazilian Grand Prix,,,,,,22,65,,0.0,9,9,1,+6 Laps,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-s-o-paulo,Brazilian Grand Prix,,,,,,25,64,,0.0,10,10,1,+7 Laps,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-s-o-paulo,Brazilian Grand Prix,,,,,,13,62,,0.0,11,R,1,Engine,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-s-o-paulo,Brazilian Grand Prix,,,,,,21,48,,0.0,12,R,1,Engine,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-s-o-paulo,Brazilian Grand Prix,,,,,,18,47,,0.0,13,R,1,Engine,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-s-o-paulo,Brazilian Grand Prix,,,,,,23,47,,0.0,14,R,1,Spun off,,1995
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1995-s-o-paulo,Brazilian Grand Prix,,,,,,19,41,,0.0,15,R,1,Electrical,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-s-o-paulo,Brazilian Grand Prix,,,,,,1,30,,0.0,16,R,1,Gearbox,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-s-o-paulo,Brazilian Grand Prix,,,,,,4,30,,0.0,17,R,1,Collision,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-s-o-paulo,Brazilian Grand Prix,,,,,,20,23,,0.0,18,R,1,Gearbox,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-s-o-paulo,Brazilian Grand Prix,,,,,,16,16,,0.0,19,R,1,Gearbox,,1995
+Simtek,simtek,British,,verstappen,Jos Verstappen,Dutch,12,1995-s-o-paulo,Brazilian Grand Prix,,,,,,24,16,,0.0,20,R,1,Gearbox,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-s-o-paulo,Brazilian Grand Prix,,,,,,11,15,,0.0,21,R,1,Spun off,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-s-o-paulo,Brazilian Grand Prix,,,,,,8,15,,0.0,22,R,1,Clutch,,1995
+Simtek,simtek,British,,schiattarella,Domenico Schiattarella,Italian,11,1995-s-o-paulo,Brazilian Grand Prix,,,,,,26,12,,0.0,23,R,1,Steering,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-s-o-paulo,Brazilian Grand Prix,,,,,,14,10,,0.0,24,R,1,Electrical,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-s-o-paulo,Brazilian Grand Prix,,,,,,10,0,,0.0,25,R,1,Collision,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-s-o-paulo,Brazilian Grand Prix,,,,,,17,0,,0.0,26,R,1,Gearbox,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-buenos-aires,Argentine Grand Prix,,,,,,2,72,6794532,10.0,1,1,2,Finished,1:53:14.532,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-buenos-aires,Argentine Grand Prix,,,,,,6,72,6800939,6.0,2,2,2,Finished,+6.407,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-buenos-aires,Argentine Grand Prix,,,,,,3,72,6827908,4.0,3,3,2,Finished,+33.376,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-buenos-aires,Argentine Grand Prix,,,,,,11,71,,3.0,4,4,2,+1 Lap,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-buenos-aires,Argentine Grand Prix,,,,,,9,70,,2.0,5,5,2,+2 Laps,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-buenos-aires,Argentine Grand Prix,,,,,,8,70,,1.0,6,6,2,+2 Laps,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-buenos-aires,Argentine Grand Prix,,,,,,18,70,,0.0,7,7,2,+2 Laps,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-buenos-aires,Argentine Grand Prix,,,,,,15,69,,0.0,8,8,2,+3 Laps,,1995
+Simtek,simtek,British,,schiattarella,Domenico Schiattarella,Italian,11,1995-buenos-aires,Argentine Grand Prix,,,,,,20,68,,0.0,9,9,2,+4 Laps,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-buenos-aires,Argentine Grand Prix,,,,,,25,63,,0.0,10,R,2,Not classified,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-buenos-aires,Argentine Grand Prix,,,,,,24,63,,0.0,11,R,2,Not classified,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-buenos-aires,Argentine Grand Prix,,,,,,7,48,,0.0,12,R,2,Collision,,1995
+Ligier,ligier,French,,suzuki,Aguri Suzuki,Japanese,25,1995-buenos-aires,Argentine Grand Prix,,,,,,19,47,,0.0,13,R,2,Collision,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-buenos-aires,Argentine Grand Prix,,,,,,16,44,,0.0,14,R,2,Spun off,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-buenos-aires,Argentine Grand Prix,,,,,,12,43,,0.0,15,R,2,Electrical,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-buenos-aires,Argentine Grand Prix,,,,,,26,40,,0.0,16,R,2,Spun off,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-buenos-aires,Argentine Grand Prix,,,,,,10,33,,0.0,17,R,2,Oil pressure,,1995
+Simtek,simtek,British,,verstappen,Jos Verstappen,Dutch,12,1995-buenos-aires,Argentine Grand Prix,,,,,,14,23,,0.0,18,R,2,Gearbox,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-buenos-aires,Argentine Grand Prix,,,,,,1,16,,0.0,19,R,2,Electrical,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-buenos-aires,Argentine Grand Prix,,,,,,17,9,,0.0,20,R,2,Oil leak,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-buenos-aires,Argentine Grand Prix,,,,,,4,6,,0.0,21,R,2,Engine,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-buenos-aires,Argentine Grand Prix,,,,,,22,1,,0.0,22,R,2,Collision,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-buenos-aires,Argentine Grand Prix,,,,,,5,0,,0.0,23,R,2,Collision,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-buenos-aires,Argentine Grand Prix,,,,,,23,0,,0.0,24,R,2,Collision,,1995
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1995-buenos-aires,Argentine Grand Prix,,,,,,21,0,,0.0,25,R,2,Collision,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-buenos-aires,Argentine Grand Prix,,,,,,13,0,,0.0,26,R,2,Collision,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-imola,San Marino Grand Prix,,,,,,4,63,6102522,10.0,1,1,3,Finished,1:41:42.522,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-imola,San Marino Grand Prix,,,,,,5,63,6121032,6.0,2,2,3,Finished,+18.510,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-imola,San Marino Grand Prix,,,,,,2,63,6145638,4.0,3,3,3,Finished,+43.116,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-imola,San Marino Grand Prix,,,,,,3,63,6154412,3.0,4,4,3,Finished,+51.890,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-imola,San Marino Grand Prix,,,,,,6,62,,2.0,5,5,3,+1 Lap,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-imola,San Marino Grand Prix,,,,,,14,62,,1.0,6,6,3,+1 Lap,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-imola,San Marino Grand Prix,,,,,,8,61,,0.0,7,7,3,+2 Laps,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-imola,San Marino Grand Prix,,,,,,7,61,,0.0,8,8,3,+2 Laps,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-imola,San Marino Grand Prix,,,,,,12,61,,0.0,9,9,3,+2 Laps,,1995
+McLaren,mclaren,British,,mansell,Nigel Mansell,British,7,1995-imola,San Marino Grand Prix,,,,,,9,61,,0.0,10,10,3,+2 Laps,,1995
+Ligier,ligier,French,,suzuki,Aguri Suzuki,Japanese,25,1995-imola,San Marino Grand Prix,,,,,,16,60,,0.0,11,11,3,+3 Laps,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-imola,San Marino Grand Prix,,,,,,18,59,,0.0,12,12,3,+4 Laps,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-imola,San Marino Grand Prix,,,,,,11,59,,0.0,13,13,3,+4 Laps,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-imola,San Marino Grand Prix,,,,,,20,59,,0.0,14,14,3,+4 Laps,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-imola,San Marino Grand Prix,,,,,,26,56,,0.0,15,R,3,Not classified,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-imola,San Marino Grand Prix,,,,,,25,56,,0.0,16,R,3,Not classified,,1995
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1995-imola,San Marino Grand Prix,,,,,,21,43,,0.0,17,R,3,Wheel,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-imola,San Marino Grand Prix,,,,,,22,36,,0.0,18,R,3,Gearbox,,1995
+Simtek,simtek,British,,schiattarella,Domenico Schiattarella,Italian,11,1995-imola,San Marino Grand Prix,,,,,,23,35,,0.0,19,R,3,Suspension,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-imola,San Marino Grand Prix,,,,,,10,31,,0.0,20,R,3,Transmission,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-imola,San Marino Grand Prix,,,,,,15,23,,0.0,21,R,3,Spun off,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-imola,San Marino Grand Prix,,,,,,13,19,,0.0,22,R,3,Engine,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-imola,San Marino Grand Prix,,,,,,24,15,,0.0,23,R,3,Gearbox,,1995
+Simtek,simtek,British,,verstappen,Jos Verstappen,Dutch,12,1995-imola,San Marino Grand Prix,,,,,,17,14,,0.0,24,R,3,Gearbox,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-imola,San Marino Grand Prix,,,,,,19,12,,0.0,25,R,3,Spun off,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-imola,San Marino Grand Prix,,,,,,1,10,,0.0,26,R,3,Spun off,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-barcelona,Spanish Grand Prix,,,,,,1,65,5660507,10.0,1,1,4,Finished,1:34:20.507,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-barcelona,Spanish Grand Prix,,,,,,7,65,5712495,6.0,2,2,4,Finished,+51.988,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-barcelona,Spanish Grand Prix,,,,,,3,65,5725744,4.0,3,3,4,Finished,+1:05.237,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-barcelona,Spanish Grand Prix,,,,,,5,65,5782256,3.0,4,4,4,Finished,+2:01.749,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-barcelona,Spanish Grand Prix,,,,,,6,64,,2.0,5,5,4,+1 Lap,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-barcelona,Spanish Grand Prix,,,,,,15,64,,1.0,6,6,4,+1 Lap,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-barcelona,Spanish Grand Prix,,,,,,8,64,,0.0,7,7,4,+1 Lap,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-barcelona,Spanish Grand Prix,,,,,,12,64,,0.0,8,8,4,+1 Lap,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-barcelona,Spanish Grand Prix,,,,,,11,64,,0.0,9,9,4,+1 Lap,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-barcelona,Spanish Grand Prix,,,,,,13,64,,0.0,10,10,4,+1 Lap,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-barcelona,Spanish Grand Prix,,,,,,14,63,,0.0,11,11,4,+2 Laps,,1995
+Simtek,simtek,British,,verstappen,Jos Verstappen,Dutch,12,1995-barcelona,Spanish Grand Prix,,,,,,16,63,,0.0,12,12,4,+2 Laps,,1995
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1995-barcelona,Spanish Grand Prix,,,,,,20,63,,0.0,13,13,4,+2 Laps,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-barcelona,Spanish Grand Prix,,,,,,19,62,,0.0,14,14,4,+3 Laps,,1995
+Simtek,simtek,British,,schiattarella,Domenico Schiattarella,Italian,11,1995-barcelona,Spanish Grand Prix,,,,,,22,61,,0.0,15,15,4,+4 Laps,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-barcelona,Spanish Grand Prix,,,,,,17,56,,0.0,16,R,4,Engine,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-barcelona,Spanish Grand Prix,,,,,,4,54,,0.0,17,R,4,Gearbox,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-barcelona,Spanish Grand Prix,,,,,,9,53,,0.0,18,R,4,Fuel system,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-barcelona,Spanish Grand Prix,,,,,,18,43,,0.0,19,R,4,Transmission,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-barcelona,Spanish Grand Prix,,,,,,24,43,,0.0,20,R,4,Heat shield fire,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-barcelona,Spanish Grand Prix,,,,,,25,39,,0.0,21,R,4,Overheating,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-barcelona,Spanish Grand Prix,,,,,,2,25,,0.0,22,R,4,Engine,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-barcelona,Spanish Grand Prix,,,,,,21,21,,0.0,23,R,4,Gearbox,,1995
+McLaren,mclaren,British,,mansell,Nigel Mansell,British,7,1995-barcelona,Spanish Grand Prix,,,,,,10,18,,0.0,24,R,4,Handling,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-barcelona,Spanish Grand Prix,,,,,,26,17,,0.0,25,R,4,Gearbox,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-barcelona,Spanish Grand Prix,,,,,,23,0,,0.0,26,W,4,Withdrew,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-monte-carlo,Monaco Grand Prix,,,,,,2,78,6791258,10.0,1,1,5,Finished,1:53:11.258,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-monte-carlo,Monaco Grand Prix,,,,,,1,78,6826075,6.0,2,2,5,Finished,+34.817,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-monte-carlo,Monaco Grand Prix,,,,,,4,78,6862705,4.0,3,3,5,Finished,+1:11.447,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-monte-carlo,Monaco Grand Prix,,,,,,7,77,,3.0,4,4,5,+1 Lap,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-monte-carlo,Monaco Grand Prix,,,,,,10,77,,2.0,5,5,5,+1 Lap,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-monte-carlo,Monaco Grand Prix,,,,,,14,76,,1.0,6,6,5,+2 Laps,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-monte-carlo,Monaco Grand Prix,,,,,,18,76,,0.0,7,7,5,+2 Laps,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-monte-carlo,Monaco Grand Prix,,,,,,19,74,,0.0,8,8,5,+4 Laps,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-monte-carlo,Monaco Grand Prix,,,,,,13,74,,0.0,9,9,5,+4 Laps,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-monte-carlo,Monaco Grand Prix,,,,,,22,72,,0.0,10,10,5,+6 Laps,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-monte-carlo,Monaco Grand Prix,,,,,,16,68,,0.0,11,R,5,Suspension,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-monte-carlo,Monaco Grand Prix,,,,,,12,65,,0.0,12,R,5,Spun off,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-monte-carlo,Monaco Grand Prix,,,,,,17,63,,0.0,13,R,5,Gearbox,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-monte-carlo,Monaco Grand Prix,,,,,,11,60,,0.0,14,R,5,Throttle,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-monte-carlo,Monaco Grand Prix,,,,,,21,42,,0.0,15,R,5,Gearbox,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-monte-carlo,Monaco Grand Prix,,,,,,5,41,,0.0,16,R,5,Spun off,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-monte-carlo,Monaco Grand Prix,,,,,,8,40,,0.0,17,R,5,Spun off,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-monte-carlo,Monaco Grand Prix,,,,,,26,27,,0.0,18,R,5,Gearbox,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-monte-carlo,Monaco Grand Prix,,,,,,15,26,,0.0,19,R,5,Spun off,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-monte-carlo,Monaco Grand Prix,,,,,,25,23,,0.0,20,D,5,Disqualified,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-monte-carlo,Monaco Grand Prix,,,,,,9,22,,0.0,21,R,5,Spun off,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-monte-carlo,Monaco Grand Prix,,,,,,3,16,,0.0,22,R,5,Gearbox,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-monte-carlo,Monaco Grand Prix,,,,,,24,9,,0.0,23,R,5,Brakes,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-monte-carlo,Monaco Grand Prix,,,,,,6,8,,0.0,24,R,5,Engine,,1995
+Simtek,simtek,British,,verstappen,Jos Verstappen,Dutch,12,1995-monte-carlo,Monaco Grand Prix,,,,,,23,0,,0.0,25,W,5,Gearbox,,1995
+Simtek,simtek,British,,schiattarella,Domenico Schiattarella,Italian,11,1995-monte-carlo,Monaco Grand Prix,,,,,,20,0,,0.0,26,W,5,Withdrew,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-montreal,Canadian Grand Prix,,,,,,5,68,6294171,10.0,1,1,6,Finished,1:44:54.171,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-montreal,Canadian Grand Prix,,,,,,9,68,6325858,6.0,2,2,6,Finished,+31.687,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-montreal,Canadian Grand Prix,,,,,,8,68,6327441,4.0,3,3,6,Finished,+33.270,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-montreal,Canadian Grand Prix,,,,,,11,68,6330677,3.0,4,4,6,Finished,+36.506,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-montreal,Canadian Grand Prix,,,,,,1,68,6331231,2.0,5,5,6,Finished,+37.060,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-montreal,Canadian Grand Prix,,,,,,13,67,,1.0,6,6,6,+1 Lap,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-montreal,Canadian Grand Prix,,,,,,15,67,,0.0,7,7,6,+1 Lap,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-montreal,Canadian Grand Prix,,,,,,19,67,,0.0,8,8,6,+1 Lap,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-montreal,Canadian Grand Prix,,,,,,22,66,,0.0,9,9,6,+2 Laps,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-montreal,Canadian Grand Prix,,,,,,14,61,,0.0,10,10,6,Collision,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-montreal,Canadian Grand Prix,,,,,,4,61,,0.0,11,11,6,Collision,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-montreal,Canadian Grand Prix,,,,,,17,60,,0.0,12,R,6,Throttle,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-montreal,Canadian Grand Prix,,,,,,23,54,,0.0,13,R,6,Fuel system,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-montreal,Canadian Grand Prix,,,,,,2,50,,0.0,14,R,6,Gearbox,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-montreal,Canadian Grand Prix,,,,,,10,47,,0.0,15,R,6,Engine,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-montreal,Canadian Grand Prix,,,,,,16,42,,0.0,16,R,6,Engine,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-montreal,Canadian Grand Prix,,,,,,20,36,,0.0,17,R,6,Battery,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-montreal,Canadian Grand Prix,,,,,,12,26,,0.0,18,R,6,Engine,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-montreal,Canadian Grand Prix,,,,,,24,26,,0.0,19,R,6,Gearbox,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-montreal,Canadian Grand Prix,,,,,,18,19,,0.0,20,R,6,Spun off,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-montreal,Canadian Grand Prix,,,,,,21,5,,0.0,21,R,6,Gearbox,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-montreal,Canadian Grand Prix,,,,,,3,1,,0.0,22,R,6,Spun off,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-montreal,Canadian Grand Prix,,,,,,6,0,,0.0,23,R,6,Collision,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-montreal,Canadian Grand Prix,,,,,,7,0,,0.0,24,R,6,Collision,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-magny-cours,French Grand Prix,,,,,,2,72,5908429,10.0,1,1,7,Finished,1:38:28.429,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-magny-cours,French Grand Prix,,,,,,1,72,5939738,6.0,2,2,7,Finished,+31.309,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-magny-cours,French Grand Prix,,,,,,3,72,5971255,4.0,3,3,7,Finished,+1:02.826,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-magny-cours,French Grand Prix,,,,,,9,72,5971722,3.0,4,4,7,Finished,+1:03.293,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-magny-cours,French Grand Prix,,,,,,4,72,5986298,2.0,5,5,7,Finished,+1:17.869,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-magny-cours,French Grand Prix,,,,,,5,71,,1.0,6,6,7,+1 Lap,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-magny-cours,French Grand Prix,,,,,,8,71,,0.0,7,7,7,+1 Lap,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-magny-cours,French Grand Prix,,,,,,6,71,,0.0,8,8,7,+1 Lap,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-magny-cours,French Grand Prix,,,,,,11,71,,0.0,9,9,7,+1 Lap,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-magny-cours,French Grand Prix,,,,,,12,71,,0.0,10,10,7,+1 Lap,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-magny-cours,French Grand Prix,,,,,,13,70,,0.0,11,11,7,+2 Laps,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-magny-cours,French Grand Prix,,,,,,7,70,,0.0,12,12,7,+2 Laps,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-magny-cours,French Grand Prix,,,,,,17,69,,0.0,13,13,7,+3 Laps,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-magny-cours,French Grand Prix,,,,,,16,69,,0.0,14,14,7,+3 Laps,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-magny-cours,French Grand Prix,,,,,,14,69,,0.0,15,15,7,+3 Laps,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-magny-cours,French Grand Prix,,,,,,24,66,,0.0,16,16,7,+6 Laps,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-magny-cours,French Grand Prix,,,,,,21,62,,0.0,17,R,7,Not classified,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-magny-cours,French Grand Prix,,,,,,15,48,,0.0,18,R,7,Gearbox,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-magny-cours,French Grand Prix,,,,,,22,24,,0.0,19,R,7,Gearbox,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-magny-cours,French Grand Prix,,,,,,20,23,,0.0,20,R,7,Gearbox,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-magny-cours,French Grand Prix,,,,,,10,2,,0.0,21,R,7,Spun off,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-magny-cours,French Grand Prix,,,,,,18,0,,0.0,22,R,7,Collision,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-magny-cours,French Grand Prix,,,,,,19,0,,0.0,23,R,7,Collision,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-magny-cours,French Grand Prix,,,,,,23,0,,0.0,24,R,7,Spun off,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-silverstone,British Grand Prix,,,,,,5,61,5675093,10.0,1,1,8,Finished,1:34:35.093,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-silverstone,British Grand Prix,,,,,,6,61,5691572,6.0,2,2,8,Finished,+16.479,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-silverstone,British Grand Prix,,,,,,3,61,5698981,4.0,3,3,8,Finished,+23.888,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-silverstone,British Grand Prix,,,,,,13,61,5768261,3.0,4,4,8,Finished,+1:33.168,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-silverstone,British Grand Prix,,,,,,10,61,5783265,2.0,5,5,8,Finished,+1:48.172,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-silverstone,British Grand Prix,,,,,,12,60,,1.0,6,6,8,+1 Lap,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-silverstone,British Grand Prix,,,,,,15,60,,0.0,7,7,8,+1 Lap,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-silverstone,British Grand Prix,,,,,,23,60,,0.0,8,8,8,+1 Lap,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-silverstone,British Grand Prix,,,,,,16,60,,0.0,9,9,8,+1 Lap,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-silverstone,British Grand Prix,,,,,,18,60,,0.0,10,10,8,+1 Lap,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-silverstone,British Grand Prix,,,,,,9,59,,0.0,11,11,8,Collision,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-silverstone,British Grand Prix,,,,,,21,58,,0.0,12,12,8,+3 Laps,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-silverstone,British Grand Prix,,,,,,22,48,,0.0,13,R,8,Engine,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-silverstone,British Grand Prix,,,,,,2,45,,0.0,14,R,8,Collision,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-silverstone,British Grand Prix,,,,,,1,45,,0.0,15,R,8,Collision,,1995
+Footwork,footwork,British,,papis,Massimiliano Papis,Italian,9,1995-silverstone,British Grand Prix,,,,,,17,28,,0.0,16,R,8,Spun off,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-silverstone,British Grand Prix,,,,,,14,22,,0.0,17,R,8,Out of fuel,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-silverstone,British Grand Prix,,,,,,24,21,,0.0,18,R,8,Spun off,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-silverstone,British Grand Prix,,,,,,8,20,,0.0,19,R,8,Electrical,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-silverstone,British Grand Prix,,,,,,4,20,,0.0,20,R,8,Wheel,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-silverstone,British Grand Prix,,,,,,11,16,,0.0,21,R,8,Spun off,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-silverstone,British Grand Prix,,,,,,19,16,,0.0,22,R,8,Spun off,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-silverstone,British Grand Prix,,,,,,20,13,,0.0,23,R,8,Gearbox,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-silverstone,British Grand Prix,,,,,,7,2,,0.0,24,R,8,Electrical,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-hockenheim,German Grand Prix,,,,,,2,45,4976043,10.0,1,1,9,Finished,1:22:56.043,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-hockenheim,German Grand Prix,,,,,,3,45,4982031,6.0,2,2,9,Finished,+5.988,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-hockenheim,German Grand Prix,,,,,,4,45,5044140,4.0,3,3,9,Finished,+1:08.097,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-hockenheim,German Grand Prix,,,,,,9,45,5059479,3.0,4,4,9,Finished,+1:23.436,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-hockenheim,German Grand Prix,,,,,,14,44,,2.0,5,5,9,+1 Lap,,1995
+Ligier,ligier,French,,suzuki,Aguri Suzuki,Japanese,25,1995-hockenheim,German Grand Prix,,,,,,18,44,,1.0,6,6,9,+1 Lap,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-hockenheim,German Grand Prix,,,,,,17,44,,0.0,7,7,9,+1 Lap,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-hockenheim,German Grand Prix,,,,,,23,42,,0.0,8,8,9,+3 Laps,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-hockenheim,German Grand Prix,,,,,,6,41,,0.0,9,9,9,+4 Laps,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-hockenheim,German Grand Prix,,,,,,7,33,,0.0,10,R,9,Engine,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-hockenheim,German Grand Prix,,,,,,11,32,,0.0,11,R,9,Engine,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-hockenheim,German Grand Prix,,,,,,16,28,,0.0,12,R,9,Oil leak,,1995
+Pacific,pacific,British,,lavaggi,Giovanni Lavaggi,Italian,16,1995-hockenheim,German Grand Prix,,,,,,24,27,,0.0,13,R,9,Gearbox,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-hockenheim,German Grand Prix,,,,,,22,27,,0.0,14,R,9,Halfshaft,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-hockenheim,German Grand Prix,,,,,,5,20,,0.0,15,R,9,Engine,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-hockenheim,German Grand Prix,,,,,,8,17,,0.0,16,R,9,Engine,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-hockenheim,German Grand Prix,,,,,,12,13,,0.0,17,R,9,Water leak,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-hockenheim,German Grand Prix,,,,,,10,12,,0.0,18,R,9,Engine,,1995
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,23,1995-hockenheim,German Grand Prix,,,,,,20,11,,0.0,19,R,9,Engine,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-hockenheim,German Grand Prix,,,,,,19,9,,0.0,20,R,9,Gearbox,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-hockenheim,German Grand Prix,,,,,,21,8,,0.0,21,R,9,Brakes,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-hockenheim,German Grand Prix,,,,,,1,1,,0.0,22,R,9,Spun off,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-hockenheim,German Grand Prix,,,,,,13,0,,0.0,23,R,9,Clutch,,1995
+Footwork,footwork,British,,papis,Massimiliano Papis,Italian,9,1995-hockenheim,German Grand Prix,,,,,,15,0,,0.0,24,R,9,Gearbox,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-budapest,Hungarian Grand Prix,,,,,,1,77,6385721,10.0,1,1,10,Finished,1:46:25.721,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-budapest,Hungarian Grand Prix,,,,,,2,77,6419119,6.0,2,2,10,Finished,+33.398,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-budapest,Hungarian Grand Prix,,,,,,4,76,,4.0,3,3,10,+1 Lap,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-budapest,Hungarian Grand Prix,,,,,,9,76,,3.0,4,4,10,+1 Lap,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-budapest,Hungarian Grand Prix,,,,,,11,76,,2.0,5,5,10,+1 Lap,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-budapest,Hungarian Grand Prix,,,,,,10,76,,1.0,6,6,10,+1 Lap,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-budapest,Hungarian Grand Prix,,,,,,14,76,,0.0,7,7,10,+1 Lap,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-budapest,Hungarian Grand Prix,,,,,,12,75,,0.0,8,8,10,+2 Laps,,1995
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,23,1995-budapest,Hungarian Grand Prix,,,,,,15,74,,0.0,9,9,10,+3 Laps,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-budapest,Hungarian Grand Prix,,,,,,19,74,,0.0,10,10,10,+3 Laps,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-budapest,Hungarian Grand Prix,,,,,,3,73,,0.0,11,11,10,Engine,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-budapest,Hungarian Grand Prix,,,,,,22,73,,0.0,12,12,10,+4 Laps,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-budapest,Hungarian Grand Prix,,,,,,7,70,,0.0,13,R,10,Clutch,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-budapest,Hungarian Grand Prix,,,,,,8,67,,0.0,14,R,10,Engine,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-budapest,Hungarian Grand Prix,,,,,,16,58,,0.0,15,R,10,Throttle,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-budapest,Hungarian Grand Prix,,,,,,13,54,,0.0,16,R,10,Fuel leak,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-budapest,Hungarian Grand Prix,,,,,,17,46,,0.0,17,R,10,Spun off,,1995
+Footwork,footwork,British,,papis,Massimiliano Papis,Italian,9,1995-budapest,Hungarian Grand Prix,,,,,,20,45,,0.0,18,R,10,Brakes,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-budapest,Hungarian Grand Prix,,,,,,6,42,,0.0,19,R,10,Brakes,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-budapest,Hungarian Grand Prix,,,,,,23,32,,0.0,20,R,10,Engine,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-budapest,Hungarian Grand Prix,,,,,,18,13,,0.0,21,R,10,Engine,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-budapest,Hungarian Grand Prix,,,,,,21,8,,0.0,22,R,10,Gearbox,,1995
+Pacific,pacific,British,,lavaggi,Giovanni Lavaggi,Italian,16,1995-budapest,Hungarian Grand Prix,,,,,,24,5,,0.0,23,R,10,Spun off,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-budapest,Hungarian Grand Prix,,,,,,5,3,,0.0,24,R,10,Engine,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-spa,Belgian Grand Prix,,,,,,16,44,5807875,10.0,1,1,11,Finished,1:36:47.875,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-spa,Belgian Grand Prix,,,,,,8,44,5827368,6.0,2,2,11,Finished,+19.493,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-spa,Belgian Grand Prix,,,,,,13,44,5832873,4.0,3,3,11,Finished,+24.998,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-spa,Belgian Grand Prix,,,,,,10,44,5834847,3.0,4,4,11,Finished,+26.972,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-spa,Belgian Grand Prix,,,,,,6,44,5841647,2.0,5,5,11,Finished,+33.772,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-spa,Belgian Grand Prix,,,,,,12,44,5847549,1.0,6,6,11,Finished,+39.674,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-spa,Belgian Grand Prix,,,,,,4,44,5861918,0.0,7,7,11,Finished,+54.043,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-spa,Belgian Grand Prix,,,,,,11,44,5862423,0.0,8,8,11,Finished,+54.548,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-spa,Belgian Grand Prix,,,,,,9,44,5874045,0.0,9,9,11,Finished,+1:06.170,1995
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,23,1995-spa,Belgian Grand Prix,,,,,,17,44,5887664,0.0,10,10,11,Finished,+1:19.789,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-spa,Belgian Grand Prix,,,,,,14,43,,0.0,11,11,11,+1 Lap,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-spa,Belgian Grand Prix,,,,,,18,43,,0.0,12,12,11,+1 Lap,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-spa,Belgian Grand Prix,,,,,,24,42,,0.0,13,13,11,+2 Laps,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-spa,Belgian Grand Prix,,,,,,22,42,,0.0,14,14,11,+2 Laps,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-spa,Belgian Grand Prix,,,,,,15,28,,0.0,15,R,11,Spun off,,1995
+Pacific,pacific,British,,lavaggi,Giovanni Lavaggi,Italian,16,1995-spa,Belgian Grand Prix,,,,,,23,27,,0.0,16,R,11,Gearbox,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-spa,Belgian Grand Prix,,,,,,19,23,,0.0,17,R,11,Spun off,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-spa,Belgian Grand Prix,,,,,,1,22,,0.0,18,R,11,Electrical,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-spa,Belgian Grand Prix,,,,,,7,21,,0.0,19,R,11,Heat shield fire,,1995
+Footwork,footwork,British,,papis,Massimiliano Papis,Italian,9,1995-spa,Belgian Grand Prix,,,,,,20,20,,0.0,20,R,11,Spun off,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-spa,Belgian Grand Prix,,,,,,21,18,,0.0,21,R,11,Out of fuel,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-spa,Belgian Grand Prix,,,,,,5,13,,0.0,22,R,11,Gearbox,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-spa,Belgian Grand Prix,,,,,,2,4,,0.0,23,R,11,Suspension,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-spa,Belgian Grand Prix,,,,,,3,1,,0.0,24,R,11,Spun off,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-monza,Italian Grand Prix,,,,,,8,53,4707916,10.0,1,1,12,Finished,1:18:27.916,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-monza,Italian Grand Prix,,,,,,7,53,4725695,6.0,2,2,12,Finished,+17.779,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-monza,Italian Grand Prix,,,,,,10,53,4732237,4.0,3,3,12,Finished,+24.321,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-monza,Italian Grand Prix,,,,,,9,53,4736139,3.0,4,4,12,Finished,+28.223,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-monza,Italian Grand Prix,,,,,,16,52,,2.0,5,5,12,+1 Lap,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-monza,Italian Grand Prix,,,,,,14,52,,1.0,6,6,12,+1 Lap,,1995
+Footwork,footwork,British,,papis,Massimiliano Papis,Italian,9,1995-monza,Italian Grand Prix,,,,,,15,52,,0.0,7,7,12,+1 Lap,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-monza,Italian Grand Prix,,,,,,20,52,,0.0,8,8,12,+1 Lap,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-monza,Italian Grand Prix,,,,,,23,50,,0.0,9,9,12,+3 Laps,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-monza,Italian Grand Prix,,,,,,17,47,,0.0,10,10,12,+6 Laps,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-monza,Italian Grand Prix,,,,,,5,45,,0.0,11,R,12,Wheel bearing,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-monza,Italian Grand Prix,,,,,,6,43,,0.0,12,R,12,Clutch,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-monza,Italian Grand Prix,,,,,,12,40,,0.0,13,R,12,Engine,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-monza,Italian Grand Prix,,,,,,3,32,,0.0,14,R,12,Suspension,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-monza,Italian Grand Prix,,,,,,18,26,,0.0,15,R,12,Spun off,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-monza,Italian Grand Prix,,,,,,2,23,,0.0,16,R,12,Collision,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-monza,Italian Grand Prix,,,,,,4,23,,0.0,17,R,12,Collision,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-monza,Italian Grand Prix,,,,,,13,20,,0.0,18,R,12,Spun off,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-monza,Italian Grand Prix,,,,,,1,13,,0.0,19,R,12,Spun off,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-monza,Italian Grand Prix,,,,,,11,10,,0.0,20,R,12,Puncture,,1995
+Pacific,pacific,British,,lavaggi,Giovanni Lavaggi,Italian,16,1995-monza,Italian Grand Prix,,,,,,24,6,,0.0,21,R,12,Spun off,,1995
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,23,1995-monza,Italian Grand Prix,,,,,,19,0,,0.0,22,R,12,Transmission,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-monza,Italian Grand Prix,,,,,,21,0,,0.0,23,R,12,Accident,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-monza,Italian Grand Prix,,,,,,22,0,,0.0,24,R,12,Accident,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-estoril,Portuguese Grand Prix,,,,,,1,71,6112145,10.0,1,1,13,Finished,1:41:52.145,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-estoril,Portuguese Grand Prix,,,,,,3,71,6119393,6.0,2,2,13,Finished,+7.248,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-estoril,Portuguese Grand Prix,,,,,,2,71,6134266,4.0,3,3,13,Finished,+22.121,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-estoril,Portuguese Grand Prix,,,,,,4,71,6197024,3.0,4,4,13,Finished,+1:24.879,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-estoril,Portuguese Grand Prix,,,,,,7,71,6197574,2.0,5,5,13,Finished,+1:25.429,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-estoril,Portuguese Grand Prix,,,,,,5,70,,1.0,6,6,13,+1 Lap,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-estoril,Portuguese Grand Prix,,,,,,6,70,,0.0,7,7,13,+1 Lap,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-estoril,Portuguese Grand Prix,,,,,,9,70,,0.0,8,8,13,+1 Lap,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-estoril,Portuguese Grand Prix,,,,,,12,70,,0.0,9,9,13,+1 Lap,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-estoril,Portuguese Grand Prix,,,,,,10,70,,0.0,10,10,13,+1 Lap,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-estoril,Portuguese Grand Prix,,,,,,8,70,,0.0,11,11,13,+1 Lap,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-estoril,Portuguese Grand Prix,,,,,,14,70,,0.0,12,12,13,+1 Lap,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-estoril,Portuguese Grand Prix,,,,,,15,69,,0.0,13,13,13,+2 Laps,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-estoril,Portuguese Grand Prix,,,,,,18,68,,0.0,14,14,13,+3 Laps,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-estoril,Portuguese Grand Prix,,,,,,19,68,,0.0,15,15,13,+3 Laps,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-estoril,Portuguese Grand Prix,,,,,,22,66,,0.0,16,16,13,+5 Laps,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-estoril,Portuguese Grand Prix,,,,,,23,64,,0.0,17,17,13,+7 Laps,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-estoril,Portuguese Grand Prix,,,,,,21,53,,0.0,18,R,13,Gearbox,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-estoril,Portuguese Grand Prix,,,,,,13,44,,0.0,19,R,13,Engine,,1995
+Pacific,pacific,British,,deletraz,Jean-Denis Délétraz,Swiss,16,1995-estoril,Portuguese Grand Prix,,,,,,24,14,,0.0,20,R,13,Physical,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-estoril,Portuguese Grand Prix,,,,,,11,10,,0.0,21,R,13,Spun off,,1995
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,23,1995-estoril,Portuguese Grand Prix,,,,,,17,7,,0.0,22,R,13,Gearbox,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-estoril,Portuguese Grand Prix,,,,,,16,0,,0.0,23,R,13,Collision,,1995
+Footwork,footwork,British,,papis,Massimiliano Papis,Italian,9,1995-estoril,Portuguese Grand Prix,,,,,,20,0,,0.0,24,R,13,Gearbox,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-n-rburg,European Grand Prix,,,,,,3,67,5999044,10.0,1,1,14,Finished,1:39:59.044,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-n-rburg,European Grand Prix,,,,,,6,67,6001728,6.0,2,2,14,Finished,+2.684,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-n-rburg,European Grand Prix,,,,,,1,67,6034426,4.0,3,3,14,Finished,+35.382,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-n-rburg,European Grand Prix,,,,,,11,66,,3.0,4,4,14,+1 Lap,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-n-rburg,European Grand Prix,,,,,,7,66,,2.0,5,5,14,+1 Lap,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-n-rburg,European Grand Prix,,,,,,5,66,,1.0,6,6,14,+1 Lap,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-n-rburg,European Grand Prix,,,,,,12,66,,0.0,7,7,14,+1 Lap,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-n-rburg,European Grand Prix,,,,,,9,65,,0.0,8,8,14,+2 Laps,,1995
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,23,1995-n-rburg,European Grand Prix,,,,,,16,64,,0.0,9,9,14,+3 Laps,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-n-rburg,European Grand Prix,,,,,,15,64,,0.0,10,10,14,+3 Laps,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-n-rburg,European Grand Prix,,,,,,18,64,,0.0,11,11,14,+3 Laps,,1995
+Footwork,footwork,British,,papis,Massimiliano Papis,Italian,9,1995-n-rburg,European Grand Prix,,,,,,17,64,,0.0,12,12,14,+3 Laps,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-n-rburg,European Grand Prix,,,,,,22,62,,0.0,13,13,14,+5 Laps,,1995
+Tyrrell,tyrrell,British,,tarquini,Gabriele Tarquini,Italian,3,1995-n-rburg,European Grand Prix,,,,,,19,61,,0.0,14,14,14,+6 Laps,,1995
+Pacific,pacific,British,,deletraz,Jean-Denis Délétraz,Swiss,16,1995-n-rburg,European Grand Prix,,,,,,24,60,,0.0,15,15,14,+7 Laps,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-n-rburg,European Grand Prix,,,,,,2,58,,0.0,16,R,14,Spun off,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-n-rburg,European Grand Prix,,,,,,20,45,,0.0,17,R,14,Out of fuel,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-n-rburg,European Grand Prix,,,,,,13,44,,0.0,18,R,14,Collision,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-n-rburg,European Grand Prix,,,,,,4,40,,0.0,19,R,14,Electrical,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-n-rburg,European Grand Prix,,,,,,23,22,,0.0,20,R,14,Halfshaft,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-n-rburg,European Grand Prix,,,,,,8,17,,0.0,21,R,14,Spun off,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-n-rburg,European Grand Prix,,,,,,14,14,,0.0,22,R,14,Spun off,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-n-rburg,European Grand Prix,,,,,,10,14,,0.0,23,R,14,Accident,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-n-rburg,European Grand Prix,,,,,,21,0,,0.0,24,R,14,Electrical,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-okayama,Pacific Grand Prix,,,,,,3,83,6529972,10.0,1,1,15,Finished,1:48:49.972,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-okayama,Pacific Grand Prix,,,,,,1,83,6544892,6.0,2,2,15,Finished,+14.920,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-okayama,Pacific Grand Prix,,,,,,2,83,6578305,4.0,3,3,15,Finished,+48.333,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-okayama,Pacific Grand Prix,,,,,,5,82,,3.0,4,4,15,+1 Lap,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-okayama,Pacific Grand Prix,,,,,,4,82,,2.0,5,5,15,+1 Lap,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-okayama,Pacific Grand Prix,,,,,,7,82,,1.0,6,6,15,+1 Lap,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-okayama,Pacific Grand Prix,,,,,,8,82,,0.0,7,7,15,+1 Lap,,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-okayama,Pacific Grand Prix,,,,,,9,81,,0.0,8,8,15,+2 Laps,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-okayama,Pacific Grand Prix,,,,,,10,81,,0.0,9,9,15,+2 Laps,,1995
+McLaren,mclaren,British,MAG,magnussen,Jan Magnussen,Danish,8,1995-okayama,Pacific Grand Prix,,,,,,12,81,,0.0,10,10,15,+2 Laps,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-okayama,Pacific Grand Prix,,,,,,6,81,,0.0,11,11,15,+2 Laps,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-okayama,Pacific Grand Prix,,,,,,18,80,,0.0,12,12,15,+3 Laps,,1995
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,23,1995-okayama,Pacific Grand Prix,,,,,,14,80,,0.0,13,13,15,+3 Laps,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-okayama,Pacific Grand Prix,,,,,,17,80,,0.0,14,14,15,+3 Laps,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-okayama,Pacific Grand Prix,,,,,,16,80,,0.0,15,15,15,+3 Laps,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-okayama,Pacific Grand Prix,,,,,,22,78,,0.0,16,16,15,+5 Laps,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-okayama,Pacific Grand Prix,,,,,,21,77,,0.0,17,17,15,+6 Laps,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-okayama,Pacific Grand Prix,,,,,,11,67,,0.0,18,R,15,Electrical,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-okayama,Pacific Grand Prix,,,,,,19,63,,0.0,19,R,15,Engine,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-okayama,Pacific Grand Prix,,,,,,20,38,,0.0,20,R,15,Electrical,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-okayama,Pacific Grand Prix,,,,,,23,14,,0.0,21,R,15,Gearbox,,1995
+Ligier,ligier,French,,suzuki,Aguri Suzuki,Japanese,25,1995-okayama,Pacific Grand Prix,,,,,,13,10,,0.0,22,R,15,Spun off,,1995
+Sauber,sauber,Swiss,,boullion,Jean-Christophe Boullion,French,29,1995-okayama,Pacific Grand Prix,,,,,,15,7,,0.0,23,R,15,Spun off,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-okayama,Pacific Grand Prix,,,,,,24,2,,0.0,24,R,15,Gearbox,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-suzuka,Japanese Grand Prix,,,,,,1,53,5812930,10.0,1,1,16,Finished,1:36:52.930,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-suzuka,Japanese Grand Prix,,,,,,3,53,5832267,6.0,2,2,16,Finished,+19.337,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-suzuka,Japanese Grand Prix,,,,,,9,53,5896734,4.0,3,3,16,Finished,+1:23.804,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-suzuka,Japanese Grand Prix,,,,,,7,53,5915066,3.0,4,4,16,Finished,+1:42.136,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-suzuka,Japanese Grand Prix,,,,,,11,52,,2.0,5,5,16,+1 Lap,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-suzuka,Japanese Grand Prix,,,,,,12,52,,1.0,6,6,16,+1 Lap,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-suzuka,Japanese Grand Prix,,,,,,23,52,,0.0,7,7,16,+1 Lap,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-suzuka,Japanese Grand Prix,,,,,,8,52,,0.0,8,8,16,+1 Lap,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-suzuka,Japanese Grand Prix,,,,,,17,51,,0.0,9,9,16,+2 Laps,,1995
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1995-suzuka,Japanese Grand Prix,,,,,,15,51,,0.0,10,10,16,+2 Laps,,1995
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,23,1995-suzuka,Japanese Grand Prix,,,,,,16,51,,0.0,11,11,16,+2 Laps,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-suzuka,Japanese Grand Prix,,,,,,18,51,,0.0,12,12,16,+2 Laps,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-suzuka,Japanese Grand Prix,,,,,,4,40,,0.0,13,R,16,Spun off,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-suzuka,Japanese Grand Prix,,,,,,6,39,,0.0,14,R,16,Spun off,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-suzuka,Japanese Grand Prix,,,,,,20,32,,0.0,15,R,16,Spun off,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-suzuka,Japanese Grand Prix,,,,,,2,24,,0.0,16,R,16,Engine,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-suzuka,Japanese Grand Prix,,,,,,19,23,,0.0,17,R,16,Spun off,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-suzuka,Japanese Grand Prix,,,,,,5,16,,0.0,18,R,16,Electrical,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-suzuka,Japanese Grand Prix,,,,,,10,15,,0.0,19,R,16,Spun off,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-suzuka,Japanese Grand Prix,,,,,,13,12,,0.0,20,R,16,Spun off,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-suzuka,Japanese Grand Prix,,,,,,22,6,,0.0,21,R,16,Halfshaft,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-suzuka,Japanese Grand Prix,,,,,,21,1,,0.0,22,R,16,Gearbox,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-suzuka,Japanese Grand Prix,,,,,,14,0,,0.0,23,R,16,Spun off,,1995
+Ligier,ligier,French,,suzuki,Aguri Suzuki,Japanese,25,1995-suzuka,Japanese Grand Prix,,,,,,0,0,,0.0,24,W,16,Accident,,1995
+Williams,williams,British,,damon_hill,Damon Hill,British,5,1995-adelaide,Australian Grand Prix,,,,,,1,81,6555946,10.0,1,1,17,Finished,1:49:15.946,1995
+Ligier,ligier,French,,panis,Olivier Panis,French,26,1995-adelaide,Australian Grand Prix,,,,,,12,79,,6.0,2,2,17,+2 Laps,,1995
+Footwork,footwork,British,,morbidelli,Gianni Morbidelli,Italian,9,1995-adelaide,Australian Grand Prix,,,,,,13,79,,4.0,3,3,17,+2 Laps,,1995
+McLaren,mclaren,British,,blundell,Mark Blundell,British,7,1995-adelaide,Australian Grand Prix,,,,,,10,79,,3.0,4,4,17,+2 Laps,,1995
+Tyrrell,tyrrell,British,,salo,Mika Salo,Finnish,4,1995-adelaide,Australian Grand Prix,,,,,,14,78,,2.0,5,5,17,+3 Laps,,1995
+Minardi,minardi,Italian,,lamy,Pedro Lamy,Portuguese,23,1995-adelaide,Australian Grand Prix,,,,,,17,78,,1.0,6,6,17,+3 Laps,,1995
+Forti,forti,Italian,,diniz,Pedro Diniz,Brazilian,21,1995-adelaide,Australian Grand Prix,,,,,,21,77,,0.0,7,7,17,+4 Laps,,1995
+Pacific,pacific,British,,gachot,Bertrand Gachot,Belgian,16,1995-adelaide,Australian Grand Prix,,,,,,23,76,,0.0,8,8,17,+5 Laps,,1995
+Tyrrell,tyrrell,British,,katayama,Ukyo Katayama,Japanese,3,1995-adelaide,Australian Grand Prix,,,,,,16,70,,0.0,9,R,17,Engine,,1995
+Benetton,benetton,Italian,,herbert,Johnny Herbert,British,2,1995-adelaide,Australian Grand Prix,,,,,,8,69,,0.0,10,R,17,Transmission,,1995
+Jordan,jordan,Irish,,irvine,Eddie Irvine,British,15,1995-adelaide,Australian Grand Prix,,,,,,9,62,,0.0,11,R,17,Engine,,1995
+Sauber,sauber,Swiss,,frentzen,Heinz-Harald Frentzen,German,30,1995-adelaide,Australian Grand Prix,,,,,,6,39,,0.0,12,R,17,Gearbox,,1995
+Ferrari,ferrari,Italian,,berger,Gerhard Berger,Austrian,28,1995-adelaide,Australian Grand Prix,,,,,,4,34,,0.0,13,R,17,Engine,,1995
+Ligier,ligier,French,,brundle,Martin Brundle,British,25,1995-adelaide,Australian Grand Prix,,,,,,11,29,,0.0,14,R,17,Spun off,,1995
+Benetton,benetton,Italian,MSC,michael_schumacher,Michael Schumacher,German,1,1995-adelaide,Australian Grand Prix,,,,,,3,25,,0.0,15,R,17,Collision,,1995
+Ferrari,ferrari,Italian,,alesi,Jean Alesi,French,27,1995-adelaide,Australian Grand Prix,,,,,,5,23,,0.0,16,R,17,Collision,,1995
+Forti,forti,Italian,,moreno,Roberto Moreno,Brazilian,22,1995-adelaide,Australian Grand Prix,,,,,,20,21,,0.0,17,R,17,Spun off,,1995
+Jordan,jordan,Irish,BAR,barrichello,Rubens Barrichello,Brazilian,14,1995-adelaide,Australian Grand Prix,,,,,,7,20,,0.0,18,R,17,Spun off,,1995
+Williams,williams,British,COU,coulthard,David Coulthard,British,6,1995-adelaide,Australian Grand Prix,,,,,,2,19,,0.0,19,R,17,Accident,,1995
+Footwork,footwork,British,,inoue,Taki Inoue,Japanese,10,1995-adelaide,Australian Grand Prix,,,,,,19,15,,0.0,20,R,17,Spun off,,1995
+Sauber,sauber,Swiss,,wendlinger,Karl Wendlinger,Austrian,29,1995-adelaide,Australian Grand Prix,,,,,,18,8,,0.0,21,R,17,Physical,,1995
+Pacific,pacific,British,,montermini,Andrea Montermini,Italian,17,1995-adelaide,Australian Grand Prix,,,,,,22,2,,0.0,22,R,17,Gearbox,,1995
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,24,1995-adelaide,Australian Grand Prix,,,,,,15,0,,0.0,23,W,17,Electrical,,1995
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,8,1995-adelaide,Australian Grand Prix,,,,,,24,0,,0.0,24,W,17,Injured,,1995

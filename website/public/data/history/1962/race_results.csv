@@ -1,0 +1,206 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+BRM,brm,British,,hill,Graham Hill,British,17,1962-zandvoort,Dutch Grand Prix,,,,,,2,80,7862100,9.0,1,1,1,Finished,2:11:02.100,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,5,1962-zandvoort,Dutch Grand Prix,,,,,,10,80,7889300,6.0,2,2,1,Finished,+27.200,1962
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,1,1962-zandvoort,Dutch Grand Prix,,,,,,9,80,7943200,4.0,3,3,1,Finished,+1:21.100,1962
+Ferrari,ferrari,Italian,,baghetti,Giancarlo Baghetti,Italian,2,1962-zandvoort,Dutch Grand Prix,,,,,,12,79,,3.0,4,4,1,+1 Lap,,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,7,1962-zandvoort,Dutch Grand Prix,,,,,,15,78,,2.0,5,5,1,+2 Laps,,1962
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,14,1962-zandvoort,Dutch Grand Prix,,,,,,14,76,,1.0,6,6,1,+4 Laps,,1962
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,11,1962-zandvoort,Dutch Grand Prix,,,,,,13,75,,0.0,7,7,1,+5 Laps,,1962
+Cooper-Climax,cooper-climax,British,,lewis,Jackie Lewis,British,21,1962-zandvoort,Dutch Grand Prix,,,,,,7,70,,0.0,8,8,1,+10 Laps,,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,4,1962-zandvoort,Dutch Grand Prix,,,,,,3,70,,0.0,9,9,1,+10 Laps,,1962
+Ferrari,ferrari,Italian,,ricardo_rodriguez,Ricardo Rodríguez,Mexican,3,1962-zandvoort,Dutch Grand Prix,,,,,,11,73,,0.0,10,R,1,Accident,,1962
+BRM,brm,British,,ginther,Richie Ginther,American,18,1962-zandvoort,Dutch Grand Prix,,,,,,7,71,,0.0,11,R,1,Accident,,1962
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,9,1962-zandvoort,Dutch Grand Prix,,,,,,6,61,,0.0,12,R,1,Accident,,1962
+Lotus-Climax,lotus-climax,British,,gregory,Masten Gregory,American,10,1962-zandvoort,Dutch Grand Prix,,,,,,16,54,,0.0,13,R,1,Halfshaft,,1962
+Emeryson,emeryson,British,,seidel,Wolfgang Seidel,German,16,1962-zandvoort,Dutch Grand Prix,,,,,,20,52,,0.0,14,R,1,Not classified,,1962
+Porsche,porsche,German,,gurney,Dan Gurney,American,12,1962-zandvoort,Dutch Grand Prix,,,,,,8,47,,0.0,15,R,1,Gearbox,,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,6,1962-zandvoort,Dutch Grand Prix,,,,,,5,21,,0.0,16,R,1,Gearbox,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,20,1962-zandvoort,Dutch Grand Prix,,,,,,17,12,,0.0,17,W,1,Withdrew,,1962
+Lola,lola,British,,surtees,John Surtees,British,19,1962-zandvoort,Dutch Grand Prix,,,,,,1,8,,0.0,18,R,1,Accident,,1962
+Lotus-Climax,lotus-climax,British,,jack_brabham,Jack Brabham,Australian,8,1962-zandvoort,Dutch Grand Prix,,,,,,4,4,,0.0,19,R,1,Accident,,1962
+Porsche,porsche,German,,pon,Ben Pon,Dutch,15,1962-zandvoort,Dutch Grand Prix,,,,,,10,2,,0.0,20,R,1,Accident,,1962
+Porsche,porsche,German,,slotemaker,Rob Slotemaker,Dutch,16,1962-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,21,W,1,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,21,1962-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,22,W,1,Withdrew,,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,14,1962-monte-carlo,Monaco Grand Prix,,,,,,3,100,9989700,9.0,1,1,2,Finished,2:46:29.700,1962
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,36,1962-monte-carlo,Monaco Grand Prix,,,,,,9,100,9991000,6.0,2,2,2,Finished,+1.300,1962
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,38,1962-monte-carlo,Monaco Grand Prix,,,,,,10,100,10073800,4.0,3,3,2,Finished,+1:24.100,1962
+Lola,lola,British,,surtees,John Surtees,British,28,1962-monte-carlo,Monaco Grand Prix,,,,,,11,99,,3.0,4,4,2,+1 Lap,,1962
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,2,1962-monte-carlo,Monaco Grand Prix,,,,,,18,93,,2.0,5,5,2,+7 Laps,,1962
+BRM,brm,British,,hill,Graham Hill,British,10,1962-monte-carlo,Monaco Grand Prix,,,,,,2,92,,1.0,6,6,2,Engine,,1962
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,40,1962-monte-carlo,Monaco Grand Prix,,,,,,4,90,,0.0,7,7,2,Oil pressure,,1962
+Lotus-Climax,lotus-climax,British,,jack_brabham,Jack Brabham,Australian,22,1962-monte-carlo,Monaco Grand Prix,,,,,,6,77,,0.0,8,8,2,Accident,,1962
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,34,1962-monte-carlo,Monaco Grand Prix,,,,,,8,64,,0.0,9,R,2,Fuel pump,,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,18,1962-monte-carlo,Monaco Grand Prix,,,,,,1,55,,0.0,10,R,2,Clutch,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,26,1962-monte-carlo,Monaco Grand Prix,,,,,,12,44,,0.0,11,R,2,Suspension,,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,16,1962-monte-carlo,Monaco Grand Prix,,,,,,19,43,,0.0,12,R,2,Gearbox,,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,20,1962-monte-carlo,Monaco Grand Prix,,,,,,17,24,,0.0,13,R,2,Oil leak,,1962
+Porsche,porsche,German,,gurney,Dan Gurney,American,4,1962-monte-carlo,Monaco Grand Prix,,,,,,5,0,,0.0,14,R,2,Accident,,1962
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,30,1962-monte-carlo,Monaco Grand Prix,,,,,,7,0,,0.0,15,R,2,Accident,,1962
+BRM,brm,British,,ginther,Richie Ginther,American,8,1962-monte-carlo,Monaco Grand Prix,,,,,,14,0,,0.0,16,R,2,Accident,,1962
+Ferrari,ferrari,Italian,,ricardo_rodriguez,Ricardo Rodríguez,Mexican,40,1962-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,22,W,2,Withdrew,,1962
+De Tomaso-Alfa Romeo,de_tomaso-alfa_romeo,Italian,,bussinello,Roberto Bussinello,Italian,6,1962-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,23,W,2,Withdrew,,1962
+BRM,brm,British,,marsh,Tony Marsh,British,12,1962-monte-carlo,Monaco Grand Prix,,,,,,0,0,,0.0,24,W,2,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,16,1962-spa,Belgian Grand Prix,,,,,,13,32,7652300,9.0,1,1,3,Finished,2:07:32.300,1962
+BRM,brm,British,,hill,Graham Hill,British,1,1962-spa,Belgian Grand Prix,,,,,,1,32,7696400,6.0,2,2,3,Finished,+44.100,1962
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,9,1962-spa,Belgian Grand Prix,,,,,,4,32,7778800,4.0,3,3,3,Finished,+2:06.500,1962
+Ferrari,ferrari,Italian,,ricardo_rodriguez,Ricardo Rodríguez,Mexican,12,1962-spa,Belgian Grand Prix,,,,,,7,32,7778900,3.0,4,4,3,Finished,+2:06.600,1962
+Lola,lola,British,,surtees,John Surtees,British,5,1962-spa,Belgian Grand Prix,,,,,,11,31,,2.0,5,5,3,+1 Lap,,1962
+Lotus-Climax,lotus-climax,British,,jack_brabham,Jack Brabham,Australian,15,1962-spa,Belgian Grand Prix,,,,,,15,30,,1.0,6,6,3,+2 Laps,,1962
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,7,1962-spa,Belgian Grand Prix,,,,,,13,30,,0.0,7,7,3,+2 Laps,,1962
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,18,1962-spa,Belgian Grand Prix,,,,,,16,30,,0.0,8,8,3,+2 Laps,,1962
+Lotus-Climax,lotus-climax,British,,bianchi,Lucien Bianchi,Belgian,19,1962-spa,Belgian Grand Prix,,,,,,18,29,,0.0,9,9,3,+3 Laps,,1962
+Lotus-Climax,lotus-climax,British,,siffert,Jo Siffert,Swiss,22,1962-spa,Belgian Grand Prix,,,,,,17,29,,0.0,10,10,3,+3 Laps,,1962
+Lotus-Climax,lotus-climax,British,,campbell-jones,John Campbell-Jones,British,4,1962-spa,Belgian Grand Prix,,,,,,19,16,,0.0,11,11,3,+16 Laps,,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,17,1962-spa,Belgian Grand Prix,,,,,,3,25,,0.0,12,R,3,Accident,,1962
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,10,1962-spa,Belgian Grand Prix,,,,,,6,25,,0.0,13,R,3,Accident,,1962
+BRM,brm,British,,ginther,Richie Ginther,American,2,1962-spa,Belgian Grand Prix,,,,,,9,22,,0.0,14,R,3,Gearbox,,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,26,1962-spa,Belgian Grand Prix,,,,,,10,22,,0.0,15,R,3,Gearbox,,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,25,1962-spa,Belgian Grand Prix,,,,,,2,19,,0.0,16,R,3,Wheel bearing,,1962
+Lotus-BRM,lotus-brm,British,,gregory,Masten Gregory,American,21,1962-spa,Belgian Grand Prix,,,,,,8,13,,0.0,17,W,3,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,20,1962-spa,Belgian Grand Prix,,,,,,5,8,,0.0,18,R,3,Suspension,,1962
+Ferrari,ferrari,Italian,,baghetti,Giancarlo Baghetti,Italian,11,1962-spa,Belgian Grand Prix,,,,,,14,3,,0.0,19,R,3,Ignition,,1962
+Lotus-BRM,lotus-brm,British,,gurney,Dan Gurney,American,23,1962-spa,Belgian Grand Prix,,,,,,0,0,,0.0,20,W,3,Withdrew,,1962
+BRM,brm,British,,marsh,Tony Marsh,British,3,1962-spa,Belgian Grand Prix,,,,,,0,0,,0.0,21,W,3,Withdrew,,1962
+BRM,brm,British,,lewis,Jackie Lewis,British,4,1962-spa,Belgian Grand Prix,,,,,,0,0,,0.0,22,W,3,Withdrew,,1962
+BRM,brm,British,,ashmore,Gerry Ashmore,British,4,1962-spa,Belgian Grand Prix,,,,,,0,0,,0.0,23,W,3,Withdrew,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,6,1962-spa,Belgian Grand Prix,,,,,,0,0,,0.0,24,W,3,Withdrew,,1962
+Porsche,porsche,German,,schiller,Heinz Schiller,Swiss,8,1962-spa,Belgian Grand Prix,,,,,,0,0,,0.0,25,W,3,Withdrew,,1962
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,24,1962-spa,Belgian Grand Prix,,,,,,0,0,,0.0,26,W,3,Withdrew,,1962
+Porsche,porsche,German,,gurney,Dan Gurney,American,30,1962-rouen,French Grand Prix,,,,,,6,54,7625500,9.0,1,1,4,Finished,2:07:05.500,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,24,1962-rouen,French Grand Prix,,,,,,11,53,,6.0,2,2,4,+1 Lap,,1962
+BRM,brm,British,,ginther,Richie Ginther,American,10,1962-rouen,French Grand Prix,,,,,,10,52,,4.0,3,3,4,+2 Laps,,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,22,1962-rouen,French Grand Prix,,,,,,3,51,,3.0,4,4,4,+3 Laps,,1962
+Lola,lola,British,,surtees,John Surtees,British,18,1962-rouen,French Grand Prix,,,,,,5,51,,2.0,5,5,4,+3 Laps,,1962
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,38,1962-rouen,French Grand Prix,,,,,,17,51,,1.0,6,6,4,+3 Laps,,1962
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,28,1962-rouen,French Grand Prix,,,,,,13,50,,0.0,7,7,4,+4 Laps,,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,14,1962-rouen,French Grand Prix,,,,,,12,48,,0.0,8,8,4,+6 Laps,,1962
+BRM,brm,British,,hill,Graham Hill,British,8,1962-rouen,French Grand Prix,,,,,,2,44,,0.0,9,9,4,+10 Laps,,1962
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,32,1962-rouen,French Grand Prix,,,,,,9,43,,0.0,10,R,4,Fuel system,,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,12,1962-rouen,French Grand Prix,,,,,,1,34,,0.0,11,R,4,Suspension,,1962
+Cooper,cooper,British,,lewis,Jackie Lewis,British,42,1962-rouen,French Grand Prix,,,,,,16,28,,0.0,12,R,4,Accident,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,20,1962-rouen,French Grand Prix,,,,,,14,21,,0.0,13,R,4,Oil pressure,,1962
+Lotus-BRM,lotus-brm,British,,gregory,Masten Gregory,American,34,1962-rouen,French Grand Prix,,,,,,7,15,,0.0,14,R,4,Overheating,,1962
+Lotus-Climax,lotus-climax,British,,jack_brabham,Jack Brabham,Australian,26,1962-rouen,French Grand Prix,,,,,,4,11,,0.0,15,R,4,Suspension,,1962
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,40,1962-rouen,French Grand Prix,,,,,,15,6,,0.0,16,R,4,Clutch,,1962
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,36,1962-rouen,French Grand Prix,,,,,,8,1,,0.0,17,R,4,Puncture,,1962
+Team Lotus,team_lotus,British,,arundell,Peter Arundell,British,16,1962-rouen,French Grand Prix,,,,,,0,0,,0.0,18,W,4,Withdrew,,1962
+BRM,brm,British,,marsh,Tony Marsh,British,None,1962-rouen,French Grand Prix,,,,,,0,0,,0.0,19,W,4,Withdrew,,1962
+Porsche,porsche,German,,davis,Colin Davis,British,None,1962-rouen,French Grand Prix,,,,,,0,0,,0.0,20,W,4,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,abate,Carlo Abate,Italian,None,1962-rouen,French Grand Prix,,,,,,0,0,,0.0,21,W,4,Withdrew,,1962
+Cooper-Climax,cooper-climax,British,,burgess,Ian Burgess,British,None,1962-rouen,French Grand Prix,,,,,,0,0,,0.0,22,W,4,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,20,1962-liverpool,British Grand Prix,,,,,,1,75,8780800,9.0,1,1,5,Finished,2:26:20.800,1962
+Lola,lola,British,,surtees,John Surtees,British,24,1962-liverpool,British Grand Prix,,,,,,2,75,8830000,6.0,2,2,5,Finished,+49.200,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,16,1962-liverpool,British Grand Prix,,,,,,4,75,8885600,4.0,3,3,5,Finished,+1:44.800,1962
+BRM,brm,British,,hill,Graham Hill,British,12,1962-liverpool,British Grand Prix,,,,,,5,75,8897600,3.0,4,4,5,Finished,+1:56.800,1962
+Lotus-Climax,lotus-climax,British,,jack_brabham,Jack Brabham,Australian,30,1962-liverpool,British Grand Prix,,,,,,9,74,,2.0,5,5,5,+1 Lap,,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,18,1962-liverpool,British Grand Prix,,,,,,13,74,,1.0,6,6,5,+1 Lap,,1962
+Lotus-Climax,lotus-climax,British,,gregory,Masten Gregory,American,34,1962-liverpool,British Grand Prix,,,,,,14,74,,0.0,7,7,5,+1 Lap,,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,22,1962-liverpool,British Grand Prix,,,,,,10,74,,0.0,8,8,5,+1 Lap,,1962
+Porsche,porsche,German,,gurney,Dan Gurney,American,8,1962-liverpool,British Grand Prix,,,,,,6,73,,0.0,9,9,5,+2 Laps,,1962
+Cooper-Climax,cooper-climax,British,,lewis,Jackie Lewis,British,42,1962-liverpool,British Grand Prix,,,,,,15,72,,0.0,10,10,5,+3 Laps,,1962
+Emeryson,emeryson,British,,settember,Tony Settember,American,40,1962-liverpool,British Grand Prix,,,,,,19,71,,0.0,11,11,5,+4 Laps,,1962
+Cooper-Climax,cooper-climax,British,,burgess,Ian Burgess,British,36,1962-liverpool,British Grand Prix,,,,,,16,71,,0.0,12,12,5,+4 Laps,,1962
+BRM,brm,British,,ginther,Richie Ginther,American,14,1962-liverpool,British Grand Prix,,,,,,8,70,,0.0,13,13,5,+5 Laps,,1962
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,54,1962-liverpool,British Grand Prix,,,,,,17,69,,0.0,14,14,5,+6 Laps,,1962
+Lotus-Climax,lotus-climax,British,,chamberlain,Jay Chamberlain,American,46,1962-liverpool,British Grand Prix,,,,,,20,64,,0.0,15,15,5,+11 Laps,,1962
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,32,1962-liverpool,British Grand Prix,,,,,,3,61,,0.0,16,16,5,+14 Laps,,1962
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,2,1962-liverpool,British Grand Prix,,,,,,12,47,,0.0,17,R,5,Engine,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,26,1962-liverpool,British Grand Prix,,,,,,11,35,,0.0,18,R,5,Battery,,1962
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,10,1962-liverpool,British Grand Prix,,,,,,7,27,,0.0,19,R,5,Differential,,1962
+Lotus-BRM,lotus-brm,British,,seidel,Wolfgang Seidel,German,44,1962-liverpool,British Grand Prix,,,,,,21,11,,0.0,20,R,5,Brakes,,1962
+Lotus-Climax,lotus-climax,British,,shelly,Tony Shelly,New Zealander,48,1962-liverpool,British Grand Prix,,,,,,18,6,,0.0,21,R,5,Engine,,1962
+Lotus-Climax,lotus-climax,British,,greene,Keith Greene,British,48,1962-liverpool,British Grand Prix,,,,,,0,0,,0.0,22,W,5,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,28,1962-liverpool,British Grand Prix,,,,,,0,0,,0.0,23,W,5,Withdrew,,1962
+Emeryson,emeryson,British,,campbell-jones,John Campbell-Jones,British,38,1962-liverpool,British Grand Prix,,,,,,0,0,,0.0,24,W,5,Withdrew,,1962
+Gilby,gilby,British,,greene,Keith Greene,British,50,1962-liverpool,British Grand Prix,,,,,,0,0,,0.0,25,W,5,Withdrew,,1962
+Lotus-BRM,lotus-brm,British,,siffert,Jo Siffert,Swiss,52,1962-liverpool,British Grand Prix,,,,,,0,0,,0.0,26,W,5,Withdrew,,1962
+BRM,brm,British,,hill,Graham Hill,British,11,1962-n-rburg,German Grand Prix,,,,,,2,15,9525300,9.0,1,1,6,Finished,2:38:45.300,1962
+Lola,lola,British,,surtees,John Surtees,British,14,1962-n-rburg,German Grand Prix,,,,,,4,15,9527800,6.0,2,2,6,Finished,+2.500,1962
+Porsche,porsche,German,,gurney,Dan Gurney,American,7,1962-n-rburg,German Grand Prix,,,,,,1,15,9529700,4.0,3,3,6,Finished,+4.400,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,5,1962-n-rburg,German Grand Prix,,,,,,3,15,9567400,3.0,4,4,6,Finished,+42.100,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,9,1962-n-rburg,German Grand Prix,,,,,,5,15,9604900,2.0,5,5,6,Finished,+1:19.600,1962
+Ferrari,ferrari,Italian,,ricardo_rodriguez,Ricardo Rodríguez,Mexican,3,1962-n-rburg,German Grand Prix,,,,,,10,15,9609100,1.0,6,6,6,Finished,+1:23.800,1962
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,8,1962-n-rburg,German Grand Prix,,,,,,6,15,9802600,0.0,7,7,6,Finished,+4:37.300,1962
+BRM,brm,British,,ginther,Richie Ginther,American,12,1962-n-rburg,German Grand Prix,,,,,,7,15,9825400,0.0,8,8,6,Finished,+5:00.100,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,10,1962-n-rburg,German Grand Prix,,,,,,23,15,9832300,0.0,9,9,6,Finished,+5:07.000,1962
+Ferrari,ferrari,Italian,,baghetti,Giancarlo Baghetti,Italian,2,1962-n-rburg,German Grand Prix,,,,,,13,15,10020000,0.0,10,10,6,Finished,+8:14.700,1962
+Cooper-Climax,cooper-climax,British,,burgess,Ian Burgess,British,25,1962-n-rburg,German Grand Prix,,,,,,16,15,10020600,0.0,11,11,6,Finished,+8:15.300,1962
+Lotus-Climax,lotus-climax,British,,siffert,Jo Siffert,Swiss,19,1962-n-rburg,German Grand Prix,,,,,,17,15,10020800,0.0,12,12,6,Finished,+8:15.500,1962
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,18,1962-n-rburg,German Grand Prix,,,,,,8,15,10077100,0.0,13,13,6,Finished,+9:11.800,1962
+Porsche,porsche,German,,walter,Heini Walter,Swiss,32,1962-n-rburg,German Grand Prix,,,,,,14,14,,0.0,14,14,6,+1 Lap,,1962
+Porsche,porsche,German,,vaccarella,Nino Vaccarella,Italian,26,1962-n-rburg,German Grand Prix,,,,,,15,14,,0.0,15,15,6,+1 Lap,,1962
+ENB,enb,Belgian,,bianchi,Lucien Bianchi,Belgian,21,1962-n-rburg,German Grand Prix,,,,,,25,14,,0.0,16,16,6,+1 Lap,,1962
+Cooper-Climax,cooper-climax,British,,lewis,Jackie Lewis,British,20,1962-n-rburg,German Grand Prix,,,,,,21,10,,0.0,17,R,6,Suspension,,1962
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,1,1962-n-rburg,German Grand Prix,,,,,,12,9,,0.0,18,R,6,Suspension,,1962
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,16,1962-n-rburg,German Grand Prix,,,,,,24,9,,0.0,19,R,6,Throttle,,1962
+Gilby,gilby,British,,greene,Keith Greene,British,27,1962-n-rburg,German Grand Prix,,,,,,19,7,,0.0,20,R,6,Suspension,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,15,1962-n-rburg,German Grand Prix,,,,,,9,4,,0.0,21,R,6,Gearbox,,1962
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,17,1962-n-rburg,German Grand Prix,,,,,,11,4,,0.0,22,R,6,Gearbox,,1962
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,4,1962-n-rburg,German Grand Prix,,,,,,18,4,,0.0,23,R,6,Accident,,1962
+Lotus-BRM,lotus-brm,British,,schiller,Heinz Schiller,Swiss,28,1962-n-rburg,German Grand Prix,,,,,,20,4,,0.0,24,R,6,Oil pressure,,1962
+Cooper-Climax,cooper-climax,British,,collomb,Bernard Collomb,French,31,1962-n-rburg,German Grand Prix,,,,,,22,2,,0.0,25,R,6,Gearbox,,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,6,1962-n-rburg,German Grand Prix,,,,,,26,0,,0.0,26,R,6,Accident,,1962
+BRM,brm,British,,marsh,Tony Marsh,British,33,1962-n-rburg,German Grand Prix,,,,,,0,0,,0.0,31,W,6,Withdrew,,1962
+BRM,brm,British,,hill,Graham Hill,British,14,1962-monza,Italian Grand Prix,,,,,,2,86,8948400,9.0,1,1,7,Finished,2:29:08.400,1962
+BRM,brm,British,,ginther,Richie Ginther,American,12,1962-monza,Italian Grand Prix,,,,,,3,86,8978200,6.0,2,2,7,Finished,+29.800,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,28,1962-monza,Italian Grand Prix,,,,,,4,86,9006200,4.0,3,3,7,Finished,+57.800,1962
+Ferrari,ferrari,Italian,,mairesse,Willy Mairesse,Belgian,8,1962-monza,Italian Grand Prix,,,,,,10,86,9006600,3.0,4,4,7,Finished,+58.200,1962
+Ferrari,ferrari,Italian,,baghetti,Giancarlo Baghetti,Italian,2,1962-monza,Italian Grand Prix,,,,,,18,86,9039700,2.0,5,5,7,Finished,+1:31.300,1962
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,18,1962-monza,Italian Grand Prix,,,,,,9,85,,1.0,6,6,7,+1 Lap,,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,30,1962-monza,Italian Grand Prix,,,,,,12,85,,0.0,7,7,7,+1 Lap,,1962
+Ferrari,ferrari,Italian,,bandini,Lorenzo Bandini,Italian,6,1962-monza,Italian Grand Prix,,,,,,17,84,,0.0,8,8,7,+2 Laps,,1962
+Lotus-Climax,lotus-climax,British,,vaccarella,Nino Vaccarella,Italian,24,1962-monza,Italian Grand Prix,,,,,,14,84,,0.0,9,9,7,+2 Laps,,1962
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,32,1962-monza,Italian Grand Prix,,,,,,20,81,,0.0,10,10,7,+5 Laps,,1962
+Ferrari,ferrari,Italian,,phil_hill,Phil Hill,American,10,1962-monza,Italian Grand Prix,,,,,,15,81,,0.0,11,11,7,+5 Laps,,1962
+Lotus-BRM,lotus-brm,British,,gregory,Masten Gregory,American,38,1962-monza,Italian Grand Prix,,,,,,6,77,,0.0,12,12,7,+9 Laps,,1962
+Porsche,porsche,German,,gurney,Dan Gurney,American,16,1962-monza,Italian Grand Prix,,,,,,7,66,,0.0,13,13,7,Differential,,1962
+Ferrari,ferrari,Italian,,ricardo_rodriguez,Ricardo Rodríguez,Mexican,4,1962-monza,Italian Grand Prix,,,,,,11,63,,0.0,14,14,7,Ignition,,1962
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,40,1962-monza,Italian Grand Prix,,,,,,5,45,,0.0,15,R,7,Suspension,,1962
+Lola,lola,British,,surtees,John Surtees,British,46,1962-monza,Italian Grand Prix,,,,,,8,42,,0.0,16,R,7,Engine,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,44,1962-monza,Italian Grand Prix,,,,,,13,41,,0.0,17,R,7,Engine,,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,22,1962-monza,Italian Grand Prix,,,,,,16,25,,0.0,18,R,7,Gearbox,,1962
+Emeryson,emeryson,British,,settember,Tony Settember,American,48,1962-monza,Italian Grand Prix,,,,,,21,18,,0.0,19,R,7,Engine,,1962
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,36,1962-monza,Italian Grand Prix,,,,,,19,17,,0.0,20,R,7,Electrical,,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,20,1962-monza,Italian Grand Prix,,,,,,1,12,,0.0,21,R,7,Gearbox,,1962
+Lotus-Borgward,lotus-borgward,British,,kuhnke,Kurt Kuhnke,German,58,1962-monza,Italian Grand Prix,,,,,,0,0,,0.0,31,W,7,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,8,1962-new-york-state,United States Grand Prix,,,,,,1,100,7633000,9.0,1,1,8,Finished,2:07,1962
+BRM,brm,British,,hill,Graham Hill,British,4,1962-new-york-state,United States Grand Prix,,,,,,3,100,7642200,6.0,2,2,8,Finished,+9.200,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,21,1962-new-york-state,United States Grand Prix,,,,,,6,99,,4.0,3,3,8,+1 Lap,,1962
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,17,1962-new-york-state,United States Grand Prix,,,,,,5,99,,3.0,4,4,8,+1 Lap,,1962
+Porsche,porsche,German,,gurney,Dan Gurney,American,10,1962-new-york-state,United States Grand Prix,,,,,,4,99,,2.0,5,5,8,+1 Lap,,1962
+Lotus-BRM,lotus-brm,British,,gregory,Masten Gregory,American,16,1962-new-york-state,United States Grand Prix,,,,,,7,99,,1.0,6,6,8,+1 Lap,,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,22,1962-new-york-state,United States Grand Prix,,,,,,10,97,,0.0,7,7,8,+3 Laps,,1962
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,15,1962-new-york-state,United States Grand Prix,,,,,,16,96,,0.0,8,8,8,+4 Laps,,1962
+Lotus-Climax,lotus-climax,British,,penske,Roger Penske,American,14,1962-new-york-state,United States Grand Prix,,,,,,13,96,,0.0,9,9,8,+4 Laps,,1962
+Lotus-Climax,lotus-climax,British,,schroeder,Rob Schroeder,British,26,1962-new-york-state,United States Grand Prix,,,,,,17,93,,0.0,10,10,8,+7 Laps,,1962
+Cooper-Climax,cooper-climax,British,,sharp,Hap Sharp,American,24,1962-new-york-state,United States Grand Prix,,,,,,15,91,,0.0,11,11,8,+9 Laps,,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,9,1962-new-york-state,United States Grand Prix,,,,,,8,85,,0.0,12,12,8,+15 Laps,,1962
+Porsche,porsche,German,,bonnier,Jo Bonnier,Swedish,11,1962-new-york-state,United States Grand Prix,,,,,,9,79,,0.0,13,13,8,+21 Laps,,1962
+BRM,brm,British,,ginther,Richie Ginther,American,5,1962-new-york-state,United States Grand Prix,,,,,,2,35,,0.0,14,R,8,Engine,,1962
+Lotus-Climax,lotus-climax,British,,trintignant,Maurice Trintignant,French,6,1962-new-york-state,United States Grand Prix,,,,,,19,32,,0.0,15,R,8,Brakes,,1962
+Cooper-Climax,cooper-climax,British,,mayer,Timmy Mayer,American,23,1962-new-york-state,United States Grand Prix,,,,,,12,31,,0.0,16,R,8,Ignition,,1962
+Lola,lola,British,,surtees,John Surtees,British,18,1962-new-york-state,United States Grand Prix,,,,,,20,19,,0.0,17,R,8,Engine,,1962
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,12,1962-new-york-state,United States Grand Prix,,,,,,14,9,,0.0,18,R,8,Accident,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,19,1962-new-york-state,United States Grand Prix,,,,,,0,0,,0.0,19,W,8,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,hall,Jim Hall,American,25,1962-new-york-state,United States Grand Prix,,,,,,0,0,,0.0,20,W,8,Withdrew,,1962
+BRM,brm,British,,hill,Graham Hill,British,3,1962-eastern-cape-province,South African Grand Prix,,,,,,2,82,7683300,9.0,1,1,9,Finished,2:08:03.300,1962
+Cooper-Climax,cooper-climax,British,,mclaren,Bruce McLaren,New Zealander,8,1962-eastern-cape-province,South African Grand Prix,,,,,,8,82,7733100,6.0,2,2,9,Finished,+49.800,1962
+Cooper-Climax,cooper-climax,British,,maggs,Tony Maggs,South African,9,1962-eastern-cape-province,South African Grand Prix,,,,,,6,82,7733600,4.0,3,3,9,Finished,+50.300,1962
+Brabham,brabham,British,,jack_brabham,Jack Brabham,Australian,10,1962-eastern-cape-province,South African Grand Prix,,,,,,3,82,7737100,3.0,4,4,9,Finished,+53.800,1962
+Lotus-Climax,lotus-climax,British,,ireland,Innes Ireland,British,11,1962-eastern-cape-province,South African Grand Prix,,,,,,4,81,,2.0,5,5,9,+1 Lap,,1962
+Lotus-Climax,lotus-climax,British,,lederle,Neville Lederle,South African,20,1962-eastern-cape-province,South African Grand Prix,,,,,,10,78,,1.0,6,6,9,+4 Laps,,1962
+BRM,brm,British,,ginther,Richie Ginther,American,4,1962-eastern-cape-province,South African Grand Prix,,,,,,7,78,,0.0,7,7,9,+4 Laps,,1962
+Cooper-Climax,cooper-climax,British,,love,John Love,Rhodesian,18,1962-eastern-cape-province,South African Grand Prix,,,,,,12,78,,0.0,8,8,9,+4 Laps,,1962
+BRM,brm,British,,johnstone,Bruce Johnstone,South African,5,1962-eastern-cape-province,South African Grand Prix,,,,,,17,76,,0.0,9,9,9,+6 Laps,,1962
+Lotus-Climax,lotus-climax,British,,pieterse,Ernie Pieterse,South African,14,1962-eastern-cape-province,South African Grand Prix,,,,,,13,71,,0.0,10,10,9,+11 Laps,,1962
+Porsche,porsche,German,,beaufort,Carel Godin de Beaufort,Dutch,15,1962-eastern-cape-province,South African Grand Prix,,,,,,16,70,,0.0,11,11,9,Fuel system,,1962
+Lotus-Climax,lotus-climax,British,,clark,Jim Clark,British,1,1962-eastern-cape-province,South African Grand Prix,,,,,,1,62,,0.0,12,R,9,Oil leak,,1962
+LDS,lds,South African,,serrurier,Doug Serrurier,South African,21,1962-eastern-cape-province,South African Grand Prix,,,,,,14,62,,0.0,13,R,9,Radiator,,1962
+Lola,lola,British,,salvadori,Roy Salvadori,British,7,1962-eastern-cape-province,South African Grand Prix,,,,,,11,56,,0.0,14,R,9,Fuel leak,,1962
+Cooper-Alfa Romeo,cooper-alfa_romeo,British,,harris,Mike Harris,South African,22,1962-eastern-cape-province,South African Grand Prix,,,,,,15,31,,0.0,15,R,9,Wheel bearing,,1962
+Lola,lola,British,,surtees,John Surtees,British,6,1962-eastern-cape-province,South African Grand Prix,,,,,,5,26,,0.0,16,R,9,Engine,,1962
+Lotus-Climax,lotus-climax,British,,trevor_taylor,Trevor Taylor,British,2,1962-eastern-cape-province,South African Grand Prix,,,,,,9,11,,0.0,17,R,9,Gearbox,,1962
+Lotus-Climax,lotus-climax,British,,hocking,Gary Hocking,Rhodesian,12,1962-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,18,W,9,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,vyver,Syd van der Vyver,South African,16,1962-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,19,W,9,Withdrew,,1962
+Emeryson,emeryson,British,,settember,Tony Settember,American,17,1962-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,20,W,9,Withdrew,,1962
+Lotus-Climax,lotus-climax,British,,tingle,Sam Tingle,Rhodesian,19,1962-eastern-cape-province,South African Grand Prix,,,,,,0,0,,0.0,21,W,9,Withdrew,,1962

@@ -1,0 +1,43 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""mclaren""]","[""McLaren""]",,prost,Alain Prost,French,,76.0,1,1,4,1989
+"[""mclaren""]","[""McLaren""]",,senna,Ayrton Senna,Brazilian,,60.0,2,2,6,1989
+"[""williams""]","[""Williams""]",,patrese,Riccardo Patrese,Italian,,40.0,3,3,0,1989
+"[""ferrari""]","[""Ferrari""]",,mansell,Nigel Mansell,British,,38.0,4,4,2,1989
+"[""williams""]","[""Williams""]",,boutsen,Thierry Boutsen,Belgian,,37.0,5,5,2,1989
+"[""benetton""]","[""Benetton""]",,nannini,Alessandro Nannini,Italian,,32.0,6,6,1,1989
+"[""ferrari""]","[""Ferrari""]",,berger,Gerhard Berger,Austrian,,21.0,7,7,1,1989
+"[""team_lotus""]","[""Team Lotus""]",,piquet,Nelson Piquet,Brazilian,,12.0,8,8,0,1989
+"[""tyrrell""]","[""Tyrrell""]",,alesi,Jean Alesi,French,,8.0,9,9,0,1989
+"[""arrows""]","[""Arrows""]",,warwick,Derek Warwick,British,,7.0,10,10,0,1989
+"[""arrows""]","[""Arrows""]",,cheever,Eddie Cheever,American,,6.0,11,11,0,1989
+"[""onyx""]","[""Onyx""]",,johansson,Stefan Johansson,Swedish,,6.0,12,12,0,1989
+"[""tyrrell"", ""larrousse""]","[""Tyrrell"", ""Larrousse""]",,alboreto,Michele Alboreto,Italian,,6.0,13,13,0,1989
+"[""benetton"", ""tyrrell""]","[""Benetton"", ""Tyrrell""]",,herbert,Johnny Herbert,British,,5.0,14,14,0,1989
+"[""minardi""]","[""Minardi""]",,martini,Pierluigi Martini,Italian,,5.0,15,15,0,1989
+"[""march""]","[""March""]",,gugelmin,Maurício Gugelmin,Brazilian,,4.0,16,16,0,1989
+"[""dallara""]","[""Dallara""]",,cesaris,Andrea de Cesaris,Italian,,4.0,17,17,0,1989
+"[""brabham""]","[""Brabham""]",,modena,Stefano Modena,Italian,,4.0,18,18,0,1989
+"[""dallara""]","[""Dallara""]",,caffi,Alex Caffi,Italian,,4.0,19,19,0,1989
+"[""brabham""]","[""Brabham""]",,brundle,Martin Brundle,British,,4.0,20,20,0,1989
+"[""team_lotus""]","[""Team Lotus""]",,satoru_nakajima,Satoru Nakajima,Japanese,,3.0,21,21,0,1989
+"[""rial""]","[""Rial""]",,danner,Christian Danner,German,,3.0,22,22,0,1989
+"[""benetton""]","[""Benetton""]",,pirro,Emanuele Pirro,Italian,,2.0,23,23,0,1989
+"[""ligier""]","[""Ligier""]",,arnoux,René Arnoux,French,,2.0,24,24,0,1989
+"[""tyrrell""]","[""Tyrrell""]",,palmer,Jonathan Palmer,British,,2.0,25,25,0,1989
+"[""ligier""]","[""Ligier""]",,grouillard,Olivier Grouillard,French,,1.0,26,26,0,1989
+"[""ags""]","[""AGS""]",,tarquini,Gabriele Tarquini,Italian,,1.0,27,27,0,1989
+"[""minardi""]","[""Minardi""]",,sala,Luis Pérez-Sala,Spanish,,1.0,28,28,0,1989
+"[""larrousse""]","[""Larrousse""]",,alliot,Philippe Alliot,French,,1.0,29,29,0,1989
+"[""march""]","[""March""]",,capelli,Ivan Capelli,Italian,,0.0,,-,0,1989
+"[""larrousse""]","[""Larrousse""]",,bernard,Éric Bernard,French,,0.0,,-,0,1989
+"[""onyx"", ""rial""]","[""Onyx"", ""Rial""]",,gachot,Bertrand Gachot,Belgian,,0.0,,-,0,1989
+"[""osella""]","[""Osella""]",,larini,Nicola Larini,Italian,,0.0,,-,0,1989
+"[""arrows""]","[""Arrows""]",,donnelly,Martin Donnelly,British,,0.0,,-,0,1989
+"[""coloni""]","[""Coloni""]",,moreno,Roberto Moreno,Brazilian,,0.0,,-,0,1989
+"[""onyx""]","[""Onyx""]",,lehto,Jyrki Järvilehto,Finnish,,0.0,,-,0,1989
+"[""osella""]","[""Osella""]",,ghinzani,Piercarlo Ghinzani,Italian,,0.0,,-,0,1989
+"[""zakspeed""]","[""Zakspeed""]",,schneider,Bernd Schneider,German,,0.0,,-,0,1989
+"[""coloni"", ""rial""]","[""Coloni"", ""Rial""]",,raphanel,Pierre-Henri Raphanel,French,,0.0,,-,0,1989
+"[""larrousse"", ""ags""]","[""Larrousse"", ""AGS""]",,dalmas,Yannick Dalmas,French,,0.0,,-,0,1989
+"[""minardi""]","[""Minardi""]",,barilla,Paolo Barilla,Italian,,0.0,,-,0,1989
+"[""rial""]","[""Rial""]",,weidler,Volker Weidler,German,,0.0,,-,0,1989

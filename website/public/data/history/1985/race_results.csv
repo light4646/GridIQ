@@ -1,0 +1,401 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,6,61,6086115,9.0,1,1,1,Finished,1:41:26.115,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,1,61,6089374,6.0,2,2,1,Finished,+3.259,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,3,60,,4.0,3,3,1,+1 Lap,,1985
+Ferrari,ferrari,Italian,,arnoux,René Arnoux,French,28,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,7,59,,3.0,4,4,1,+2 Laps,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,11,59,,2.0,5,5,1,+2 Laps,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,15,59,,1.0,6,6,1,+2 Laps,,1985
+Tyrrell,tyrrell,British,,johansson,Stefan Johansson,Swedish,4,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,23,58,,0.0,7,7,1,+3 Laps,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,21,58,,0.0,8,8,1,+3 Laps,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,10,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,20,58,,0.0,9,9,1,+3 Laps,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,10,57,,0.0,10,10,1,+4 Laps,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,12,57,,0.0,11,11,1,+4 Laps,,1985
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,22,57,,0.0,12,12,1,+4 Laps,,1985
+RAM,ram,British,,manfred_winkelhock,Manfred Winkelhock,German,9,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,16,57,,0.0,13,13,1,+4 Laps,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,19,51,,0.0,14,R,1,Suspension,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,4,48,,0.0,15,R,1,Electrical,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,18,42,,0.0,16,R,1,Engine,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,25,41,,0.0,17,R,1,Engine,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,9,27,,0.0,18,R,1,Fuel system,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,13,26,,0.0,19,R,1,Accident,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,14,20,,0.0,20,R,1,Puncture,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,2,10,,0.0,21,R,1,Turbo,,1985
+Brabham,brabham,British,,hesnault,François Hesnault,French,8,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,17,9,,0.0,22,R,1,Accident,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,5,8,,0.0,23,R,1,Exhaust,,1985
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,24,7,,0.0,24,R,1,Turbo,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-rio-de-janeiro,Brazilian Grand Prix,,,,,,8,2,,0.0,25,R,1,Transmission,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-estoril,Portuguese Grand Prix,,,,,,1,67,7228006,9.0,1,1,2,Finished,2:00:28.006,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-estoril,Portuguese Grand Prix,,,,,,5,67,7290984,6.0,2,2,2,Finished,+1:02.978,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-estoril,Portuguese Grand Prix,,,,,,12,66,,4.0,3,3,2,+1 Lap,,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-estoril,Portuguese Grand Prix,,,,,,4,66,,3.0,4,4,2,+1 Lap,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-estoril,Portuguese Grand Prix,,,,,,9,65,,2.0,5,5,2,+2 Laps,,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1985-estoril,Portuguese Grand Prix,,,,,,21,65,,1.0,6,6,2,+2 Laps,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-estoril,Portuguese Grand Prix,,,,,,6,65,,0.0,7,7,2,+2 Laps,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-estoril,Portuguese Grand Prix,,,,,,11,62,,0.0,8,8,2,+5 Laps,,1985
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1985-estoril,Portuguese Grand Prix,,,,,,26,61,,0.0,9,9,2,+6 Laps,,1985
+RAM,ram,British,,manfred_winkelhock,Manfred Winkelhock,German,9,1985-estoril,Portuguese Grand Prix,,,,,,15,50,,0.0,10,R,2,Not classified,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-estoril,Portuguese Grand Prix,,,,,,7,49,,0.0,11,R,2,Engine,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-estoril,Portuguese Grand Prix,,,,,,14,36,,0.0,12,R,2,Engine,,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-estoril,Portuguese Grand Prix,,,,,,2,30,,0.0,13,R,2,Spun off,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-estoril,Portuguese Grand Prix,,,,,,8,29,,0.0,14,R,2,Tyre,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-estoril,Portuguese Grand Prix,,,,,,16,28,,0.0,15,R,2,Tyre,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-estoril,Portuguese Grand Prix,,,,,,10,28,,0.0,16,R,2,Electrical,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-estoril,Portuguese Grand Prix,,,,,,22,20,,0.0,17,R,2,Transmission,,1985
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1985-estoril,Portuguese Grand Prix,,,,,,29,19,,0.0,18,R,2,Spun off,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-estoril,Portuguese Grand Prix,,,,,,3,16,,0.0,19,R,2,Spun off,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-estoril,Portuguese Grand Prix,,,,,,18,15,,0.0,20,R,2,Tyre,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-estoril,Portuguese Grand Prix,,,,,,17,12,,0.0,21,R,2,Spun off,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-estoril,Portuguese Grand Prix,,,,,,25,12,,0.0,22,R,2,Spun off,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-estoril,Portuguese Grand Prix,,,,,,13,4,,0.0,23,R,2,Spun off,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,10,1985-estoril,Portuguese Grand Prix,,,,,,20,3,,0.0,24,R,2,Spun off,,1985
+Brabham,brabham,British,,hesnault,François Hesnault,French,8,1985-estoril,Portuguese Grand Prix,,,,,,19,3,,0.0,25,R,2,Electrical,,1985
+Zakspeed,zakspeed,German,,palmer,Jonathan Palmer,British,30,1985-estoril,Portuguese Grand Prix,,,,,,23,2,,0.0,26,R,2,Suspension,,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-imola,San Marino Grand Prix,,,,,,3,60,5675955,9.0,1,1,3,Finished,1:34:35.955,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-imola,San Marino Grand Prix,,,,,,5,59,,6.0,2,2,3,+1 Lap,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-imola,San Marino Grand Prix,,,,,,11,59,,4.0,3,3,3,+1 Lap,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-imola,San Marino Grand Prix,,,,,,8,59,,3.0,4,4,3,+1 Lap,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-imola,San Marino Grand Prix,,,,,,7,58,,2.0,5,5,3,+2 Laps,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-imola,San Marino Grand Prix,,,,,,15,57,,1.0,6,6,3,Out of fuel,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-imola,San Marino Grand Prix,,,,,,1,57,,0.0,7,7,3,Out of fuel,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-imola,San Marino Grand Prix,,,,,,9,57,,0.0,8,8,3,Out of fuel,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-imola,San Marino Grand Prix,,,,,,25,56,,0.0,9,9,3,Out of fuel,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-imola,San Marino Grand Prix,,,,,,14,56,,0.0,10,10,3,Out of fuel,,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-imola,San Marino Grand Prix,,,,,,6,60,,0.0,11,D,3,Disqualified,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-imola,San Marino Grand Prix,,,,,,12,50,,0.0,12,R,3,Engine,,1985
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1985-imola,San Marino Grand Prix,,,,,,22,46,,0.0,13,R,3,Not classified,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-imola,San Marino Grand Prix,,,,,,4,29,,0.0,14,R,3,Electrical,,1985
+RAM,ram,British,,manfred_winkelhock,Manfred Winkelhock,German,9,1985-imola,San Marino Grand Prix,,,,,,23,27,,0.0,15,R,3,Engine,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,10,1985-imola,San Marino Grand Prix,,,,,,21,24,,0.0,16,R,3,Engine,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-imola,San Marino Grand Prix,,,,,,2,23,,0.0,17,R,3,Brakes,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-imola,San Marino Grand Prix,,,,,,16,22,,0.0,18,R,3,Turbo,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-imola,San Marino Grand Prix,,,,,,19,14,,0.0,19,R,3,Turbo,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-imola,San Marino Grand Prix,,,,,,13,11,,0.0,20,R,3,Spun off,,1985
+Spirit,spirit,British,,baldi,Mauro Baldi,Italian,21,1985-imola,San Marino Grand Prix,,,,,,26,9,,0.0,21,R,3,Electrical,,1985
+Brabham,brabham,British,,hesnault,François Hesnault,French,8,1985-imola,San Marino Grand Prix,,,,,,20,5,,0.0,22,R,3,Engine,,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1985-imola,San Marino Grand Prix,,,,,,24,5,,0.0,23,R,3,Engine,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-imola,San Marino Grand Prix,,,,,,18,4,,0.0,24,R,3,Engine,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-imola,San Marino Grand Prix,,,,,,18,4,,0.0,25,R,3,Engine,,1985
+Zakspeed,zakspeed,German,,palmer,Jonathan Palmer,British,30,1985-imola,San Marino Grand Prix,,,,,,17,0,,0.0,26,R,3,Retired,,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-monte-carlo,Monaco Grand Prix,,,,,,5,78,6718034,9.0,1,1,4,Finished,1:51:58.034,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-monte-carlo,Monaco Grand Prix,,,,,,3,78,6725575,6.0,2,2,4,Finished,+7.541,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-monte-carlo,Monaco Grand Prix,,,,,,9,78,6805205,4.0,3,3,4,Finished,+1:27.171,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-monte-carlo,Monaco Grand Prix,,,,,,8,77,,3.0,4,4,4,+1 Lap,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-monte-carlo,Monaco Grand Prix,,,,,,10,77,,2.0,5,5,4,+1 Lap,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-monte-carlo,Monaco Grand Prix,,,,,,16,77,,1.0,6,6,4,+1 Lap,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-monte-carlo,Monaco Grand Prix,,,,,,2,77,,0.0,7,7,4,+1 Lap,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-monte-carlo,Monaco Grand Prix,,,,,,7,76,,0.0,8,8,4,+2 Laps,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-monte-carlo,Monaco Grand Prix,,,,,,6,76,,0.0,9,9,4,+2 Laps,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-monte-carlo,Monaco Grand Prix,,,,,,18,74,,0.0,10,10,4,+4 Laps,,1985
+Zakspeed,zakspeed,German,,palmer,Jonathan Palmer,British,30,1985-monte-carlo,Monaco Grand Prix,,,,,,19,74,,0.0,11,11,4,+4 Laps,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-monte-carlo,Monaco Grand Prix,,,,,,14,17,,0.0,12,R,4,Spun off,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-monte-carlo,Monaco Grand Prix,,,,,,12,16,,0.0,13,R,4,Accident,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-monte-carlo,Monaco Grand Prix,,,,,,13,16,,0.0,14,R,4,Accident,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-monte-carlo,Monaco Grand Prix,,,,,,20,16,,0.0,15,R,4,Turbo,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-monte-carlo,Monaco Grand Prix,,,,,,1,13,,0.0,16,R,4,Engine,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-monte-carlo,Monaco Grand Prix,,,,,,4,10,,0.0,17,R,4,Alternator,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-monte-carlo,Monaco Grand Prix,,,,,,15,1,,0.0,18,R,4,Accident,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-monte-carlo,Monaco Grand Prix,,,,,,11,0,,0.0,19,R,4,Accident,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-monte-carlo,Monaco Grand Prix,,,,,,17,0,,0.0,20,R,4,Accident,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-montreal,Canadian Grand Prix,,,,,,3,70,6361813,9.0,1,1,5,Finished,1:46:01.813,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-montreal,Canadian Grand Prix,,,,,,4,70,6363770,6.0,2,2,5,Finished,+1.957,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-montreal,Canadian Grand Prix,,,,,,5,70,6366154,4.0,3,3,5,Finished,+4.341,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-montreal,Canadian Grand Prix,,,,,,8,70,6389634,3.0,4,4,5,Finished,+27.821,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-montreal,Canadian Grand Prix,,,,,,1,70,6405162,2.0,5,5,5,Finished,+43.349,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-montreal,Canadian Grand Prix,,,,,,16,70,6439691,1.0,6,6,5,Finished,+1:17.878,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-montreal,Canadian Grand Prix,,,,,,10,69,,0.0,7,7,5,+1 Lap,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-montreal,Canadian Grand Prix,,,,,,19,69,,0.0,8,8,5,+1 Lap,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-montreal,Canadian Grand Prix,,,,,,7,68,,0.0,9,9,5,+2 Laps,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-montreal,Canadian Grand Prix,,,,,,13,68,,0.0,10,10,5,+2 Laps,,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1985-montreal,Canadian Grand Prix,,,,,,23,68,,0.0,11,11,5,+2 Laps,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-montreal,Canadian Grand Prix,,,,,,24,68,,0.0,12,12,5,+2 Laps,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-montreal,Canadian Grand Prix,,,,,,12,67,,0.0,13,13,5,+3 Laps,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-montreal,Canadian Grand Prix,,,,,,15,67,,0.0,14,14,5,+3 Laps,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-montreal,Canadian Grand Prix,,,,,,20,67,,0.0,15,15,5,+3 Laps,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-montreal,Canadian Grand Prix,,,,,,2,65,,0.0,16,16,5,+5 Laps,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-montreal,Canadian Grand Prix,,,,,,11,64,,0.0,17,17,5,+6 Laps,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-montreal,Canadian Grand Prix,,,,,,25,57,,0.0,18,R,5,Accident,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-montreal,Canadian Grand Prix,,,,,,17,37,,0.0,19,R,5,Engine,,1985
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1985-montreal,Canadian Grand Prix,,,,,,22,35,,0.0,20,R,5,Engine,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,10,1985-montreal,Canadian Grand Prix,,,,,,21,28,,0.0,21,R,5,Accident,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-montreal,Canadian Grand Prix,,,,,,6,25,,0.0,22,R,5,Accident,,1985
+RAM,ram,British,,manfred_winkelhock,Manfred Winkelhock,German,9,1985-montreal,Canadian Grand Prix,,,,,,14,5,,0.0,23,R,5,Accident,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-montreal,Canadian Grand Prix,,,,,,18,3,,0.0,24,R,5,Turbo,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-montreal,Canadian Grand Prix,,,,,,9,0,,0.0,25,R,5,Transmission,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-detroit,Detroit Grand Prix,,,,,,5,63,6939851,9.0,1,1,6,Finished,1:55:39.851,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-detroit,Detroit Grand Prix,,,,,,9,63,6997400,6.0,2,2,6,Finished,+57.549,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-detroit,Detroit Grand Prix,,,,,,3,63,7003021,4.0,3,3,6,Finished,+1:03.170,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1985-detroit,Detroit Grand Prix,,,,,,19,63,7006076,3.0,4,4,6,Finished,+1:06.225,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-detroit,Detroit Grand Prix,,,,,,8,63,7026817,2.0,5,5,6,Finished,+1:26.966,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-detroit,Detroit Grand Prix,,,,,,10,62,,1.0,6,6,6,+1 Lap,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-detroit,Detroit Grand Prix,,,,,,21,62,,0.0,7,7,6,+1 Lap,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-detroit,Detroit Grand Prix,,,,,,11,62,,0.0,8,8,6,+1 Lap,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-detroit,Detroit Grand Prix,,,,,,7,61,,0.0,9,9,6,+2 Laps,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-detroit,Detroit Grand Prix,,,,,,17,61,,0.0,10,10,6,+2 Laps,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-detroit,Detroit Grand Prix,,,,,,24,60,,0.0,11,11,6,+3 Laps,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-detroit,Detroit Grand Prix,,,,,,16,58,,0.0,12,12,6,+5 Laps,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-detroit,Detroit Grand Prix,,,,,,1,51,,0.0,13,R,6,Accident,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-detroit,Detroit Grand Prix,,,,,,18,30,,0.0,14,R,6,Accident,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,10,1985-detroit,Detroit Grand Prix,,,,,,23,27,,0.0,15,R,6,Accident,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-detroit,Detroit Grand Prix,,,,,,2,26,,0.0,16,R,6,Accident,,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-detroit,Detroit Grand Prix,,,,,,4,19,,0.0,17,R,6,Brakes,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-detroit,Detroit Grand Prix,,,,,,14,19,,0.0,18,R,6,Electrical,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-detroit,Detroit Grand Prix,,,,,,6,18,,0.0,19,R,6,Transmission,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-detroit,Detroit Grand Prix,,,,,,15,15,,0.0,20,R,6,Accident,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-detroit,Detroit Grand Prix,,,,,,25,11,,0.0,21,R,6,Engine,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-detroit,Detroit Grand Prix,,,,,,12,10,,0.0,22,R,6,Brakes,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-detroit,Detroit Grand Prix,,,,,,13,4,,0.0,23,R,6,Clutch,,1985
+RAM,ram,British,,manfred_winkelhock,Manfred Winkelhock,German,9,1985-detroit,Detroit Grand Prix,,,,,,20,3,,0.0,24,R,6,Turbo,,1985
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1985-detroit,Detroit Grand Prix,,,,,,22,0,,0.0,25,R,6,Accident,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-le-castellet,French Grand Prix,,,,,,5,53,5506266,9.0,1,1,7,Finished,1:31:46.266,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-le-castellet,French Grand Prix,,,,,,1,53,5512926,6.0,2,2,7,Finished,+6.660,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-le-castellet,French Grand Prix,,,,,,4,53,5515551,4.0,3,3,7,Finished,+9.285,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-le-castellet,French Grand Prix,,,,,,16,53,5559757,3.0,4,4,7,Finished,+53.491,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-le-castellet,French Grand Prix,,,,,,7,53,5559956,2.0,5,5,7,Finished,+53.690,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-le-castellet,French Grand Prix,,,,,,10,53,5581433,1.0,6,6,7,Finished,+1:15.167,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-le-castellet,French Grand Prix,,,,,,11,53,5610478,0.0,7,7,7,Finished,+1:44.212,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-le-castellet,French Grand Prix,,,,,,14,52,,0.0,8,8,7,+1 Lap,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-le-castellet,French Grand Prix,,,,,,12,52,,0.0,9,9,7,+1 Lap,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-le-castellet,French Grand Prix,,,,,,18,52,,0.0,10,10,7,+1 Lap,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-le-castellet,French Grand Prix,,,,,,17,52,,0.0,11,11,7,+1 Lap,,1985
+RAM,ram,British,,manfred_winkelhock,Manfred Winkelhock,German,9,1985-le-castellet,French Grand Prix,,,,,,20,50,,0.0,12,12,7,+3 Laps,,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1985-le-castellet,French Grand Prix,,,,,,26,50,,0.0,13,13,7,+3 Laps,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-le-castellet,French Grand Prix,,,,,,19,49,,0.0,14,14,7,Fuel system,,1985
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1985-le-castellet,French Grand Prix,,,,,,24,49,,0.0,15,15,7,+4 Laps,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-le-castellet,French Grand Prix,,,,,,21,32,,0.0,16,R,7,Gearbox,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-le-castellet,French Grand Prix,,,,,,6,30,,0.0,17,R,7,Gearbox,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-le-castellet,French Grand Prix,,,,,,2,26,,0.0,18,R,7,Accident,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-le-castellet,French Grand Prix,,,,,,9,20,,0.0,19,R,7,Accident,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-le-castellet,French Grand Prix,,,,,,25,19,,0.0,20,R,7,Accident,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,10,1985-le-castellet,French Grand Prix,,,,,,23,8,,0.0,21,R,7,Fuel system,,1985
+Zakspeed,zakspeed,German,,palmer,Jonathan Palmer,British,30,1985-le-castellet,French Grand Prix,,,,,,22,6,,0.0,22,R,7,Engine,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-le-castellet,French Grand Prix,,,,,,3,5,,0.0,23,R,7,Turbo,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-le-castellet,French Grand Prix,,,,,,13,4,,0.0,24,R,7,Steering,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-le-castellet,French Grand Prix,,,,,,15,2,,0.0,25,R,7,Turbo,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-le-castellet,French Grand Prix,,,,,,8,0,,0.0,26,W,7,Injury,,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-silverstone,British Grand Prix,,,,,,3,65,4690436,9.0,1,1,8,Finished,1:18:10.436,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-silverstone,British Grand Prix,,,,,,6,64,,6.0,2,2,8,+1 Lap,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-silverstone,British Grand Prix,,,,,,16,64,,4.0,3,3,8,+1 Lap,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-silverstone,British Grand Prix,,,,,,2,64,,3.0,4,4,8,+1 Lap,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-silverstone,British Grand Prix,,,,,,12,64,,2.0,5,5,8,+1 Lap,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-silverstone,British Grand Prix,,,,,,15,63,,1.0,6,6,8,+2 Laps,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-silverstone,British Grand Prix,,,,,,20,63,,0.0,7,7,8,+2 Laps,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-silverstone,British Grand Prix,,,,,,17,63,,0.0,8,8,8,+2 Laps,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-silverstone,British Grand Prix,,,,,,14,62,,0.0,9,9,8,+3 Laps,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-silverstone,British Grand Prix,,,,,,4,60,,0.0,10,10,8,Fuel system,,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1985-silverstone,British Grand Prix,,,,,,26,59,,0.0,11,11,8,+6 Laps,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-silverstone,British Grand Prix,,,,,,10,57,,0.0,12,R,8,Electrical,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-silverstone,British Grand Prix,,,,,,19,57,,0.0,13,R,8,Spun off,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-silverstone,British Grand Prix,,,,,,7,41,,0.0,14,R,8,Clutch,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-silverstone,British Grand Prix,,,,,,23,38,,0.0,15,R,8,Transmission,,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-silverstone,British Grand Prix,,,,,,8,37,,0.0,16,R,8,Not classified,,1985
+RAM,ram,British,,manfred_winkelhock,Manfred Winkelhock,German,9,1985-silverstone,British Grand Prix,,,,,,18,28,,0.0,17,R,8,Turbo,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-silverstone,British Grand Prix,,,,,,1,21,,0.0,18,R,8,Exhaust,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-silverstone,British Grand Prix,,,,,,5,17,,0.0,19,R,8,Clutch,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-silverstone,British Grand Prix,,,,,,22,17,,0.0,20,R,8,Turbo,,1985
+Zakspeed,zakspeed,German,,palmer,Jonathan Palmer,British,30,1985-silverstone,British Grand Prix,,,,,,24,6,,0.0,21,R,8,Engine,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-silverstone,British Grand Prix,,,,,,9,4,,0.0,22,R,8,Transmission,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-silverstone,British Grand Prix,,,,,,11,1,,0.0,23,R,8,Accident,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-silverstone,British Grand Prix,,,,,,13,0,,0.0,24,R,8,Spun off,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,10,1985-silverstone,British Grand Prix,,,,,,21,0,,0.0,25,R,8,Accident,,1985
+Osella,osella,Italian,,ghinzani,Piercarlo Ghinzani,Italian,24,1985-silverstone,British Grand Prix,,,,,,25,0,,0.0,26,R,8,Accident,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-n-rburg,German Grand Prix,,,,,,8,67,5731337,9.0,1,1,9,Finished,1:35:31.337,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-n-rburg,German Grand Prix,,,,,,3,67,5742998,6.0,2,2,9,Finished,+11.661,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-n-rburg,German Grand Prix,,,,,,13,67,5782491,4.0,3,3,9,Finished,+51.154,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-n-rburg,German Grand Prix,,,,,,15,67,5786616,3.0,4,4,9,Finished,+55.279,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-n-rburg,German Grand Prix,,,,,,12,67,5805309,2.0,5,5,9,Finished,+1:13.972,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-n-rburg,German Grand Prix,,,,,,10,67,5808157,1.0,6,6,9,Finished,+1:16.820,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-n-rburg,German Grand Prix,,,,,,17,66,,0.0,7,7,9,+1 Lap,,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,3,1985-n-rburg,German Grand Prix,,,,,,19,66,,0.0,8,8,9,+1 Lap,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-n-rburg,German Grand Prix,,,,,,2,66,,0.0,9,9,9,+1 Lap,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,4,1985-n-rburg,German Grand Prix,,,,,,26,63,,0.0,10,10,9,+4 Laps,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-n-rburg,German Grand Prix,,,,,,27,62,,0.0,11,11,9,Engine,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-n-rburg,German Grand Prix,,,,,,4,61,,0.0,12,12,9,Brakes,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-n-rburg,German Grand Prix,,,,,,18,45,,0.0,13,R,9,Turbo,,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-n-rburg,German Grand Prix,,,,,,7,40,,0.0,14,R,9,Engine,,1985
+Osella,osella,Italian,,rothengatter,Huub Rothengatter,Dutch,24,1985-n-rburg,German Grand Prix,,,,,,25,32,,0.0,15,R,9,Gearbox,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-n-rburg,German Grand Prix,,,,,,1,29,,0.0,16,R,9,Clutch,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-n-rburg,German Grand Prix,,,,,,5,27,,0.0,17,R,9,CV joint,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-n-rburg,German Grand Prix,,,,,,20,25,,0.0,18,R,9,Ignition,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-n-rburg,German Grand Prix,,,,,,6,23,,0.0,19,R,9,Turbo,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-n-rburg,German Grand Prix,,,,,,16,19,,0.0,20,R,9,Spun off,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-n-rburg,German Grand Prix,,,,,,11,15,,0.0,21,R,9,Engine,,1985
+RAM,ram,British,,manfred_winkelhock,Manfred Winkelhock,German,9,1985-n-rburg,German Grand Prix,,,,,,22,8,,0.0,22,R,9,Engine,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-n-rburg,German Grand Prix,,,,,,9,8,,0.0,23,R,9,Gearbox,,1985
+Renault,renault,French,,hesnault,François Hesnault,French,14,1985-n-rburg,German Grand Prix,,,,,,23,8,,0.0,24,R,9,Clutch,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,10,1985-n-rburg,German Grand Prix,,,,,,21,8,,0.0,25,R,9,Oil pressure,,1985
+Zakspeed,zakspeed,German,,palmer,Jonathan Palmer,British,30,1985-n-rburg,German Grand Prix,,,,,,24,7,,0.0,26,R,9,Alternator,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-n-rburg,German Grand Prix,,,,,,14,0,,0.0,27,R,9,Collision,,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-spielberg,Austrian Grand Prix,,,,,,1,52,4812583,9.0,1,1,10,Finished,1:20:12.583,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-spielberg,Austrian Grand Prix,,,,,,14,52,4842585,6.0,2,2,10,Finished,+30.002,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-spielberg,Austrian Grand Prix,,,,,,9,52,4846939,4.0,3,3,10,Finished,+34.356,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-spielberg,Austrian Grand Prix,,,,,,12,52,4851656,3.0,4,4,10,Finished,+39.073,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-spielberg,Austrian Grand Prix,,,,,,7,52,4894675,2.0,5,5,10,Finished,+1:22.092,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-spielberg,Austrian Grand Prix,,,,,,11,51,,1.0,6,6,10,+1 Lap,,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,3,1985-spielberg,Austrian Grand Prix,,,,,,22,49,,0.0,7,7,10,Out of fuel,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-spielberg,Austrian Grand Prix,,,,,,16,49,,0.0,8,8,10,+3 Laps,,1985
+Osella,osella,Italian,,rothengatter,Huub Rothengatter,Dutch,24,1985-spielberg,Austrian Grand Prix,,,,,,24,48,,0.0,9,9,10,+4 Laps,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-spielberg,Austrian Grand Prix,,,,,,8,46,,0.0,10,10,10,Engine,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-spielberg,Austrian Grand Prix,,,,,,15,43,,0.0,11,R,10,Accident,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-spielberg,Austrian Grand Prix,,,,,,23,40,,0.0,12,R,10,Suspension,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-spielberg,Austrian Grand Prix,,,,,,3,39,,0.0,13,R,10,Engine,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-spielberg,Austrian Grand Prix,,,,,,17,33,,0.0,14,R,10,Turbo,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-spielberg,Austrian Grand Prix,,,,,,6,31,,0.0,15,R,10,Electrical,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-spielberg,Austrian Grand Prix,,,,,,13,29,,0.0,16,R,10,Engine,,1985
+RAM,ram,British,,acheson,Kenny Acheson,British,10,1985-spielberg,Austrian Grand Prix,,,,,,23,28,,0.0,17,R,10,Engine,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-spielberg,Austrian Grand Prix,,,,,,5,26,,0.0,18,R,10,Exhaust,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-spielberg,Austrian Grand Prix,,,,,,2,25,,0.0,19,R,10,Engine,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-spielberg,Austrian Grand Prix,,,,,,10,25,,0.0,20,R,10,Engine,,1985
+Zakspeed,zakspeed,German,,palmer,Jonathan Palmer,British,30,1985-spielberg,Austrian Grand Prix,,,,,,25,17,,0.0,21,R,10,Engine,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1985-spielberg,Austrian Grand Prix,,,,,,21,16,,0.0,22,R,10,Turbo,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-spielberg,Austrian Grand Prix,,,,,,18,13,,0.0,23,R,10,Accident,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-spielberg,Austrian Grand Prix,,,,,,20,6,,0.0,24,R,10,Turbo,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-spielberg,Austrian Grand Prix,,,,,,4,4,,0.0,25,R,10,Oil pressure,,1985
+Toleman,toleman,British,,ghinzani,Piercarlo Ghinzani,Italian,20,1985-spielberg,Austrian Grand Prix,,,,,,19,0,,0.0,26,W,10,Withdrew,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-zandvoort,Dutch Grand Prix,,,,,,10,70,5549263,9.0,1,1,11,Finished,1:32:29.263,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-zandvoort,Dutch Grand Prix,,,,,,3,70,5549495,6.0,2,2,11,Finished,+0.232,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-zandvoort,Dutch Grand Prix,,,,,,4,70,5597754,4.0,3,3,11,Finished,+48.491,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-zandvoort,Dutch Grand Prix,,,,,,16,70,5598100,3.0,4,4,11,Finished,+48.837,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-zandvoort,Dutch Grand Prix,,,,,,11,69,,2.0,5,5,11,+1 Lap,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-zandvoort,Dutch Grand Prix,,,,,,7,69,,1.0,6,6,11,+1 Lap,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-zandvoort,Dutch Grand Prix,,,,,,21,69,,0.0,7,7,11,+1 Lap,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-zandvoort,Dutch Grand Prix,,,,,,1,69,,0.0,8,8,11,+1 Lap,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-zandvoort,Dutch Grand Prix,,,,,,14,68,,0.0,9,9,11,+2 Laps,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-zandvoort,Dutch Grand Prix,,,,,,9,65,,0.0,10,10,11,Exhaust,,1985
+Osella,osella,Italian,,rothengatter,Huub Rothengatter,Dutch,24,1985-zandvoort,Dutch Grand Prix,,,,,,26,56,,0.0,11,R,11,Not classified,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-zandvoort,Dutch Grand Prix,,,,,,8,54,,0.0,12,R,11,Suspension,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1985-zandvoort,Dutch Grand Prix,,,,,,25,52,,0.0,13,R,11,Engine,,1985
+Tyrrell,tyrrell,British,,bellof,Stefan Bellof,German,4,1985-zandvoort,Dutch Grand Prix,,,,,,22,39,,0.0,14,R,11,Engine,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-zandvoort,Dutch Grand Prix,,,,,,12,27,,0.0,15,R,11,Gearbox,,1985
+Ligier,ligier,French,,cesaris,Andrea de Cesaris,Italian,25,1985-zandvoort,Dutch Grand Prix,,,,,,18,25,,0.0,16,R,11,Turbo,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-zandvoort,Dutch Grand Prix,,,,,,6,22,,0.0,17,R,11,Transmission,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-zandvoort,Dutch Grand Prix,,,,,,2,20,,0.0,18,R,11,Engine,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-zandvoort,Dutch Grand Prix,,,,,,5,18,,0.0,19,R,11,Wheel bearing,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-zandvoort,Dutch Grand Prix,,,,,,13,17,,0.0,20,R,11,Electrical,,1985
+Zakspeed,zakspeed,German,,palmer,Jonathan Palmer,British,30,1985-zandvoort,Dutch Grand Prix,,,,,,23,13,,0.0,21,R,11,Oil pressure,,1985
+Toleman,toleman,British,,ghinzani,Piercarlo Ghinzani,Italian,20,1985-zandvoort,Dutch Grand Prix,,,,,,15,12,,0.0,22,R,11,Engine,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-zandvoort,Dutch Grand Prix,,,,,,17,9,,0.0,23,R,11,Engine,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-zandvoort,Dutch Grand Prix,,,,,,24,1,,0.0,24,R,11,Accident,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-zandvoort,Dutch Grand Prix,,,,,,20,1,,0.0,25,R,11,Turbo,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-zandvoort,Dutch Grand Prix,,,,,,19,1,,0.0,26,R,11,Turbo,,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-monza,Italian Grand Prix,,,,,,5,51,4679451,9.0,1,1,12,Finished,1:17:59.451,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-monza,Italian Grand Prix,,,,,,4,51,4731086,6.0,2,2,12,Finished,+51.635,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-monza,Italian Grand Prix,,,,,,1,51,4739841,4.0,3,3,12,Finished,+1:00.390,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-monza,Italian Grand Prix,,,,,,9,51,4740060,3.0,4,4,12,Finished,+1:00.609,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-monza,Italian Grand Prix,,,,,,10,50,,2.0,5,5,12,+1 Lap,,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-monza,Italian Grand Prix,,,,,,6,50,,1.0,6,6,12,+1 Lap,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-monza,Italian Grand Prix,,,,,,8,50,,0.0,7,7,12,+1 Lap,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-monza,Italian Grand Prix,,,,,,18,50,,0.0,8,8,12,+1 Lap,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-monza,Italian Grand Prix,,,,,,14,50,,0.0,9,9,12,+1 Lap,,1985
+Ligier,ligier,French,,streiff,Philippe Streiff,French,25,1985-monza,Italian Grand Prix,,,,,,19,49,,0.0,10,10,12,+2 Laps,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-monza,Italian Grand Prix,,,,,,3,47,,0.0,11,11,12,Engine,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-monza,Italian Grand Prix,,,,,,15,47,,0.0,12,12,12,+4 Laps,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-monza,Italian Grand Prix,,,,,,7,45,,0.0,13,13,12,Engine,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-monza,Italian Grand Prix,,,,,,2,44,,0.0,14,R,12,Engine,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-monza,Italian Grand Prix,,,,,,20,40,,0.0,15,R,12,Engine,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-monza,Italian Grand Prix,,,,,,16,33,,0.0,16,R,12,Transmission,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-monza,Italian Grand Prix,,,,,,13,31,,0.0,17,R,12,Exhaust,,1985
+Osella,osella,Italian,,rothengatter,Huub Rothengatter,Dutch,24,1985-monza,Italian Grand Prix,,,,,,22,26,,0.0,18,R,12,Engine,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1985-monza,Italian Grand Prix,,,,,,26,19,,0.0,19,R,12,Turbo,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-monza,Italian Grand Prix,,,,,,11,13,,0.0,20,R,12,Engine,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-monza,Italian Grand Prix,,,,,,6,9,,0.0,21,R,12,Transmission,,1985
+Lola,lola,British,,jones,Alan Jones,Australian,33,1985-monza,Italian Grand Prix,,,,,,25,6,,0.0,22,R,12,Engine,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-monza,Italian Grand Prix,,,,,,17,3,,0.0,23,R,12,Engine,,1985
+RAM,ram,British,,acheson,Kenny Acheson,British,10,1985-monza,Italian Grand Prix,,,,,,24,2,,0.0,24,R,12,Clutch,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-monza,Italian Grand Prix,,,,,,23,0,,0.0,25,R,12,Fuel pump,,1985
+Toleman,toleman,British,,ghinzani,Piercarlo Ghinzani,Italian,20,1985-monza,Italian Grand Prix,,,,,,0,0,,0.0,26,W,12,Withdrew,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-spa,Belgian Grand Prix,,,,,,2,43,5659893,9.0,1,1,13,Finished,1:34:19.893,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-spa,Belgian Grand Prix,,,,,,7,43,5688315,6.0,2,2,13,Finished,+28.422,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-spa,Belgian Grand Prix,,,,,,1,43,5715002,4.0,3,3,13,Finished,+55.109,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-spa,Belgian Grand Prix,,,,,,10,43,5735183,3.0,4,4,13,Finished,+1:15.290,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-spa,Belgian Grand Prix,,,,,,3,42,,2.0,5,5,13,+1 Lap,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-spa,Belgian Grand Prix,,,,,,14,42,,1.0,6,6,13,+1 Lap,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-spa,Belgian Grand Prix,,,,,,8,42,,0.0,7,7,13,+1 Lap,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-spa,Belgian Grand Prix,,,,,,12,42,,0.0,8,8,13,+1 Lap,,1985
+Ligier,ligier,French,,streiff,Philippe Streiff,French,25,1985-spa,Belgian Grand Prix,,,,,,18,42,,0.0,9,9,13,+1 Lap,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-spa,Belgian Grand Prix,,,,,,9,40,,0.0,10,10,13,+3 Laps,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-spa,Belgian Grand Prix,,,,,,17,38,,0.0,11,11,13,Accident,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-spa,Belgian Grand Prix,,,,,,24,38,,0.0,12,12,13,+5 Laps,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-spa,Belgian Grand Prix,,,,,,21,38,,0.0,13,13,13,+5 Laps,,1985
+Osella,osella,Italian,,rothengatter,Huub Rothengatter,Dutch,24,1985-spa,Belgian Grand Prix,,,,,,23,37,,0.0,14,R,13,Not classified,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-spa,Belgian Grand Prix,,,,,,15,31,,0.0,15,R,13,Engine,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-spa,Belgian Grand Prix,,,,,,19,26,,0.0,16,R,13,Gearbox,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-spa,Belgian Grand Prix,,,,,,13,24,,0.0,17,R,13,Gearbox,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-spa,Belgian Grand Prix,,,,,,11,23,,0.0,18,R,13,Throttle,,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-spa,Belgian Grand Prix,,,,,,9,17,,0.0,19,R,13,Turbo,,1985
+Zakspeed,zakspeed,German,,danner,Christian Danner,German,30,1985-spa,Belgian Grand Prix,,,,,,22,16,,0.0,20,R,13,Gearbox,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1985-spa,Belgian Grand Prix,,,,,,20,10,,0.0,21,R,13,Accident,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-spa,Belgian Grand Prix,,,,,,5,7,,0.0,22,R,13,Spun off,,1985
+Toleman,toleman,British,,ghinzani,Piercarlo Ghinzani,Italian,20,1985-spa,Belgian Grand Prix,,,,,,16,7,,0.0,23,R,13,Accident,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-spa,Belgian Grand Prix,,,,,,4,3,,0.0,24,R,13,Clutch,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-kent,European Grand Prix,,,,,,3,75,5578109,9.0,1,1,14,Finished,1:32:58.109,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-kent,European Grand Prix,,,,,,1,75,5599505,6.0,2,2,14,Finished,+21.396,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-kent,European Grand Prix,,,,,,4,75,5636642,4.0,3,3,14,Finished,+58.533,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-kent,European Grand Prix,,,,,,6,75,5644230,3.0,4,4,14,Finished,+1:06.121,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-kent,European Grand Prix,,,,,,9,74,,2.0,5,5,14,+1 Lap,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-kent,European Grand Prix,,,,,,12,73,,1.0,6,6,14,+2 Laps,,1985
+McLaren,mclaren,British,,watson,John Watson,British,1,1985-kent,European Grand Prix,,,,,,21,73,,0.0,7,7,14,+2 Laps,,1985
+Ligier,ligier,French,,streiff,Philippe Streiff,French,25,1985-kent,European Grand Prix,,,,,,5,73,,0.0,8,8,14,+2 Laps,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-kent,European Grand Prix,,,,,,11,73,,0.0,9,9,14,+2 Laps,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-kent,European Grand Prix,,,,,,19,73,,0.0,10,10,14,+2 Laps,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-kent,European Grand Prix,,,,,,18,73,,0.0,11,11,14,+2 Laps,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-kent,European Grand Prix,,,,,,17,72,,0.0,12,12,14,+3 Laps,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-kent,European Grand Prix,,,,,,7,62,,0.0,13,13,14,Turbo,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-kent,European Grand Prix,,,,,,13,59,,0.0,14,R,14,Electrical,,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-kent,European Grand Prix,,,,,,18,58,,0.0,15,R,14,Engine,,1985
+Zakspeed,zakspeed,German,,danner,Christian Danner,German,30,1985-kent,European Grand Prix,,,,,,25,55,,0.0,16,R,14,Engine,,1985
+Tyrrell,tyrrell,British,,capelli,Ivan Capelli,Italian,4,1985-kent,European Grand Prix,,,,,,24,44,,0.0,17,R,14,Accident,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-kent,European Grand Prix,,,,,,16,40,,0.0,18,R,14,Water leak,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-kent,European Grand Prix,,,,,,20,33,,0.0,19,R,14,Engine,,1985
+RAM,ram,British,,alliot,Philippe Alliot,French,9,1985-kent,European Grand Prix,,,,,,23,31,,0.0,20,R,14,Engine,,1985
+Toleman,toleman,British,,ghinzani,Piercarlo Ghinzani,Italian,20,1985-kent,European Grand Prix,,,,,,14,16,,0.0,21,R,14,Engine,,1985
+Lola,lola,British,,jones,Alan Jones,Australian,33,1985-kent,European Grand Prix,,,,,,22,13,,0.0,22,R,14,Radiator,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-kent,European Grand Prix,,,,,,15,13,,0.0,23,R,14,Turbo,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-kent,European Grand Prix,,,,,,2,6,,0.0,24,R,14,Accident,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-kent,European Grand Prix,,,,,,8,4,,0.0,25,R,14,Injection,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-kent,European Grand Prix,,,,,,26,3,,0.0,26,R,14,Accident,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-midrand,South African Grand Prix,,,,,,1,75,5302866,9.0,1,1,15,Finished,1:28:22.866,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-midrand,South African Grand Prix,,,,,,3,75,5310438,6.0,2,2,15,Finished,+7.572,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-midrand,South African Grand Prix,,,,,,9,74,,4.0,3,3,15,+1 Lap,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-midrand,South African Grand Prix,,,,,,16,74,,3.0,4,4,15,+1 Lap,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-midrand,South African Grand Prix,,,,,,11,74,,2.0,5,5,15,+1 Lap,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-midrand,South African Grand Prix,,,,,,10,74,,1.0,6,6,15,+1 Lap,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-midrand,South African Grand Prix,,,,,,17,73,,0.0,7,7,15,+2 Laps,,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-midrand,South African Grand Prix,,,,,,6,52,,0.0,8,R,15,Engine,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-midrand,South African Grand Prix,,,,,,20,45,,0.0,9,R,15,Radiator,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-midrand,South African Grand Prix,,,,,,8,37,,0.0,10,R,15,Turbo,,1985
+Tyrrell,tyrrell,British,,streiff,Philippe Streiff,French,4,1985-midrand,South African Grand Prix,,,,,,19,16,,0.0,11,R,15,Accident,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-midrand,South African Grand Prix,,,,,,4,8,,0.0,12,R,15,Engine,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-midrand,South African Grand Prix,,,,,,15,8,,0.0,13,R,15,Turbo,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-midrand,South African Grand Prix,,,,,,2,6,,0.0,14,R,15,Engine,,1985
+Toleman,toleman,British,,ghinzani,Piercarlo Ghinzani,Italian,20,1985-midrand,South African Grand Prix,,,,,,13,4,,0.0,15,R,15,Engine,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-midrand,South African Grand Prix,,,,,,7,3,,0.0,16,R,15,Engine,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-midrand,South African Grand Prix,,,,,,5,3,,0.0,17,R,15,Engine,,1985
+Osella,osella,Italian,,rothengatter,Huub Rothengatter,Dutch,24,1985-midrand,South African Grand Prix,,,,,,21,1,,0.0,18,R,15,Electrical,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-midrand,South African Grand Prix,,,,,,12,0,,0.0,19,R,15,Accident,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-midrand,South African Grand Prix,,,,,,14,0,,0.0,20,R,15,Accident,,1985
+Lola,lola,British,,jones,Alan Jones,Australian,33,1985-midrand,South African Grand Prix,,,,,,18,0,,0.0,21,W,15,Driver unwell,,1985
+Williams,williams,British,,keke_rosberg,Keke Rosberg,Finnish,6,1985-adelaide,Australian Grand Prix,,,,,,3,82,7240473,9.0,1,1,16,Finished,2:00:40.473,1985
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1985-adelaide,Australian Grand Prix,,,,,,20,82,7283603,6.0,2,2,16,Finished,+43.130,1985
+Ligier,ligier,French,,streiff,Philippe Streiff,French,25,1985-adelaide,Australian Grand Prix,,,,,,18,82,7329009,4.0,3,3,16,Finished,+1:28.536,1985
+Tyrrell,tyrrell,British,,capelli,Ivan Capelli,Italian,4,1985-adelaide,Australian Grand Prix,,,,,,22,81,,3.0,4,4,16,+1 Lap,,1985
+Ferrari,ferrari,Italian,,johansson,Stefan Johansson,Swedish,28,1985-adelaide,Australian Grand Prix,,,,,,15,81,,2.0,5,5,16,+1 Lap,,1985
+Arrows,arrows,British,,berger,Gerhard Berger,Austrian,17,1985-adelaide,Australian Grand Prix,,,,,,7,81,,1.0,6,6,16,+1 Lap,,1985
+Osella,osella,Italian,,rothengatter,Huub Rothengatter,Dutch,24,1985-adelaide,Australian Grand Prix,,,,,,25,78,,0.0,7,7,16,+4 Laps,,1985
+Minardi,minardi,Italian,,martini,Pierluigi Martini,Italian,29,1985-adelaide,Australian Grand Prix,,,,,,23,78,,0.0,8,8,16,+4 Laps,,1985
+Team Lotus,team_lotus,British,,senna,Ayrton Senna,Brazilian,12,1985-adelaide,Australian Grand Prix,,,,,,1,62,,0.0,9,R,16,Engine,,1985
+Ferrari,ferrari,Italian,,alboreto,Michele Alboreto,Italian,27,1985-adelaide,Australian Grand Prix,,,,,,5,61,,0.0,10,R,16,Transmission,,1985
+McLaren,mclaren,British,,lauda,Niki Lauda,Austrian,1,1985-adelaide,Australian Grand Prix,,,,,,16,57,,0.0,11,R,16,Accident,,1985
+Renault,renault,French,,warwick,Derek Warwick,British,16,1985-adelaide,Australian Grand Prix,,,,,,12,57,,0.0,12,R,16,Transmission,,1985
+Tyrrell,tyrrell,British,,brundle,Martin Brundle,British,3,1985-adelaide,Australian Grand Prix,,,,,,17,49,,0.0,13,R,16,Not classified,,1985
+Brabham,brabham,British,,surer,Marc Surer,Swiss,8,1985-adelaide,Australian Grand Prix,,,,,,6,42,,0.0,14,R,16,Engine,,1985
+Alfa Romeo,alfa,Swiss,,patrese,Riccardo Patrese,Italian,22,1985-adelaide,Australian Grand Prix,,,,,,14,42,,0.0,15,R,16,Exhaust,,1985
+Toleman,toleman,British,,fabi,Teo Fabi,Italian,19,1985-adelaide,Australian Grand Prix,,,,,,24,40,,0.0,16,R,16,Engine,,1985
+Arrows,arrows,British,,boutsen,Thierry Boutsen,Belgian,18,1985-adelaide,Australian Grand Prix,,,,,,11,37,,0.0,17,R,16,Oil leak,,1985
+Toleman,toleman,British,,ghinzani,Piercarlo Ghinzani,Italian,20,1985-adelaide,Australian Grand Prix,,,,,,21,28,,0.0,18,R,16,Clutch,,1985
+McLaren,mclaren,British,,prost,Alain Prost,French,2,1985-adelaide,Australian Grand Prix,,,,,,4,26,,0.0,19,R,16,Engine,,1985
+Renault,renault,French,,tambay,Patrick Tambay,French,15,1985-adelaide,Australian Grand Prix,,,,,,8,20,,0.0,20,R,16,Transmission,,1985
+Lola,lola,British,,jones,Alan Jones,Australian,33,1985-adelaide,Australian Grand Prix,,,,,,19,20,,0.0,21,R,16,Electrical,,1985
+Team Lotus,team_lotus,British,,angelis,Elio de Angelis,Italian,11,1985-adelaide,Australian Grand Prix,,,,,,10,18,,0.0,22,D,16,Disqualified,,1985
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,7,1985-adelaide,Australian Grand Prix,,,,,,9,14,,0.0,23,R,16,Heat shield fire,,1985
+Alfa Romeo,alfa,Swiss,,cheever,Eddie Cheever,American,23,1985-adelaide,Australian Grand Prix,,,,,,13,5,,0.0,24,R,16,Engine,,1985
+Williams,williams,British,,mansell,Nigel Mansell,British,5,1985-adelaide,Australian Grand Prix,,,,,,2,1,,0.0,25,R,16,Transmission,,1985

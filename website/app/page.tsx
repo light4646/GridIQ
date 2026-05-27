@@ -1,135 +1,104 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+
+import { getHistoryManifest, formatNumber } from "@/lib/history";
+import { EVENT_OPTIONS } from "@/lib/static-data";
+
+export const metadata: Metadata = {
+  title: "GridIQ | F1 Statistics, Records & Race Analytics 1950–2026",
+  description:
+    "GridIQ is a Formula 1 statistics platform with every season from 1950 to 2026. Browse world champions, race results, driver standings, constructor records, lap traces, and deep race analytics.",
+  openGraph: {
+    title: "GridIQ | F1 Statistics, Records & Race Analytics 1950–2026",
+    description:
+      "Every Formula 1 season from 1950 to 2026. World champions, race results, driver and constructor records, and FastF1 race analytics.",
+  },
+  alternates: { canonical: "/" },
+};
 
 const featureCards = [
   {
-    title: "Historical database",
-    body: "Browse every loaded F1 season from 2000 to 2026, including calendars, winners, driver standings, and constructor standings.",
+    title: "75 years of F1 history",
+    body: "Browse every Formula 1 season from the inaugural 1950 World Championship through 2026, with race calendars, winners, driver standings, and constructor standings.",
   },
   {
-    title: "Records hub",
-    body: "Compare wins, podiums, points, poles, and constructor records across the modern historical database.",
+    title: "World champions database",
+    body: "See every F1 World Drivers' Champion and Constructors' Champion since 1950, with wins, points, teams, and full season breakdowns.",
   },
   {
-    title: "Constructor database",
-    body: "Review constructor wins, podiums, points, active seasons, titles, drivers, and championship finishes from 2000 to 2026.",
+    title: "Driver & constructor records",
+    body: "All-time rankings for most wins, podiums, pole positions, and points — covering every loaded season in the historical database.",
   },
   {
-    title: "Race intelligence",
-    body: "Auto-generated story cards summarize pace leaders, strategy triggers, tyre mix, and qualifying-to-race swings.",
+    title: "Race intelligence dashboards",
+    body: "Auto-generated story cards for pace leaders, strategy triggers, tyre mix, and qualifying-to-race swings from FastF1 event data.",
   },
   {
-    title: "Deep event analytics",
-    body: "Explore race pace, best stints, pit windows, tyre usage, lap traces, and qualifying-vs-race comparisons for selected FastF1 events.",
-  },
-];
-
-const mainLinks = [
-  {
-    href: "/seasons",
-    title: "Seasons",
-    subtitle: "2000–2026 historical database",
-  },
-  {
-    href: "/records",
-    title: "Records",
-    subtitle: "Wins, podiums, points, poles",
-  },
-  {
-    href: "/constructors",
-    title: "Constructors",
-    subtitle: "Teams, wins, titles, points",
-  },
-  {
-    href: "/seasons/2026",
-    title: "2026 Season",
-    subtitle: "Current season through May 24",
-  },
-  {
-    href: "/seasons/2024",
-    title: "2024 Season",
-    subtitle: "Full historical season profile",
-  },
-  {
-    href: "/events/2024-monza-race",
-    title: "Monza 2024",
-    subtitle: "Italian GP race intelligence",
-  },
-  {
-    href: "/events/2024-silverstone-race",
-    title: "Silverstone 2024",
-    subtitle: "British GP race intelligence",
+    title: "Deep race analytics",
+    body: "Per-race dashboards with lap traces, stint analysis, pit stop windows, tyre usage, and qualifying-vs-race comparisons for 75+ events.",
   },
 ];
 
 export default function HomePage() {
+  const manifest = getHistoryManifest();
+  const totalRaces = manifest.seasons.reduce((sum, s) => sum + s.races, 0);
+  const totalRaceRows = manifest.seasons.reduce((sum, s) => sum + s.race_results, 0);
+
   return (
     <main className="page">
       <div className="shell">
         <section className="hero compactHero">
           <div>
-            <div className="eyebrow">GridIQ · F1 stats and race intelligence</div>
-            <h1>Formula 1 stats, seasons, records, and race intelligence.</h1>
+            <div className="eyebrow">GridIQ · F1 statistics and race intelligence</div>
+            <h1>Formula 1 statistics from 1950 to 2026.</h1>
             <p>
-              GridIQ combines a historical F1 database from 2000 to 2026 with selected
-              FastF1 race analytics, giving you season pages, records, constructor
-              tables, standings, race winners, lap traces, strategy windows, and copyable insights.
+              Every F1 season, world champion, race result, driver record, and constructor title
+              from the 1950 World Championship through the {manifest.end_year} season.
+              Plus deep FastF1 race analytics with lap traces, strategy windows, and race intelligence.
             </p>
           </div>
-
           <div className="heroActions">
-            <Link className="ghostLink" href="/seasons">
-              Seasons
-            </Link>
-            <Link className="ghostLink" href="/records">
-              Records
-            </Link>
-            <Link className="ghostLink" href="/drivers">
-              Drivers
-            </Link>
-            <Link className="ghostLink" href="/constructors">
-              Constructors
-            </Link>
+            <Link className="ghostLink" href="/seasons">All seasons</Link>
+            <Link className="ghostLink" href="/champions">Champions</Link>
+            <Link className="ghostLink" href="/records">Records</Link>
+            <Link className="ghostLink" href="/events">Race Analytics</Link>
           </div>
         </section>
 
         <section className="cards">
           <div className="card">
             <div className="label">Seasons</div>
-            <div className="value">27</div>
-            <p className="small">Historical data from 2000 through 2026.</p>
+            <div className="value">{manifest.seasons.length}</div>
+            <p className="small">F1 seasons from {manifest.start_year} to {manifest.end_year}.</p>
           </div>
-
           <div className="card">
-            <div className="label">Sources</div>
-            <div className="value valueSmall">Jolpica + FastF1</div>
-            <p className="small">Historical results plus selected deep race analytics.</p>
+            <div className="label">Races</div>
+            <div className="value">{formatNumber(totalRaces)}</div>
+            <p className="small">Total Grands Prix in the historical database.</p>
           </div>
-
           <div className="card">
-            <div className="label">Constructors</div>
-            <div className="value valueSmall">Live</div>
-            <p className="small">Team titles, wins, podiums, points, and driver histories.</p>
+            <div className="label">Race result rows</div>
+            <div className="value">{formatNumber(totalRaceRows)}</div>
+            <p className="small">Driver-race result rows loaded.</p>
           </div>
-
           <div className="card">
-            <div className="label">Frontend</div>
-            <div className="value valueSmall">Static</div>
-            <p className="small">Fast loading pages generated from local JSON data.</p>
+            <div className="label">Race analytics</div>
+            <div className="value">{EVENT_OPTIONS.length}</div>
+            <p className="small">Deep FastF1 race dashboards available.</p>
           </div>
         </section>
 
         <section className="panel widePanel intelligencePanel">
           <div className="panelHeader">
             <div>
-              <h2>What GridIQ does</h2>
+              <h2>What GridIQ covers</h2>
               <p>
-                A real F1 stats platform with historical seasons, records, drivers,
-                constructors, standings, and selected race intelligence dashboards.
+                A complete Formula 1 statistics platform — from the 1950 World Championship
+                to the latest 2026 season, with deep per-race analytics.
               </p>
             </div>
-            <div className="pill">Production-ready MVP</div>
+            <div className="pill">75 years of F1</div>
           </div>
-
           <div className="insightGrid">
             {featureCards.map((feature) => (
               <article className="insightCard" key={feature.title}>
@@ -146,73 +115,125 @@ export default function HomePage() {
             <div className="panelHeader">
               <div>
                 <h2>Start exploring</h2>
-                <p>Start with the historical database, then jump into race analytics.</p>
+                <p>Jump into the historical database, champions, records, or race analytics.</p>
               </div>
             </div>
-
             <div className="eventNav">
-              {mainLinks.map((link) => (
-                <Link className="eventLink" href={link.href} key={link.href}>
-                  <span>{link.title}</span>
-                  <small>{link.subtitle}</small>
-                </Link>
-              ))}
+              <Link className="eventLink" href="/seasons">
+                <span>All seasons</span>
+                <small>{manifest.start_year}–{manifest.end_year} · {manifest.seasons.length} seasons</small>
+              </Link>
+              <Link className="eventLink" href="/champions">
+                <span>World champions</span>
+                <small>Every F1 title winner since 1950</small>
+              </Link>
+              <Link className="eventLink" href="/records">
+                <span>Records</span>
+                <small>Most wins, podiums, poles, points</small>
+              </Link>
+              <Link className="eventLink" href="/drivers">
+                <span>Driver database</span>
+                <small>Career profiles, wins, podiums, teams</small>
+              </Link>
+              <Link className="eventLink" href="/constructors">
+                <span>Constructor database</span>
+                <small>Titles, wins, podiums, seasons</small>
+              </Link>
+              <Link className="eventLink" href="/events">
+                <span>Race Analytics</span>
+                <small>{EVENT_OPTIONS.length} deep race dashboards from FastF1</small>
+              </Link>
+              <Link className="eventLink" href="/seasons/2026">
+                <span>2026 season</span>
+                <small>Current season through {manifest.through_date}</small>
+              </Link>
+              <Link className="eventLink" href="/compare?driverA=lewis-hamilton&driverB=max-verstappen">
+                <span>Compare drivers</span>
+                <small>Side-by-side career comparison</small>
+              </Link>
             </div>
           </div>
 
           <div className="panel">
             <div className="panelHeader">
               <div>
-                <h2>Core pages</h2>
-                <p>Product paths for driver research and comparison.</p>
+                <h2>Recent champions</h2>
+                <p>The last ten Formula 1 World Drivers&apos; Champions.</p>
               </div>
+              <Link className="ghostLink" href="/champions">All champions</Link>
             </div>
-
-            <div className="chart">
-              <Link className="ghostLink" href="/drivers">
-                Driver index
-              </Link>
-              <Link className="ghostLink" href="/constructors">
-                Constructor index
-              </Link>
-              <Link className="ghostLink" href="/seasons">
-                Season index
-              </Link>
-              <Link className="ghostLink" href="/records">
-                Records hub
-              </Link>
-              <Link className="ghostLink" href="/drivers/lec">
-                Example driver: LEC
-              </Link>
-              <Link className="ghostLink" href="/drivers/ham">
-                Example driver: HAM
-              </Link>
-              <Link className="ghostLink" href="/compare?driverA=lewis-hamilton&driverB=max-verstappen">
-                Compare Hamilton vs Verstappen
-              </Link>
-            </div>
+            <table>
+              <thead>
+                <tr><th>Year</th><th>Champion</th><th>Team</th><th>Wins</th></tr>
+              </thead>
+              <tbody>
+                {manifest.seasons.slice(0, 10).map((season) => (
+                  <tr key={season.year}>
+                    <td>
+                      <Link className="tableLink" href={`/seasons/${season.year}`}>
+                        {season.year}
+                      </Link>
+                    </td>
+                    <td>{season.driver_champion?.driver_name ?? "—"}</td>
+                    <td className="team">{season.driver_champion?.constructors?.[0] ?? "—"}</td>
+                    <td>{season.driver_champion?.wins ?? "—"}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
         </section>
 
         <section className="panel widePanel">
           <div className="panelHeader">
             <div>
-              <h2>Built for the next phase</h2>
-              <p>
-                The historical backbone is now loaded from 2000 to 2026. The next phase
-                can add richer driver profiles, constructor profiles, charts, search, and
-                automated updates after every Grand Prix.
-              </p>
+              <h2>Popular searches on GridIQ</h2>
+              <p>Common Formula 1 research questions you can answer here.</p>
             </div>
-            <Link className="ghostLink" href="/seasons/2026">
-              View 2026 season
-            </Link>
           </div>
+          <table>
+            <thead>
+              <tr>
+                <th>Question</th>
+                <th>Best page</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Who are all the F1 world champions?</td>
+                <td><Link className="tableLink" href="/champions">Champions</Link></td>
+              </tr>
+              <tr>
+                <td>Who has the most F1 wins?</td>
+                <td><Link className="tableLink" href="/records">Records</Link></td>
+              </tr>
+              <tr>
+                <td>Who won the 2024 F1 championship?</td>
+                <td><Link className="tableLink" href="/seasons/2024">2024 Season</Link></td>
+              </tr>
+              <tr>
+                <td>What is the F1 driver standings history?</td>
+                <td><Link className="tableLink" href="/seasons">Seasons</Link></td>
+              </tr>
+              <tr>
+                <td>Which constructor has the most F1 titles?</td>
+                <td><Link className="tableLink" href="/constructors">Constructors</Link></td>
+              </tr>
+              <tr>
+                <td>How did Verstappen compare to Hamilton in race pace?</td>
+                <td><Link className="tableLink" href="/compare?driverA=max-verstappen&driverB=lewis-hamilton">Compare</Link></td>
+              </tr>
+              <tr>
+                <td>What happened in the 2024 Italian GP race?</td>
+                <td><Link className="tableLink" href="/events/2024-italian-grand-prix-race">Race Analytics</Link></td>
+              </tr>
+            </tbody>
+          </table>
         </section>
 
         <div className="footer">
-          GridIQ is an independent Formula 1 stats and analytics project powered by
-          processed Jolpica and FastF1 data. It is not affiliated with Formula 1.
+          GridIQ is an independent Formula 1 statistics and analytics project powered by
+          Jolpica/Ergast historical data and FastF1 lap data. Not affiliated with Formula 1 or the FIA.
         </div>
       </div>
     </main>

@@ -1,0 +1,13 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,91.0,1,1,7,1973
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,80.0,2,2,5,1973
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,58.0,3,3,3,1973
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,22.0,4,4,0,1973
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,14.0,5,5,0,1973
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,12.0,6,6,0,1973
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,12.0,7,7,0,1973
+Shadow,shadow,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,9.0,8,8,0,1973
+Surtees,surtees,British,https://en.wikipedia.org/wiki/Surtees,7.0,9,9,0,1973
+Iso Marlboro,iso_marlboro,British,https://en.wikipedia.org/wiki/Frank_Williams_Racing_Cars,2.0,10,10,0,1973
+Tecno,tecno,Italian,https://en.wikipedia.org/wiki/Tecno,1.0,11,11,0,1973
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,0.0,,-,0,1973

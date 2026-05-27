@@ -1,0 +1,40 @@
+{
+  "year": 1995,
+  "generated_at": "2026-05-27T06:13:32.969673+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 17,
+  "race_results": 418,
+  "qualifying_results": 418,
+  "drivers": 35,
+  "constructors": 13,
+  "driver_champion": {
+    "year": 1995,
+    "position": 1,
+    "position_text": "1",
+    "points": 102.0,
+    "wins": 9,
+    "driver_id": "michael_schumacher",
+    "driver_code": "MSC",
+    "driver_number": null,
+    "driver_name": "Michael Schumacher",
+    "driver_nationality": "German",
+    "constructors": [
+      "Benetton"
+    ],
+    "constructor_ids": [
+      "benetton"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1995,
+    "position": 1,
+    "position_text": "1",
+    "points": 147.0,
+    "wins": 11,
+    "constructor_id": "benetton",
+    "constructor": "Benetton",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Benetton_Formula"
+  }
+}

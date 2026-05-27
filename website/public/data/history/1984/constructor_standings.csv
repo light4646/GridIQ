@@ -1,0 +1,16 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,143.5,1,1,12,1984
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,57.5,2,2,1,1984
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,47.0,3,3,0,1984
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,38.0,4,4,2,1984
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,34.0,5,5,0,1984
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,25.5,6,6,1,1984
+Toleman,toleman,British,https://en.wikipedia.org/wiki/Toleman,16.0,7,7,0,1984
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,11.0,8,8,0,1984
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,6.0,9,9,0,1984
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,3.0,10,10,0,1984
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,2.0,11,11,0,1984
+ATS,ats,Italian,https://en.wikipedia.org/wiki/ATS_Wheels,0.0,,-,0,1984
+Spirit,spirit,British,https://en.wikipedia.org/wiki/Spirit_Racing,0.0,,-,0,1984
+RAM,ram,British,https://en.wikipedia.org/wiki/RAM_Racing,0.0,,-,0,1984
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,0.0,,-,0,1984

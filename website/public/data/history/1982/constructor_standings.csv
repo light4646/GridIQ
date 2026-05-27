@@ -1,0 +1,18 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,74.0,1,1,3,1982
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,69.0,2,2,4,1982
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,62.0,3,3,4,1982
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,58.0,4,4,1,1982
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,41.0,5,5,2,1982
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,30.0,6,6,1,1982
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,25.0,7,7,1,1982
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,20.0,8,8,0,1982
+Alfa Romeo,alfa,Swiss,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,7.0,9,9,0,1982
+Arrows,arrows,British,https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,5.0,10,10,0,1982
+ATS,ats,Italian,https://en.wikipedia.org/wiki/ATS_Wheels,4.0,11,11,0,1982
+Osella,osella,Italian,https://en.wikipedia.org/wiki/Osella,3.0,12,12,0,1982
+Fittipaldi,fittipaldi,Brazilian,https://en.wikipedia.org/wiki/Fittipaldi_Automotive,1.0,13,13,0,1982
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,0.0,,-,0,1982
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,0.0,,-,0,1982
+Toleman,toleman,British,https://en.wikipedia.org/wiki/Toleman,0.0,,-,0,1982
+Theodore,theodore,Hong Kong,https://en.wikipedia.org/wiki/Theodore_Racing,0.0,,-,0,1982

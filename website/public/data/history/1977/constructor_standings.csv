@@ -1,0 +1,20 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,84.0,1,1,4,1977
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,62.0,2,2,5,1977
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,56.0,3,3,3,1977
+Wolf,wolf,Canadian,https://en.wikipedia.org/wiki/Walter_Wolf_Racing,55.0,4,4,3,1977
+Brabham,brabham,British,https://en.wikipedia.org/wiki/Brabham,27.0,5,5,0,1977
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,27.0,6,6,0,1977
+Shadow,shadow,British,https://en.wikipedia.org/wiki/Shadow_Racing_Cars,23.0,7,7,1,1977
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,18.0,8,8,1,1977
+Fittipaldi,fittipaldi,Brazilian,https://en.wikipedia.org/wiki/Fittipaldi_Automotive,11.0,9,9,0,1977
+Ensign,ensign,British,https://en.wikipedia.org/wiki/Ensign_Racing,10.0,10,10,0,1977
+Surtees,surtees,British,https://en.wikipedia.org/wiki/Surtees,6.0,11,11,0,1977
+Penske,penske,American,https://en.wikipedia.org/wiki/Team_Penske,1.0,12,12,0,1977
+March,march,British,https://en.wikipedia.org/wiki/March_Engineering,0.0,,-,0,1977
+Hesketh,hesketh,British,https://en.wikipedia.org/wiki/Hesketh_Racing,0.0,,-,0,1977
+Kojima,kojima,Japanese,https://en.wikipedia.org/wiki/Kojima_Engineering,0.0,,-,0,1977
+LEC,lec,British,https://en.wikipedia.org/wiki/LEC_Refrigeration_Racing,0.0,,-,0,1977
+BRM,brm,British,https://en.wikipedia.org/wiki/British_Racing_Motors,0.0,,-,0,1977
+Boro,boro,Dutch,https://en.wikipedia.org/wiki/Boro_(Formula_One),0.0,,-,0,1977
+Renault,renault,French,https://en.wikipedia.org/wiki/Renault_in_Formula_One,0.0,,-,0,1977

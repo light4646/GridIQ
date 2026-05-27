@@ -38,6 +38,27 @@ export function generateStaticParams() {
   }));
 }
 
+export async function generateMetadata({ params }: PageProps) {
+  const { year: yearParam } = await params;
+  const year = Number(yearParam);
+  const summary = getAvailableSeasonYears().includes(year) ? getSeasonSummary(year) : null;
+  const champion = summary?.driver_champion?.driver_name ?? null;
+  const constructorChamp = summary?.constructor_champion?.constructor ?? null;
+
+  return {
+    title: `${year} F1 Season — Results, Standings & Champion · GridIQ`,
+    description: champion
+      ? `${year} Formula 1 season. ${champion} won the drivers' championship${constructorChamp ? `, ${constructorChamp} the constructors' title` : ""}. Race results, standings, calendar, and qualifying data.`
+      : `${year} Formula 1 season results, driver standings, constructor standings, and race calendar from the GridIQ historical database.`,
+    openGraph: {
+      title: `${year} Formula 1 Season · GridIQ`,
+      description: champion
+        ? `${year} F1 season — champion: ${champion}. Full race results, standings, and calendar.`
+        : `${year} Formula 1 season results and standings.`,
+    },
+  };
+}
+
 export default async function SeasonDetailPage({ params }: PageProps) {
   const { year: yearParam } = await params;
   const year = Number(yearParam);

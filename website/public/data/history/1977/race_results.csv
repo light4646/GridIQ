@@ -1,0 +1,406 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-buenos-aires,Argentine Grand Prix,,,,,,11,53,6011190,9.0,1,1,1,Finished,1:40:11.190,1977
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1977-buenos-aires,Argentine Grand Prix,,,,,,6,53,6054430,6.0,2,2,1,Finished,+43.240,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-buenos-aires,Argentine Grand Prix,,,,,,7,53,6057210,4.0,3,3,1,Finished,+46.020,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-buenos-aires,Argentine Grand Prix,,,,,,16,53,6066670,3.0,4,4,1,Finished,+55.480,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-buenos-aires,Argentine Grand Prix,,,,,,8,51,,2.0,5,5,1,Wheel bearing,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-buenos-aires,Argentine Grand Prix,,,,,,12,51,,1.0,6,6,1,+2 Laps,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-buenos-aires,Argentine Grand Prix,,,,,,13,48,,0.0,7,7,1,Out of fuel,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-buenos-aires,Argentine Grand Prix,,,,,,17,45,,0.0,8,R,1,Electrical,,1977
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1977-buenos-aires,Argentine Grand Prix,,,,,,9,45,,0.0,9,R,1,Not classified,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-buenos-aires,Argentine Grand Prix,,,,,,2,41,,0.0,10,R,1,Suspension,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-buenos-aires,Argentine Grand Prix,,,,,,20,39,,0.0,11,R,1,Transmission,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-buenos-aires,Argentine Grand Prix,,,,,,15,37,,0.0,12,R,1,Not classified,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-buenos-aires,Argentine Grand Prix,,,,,,3,32,,0.0,13,R,1,Overheating,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-buenos-aires,Argentine Grand Prix,,,,,,1,31,,0.0,14,R,1,Suspension,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-buenos-aires,Argentine Grand Prix,,,,,,5,28,,0.0,15,R,1,Spun off,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-buenos-aires,Argentine Grand Prix,,,,,,14,28,,0.0,16,R,1,Spun off,,1977
+Fittipaldi,fittipaldi,Brazilian,,hoffmann,Ingo Hoffmann,Brazilian,29,1977-buenos-aires,Argentine Grand Prix,,,,,,19,22,,0.0,17,R,1,Engine,,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-buenos-aires,Argentine Grand Prix,,,,,,4,20,,0.0,18,R,1,Fuel system,,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-buenos-aires,Argentine Grand Prix,,,,,,18,18,,0.0,19,R,1,Accident,,1977
+Shadow,shadow,British,,zorzi,Renzo Zorzi,Italian,17,1977-buenos-aires,Argentine Grand Prix,,,,,,21,2,,0.0,20,R,1,Gearbox,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-buenos-aires,Argentine Grand Prix,,,,,,10,0,,0.0,21,W,1,Withdrew,,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-s-o-paulo,Brazilian Grand Prix,,,,,,2,40,6307720,9.0,1,1,2,Finished,1:45:07.720,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-s-o-paulo,Brazilian Grand Prix,,,,,,1,40,6318430,6.0,2,2,2,Finished,+10.710,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-s-o-paulo,Brazilian Grand Prix,,,,,,13,40,6415230,4.0,3,3,2,Finished,+1:47.510,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-s-o-paulo,Brazilian Grand Prix,,,,,,16,39,,3.0,4,4,2,+1 Lap,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-s-o-paulo,Brazilian Grand Prix,,,,,,10,39,,2.0,5,5,2,+1 Lap,,1977
+Shadow,shadow,British,,zorzi,Renzo Zorzi,Italian,17,1977-s-o-paulo,Brazilian Grand Prix,,,,,,18,39,,1.0,6,6,2,+1 Lap,,1977
+Fittipaldi,fittipaldi,Brazilian,,hoffmann,Ingo Hoffmann,Brazilian,29,1977-s-o-paulo,Brazilian Grand Prix,,,,,,19,38,,0.0,7,7,2,+2 Laps,,1977
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1977-s-o-paulo,Brazilian Grand Prix,,,,,,12,33,,0.0,8,R,2,Accident,,1977
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1977-s-o-paulo,Brazilian Grand Prix,,,,,,5,33,,0.0,9,R,2,Engine,,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-s-o-paulo,Brazilian Grand Prix,,,,,,20,32,,0.0,10,R,2,Suspension,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-s-o-paulo,Brazilian Grand Prix,,,,,,7,30,,0.0,11,R,2,Accident,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-s-o-paulo,Brazilian Grand Prix,,,,,,14,26,,0.0,12,R,2,Accident,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-s-o-paulo,Brazilian Grand Prix,,,,,,6,23,,0.0,13,R,2,Accident,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-s-o-paulo,Brazilian Grand Prix,,,,,,3,19,,0.0,14,R,2,Ignition,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-s-o-paulo,Brazilian Grand Prix,,,,,,21,16,,0.0,15,R,2,Engine,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-s-o-paulo,Brazilian Grand Prix,,,,,,4,12,,0.0,16,R,2,Accident,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-s-o-paulo,Brazilian Grand Prix,,,,,,8,12,,0.0,17,R,2,Accident,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-s-o-paulo,Brazilian Grand Prix,,,,,,9,12,,0.0,18,R,2,Accident,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-s-o-paulo,Brazilian Grand Prix,,,,,,11,11,,0.0,19,R,2,Accident,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-s-o-paulo,Brazilian Grand Prix,,,,,,15,11,,0.0,20,R,2,Engine,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-s-o-paulo,Brazilian Grand Prix,,,,,,17,1,,0.0,21,R,2,Transmission,,1977
+BRM,brm,British,,perkins,Larry Perkins,Australian,14,1977-s-o-paulo,Brazilian Grand Prix,,,,,,22,1,,0.0,22,R,2,Overheating,,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-midrand,South African Grand Prix,,,,,,3,78,6141600,9.0,1,1,3,Finished,1:42:21.600,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-midrand,South African Grand Prix,,,,,,5,78,6146800,6.0,2,2,3,Finished,+5.200,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-midrand,South African Grand Prix,,,,,,4,78,6147300,4.0,3,3,3,Finished,+5.700,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-midrand,South African Grand Prix,,,,,,1,78,6151100,3.0,4,4,3,Finished,+9.500,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-midrand,South African Grand Prix,,,,,,12,78,6161500,2.0,5,5,3,Finished,+19.900,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-midrand,South African Grand Prix,,,,,,11,78,6161800,1.0,6,6,3,Finished,+20.200,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-midrand,South African Grand Prix,,,,,,14,78,6165200,0.0,7,7,3,Finished,+23.600,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-midrand,South African Grand Prix,,,,,,8,78,6168300,0.0,8,8,3,Finished,+26.700,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-midrand,South African Grand Prix,,,,,,16,78,6187800,0.0,9,9,3,Finished,+46.200,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-midrand,South African Grand Prix,,,,,,9,78,6213300,0.0,10,10,3,Finished,+1:11.700,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-midrand,South African Grand Prix,,,,,,19,77,,0.0,11,11,3,+1 Lap,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-midrand,South African Grand Prix,,,,,,10,77,,0.0,12,12,3,+1 Lap,,1977
+Brabham,brabham,British,,pace,Carlos Pace,Brazilian,8,1977-midrand,South African Grand Prix,,,,,,2,76,,0.0,13,13,3,+2 Laps,,1977
+March,march,British,,lunger,Brett Lunger,American,30,1977-midrand,South African Grand Prix,,,,,,23,76,,0.0,14,14,3,+2 Laps,,1977
+BRM,brm,British,,perkins,Larry Perkins,Australian,14,1977-midrand,South African Grand Prix,,,,,,22,73,,0.0,15,15,3,+5 Laps,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-midrand,South African Grand Prix,,,,,,17,66,,0.0,16,R,3,Engine,,1977
+March,march,British,,stuck,Hans-Joachim Stuck,German,10,1977-midrand,South African Grand Prix,,,,,,18,55,,0.0,17,R,3,Engine,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-midrand,South African Grand Prix,,,,,,6,43,,0.0,18,R,3,Accident,,1977
+March,march,British,,hayje,Boy Lunger,Dutch,33,1977-midrand,South African Grand Prix,,,,,,21,33,,0.0,19,R,3,Gearbox,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-midrand,South African Grand Prix,,,,,,12,22,,0.0,20,R,3,Accident,,1977
+Shadow,shadow,British,,pryce,Tom Pryce,British,16,1977-midrand,South African Grand Prix,,,,,,15,22,,0.0,21,R,3,Accident,,1977
+Shadow,shadow,British,,zorzi,Renzo Zorzi,Italian,17,1977-midrand,South African Grand Prix,,,,,,20,21,,0.0,22,R,3,Fuel leak,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-midrand,South African Grand Prix,,,,,,7,5,,0.0,23,R,3,Fuel system,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-california,United States Grand Prix West,,,,,,2,80,6695470,9.0,1,1,4,Finished,1:51:35.470,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-california,United States Grand Prix West,,,,,,1,80,6696243,6.0,2,2,4,Finished,+0.773,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-california,United States Grand Prix West,,,,,,3,80,6700327,4.0,3,3,4,Finished,+4.857,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-california,United States Grand Prix West,,,,,,12,80,6769957,3.0,4,4,4,Finished,+1:14.487,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-california,United States Grand Prix West,,,,,,7,80,6776378,2.0,5,5,4,Finished,+1:20.908,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-california,United States Grand Prix West,,,,,,9,79,,1.0,6,6,4,+1 Lap,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-california,United States Grand Prix West,,,,,,8,79,,0.0,7,7,4,+1 Lap,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-california,United States Grand Prix West,,,,,,16,79,,0.0,8,8,4,+1 Lap,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-california,United States Grand Prix West,,,,,,5,78,,0.0,9,9,4,Electrical,,1977
+March,march,British,,henton,Brian Henton,British,10,1977-california,United States Grand Prix West,,,,,,18,77,,0.0,10,10,4,+3 Laps,,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-california,United States Grand Prix West,,,,,,19,77,,0.0,11,11,4,+3 Laps,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-california,United States Grand Prix West,,,,,,10,62,,0.0,12,R,4,Fuel system,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-california,United States Grand Prix West,,,,,,13,57,,0.0,13,R,4,Gearbox,,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-california,United States Grand Prix West,,,,,,17,53,,0.0,14,R,4,Brakes,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-california,United States Grand Prix West,,,,,,14,40,,0.0,15,R,4,Gearbox,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-california,United States Grand Prix West,,,,,,15,39,,0.0,16,R,4,Handling,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-california,United States Grand Prix West,,,,,,6,33,,0.0,17,D,4,Disqualified,,1977
+Shadow,shadow,British,,zorzi,Renzo Zorzi,Italian,16,1977-california,United States Grand Prix West,,,,,,20,27,,0.0,18,R,4,Gearbox,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-california,United States Grand Prix West,,,,,,22,15,,0.0,19,R,4,Gearbox,,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-california,United States Grand Prix West,,,,,,4,5,,0.0,20,R,4,Accident,,1977
+March,march,British,,lunger,Brett Lunger,American,30,1977-california,United States Grand Prix West,,,,,,21,4,,0.0,21,R,4,Accident,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-california,United States Grand Prix West,,,,,,11,0,,0.0,22,R,4,Accident,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-madrid,Spanish Grand Prix,,,,,,1,75,6172220,9.0,1,1,5,Finished,1:42:52.220,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-madrid,Spanish Grand Prix,,,,,,4,75,6188070,6.0,2,2,5,Finished,+15.850,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-madrid,Spanish Grand Prix,,,,,,5,75,6196730,4.0,3,3,5,Finished,+24.510,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-madrid,Spanish Grand Prix,,,,,,9,75,6197090,3.0,4,4,5,Finished,+24.870,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-madrid,Spanish Grand Prix,,,,,,12,75,6238050,2.0,5,5,5,Finished,+1:05.830,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-madrid,Spanish Grand Prix,,,,,,13,74,,1.0,6,6,5,+1 Lap,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-madrid,Spanish Grand Prix,,,,,,2,74,,0.0,7,7,5,+1 Lap,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-madrid,Spanish Grand Prix,,,,,,15,74,,0.0,8,8,5,+1 Lap,,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-madrid,Spanish Grand Prix,,,,,,20,73,,0.0,9,9,5,+2 Laps,,1977
+March,march,British,,lunger,Brett Lunger,American,30,1977-madrid,Spanish Grand Prix,,,,,,28,72,,0.0,10,10,5,+3 Laps,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-madrid,Spanish Grand Prix,,,,,,17,72,,0.0,11,11,5,+3 Laps,,1977
+March,march,British,,neve,Patrick Nève,Belgian,27,1977-madrid,Spanish Grand Prix,,,,,,22,71,,0.0,12,12,5,+4 Laps,,1977
+McLaren,mclaren,British,,villota,Emilio de Villota,Spanish,36,1977-madrid,Spanish Grand Prix,,,,,,23,70,,0.0,13,13,5,+5 Laps,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-madrid,Spanish Grand Prix,,,,,,19,70,,0.0,14,14,5,+5 Laps,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-madrid,Spanish Grand Prix,,,,,,6,64,,0.0,15,R,5,Fuel system,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-madrid,Spanish Grand Prix,,,,,,14,56,,0.0,16,R,5,Accident,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-madrid,Spanish Grand Prix,,,,,,16,32,,0.0,17,R,5,Accident,,1977
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,25,1977-madrid,Spanish Grand Prix,,,,,,10,29,,0.0,18,R,5,Radiator,,1977
+Shadow,shadow,British,,zorzi,Renzo Zorzi,Italian,16,1977-madrid,Spanish Grand Prix,,,,,,24,25,,0.0,19,R,5,Engine,,1977
+March,march,British,,merzario,Arturo Merzario,Italian,37,1977-madrid,Spanish Grand Prix,,,,,,21,16,,0.0,20,R,5,Suspension,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-madrid,Spanish Grand Prix,,,,,,10,12,,0.0,21,R,5,Engine,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-madrid,Spanish Grand Prix,,,,,,7,10,,0.0,22,R,5,Engine,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-madrid,Spanish Grand Prix,,,,,,8,9,,0.0,23,R,5,Accident,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-madrid,Spanish Grand Prix,,,,,,11,9,,0.0,24,R,5,Accident,,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-madrid,Spanish Grand Prix,,,,,,3,0,,0.0,25,R,5,Injured,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-monte-carlo,Monaco Grand Prix,,,,,,2,76,7072770,9.0,1,1,6,Finished,1:57:52.770,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-monte-carlo,Monaco Grand Prix,,,,,,6,76,7073659,6.0,2,2,6,Finished,+0.889,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-monte-carlo,Monaco Grand Prix,,,,,,3,76,7105570,4.0,3,3,6,Finished,+32.800,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-monte-carlo,Monaco Grand Prix,,,,,,9,76,7107370,3.0,4,4,6,Finished,+34.600,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-monte-carlo,Monaco Grand Prix,,,,,,10,76,7108320,2.0,5,5,6,Finished,+35.550,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-monte-carlo,Monaco Grand Prix,,,,,,11,76,7109380,1.0,6,6,6,Finished,+36.610,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-monte-carlo,Monaco Grand Prix,,,,,,16,76,7137210,0.0,7,7,6,Finished,+1:04.440,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-monte-carlo,Monaco Grand Prix,,,,,,14,76,7141410,0.0,8,8,6,Finished,+1:08.640,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-monte-carlo,Monaco Grand Prix,,,,,,15,75,,0.0,9,9,6,+1 Lap,,1977
+Ensign,ensign,British,,ickx,Jacky Ickx,Belgian,22,1977-monte-carlo,Monaco Grand Prix,,,,,,17,75,,0.0,10,10,6,+1 Lap,,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-monte-carlo,Monaco Grand Prix,,,,,,12,74,,0.0,11,11,6,+2 Laps,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-monte-carlo,Monaco Grand Prix,,,,,,20,73,,0.0,12,12,6,+3 Laps,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-monte-carlo,Monaco Grand Prix,,,,,,13,51,,0.0,13,R,6,Gearbox,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-monte-carlo,Monaco Grand Prix,,,,,,1,48,,0.0,14,R,6,Gearbox,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-monte-carlo,Monaco Grand Prix,,,,,,8,46,,0.0,15,R,6,Gearbox,,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-monte-carlo,Monaco Grand Prix,,,,,,19,41,,0.0,16,R,6,Fuel system,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-monte-carlo,Monaco Grand Prix,,,,,,18,37,,0.0,17,R,6,Engine,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-monte-carlo,Monaco Grand Prix,,,,,,7,25,,0.0,18,R,6,Engine,,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-monte-carlo,Monaco Grand Prix,,,,,,5,19,,0.0,19,R,6,Electrical,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-monte-carlo,Monaco Grand Prix,,,,,,4,10,,0.0,20,R,6,Brakes,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-heusden-zolder,Belgian Grand Prix,,,,,,3,70,6905710,9.0,1,1,7,Finished,1:55:05.710,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-heusden-zolder,Belgian Grand Prix,,,,,,11,70,6919900,6.0,2,2,7,Finished,+14.190,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-heusden-zolder,Belgian Grand Prix,,,,,,8,70,6925660,4.0,3,3,7,Finished,+19.950,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-heusden-zolder,Belgian Grand Prix,,,,,,12,70,6930690,3.0,4,4,7,Finished,+24.980,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-heusden-zolder,Belgian Grand Prix,,,,,,17,70,6981180,2.0,5,5,7,Finished,+1:15.470,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-heusden-zolder,Belgian Grand Prix,,,,,,18,69,,1.0,6,6,7,+1 Lap,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-heusden-zolder,Belgian Grand Prix,,,,,,9,69,,0.0,7,7,7,+1 Lap,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-heusden-zolder,Belgian Grand Prix,,,,,,5,69,,0.0,8,8,7,+1 Lap,,1977
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,25,1977-heusden-zolder,Belgian Grand Prix,,,,,,25,69,,0.0,9,9,7,+1 Lap,,1977
+March,march,British,,neve,Patrick Nève,Belgian,27,1977-heusden-zolder,Belgian Grand Prix,,,,,,24,68,,0.0,10,10,7,+2 Laps,,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-heusden-zolder,Belgian Grand Prix,,,,,,26,68,,0.0,11,11,7,+2 Laps,,1977
+Surtees,surtees,British,,perkins,Larry Perkins,Australian,18,1977-heusden-zolder,Belgian Grand Prix,,,,,,23,67,,0.0,12,12,7,+3 Laps,,1977
+LEC,lec,British,,purley,David Purley,British,31,1977-heusden-zolder,Belgian Grand Prix,,,,,,20,67,,0.0,13,13,7,+3 Laps,,1977
+March,march,British,,merzario,Arturo Merzario,Italian,37,1977-heusden-zolder,Belgian Grand Prix,,,,,,14,65,,0.0,14,14,7,+5 Laps,,1977
+March,march,British,,hayje,Boy Lunger,Dutch,33,1977-heusden-zolder,Belgian Grand Prix,,,,,,27,63,,0.0,15,R,7,Not classified,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-heusden-zolder,Belgian Grand Prix,,,,,,4,62,,0.0,16,R,7,Engine,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-heusden-zolder,Belgian Grand Prix,,,,,,6,39,,0.0,17,R,7,Accident,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-heusden-zolder,Belgian Grand Prix,,,,,,10,32,,0.0,18,R,7,Engine,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-heusden-zolder,Belgian Grand Prix,,,,,,13,29,,0.0,19,R,7,Engine,,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-heusden-zolder,Belgian Grand Prix,,,,,,7,14,,0.0,20,R,7,Accident,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-heusden-zolder,Belgian Grand Prix,,,,,,19,14,,0.0,21,R,7,Accident,,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-heusden-zolder,Belgian Grand Prix,,,,,,15,12,,0.0,22,R,7,Accident,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-heusden-zolder,Belgian Grand Prix,,,,,,21,8,,0.0,23,R,7,Accident,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-heusden-zolder,Belgian Grand Prix,,,,,,16,2,,0.0,24,R,7,Electrical,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-heusden-zolder,Belgian Grand Prix,,,,,,1,0,,0.0,25,R,7,Accident,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-heusden-zolder,Belgian Grand Prix,,,,,,2,0,,0.0,26,R,7,Accident,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-anderstorp,Swedish Grand Prix,,,,,,8,72,6416400,9.0,1,1,8,Finished,1:46:56.400,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-anderstorp,Swedish Grand Prix,,,,,,9,72,6424849,6.0,2,2,8,Finished,+8.449,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-anderstorp,Swedish Grand Prix,,,,,,12,72,6430769,4.0,3,3,8,Finished,+14.369,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-anderstorp,Swedish Grand Prix,,,,,,6,72,6432708,3.0,4,4,8,Finished,+16.308,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-anderstorp,Swedish Grand Prix,,,,,,2,72,6435135,2.0,5,5,8,Finished,+18.735,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-anderstorp,Swedish Grand Prix,,,,,,1,72,6441677,1.0,6,6,8,Finished,+25.277,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-anderstorp,Swedish Grand Prix,,,,,,14,72,6447666,0.0,7,7,8,Finished,+31.266,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-anderstorp,Swedish Grand Prix,,,,,,17,72,6480967,0.0,8,8,8,Finished,+1:04.567,1977
+Shadow,shadow,British,,oliver,Jackie Oliver,British,16,1977-anderstorp,Swedish Grand Prix,,,,,,16,72,6498879,0.0,9,9,8,Finished,+1:22.479,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-anderstorp,Swedish Grand Prix,,,,,,5,71,,0.0,10,10,8,+1 Lap,,1977
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1977-anderstorp,Swedish Grand Prix,,,,,,22,71,,0.0,11,11,8,+1 Lap,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-anderstorp,Swedish Grand Prix,,,,,,3,71,,0.0,12,12,8,+1 Lap,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-anderstorp,Swedish Grand Prix,,,,,,24,71,,0.0,13,13,8,+1 Lap,,1977
+LEC,lec,British,,purley,David Purley,British,31,1977-anderstorp,Swedish Grand Prix,,,,,,19,70,,0.0,14,14,8,+2 Laps,,1977
+March,march,British,,neve,Patrick Nève,Belgian,27,1977-anderstorp,Swedish Grand Prix,,,,,,20,69,,0.0,15,15,8,+3 Laps,,1977
+Hesketh,hesketh,British,,ertl,Harald Ertl,Austrian,25,1977-anderstorp,Swedish Grand Prix,,,,,,23,68,,0.0,16,16,8,+4 Laps,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-anderstorp,Swedish Grand Prix,,,,,,11,67,,0.0,17,17,8,+5 Laps,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-anderstorp,Swedish Grand Prix,,,,,,18,66,,0.0,18,18,8,+6 Laps,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-anderstorp,Swedish Grand Prix,,,,,,7,64,,0.0,19,19,8,Wheel bearing,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-anderstorp,Swedish Grand Prix,,,,,,21,61,,0.0,20,R,8,Transmission,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-anderstorp,Swedish Grand Prix,,,,,,13,52,,0.0,21,R,8,Fuel pressure,,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-anderstorp,Swedish Grand Prix,,,,,,15,47,,0.0,22,R,8,Handling,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-anderstorp,Swedish Grand Prix,,,,,,4,29,,0.0,23,R,8,Accident,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-anderstorp,Swedish Grand Prix,,,,,,10,7,,0.0,24,R,8,Ignition,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-dijon,French Grand Prix,,,,,,1,80,5980130,9.0,1,1,9,Finished,1:39:40.130,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-dijon,French Grand Prix,,,,,,4,80,5981680,6.0,2,2,9,Finished,+1.550,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-dijon,French Grand Prix,,,,,,2,80,6014000,4.0,3,3,9,Finished,+33.870,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-dijon,French Grand Prix,,,,,,3,80,6051210,3.0,4,4,9,Finished,+1:11.080,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-dijon,French Grand Prix,,,,,,9,80,6054280,2.0,5,5,9,Finished,+1:14.150,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-dijon,French Grand Prix,,,,,,6,79,,1.0,6,6,9,+1 Lap,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-dijon,French Grand Prix,,,,,,16,79,,0.0,7,7,9,+1 Lap,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-dijon,French Grand Prix,,,,,,5,78,,0.0,8,8,9,+2 Laps,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-dijon,French Grand Prix,,,,,,7,78,,0.0,9,9,9,+2 Laps,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-dijon,French Grand Prix,,,,,,14,78,,0.0,10,10,9,+2 Laps,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-dijon,French Grand Prix,,,,,,22,77,,0.0,11,11,9,+3 Laps,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-dijon,French Grand Prix,,,,,,17,77,,0.0,12,12,9,+3 Laps,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-dijon,French Grand Prix,,,,,,11,77,,0.0,13,13,9,+3 Laps,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-dijon,French Grand Prix,,,,,,20,69,,0.0,14,R,9,Not classified,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-dijon,French Grand Prix,,,,,,8,66,,0.0,15,R,9,Accident,,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-dijon,French Grand Prix,,,,,,13,64,,0.0,16,R,9,Accident,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-dijon,French Grand Prix,,,,,,10,60,,0.0,17,R,9,Transmission,,1977
+March,march,British,,merzario,Arturo Merzario,Italian,37,1977-dijon,French Grand Prix,,,,,,18,27,,0.0,18,R,9,Gearbox,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-dijon,French Grand Prix,,,,,,12,21,,0.0,19,R,9,Accident,,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-dijon,French Grand Prix,,,,,,15,6,,0.0,20,R,9,Engine,,1977
+LEC,lec,British,,purley,David Purley,British,31,1977-dijon,French Grand Prix,,,,,,21,5,,0.0,21,R,9,Accident,,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-dijon,French Grand Prix,,,,,,19,4,,0.0,22,R,9,Accident,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-silverstone,British Grand Prix,,,,,,1,68,5506060,9.0,1,1,10,Finished,1:31:46.060,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-silverstone,British Grand Prix,,,,,,3,68,5524370,6.0,2,2,10,Finished,+18.310,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-silverstone,British Grand Prix,,,,,,5,68,5525630,4.0,3,3,10,Finished,+19.570,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-silverstone,British Grand Prix,,,,,,11,68,5553820,3.0,4,4,10,Finished,+47.760,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-silverstone,British Grand Prix,,,,,,7,68,5577790,2.0,5,5,10,Finished,+1:11.730,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-silverstone,British Grand Prix,,,,,,15,67,,1.0,6,6,10,+1 Lap,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-silverstone,British Grand Prix,,,,,,12,67,,0.0,7,7,10,+1 Lap,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-silverstone,British Grand Prix,,,,,,8,67,,0.0,8,8,10,+1 Lap,,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-silverstone,British Grand Prix,,,,,,20,67,,0.0,9,9,10,+1 Lap,,1977
+March,march,British,,neve,Patrick Nève,Belgian,27,1977-silverstone,British Grand Prix,,,,,,26,66,,0.0,10,10,10,+2 Laps,,1977
+McLaren,mclaren,British,,gilles_villeneuve,Gilles Villeneuve,Canadian,40,1977-silverstone,British Grand Prix,,,,,,9,66,,0.0,11,11,10,+2 Laps,,1977
+Surtees,surtees,British,,schuppan,Vern Schuppan,Australian,18,1977-silverstone,British Grand Prix,,,,,,23,66,,0.0,12,12,10,+2 Laps,,1977
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1977-silverstone,British Grand Prix,,,,,,19,64,,0.0,13,13,10,+4 Laps,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-silverstone,British Grand Prix,,,,,,6,62,,0.0,14,14,10,Engine,,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-silverstone,British Grand Prix,,,,,,14,62,,0.0,15,15,10,+6 Laps,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-silverstone,British Grand Prix,,,,,,2,60,,0.0,16,R,10,Fuel system,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-silverstone,British Grand Prix,,,,,,4,59,,0.0,17,R,10,Engine,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-silverstone,British Grand Prix,,,,,,22,42,,0.0,18,R,10,Throttle,,1977
+March,march,British,,merzario,Arturo Merzario,Italian,37,1977-silverstone,British Grand Prix,,,,,,17,28,,0.0,19,R,10,Transmission,,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-silverstone,British Grand Prix,,,,,,25,20,,0.0,20,R,10,Fuel pressure,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-silverstone,British Grand Prix,,,,,,18,16,,0.0,21,R,10,Brakes,,1977
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1977-silverstone,British Grand Prix,,,,,,21,16,,0.0,22,R,10,Turbo,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-silverstone,British Grand Prix,,,,,,24,6,,0.0,23,R,10,Accident,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-silverstone,British Grand Prix,,,,,,16,3,,0.0,24,R,10,Engine,,1977
+Ensign,ensign,British,,tambay,Patrick Tambay,French,23,1977-silverstone,British Grand Prix,,,,,,10,3,,0.0,25,R,10,Electrical,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-silverstone,British Grand Prix,,,,,,13,0,,0.0,26,R,10,Accident,,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-hockenheim,German Grand Prix,,,,,,3,47,5509300,9.0,1,1,11,Finished,1:31:49.300,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-hockenheim,German Grand Prix,,,,,,1,47,5523630,6.0,2,2,11,Finished,+14.330,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-hockenheim,German Grand Prix,,,,,,5,47,5530200,4.0,3,3,11,Finished,+20.900,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-hockenheim,German Grand Prix,,,,,,8,47,5569570,3.0,4,4,11,Finished,+1:00.270,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-hockenheim,German Grand Prix,,,,,,10,47,5596670,2.0,5,5,11,Finished,+1:27.370,1977
+Ensign,ensign,British,,tambay,Patrick Tambay,French,23,1977-hockenheim,German Grand Prix,,,,,,11,47,5599110,1.0,6,6,11,Finished,+1:29.810,1977
+Surtees,surtees,British,,schuppan,Vern Schuppan,Australian,18,1977-hockenheim,German Grand Prix,,,,,,19,46,,0.0,7,7,11,+1 Lap,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-hockenheim,German Grand Prix,,,,,,20,46,,0.0,8,8,11,+1 Lap,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-hockenheim,German Grand Prix,,,,,,14,42,,0.0,9,9,11,Engine,,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-hockenheim,German Grand Prix,,,,,,16,42,,0.0,10,10,11,Wheel,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-hockenheim,German Grand Prix,,,,,,23,40,,0.0,11,R,11,Accident,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-hockenheim,German Grand Prix,,,,,,7,34,,0.0,12,R,11,Engine,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-hockenheim,German Grand Prix,,,,,,4,32,,0.0,13,R,11,Fuel pump,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-hockenheim,German Grand Prix,,,,,,9,31,,0.0,14,R,11,Engine,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-hockenheim,German Grand Prix,,,,,,13,26,,0.0,15,R,11,Gearbox,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-hockenheim,German Grand Prix,,,,,,15,22,,0.0,16,R,11,Engine,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-hockenheim,German Grand Prix,,,,,,6,21,,0.0,17,R,11,Engine,,1977
+Hesketh,hesketh,British,,rebaque,Hector Rebaque,Mexican,25,1977-hockenheim,German Grand Prix,,,,,,24,20,,0.0,18,R,11,Engine,,1977
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1977-hockenheim,German Grand Prix,,,,,,21,14,,0.0,19,R,11,Accident,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-hockenheim,German Grand Prix,,,,,,19,9,,0.0,20,R,11,Clutch,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-hockenheim,German Grand Prix,,,,,,2,8,,0.0,21,R,11,Engine,,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-hockenheim,German Grand Prix,,,,,,12,5,,0.0,22,R,11,Transmission,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-hockenheim,German Grand Prix,,,,,,17,0,,0.0,23,R,11,Accident,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-spielberg,Austrian Grand Prix,,,,,,14,54,5836490,9.0,1,1,12,Finished,1:37:16.490,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-spielberg,Austrian Grand Prix,,,,,,1,54,5856620,6.0,2,2,12,Finished,+20.130,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-spielberg,Austrian Grand Prix,,,,,,4,54,5870990,4.0,3,3,12,Finished,+34.500,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-spielberg,Austrian Grand Prix,,,,,,5,54,5871240,3.0,4,4,12,Finished,+34.750,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-spielberg,Austrian Grand Prix,,,,,,15,54,5908580,2.0,5,5,12,Finished,+1:12.090,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-spielberg,Austrian Grand Prix,,,,,,9,53,,1.0,6,6,12,+1 Lap,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-spielberg,Austrian Grand Prix,,,,,,20,53,,0.0,7,7,12,+1 Lap,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-spielberg,Austrian Grand Prix,,,,,,12,53,,0.0,8,8,12,+1 Lap,,1977
+March,march,British,,neve,Patrick Nève,Belgian,27,1977-spielberg,Austrian Grand Prix,,,,,,22,53,,0.0,9,9,12,+1 Lap,,1977
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1977-spielberg,Austrian Grand Prix,,,,,,17,53,,0.0,10,10,12,+1 Lap,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-spielberg,Austrian Grand Prix,,,,,,23,53,,0.0,11,11,12,+1 Lap,,1977
+Penske,penske,American,,binder,Hans Binder,Austrian,33,1977-spielberg,Austrian Grand Prix,,,,,,19,53,,0.0,12,12,12,+1 Lap,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-spielberg,Austrian Grand Prix,,,,,,10,53,,0.0,13,13,12,+1 Lap,,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-spielberg,Austrian Grand Prix,,,,,,18,52,,0.0,14,14,12,+2 Laps,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-spielberg,Austrian Grand Prix,,,,,,13,52,,0.0,15,15,12,+2 Laps,,1977
+Surtees,surtees,British,,schuppan,Vern Schuppan,Australian,18,1977-spielberg,Austrian Grand Prix,,,,,,25,52,,0.0,16,16,12,+2 Laps,,1977
+McLaren,mclaren,British,,villota,Emilio de Villota,Spanish,36,1977-spielberg,Austrian Grand Prix,,,,,,26,50,,0.0,17,17,12,Accident,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-spielberg,Austrian Grand Prix,,,,,,8,45,,0.0,18,R,12,Spun off,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-spielberg,Austrian Grand Prix,,,,,,2,43,,0.0,19,R,12,Engine,,1977
+Ensign,ensign,British,,tambay,Patrick Tambay,French,23,1977-spielberg,Austrian Grand Prix,,,,,,7,41,,0.0,20,R,12,Engine,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-spielberg,Austrian Grand Prix,,,,,,16,38,,0.0,21,R,12,Engine,,1977
+Shadow,shadow,British,,merzario,Arturo Merzario,Italian,16,1977-spielberg,Austrian Grand Prix,,,,,,21,29,,0.0,22,R,12,Gearbox,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-spielberg,Austrian Grand Prix,,,,,,6,21,,0.0,23,R,12,Oil leak,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-spielberg,Austrian Grand Prix,,,,,,3,11,,0.0,24,R,12,Engine,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-spielberg,Austrian Grand Prix,,,,,,24,2,,0.0,25,R,12,Accident,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-spielberg,Austrian Grand Prix,,,,,,11,0,,0.0,26,R,12,Accident,,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-zandvoort,Dutch Grand Prix,,,,,,4,75,6105930,9.0,1,1,13,Finished,1:41:45.930,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-zandvoort,Dutch Grand Prix,,,,,,2,75,6107820,6.0,2,2,13,Finished,+1.890,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-zandvoort,Dutch Grand Prix,,,,,,15,74,,4.0,3,3,13,+1 Lap,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-zandvoort,Dutch Grand Prix,,,,,,17,74,,3.0,4,4,13,+1 Lap,,1977
+Ensign,ensign,British,,tambay,Patrick Tambay,French,23,1977-zandvoort,Dutch Grand Prix,,,,,,12,73,,2.0,5,5,13,Out of fuel,,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-zandvoort,Dutch Grand Prix,,,,,,6,73,,1.0,6,6,13,+2 Laps,,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-zandvoort,Dutch Grand Prix,,,,,,19,73,,0.0,7,7,13,+2 Laps,,1977
+Penske,penske,American,,binder,Hans Binder,Austrian,35,1977-zandvoort,Dutch Grand Prix,,,,,,18,73,,0.0,8,8,13,+2 Laps,,1977
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1977-zandvoort,Dutch Grand Prix,,,,,,20,73,,0.0,9,9,13,+2 Laps,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-zandvoort,Dutch Grand Prix,,,,,,25,73,,0.0,10,10,13,+2 Laps,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-zandvoort,Dutch Grand Prix,,,,,,24,72,,0.0,11,11,13,+3 Laps,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-zandvoort,Dutch Grand Prix,,,,,,22,67,,0.0,12,12,13,Accident,,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-zandvoort,Dutch Grand Prix,,,,,,16,67,,0.0,13,13,13,Engine,,1977
+Boro,boro,Dutch,,henton,Brian Henton,British,38,1977-zandvoort,Dutch Grand Prix,,,,,,23,52,,0.0,14,D,13,Disqualified,,1977
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1977-zandvoort,Dutch Grand Prix,,,,,,10,39,,0.0,15,R,13,Suspension,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-zandvoort,Dutch Grand Prix,,,,,,5,34,,0.0,16,R,13,Accident,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-zandvoort,Dutch Grand Prix,,,,,,13,32,,0.0,17,R,13,Engine,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-zandvoort,Dutch Grand Prix,,,,,,11,31,,0.0,18,R,13,Engine,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-zandvoort,Dutch Grand Prix,,,,,,7,18,,0.0,19,R,13,Ignition,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-zandvoort,Dutch Grand Prix,,,,,,9,17,,0.0,20,R,13,Throttle,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-zandvoort,Dutch Grand Prix,,,,,,1,14,,0.0,21,R,13,Engine,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-zandvoort,Dutch Grand Prix,,,,,,26,8,,0.0,22,R,13,Accident,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-zandvoort,Dutch Grand Prix,,,,,,3,5,,0.0,23,R,13,Accident,,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-zandvoort,Dutch Grand Prix,,,,,,21,4,,0.0,24,R,13,Ignition,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-zandvoort,Dutch Grand Prix,,,,,,8,2,,0.0,25,R,13,Oil leak,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-zandvoort,Dutch Grand Prix,,,,,,14,0,,0.0,26,R,13,Accident,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-monza,Italian Grand Prix,,,,,,4,52,5270300,9.0,1,1,14,Finished,1:27:50.300,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-monza,Italian Grand Prix,,,,,,5,52,5287260,6.0,2,2,14,Finished,+16.960,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-monza,Italian Grand Prix,,,,,,16,52,5293930,4.0,3,3,14,Finished,+23.630,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-monza,Italian Grand Prix,,,,,,9,52,5298780,3.0,4,4,14,Finished,+28.480,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-monza,Italian Grand Prix,,,,,,7,52,5300410,2.0,5,5,14,Finished,+30.110,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-monza,Italian Grand Prix,,,,,,12,52,5349520,1.0,6,6,14,Finished,+1:19.220,1977
+March,march,British,,neve,Patrick Nève,Belgian,27,1977-monza,Italian Grand Prix,,,,,,24,50,,0.0,7,7,14,+2 Laps,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-monza,Italian Grand Prix,,,,,,8,50,,0.0,8,8,14,+2 Laps,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-monza,Italian Grand Prix,,,,,,23,48,,0.0,9,9,14,+4 Laps,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-monza,Italian Grand Prix,,,,,,17,41,,0.0,10,R,14,Transmission,,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-monza,Italian Grand Prix,,,,,,2,39,,0.0,11,R,14,Spun off,,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-monza,Italian Grand Prix,,,,,,6,39,,0.0,12,R,14,Spun off,,1977
+McLaren,mclaren,British,,giacomelli,Bruno Giacomelli,Italian,14,1977-monza,Italian Grand Prix,,,,,,15,38,,0.0,13,R,14,Engine,,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-monza,Italian Grand Prix,,,,,,11,31,,0.0,14,R,14,Engine,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-monza,Italian Grand Prix,,,,,,1,26,,0.0,15,R,14,Spun off,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-monza,Italian Grand Prix,,,,,,13,24,,0.0,16,R,14,Engine,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-monza,Italian Grand Prix,,,,,,3,23,,0.0,17,R,14,Engine,,1977
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1977-monza,Italian Grand Prix,,,,,,20,23,,0.0,18,R,14,Engine,,1977
+Penske,penske,American,,jarier,Jean-Pierre Jarier,French,34,1977-monza,Italian Grand Prix,,,,,,18,19,,0.0,19,R,14,Engine,,1977
+Ensign,ensign,British,,tambay,Patrick Tambay,French,23,1977-monza,Italian Grand Prix,,,,,,21,9,,0.0,20,R,14,Engine,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-monza,Italian Grand Prix,,,,,,10,5,,0.0,21,R,14,Accident,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-monza,Italian Grand Prix,,,,,,22,4,,0.0,22,R,14,Suspension,,1977
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1977-monza,Italian Grand Prix,,,,,,19,4,,0.0,23,R,14,Engine,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-monza,Italian Grand Prix,,,,,,14,3,,0.0,24,R,14,Accident,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-new-york-state,United States Grand Prix,,,,,,1,59,7103267,9.0,1,1,15,Finished,1:58:23.267,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-new-york-state,United States Grand Prix,,,,,,4,59,7105293,6.0,2,2,15,Finished,+2.026,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-new-york-state,United States Grand Prix,,,,,,9,59,7182146,4.0,3,3,15,Finished,+1:18.879,1977
+Ferrari,ferrari,Italian,,lauda,Niki Lauda,Austrian,11,1977-new-york-state,United States Grand Prix,,,,,,7,59,7203882,3.0,4,4,15,Finished,+1:40.615,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-new-york-state,United States Grand Prix,,,,,,19,59,7211405,2.0,5,5,15,Finished,+1:48.138,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-new-york-state,United States Grand Prix,,,,,,6,58,,1.0,6,6,15,+1 Lap,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-new-york-state,United States Grand Prix,,,,,,10,58,,0.0,7,7,15,+1 Lap,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-new-york-state,United States Grand Prix,,,,,,20,58,,0.0,8,8,15,+1 Lap,,1977
+Shadow,shadow,British,,jarier,Jean-Pierre Jarier,French,16,1977-new-york-state,United States Grand Prix,,,,,,16,58,,0.0,9,9,15,+1 Lap,,1977
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1977-new-york-state,United States Grand Prix,,,,,,17,57,,0.0,10,10,15,+2 Laps,,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-new-york-state,United States Grand Prix,,,,,,25,57,,0.0,11,11,15,+2 Laps,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-new-york-state,United States Grand Prix,,,,,,3,57,,0.0,12,12,15,+2 Laps,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-new-york-state,United States Grand Prix,,,,,,18,57,,0.0,13,13,15,+2 Laps,,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-new-york-state,United States Grand Prix,,,,,,8,56,,0.0,14,14,15,+3 Laps,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-new-york-state,United States Grand Prix,,,,,,23,56,,0.0,15,15,15,+3 Laps,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-new-york-state,United States Grand Prix,,,,,,5,56,,0.0,16,16,15,+3 Laps,,1977
+Hesketh,hesketh,British,,ashley,Ian Ashley,British,25,1977-new-york-state,United States Grand Prix,,,,,,22,55,,0.0,17,17,15,+4 Laps,,1977
+March,march,British,,neve,Patrick Nève,Belgian,27,1977-new-york-state,United States Grand Prix,,,,,,24,55,,0.0,18,18,15,+4 Laps,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-new-york-state,United States Grand Prix,,,,,,11,54,,0.0,19,19,15,+5 Laps,,1977
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1977-new-york-state,United States Grand Prix,,,,,,14,30,,0.0,20,R,15,Alternator,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-new-york-state,United States Grand Prix,,,,,,12,17,,0.0,21,R,15,Accident,,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-new-york-state,United States Grand Prix,,,,,,2,14,,0.0,22,R,15,Accident,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-new-york-state,United States Grand Prix,,,,,,21,10,,0.0,23,R,15,Accident,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-new-york-state,United States Grand Prix,,,,,,15,8,,0.0,24,R,15,Fuel pump,,1977
+Penske,penske,American,,ongais,Danny Ongais,American,14,1977-new-york-state,United States Grand Prix,,,,,,26,6,,0.0,25,R,15,Accident,,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-new-york-state,United States Grand Prix,,,,,,13,3,,0.0,26,R,15,Accident,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-ontario,Canadian Grand Prix,,,,,,9,80,6000000,9.0,1,1,16,Finished,1:40,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-ontario,Canadian Grand Prix,,,,,,6,80,6006770,6.0,2,2,16,Finished,+6.770,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-ontario,Canadian Grand Prix,,,,,,5,80,6015760,4.0,3,3,16,Finished,+15.760,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-ontario,Canadian Grand Prix,,,,,,7,80,6046690,3.0,4,4,16,Finished,+46.690,1977
+Ensign,ensign,British,,tambay,Patrick Tambay,French,23,1977-ontario,Canadian Grand Prix,,,,,,16,80,6063260,2.0,5,5,16,Finished,+1:03.260,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-ontario,Canadian Grand Prix,,,,,,15,78,,1.0,6,6,16,Accident,,1977
+Penske,penske,American,,ongais,Danny Ongais,American,14,1977-ontario,Canadian Grand Prix,,,,,,22,78,,0.0,7,7,16,+2 Laps,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-ontario,Canadian Grand Prix,,,,,,23,78,,0.0,8,8,16,+2 Laps,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-ontario,Canadian Grand Prix,,,,,,1,77,,0.0,9,9,16,Engine,,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-ontario,Canadian Grand Prix,,,,,,8,76,,0.0,10,10,16,Spun off,,1977
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1977-ontario,Canadian Grand Prix,,,,,,20,76,,0.0,11,11,16,Engine,,1977
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,21,1977-ontario,Canadian Grand Prix,,,,,,17,76,,0.0,12,12,16,Transmission,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-ontario,Canadian Grand Prix,,,,,,2,61,,0.0,13,R,16,Accident,,1977
+March,march,British,,neve,Patrick Nève,Belgian,27,1977-ontario,Canadian Grand Prix,,,,,,21,56,,0.0,14,R,16,Engine,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-ontario,Canadian Grand Prix,,,,,,3,34,,0.0,15,R,16,Fuel leak,,1977
+Hesketh,hesketh,British,,keegan,Rupert Keegan,British,24,1977-ontario,Canadian Grand Prix,,,,,,25,32,,0.0,16,R,16,Accident,,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-ontario,Canadian Grand Prix,,,,,,24,31,,0.0,17,R,16,Accident,,1977
+March,march,British,,ian_scheckter,Ian Scheckter,South African,10,1977-ontario,Canadian Grand Prix,,,,,,18,29,,0.0,18,R,16,Engine,,1977
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,28,1977-ontario,Canadian Grand Prix,,,,,,19,29,,0.0,19,R,16,Engine,,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-ontario,Canadian Grand Prix,,,,,,12,20,,0.0,20,R,16,Fuel system,,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-ontario,Canadian Grand Prix,,,,,,13,19,,0.0,21,R,16,Engine,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-ontario,Canadian Grand Prix,,,,,,4,17,,0.0,22,R,16,Accident,,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-ontario,Canadian Grand Prix,,,,,,11,12,,0.0,23,R,16,Transmission,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-ontario,Canadian Grand Prix,,,,,,10,1,,0.0,24,R,16,Suspension,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-ontario,Canadian Grand Prix,,,,,,14,0,,0.0,25,R,16,Accident,,1977
+Hesketh,hesketh,British,,ashley,Ian Ashley,British,25,1977-ontario,Canadian Grand Prix,,,,,,0,0,,0.0,26,W,16,Withdrew,,1977
+McLaren,mclaren,British,,hunt,James Hunt,British,1,1977-oyama,Japanese Grand Prix,,,,,,2,73,5511680,9.0,1,1,17,Finished,1:31:51.680,1977
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,12,1977-oyama,Japanese Grand Prix,,,,,,7,73,5574130,6.0,2,2,17,Finished,+1:02.450,1977
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1977-oyama,Japanese Grand Prix,,,,,,15,73,5578070,4.0,3,3,17,Finished,+1:06.390,1977
+Shadow,shadow,British,,jones,Alan Jones,Australian,17,1977-oyama,Japanese Grand Prix,,,,,,12,73,5578290,3.0,4,4,17,Finished,+1:06.610,1977
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1977-oyama,Japanese Grand Prix,,,,,,5,72,,2.0,5,5,17,Out of fuel,,1977
+Shadow,shadow,British,,patrese,Riccardo Patrese,Italian,16,1977-oyama,Japanese Grand Prix,,,,,,13,72,,1.0,6,6,17,+1 Lap,,1977
+Brabham,brabham,British,,stuck,Hans-Joachim Stuck,German,8,1977-oyama,Japanese Grand Prix,,,,,,4,72,,0.0,7,7,17,+1 Lap,,1977
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1977-oyama,Japanese Grand Prix,,,,,,9,71,,0.0,8,8,17,+2 Laps,,1977
+Tyrrell,tyrrell,British,,takahashi,Kunimitsu Takahashi,Japanese,50,1977-oyama,Japanese Grand Prix,,,,,,22,71,,0.0,9,9,17,+2 Laps,,1977
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1977-oyama,Japanese Grand Prix,,,,,,6,71,,0.0,10,10,17,+2 Laps,,1977
+Kojima,kojima,Japanese,,hoshino,Kazuyoshi Hoshino,Japanese,52,1977-oyama,Japanese Grand Prix,,,,,,11,71,,0.0,11,11,17,+2 Laps,,1977
+March,march,British,,ribeiro,Alex Ribeiro,Brazilian,9,1977-oyama,Japanese Grand Prix,,,,,,23,69,,0.0,12,12,17,+4 Laps,,1977
+Team Lotus,team_lotus,British,,nilsson,Gunnar Nilsson,Swedish,6,1977-oyama,Japanese Grand Prix,,,,,,14,63,,0.0,13,R,17,Gearbox,,1977
+Ensign,ensign,British,,regazzoni,Clay Regazzoni,Swiss,22,1977-oyama,Japanese Grand Prix,,,,,,10,43,,0.0,14,R,17,Engine,,1977
+Brabham,brabham,British,,watson,John Watson,British,7,1977-oyama,Japanese Grand Prix,,,,,,3,29,,0.0,15,R,17,Gearbox,,1977
+McLaren,mclaren,British,,mass,Jochen Mass,German,2,1977-oyama,Japanese Grand Prix,,,,,,8,28,,0.0,16,R,17,Engine,,1977
+Ensign,ensign,British,,tambay,Patrick Tambay,French,23,1977-oyama,Japanese Grand Prix,,,,,,16,14,,0.0,17,R,17,Engine,,1977
+Tyrrell,tyrrell,British,,peterson,Ronnie Peterson,Swedish,3,1977-oyama,Japanese Grand Prix,,,,,,18,5,,0.0,18,R,17,Accident,,1977
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,11,1977-oyama,Japanese Grand Prix,,,,,,20,5,,0.0,19,R,17,Accident,,1977
+Ligier,ligier,French,,jarier,Jean-Pierre Jarier,French,27,1977-oyama,Japanese Grand Prix,,,,,,17,3,,0.0,20,R,17,Engine,,1977
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1977-oyama,Japanese Grand Prix,,,,,,1,1,,0.0,21,R,17,Collision,,1977
+Kojima,kojima,Japanese,,takahara,Noritake Takahara,Japanese,51,1977-oyama,Japanese Grand Prix,,,,,,19,1,,0.0,22,R,17,Collision,,1977
+Surtees,surtees,British,,binder,Hans Binder,Austrian,18,1977-oyama,Japanese Grand Prix,,,,,,21,1,,0.0,23,R,17,Collision,,1977

@@ -1,0 +1,352 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-melbourne,Australian Grand Prix,,,,,,6,57,5701659,10.0,1,1,1,Finished,1:35:01.659,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-melbourne,Australian Grand Prix,,,,,,5,57,5702686,6.0,2,2,1,Finished,+1.027,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-melbourne,Australian Grand Prix,,,,,,8,57,5708671,4.0,3,3,1,Finished,+7.012,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-melbourne,Australian Grand Prix,,,,,,7,57,5735077,3.0,4,4,1,Finished,+33.418,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-melbourne,Australian Grand Prix,,,,,,4,57,5756357,2.0,5,5,1,Finished,+54.698,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-melbourne,Australian Grand Prix,,,,,,18,57,5785976,1.0,6,6,1,Finished,+1:24.317,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-melbourne,Australian Grand Prix,,,,,,17,57,5787947,0.0,7,7,1,Finished,+1:26.288,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-melbourne,Australian Grand Prix,,,,,,3,56,,0.0,8,8,1,+1 Lap,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-melbourne,Australian Grand Prix,,,,,,19,48,,0.0,9,R,1,Gearbox,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-melbourne,Australian Grand Prix,,,,,,21,42,,0.0,10,R,1,Gearbox,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-melbourne,Australian Grand Prix,,,,,,10,28,,0.0,11,R,1,Suspension,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-melbourne,Australian Grand Prix,,,,,,14,27,,0.0,12,R,1,Transmission,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-melbourne,Australian Grand Prix,,,,,,22,25,,0.0,13,R,1,Collision,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-melbourne,Australian Grand Prix,,,,,,12,25,,0.0,14,R,1,Collision,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-melbourne,Australian Grand Prix,,,,,,20,23,,0.0,15,R,1,Wheel,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-melbourne,Australian Grand Prix,,,,,,1,21,,0.0,16,R,1,Throttle,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-melbourne,Australian Grand Prix,,,,,,15,20,,0.0,17,R,1,Spun off,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-melbourne,Australian Grand Prix,,,,,,2,13,,0.0,18,R,1,Hydraulics,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-melbourne,Australian Grand Prix,,,,,,11,13,,0.0,19,R,1,Rear wing,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-melbourne,Australian Grand Prix,,,,,,9,0,,0.0,20,R,1,Collision,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-melbourne,Australian Grand Prix,,,,,,16,0,,0.0,21,R,1,Gearbox,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-melbourne,Australian Grand Prix,,,,,,13,0,,0.0,22,W,1,Fire,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-s-o-paulo,Brazilian Grand Prix,,,,,,1,72,5763785,10.0,1,1,2,Finished,1:36:03.785,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-s-o-paulo,Brazilian Grand Prix,,,,,,4,72,5768710,6.0,2,2,2,Finished,+4.925,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-s-o-paulo,Brazilian Grand Prix,,,,,,8,71,,4.0,3,3,2,Out of fuel,,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-s-o-paulo,Brazilian Grand Prix,,,,,,11,71,,3.0,4,4,2,+1 Lap,,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-s-o-paulo,Brazilian Grand Prix,,,,,,6,71,,2.0,5,5,2,+1 Lap,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-s-o-paulo,Brazilian Grand Prix,,,,,,12,71,,1.0,6,6,2,+1 Lap,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-s-o-paulo,Brazilian Grand Prix,,,,,,9,70,,0.0,7,7,2,+2 Laps,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-s-o-paulo,Brazilian Grand Prix,,,,,,19,69,,0.0,8,8,2,+3 Laps,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-s-o-paulo,Brazilian Grand Prix,,,,,,20,69,,0.0,9,9,2,+3 Laps,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-s-o-paulo,Brazilian Grand Prix,,,,,,17,52,,0.0,10,R,2,Hydraulics,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-s-o-paulo,Brazilian Grand Prix,,,,,,21,49,,0.0,11,R,2,Hydraulics,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-s-o-paulo,Brazilian Grand Prix,,,,,,16,43,,0.0,12,R,2,Gearbox,,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-s-o-paulo,Brazilian Grand Prix,,,,,,3,42,,0.0,13,R,2,Engine,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-s-o-paulo,Brazilian Grand Prix,,,,,,15,42,,0.0,14,R,2,Collision,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-s-o-paulo,Brazilian Grand Prix,,,,,,5,38,,0.0,15,R,2,Clutch,,1999
+Minardi,minardi,Italian,,sarrazin,Stéphane Sarrazin,French,20,1999-s-o-paulo,Brazilian Grand Prix,,,,,,18,31,,0.0,16,R,2,Spun off,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-s-o-paulo,Brazilian Grand Prix,,,,,,14,27,,0.0,17,R,2,Gearbox,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-s-o-paulo,Brazilian Grand Prix,,,,,,2,22,,0.0,18,R,2,Gearbox,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-s-o-paulo,Brazilian Grand Prix,,,,,,13,21,,0.0,19,R,2,Gearbox,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-s-o-paulo,Brazilian Grand Prix,,,,,,10,15,,0.0,20,R,2,Hydraulics,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-s-o-paulo,Brazilian Grand Prix,,,,,,7,10,,0.0,21,R,2,Collision,,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-imola,San Marino Grand Prix,,,,,,3,62,5624792,10.0,1,1,3,Finished,1:33:44.792,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-imola,San Marino Grand Prix,,,,,,2,62,5629057,6.0,2,2,3,Finished,+4.265,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-imola,San Marino Grand Prix,,,,,,6,61,,4.0,3,3,3,+1 Lap,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-imola,San Marino Grand Prix,,,,,,8,61,,3.0,4,4,3,+1 Lap,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-imola,San Marino Grand Prix,,,,,,16,61,,2.0,5,5,3,+1 Lap,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-imola,San Marino Grand Prix,,,,,,13,61,,1.0,6,6,3,+1 Lap,,1999
+BAR,bar,British,,salo,Mika Salo,Finnish,23,1999-imola,San Marino Grand Prix,,,,,,19,59,,0.0,7,7,3,+3 Laps,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-imola,San Marino Grand Prix,,,,,,22,59,,0.0,8,8,3,+3 Laps,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-imola,San Marino Grand Prix,,,,,,21,59,,0.0,9,9,3,+3 Laps,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-imola,San Marino Grand Prix,,,,,,12,58,,0.0,10,10,3,Engine,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-imola,San Marino Grand Prix,,,,,,10,58,,0.0,11,11,3,Spun off,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-imola,San Marino Grand Prix,,,,,,15,49,,0.0,12,R,3,Spun off,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-imola,San Marino Grand Prix,,,,,,11,48,,0.0,13,R,3,Throttle,,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-imola,San Marino Grand Prix,,,,,,4,46,,0.0,14,R,3,Engine,,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-imola,San Marino Grand Prix,,,,,,7,46,,0.0,15,R,3,Spun off,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-imola,San Marino Grand Prix,,,,,,20,29,,0.0,16,R,3,Fuel pressure,,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-imola,San Marino Grand Prix,,,,,,9,28,,0.0,17,R,3,Throttle,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-imola,San Marino Grand Prix,,,,,,1,17,,0.0,18,R,3,Spun off,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-imola,San Marino Grand Prix,,,,,,18,5,,0.0,19,R,3,Spun off,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-imola,San Marino Grand Prix,,,,,,17,5,,0.0,20,R,3,Spun off,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-imola,San Marino Grand Prix,,,,,,14,0,,0.0,21,R,3,Gearbox,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-imola,San Marino Grand Prix,,,,,,5,0,,0.0,22,R,3,Spun off,,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-monte-carlo,Monaco Grand Prix,,,,,,2,78,6571812,10.0,1,1,4,Finished,1:49:31.812,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-monte-carlo,Monaco Grand Prix,,,,,,4,78,6602288,6.0,2,2,4,Finished,+30.476,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-monte-carlo,Monaco Grand Prix,,,,,,1,78,6609295,4.0,3,3,4,Finished,+37.483,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-monte-carlo,Monaco Grand Prix,,,,,,6,78,6625821,3.0,4,4,4,Finished,+54.009,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-monte-carlo,Monaco Grand Prix,,,,,,9,77,,2.0,5,5,4,+1 Lap,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-monte-carlo,Monaco Grand Prix,,,,,,10,77,,1.0,6,6,4,+1 Lap,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-monte-carlo,Monaco Grand Prix,,,,,,7,77,,0.0,7,7,4,+1 Lap,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-monte-carlo,Monaco Grand Prix,,,,,,11,76,,0.0,8,8,4,+2 Laps,,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-monte-carlo,Monaco Grand Prix,,,,,,5,71,,0.0,9,9,4,Spun off,,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-monte-carlo,Monaco Grand Prix,,,,,,16,54,,0.0,10,R,4,Spun off,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-monte-carlo,Monaco Grand Prix,,,,,,14,50,,0.0,11,R,4,Suspension,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-monte-carlo,Monaco Grand Prix,,,,,,15,49,,0.0,12,R,4,Suspension,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-monte-carlo,Monaco Grand Prix,,,,,,18,40,,0.0,13,R,4,Engine,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-monte-carlo,Monaco Grand Prix,,,,,,3,36,,0.0,14,R,4,Gearbox,,1999
+BAR,bar,British,,salo,Mika Salo,Finnish,23,1999-monte-carlo,Monaco Grand Prix,,,,,,12,36,,0.0,15,R,4,Brakes,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-monte-carlo,Monaco Grand Prix,,,,,,19,36,,0.0,16,R,4,Engine,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-monte-carlo,Monaco Grand Prix,,,,,,8,32,,0.0,17,R,4,Oil leak,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-monte-carlo,Monaco Grand Prix,,,,,,13,32,,0.0,18,R,4,Suspension,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-monte-carlo,Monaco Grand Prix,,,,,,21,30,,0.0,19,R,4,Gearbox,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-monte-carlo,Monaco Grand Prix,,,,,,22,24,,0.0,20,R,4,Spun off,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-monte-carlo,Monaco Grand Prix,,,,,,20,10,,0.0,21,R,4,Gearbox,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-monte-carlo,Monaco Grand Prix,,,,,,17,3,,0.0,22,R,4,Collision,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-barcelona,Spanish Grand Prix,,,,,,1,65,5653665,10.0,1,1,5,Finished,1:34:13.665,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-barcelona,Spanish Grand Prix,,,,,,3,65,5659903,6.0,2,2,5,Finished,+6.238,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-barcelona,Spanish Grand Prix,,,,,,4,65,5664510,4.0,3,3,5,Finished,+10.845,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-barcelona,Spanish Grand Prix,,,,,,2,65,5683847,3.0,4,4,5,Finished,+30.182,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-barcelona,Spanish Grand Prix,,,,,,10,65,5740873,2.0,5,5,5,Finished,+1:27.208,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-barcelona,Spanish Grand Prix,,,,,,9,64,,1.0,6,6,5,+1 Lap,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-barcelona,Spanish Grand Prix,,,,,,11,64,,0.0,7,7,5,+1 Lap,,1999
+BAR,bar,British,,salo,Mika Salo,Finnish,23,1999-barcelona,Spanish Grand Prix,,,,,,16,64,,0.0,8,8,5,+1 Lap,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-barcelona,Spanish Grand Prix,,,,,,13,64,,0.0,9,9,5,+1 Lap,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-barcelona,Spanish Grand Prix,,,,,,18,64,,0.0,10,10,5,+1 Lap,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-barcelona,Spanish Grand Prix,,,,,,19,63,,0.0,11,11,5,+2 Laps,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-barcelona,Spanish Grand Prix,,,,,,20,62,,0.0,12,12,5,+3 Laps,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-barcelona,Spanish Grand Prix,,,,,,22,50,,0.0,13,R,5,Spun off,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-barcelona,Spanish Grand Prix,,,,,,6,40,,0.0,14,R,5,Gearbox,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-barcelona,Spanish Grand Prix,,,,,,12,40,,0.0,15,R,5,Transmission,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-barcelona,Spanish Grand Prix,,,,,,14,40,,0.0,16,R,5,Transmission,,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-barcelona,Spanish Grand Prix,,,,,,8,35,,0.0,17,R,5,Halfshaft,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-barcelona,Spanish Grand Prix,,,,,,5,27,,0.0,18,R,5,Transmission,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-barcelona,Spanish Grand Prix,,,,,,17,24,,0.0,19,R,5,Gearbox,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-barcelona,Spanish Grand Prix,,,,,,15,24,,0.0,20,R,5,Gearbox,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-barcelona,Spanish Grand Prix,,,,,,21,0,,0.0,21,R,5,Gearbox,,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-barcelona,Spanish Grand Prix,,,,,,7,64,,0.0,22,D,5,Disqualified,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-montreal,Canadian Grand Prix,,,,,,2,69,6095727,10.0,1,1,6,Finished,1:41:35.727,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-montreal,Canadian Grand Prix,,,,,,7,69,6096509,6.0,2,2,6,Finished,+0.782,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-montreal,Canadian Grand Prix,,,,,,3,69,6097524,4.0,3,3,6,Finished,+1.797,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-montreal,Canadian Grand Prix,,,,,,13,69,6098119,3.0,4,4,6,Finished,+2.392,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-montreal,Canadian Grand Prix,,,,,,10,69,6098532,2.0,5,5,6,Finished,+2.805,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-montreal,Canadian Grand Prix,,,,,,18,69,6099438,1.0,6,6,6,Finished,+3.711,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-montreal,Canadian Grand Prix,,,,,,4,69,6100731,0.0,7,7,6,Finished,+5.004,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-montreal,Canadian Grand Prix,,,,,,22,68,,0.0,8,8,6,+1 Lap,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-montreal,Canadian Grand Prix,,,,,,15,68,,0.0,9,9,6,+1 Lap,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-montreal,Canadian Grand Prix,,,,,,21,67,,0.0,10,10,6,+2 Laps,,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-montreal,Canadian Grand Prix,,,,,,6,65,,0.0,11,11,6,Brakes,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-montreal,Canadian Grand Prix,,,,,,12,50,,0.0,12,R,6,Brakes,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-montreal,Canadian Grand Prix,,,,,,19,41,,0.0,13,R,6,Transmission,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-montreal,Canadian Grand Prix,,,,,,16,34,,0.0,14,R,6,Spun off,,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-montreal,Canadian Grand Prix,,,,,,1,29,,0.0,15,R,6,Spun off,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-montreal,Canadian Grand Prix,,,,,,20,22,,0.0,16,R,6,Transmission,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-montreal,Canadian Grand Prix,,,,,,14,14,,0.0,17,R,6,Spun off,,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-montreal,Canadian Grand Prix,,,,,,5,14,,0.0,18,R,6,Steering,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-montreal,Canadian Grand Prix,,,,,,17,2,,0.0,19,R,6,Spun off,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-montreal,Canadian Grand Prix,,,,,,8,0,,0.0,20,R,6,Collision,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-montreal,Canadian Grand Prix,,,,,,9,0,,0.0,21,R,6,Collision,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-montreal,Canadian Grand Prix,,,,,,11,0,,0.0,22,R,6,Transmission,,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-magny-cours,French Grand Prix,,,,,,5,72,7104343,10.0,1,1,7,Finished,1:58:24.343,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-magny-cours,French Grand Prix,,,,,,14,72,7115435,6.0,2,2,7,Finished,+11.092,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-magny-cours,French Grand Prix,,,,,,1,72,7147775,4.0,3,3,7,Finished,+43.432,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-magny-cours,French Grand Prix,,,,,,16,72,7149818,3.0,4,4,7,Finished,+45.475,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-magny-cours,French Grand Prix,,,,,,6,72,7152224,2.0,5,5,7,Finished,+47.881,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-magny-cours,French Grand Prix,,,,,,17,72,7153244,1.0,6,6,7,Finished,+48.901,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-magny-cours,French Grand Prix,,,,,,8,72,7162114,0.0,7,7,7,Finished,+57.771,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-magny-cours,French Grand Prix,,,,,,3,72,7162874,0.0,8,8,7,Finished,+58.531,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-magny-cours,French Grand Prix,,,,,,10,72,7193107,0.0,9,9,7,Finished,+1:28.764,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-magny-cours,French Grand Prix,,,,,,20,71,,0.0,10,10,7,+1 Lap,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-magny-cours,French Grand Prix,,,,,,21,71,,0.0,11,11,7,+1 Lap,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-magny-cours,French Grand Prix,,,,,,7,42,,0.0,12,R,7,Spun off,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-magny-cours,French Grand Prix,,,,,,18,31,,0.0,13,R,7,Electrical,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-magny-cours,French Grand Prix,,,,,,15,26,,0.0,14,R,7,Engine,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-magny-cours,French Grand Prix,,,,,,12,25,,0.0,15,R,7,Spun off,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-magny-cours,French Grand Prix,,,,,,13,25,,0.0,16,R,7,Spun off,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-magny-cours,French Grand Prix,,,,,,19,25,,0.0,17,R,7,Spun off,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-magny-cours,French Grand Prix,,,,,,2,24,,0.0,18,R,7,Spun off,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-magny-cours,French Grand Prix,,,,,,4,9,,0.0,19,R,7,Electrical,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-magny-cours,French Grand Prix,,,,,,11,6,,0.0,20,R,7,Transmission,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-magny-cours,French Grand Prix,,,,,,9,4,,0.0,21,R,7,Gearbox,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-magny-cours,French Grand Prix,,,,,,22,71,,0.0,22,D,7,Disqualified,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-silverstone,British Grand Prix,,,,,,3,60,5550144,10.0,1,1,8,Finished,1:32:30.144,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-silverstone,British Grand Prix,,,,,,4,60,5551973,6.0,2,2,8,Finished,+1.829,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-silverstone,British Grand Prix,,,,,,8,60,5577555,4.0,3,3,8,Finished,+27.411,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-silverstone,British Grand Prix,,,,,,5,60,5577933,3.0,4,4,8,Finished,+27.789,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-silverstone,British Grand Prix,,,,,,6,60,5588750,2.0,5,5,8,Finished,+38.606,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-silverstone,British Grand Prix,,,,,,12,60,5603787,1.0,6,6,8,Finished,+53.643,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-silverstone,British Grand Prix,,,,,,17,60,5604758,0.0,7,7,8,Finished,+54.614,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-silverstone,British Grand Prix,,,,,,7,60,5618734,0.0,8,8,8,Finished,+1:08.590,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-silverstone,British Grand Prix,,,,,,14,60,5622189,0.0,9,9,8,Finished,+1:12.045,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-silverstone,British Grand Prix,,,,,,18,60,5622267,0.0,10,10,8,Finished,+1:12.123,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-silverstone,British Grand Prix,,,,,,13,60,5627268,0.0,11,11,8,Finished,+1:17.124,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-silverstone,British Grand Prix,,,,,,11,60,5627853,0.0,12,12,8,Finished,+1:17.709,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-silverstone,British Grand Prix,,,,,,15,60,5630636,0.0,13,13,8,Finished,+1:20.492,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-silverstone,British Grand Prix,,,,,,10,59,,0.0,14,14,8,+1 Lap,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-silverstone,British Grand Prix,,,,,,22,58,,0.0,15,15,8,+2 Laps,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-silverstone,British Grand Prix,,,,,,19,58,,0.0,16,16,8,+2 Laps,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-silverstone,British Grand Prix,,,,,,16,41,,0.0,17,R,8,Suspension,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-silverstone,British Grand Prix,,,,,,1,35,,0.0,18,R,8,Wheel,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-silverstone,British Grand Prix,,,,,,9,29,,0.0,19,R,8,Halfshaft,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-silverstone,British Grand Prix,,,,,,21,6,,0.0,20,R,8,Gearbox,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-silverstone,British Grand Prix,,,,,,20,0,,0.0,21,R,8,Gearbox,,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-silverstone,British Grand Prix,,,,,,2,0,,0.0,22,R,8,Brakes,,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-spielberg,Austrian Grand Prix,,,,,,3,71,5292438,10.0,1,1,9,Finished,1:28:12.438,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-spielberg,Austrian Grand Prix,,,,,,2,71,5292751,6.0,2,2,9,Finished,+0.313,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-spielberg,Austrian Grand Prix,,,,,,1,71,5314720,4.0,3,3,9,Finished,+22.282,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-spielberg,Austrian Grand Prix,,,,,,4,71,5345241,3.0,4,4,9,Finished,+52.803,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-spielberg,Austrian Grand Prix,,,,,,10,71,5358796,2.0,5,5,9,Finished,+1:06.358,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-spielberg,Austrian Grand Prix,,,,,,16,71,5363371,1.0,6,6,9,Finished,+1:10.933,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-spielberg,Austrian Grand Prix,,,,,,13,70,,0.0,7,7,9,+1 Lap,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-spielberg,Austrian Grand Prix,,,,,,11,70,,0.0,8,8,9,+1 Lap,,1999
+Ferrari,ferrari,Italian,,salo,Mika Salo,Finnish,3,1999-spielberg,Austrian Grand Prix,,,,,,7,70,,0.0,9,9,9,+1 Lap,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-spielberg,Austrian Grand Prix,,,,,,18,70,,0.0,10,10,9,+1 Lap,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-spielberg,Austrian Grand Prix,,,,,,22,70,,0.0,11,11,9,+1 Lap,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-spielberg,Austrian Grand Prix,,,,,,12,68,,0.0,12,12,9,Engine,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-spielberg,Austrian Grand Prix,,,,,,19,68,,0.0,13,13,9,+3 Laps,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-spielberg,Austrian Grand Prix,,,,,,6,67,,0.0,14,14,9,+4 Laps,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-spielberg,Austrian Grand Prix,,,,,,15,63,,0.0,15,15,9,Clutch,,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-spielberg,Austrian Grand Prix,,,,,,5,55,,0.0,16,R,9,Engine,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-spielberg,Austrian Grand Prix,,,,,,17,49,,0.0,17,R,9,Out of fuel,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-spielberg,Austrian Grand Prix,,,,,,21,38,,0.0,18,R,9,Spun off,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-spielberg,Austrian Grand Prix,,,,,,14,35,,0.0,19,R,9,Out of fuel,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-spielberg,Austrian Grand Prix,,,,,,9,34,,0.0,20,R,9,Halfshaft,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-spielberg,Austrian Grand Prix,,,,,,20,25,,0.0,21,R,9,Engine,,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-spielberg,Austrian Grand Prix,,,,,,8,8,,0.0,22,R,9,Spun off,,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-hockenheim,German Grand Prix,,,,,,5,45,4918594,10.0,1,1,10,Finished,1:21:58.594,1999
+Ferrari,ferrari,Italian,,salo,Mika Salo,Finnish,3,1999-hockenheim,German Grand Prix,,,,,,4,45,4919601,6.0,2,2,10,Finished,+1.007,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-hockenheim,German Grand Prix,,,,,,2,45,4923789,4.0,3,3,10,Finished,+5.195,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-hockenheim,German Grand Prix,,,,,,11,45,4931403,3.0,4,4,10,Finished,+12.809,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-hockenheim,German Grand Prix,,,,,,3,45,4935417,2.0,5,5,10,Finished,+16.823,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-hockenheim,German Grand Prix,,,,,,7,45,4948473,1.0,6,6,10,Finished,+29.879,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-hockenheim,German Grand Prix,,,,,,13,45,4951927,0.0,7,7,10,Finished,+33.333,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-hockenheim,German Grand Prix,,,,,,21,45,4989885,0.0,8,8,10,Finished,+1:11.291,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-hockenheim,German Grand Prix,,,,,,15,45,5026912,0.0,9,9,10,Finished,+1:48.318,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-hockenheim,German Grand Prix,,,,,,19,44,,0.0,10,10,10,+1 Lap,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-hockenheim,German Grand Prix,,,,,,17,40,,0.0,11,11,10,Gearbox,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-hockenheim,German Grand Prix,,,,,,20,37,,0.0,12,R,10,Spun off,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-hockenheim,German Grand Prix,,,,,,1,25,,0.0,13,R,10,Tyre,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-hockenheim,German Grand Prix,,,,,,14,21,,0.0,14,R,10,Differential,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-hockenheim,German Grand Prix,,,,,,18,20,,0.0,15,R,10,Engine,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-hockenheim,German Grand Prix,,,,,,22,15,,0.0,16,R,10,Engine,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-hockenheim,German Grand Prix,,,,,,8,13,,0.0,17,R,10,Brakes,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-hockenheim,German Grand Prix,,,,,,9,10,,0.0,18,R,10,Engine,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-hockenheim,German Grand Prix,,,,,,10,7,,0.0,19,R,10,Suspension,,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-hockenheim,German Grand Prix,,,,,,6,6,,0.0,20,R,10,Hydraulics,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-hockenheim,German Grand Prix,,,,,,12,0,,0.0,21,R,10,Collision,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-hockenheim,German Grand Prix,,,,,,16,0,,0.0,22,R,10,Collision,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-budapest,Hungarian Grand Prix,,,,,,1,77,6383536,10.0,1,1,11,Finished,1:46:23.536,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-budapest,Hungarian Grand Prix,,,,,,3,77,6393242,6.0,2,2,11,Finished,+9.706,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-budapest,Hungarian Grand Prix,,,,,,2,77,6410764,4.0,3,3,11,Finished,+27.228,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-budapest,Hungarian Grand Prix,,,,,,5,77,6415351,3.0,4,4,11,Finished,+31.815,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-budapest,Hungarian Grand Prix,,,,,,8,77,6427344,2.0,5,5,11,Finished,+43.808,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-budapest,Hungarian Grand Prix,,,,,,6,77,6439262,1.0,6,6,11,Finished,+55.726,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-budapest,Hungarian Grand Prix,,,,,,7,77,6444548,0.0,7,7,11,Finished,+1:01.012,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-budapest,Hungarian Grand Prix,,,,,,13,76,,0.0,8,8,11,+1 Lap,,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-budapest,Hungarian Grand Prix,,,,,,16,76,,0.0,9,9,11,+1 Lap,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-budapest,Hungarian Grand Prix,,,,,,14,76,,0.0,10,10,11,+1 Lap,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-budapest,Hungarian Grand Prix,,,,,,10,76,,0.0,11,11,11,+1 Lap,,1999
+Ferrari,ferrari,Italian,,salo,Mika Salo,Finnish,3,1999-budapest,Hungarian Grand Prix,,,,,,18,75,,0.0,12,12,11,+2 Laps,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-budapest,Hungarian Grand Prix,,,,,,17,75,,0.0,13,13,11,+2 Laps,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-budapest,Hungarian Grand Prix,,,,,,19,75,,0.0,14,14,11,+2 Laps,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-budapest,Hungarian Grand Prix,,,,,,20,75,,0.0,15,15,11,+2 Laps,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-budapest,Hungarian Grand Prix,,,,,,11,74,,0.0,16,16,11,Fuel pressure,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-budapest,Hungarian Grand Prix,,,,,,22,74,,0.0,17,17,11,+3 Laps,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-budapest,Hungarian Grand Prix,,,,,,9,60,,0.0,18,R,11,Clutch,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-budapest,Hungarian Grand Prix,,,,,,4,52,,0.0,19,R,11,Engine,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-budapest,Hungarian Grand Prix,,,,,,21,26,,0.0,20,R,11,Transmission,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-budapest,Hungarian Grand Prix,,,,,,12,19,,0.0,21,R,11,Spun off,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-budapest,Hungarian Grand Prix,,,,,,15,10,,0.0,22,R,11,Differential,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-spa,Belgian Grand Prix,,,,,,2,44,5143057,10.0,1,1,12,Finished,1:25:43.057,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-spa,Belgian Grand Prix,,,,,,1,44,5153526,6.0,2,2,12,Finished,+10.469,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-spa,Belgian Grand Prix,,,,,,3,44,5176490,4.0,3,3,12,Finished,+33.433,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-spa,Belgian Grand Prix,,,,,,6,44,5188005,3.0,4,4,12,Finished,+44.948,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-spa,Belgian Grand Prix,,,,,,5,44,5191124,2.0,5,5,12,Finished,+48.067,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-spa,Belgian Grand Prix,,,,,,4,44,5197973,1.0,6,6,12,Finished,+54.916,1999
+Ferrari,ferrari,Italian,,salo,Mika Salo,Finnish,3,1999-spa,Belgian Grand Prix,,,,,,9,44,5199306,0.0,7,7,12,Finished,+56.249,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-spa,Belgian Grand Prix,,,,,,8,44,5210079,0.0,8,8,12,Finished,+1:07.022,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-spa,Belgian Grand Prix,,,,,,16,44,5216905,0.0,9,9,12,Finished,+1:13.848,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-spa,Belgian Grand Prix,,,,,,7,44,5223799,0.0,10,10,12,Finished,+1:20.742,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-spa,Belgian Grand Prix,,,,,,13,44,5235252,0.0,11,11,12,Finished,+1:32.195,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-spa,Belgian Grand Prix,,,,,,12,44,5239211,0.0,12,12,12,Finished,+1:36.154,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-spa,Belgian Grand Prix,,,,,,17,44,5244600,0.0,13,13,12,Finished,+1:41.543,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-spa,Belgian Grand Prix,,,,,,15,44,5260802,0.0,14,14,12,Finished,+1:57.745,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-spa,Belgian Grand Prix,,,,,,11,43,,0.0,15,15,12,+1 Lap,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-spa,Belgian Grand Prix,,,,,,21,43,,0.0,16,16,12,+1 Lap,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-spa,Belgian Grand Prix,,,,,,22,35,,0.0,17,R,12,Transmission,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-spa,Belgian Grand Prix,,,,,,20,33,,0.0,18,R,12,Suspension,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-spa,Belgian Grand Prix,,,,,,14,33,,0.0,19,R,12,Gearbox,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-spa,Belgian Grand Prix,,,,,,10,27,,0.0,20,R,12,Brakes,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-spa,Belgian Grand Prix,,,,,,18,19,,0.0,21,R,12,Spun off,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-spa,Belgian Grand Prix,,,,,,19,0,,0.0,22,R,12,Clutch,,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-monza,Italian Grand Prix,,,,,,2,53,4622923,10.0,1,1,13,Finished,1:17:02.923,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-monza,Italian Grand Prix,,,,,,5,53,4626195,6.0,2,2,13,Finished,+3.272,1999
+Ferrari,ferrari,Italian,,salo,Mika Salo,Finnish,3,1999-monza,Italian Grand Prix,,,,,,6,53,4634855,4.0,3,3,13,Finished,+11.932,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-monza,Italian Grand Prix,,,,,,7,53,4640553,3.0,4,4,13,Finished,+17.630,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-monza,Italian Grand Prix,,,,,,3,53,4641065,2.0,5,5,13,Finished,+18.142,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-monza,Italian Grand Prix,,,,,,8,53,4650325,1.0,6,6,13,Finished,+27.402,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-monza,Italian Grand Prix,,,,,,4,53,4650970,0.0,7,7,13,Finished,+28.047,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-monza,Italian Grand Prix,,,,,,11,53,4664720,0.0,8,8,13,Finished,+41.797,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-monza,Italian Grand Prix,,,,,,13,53,4665121,0.0,9,9,13,Finished,+42.198,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-monza,Italian Grand Prix,,,,,,9,53,4679182,0.0,10,10,13,Finished,+56.259,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-monza,Italian Grand Prix,,,,,,10,52,,0.0,11,11,13,Engine,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-monza,Italian Grand Prix,,,,,,15,40,,0.0,12,R,13,Clutch,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-monza,Italian Grand Prix,,,,,,22,35,,0.0,13,R,13,Spun off,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-monza,Italian Grand Prix,,,,,,21,35,,0.0,14,W,13,Withdrew,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-monza,Italian Grand Prix,,,,,,1,29,,0.0,15,R,13,Spun off,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-monza,Italian Grand Prix,,,,,,12,29,,0.0,16,R,13,Overheating,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-monza,Italian Grand Prix,,,,,,18,25,,0.0,17,R,13,Wheel bearing,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-monza,Italian Grand Prix,,,,,,19,23,,0.0,18,R,13,Collision,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-monza,Italian Grand Prix,,,,,,14,11,,0.0,19,R,13,Electrical,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-monza,Italian Grand Prix,,,,,,16,1,,0.0,20,R,13,Spun off,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-monza,Italian Grand Prix,,,,,,17,1,,0.0,21,R,13,Spun off,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-monza,Italian Grand Prix,,,,,,20,0,,0.0,22,R,13,Collision,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-n-rburg,European Grand Prix,,,,,,14,66,6114314,10.0,1,1,14,Finished,1:41:54.314,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-n-rburg,European Grand Prix,,,,,,10,66,6136933,6.0,2,2,14,Finished,+22.619,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-n-rburg,European Grand Prix,,,,,,15,66,6137180,4.0,3,3,14,Finished,+22.866,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-n-rburg,European Grand Prix,,,,,,4,66,6153822,3.0,4,4,14,Finished,+39.508,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-n-rburg,European Grand Prix,,,,,,3,66,6177264,2.0,5,5,14,Finished,+1:02.950,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-n-rburg,European Grand Prix,,,,,,20,66,6179468,1.0,6,6,14,Finished,+1:05.154,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-n-rburg,European Grand Prix,,,,,,9,66,6180997,0.0,7,7,14,Finished,+1:06.683,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-n-rburg,European Grand Prix,,,,,,17,65,,0.0,8,8,14,+1 Lap,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-n-rburg,European Grand Prix,,,,,,5,65,,0.0,9,9,14,+1 Lap,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-n-rburg,European Grand Prix,,,,,,8,61,,0.0,10,10,14,Clutch,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-n-rburg,European Grand Prix,,,,,,19,53,,0.0,11,R,14,Gearbox,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-n-rburg,European Grand Prix,,,,,,22,52,,0.0,12,R,14,Gearbox,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-n-rburg,European Grand Prix,,,,,,6,48,,0.0,13,R,14,Spun off,,1999
+Ferrari,ferrari,Italian,,salo,Mika Salo,Finnish,3,1999-n-rburg,European Grand Prix,,,,,,12,44,,0.0,14,R,14,Brakes,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-n-rburg,European Grand Prix,,,,,,21,42,,0.0,15,R,14,Spun off,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-n-rburg,European Grand Prix,,,,,,2,37,,0.0,16,R,14,Spun off,,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-n-rburg,European Grand Prix,,,,,,16,35,,0.0,17,R,14,Halfshaft,,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-n-rburg,European Grand Prix,,,,,,1,32,,0.0,18,R,14,Electrical,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-n-rburg,European Grand Prix,,,,,,18,10,,0.0,19,R,14,Collision,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-n-rburg,European Grand Prix,,,,,,7,0,,0.0,20,R,14,Electrical,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-n-rburg,European Grand Prix,,,,,,11,0,,0.0,21,R,14,Collision,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-n-rburg,European Grand Prix,,,,,,13,0,,0.0,22,R,14,Collision,,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,2,56,5798494,10.0,1,1,15,Finished,1:36:38.494,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,1,56,5799534,6.0,2,2,15,Finished,+1.040,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,4,56,5808237,4.0,3,3,15,Finished,+9.743,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,5,56,5816032,3.0,4,4,15,Finished,+17.538,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,6,56,5830790,2.0,5,5,15,Finished,+32.296,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,14,56,5833378,1.0,6,6,15,Finished,+34.884,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,15,56,5852902,0.0,7,7,15,Finished,+54.408,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,7,56,5859428,0.0,8,8,15,Finished,+1:00.934,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,19,55,,0.0,9,9,15,+1 Lap,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,16,55,,0.0,10,10,15,+1 Lap,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,11,52,,0.0,11,11,15,+4 Laps,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,10,48,,0.0,12,R,15,Hydraulics,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,17,44,,0.0,13,R,15,Spun off,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,20,30,,0.0,14,R,15,Engine,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,21,15,,0.0,15,R,15,Spun off,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,3,14,,0.0,16,R,15,Fuel pressure,,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,8,7,,0.0,17,R,15,Spun off,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,22,7,,0.0,18,R,15,Transmission,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,13,6,,0.0,19,R,15,Engine,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,12,5,,0.0,20,R,15,Engine,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,9,0,,0.0,21,R,15,Collision,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-kuala-lumpur,Malaysian Grand Prix,,,,,,18,0,,0.0,22,W,15,Engine,,1999
+McLaren,mclaren,British,,hakkinen,Mika Häkkinen,Finnish,1,1999-suzuka,Japanese Grand Prix,,,,,,2,53,5478785,10.0,1,1,16,Finished,1:31:18.785,1999
+Ferrari,ferrari,Italian,MSC,michael_schumacher,Michael Schumacher,German,3,1999-suzuka,Japanese Grand Prix,,,,,,1,53,5483800,6.0,2,2,16,Finished,+5.015,1999
+Ferrari,ferrari,Italian,,irvine,Eddie Irvine,British,4,1999-suzuka,Japanese Grand Prix,,,,,,5,53,5574473,4.0,3,3,16,Finished,+1:35.688,1999
+Jordan,jordan,Irish,,frentzen,Heinz-Harald Frentzen,German,8,1999-suzuka,Japanese Grand Prix,,,,,,4,53,5577420,3.0,4,4,16,Finished,+1:38.635,1999
+Williams,williams,British,SCH,ralf_schumacher,Ralf Schumacher,German,6,1999-suzuka,Japanese Grand Prix,,,,,,9,53,5578279,2.0,5,5,16,Finished,+1:39.494,1999
+Sauber,sauber,Swiss,,alesi,Jean Alesi,French,11,1999-suzuka,Japanese Grand Prix,,,,,,10,52,,1.0,6,6,16,+1 Lap,,1999
+Stewart,stewart,British,,herbert,Johnny Herbert,British,17,1999-suzuka,Japanese Grand Prix,,,,,,8,52,,0.0,7,7,16,+1 Lap,,1999
+Stewart,stewart,British,BAR,barrichello,Rubens Barrichello,Brazilian,16,1999-suzuka,Japanese Grand Prix,,,,,,13,52,,0.0,8,8,16,+1 Lap,,1999
+BAR,bar,British,VIL,villeneuve,Jacques Villeneuve,Canadian,22,1999-suzuka,Japanese Grand Prix,,,,,,11,52,,0.0,9,9,16,+1 Lap,,1999
+Benetton,benetton,Italian,WUR,wurz,Alexander Wurz,Austrian,10,1999-suzuka,Japanese Grand Prix,,,,,,15,52,,0.0,10,10,16,+1 Lap,,1999
+Sauber,sauber,Swiss,,diniz,Pedro Diniz,Brazilian,12,1999-suzuka,Japanese Grand Prix,,,,,,17,52,,0.0,11,11,16,+1 Lap,,1999
+BAR,bar,British,ZON,zonta,Ricardo Zonta,Brazilian,23,1999-suzuka,Japanese Grand Prix,,,,,,18,52,,0.0,12,12,16,+1 Lap,,1999
+Arrows,arrows,British,DLR,rosa,Pedro de la Rosa,Spanish,14,1999-suzuka,Japanese Grand Prix,,,,,,21,51,,0.0,13,13,16,+2 Laps,,1999
+Benetton,benetton,Italian,FIS,fisichella,Giancarlo Fisichella,Italian,9,1999-suzuka,Japanese Grand Prix,,,,,,14,47,,0.0,14,14,16,Engine,,1999
+Arrows,arrows,British,,takagi,Toranosuke Takagi,Japanese,15,1999-suzuka,Japanese Grand Prix,,,,,,19,43,,0.0,15,R,16,Gearbox,,1999
+Minardi,minardi,Italian,BAD,badoer,Luca Badoer,Italian,20,1999-suzuka,Japanese Grand Prix,,,,,,22,43,,0.0,16,R,16,Engine,,1999
+McLaren,mclaren,British,COU,coulthard,David Coulthard,British,2,1999-suzuka,Japanese Grand Prix,,,,,,3,39,,0.0,17,R,16,Hydraulics,,1999
+Minardi,minardi,Italian,,gene,Marc Gené,Spanish,21,1999-suzuka,Japanese Grand Prix,,,,,,20,31,,0.0,18,R,16,Gearbox,,1999
+Jordan,jordan,Irish,,damon_hill,Damon Hill,British,7,1999-suzuka,Japanese Grand Prix,,,,,,12,21,,0.0,19,R,16,Physical,,1999
+Prost,prost,French,,panis,Olivier Panis,French,18,1999-suzuka,Japanese Grand Prix,,,,,,6,19,,0.0,20,R,16,Alternator,,1999
+Prost,prost,French,TRU,trulli,Jarno Trulli,Italian,19,1999-suzuka,Japanese Grand Prix,,,,,,7,3,,0.0,21,R,16,Engine,,1999
+Williams,williams,British,,zanardi,Alessandro Zanardi,Italian,5,1999-suzuka,Japanese Grand Prix,,,,,,8,0,,0.0,22,R,16,Electrical,,1999

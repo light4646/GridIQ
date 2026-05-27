@@ -1,0 +1,134 @@
+[
+  {
+    "year": 1971,
+    "position": 1,
+    "position_text": "1",
+    "points": 73.0,
+    "wins": 7,
+    "constructor_id": "tyrrell",
+    "constructor": "Tyrrell",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Tyrrell_Racing"
+  },
+  {
+    "year": 1971,
+    "position": 2,
+    "position_text": "2",
+    "points": 36.0,
+    "wins": 2,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1971,
+    "position": 3,
+    "position_text": "3",
+    "points": 34.0,
+    "wins": 0,
+    "constructor_id": "march-ford",
+    "constructor": "March-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/March_Engineering"
+  },
+  {
+    "year": 1971,
+    "position": 4,
+    "position_text": "4",
+    "points": 33.0,
+    "wins": 2,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1971,
+    "position": 5,
+    "position_text": "5",
+    "points": 21.0,
+    "wins": 0,
+    "constructor_id": "lotus-ford",
+    "constructor": "Lotus-Ford",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1971,
+    "position": 6,
+    "position_text": "6",
+    "points": 10.0,
+    "wins": 0,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1971,
+    "position": 7,
+    "position_text": "7",
+    "points": 9.0,
+    "wins": 0,
+    "constructor_id": "matra",
+    "constructor": "Matra",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Matra"
+  },
+  {
+    "year": 1971,
+    "position": 8,
+    "position_text": "8",
+    "points": 8.0,
+    "wins": 0,
+    "constructor_id": "surtees",
+    "constructor": "Surtees",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Surtees"
+  },
+  {
+    "year": 1971,
+    "position": 9,
+    "position_text": "9",
+    "points": 5.0,
+    "wins": 0,
+    "constructor_id": "brabham",
+    "constructor": "Brabham",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1971,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "lotus-pw",
+    "constructor": "Lotus-Pratt &amp; Whitney",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1971,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "march-alfa_romeo",
+    "constructor": "March-Alfa Romeo",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/March_Engineering"
+  },
+  {
+    "year": 1971,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "bellasi",
+    "constructor": "Bellasi",
+    "constructor_nationality": "Swiss",
+    "constructor_url": "https://en.wikipedia.org/wiki/Bellasi"
+  }
+]

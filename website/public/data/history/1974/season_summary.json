@@ -1,0 +1,40 @@
+{
+  "year": 1974,
+  "generated_at": "2026-05-27T06:16:19.107926+00:00",
+  "through_date": "2026-05-27",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 15,
+  "race_results": 387,
+  "qualifying_results": 0,
+  "drivers": 56,
+  "constructors": 18,
+  "driver_champion": {
+    "year": 1974,
+    "position": 1,
+    "position_text": "1",
+    "points": 55.0,
+    "wins": 3,
+    "driver_id": "emerson_fittipaldi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Emerson Fittipaldi",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "McLaren"
+    ],
+    "constructor_ids": [
+      "mclaren"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1974,
+    "position": 1,
+    "position_text": "1",
+    "points": 72.0,
+    "wins": 4,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  }
+}

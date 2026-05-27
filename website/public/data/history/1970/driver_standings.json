@@ -1,0 +1,692 @@
+[
+  {
+    "year": 1970,
+    "position": 1,
+    "position_text": "1",
+    "points": 45.0,
+    "wins": 5,
+    "driver_id": "rindt",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jochen Rindt",
+    "driver_nationality": "Austrian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 2,
+    "position_text": "2",
+    "points": 40.0,
+    "wins": 3,
+    "driver_id": "ickx",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jacky Ickx",
+    "driver_nationality": "Belgian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 3,
+    "position_text": "3",
+    "points": 33.0,
+    "wins": 1,
+    "driver_id": "regazzoni",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Clay Regazzoni",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 4,
+    "position_text": "4",
+    "points": 27.0,
+    "wins": 0,
+    "driver_id": "hulme",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Denny Hulme",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 5,
+    "position_text": "5",
+    "points": 25.0,
+    "wins": 1,
+    "driver_id": "stewart",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jackie Stewart",
+    "driver_nationality": "British",
+    "constructors": [
+      "March",
+      "Tyrrell"
+    ],
+    "constructor_ids": [
+      "march",
+      "tyrrell"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 6,
+    "position_text": "6",
+    "points": 25.0,
+    "wins": 1,
+    "driver_id": "jack_brabham",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jack Brabham",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 7,
+    "position_text": "7",
+    "points": 23.0,
+    "wins": 1,
+    "driver_id": "rodriguez",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pedro Rodr\u00edguez",
+    "driver_nationality": "Mexican",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 8,
+    "position_text": "8",
+    "points": 23.0,
+    "wins": 0,
+    "driver_id": "amon",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Chris Amon",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 9,
+    "position_text": "9",
+    "points": 16.0,
+    "wins": 0,
+    "driver_id": "beltoise",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jean-Pierre Beltoise",
+    "driver_nationality": "French",
+    "constructors": [
+      "Matra"
+    ],
+    "constructor_ids": [
+      "matra"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 10,
+    "position_text": "10",
+    "points": 12.0,
+    "wins": 1,
+    "driver_id": "emerson_fittipaldi",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Emerson Fittipaldi",
+    "driver_nationality": "Brazilian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 11,
+    "position_text": "11",
+    "points": 10.0,
+    "wins": 0,
+    "driver_id": "stommelen",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Rolf Stommelen",
+    "driver_nationality": "German",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 12,
+    "position_text": "12",
+    "points": 8.0,
+    "wins": 0,
+    "driver_id": "pescarolo",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Henri Pescarolo",
+    "driver_nationality": "French",
+    "constructors": [
+      "Matra"
+    ],
+    "constructor_ids": [
+      "matra"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 13,
+    "position_text": "13",
+    "points": 7.0,
+    "wins": 0,
+    "driver_id": "hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Graham Hill",
+    "driver_nationality": "British",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 14,
+    "position_text": "14",
+    "points": 6.0,
+    "wins": 0,
+    "driver_id": "mclaren",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Bruce McLaren",
+    "driver_nationality": "New Zealander",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 15,
+    "position_text": "15",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "wisell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Reine Wisell",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 16,
+    "position_text": "16",
+    "points": 4.0,
+    "wins": 0,
+    "driver_id": "mario_andretti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Mario Andretti",
+    "driver_nationality": "American",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 17,
+    "position_text": "17",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "giunti",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ignazio Giunti",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 18,
+    "position_text": "18",
+    "points": 3.0,
+    "wins": 0,
+    "driver_id": "surtees",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Surtees",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren-Ford",
+      "Surtees"
+    ],
+    "constructor_ids": [
+      "mclaren-ford",
+      "surtees"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 19,
+    "position_text": "19",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "miles",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Miles",
+    "driver_nationality": "British",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 20,
+    "position_text": "20",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "oliver",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jackie Oliver",
+    "driver_nationality": "British",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 21,
+    "position_text": "21",
+    "points": 2.0,
+    "wins": 0,
+    "driver_id": "gavin",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Johnny Servoz-Gavin",
+    "driver_nationality": "French",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 22,
+    "position_text": "22",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "cevert",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Fran\u00e7ois Cevert",
+    "driver_nationality": "French",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 23,
+    "position_text": "23",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "gethin",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Peter Gethin",
+    "driver_nationality": "British",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 24,
+    "position_text": "24",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "gurney",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Dan Gurney",
+    "driver_nationality": "American",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": 25,
+    "position_text": "25",
+    "points": 1.0,
+    "wins": 0,
+    "driver_id": "bell",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Derek Bell",
+    "driver_nationality": "British",
+    "constructors": [
+      "Brabham",
+      "Surtees"
+    ],
+    "constructor_ids": [
+      "brabham",
+      "surtees"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "siffert",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Siffert",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "peterson",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Ronnie Peterson",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "March"
+    ],
+    "constructor_ids": [
+      "march"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "adamich",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Andrea de Adamich",
+    "driver_nationality": "Italian",
+    "constructors": [
+      "McLaren-Alfa Romeo"
+    ],
+    "constructor_ids": [
+      "mclaren-alfa_romeo"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "love",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Love",
+    "driver_nationality": "Rhodesian",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "eaton",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "George Eaton",
+    "driver_nationality": "Canadian",
+    "constructors": [
+      "BRM"
+    ],
+    "constructor_ids": [
+      "brm"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "klerk",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Peter de Klerk",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "charlton",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Dave Charlton",
+    "driver_nationality": "South African",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "courage",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Piers Courage",
+    "driver_nationality": "British",
+    "constructors": [
+      "De Tomaso"
+    ],
+    "constructor_ids": [
+      "tomaso"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "lovely",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Pete Lovely",
+    "driver_nationality": "American",
+    "constructors": [
+      "Team Lotus"
+    ],
+    "constructor_ids": [
+      "team_lotus"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "schenken",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Tim Schenken",
+    "driver_nationality": "Australian",
+    "constructors": [
+      "De Tomaso"
+    ],
+    "constructor_ids": [
+      "tomaso"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "bonnier",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Jo Bonnier",
+    "driver_nationality": "Swedish",
+    "constructors": [
+      "McLaren-Ford"
+    ],
+    "constructor_ids": [
+      "mclaren-ford"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "moser",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Silvio Moser",
+    "driver_nationality": "Swiss",
+    "constructors": [
+      "Bellasi"
+    ],
+    "constructor_ids": [
+      "bellasi"
+    ]
+  },
+  {
+    "year": 1970,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "driver_id": "hutchison",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Gus Hutchison",
+    "driver_nationality": "American",
+    "constructors": [
+      "Brabham"
+    ],
+    "constructor_ids": [
+      "brabham"
+    ]
+  }
+]

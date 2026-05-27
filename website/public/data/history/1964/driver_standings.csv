@@ -1,0 +1,39 @@
+constructor_ids,constructors,driver_code,driver_id,driver_name,driver_nationality,driver_number,points,position,position_text,wins,year
+"[""ferrari""]","[""Ferrari""]",,surtees,John Surtees,British,,40.0,1,1,2,1964
+"[""brm""]","[""BRM""]",,hill,Graham Hill,British,,39.0,2,2,2,1964
+"[""lotus-climax""]","[""Lotus-Climax""]",,clark,Jim Clark,British,,32.0,3,3,3,1964
+"[""ferrari""]","[""Ferrari""]",,bandini,Lorenzo Bandini,Italian,,23.0,4,4,1,1964
+"[""brm""]","[""BRM""]",,ginther,Richie Ginther,American,,23.0,5,5,0,1964
+"[""brabham-climax""]","[""Brabham-Climax""]",,gurney,Dan Gurney,American,,19.0,6,6,2,1964
+"[""cooper-climax""]","[""Cooper-Climax""]",,mclaren,Bruce McLaren,New Zealander,,13.0,7,7,0,1964
+"[""brabham-climax""]","[""Brabham-Climax""]",,jack_brabham,Jack Brabham,Australian,,11.0,8,8,0,1964
+"[""lotus-climax""]","[""Lotus-Climax""]",,arundell,Peter Arundell,British,,11.0,9,9,0,1964
+"[""lotus-brm"", ""brabham-brm"", ""brabham-climax""]","[""Lotus-BRM"", ""Brabham-BRM"", ""Brabham-Climax""]",,siffert,Jo Siffert,Swiss,,7.0,10,10,0,1964
+"[""brabham-climax""]","[""Brabham-Climax""]",,anderson,Bob Anderson,British,,5.0,11,11,0,1964
+"[""lotus-climax""]","[""Lotus-Climax""]",,spence,Mike Spence,British,,4.0,12,12,0,1964
+"[""brm""]","[""BRM""]",,maggs,Tony Maggs,South African,,4.0,13,13,0,1964
+"[""lotus-brm"", ""brp""]","[""Lotus-BRM"", ""BRP""]",,ireland,Innes Ireland,British,,4.0,14,14,0,1964
+"[""cooper-climax"", ""brabham-brm"", ""brabham-climax""]","[""Cooper-Climax"", ""Brabham-BRM"", ""Brabham-Climax""]",,bonnier,Jo Bonnier,Swedish,,3.0,15,15,0,1964
+"[""lotus-brm"", ""lotus-climax""]","[""Lotus-BRM"", ""Lotus-Climax""]",,amon,Chris Amon,New Zealander,,2.0,16,16,0,1964
+"[""brm""]","[""BRM""]",,trintignant,Maurice Trintignant,French,,2.0,17,17,0,1964
+"[""lotus-climax""]","[""Lotus-Climax""]",,hansgen,Walt Hansgen,American,,2.0,18,18,0,1964
+"[""cooper-climax""]","[""Cooper-Climax""]",,phil_hill,Phil Hill,American,,1.0,19,19,0,1964
+"[""brp"", ""lotus-brm""]","[""BRP"", ""Lotus-BRM""]",,trevor_taylor,Trevor Taylor,British,,1.0,20,20,0,1964
+"[""lotus-brm""]","[""Lotus-BRM""]",,hailwood,Mike Hailwood,British,,1.0,21,21,0,1964
+"[""ferrari""]","[""Ferrari""]",,rodriguez,Pedro Rodríguez,Mexican,,1.0,22,22,0,1964
+"[""brm""]","[""BRM""]",,baghetti,Giancarlo Baghetti,Italian,,0.0,,-,0,1964
+"[""lotus-climax""]","[""Lotus-Climax""]",,mitter,Gerhard Mitter,German,,0.0,,-,0,1964
+"[""ferrari""]","[""Ferrari""]",,scarfiotti,Ludovico Scarfiotti,Italian,,0.0,,-,0,1964
+"[""lotus-climax""]","[""Lotus-Climax""]",,solana,Moisés Solana,Mexican,,0.0,,-,0,1964
+"[""lotus-brm"", ""lotus-climax""]","[""Lotus-BRM"", ""Lotus-Climax""]",,revson,Peter Revson,American,,0.0,,-,0,1964
+"[""brabham-brm""]","[""Brabham-BRM""]",,sharp,Hap Sharp,American,,0.0,,-,0,1964
+"[""honda""]","[""Honda""]",,bucknum,Ronnie Bucknum,American,,0.0,,-,0,1964
+"[""cooper-climax""]","[""Cooper-Climax""]",,taylor,John Taylor,British,,0.0,,-,0,1964
+"[""brabham-brm""]","[""Brabham-BRM""]",,rindt,Jochen Rindt,Austrian,,0.0,,-,0,1964
+"[""scirocco""]","[""Scirocco""]",,andre_pilette,André Pilette,Belgian,,0.0,,-,0,1964
+"[""derrington""]","[""Derrington""]",,cabral,Mário de Araújo Cabral,Portuguese,,0.0,,-,0,1964
+"[""porsche""]","[""Porsche""]",,beaufort,Carel Godin de Beaufort,Dutch,,0.0,,-,0,1964
+"[""brabham-brm""]","[""Brabham-BRM""]",,raby,Ian Raby,British,,0.0,,-,0,1964
+"[""cooper-climax""]","[""Cooper-Climax""]",,barth,Edgar Barth,German,,0.0,,-,0,1964
+"[""brabham-ford""]","[""Brabham-Ford""]",,gardner,Frank Gardner,Australian,,0.0,,-,0,1964
+"[""brm""]","[""BRM""]",,attwood,Richard Attwood,British,,0.0,,-,0,1964

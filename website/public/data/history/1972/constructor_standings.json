@@ -1,0 +1,134 @@
+[
+  {
+    "year": 1972,
+    "position": 1,
+    "position_text": "1",
+    "points": 61.0,
+    "wins": 5,
+    "constructor_id": "team_lotus",
+    "constructor": "Team Lotus",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1972,
+    "position": 2,
+    "position_text": "2",
+    "points": 51.0,
+    "wins": 4,
+    "constructor_id": "tyrrell",
+    "constructor": "Tyrrell",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Tyrrell_Racing"
+  },
+  {
+    "year": 1972,
+    "position": 3,
+    "position_text": "3",
+    "points": 49.0,
+    "wins": 1,
+    "constructor_id": "mclaren",
+    "constructor": "McLaren",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/McLaren"
+  },
+  {
+    "year": 1972,
+    "position": 4,
+    "position_text": "4",
+    "points": 33.0,
+    "wins": 1,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1972,
+    "position": 5,
+    "position_text": "5",
+    "points": 18.0,
+    "wins": 0,
+    "constructor_id": "surtees",
+    "constructor": "Surtees",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Surtees"
+  },
+  {
+    "year": 1972,
+    "position": 6,
+    "position_text": "6",
+    "points": 15.0,
+    "wins": 0,
+    "constructor_id": "march",
+    "constructor": "March",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/March_Engineering"
+  },
+  {
+    "year": 1972,
+    "position": 7,
+    "position_text": "7",
+    "points": 14.0,
+    "wins": 1,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1972,
+    "position": 8,
+    "position_text": "8",
+    "points": 12.0,
+    "wins": 0,
+    "constructor_id": "matra",
+    "constructor": "Matra",
+    "constructor_nationality": "French",
+    "constructor_url": "https://en.wikipedia.org/wiki/Matra"
+  },
+  {
+    "year": 1972,
+    "position": 9,
+    "position_text": "9",
+    "points": 7.0,
+    "wins": 0,
+    "constructor_id": "brabham",
+    "constructor": "Brabham",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Brabham"
+  },
+  {
+    "year": 1972,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "tecno",
+    "constructor": "Tecno",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Tecno"
+  },
+  {
+    "year": 1972,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "connew",
+    "constructor": "Connew",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Connew"
+  },
+  {
+    "year": 1972,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "politoys",
+    "constructor": "Politoys",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Frank_Williams_Racing_Cars"
+  }
+]

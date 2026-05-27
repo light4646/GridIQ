@@ -1,5 +1,27 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+
 import { aggregateRecords, formatNumber, getHistoryManifest } from "@/lib/history";
+
+export const metadata: Metadata = {
+  title: "F1 Records — Wins, Podiums, Poles, Points · GridIQ",
+  description:
+    "Formula 1 all-time records: most race wins, podiums, pole positions, and points by driver and constructor across the full historical database. Updated through 2026.",
+  keywords: [
+    "F1 most wins record",
+    "Formula 1 records",
+    "F1 most podiums",
+    "F1 most poles",
+    "most F1 points all time",
+    "F1 constructor records",
+    "Hamilton wins record",
+    "Verstappen wins",
+  ],
+  openGraph: {
+    title: "F1 Records — Wins, Podiums, Poles, Points · GridIQ",
+    description: "Formula 1 all-time records by driver and constructor from 1950 to 2026.",
+  },
+};
 
 type RecordRow = Record<string, string | number>;
 
@@ -21,7 +43,7 @@ function RecordsTable({
       <div className="panelHeader">
         <div>
           <h2>{title}</h2>
-          <p>Since 2000, using loaded historical results.</p>
+          <p>All-time, using loaded historical results from the full database.</p>
         </div>
       </div>
       <table>
@@ -56,10 +78,10 @@ export default function RecordsPage() {
         <section className="hero compactHero">
           <div>
             <div className="eyebrow">GridIQ records</div>
-            <h1>F1 records since 2000.</h1>
+            <h1>F1 records — wins, podiums, poles, and points.</h1>
             <p>
-              Wins, podiums, points, poles, and constructor records calculated from
-              the GridIQ historical database.
+              All-time Formula 1 records for wins, podiums, pole positions, points, and constructor
+              totals calculated from the GridIQ historical database covering {manifest.start_year}–{manifest.end_year}.
             </p>
           </div>
           <div className="heroActions">

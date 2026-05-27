@@ -1,0 +1,40 @@
+{
+  "year": 1964,
+  "generated_at": "2026-05-27T06:01:49.110042+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 10,
+  "race_results": 198,
+  "qualifying_results": 0,
+  "drivers": 38,
+  "constructors": 13,
+  "driver_champion": {
+    "year": 1964,
+    "position": 1,
+    "position_text": "1",
+    "points": 40.0,
+    "wins": 2,
+    "driver_id": "surtees",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "John Surtees",
+    "driver_nationality": "British",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1964,
+    "position": 1,
+    "position_text": "1",
+    "points": 45.0,
+    "wins": 3,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  }
+}

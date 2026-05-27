@@ -1,0 +1,14 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Benetton,benetton,Italian,https://en.wikipedia.org/wiki/Benetton_Formula,147.0,1,1,11,1995
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,118.0,2,2,5,1995
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,73.0,3,3,1,1995
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,30.0,4,4,0,1995
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,24.0,5,5,0,1995
+Jordan,jordan,Irish,https://en.wikipedia.org/wiki/Jordan_Grand_Prix,21.0,6,6,0,1995
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,18.0,7,7,0,1995
+Footwork,footwork,British,https://en.wikipedia.org/wiki/Footwork_Arrows,5.0,8,8,0,1995
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,5.0,9,9,0,1995
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,1.0,10,10,0,1995
+Forti,forti,Italian,https://en.wikipedia.org/wiki/Forti,0.0,,-,0,1995
+Pacific,pacific,British,https://en.wikipedia.org/wiki/Pacific_Racing,0.0,,-,0,1995
+Simtek,simtek,British,https://en.wikipedia.org/wiki/Simtek,0.0,,-,0,1995

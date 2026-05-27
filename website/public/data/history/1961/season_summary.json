@@ -1,0 +1,40 @@
+{
+  "year": 1961,
+  "generated_at": "2026-05-27T06:01:17.565156+00:00",
+  "through_date": "1999-12-31",
+  "source": "Jolpica Ergast-compatible API",
+  "races": 8,
+  "race_results": 215,
+  "qualifying_results": 0,
+  "drivers": 61,
+  "constructors": 14,
+  "driver_champion": {
+    "year": 1961,
+    "position": 1,
+    "position_text": "1",
+    "points": 34.0,
+    "wins": 2,
+    "driver_id": "phil_hill",
+    "driver_code": null,
+    "driver_number": null,
+    "driver_name": "Phil Hill",
+    "driver_nationality": "American",
+    "constructors": [
+      "Ferrari"
+    ],
+    "constructor_ids": [
+      "ferrari"
+    ]
+  },
+  "constructor_champion": {
+    "year": 1961,
+    "position": 1,
+    "position_text": "1",
+    "points": 45.0,
+    "wins": 5,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  }
+}

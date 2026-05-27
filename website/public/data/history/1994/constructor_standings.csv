@@ -1,0 +1,15 @@
+constructor,constructor_id,constructor_nationality,constructor_url,points,position,position_text,wins,year
+Williams,williams,British,https://en.wikipedia.org/wiki/Williams_Racing,118.0,1,1,7,1994
+Benetton,benetton,Italian,https://en.wikipedia.org/wiki/Benetton_Formula,103.0,2,2,8,1994
+Ferrari,ferrari,Italian,https://en.wikipedia.org/wiki/Scuderia_Ferrari,71.0,3,3,1,1994
+McLaren,mclaren,British,https://en.wikipedia.org/wiki/McLaren,42.0,4,4,0,1994
+Jordan,jordan,Irish,https://en.wikipedia.org/wiki/Jordan_Grand_Prix,28.0,5,5,0,1994
+Ligier,ligier,French,https://en.wikipedia.org/wiki/Ligier,13.0,6,6,0,1994
+Tyrrell,tyrrell,British,https://en.wikipedia.org/wiki/Tyrrell_Racing,13.0,7,7,0,1994
+Sauber,sauber,Swiss,https://en.wikipedia.org/wiki/Sauber_Motorsport,12.0,8,8,0,1994
+Footwork,footwork,British,https://en.wikipedia.org/wiki/Footwork_Arrows,9.0,9,9,0,1994
+Minardi,minardi,Italian,https://en.wikipedia.org/wiki/Minardi,5.0,10,10,0,1994
+Larrousse,larrousse,French,https://en.wikipedia.org/wiki/Larrousse,2.0,11,11,0,1994
+Team Lotus,team_lotus,British,https://en.wikipedia.org/wiki/Team_Lotus,0.0,,-,0,1994
+Simtek,simtek,British,https://en.wikipedia.org/wiki/Simtek,0.0,,-,0,1994
+Pacific,pacific,British,https://en.wikipedia.org/wiki/Pacific_Racing,0.0,,-,0,1994

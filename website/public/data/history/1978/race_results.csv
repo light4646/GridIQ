@@ -1,0 +1,392 @@
+constructor,constructor_id,constructor_nationality,driver_code,driver_id,driver_name,driver_nationality,driver_number,event_id,event_name,fastest_lap_average_speed,fastest_lap_average_speed_units,fastest_lap_lap,fastest_lap_rank,fastest_lap_time,grid_position,laps,milliseconds,points,position,position_text,round,status,time,year
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-buenos-aires,Argentine Grand Prix,,,,,,1,52,5824470,9.0,1,1,1,Finished,1:37:04.470,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-buenos-aires,Argentine Grand Prix,,,,,,5,52,5837680,6.0,2,2,1,Finished,+13.210,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-buenos-aires,Argentine Grand Prix,,,,,,10,52,5838110,4.0,3,3,1,Finished,+13.640,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-buenos-aires,Argentine Grand Prix,,,,,,6,52,5840520,3.0,4,4,1,Finished,+16.050,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-buenos-aires,Argentine Grand Prix,,,,,,3,52,5899320,2.0,5,5,1,Finished,+1:14.850,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-buenos-aires,Argentine Grand Prix,,,,,,9,52,5904370,1.0,6,6,1,Finished,+1:19.900,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-buenos-aires,Argentine Grand Prix,,,,,,2,52,5907070,0.0,7,7,1,Finished,+1:22.600,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-buenos-aires,Argentine Grand Prix,,,,,,7,52,5923350,0.0,8,8,1,Finished,+1:38.880,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-buenos-aires,Argentine Grand Prix,,,,,,17,52,5925070,0.0,9,9,1,Finished,+1:40.600,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-buenos-aires,Argentine Grand Prix,,,,,,15,52,5927970,0.0,10,10,1,Finished,+1:43.500,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-buenos-aires,Argentine Grand Prix,,,,,,13,52,5933540,0.0,11,11,1,Finished,+1:49.070,1978
+ATS,ats,Italian,,jarier,Jean-Pierre Jarier,French,10,1978-buenos-aires,Argentine Grand Prix,,,,,,11,51,,0.0,12,12,1,+1 Lap,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-buenos-aires,Argentine Grand Prix,,,,,,24,51,,0.0,13,13,1,+1 Lap,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-buenos-aires,Argentine Grand Prix,,,,,,23,51,,0.0,14,14,1,+1 Lap,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-buenos-aires,Argentine Grand Prix,,,,,,16,51,,0.0,15,15,1,+1 Lap,,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-buenos-aires,Argentine Grand Prix,,,,,,8,50,,0.0,16,16,1,Engine,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-buenos-aires,Argentine Grand Prix,,,,,,18,50,,0.0,17,17,1,+2 Laps,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-buenos-aires,Argentine Grand Prix,,,,,,12,50,,0.0,18,18,1,+2 Laps,,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-buenos-aires,Argentine Grand Prix,,,,,,4,41,,0.0,19,R,1,Engine,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-buenos-aires,Argentine Grand Prix,,,,,,14,36,,0.0,20,R,1,Fuel system,,1978
+Ensign,ensign,British,,ongais,Danny Ongais,American,22,1978-buenos-aires,Argentine Grand Prix,,,,,,21,35,,0.0,21,R,1,Distributor,,1978
+Ensign,ensign,British,,leoni,Lamberto Leoni,Italian,23,1978-buenos-aires,Argentine Grand Prix,,,,,,22,28,,0.0,22,R,1,Engine,,1978
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,37,1978-buenos-aires,Argentine Grand Prix,,,,,,20,9,,0.0,23,R,1,Differential,,1978
+Surtees,surtees,British,,keegan,Rupert Keegan,British,18,1978-buenos-aires,Argentine Grand Prix,,,,,,19,4,,0.0,24,R,1,Overheating,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,4,63,6599860,9.0,1,1,2,Finished,1:49:59.860,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,7,63,6648990,6.0,2,2,2,Finished,+49.130,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,10,63,6656880,4.0,3,3,2,Finished,+57.020,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,3,63,6692980,3.0,4,4,2,Finished,+1:33.120,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,15,62,,2.0,5,5,2,+1 Lap,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,19,62,,1.0,6,6,2,+1 Lap,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,20,62,,0.0,7,7,2,+1 Lap,,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,21,61,,0.0,8,8,2,+2 Laps,,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,14,61,,0.0,9,9,2,+2 Laps,,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,36,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,18,59,,0.0,10,10,2,+4 Laps,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,8,58,,0.0,11,11,2,+5 Laps,,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,22,40,,0.0,12,R,2,Physical,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,6,35,,0.0,13,R,2,Spun off,,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,5,34,,0.0,14,R,2,Spun off,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,2,25,,0.0,15,R,2,Spun off,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,9,25,,0.0,16,R,2,Fuel system,,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,12,16,,0.0,17,R,2,Accident,,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,1,15,,0.0,18,R,2,Collision,,1978
+Ensign,ensign,British,,ongais,Danny Ongais,American,22,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,23,13,,0.0,19,R,2,Brakes,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,13,11,,0.0,20,R,2,Overheating,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,11,8,,0.0,21,R,2,Accident,,1978
+Surtees,surtees,British,,keegan,Rupert Keegan,British,18,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,24,5,,0.0,22,R,2,Accident,,1978
+Ensign,ensign,British,,leoni,Lamberto Leoni,Italian,23,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,17,0,,0.0,23,R,2,Transmission,,1978
+ATS,ats,Italian,,jarier,Jean-Pierre Jarier,French,10,1978-rio-de-janeiro,Brazilian Grand Prix,,,,,,16,0,,0.0,24,W,2,Withdrew,,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-midrand,South African Grand Prix,,,,,,12,78,6135767,9.0,1,1,3,Finished,1:42:15.767,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-midrand,South African Grand Prix,,,,,,11,78,6136233,6.0,2,2,3,Finished,+0.466,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-midrand,South African Grand Prix,,,,,,10,78,6140209,4.0,3,3,3,Finished,+4.442,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-midrand,South African Grand Prix,,,,,,18,78,6166753,3.0,4,4,3,Finished,+30.986,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-midrand,South African Grand Prix,,,,,,13,78,6204985,2.0,5,5,3,Finished,+1:09.218,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-midrand,South African Grand Prix,,,,,,14,77,,1.0,6,6,3,+1 Lap,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-midrand,South African Grand Prix,,,,,,2,77,,0.0,7,7,3,+1 Lap,,1978
+ATS,ats,Italian,,jarier,Jean-Pierre Jarier,French,10,1978-midrand,South African Grand Prix,,,,,,17,77,,0.0,8,8,3,+1 Lap,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-midrand,South African Grand Prix,,,,,,22,77,,0.0,9,9,3,+1 Lap,,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-midrand,South African Grand Prix,,,,,,21,77,,0.0,10,10,3,+1 Lap,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-midrand,South African Grand Prix,,,,,,20,76,,0.0,11,11,3,+2 Laps,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-midrand,South African Grand Prix,,,,,,19,76,,0.0,12,12,3,+2 Laps,,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-midrand,South African Grand Prix,,,,,,7,63,,0.0,13,R,3,Engine,,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-midrand,South African Grand Prix,,,,,,5,59,,0.0,14,R,3,Spun off,,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-midrand,South African Grand Prix,,,,,,4,56,,0.0,15,R,3,Accident,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-midrand,South African Grand Prix,,,,,,8,55,,0.0,16,R,3,Oil leak,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-midrand,South African Grand Prix,,,,,,9,55,,0.0,17,R,3,Spun off,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-midrand,South African Grand Prix,,,,,,1,52,,0.0,18,R,3,Engine,,1978
+Surtees,surtees,British,,keegan,Rupert Keegan,British,18,1978-midrand,South African Grand Prix,,,,,,23,52,,0.0,19,R,3,Engine,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-midrand,South African Grand Prix,,,,,,15,43,,0.0,20,R,3,Engine,,1978
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,37,1978-midrand,South African Grand Prix,,,,,,26,39,,0.0,21,R,3,Suspension,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-midrand,South African Grand Prix,,,,,,6,38,,0.0,22,R,3,Engine,,1978
+Theodore,theodore,Hong Kong,,keke_rosberg,Keke Rosberg,Finnish,32,1978-midrand,South African Grand Prix,,,,,,24,15,,0.0,23,R,3,Clutch,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-midrand,South African Grand Prix,,,,,,16,9,,0.0,24,R,3,Transmission,,1978
+Hesketh,hesketh,British,,cheever,Eddie Cheever,American,24,1978-midrand,South African Grand Prix,,,,,,25,8,,0.0,25,R,3,Oil leak,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-midrand,South African Grand Prix,,,,,,3,5,,0.0,26,R,3,Engine,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-california,United States Grand Prix West,,,,,,1,80,6721301,9.0,1,1,4,Finished,1:52:01.301,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-california,United States Grand Prix West,,,,,,4,80,6732362,6.0,2,2,4,Finished,+11.061,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-california,United States Grand Prix West,,,,,,12,80,6750252,4.0,3,3,4,Finished,+28.951,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-california,United States Grand Prix West,,,,,,6,80,6766904,3.0,4,4,4,Finished,+45.603,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-california,United States Grand Prix West,,,,,,14,80,6804185,2.0,5,5,4,Finished,+1:22.884,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-california,United States Grand Prix West,,,,,,9,79,,1.0,6,6,4,+1 Lap,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-california,United States Grand Prix West,,,,,,8,79,,0.0,7,7,4,+1 Lap,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-california,United States Grand Prix West,,,,,,15,79,,0.0,8,8,4,+1 Lap,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-california,United States Grand Prix West,,,,,,18,79,,0.0,9,9,4,+1 Lap,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-california,United States Grand Prix West,,,,,,20,79,,0.0,10,10,4,+1 Lap,,1978
+ATS,ats,Italian,,jarier,Jean-Pierre Jarier,French,10,1978-california,United States Grand Prix West,,,,,,19,75,,0.0,11,11,4,+5 Laps,,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-california,United States Grand Prix West,,,,,,11,74,,0.0,12,12,4,Accident,,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-california,United States Grand Prix West,,,,,,10,59,,0.0,13,R,4,Accident,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-california,United States Grand Prix West,,,,,,17,50,,0.0,14,R,4,Transmission,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-california,United States Grand Prix West,,,,,,13,43,,0.0,15,R,4,Turbo,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-california,United States Grand Prix West,,,,,,2,38,,0.0,16,R,4,Accident,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-california,United States Grand Prix West,,,,,,3,27,,0.0,17,R,4,Ignition,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-california,United States Grand Prix West,,,,,,22,25,,0.0,18,R,4,Gearbox,,1978
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,37,1978-california,United States Grand Prix West,,,,,,21,17,,0.0,19,R,4,Gearbox,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-california,United States Grand Prix West,,,,,,16,11,,0.0,20,R,4,Brakes,,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-california,United States Grand Prix West,,,,,,5,9,,0.0,21,R,4,Gearbox,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-california,United States Grand Prix West,,,,,,7,5,,0.0,22,R,4,Accident,,1978
+Surtees,surtees,British,,keegan,Rupert Keegan,British,18,1978-california,United States Grand Prix West,,,,,,0,0,,0.0,23,W,4,Accident,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-california,United States Grand Prix West,,,,,,0,0,,0.0,24,W,4,Accident,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-monte-carlo,Monaco Grand Prix,,,,,,5,75,6914660,9.0,1,1,5,Finished,1:55:14.660,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-monte-carlo,Monaco Grand Prix,,,,,,3,75,6937110,6.0,2,2,5,Finished,+22.450,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-monte-carlo,Monaco Grand Prix,,,,,,9,75,6946950,4.0,3,3,5,Finished,+32.290,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-monte-carlo,Monaco Grand Prix,,,,,,2,75,6948190,3.0,4,4,5,Finished,+33.530,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-monte-carlo,Monaco Grand Prix,,,,,,13,75,6982720,2.0,5,5,5,Finished,+1:08.060,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-monte-carlo,Monaco Grand Prix,,,,,,14,75,6983430,1.0,6,6,5,Finished,+1:08.770,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-monte-carlo,Monaco Grand Prix,,,,,,11,74,,0.0,7,7,5,+1 Lap,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-monte-carlo,Monaco Grand Prix,,,,,,1,74,,0.0,8,8,5,+1 Lap,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-monte-carlo,Monaco Grand Prix,,,,,,20,74,,0.0,9,9,5,+1 Lap,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-monte-carlo,Monaco Grand Prix,,,,,,12,71,,0.0,10,10,5,+4 Laps,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-monte-carlo,Monaco Grand Prix,,,,,,4,69,,0.0,11,11,5,+6 Laps,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-monte-carlo,Monaco Grand Prix,,,,,,8,62,,0.0,12,R,5,Accident,,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-monte-carlo,Monaco Grand Prix,,,,,,7,56,,0.0,13,R,5,Gearbox,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-monte-carlo,Monaco Grand Prix,,,,,,6,43,,0.0,14,R,5,Handling,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-monte-carlo,Monaco Grand Prix,,,,,,19,38,,0.0,15,R,5,Driver unwell,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-monte-carlo,Monaco Grand Prix,,,,,,10,29,,0.0,16,R,5,Oil leak,,1978
+Ensign,ensign,British,,ickx,Jacky Ickx,Belgian,22,1978-monte-carlo,Monaco Grand Prix,,,,,,16,27,,0.0,17,R,5,Brakes,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-monte-carlo,Monaco Grand Prix,,,,,,17,24,,0.0,18,R,5,Accident,,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-monte-carlo,Monaco Grand Prix,,,,,,15,13,,0.0,19,R,5,Gearbox,,1978
+Surtees,surtees,British,,keegan,Rupert Keegan,British,18,1978-monte-carlo,Monaco Grand Prix,,,,,,18,8,,0.0,20,R,5,Transmission,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-heusden-zolder,Belgian Grand Prix,,,,,,1,70,5992020,9.0,1,1,6,Finished,1:39:52.020,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-heusden-zolder,Belgian Grand Prix,,,,,,7,70,6001920,6.0,2,2,6,Finished,+9.900,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-heusden-zolder,Belgian Grand Prix,,,,,,2,70,6016360,4.0,3,3,6,Finished,+24.340,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-heusden-zolder,Belgian Grand Prix,,,,,,4,70,6039060,3.0,4,4,6,Finished,+47.040,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-heusden-zolder,Belgian Grand Prix,,,,,,14,69,,2.0,5,5,6,Accident,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-heusden-zolder,Belgian Grand Prix,,,,,,23,69,,1.0,6,6,6,+1 Lap,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-heusden-zolder,Belgian Grand Prix,,,,,,24,69,,0.0,7,7,6,+1 Lap,,1978
+McLaren,mclaren,British,,giacomelli,Bruno Giacomelli,Italian,33,1978-heusden-zolder,Belgian Grand Prix,,,,,,21,69,,0.0,8,8,6,+1 Lap,,1978
+Martini,martini,French,,arnoux,René Arnoux,French,31,1978-heusden-zolder,Belgian Grand Prix,,,,,,19,68,,0.0,9,9,6,+2 Laps,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-heusden-zolder,Belgian Grand Prix,,,,,,11,68,,0.0,10,10,6,+2 Laps,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-heusden-zolder,Belgian Grand Prix,,,,,,16,68,,0.0,11,11,6,+2 Laps,,1978
+Ensign,ensign,British,,ickx,Jacky Ickx,Belgian,22,1978-heusden-zolder,Belgian Grand Prix,,,,,,22,64,,0.0,12,12,6,+6 Laps,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-heusden-zolder,Belgian Grand Prix,,,,,,12,63,,0.0,13,13,6,Engine,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-heusden-zolder,Belgian Grand Prix,,,,,,10,56,,0.0,14,R,6,Spun off,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-heusden-zolder,Belgian Grand Prix,,,,,,20,56,,0.0,15,R,6,Not classified,,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-heusden-zolder,Belgian Grand Prix,,,,,,5,53,,0.0,16,R,6,Spun off,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-heusden-zolder,Belgian Grand Prix,,,,,,13,51,,0.0,17,R,6,Gearbox,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-heusden-zolder,Belgian Grand Prix,,,,,,18,40,,0.0,18,R,6,Transmission,,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-heusden-zolder,Belgian Grand Prix,,,,,,8,31,,0.0,19,R,6,Suspension,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-heusden-zolder,Belgian Grand Prix,,,,,,17,26,,0.0,20,R,6,Spun off,,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-heusden-zolder,Belgian Grand Prix,,,,,,9,18,,0.0,21,R,6,Accident,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-heusden-zolder,Belgian Grand Prix,,,,,,3,0,,0.0,22,R,6,Accident,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-heusden-zolder,Belgian Grand Prix,,,,,,6,0,,0.0,23,R,6,Accident,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-heusden-zolder,Belgian Grand Prix,,,,,,15,0,,0.0,24,R,6,Accident,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-madrid,Spanish Grand Prix,,,,,,1,75,6107060,9.0,1,1,7,Finished,1:41:47.060,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-madrid,Spanish Grand Prix,,,,,,2,75,6126620,6.0,2,2,7,Finished,+19.560,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-madrid,Spanish Grand Prix,,,,,,10,75,6144300,4.0,3,3,7,Finished,+37.240,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-madrid,Spanish Grand Prix,,,,,,9,75,6167120,3.0,4,4,7,Finished,+1:00.060,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-madrid,Spanish Grand Prix,,,,,,7,75,6172990,2.0,5,5,7,Finished,+1:05.930,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-madrid,Spanish Grand Prix,,,,,,4,74,,1.0,6,6,7,+1 Lap,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-madrid,Spanish Grand Prix,,,,,,16,74,,0.0,7,7,7,+1 Lap,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-madrid,Spanish Grand Prix,,,,,,18,74,,0.0,8,8,7,+1 Lap,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-madrid,Spanish Grand Prix,,,,,,17,74,,0.0,9,9,7,+1 Lap,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-madrid,Spanish Grand Prix,,,,,,5,74,,0.0,10,10,7,+1 Lap,,1978
+Surtees,surtees,British,,keegan,Rupert Keegan,British,18,1978-madrid,Spanish Grand Prix,,,,,,23,73,,0.0,11,11,7,+2 Laps,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-madrid,Spanish Grand Prix,,,,,,13,71,,0.0,12,12,7,+4 Laps,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-madrid,Spanish Grand Prix,,,,,,11,71,,0.0,13,13,7,+4 Laps,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-madrid,Spanish Grand Prix,,,,,,19,71,,0.0,14,14,7,+4 Laps,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-madrid,Spanish Grand Prix,,,,,,22,67,,0.0,15,15,7,Fuel pipe,,1978
+Ensign,ensign,British,,ickx,Jacky Ickx,Belgian,22,1978-madrid,Spanish Grand Prix,,,,,,21,64,,0.0,16,R,7,Engine,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-madrid,Spanish Grand Prix,,,,,,15,62,,0.0,17,R,7,Throttle,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-madrid,Spanish Grand Prix,,,,,,3,57,,0.0,18,R,7,Accident,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-madrid,Spanish Grand Prix,,,,,,6,56,,0.0,19,R,7,Engine,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-madrid,Spanish Grand Prix,,,,,,12,51,,0.0,20,R,7,Engine,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-madrid,Spanish Grand Prix,,,,,,24,45,,0.0,21,R,7,Suspension,,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-madrid,Spanish Grand Prix,,,,,,8,21,,0.0,22,R,7,Engine,,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-madrid,Spanish Grand Prix,,,,,,20,21,,0.0,23,R,7,Exhaust,,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-madrid,Spanish Grand Prix,,,,,,14,16,,0.0,24,R,7,Spun off,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-anderstorp,Swedish Grand Prix,,,,,,3,70,6060606,9.0,1,1,8,Finished,1:41:00.606,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-anderstorp,Swedish Grand Prix,,,,,,5,70,6094625,6.0,2,2,8,Finished,+34.019,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-anderstorp,Swedish Grand Prix,,,,,,4,70,6094711,4.0,3,3,8,Finished,+34.105,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-anderstorp,Swedish Grand Prix,,,,,,15,69,,3.0,4,4,8,+1 Lap,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-anderstorp,Swedish Grand Prix,,,,,,16,69,,2.0,5,5,8,+1 Lap,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-anderstorp,Swedish Grand Prix,,,,,,13,69,,1.0,6,6,8,+1 Lap,,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-anderstorp,Swedish Grand Prix,,,,,,11,69,,0.0,7,7,8,+1 Lap,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-anderstorp,Swedish Grand Prix,,,,,,14,69,,0.0,8,8,8,+1 Lap,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-anderstorp,Swedish Grand Prix,,,,,,7,69,,0.0,9,9,8,+1 Lap,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-anderstorp,Swedish Grand Prix,,,,,,8,69,,0.0,10,10,8,+1 Lap,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-anderstorp,Swedish Grand Prix,,,,,,20,68,,0.0,11,11,8,+2 Laps,,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-anderstorp,Swedish Grand Prix,,,,,,21,68,,0.0,12,12,8,+2 Laps,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-anderstorp,Swedish Grand Prix,,,,,,19,68,,0.0,13,13,8,+2 Laps,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-anderstorp,Swedish Grand Prix,,,,,,24,67,,0.0,14,14,8,+3 Laps,,1978
+ATS,ats,Italian,,keke_rosberg,Keke Rosberg,Finnish,10,1978-anderstorp,Swedish Grand Prix,,,,,,23,63,,0.0,15,15,8,+7 Laps,,1978
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,37,1978-anderstorp,Swedish Grand Prix,,,,,,22,62,,0.0,16,R,8,+8 Laps,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-anderstorp,Swedish Grand Prix,,,,,,1,46,,0.0,17,R,8,Engine,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-anderstorp,Swedish Grand Prix,,,,,,9,46,,0.0,18,R,8,Wheel,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-anderstorp,Swedish Grand Prix,,,,,,12,42,,0.0,19,R,8,Suspension,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-anderstorp,Swedish Grand Prix,,,,,,10,28,,0.0,20,R,8,Engine,,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-anderstorp,Swedish Grand Prix,,,,,,2,19,,0.0,21,R,8,Spun off,,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-anderstorp,Swedish Grand Prix,,,,,,6,16,,0.0,22,R,8,Overheating,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-anderstorp,Swedish Grand Prix,,,,,,17,8,,0.0,23,R,8,Accident,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-anderstorp,Swedish Grand Prix,,,,,,18,7,,0.0,24,R,8,Accident,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-le-castellet,French Grand Prix,,,,,,2,54,5931920,9.0,1,1,9,Finished,1:38:51.920,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-le-castellet,French Grand Prix,,,,,,5,54,5934850,6.0,2,2,9,Finished,+2.930,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-le-castellet,French Grand Prix,,,,,,4,54,5951720,4.0,3,3,9,Finished,+19.800,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-le-castellet,French Grand Prix,,,,,,1,54,5968800,3.0,4,4,9,Finished,+36.880,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-le-castellet,French Grand Prix,,,,,,14,54,5973730,2.0,5,5,9,Finished,+41.810,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-le-castellet,French Grand Prix,,,,,,7,54,5986450,1.0,6,6,9,Finished,+54.530,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-le-castellet,French Grand Prix,,,,,,10,54,5986660,0.0,7,7,9,Finished,+54.740,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-le-castellet,French Grand Prix,,,,,,12,54,6016800,0.0,8,8,9,Finished,+1:24.880,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-le-castellet,French Grand Prix,,,,,,6,54,6018980,0.0,9,9,9,Finished,+1:27.060,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-le-castellet,French Grand Prix,,,,,,16,54,6021900,0.0,10,10,9,Finished,+1:29.980,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-le-castellet,French Grand Prix,,,,,,20,53,,0.0,11,11,9,+1 Lap,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-le-castellet,French Grand Prix,,,,,,9,53,,0.0,12,12,9,+1 Lap,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-le-castellet,French Grand Prix,,,,,,25,53,,0.0,13,13,9,+1 Lap,,1978
+Martini,martini,French,,arnoux,René Arnoux,French,31,1978-le-castellet,French Grand Prix,,,,,,18,53,,0.0,14,14,9,+1 Lap,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-le-castellet,French Grand Prix,,,,,,21,53,,0.0,15,15,9,+1 Lap,,1978
+ATS,ats,Italian,,keke_rosberg,Keke Rosberg,Finnish,10,1978-le-castellet,French Grand Prix,,,,,,26,52,,0.0,16,16,9,+2 Laps,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-le-castellet,French Grand Prix,,,,,,19,52,,0.0,17,17,9,+2 Laps,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-le-castellet,French Grand Prix,,,,,,8,49,,0.0,18,18,9,+5 Laps,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-le-castellet,French Grand Prix,,,,,,24,45,,0.0,19,R,9,Engine,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-le-castellet,French Grand Prix,,,,,,15,43,,0.0,20,R,9,Suspension,,1978
+Surtees,surtees,British,,keegan,Rupert Keegan,British,18,1978-le-castellet,French Grand Prix,,,,,,23,40,,0.0,21,R,9,Engine,,1978
+McLaren,mclaren,British,,giacomelli,Bruno Giacomelli,Italian,33,1978-le-castellet,French Grand Prix,,,,,,22,28,,0.0,22,R,9,Engine,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-le-castellet,French Grand Prix,,,,,,3,10,,0.0,23,R,9,Engine,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-le-castellet,French Grand Prix,,,,,,13,10,,0.0,24,R,9,Engine,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-le-castellet,French Grand Prix,,,,,,17,4,,0.0,25,R,9,Electrical,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-le-castellet,French Grand Prix,,,,,,11,1,,0.0,26,R,9,Engine,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-kent,British Grand Prix,,,,,,8,76,6132390,9.0,1,1,10,Finished,1:42:12.390,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-kent,British Grand Prix,,,,,,4,76,6133620,6.0,2,2,10,Finished,+1.230,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-kent,British Grand Prix,,,,,,9,76,6169640,4.0,3,3,10,Finished,+37.250,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-kent,British Grand Prix,,,,,,10,76,6205660,3.0,4,4,10,Finished,+1:13.270,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-kent,British Grand Prix,,,,,,18,75,,2.0,5,5,10,+1 Lap,,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-kent,British Grand Prix,,,,,,20,75,,1.0,6,6,10,+1 Lap,,1978
+McLaren,mclaren,British,,giacomelli,Bruno Giacomelli,Italian,33,1978-kent,British Grand Prix,,,,,,16,75,,0.0,7,7,10,+1 Lap,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-kent,British Grand Prix,,,,,,24,75,,0.0,8,8,10,+1 Lap,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-kent,British Grand Prix,,,,,,25,75,,0.0,9,9,10,+1 Lap,,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-kent,British Grand Prix,,,,,,7,73,,0.0,10,10,10,+3 Laps,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-kent,British Grand Prix,,,,,,26,65,,0.0,11,R,10,+11 Laps,,1978
+ATS,ats,Italian,,keke_rosberg,Keke Rosberg,Finnish,10,1978-kent,British Grand Prix,,,,,,22,59,,0.0,12,R,10,Suspension,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-kent,British Grand Prix,,,,,,17,49,,0.0,13,R,10,Gearbox,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-kent,British Grand Prix,,,,,,12,46,,0.0,14,R,10,Turbo,,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-kent,British Grand Prix,,,,,,5,40,,0.0,15,R,10,Suspension,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-kent,British Grand Prix,,,,,,19,40,,0.0,16,R,10,Gearbox,,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-kent,British Grand Prix,,,,,,3,36,,0.0,17,R,10,Gearbox,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-kent,British Grand Prix,,,,,,11,32,,0.0,18,R,10,Engine,,1978
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,37,1978-kent,British Grand Prix,,,,,,23,32,,0.0,19,R,10,Fuel system,,1978
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1978-kent,British Grand Prix,,,,,,15,30,,0.0,20,R,10,Wheel,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-kent,British Grand Prix,,,,,,2,28,,0.0,21,R,10,Engine,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-kent,British Grand Prix,,,,,,6,26,,0.0,22,R,10,Transmission,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-kent,British Grand Prix,,,,,,13,19,,0.0,23,R,10,Transmission,,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-kent,British Grand Prix,,,,,,21,15,,0.0,24,R,10,Gearbox,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-kent,British Grand Prix,,,,,,14,7,,0.0,25,R,10,Accident,,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-kent,British Grand Prix,,,,,,1,6,,0.0,26,R,10,Fuel system,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-hockenheim,German Grand Prix,,,,,,1,45,5280900,9.0,1,1,11,Finished,1:28:00.900,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-hockenheim,German Grand Prix,,,,,,4,45,5296250,6.0,2,2,11,Finished,+15.350,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-hockenheim,German Grand Prix,,,,,,7,45,5308910,4.0,3,3,11,Finished,+28.010,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-hockenheim,German Grand Prix,,,,,,10,45,5317780,3.0,4,4,11,Finished,+36.880,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-hockenheim,German Grand Prix,,,,,,16,45,5338160,2.0,5,5,11,Finished,+57.260,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-hockenheim,German Grand Prix,,,,,,18,45,5378760,1.0,6,6,11,Finished,+1:37.860,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-hockenheim,German Grand Prix,,,,,,5,45,5380430,0.0,7,7,11,Finished,+1:39.530,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-hockenheim,German Grand Prix,,,,,,15,45,5397770,0.0,8,8,11,Finished,+1:56.870,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-hockenheim,German Grand Prix,,,,,,14,44,,0.0,9,9,11,+1 Lap,,1978
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,32,1978-hockenheim,German Grand Prix,,,,,,19,42,,0.0,10,10,11,+3 Laps,,1978
+Ensign,ensign,British,,ertl,Harald Ertl,Austrian,23,1978-hockenheim,German Grand Prix,,,,,,17,41,,0.0,11,11,11,Engine,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-hockenheim,German Grand Prix,,,,,,23,42,,0.0,12,D,11,Disqualified,,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-hockenheim,German Grand Prix,,,,,,2,36,,0.0,13,R,11,Gearbox,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-hockenheim,German Grand Prix,,,,,,8,34,,0.0,14,D,11,Disqualified,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-hockenheim,German Grand Prix,,,,,,6,31,,0.0,15,R,11,Fuel system,,1978
+Ensign,ensign,British,,piquet,Nelson Piquet,Brazilian,22,1978-hockenheim,German Grand Prix,,,,,,21,31,,0.0,16,R,11,Engine,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-hockenheim,German Grand Prix,,,,,,20,24,,0.0,17,R,11,Fuel system,,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-hockenheim,German Grand Prix,,,,,,11,16,,0.0,18,R,11,Accident,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-hockenheim,German Grand Prix,,,,,,12,14,,0.0,19,R,11,Fuel system,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-hockenheim,German Grand Prix,,,,,,3,11,,0.0,20,R,11,Engine,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-hockenheim,German Grand Prix,,,,,,9,5,,0.0,21,R,11,Engine,,1978
+ATS,ats,Italian,,mass,Jochen Mass,German,9,1978-hockenheim,German Grand Prix,,,,,,22,1,,0.0,22,R,11,Accident,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-hockenheim,German Grand Prix,,,,,,24,1,,0.0,23,R,11,Accident,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-hockenheim,German Grand Prix,,,,,,13,0,,0.0,24,R,11,Accident,,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-spielberg,Austrian Grand Prix,,,,,,1,54,6081570,9.0,1,1,12,Finished,1:41:21.570,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-spielberg,Austrian Grand Prix,,,,,,14,54,6129010,6.0,2,2,12,Finished,+47.440,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-spielberg,Austrian Grand Prix,,,,,,11,54,6181330,4.0,3,3,12,Finished,+1:39.760,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-spielberg,Austrian Grand Prix,,,,,,6,53,,3.0,4,4,12,+1 Lap,,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-spielberg,Austrian Grand Prix,,,,,,5,53,,2.0,5,5,12,+1 Lap,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-spielberg,Austrian Grand Prix,,,,,,21,53,,1.0,6,6,12,+1 Lap,,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-spielberg,Austrian Grand Prix,,,,,,10,53,,0.0,7,7,12,+1 Lap,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-spielberg,Austrian Grand Prix,,,,,,17,52,,0.0,8,8,12,+2 Laps,,1978
+Martini,martini,French,,arnoux,René Arnoux,French,31,1978-spielberg,Austrian Grand Prix,,,,,,26,52,,0.0,9,9,12,+2 Laps,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-spielberg,Austrian Grand Prix,,,,,,22,50,,0.0,10,R,12,+7 Laps,,1978
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,32,1978-spielberg,Austrian Grand Prix,,,,,,25,49,,0.0,11,R,12,+7 Laps,,1978
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1978-spielberg,Austrian Grand Prix,,,,,,19,41,,0.0,12,D,12,Disqualified,,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-spielberg,Austrian Grand Prix,,,,,,14,40,,0.0,13,R,12,Accident,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-spielberg,Austrian Grand Prix,,,,,,23,33,,0.0,14,R,12,Accident,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-spielberg,Austrian Grand Prix,,,,,,3,31,,0.0,15,R,12,Gearbox,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-spielberg,Austrian Grand Prix,,,,,,12,28,,0.0,16,D,12,Disqualified,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-spielberg,Austrian Grand Prix,,,,,,4,27,,0.0,17,R,12,Accident,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-spielberg,Austrian Grand Prix,,,,,,9,20,,0.0,18,R,12,Accident,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-spielberg,Austrian Grand Prix,,,,,,8,7,,0.0,19,R,12,Accident,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-spielberg,Austrian Grand Prix,,,,,,15,7,,0.0,20,R,12,Accident,,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-spielberg,Austrian Grand Prix,,,,,,16,7,,0.0,21,R,12,Accident,,1978
+Ensign,ensign,British,,ertl,Harald Ertl,Austrian,23,1978-spielberg,Austrian Grand Prix,,,,,,24,7,,0.0,22,R,12,Accident,,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-spielberg,Austrian Grand Prix,,,,,,18,4,,0.0,23,R,12,Accident,,1978
+McLaren,mclaren,British,,piquet,Nelson Piquet,Brazilian,29,1978-spielberg,Austrian Grand Prix,,,,,,20,4,,0.0,24,R,12,Accident,,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-spielberg,Austrian Grand Prix,,,,,,7,3,,0.0,25,R,12,Accident,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-spielberg,Austrian Grand Prix,,,,,,2,0,,0.0,26,R,12,Accident,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-zandvoort,Dutch Grand Prix,,,,,,1,75,6064230,9.0,1,1,13,Finished,1:41:04.230,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-zandvoort,Dutch Grand Prix,,,,,,2,75,6064550,6.0,2,2,13,Finished,+0.320,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-zandvoort,Dutch Grand Prix,,,,,,3,75,6076440,4.0,3,3,13,Finished,+12.210,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-zandvoort,Dutch Grand Prix,,,,,,8,75,6085150,3.0,4,4,13,Finished,+20.920,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-zandvoort,Dutch Grand Prix,,,,,,10,75,6085730,2.0,5,5,13,Finished,+21.500,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-zandvoort,Dutch Grand Prix,,,,,,5,75,6110180,1.0,6,6,13,Finished,+45.950,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-zandvoort,Dutch Grand Prix,,,,,,4,75,6124750,0.0,7,7,13,Finished,+1:00.520,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-zandvoort,Dutch Grand Prix,,,,,,6,74,,0.0,8,8,13,+1 Lap,,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-zandvoort,Dutch Grand Prix,,,,,,14,74,,0.0,9,9,13,+1 Lap,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-zandvoort,Dutch Grand Prix,,,,,,7,74,,0.0,10,10,13,+1 Lap,,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-zandvoort,Dutch Grand Prix,,,,,,20,74,,0.0,11,11,13,+1 Lap,,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-zandvoort,Dutch Grand Prix,,,,,,15,73,,0.0,12,12,13,+2 Laps,,1978
+McLaren,mclaren,British,,giacomelli,Bruno Giacomelli,Italian,33,1978-zandvoort,Dutch Grand Prix,,,,,,19,60,,0.0,13,R,13,Spun off,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-zandvoort,Dutch Grand Prix,,,,,,18,56,,0.0,14,R,13,Transmission,,1978
+Martini,martini,French,,arnoux,René Arnoux,French,31,1978-zandvoort,Dutch Grand Prix,,,,,,23,40,,0.0,15,R,13,Chassis,,1978
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,37,1978-zandvoort,Dutch Grand Prix,,,,,,26,40,,0.0,16,R,13,Engine,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-zandvoort,Dutch Grand Prix,,,,,,22,37,,0.0,17,D,13,Disqualified,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-zandvoort,Dutch Grand Prix,,,,,,9,35,,0.0,18,R,13,Engine,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-zandvoort,Dutch Grand Prix,,,,,,21,35,,0.0,19,R,13,Engine,,1978
+Wolf,wolf,Canadian,,keke_rosberg,Keke Rosberg,Finnish,32,1978-zandvoort,Dutch Grand Prix,,,,,,24,21,,0.0,20,R,13,Accident,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-zandvoort,Dutch Grand Prix,,,,,,11,17,,0.0,21,R,13,Throttle,,1978
+McLaren,mclaren,British,,piquet,Nelson Piquet,Brazilian,29,1978-zandvoort,Dutch Grand Prix,,,,,,25,16,,0.0,22,R,13,Transmission,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-zandvoort,Dutch Grand Prix,,,,,,12,13,,0.0,23,R,13,Engine,,1978
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1978-zandvoort,Dutch Grand Prix,,,,,,16,10,,0.0,24,R,13,Transmission,,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-zandvoort,Dutch Grand Prix,,,,,,13,0,,0.0,25,R,13,Accident,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-zandvoort,Dutch Grand Prix,,,,,,17,0,,0.0,26,R,13,Accident,,1978
+Surtees,surtees,British,,keegan,Rupert Keegan,British,18,1978-zandvoort,Dutch Grand Prix,,,,,,0,0,,0.0,27,W,13,Withdrew,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-monza,Italian Grand Prix,,,,,,4,40,4024540,9.0,1,1,14,Finished,1:07:04.540,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-monza,Italian Grand Prix,,,,,,7,40,4026020,6.0,2,2,14,Finished,+1.480,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-monza,Italian Grand Prix,,,,,,11,40,4045010,4.0,3,3,14,Finished,+20.470,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-monza,Italian Grand Prix,,,,,,8,40,4062070,3.0,4,4,14,Finished,+37.530,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-monza,Italian Grand Prix,,,,,,19,40,4064930,2.0,5,5,14,Finished,+40.390,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-monza,Italian Grand Prix,,,,,,1,40,4070870,1.0,6,6,14,Finished,+46.330,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-monza,Italian Grand Prix,,,,,,2,40,4073020,0.0,7,7,14,Finished,+48.480,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-monza,Italian Grand Prix,,,,,,13,40,4079780,0.0,8,8,14,Finished,+55.240,1978
+McLaren,mclaren,British,,piquet,Nelson Piquet,Brazilian,29,1978-monza,Italian Grand Prix,,,,,,24,40,4091370,0.0,9,9,14,Finished,+1:06.830,1978
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1978-monza,Italian Grand Prix,,,,,,18,40,4093650,0.0,10,10,14,Finished,+1:09.110,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-monza,Italian Grand Prix,,,,,,16,40,4101109,0.0,11,11,14,Finished,+1:16.570,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-monza,Italian Grand Prix,,,,,,9,39,,0.0,12,12,14,+1 Lap,,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-monza,Italian Grand Prix,,,,,,6,39,,0.0,13,13,14,+1 Lap,,1978
+McLaren,mclaren,British,,giacomelli,Bruno Giacomelli,Italian,33,1978-monza,Italian Grand Prix,,,,,,20,39,,0.0,14,14,14,+1 Lap,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-monza,Italian Grand Prix,,,,,,15,33,,0.0,15,R,14,+7 Laps,,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-monza,Italian Grand Prix,,,,,,12,28,,0.0,16,R,14,Engine,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-monza,Italian Grand Prix,,,,,,10,19,,0.0,17,R,14,Distributor,,1978
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,37,1978-monza,Italian Grand Prix,,,,,,22,14,,0.0,18,R,14,Engine,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-monza,Italian Grand Prix,,,,,,3,6,,0.0,19,R,14,Engine,,1978
+Team Lotus,team_lotus,British,,peterson,Ronnie Peterson,Swedish,6,1978-monza,Italian Grand Prix,,,,,,5,0,,0.0,20,R,14,Accident,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-monza,Italian Grand Prix,,,,,,14,0,,0.0,21,R,14,Accident,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-monza,Italian Grand Prix,,,,,,17,0,,0.0,22,R,14,Accident,,1978
+McLaren,mclaren,British,,lunger,Brett Lunger,American,30,1978-monza,Italian Grand Prix,,,,,,21,0,,0.0,23,R,14,Accident,,1978
+Surtees,surtees,British,,brambilla,Vittorio Brambilla,Italian,19,1978-monza,Italian Grand Prix,,,,,,23,0,,0.0,24,R,14,Accident,,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-new-york-state,United States Grand Prix,,,,,,2,59,6048800,9.0,1,1,15,Finished,1:40:48.800,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-new-york-state,United States Grand Prix,,,,,,3,59,6068539,6.0,2,2,15,Finished,+19.739,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-new-york-state,United States Grand Prix,,,,,,11,59,6094501,4.0,3,3,15,Finished,+45.701,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-new-york-state,United States Grand Prix,,,,,,9,59,6133807,3.0,4,4,15,Finished,+1:25.007,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-new-york-state,United States Grand Prix,,,,,,13,59,6136889,2.0,5,5,15,Finished,+1:28.089,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-new-york-state,United States Grand Prix,,,,,,18,59,6159010,1.0,6,6,15,Finished,+1:50.210,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-new-york-state,United States Grand Prix,,,,,,6,58,,0.0,7,7,15,+1 Lap,,1978
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1978-new-york-state,United States Grand Prix,,,,,,19,58,,0.0,8,8,15,+1 Lap,,1978
+Martini,martini,French,,arnoux,René Arnoux,French,18,1978-new-york-state,United States Grand Prix,,,,,,21,58,,0.0,9,9,15,+1 Lap,,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-new-york-state,United States Grand Prix,,,,,,16,58,,0.0,10,10,15,+1 Lap,,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-new-york-state,United States Grand Prix,,,,,,10,58,,0.0,11,11,15,+1 Lap,,1978
+Wolf,wolf,Canadian,,rahal,Bobby Rahal,American,21,1978-new-york-state,United States Grand Prix,,,,,,20,58,,0.0,12,12,15,+1 Lap,,1978
+Ensign,ensign,British,,lunger,Brett Lunger,American,23,1978-new-york-state,United States Grand Prix,,,,,,24,58,,0.0,13,13,15,+1 Lap,,1978
+Shadow,shadow,British,,regazzoni,Clay Regazzoni,Swiss,17,1978-new-york-state,United States Grand Prix,,,,,,17,56,,0.0,14,14,15,+3 Laps,,1978
+Team Lotus,team_lotus,British,,jarier,Jean-Pierre Jarier,French,55,1978-new-york-state,United States Grand Prix,,,,,,8,55,,0.0,15,15,15,Out of fuel,,1978
+Arrows,arrows,British,,stommelen,Rolf Stommelen,German,36,1978-new-york-state,United States Grand Prix,,,,,,22,54,,0.0,16,16,15,+5 Laps,,1978
+Merzario,merzario,Italian,,merzario,Arturo Merzario,Italian,37,1978-new-york-state,United States Grand Prix,,,,,,26,46,,0.0,17,R,15,Gearbox,,1978
+ATS,ats,Italian,,bleekemolen,Michael Bleekemolen,Dutch,9,1978-new-york-state,United States Grand Prix,,,,,,25,43,,0.0,18,R,15,Oil leak,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-new-york-state,United States Grand Prix,,,,,,5,28,,0.0,19,R,15,Engine,,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-new-york-state,United States Grand Prix,,,,,,1,27,,0.0,20,R,15,Engine,,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-new-york-state,United States Grand Prix,,,,,,7,25,,0.0,21,R,15,Engine,,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-new-york-state,United States Grand Prix,,,,,,12,23,,0.0,22,R,15,Wheel,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-new-york-state,United States Grand Prix,,,,,,4,22,,0.0,23,R,15,Engine,,1978
+ATS,ats,Italian,,keke_rosberg,Keke Rosberg,Finnish,10,1978-new-york-state,United States Grand Prix,,,,,,15,21,,0.0,24,R,15,Transmission,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-new-york-state,United States Grand Prix,,,,,,14,1,,0.0,25,R,15,Fuel system,,1978
+Team Lotus,team_lotus,British,,rebaque,Hector Rebaque,Mexican,25,1978-new-york-state,United States Grand Prix,,,,,,23,0,,0.0,26,R,15,Clutch,,1978
+Ferrari,ferrari,Italian,,gilles_villeneuve,Gilles Villeneuve,Canadian,12,1978-montreal,Canadian Grand Prix,,,,,,3,70,7069196,9.0,1,1,16,Finished,1:57:49.196,1978
+Wolf,wolf,Canadian,,scheckter,Jody Scheckter,South African,20,1978-montreal,Canadian Grand Prix,,,,,,2,70,7082568,6.0,2,2,16,Finished,+13.372,1978
+Ferrari,ferrari,Italian,,reutemann,Carlos Reutemann,Argentine,11,1978-montreal,Canadian Grand Prix,,,,,,11,70,7088604,4.0,3,3,16,Finished,+19.408,1978
+Arrows,arrows,British,,patrese,Riccardo Patrese,Italian,35,1978-montreal,Canadian Grand Prix,,,,,,12,70,7093863,3.0,4,4,16,Finished,+24.667,1978
+Tyrrell,tyrrell,British,,depailler,Patrick Depailler,French,4,1978-montreal,Canadian Grand Prix,,,,,,13,70,7097754,2.0,5,5,16,Finished,+28.558,1978
+Ensign,ensign,British,,daly,Derek Daly,Irish,22,1978-montreal,Canadian Grand Prix,,,,,,15,70,7123672,1.0,6,6,16,Finished,+54.476,1978
+Tyrrell,tyrrell,British,,pironi,Didier Pironi,French,3,1978-montreal,Canadian Grand Prix,,,,,,18,70,7150446,0.0,7,7,16,Finished,+1:21.250,1978
+McLaren,mclaren,British,,tambay,Patrick Tambay,French,8,1978-montreal,Canadian Grand Prix,,,,,,17,70,7155756,0.0,8,8,16,Finished,+1:26.560,1978
+Williams,williams,British,,jones,Alan Jones,Australian,27,1978-montreal,Canadian Grand Prix,,,,,,5,70,7158138,0.0,9,9,16,Finished,+1:28.942,1978
+Team Lotus,team_lotus,British,,mario_andretti,Mario Andretti,American,5,1978-montreal,Canadian Grand Prix,,,,,,9,69,,0.0,10,10,16,+1 Lap,,1978
+Brabham,brabham,British,,piquet,Nelson Piquet,Brazilian,66,1978-montreal,Canadian Grand Prix,,,,,,14,69,,0.0,11,11,16,+1 Lap,,1978
+Renault,renault,French,,jabouille,Jean-Pierre Jabouille,French,15,1978-montreal,Canadian Grand Prix,,,,,,22,65,,0.0,12,12,16,+5 Laps,,1978
+ATS,ats,Italian,,keke_rosberg,Keke Rosberg,Finnish,10,1978-montreal,Canadian Grand Prix,,,,,,21,58,,0.0,13,R,16,+12 Laps,,1978
+Ligier,ligier,French,,laffite,Jacques Laffite,French,26,1978-montreal,Canadian Grand Prix,,,,,,10,52,,0.0,14,R,16,Transmission,,1978
+McLaren,mclaren,British,,hunt,James Hunt,British,7,1978-montreal,Canadian Grand Prix,,,,,,19,51,,0.0,15,R,16,Spun off,,1978
+Team Lotus,team_lotus,British,,jarier,Jean-Pierre Jarier,French,55,1978-montreal,Canadian Grand Prix,,,,,,1,49,,0.0,16,R,16,Oil leak,,1978
+Surtees,surtees,British,,arnoux,René Arnoux,French,18,1978-montreal,Canadian Grand Prix,,,,,,16,37,,0.0,17,R,16,Engine,,1978
+Wolf,wolf,Canadian,,rahal,Bobby Rahal,American,21,1978-montreal,Canadian Grand Prix,,,,,,20,16,,0.0,18,R,16,Fuel system,,1978
+Brabham,brabham,British,,watson,John Watson,British,2,1978-montreal,Canadian Grand Prix,,,,,,4,8,,0.0,19,R,16,Accident,,1978
+Brabham,brabham,British,,lauda,Niki Lauda,Austrian,1,1978-montreal,Canadian Grand Prix,,,,,,7,5,,0.0,20,R,16,Brakes,,1978
+Shadow,shadow,British,,stuck,Hans-Joachim Stuck,German,16,1978-montreal,Canadian Grand Prix,,,,,,8,1,,0.0,21,R,16,Accident,,1978
+Fittipaldi,fittipaldi,Brazilian,,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,14,1978-montreal,Canadian Grand Prix,,,,,,6,0,,0.0,22,R,16,Accident,,1978

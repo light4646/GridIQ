@@ -1,0 +1,145 @@
+[
+  {
+    "year": 1960,
+    "position": 1,
+    "position_text": "1",
+    "points": 48.0,
+    "wins": 6,
+    "constructor_id": "cooper-climax",
+    "constructor": "Cooper-Climax",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1960,
+    "position": 2,
+    "position_text": "2",
+    "points": 34.0,
+    "wins": 2,
+    "constructor_id": "team_lotus",
+    "constructor": "Team Lotus",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Team_Lotus"
+  },
+  {
+    "year": 1960,
+    "position": 3,
+    "position_text": "3",
+    "points": 26.0,
+    "wins": 1,
+    "constructor_id": "ferrari",
+    "constructor": "Ferrari",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
+  },
+  {
+    "year": 1960,
+    "position": 4,
+    "position_text": "4",
+    "points": 8.0,
+    "wins": 0,
+    "constructor_id": "brm",
+    "constructor": "BRM",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/British_Racing_Motors"
+  },
+  {
+    "year": 1960,
+    "position": 5,
+    "position_text": "5",
+    "points": 3.0,
+    "wins": 0,
+    "constructor_id": "cooper-maserati",
+    "constructor": "Cooper-Maserati",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1960,
+    "position": 6,
+    "position_text": "6",
+    "points": 3.0,
+    "wins": 0,
+    "constructor_id": "cooper-castellotti",
+    "constructor": "Cooper-Castellotti",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Cooper_Car_Company"
+  },
+  {
+    "year": 1960,
+    "position": 7,
+    "position_text": "7",
+    "points": 1.0,
+    "wins": 0,
+    "constructor_id": "porsche",
+    "constructor": "Porsche",
+    "constructor_nationality": "German",
+    "constructor_url": "https://en.wikipedia.org/wiki/Porsche_in_motorsport"
+  },
+  {
+    "year": 1960,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "behra-porsche",
+    "constructor": "Behra-Porsche",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Behra-Porsche"
+  },
+  {
+    "year": 1960,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "scarab",
+    "constructor": "Scarab",
+    "constructor_nationality": "American",
+    "constructor_url": "https://en.wikipedia.org/wiki/Scarab_(constructor)"
+  },
+  {
+    "year": 1960,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "aston_martin",
+    "constructor": "Aston Martin",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One"
+  },
+  {
+    "year": 1960,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "maserati",
+    "constructor": "Maserati",
+    "constructor_nationality": "Italian",
+    "constructor_url": "https://en.wikipedia.org/wiki/Maserati"
+  },
+  {
+    "year": 1960,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "jbw",
+    "constructor": "JBW",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/JBW"
+  },
+  {
+    "year": 1960,
+    "position": null,
+    "position_text": "-",
+    "points": 0.0,
+    "wins": 0,
+    "constructor_id": "vanwall",
+    "constructor": "Vanwall",
+    "constructor_nationality": "British",
+    "constructor_url": "https://en.wikipedia.org/wiki/Vanwall"
+  }
+]

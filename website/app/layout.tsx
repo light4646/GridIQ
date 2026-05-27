@@ -4,8 +4,34 @@ import "./globals.css";
 
 const siteName = "GridIQ";
 const siteDescription =
-  "Formula 1 stats and race intelligence platform with historical seasons, records, standings, race winners, FastF1 event analytics, lap traces, tyre strategy, and driver comparisons.";
+  "Formula 1 statistics and race intelligence platform. Browse every F1 season from 1950 to 2026, world champions, driver records, constructor standings, race winners, lap traces, and deep race analytics.";
 const siteUrl = "https://gridiq-live.vercel.app";
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": `${siteUrl}/#website`,
+      url: siteUrl,
+      name: "GridIQ",
+      description: siteDescription,
+      potentialAction: {
+        "@type": "SearchAction",
+        target: { "@type": "EntryPoint", urlTemplate: `${siteUrl}/drivers?q={search_term_string}` },
+        "query-input": "required name=search_term_string",
+      },
+    },
+    {
+      "@type": "Organization",
+      "@id": `${siteUrl}/#organization`,
+      name: "GridIQ",
+      url: siteUrl,
+      description: "Independent Formula 1 statistics, race analytics, and historical records platform.",
+      foundingDate: "2024",
+    },
+  ],
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -16,19 +42,22 @@ export const metadata: Metadata = {
   },
   description: siteDescription,
   keywords: [
-    "Formula 1 analytics",
-    "F1 analytics",
+    "Formula 1 statistics",
     "F1 stats",
+    "F1 season history",
     "Formula 1 records",
-    "F1 seasons",
-    "F1 standings",
-    "FastF1",
-    "race pace",
-    "F1 telemetry",
-    "driver comparison",
-    "tyre strategy",
-    "pit stop strategy",
+    "F1 world champions",
+    "F1 driver standings",
+    "F1 constructor standings",
+    "Formula 1 race results",
+    "F1 analytics",
+    "FastF1 race analytics",
+    "race pace analysis",
+    "F1 lap times",
+    "tyre strategy F1",
     "qualifying vs race pace",
+    "F1 historical data",
+    "Formula 1 1950 to 2026",
   ],
   authors: [{ name: "Nour Zaki" }],
   creator: "Nour Zaki",
@@ -80,6 +109,10 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1074761349548277"
           crossOrigin="anonymous"
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
       </head>
       <body>
         <header className="siteNav">
@@ -88,11 +121,11 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           </Link>
           <nav className="siteNavLinks" aria-label="Main navigation">
             <Link href="/seasons">Seasons</Link>
+            <Link href="/champions">Champions</Link>
             <Link href="/records">Records</Link>
             <Link href="/drivers">Drivers</Link>
             <Link href="/constructors">Constructors</Link>
             <Link href="/compare">Compare</Link>
-            <Link href="/explore">Explorer</Link>
             <Link href="/events">Race Analytics</Link>
           </nav>
         </header>
