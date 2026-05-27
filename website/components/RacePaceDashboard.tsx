@@ -6,6 +6,7 @@ import Link from "next/link";
 import { EventExplorer } from "@/components/EventExplorer";
 import { formatGap, formatLap } from "@/lib/f1-utils";
 import type { DriverLapTrace, EventOption, PitStopSummary, QualifyingRaceComparison, RacePaceRow, RaceSummary, StintSummary, TyreUsageSummary } from "@/lib/types";
+import type { FinalClassification } from "@/lib/static-data";
 
 type Props = {
   event: EventOption;
@@ -18,6 +19,7 @@ type Props = {
   tyreUsage: TyreUsageSummary[];
   qualifyingComparison: QualifyingRaceComparison[];
   strategies?: unknown[];
+  finalClassification?: FinalClassification | null;
 };
 
 function compoundClass(compound: string): string {
@@ -40,25 +42,13 @@ function defaultCompareHref(pace: RacePaceRow[]) {
   return "/compare?driverA=lewis-hamilton&driverB=max-verstappen";
 }
 
-function finalClassificationWinner(event: EventOption) {
-  if (event.id === "2024-monza-race") {
-    return {
-      code: "LEC",
-      name: "Charles Leclerc",
-      team: "Ferrari",
-      href: "/drivers/lec",
-    };
+function legacyFinalClassificationWinner(eventId: string) {
+  if (eventId === "2024-monza-race") {
+    return { code: "LEC", name: "Charles Leclerc", team: "Ferrari", href: "/drivers/lec" };
   }
-
-  if (event.id === "2024-silverstone-race") {
-    return {
-      code: "HAM",
-      name: "Lewis Hamilton",
-      team: "Mercedes",
-      href: "/drivers/ham",
-    };
+  if (eventId === "2024-silverstone-race") {
+    return { code: "HAM", name: "Lewis Hamilton", team: "Mercedes", href: "/drivers/ham" };
   }
-
   return null;
 }
 
@@ -192,7 +182,7 @@ function CopyableInsightCard({ event, card }: { event: EventOption; card: Intell
   );
 }
 
-export function RacePaceDashboard({ event, pace, summary, events, stints, lapTraces, pitStops, tyreUsage, qualifyingComparison }: Props) {
+export function RacePaceDashboard({ event, pace, summary, events, stints, lapTraces, pitStops, tyreUsage, qualifyingComparison, finalClassification }: Props) {
   const fastestAverage = pace[0]?.average_lap_seconds ?? 0;
   const slowestAverage = pace.at(-1)?.average_lap_seconds ?? fastestAverage;
   const spread = Math.max(slowestAverage - fastestAverage, 0.001);
@@ -215,7 +205,10 @@ export function RacePaceDashboard({ event, pace, summary, events, stints, lapTra
   const bestStint = stints[0];
   const mostUsedTyre = [...tyreUsage].sort((a, b) => b.laps - a.laps)[0];
   const compareHref = defaultCompareHref(pace);
-  const raceWinner = finalClassificationWinner(event);
+  const dynamicWinner = finalClassification
+    ? { code: finalClassification.winnerCode, name: finalClassification.winnerName, team: finalClassification.team, href: finalClassification.href }
+    : null;
+  const raceWinner = dynamicWinner ?? legacyFinalClassificationWinner(event.id);
   const eventsByYear = groupEventsByYear(events);
   const sortedEventYears = Object.keys(eventsByYear)
     .map(Number)

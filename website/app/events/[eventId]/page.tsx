@@ -1,8 +1,8 @@
 import { notFound } from "next/navigation";
 
 import { RacePaceDashboard } from "@/components/RacePaceDashboard";
-import { getDriverLapTracesByEvent, getPitStopsByEvent, getStintSummariesByEvent, getTyreUsageByEvent } from "@/lib/laps";
-import { EVENT_OPTIONS, getEventById, getQualifyingRaceComparisonByEvent, getRacePaceByEvent, getRaceSummaryByEvent } from "@/lib/static-data";
+import { getPitStopsByEvent, getStintSummariesByEvent, getTyreUsageByEvent } from "@/lib/laps";
+import { EVENT_OPTIONS, getEventById, getFinalClassificationByEvent, getLapTracesByEvent, getQualifyingRaceComparisonByEvent, getRacePaceByEvent, getRaceSummaryByEvent } from "@/lib/static-data";
 import { getStrategyTimelineByEvent } from "@/lib/strategy";
 
 type Props = {
@@ -34,11 +34,12 @@ export default async function EventRacePacePage({ params }: Props) {
   const pace = getRacePaceByEvent(event.id);
   const summary = getRaceSummaryByEvent(event.id);
   const stints = getStintSummariesByEvent(event.id);
-  const lapTraces = getDriverLapTracesByEvent(event.id, 20);
+  const lapTraces = getLapTracesByEvent(event.id);
   const pitStops = getPitStopsByEvent(event.id);
   const tyreUsage = getTyreUsageByEvent(event.id);
   const qualifyingComparison = getQualifyingRaceComparisonByEvent(event.id);
   const strategies = getStrategyTimelineByEvent(event.id);
+  const finalClassification = getFinalClassificationByEvent(event.id);
 
   return (
     <RacePaceDashboard
@@ -52,6 +53,7 @@ export default async function EventRacePacePage({ params }: Props) {
       tyreUsage={tyreUsage}
       qualifyingComparison={qualifyingComparison}
       strategies={strategies}
+      finalClassification={finalClassification}
     />
   );
 }

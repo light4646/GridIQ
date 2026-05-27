@@ -85,6 +85,20 @@ QUALIFYING_COLUMNS = [
     "Q3",
 ]
 
+RESULTS_COLUMNS = [
+    "Abbreviation",
+    "DriverNumber",
+    "BroadcastName",
+    "FullName",
+    "TeamName",
+    "Position",
+    "ClassifiedPosition",
+    "GridPosition",
+    "Status",
+    "Time",
+    "Points",
+]
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build processed FastF1 event datasets.")
@@ -96,6 +110,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--end-year", type=int, help="Last season year for --all-races")
     parser.add_argument("--through-date", type=str, help="Only build events on or before this YYYY-MM-DD date")
     parser.add_argument("--skip-existing", action="store_true", help="Skip events whose metadata.json already exists")
+    parser.add_argument("--results-only", action="store_true", help="Backfill results.json for existing built events without re-processing laps")
     return parser.parse_args()
 
 
@@ -360,6 +375,37 @@ def calculate_pit_stops(laps: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame(stops).sort_values(["pitInLap", "Driver"]).reset_index(drop=True)
 
 
+def prepare_race_results(session: fastf1.core.Session) -> pd.DataFrame:
+    try:
+        results = session.results.copy()
+    except Exception:
+        return pd.DataFrame()
+
+    available_columns = [column for column in RESULTS_COLUMNS if column in results.columns]
+    race_results = results[available_columns].copy()
+
+    race_results = race_results.rename(
+        columns={
+            "Abbreviation": "Driver",
+            "TeamName": "Team",
+            "Position": "Position",
+            "ClassifiedPosition": "ClassifiedPosition",
+            "GridPosition": "GridPosition",
+            "Status": "Status",
+            "Time": "Time",
+            "Points": "Points",
+        }
+    )
+
+    if "Time" in race_results.columns:
+        race_results["TimeSeconds"] = race_results["Time"].apply(timedelta_to_seconds)
+
+    if "Position" in race_results.columns:
+        race_results = race_results.sort_values("Position", na_position="last")
+
+    return race_results.reset_index(drop=True)
+
+
 def prepare_qualifying_results(session: fastf1.core.Session) -> pd.DataFrame:
     results = session.results.copy()
     available_columns = [column for column in QUALIFYING_COLUMNS if column in results.columns]
@@ -477,17 +523,21 @@ def build_one_event_dataset(year: int, event: str, session_input: str, skip_exis
             stints = calculate_stints(clean_laps)
             pit_stops = calculate_pit_stops(laps)
             tyre_usage = calculate_tyre_usage(clean_laps)
+            race_results = prepare_race_results(loaded_session)
 
             export_json_csv(pace, out_dir / "pace.csv", out_dir / "pace.json")
             export_json_csv(stints, out_dir / "stints.csv", out_dir / "stints.json")
             export_json_csv(pit_stops, out_dir / "pit_stops.csv", out_dir / "pit_stops.json")
             export_json_csv(tyre_usage, out_dir / "tyre_usage.csv", out_dir / "tyre_usage.json")
+            if not race_results.empty:
+                export_json_csv(race_results, out_dir / "results.csv", out_dir / "results.json")
 
             metadata["rows_clean_laps"] = int(len(clean_laps))
             metadata["rows_pace"] = int(len(pace))
             metadata["rows_stints"] = int(len(stints))
             metadata["rows_pit_stops"] = int(len(pit_stops))
             metadata["rows_tyre_usage"] = int(len(tyre_usage))
+            metadata["rows_results"] = int(len(race_results))
 
     elif session_slug == "qualifying":
         qualifying = prepare_qualifying_results(loaded_session)
@@ -584,8 +634,78 @@ def build_all_races(args: argparse.Namespace) -> None:
     print(f"Manifest: {manifest_path}")
 
 
+def backfill_results(args: argparse.Namespace) -> None:
+    """Load results.json for every existing built event that is missing it."""
+    if args.start_year is None or args.end_year is None:
+        raise ValueError("--results-only requires --start-year and --end-year")
+
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    fastf1.Cache.enable_cache(str(CACHE_DIR))
+
+    ok = 0
+    skipped = 0
+    failed_list: list[str] = []
+
+    for year in range(args.start_year, args.end_year + 1):
+        year_dir = OUTPUT_DIR / "events" / str(year)
+        if not year_dir.exists():
+            continue
+
+        for event_dir in sorted(year_dir.iterdir()):
+            if not event_dir.is_dir():
+                continue
+            for session_dir in sorted(event_dir.iterdir()):
+                if not session_dir.is_dir():
+                    continue
+                metadata_path = session_dir / "metadata.json"
+                results_path = session_dir / "results.json"
+                if not metadata_path.exists():
+                    continue
+                if results_path.exists():
+                    print(f"Skipping (results already exist): {session_dir}")
+                    skipped += 1
+                    continue
+
+                try:
+                    meta = json.loads(metadata_path.read_text(encoding="utf-8"))
+                    session_slug = meta.get("session_slug", "")
+                    if session_slug not in {"race", "sprint"}:
+                        skipped += 1
+                        continue
+
+                    event_input = meta.get("event_input") or meta.get("event_name", "")
+                    session_code = FASTF1_SESSION_ALIASES.get(session_slug, "R")
+
+                    print(f"Loading results: {year} {event_input} {session_code}")
+                    loaded_session = fastf1.get_session(year, event_input, session_code)
+                    loaded_session.load(laps=False, telemetry=False, weather=False, messages=False)
+
+                    race_results = prepare_race_results(loaded_session)
+                    if not race_results.empty:
+                        export_json_csv(race_results, session_dir / "results.csv", results_path)
+                        meta["rows_results"] = int(len(race_results))
+                        metadata_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
+                        print(f"  Saved {len(race_results)} result rows → {results_path}")
+                        ok += 1
+                    else:
+                        print(f"  No results data available for {year} {event_input}")
+                        skipped += 1
+                except Exception as exc:
+                    print(f"FAILED: {session_dir}: {exc}")
+                    failed_list.append(str(session_dir))
+
+    print(f"\nResults backfill done: ok={ok}, skipped={skipped}, failed={len(failed_list)}")
+    if failed_list:
+        for path in failed_list:
+            print(f"  FAILED: {path}")
+
+
 def main() -> None:
     args = parse_args()
+
+    if args.results_only:
+        backfill_results(args)
+        return
 
     if args.all_races:
         build_all_races(args)

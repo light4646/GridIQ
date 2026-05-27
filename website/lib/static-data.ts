@@ -53,6 +53,28 @@ type GeneratedPaceRow = {
   gap_to_best_avg_seconds?: number;
 };
 
+type GeneratedLapRow = {
+  Driver?: string;
+  Team?: string;
+  LapNumber?: number;
+  LapTimeSeconds?: number;
+  Compound?: string;
+  PitOutTime?: string | null;
+  PitInTime?: string | null;
+};
+
+type GeneratedResultsRow = {
+  Driver?: string;
+  FullName?: string;
+  BroadcastName?: string;
+  Team?: string;
+  Position?: number | string | null;
+  ClassifiedPosition?: number | string | null;
+  GridPosition?: number | string | null;
+  Status?: string | null;
+  Points?: number | null;
+};
+
 const GENERATED_EVENTS_ROOT = path.join(process.cwd(), "public", "data", "events");
 const GENERATED_EVENTS_MANIFEST = path.join(GENERATED_EVENTS_ROOT, "manifest.json");
 
@@ -197,6 +219,46 @@ function getGeneratedRacePaceByEvent(eventId: string): RacePaceRow[] {
   return (rows ?? []).map(mapGeneratedPaceRow);
 }
 
+function getGeneratedLapTracesByEvent(eventId: string) {
+  const item = getGeneratedEventItemById(eventId);
+  if (!item) return [];
+
+  const rows = readJsonFile<GeneratedLapRow[]>(path.join(generatedEventDirectory(item), "laps.json"));
+  if (!rows || rows.length === 0) return [];
+
+  const traces = new Map<string, { driver: string; team: string; laps: { lap: number; seconds: number; compound: string }[] }>();
+
+  for (const row of rows) {
+    if (!row.Driver || typeof row.LapNumber !== "number" || typeof row.LapTimeSeconds !== "number") continue;
+    if (row.LapTimeSeconds <= 0) continue;
+    if (row.PitInTime || row.PitOutTime) continue;
+
+    const driver = row.Driver;
+    const existing = traces.get(driver) ?? {
+      driver,
+      team: row.Team ?? "—",
+      laps: [],
+    };
+
+    existing.laps.push({
+      lap: row.LapNumber,
+      seconds: row.LapTimeSeconds,
+      compound: row.Compound ?? "UNKNOWN",
+    });
+
+    traces.set(driver, existing);
+  }
+
+  return [...traces.values()]
+    .map((trace) => ({
+      ...trace,
+      eventId,
+      laps: trace.laps.sort((a, b) => a.lap - b.lap),
+    }))
+    .filter((trace) => trace.laps.length > 0)
+    .sort((a, b) => a.driver.localeCompare(b.driver));
+}
+
 function getGeneratedRaceSummaryByEvent(eventId: string): RaceSummary | null {
   const item = getGeneratedEventItemById(eventId);
   if (!item) return null;
@@ -238,6 +300,49 @@ export function getRacePaceByEvent(eventId: string): RacePaceRow[] {
 
 export function getRaceSummaryByEvent(eventId: string): RaceSummary | null {
   return getGeneratedRaceSummaryByEvent(eventId) ?? LEGACY_SUMMARY_BY_EVENT[eventId] ?? null;
+}
+
+export function getLapTracesByEvent(eventId: string) {
+  return getGeneratedLapTracesByEvent(eventId);
+}
+
+export type FinalClassification = {
+  winnerCode: string;
+  winnerName: string;
+  team: string;
+  position: number;
+  href: string;
+};
+
+function getGeneratedFinalClassificationByEvent(eventId: string): FinalClassification | null {
+  const item = getGeneratedEventItemById(eventId);
+  if (!item) return null;
+
+  const rows = readJsonFile<GeneratedResultsRow[]>(path.join(generatedEventDirectory(item), "results.json"));
+  if (!rows || rows.length === 0) return null;
+
+  const winner = rows.find((row) => {
+    const pos = row.ClassifiedPosition ?? row.Position;
+    return String(pos) === "1" || Number(pos) === 1;
+  }) ?? rows[0];
+
+  if (!winner?.Driver) return null;
+
+  const code = winner.Driver;
+  const name = winner.FullName ?? winner.BroadcastName ?? code;
+  const team = winner.Team ?? "—";
+
+  return {
+    winnerCode: code,
+    winnerName: name,
+    team,
+    position: 1,
+    href: `/drivers/${code.toLowerCase()}`,
+  };
+}
+
+export function getFinalClassificationByEvent(eventId: string): FinalClassification | null {
+  return getGeneratedFinalClassificationByEvent(eventId);
 }
 
 export function getQualifyingByEvent(eventId: string): QualifyingRow[] {

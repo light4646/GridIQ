@@ -44,6 +44,11 @@ const researchLinks = [
 
 const eventLinks = [
   {
+    href: "/events",
+    title: "Race Analytics hub",
+    description: "Browse all generated FastF1 race dashboards grouped by season — pace, stints, tyre usage, lap traces, and race intelligence.",
+  },
+  {
     href: "/events/2024-monza-race",
     title: "Monza 2024",
     description: "Italian GP race intelligence with pace rankings, stints, tyre usage, and strategy windows.",
@@ -218,8 +223,8 @@ export default function ExplorePage() {
               </tr>
               <tr>
                 <td>What happened inside a specific race?</td>
-                <td><Link className="tableLink" href="/events/2024-monza-race">Race Analytics</Link></td>
-                <td>Deep event dashboards show pace, stints, pit windows, tyre mix, and lap traces.</td>
+                <td><Link className="tableLink" href="/events">Race Analytics</Link></td>
+                <td>Deep event dashboards show pace, stints, pit windows, tyre mix, and lap traces. Browse all 75+ races in the Race Analytics hub.</td>
               </tr>
             </tbody>
           </table>
