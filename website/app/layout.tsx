@@ -104,6 +104,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="en">
       <head>
+        <meta name="impact-site-verification" content="ff75fde5-b480-461c-b0e5-f6ff1f5937a6" />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1074761349548277"
